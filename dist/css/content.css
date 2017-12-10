@@ -1,0 +1,6 @@
+/* styles to be injected into content page */
+
+.edmo-person {
+  text-decoration: blue wavy underline;
+  cursor:pointer;
+}

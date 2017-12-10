@@ -1,0 +1,32 @@
+{
+  "name": "Edmodo Hack Day 2017",
+  "short_name":"EdmoHack",
+  "manifest_version":2,
+  "version": "0.0.0.1",
+  "description": "Archive of primary sources",
+  "icons": { "16": "images/ico-selected.png", "48": "images/ico-selected.png", "128": "images/ico-selected.png" },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [{
+    "matches":["<all_urls>"],
+    "js": ["content_context.js"]
+  }],
+  "permissions": [
+    "notifications",
+    "cookies",
+    "tabs",
+    "https://*.edmodo.com/*"
+  ],
+  "browser_action": {
+    "default_title": "Edmodo Primary Document Search",
+    "default_icon": "images/ico-selected.png",
+    "default_popup": "index.html"
+  },
+  "web_accessible_resources":[
+    "js/*.js",
+    "css/*.css",
+    "images/*.png"
+  ],
+  "content_security_policy": "script-src 'self' https://www.youtube.com/iframe_api https://s.ytimg.com/yts/jsbin/; object-src 'self'"
+}

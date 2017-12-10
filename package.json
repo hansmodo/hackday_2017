@@ -1,0 +1,30 @@
+{
+  "name": "hackday_2017",
+  "version": "1.0.0",
+  "description": "Edmodo Hack day 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run webpack",
+    "webpack": "webpack --watch"
+  },
+  "keywords": [
+    "edmodo",
+    "hackdy",
+    "chrome",
+    "extension"
+  ],
+  "author": "hans brough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansmodo/hackday_2017/issues"
+  },
+  "homepage": "https://github.com/hansmodo/hackday_2017#readme",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^1.0.1",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "json-patch": "^0.7.0"
+  }
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hackday 2017</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="/css/popup.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="edmo-plugin">
+        <header><h1 class="large plugin-title">Share with your class or group</h1></header>
+        <p class="dismiss-control plugin"></p>
+        <div class="left-col">
+          <ul class="medium user-groups"></ul>
+          <div class="note entry">
+            <textarea rows="5" class="medium note-input" type="text" data-type="note" id="msg_note" placeholder="Type your note here..."></textarea>
+          </div>
+        </div>
+
+        <div class="right-col">
+          <div class="imgs-container">
+            <div class="hero-img"></div>
+            <div class="img-tray">
+              <div class="img-tray-header">
+                <span class="dismiss-control images"></span><h1 class="img-tray-title large">Select an image</h1>
+              </div>
+              <div class="img-tray-body"></div>
+            </div>
+          </div>
+
+          <div class="title entry">
+            <input class="medium title-input" type="text" data-type="title" id="page_title" placeholder="Enter a title">
+          </div>
+
+          <div class="keywords entry">
+            <textarea rows="2" class="medium keywords-input" type="text" data-type="keywords" id="keywords" placeholder="Enter a description"></textarea>
+          </div>
+        </div>
+
+        <div class="plugin controls">
+          <button class="medium share cta btn" disabled="true">Share</button>
+          <button class="medium cancel btn">Cancel</button>
+        </div>
+
+      </div>
+
+      <div class="screen save-confirm">
+
+      </div>
+
+      <div class="screen share-confirm">
+        <p class="dismiss-control share-confirm"></p>
+        <div class="share-confirm-body">
+          <div class="confirm-hero-img"></div>
+
+          <div class="confirm-msg"></div>
+
+          <div class="confirm controls">
+            <button class="medium view-post cta btn">View Post</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="screen login-prompt"></div>
+
+      <div class="screen reload-prompt"></div>
+
+    </div>
+    <script type="text/javascript" src="js/archive_bundle.js"></script>
+  </body>
+</html>
