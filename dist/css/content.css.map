@@ -1,0 +1,1 @@
+{"version":3,"sources":["content.scss"],"names":[],"mappings":"AAEA,aACE,gBAAiB,KAAA,KAAA,UACjB,OAAO","file":"content.css","sourcesContent":["/* styles to be injected into content page */\n\n.edmo-person {\n  text-decoration: blue wavy underline;\n  cursor:pointer;\n}\n"]}

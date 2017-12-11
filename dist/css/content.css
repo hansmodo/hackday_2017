@@ -1,6 +1,2 @@
-/* styles to be injected into content page */
-
-.edmo-person {
-  text-decoration: blue wavy underline;
-  cursor:pointer;
-}
+.edmo-person{text-decoration:#00f wavy underline;cursor:pointer}
+/*# sourceMappingURL=content.css.map */

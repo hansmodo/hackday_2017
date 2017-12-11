@@ -1,0 +1,60 @@
+//--basic mixins--//
+@mixin transition($args) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin appearance($args){
+  -webkit-appearance: $args;
+  -moz-appearance:$args;
+  appearance: $args;
+}
+
+@mixin transform($args) {
+  -webkit-transform: $args;
+  -moz-transform: $args;
+  -ms-transform: $args;
+  -o-transform: $args;
+  transform: $args;
+}
+
+@mixin placeholder {
+  &::-webkit-input-placeholder {@content}
+  &:-moz-placeholder           {@content}
+  &::-moz-placeholder          {@content}
+  &:-ms-input-placeholder      {@content}
+}
+
+//fonts
+
+@mixin font-small(){
+  font-size:12px;
+}
+@mixin font-medium(){
+  font-size:14px;
+}
+@mixin font-large(){
+  font-size:18px;
+}
+@mixin font-x-large(){
+  font-size:24px;
+}
+
+@mixin font-thick(){
+  font-weight:700;
+}
+@mixin font-heavy(){
+  font-weight:500;
+}
+@mixin font-normal(){
+  font-weight:400;
+}
+@mixin font-narrow(){
+  font-weight:300;
+}
+@mixin font-thin(){
+  font-weight:200;
+}

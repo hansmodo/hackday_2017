@@ -1,0 +1,600 @@
+@import 'mixins/_basic';
+@import 'partials/_vars';
+@import 'partials/_transitions';
+@import 'partials/_font';
+
+
+q {
+  quotes: '\201c' '\201d';
+  &:before { content: open-quote; }
+  &:after  { content: close-quote; }
+}
+
+/* app specific */
+body, input, textarea {
+  font-family: $fontFamily;
+  position: relative;
+  font-weight: normal;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.edmo-plugin {
+  margin:$gutter;
+  margin-bottom:0;
+  min-height: 400px;
+  position: relative;
+  width: 600px;
+
+  header {
+    margin-bottom: 20px;
+  }
+}
+
+.dismiss-control {
+  position: absolute;
+  top:-4px;
+  right:0;
+  z-index:2;
+
+  &:after {
+    background:url('/images/ico-close-x.png') no-repeat center;
+    background-size: 16px 16px;
+    height: 16px;
+    content:' ';
+    cursor: pointer;
+    padding:8px;
+  }
+
+  &.images {
+    top:5px;
+    right:auto;
+    left:0;
+
+    &:after {
+      background:url('/images/ico-back.png') no-repeat center;
+      background-size: contain;
+    }
+  }
+}
+
+.plugin-title {
+  color: $dark-gray;
+}
+
+/* left-col */
+.left-col {
+  float:left;
+  height:100%;
+  width:220px;
+}
+
+.imgs-container {
+  margin: 0 0 15px 0;
+}
+
+.hero-img {
+  background:$img-bg-color;
+  border-radius: 8px;
+  position: relative;
+  text-align: center;
+
+  .thumbnail {
+    display: inline-block;
+    cursor:default;
+    max-width:260px;
+  }
+
+  .img-tray-cell {
+    cursor:default;
+    margin:0;
+    padding:0;
+    float:none;
+    width:100%;
+
+    &.large-image {
+      background: none;
+    }
+  }
+
+  .with-change-control {
+    background:$dark-gray;
+    border-radius:3px;
+    color:#fff;
+    cursor:pointer;
+    opacity:.8;
+    padding:5px 7px;
+    position:absolute;
+    right:12px;
+    bottom:0;
+    z-index:2;
+  }
+}
+
+.img-tray {
+  background: #fff;
+  display: none;
+  position: absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  height: 100%;
+  width: 100%;
+  z-index:2;
+
+  &.active {
+    display: block;
+  }
+}
+
+.img-tray-header {
+  position: relative;
+}
+.img-tray-title {
+  margin-left:25px;
+}
+.img-tray-body {
+  max-height: 420px;
+  overflow: auto;
+}
+.img-tray-cell {
+  background:$img-bg-color;
+  border-radius: 8px;
+  cursor: pointer;
+  float: left;
+  margin: 10px;
+  padding: 0px;
+  position: relative;
+  text-align: center;
+  height: 180px;
+  width: 180px;
+
+  img {
+    display: inline-block;
+    margin:0;
+    max-width: 160px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .controls {
+    opacity: 0;
+    background:url(/images/ico-selected.png) no-repeat center;
+    background-size: contain;
+    padding:15px;
+    position: absolute;
+    right: 16px;
+    bottom: 0;
+    z-index: 1;
+  }
+}
+
+.selected.img-tray-cell .controls {
+  border-top: none;
+  transition: opacity .2s ease;
+  opacity: 1;
+}
+
+.default-title-img-container {
+  background: $default-blue;
+  border-radius: 6px;
+  color:#fff;
+  min-height:150px;
+  padding:15px;
+  //width:260px;
+
+  .img-url {
+    word-wrap: break-word;
+  }
+}
+
+.thumbnail {
+  cursor:pointer;
+  display:block;
+  margin-top:10px;
+  max-height:160px;
+  max-width:200px;
+  border-radius: 8px;
+}
+
+.entry {
+  margin-bottom: 15px;
+
+  label {
+    cursor:pointer;
+    line-height: 24px;
+  }
+
+  input, textarea {
+    border: 2px solid $light-gray;
+    border-radius: 3px;
+    padding: 10px;
+    width: 240px;
+    resize: none;
+  }
+
+  &.note {
+    margin-top: 10px;
+
+    textarea {
+      transition: opacity .2s ease;
+      width:290px;
+
+      &[disabled] {
+        opacity:0;
+      }
+    }
+  }
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: $med-gray
+}
+
+input:focus, textarea:focus {
+  outline: 1px solid $highlight-blue;
+  border-radius: 3px;
+}
+
+.title-input {
+  color: $dark-gray;
+}
+
+.keywords-input {
+  color: $dark-gray;
+  overflow: auto;
+  text-resize: none;
+  max-width: 240px;
+  max-height: 32px;
+}
+
+/* right-col */
+.right-col {
+  float:right;
+  margin:0 0 0 $gutter;
+  height:100%;
+  width:360px;
+}
+
+.user-groups {
+  border: 2px solid $light-gray;
+  border-radius: 6px;
+  height:286px;
+  overflow:auto;
+  padding:4px 0 0 0;
+  margin: 0 5px 0 0;
+
+  li {
+    list-style-type: none;
+  }
+
+  .groups-sub-title {
+    border-bottom: 1px solid $light-gray;
+    color:$med-gray;
+    padding-left: 10px;
+  }
+
+}
+
+.group {
+  //border-radius:3px;
+  padding: 10px;
+  -webkit-transition: background-color .5s ease-in-out;
+  -moz-transition: background-color .5s ease-in-out;
+  -o-transition: background-color .5s ease-in-out;
+  transition: background-color .5s ease-in-out;
+
+  &:hover {
+    background: $light-gray;
+    cursor: pointer;
+  }
+
+  &.selected,
+  &.selected:hover {
+    background:$highlight-blue;
+    color:#fff;
+  }
+}
+
+/* create folder */
+.add-folder-btn {
+  background: url('/images/ico-plus.png') no-repeat left center;
+  background-size: 16px 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  padding:0 0 0 20px;
+  color: $med-gray;
+  -webkit-transition: background-color .5s ease-out;
+  -moz-transition: background-color .5s ease-out;
+  -o-transition: background-color .5s ease-out;
+  transition: background-color .5s ease-out;
+  height: 16px;
+
+  &:hover {
+    color: $dark-gray;
+  }
+}
+
+.add-folder-form {
+  position: relative;
+  top: 1px;
+}
+
+.add-folder-form,
+.active .add-folder-btn {
+  display:none;
+}
+
+.active {
+  .add-folder-form {
+    display: block;
+  }
+}
+
+.new-folder-name {
+  border:1px solid $light-gray;
+  border-right:none;
+  border-radius: 3px 0 0 3px;
+  margin-left: 20px;
+  padding:5px 10px;
+  width: 164px;
+  height: 17px;
+}
+
+.save-folder-btn {
+  background: $med-light-gray;
+  border: 1px solid $light-gray;
+  border-radius: 0 3px 3px 0;
+  cursor:pointer;
+  padding:5px 10px;
+  margin-top:1px;
+  height: 29px;
+
+  &:disabled {
+    color:#AEAEAE;
+    cursor: default;
+  }
+}
+
+.cancel-folder-btn {
+  cursor:pointer;
+  position:absolute;
+  top: 6px;
+  height:16px;
+  width:16px;
+}
+
+/* plugin controls */
+.controls {
+  border-top:1px solid $light-gray;
+  clear:both;
+  margin-right: 5px;
+  overflow:hidden;
+  padding:15px 0 7px 10px;
+
+  .btn {
+    background: $med-light-gray;
+    border: 1px solid $light-gray;
+    border-radius: 3px;
+    color: $dark-gray;
+    cursor: pointer;
+    float: right;
+    margin-right: 12px;
+    padding: 8px 16px;
+    min-width: 80px;
+
+    &.cta {
+      background: $highlight-blue;
+      border: 1px solid $highlight-blue;
+      color:#fff;
+      margin-right: 0;
+    }
+
+    &[disabled]{
+      background: $med-light-gray;
+      border: 1px solid $light-gray;
+      color: $light-gray;
+      cursor: default;
+    }
+  }
+
+}
+
+/* screens general */
+.screen {
+  background: #fff;
+  display:none;
+  position: absolute;
+  top: 0;
+  right:0;
+  bottom:0;
+  left:0;
+
+  &.active {
+    display: block;
+  }
+}
+
+/* save item confirmation screen */
+.save-confirm, .share-confirm {
+  &.active {
+    z-index:2;
+  }
+}
+
+.confirm-hero-img {
+  margin-left: calc(50% - 30px);
+
+  .img-tray-cell {
+    float:none;
+    height:60px;
+    margin-left: 0;
+    width:60px;
+
+    .thumbnail {
+      max-width: 90%;
+    }
+  }
+}
+
+.share-confirm {
+  .share-confirm-body {
+    margin-top:40px;
+  }
+
+  .confirm-hero-img {
+    margin-left: calc(50% - 90px);
+
+    .img-tray-cell {
+      height:180px;
+      width:180px;
+
+      .thumbnail {
+        max-width: 60%;
+      }
+    }
+  }
+
+  .confirm.controls {
+    position:absolute;
+    bottom:0;
+    width:630px;
+  }
+}
+
+.confirm-body {
+  min-height: 340px;
+
+  .controls {
+    border-top: none;
+    border-bottom: 1px solid $light-gray;
+    margin-right:0;
+    padding:5px 0 25px 0;
+    text-align: center;
+
+    .cta {
+      float:none;
+    }
+  }
+}
+
+.confirm-msg {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.saved-item-title {
+  margin-bottom:10px;
+}
+
+.saved-item-msg {
+  margin-top:0;
+}
+
+/* login prompt screen */
+.logged-out .login-prompt {
+  display: block;
+  z-index:2;
+}
+.edmodo-icon {
+  display: block;
+  margin: $gutter auto 40px auto;
+}
+.login-title,
+.login-prompt .controls {
+  border:none;
+  color:$med-gray;
+  text-align: center;
+}
+.controls .login-control.btn.cta {
+  border-radius:6px;
+  float:none;
+  margin: $gutter inherit;
+  padding:16px 32px;
+}
+.prompt-msg {
+  text-align: center;
+}
+
+/* related content */
+.related-content-container {
+  margin-top: $gutter;
+  opacity: 0;
+
+  .title {
+    color: $med-gray;
+  }
+}
+
+.related-videos-container {
+  margin: $gutter 0;
+
+  .title{
+    color:$med-light-gray;
+    text-align: center;
+  }
+
+  div:last-child {
+    margin-right:0;
+  }
+}
+
+.related-video {
+  border: 1px solid $light-gray;
+  border-radius: 6px;
+  display: inline-block;
+  margin-right: 20px;
+  min-height:230px;
+  padding:0 5px;
+  position: relative;
+  vertical-align: top;
+  width: 170px;
+
+  &.selected {
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, .2)
+  }
+
+  &.saved .overlay{
+    display: block;
+  }
+
+  img, p {
+    width:100%;
+  }
+
+  img {
+    cursor: pointer;
+  }
+
+  a {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .controls {
+    margin-bottom:5px;
+    padding: 10px 0 5px 0;
+
+    .save-video {
+      margin-right: 10px;
+    }
+  }
+
+  .save-video, .dismiss-video {
+    display: inline-block;
+    min-width:auto;
+  }
+
+  .overlay {
+    background: $dark-gray url(/images/ico-selected.png) no-repeat center;
+    display: none;
+    opacity: .8;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+  }
+}

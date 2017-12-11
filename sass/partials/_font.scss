@@ -1,0 +1,40 @@
+//Common Font Properties
+
+//Size
+.small {
+  @include font-small();
+}
+.medium {
+  @include font-medium();
+}
+.large {
+  @include font-large();
+}
+.x-large {
+  @include font-x-large();
+}
+
+//weight
+.thin {
+  @include font-thin();
+}
+.narrow {
+  @include font-narrow();
+}
+.normal {
+  @include font-normal();
+}
+.heavy {
+  @include font-heavy();
+}
+.thick {
+  @include font-thick();
+}
+
+//color
+.on-dark-background {
+  color:#fff;
+}
+.on-light-background {
+  color:#333;
+}
