@@ -12,10 +12,24 @@ chrome.runtime.onMessage.addListener(
 
     if(request.content === 'parsed'){
       console.log('content has been parsed');
+      //find uniques
       let people = request.people.filter((person, index, self) => self.findIndex(t => t.name === person.name ) === index)
-      let peopleCntStr = people.length.toString();
-      console.log("people:",people);
-      chrome.browserAction.setBadgeBackgroundColor({ color: [255, 0, 0, 255] });
-      chrome.browserAction.setBadgeText({ text: peopleCntStr })
+      setBadge(people);
     }
 });
+
+/*
+* update status of icon badge based on results found after scanning page.
+*/
+let setBadge = function(peopleList){
+  if(peopleList.length > 0 ){
+    console.log("people found! ",peopleList);
+    chrome.browserAction.enable()
+    let peopleCntStr = peopleList.length.toString();
+    chrome.browserAction.setBadgeBackgroundColor({ color: [255, 0, 0, 255] });
+    chrome.browserAction.setBadgeText({ text: peopleCntStr })
+  }else{
+    chrome.browserAction.setBadgeText({ text: '' });
+    chrome.browserAction.disable()
+  }
+}

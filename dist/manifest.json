@@ -4,7 +4,7 @@
   "manifest_version":2,
   "version": "0.0.0.1",
   "description": "Archive of primary sources",
-  "icons": { "16": "images/ico-selected.png", "48": "images/ico-selected.png", "128": "images/ico-selected.png" },
+  "icons": { "16": "images/ico-edit.png", "48": "images/ico-edit.png", "128": "images/ico-edit.png" },
   "background": {
     "scripts": ["background.js"]
   },
@@ -20,7 +20,7 @@
   ],
   "browser_action": {
     "default_title": "Edmodo Primary Document Search",
-    "default_icon": "images/ico-selected.png",
+    "default_icon": "images/ico-edit.png",
     "default_popup": "index.html"
   },
   "web_accessible_resources":[
