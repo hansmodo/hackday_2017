@@ -60,8 +60,8 @@ chrome.windows.onFocusChanged.addListener(function(window) {
 //only app file imports db and runs searches.
 
 function getSubjectDocs(data){
-	console.log("getSubjectDocs:",data.subject.name)
-	let docs = DB.getByAuthor(data.subject.name);
+	console.log("getSubjectDocs:",data.subject)
+	let docs = DB.getByAuthor(data.subject);
 	//PubSub.publish('search:results:subject',docs);
 	Results.render(docs);
 }

@@ -35,7 +35,7 @@ function setModel(data=[]){
   // - either the first person's name found in title or default to first person
   dataObj.subject='';
   if(dataObj.title && dataObj.people.length){
-    dataObj.subject = dataObj.people[0];//set default
+    dataObj.subject = dataObj.people[0].name;//set default
     for(var i =0;i<dataObj.people.length;i++){
       let person = dataObj.people[i].name;
       //console.log("person:",person);

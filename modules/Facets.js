@@ -40,7 +40,7 @@ function renderFacets(data){
 
     fragment.appendChild( makeSubTitleNode('Authors') );
     uniqPeople.forEach((item) => {
-      fragment.appendChild( makeItemNode(item, {isSubject:(data.subject.name == item.name)}) );
+      fragment.appendChild( makeItemNode(item, {isSubject:(data.subject == item.name)}) );
     });
     fragment.appendChild( makeSubTitleNode('Recipients') );
     //todo: get unique list of recipients from all Authors
@@ -74,7 +74,7 @@ function updatePeopleSearchFld(val){
 function updateUI(data){
   //console.log("Facets render")
   renderFacets(data);
-  updatePeopleSearchFld(data.subject.name);
+  updatePeopleSearchFld(data.subject);
 }
 
 //listeners
