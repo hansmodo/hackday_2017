@@ -26,6 +26,27 @@ function setModel(data=[]){
       dataObj.imgs.unshift({src:thumbnail});
     }
   }
+  //find unique set of people
+  if(dataObj.people){
+    dataObj.people = dataObj.people.filter((person, index, self) => self.findIndex(t => t.name === person.name ) === index);
+  }
+
+  //find primary search term
+  // - either the first person's name found in title or default to first person
+  dataObj.subject='';
+  if(dataObj.title && dataObj.people.length){
+    dataObj.subject = dataObj.people[0];//set default
+    for(var i =0;i<dataObj.people.length;i++){
+      let person = dataObj.people[i].name;
+      console.log("person:",person);
+      if( dataObj.title.indexOf(person) > -1 ){
+        console.log('found subject');
+        dataObj.subject = person;
+        break;
+      }
+    }
+  }
+
 
   model = Object.assign(model, dataObj);
   //console.log("......model.imgs.length:",model.imgs.length);

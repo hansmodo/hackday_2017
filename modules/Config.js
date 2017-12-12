@@ -2,6 +2,16 @@
 
 let CSS = {
 PARENT        : 'scriptorium',
+FACETS        : 'facet-container',
+FACET_GRP     : 'facet-group',
+PPL_FACETS    : 'people',
+FACET         : 'facet-item',
+FACET_TITLE   : 'facet-title',
+PPL_SEARCH    : 'person-search-control',
+
+RESULTS       : 'results-container',
+RESULT        : 'result-item',
+
 FADE_IN       : 'fade-in',
 FADE_OUT      : 'fade-out',
 FROM_LEFT     : 'move-from-left',

@@ -98,7 +98,7 @@ console.log("db Biblio:",Biblio.sources);
 
 // Define a schema. and add subsequent version changes.
 db.version(1).stores({
-	media: 'id, media.date, media.city, media.source, author.lastName, recipient.lastName',
+	media: 'id, media.date, media.city, media.source, [author.firstName+author.lastName], recipient.lastName',
   source: '++id, locator, title'
 });
 
@@ -155,5 +155,24 @@ db.on("populate", function() {
 	});
 });
 
-console.log("db",db);
-export default db;
+// Open the database
+db.open().catch(function(error) {
+	alert('Uh oh : ' + error);
+});
+/*----- Convenience Methods for other modules -----*/
+/*
+* return promise, which in turn returns array of all docs for a given author
+*/
+function getDocsByAuthor(name){
+	console.log("DB.getByAuthor ",name);
+	let nameParts = name.split(' ');
+	let firstName = nameParts[0];
+	let lastName = nameParts[1];
+
+	return db.media.where({'author.firstName': firstName, 'author.lastName': lastName}).toArray();
+}
+
+
+export {
+	getDocsByAuthor as getByAuthor
+}

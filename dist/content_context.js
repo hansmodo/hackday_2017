@@ -164,10 +164,10 @@
 
 
   chrome.runtime.sendMessage({ 'content':'load' }, function(response) {
-    console.log("content load response",response);
+    //console.log("content load response",response);
     let peopleRegex = new RegExp(response.regex, 'gi');
     findTextInNode(document.body, peopleRegex, people);
-    console.log("people:",people);
+    //console.log("people:",people);
 
     chrome.runtime.sendMessage({'content':'parsed','people':people});
   });

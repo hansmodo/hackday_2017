@@ -14,43 +14,24 @@
         <div class="left-col">
 
           <div class="search-controls">
-
+            <input type="text" class="person-search-control" placeholder="Enter a name">
           </div>
+
           <div class="facet-container">
             <h2>Refine by</h2>
-            <ul>
-              <h3>Person</h3>
-              <li>All People</li>
-              <li></li>
-              <li></li>
-            </ul>
-            <ul>
-              <h3>Location</h3>
-              <li>All Locations</li>
-              <li></li>
-              <li></li>
-            </ul>
-            <ul>
-              <h3>Year</h3>
-              <li>All Years</li>
-              <li></li>
-              <li></li>
-            </ul>
+            <ul class="facet-group people"></ul>
+            <ul class="facet-group location"></ul>
+            <ul class="facet-group year"></ul>
+            <ul class="source-facet"></ul>
           </div>
         </div>
 
         <div class="right-col">
-          <div class="results-container">
+          <ul class="results-container">
 
-          </div>
+          </ul>
 
-          <div class="title entry">
-            <input class="medium title-input" type="text" data-type="title" id="page_title" placeholder="Enter a title">
-          </div>
 
-          <div class="keywords entry">
-            <textarea rows="2" class="medium keywords-input" type="text" data-type="keywords" id="keywords" placeholder="Enter a description"></textarea>
-          </div>
         </div>
 
         <div class="plugin controls">

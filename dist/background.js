@@ -11,7 +11,7 @@ chrome.runtime.onMessage.addListener(
     }
 
     if(request.content === 'parsed'){
-      console.log('content has been parsed');
+      //console.log('content has been parsed');
       //find uniques
       let people = request.people.filter((person, index, self) => self.findIndex(t => t.name === person.name ) === index)
       setBadge(people);
@@ -23,7 +23,7 @@ chrome.runtime.onMessage.addListener(
 */
 let setBadge = function(peopleList){
   if(peopleList.length > 0 ){
-    console.log("people found! ",peopleList);
+    //console.log("people found! ",peopleList);
     chrome.browserAction.enable()
     let peopleCntStr = peopleList.length.toString();
     chrome.browserAction.setBadgeBackgroundColor({ color: [255, 0, 0, 255] });

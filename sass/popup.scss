@@ -4,12 +4,6 @@
 @import 'partials/_font';
 
 
-q {
-  quotes: '\201c' '\201d';
-  &:before { content: open-quote; }
-  &:after  { content: close-quote; }
-}
-
 /* app specific */
 body, input, textarea {
   font-family: $fontFamily;
@@ -73,102 +67,9 @@ body, input, textarea {
   margin: 0 0 15px 0;
 }
 
-.hero-img {
-  background:$img-bg-color;
-  border-radius: 8px;
-  position: relative;
-  text-align: center;
-
-  .thumbnail {
-    display: inline-block;
-    cursor:default;
-    max-width:260px;
-  }
-
-  .img-tray-cell {
-    cursor:default;
-    margin:0;
-    padding:0;
-    float:none;
-    width:100%;
-
-    &.large-image {
-      background: none;
-    }
-  }
-
-  .with-change-control {
-    background:$dark-gray;
-    border-radius:3px;
-    color:#fff;
-    cursor:pointer;
-    opacity:.8;
-    padding:5px 7px;
-    position:absolute;
-    right:12px;
-    bottom:0;
-    z-index:2;
-  }
-}
-
-.img-tray {
-  background: #fff;
-  display: none;
-  position: absolute;
-  top:0;
-  bottom:0;
-  left:0;
-  right:0;
-  height: 100%;
-  width: 100%;
-  z-index:2;
-
-  &.active {
-    display: block;
-  }
-}
-
-.img-tray-header {
-  position: relative;
-}
-.img-tray-title {
-  margin-left:25px;
-}
-.img-tray-body {
-  max-height: 420px;
-  overflow: auto;
-}
-.img-tray-cell {
-  background:$img-bg-color;
-  border-radius: 8px;
-  cursor: pointer;
-  float: left;
-  margin: 10px;
-  padding: 0px;
-  position: relative;
-  text-align: center;
-  height: 180px;
-  width: 180px;
-
-  img {
-    display: inline-block;
-    margin:0;
-    max-width: 160px;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-
-  .controls {
-    opacity: 0;
-    background:url(/images/ico-selected.png) no-repeat center;
-    background-size: contain;
-    padding:15px;
-    position: absolute;
-    right: 16px;
-    bottom: 0;
-    z-index: 1;
-  }
+.facet-group {
+  padding:0;
+  list-style: none;
 }
 
 .selected.img-tray-cell .controls {
@@ -258,113 +159,18 @@ input:focus, textarea:focus {
   width:360px;
 }
 
-.user-groups {
-  border: 2px solid $light-gray;
-  border-radius: 6px;
-  height:286px;
+.results-container {
+  list-style: none;
+  height:440px;
   overflow:auto;
-  padding:4px 0 0 0;
-  margin: 0 5px 0 0;
-
-  li {
-    list-style-type: none;
-  }
-
-  .groups-sub-title {
-    border-bottom: 1px solid $light-gray;
-    color:$med-gray;
-    padding-left: 10px;
-  }
-
+  padding: 0;
 }
 
-.group {
-  //border-radius:3px;
-  padding: 10px;
-  -webkit-transition: background-color .5s ease-in-out;
-  -moz-transition: background-color .5s ease-in-out;
-  -o-transition: background-color .5s ease-in-out;
-  transition: background-color .5s ease-in-out;
-
-  &:hover {
-    background: $light-gray;
-    cursor: pointer;
-  }
-
-  &.selected,
-  &.selected:hover {
-    background:$highlight-blue;
-    color:#fff;
-  }
+.result-item {
+  border-bottom:1px solid $med-gray;
 }
 
-/* create folder */
-.add-folder-btn {
-  background: url('/images/ico-plus.png') no-repeat left center;
-  background-size: 16px 16px;
-  cursor: pointer;
-  margin-top: 20px;
-  padding:0 0 0 20px;
-  color: $med-gray;
-  -webkit-transition: background-color .5s ease-out;
-  -moz-transition: background-color .5s ease-out;
-  -o-transition: background-color .5s ease-out;
-  transition: background-color .5s ease-out;
-  height: 16px;
 
-  &:hover {
-    color: $dark-gray;
-  }
-}
-
-.add-folder-form {
-  position: relative;
-  top: 1px;
-}
-
-.add-folder-form,
-.active .add-folder-btn {
-  display:none;
-}
-
-.active {
-  .add-folder-form {
-    display: block;
-  }
-}
-
-.new-folder-name {
-  border:1px solid $light-gray;
-  border-right:none;
-  border-radius: 3px 0 0 3px;
-  margin-left: 20px;
-  padding:5px 10px;
-  width: 164px;
-  height: 17px;
-}
-
-.save-folder-btn {
-  background: $med-light-gray;
-  border: 1px solid $light-gray;
-  border-radius: 0 3px 3px 0;
-  cursor:pointer;
-  padding:5px 10px;
-  margin-top:1px;
-  height: 29px;
-
-  &:disabled {
-    color:#AEAEAE;
-    cursor: default;
-  }
-}
-
-.cancel-folder-btn {
-  cursor:pointer;
-  position:absolute;
-  top: 6px;
-  height:16px;
-  width:16px;
-}
 
 /* plugin controls */
 .controls {
