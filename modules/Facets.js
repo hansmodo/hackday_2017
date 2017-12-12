@@ -12,7 +12,7 @@ let parentNode = document.querySelector('.'+Conf.CSS.FACETS);
 * conditionally check the item by default.
 */
 function makeItemNode(item, options={}){
-  console.log("Facets.makeItemNode: ",item, options);
+  //console.log("Facets.makeItemNode: ",item, options);
   let uid = item.name.toLowerCase().replace(/\s/g,'') +'_'+ item.idx;
   let markup = `<li class="${Conf.CSS.FACET}"><label for="${uid}"><input type="checkbox" value="${item.name}" id="${uid}" ${options.isSubject ? 'checked':''}>${item.name}</label></li>`;
   return Util.vivify(markup);
@@ -63,7 +63,7 @@ function selectSubjectFacet(){
 * set search input value
 */
 function updatePeopleSearchFld(val){
-  console.log("updatePeopleSearchFld:",val);
+  //console.log("updatePeopleSearchFld:",val);
   let inputNode = document.querySelector('.'+Conf.CSS.PPL_SEARCH);
   inputNode.value = val;
 }
@@ -72,7 +72,7 @@ function updatePeopleSearchFld(val){
 * update all portions of search UI
 */
 function updateUI(data){
-  console.log("Facets render")
+  //console.log("Facets render")
   renderFacets(data);
   updatePeopleSearchFld(data.subject.name);
 }

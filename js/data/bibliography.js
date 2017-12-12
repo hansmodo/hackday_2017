@@ -80,7 +80,7 @@ const sources = [ {"locator":"http://www.litchfieldhistoricalsociety.org/index.p
   {"locator":"https://archive.org/details/lettersjamesrus08lowegoog","title":"Letters of James Russell Lowell, Vol. I, Harper & Brothers, 1894"},
   {"locator":"http://www.litchfieldhistoricalsociety.org/archon/?p=collections/findingaid&id=1&rootcontentid=1","title":"Benjamin Tallmadge collection, 1933-19-0, Litchfield Historical Society, Helga J. Ingraham Memorial Library, P.O. Box 385, 7 South Street, Litchfield, Connecticut, 06759"},
   {"locator":"https://archive.org/details/lettersofulysses00granrich","title":"Letters of Ulysses S. Grant to his father and his youngest sister, 1857-78"},
-  {"locator":"https://archive.org/details/correspondencec04corngoog","title":"Correspondence of Charles, first Marquis Cornwallis"},
+  {"locator":"https://archive.org/details/correspondencec04corngoog","title":"Correspondence of Charles, first Marquis Cornwallis, Vol I, Charles Ross, Esq., London, 1859"},
   {"locator":"https://archive.org/details/lifeofalexanderh01hami3","title":"The Life of Alexander Hamilton by His Son, JOHN C. HAMILTON, Vol. I., 1834"},
   {"locator":"https://archive.org/details/correspondenceb00jackgoog","title":"Correspondence between Gen. Andrew Jackson and John C. Calhoun, President and Vice-president of the U. States, on the subject of the course of the latter, in the deliberations of the cabinet of Mr. Monroe, on the occurences in the Seminole War"},
   {"locator":"https://archive.org/stream/generallewiscass01cass/generallewiscass01cass_djvu.txt","title":"General Lewis Cass, 1782-1866"},

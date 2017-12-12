@@ -64,7 +64,7 @@
   */
   function findTextInNode(node, regex, aggregator){
     //console.log("findTextInNode aggregator:",aggregator);
-    let nodeNameList = ['div','p','section','article'];
+    let nodeNameList = ['div','p','section','article','a'];
     let childNodes = Array.from(node.childNodes);
     childNodes.forEach(function(child){
       //console.log(child)

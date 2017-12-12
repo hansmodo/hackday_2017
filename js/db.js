@@ -1,5 +1,7 @@
 import Dexie from './lib/dexie';
 import * as Biblio from './data/bibliography';
+import * as Pseudonyms from './data/pseudonyms';
+import * as Persons from './data/persons';
 import * as AAB from './data/aab';
 import * as ABA from './data/aba';
 import * as ALG from './data/alg';
@@ -99,7 +101,9 @@ console.log("db Biblio:",Biblio.sources);
 // Define a schema. and add subsequent version changes.
 db.version(1).stores({
 	media: 'id, media.date, media.city, media.source, [author.firstName+author.lastName], recipient.lastName',
-  source: '++id, locator, title'
+  source: '++id, locator, title',
+	pseudonyms: '++id, tla, variation',
+	person:'++id, tla, [firstName+lastName]'
 });
 
 //called once (if browser has no record of the db)
@@ -108,10 +112,24 @@ db.on("populate", function() {
   //bulk adding media sources (bibliography)
   db.source.bulkAdd(Biblio.sources).then(function(lastKey) {
     console.log("Done adding Biblio.sources");
-    console.log("...last source id was: " + lastKey);
   }).catch(Dexie.BulkError, function (e) {
-      console.error ("Some Biblio.sources did not successfully add: ", e.failures.length );
+    console.error ("Some Biblio.sources did not successfully add: ", e.failures.length );
   });
+
+	//bulk adding historic figure pseudonyms
+	db.pseudonyms.bulkAdd(Pseudonyms.entries).then(function(lastKey) {
+		console.log("Done adding Pseudonyms.entries");
+	}).catch(Dexie.BulkError, function (e) {
+		console.error ("Some Pseudonyms.sources did not successfully add: ", e.failures.length );
+	});
+
+	//bulk adding canonical person entries
+	db.person.bulkAdd(Persons.entries).then(function(lastKey) {
+		console.log("Done adding Persons.entries");
+	}).catch(Dexie.BulkError, function (e) {
+		console.error ("Some Person.sources did not successfully add: ", e.failures.length );
+	});
+
 
   /*-- bulk adding media --*/
 	rev_people.forEach(person => {
@@ -159,19 +177,47 @@ db.on("populate", function() {
 db.open().catch(function(error) {
 	alert('Uh oh : ' + error);
 });
+
+/*
+* returns Promise containing a person's 'tla' using any of their known pseudonym's
+* e.g. 'President Washington' => 'gwa'
+*
+*/
+function getTLAByPseudonym(name){
+	console.log("DB.getTLAByPseudonym ",name);
+	return db.pseudonyms.where({variation:name}).first();
+}
+
+/*
+* return Promise containing a person object using their 'tla'
+* e.g. 'gwa' => 'George Washington'
+*/
+function getCanonicalNameByTLA(person){
+	console.log("getCanonicalNameByTLA ",person.tla);
+	return db.person.where({tla:person.tla}).first();
+}
+
+/*
+* return Promise containing a person's docs given a person object
+* person object comes from 'person' table.
+*/
+function getDocsByPerson(person){
+	console.log("getDocsByPerson:",person);
+	return db.media.where({'author.firstName': person.firstName, 'author.lastName': person.lastName}).toArray();
+}
 /*----- Convenience Methods for other modules -----*/
 /*
-* return promise, which in turn returns array of all docs for a given author
+* return promise containing an array of docs for a given author
+* name arg can be any known pseudonym - canonical name automagically used.
 */
 function getDocsByAuthor(name){
 	console.log("DB.getByAuthor ",name);
-	let nameParts = name.split(' ');
-	let firstName = nameParts[0];
-	let lastName = nameParts[1];
-
-	return db.media.where({'author.firstName': firstName, 'author.lastName': lastName}).toArray();
+	return getTLAByPseudonym(name)
+	.then(getCanonicalNameByTLA)
+	.then(getDocsByPerson);
 }
 
+console.log('db:',db);
 
 export {
 	getDocsByAuthor as getByAuthor

@@ -18,7 +18,7 @@ function makeItemNode(item, options={}){
     <span>${item.media.city ?item.media.city:'unknown location'}, ${item.media.state ? item.media.state: item.media.country}</span>
   </p>
   <p class="author">${authorFull} ${item.media.type} to ${recipientFull}</p>
-  <p><q>${item.media.description}</q></p>
+  <p><q>${item.media.description}</q> <a href="#read/${item.id}" class="read-more">Read</a></p>
   </li>`;
   //console.log("--------");
   //console.log(markup)
@@ -29,7 +29,7 @@ function makeItemNode(item, options={}){
 * render documents from a search result
 */
 function renderDocs(docs){
-  console.log("renderDocs:",docs);
+  //console.log("renderDocs:",docs);
   let resultsCntr = document.querySelector('.'+Conf.CSS.RESULTS);
   //console.log("...resultsCntr:",resultsCntr);
   let fragment = document.createDocumentFragment();
@@ -39,14 +39,22 @@ function renderDocs(docs){
 
   resultsCntr.appendChild(fragment);
   PubSub.publish('search:results:rendered');
+  return docs;
+};
+
+function renderDocCounter(docs){
+  //console.log("renderDocCounter:",docs);
+  let node = document.querySelector('.'+Conf.CSS.RESULTS_CNT);
+  node.innerHTML = 'Showing '+docs.length+' results';
 }
 
 /*
 * given a promise - update all portions of search UI
 */
 function updateUI(resp){
-  console.log("Results render:", resp);
-  resp.then(renderDocs);
+  //console.log("Results render:", resp);
+  resp.then(renderDocs)
+  .then(renderDocCounter);
 
 }
 

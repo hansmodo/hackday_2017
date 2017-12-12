@@ -166,8 +166,13 @@ input:focus, textarea:focus {
   padding: 0;
 }
 
+.results-counter {
+  color: rgba(0,0,0,.55);
+}
+
 .result-item {
   border-bottom:1px solid $med-gray;
+  padding-bottom:10px;
 }
 
 

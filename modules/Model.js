@@ -38,9 +38,9 @@ function setModel(data=[]){
     dataObj.subject = dataObj.people[0];//set default
     for(var i =0;i<dataObj.people.length;i++){
       let person = dataObj.people[i].name;
-      console.log("person:",person);
+      //console.log("person:",person);
       if( dataObj.title.indexOf(person) > -1 ){
-        console.log('found subject');
+        //console.log('found subject');
         dataObj.subject = person;
         break;
       }
@@ -49,7 +49,7 @@ function setModel(data=[]){
 
 
   model = Object.assign(model, dataObj);
-  //console.log("......model.imgs.length:",model.imgs.length);
+  console.log("......model.subject:",model.subject);
   PubSub.publish('model:set',model);
 };
 

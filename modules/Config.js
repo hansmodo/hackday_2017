@@ -11,6 +11,7 @@ PPL_SEARCH    : 'person-search-control',
 
 RESULTS       : 'results-container',
 RESULT        : 'result-item',
+RESULTS_CNT   : 'results-counter',
 
 FADE_IN       : 'fade-in',
 FADE_OUT      : 'fade-out',
