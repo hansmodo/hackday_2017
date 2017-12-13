@@ -211,7 +211,7 @@ function getCanonicalNameByTLA(person){
 */
 function getDocsByPerson(person){
 	console.log("getDocsByPerson:",person);
-	return db.media.where({'author.firstName': person.firstName, 'author.lastName': person.lastName}).toArray();
+	return db.media.where({'author.firstName': person.firstName, 'author.lastName': person.lastName}).sortBy('media.date');
 }
 /*----- Convenience Methods for other modules -----*/
 /*
