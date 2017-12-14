@@ -13,7 +13,7 @@ let parentNode = document.querySelector('.'+Conf.CSS.FACETS);
 */
 function makeItemNode(item, options={}){
   //console.log("Facets.makeItemNode: ",item, options);
-  let uid = item.name.toLowerCase().replace(/\s/g,'') +'_'+ item.idx;
+  let uid = makeUID(item);
   let markup = `<li class="${Conf.CSS.FACET}"><label for="${uid}"><input type="checkbox" value="${item.name}" id="${uid}" ${options.isSubject ? 'checked':''}>${item.name}</label></li>`;
   return Util.vivify(markup);
 };
@@ -27,6 +27,10 @@ function makeSubTitleNode(title){
   return Util.vivify(markup);
 }
 
+function makeUID(item){
+  //console.log("makeUID for:",item);
+  return item.name.toLowerCase().replace(/\s/g,'') +'_'+ item.idx;
+}
 /*
 * render search facets given array of models
 */
@@ -40,7 +44,11 @@ function renderFacets(data){
 
     fragment.appendChild( makeSubTitleNode('Authors') );
     uniqPeople.forEach((item) => {
-      fragment.appendChild( makeItemNode(item, {isSubject:(data.subject == item.name)}) );
+      let isSubject = (data.subject == item.name);
+      if(isSubject){
+        PubSub.publish('search:facets:changed', {id:makeUID(item), checked:true, subject:item.name});
+      }
+      fragment.appendChild( makeItemNode(item, {isSubject:isSubject}) );
     });
     fragment.appendChild( makeSubTitleNode('Recipients') );
     //todo: get unique list of recipients from all Authors
@@ -77,8 +85,20 @@ function updateUI(data){
   updatePeopleSearchFld(data.subject);
 }
 
+function addBehavior(){
+  let peopleFacets = document.querySelector('.facet-group.people');
+  console.log('App peopleFacet:',peopleFacets);
+  peopleFacets.addEventListener('change', onFacetChange, false);
+}
+
+function onFacetChange(e){
+  console.log("onFacetChange",e);
+  let target = e.target;
+  PubSub.publish('search:facets:changed', {id:target.id, checked:target.checked, subject:target.value});
+}
+
 //listeners
-//PubSub.subscribe('search:facets:rendered',selectSubjectFacet);
+PubSub.subscribe('search:facets:rendered', addBehavior);
 
 export {
   updateUI as render,

@@ -6,7 +6,7 @@ import * as Results from './modules/Results.js';
 import * as DB from './js/db.js';
 
 //expose in global namespace for debugging during development.
-window.Letterati = {model:Model,db:DB};
+window.Letterati = {model:Model,db:DB,results:Results};
 /*
 //check if we can persist
 if (navigator.storage && navigator.storage.persisted){
@@ -56,19 +56,35 @@ chrome.windows.onFocusChanged.addListener(function(window) {
 });
 */
 
+/*
+*
+*/
+function handleFacetChange(data){
+  console.log("App.handleFacetChange:",data);
+  if(data && data.checked){
+    getSubjectDocs(data);
+  }
+}
+
 /* -- Search --*/
 //only app file imports db and runs searches.
 
 function getSubjectDocs(data){
-	console.log("getSubjectDocs:",data.subject)
+	console.log("App.getSubjectDocs:",data.subject)
 	let docs = DB.getByAuthor(data.subject);
-	//PubSub.publish('search:results:subject',docs);
-	Results.render(docs);
+
+	Results.update(docs);
+  //Results.put(docs);
 }
 
+//As popup loads
+document.addEventListener('DOMContentLoaded', function() {
+  //
+});
 
 
-
-//mediate custom events between modules
+/*-- mediate custom events between modules --*/
+//called once on load
 PubSub.subscribe('model:set', Facets.render);
-PubSub.subscribe('model:set', getSubjectDocs);
+//called as facet selection changes
+PubSub.subscribe('search:facets:changed', handleFacetChange);

@@ -2,6 +2,49 @@ import * as PubSub from './PubSub';
 import * as Conf from './Config';
 import * as Util from './Util';
 
+//'client' data store of what's currently displayed. (vs indexedDB)
+let store = {results:{}};
+//data store methods.
+function putResultSet(docs){
+  console.log("Results.putResultSet ",docs);
+  store.results[store.activeFacet.id] = docs;
+  //PubSub.publish('search:result:put',store);
+  return store;
+};
+
+function setActiveFacet(data){
+  console.log("setActiveFacet:",data);
+  store.activeFacet = data;
+}
+
+/*----------------------------------*/
+
+function sortBy(store){
+  console.log("Results.sortBy",store);
+  let docs = [];//store.aba;
+  for(var set in store.results){
+    console.log("...iterating over set:",set);
+    docs = [...docs,...store.results[set]];
+  }
+
+  docs.sort(compareMediaByDate);
+  //console.log("...docs:",docs);
+  return docs;
+}
+
+//comparison function used for sorting
+function compareMediaByDate(a, b) {
+  const dateA = a.media.date;
+  const dateB = b.media.date;
+
+  let comparison = 0;
+  if (dateA > dateB) {
+    comparison = 1;
+  } else if (dateA < dateB) {
+    comparison = -1;
+  }
+  return comparison;
+}
 
 /*
 * markup for a single group item.
@@ -29,8 +72,9 @@ function makeItemNode(item, options={}){
 * render documents from a search result
 */
 function renderDocs(docs){
-  //console.log("renderDocs:",docs);
+  console.log("Results.renderDocs:",docs);
   let resultsCntr = document.querySelector('.'+Conf.CSS.RESULTS);
+  resultsCntr.innerHTML = '';
   //console.log("...resultsCntr:",resultsCntr);
   let fragment = document.createDocumentFragment();
   docs.forEach(item => {
@@ -43,25 +87,30 @@ function renderDocs(docs){
 };
 
 function renderDocCounter(docs){
-  //console.log("renderDocCounter:",docs);
+  console.log("Results.renderDocCounter:",docs);
   let node = document.querySelector('.'+Conf.CSS.RESULTS_CNT);
   node.innerHTML = 'Showing '+docs.length+' results';
 }
 
+
 /*
 * given a promise - update all portions of search UI
 */
-function updateUI(resp){
+function update(resp){
   //console.log("Results render:", resp);
-  resp.then(renderDocs)
+  resp.then(putResultSet)
+  .then(sortBy)
+  .then(renderDocs)
   .then(renderDocCounter);
 
 }
 
 //listeners
-//PubSub.subscribe('search:results:subject',updateUI);
-
+//PubSub.subscribe('search:results:put',update);
+PubSub.subscribe('search:facets:changed', setActiveFacet);
 
 export {
-  updateUI as render
+  putResultSet as put,
+  update,
+  store
 }
