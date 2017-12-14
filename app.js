@@ -57,7 +57,7 @@ chrome.windows.onFocusChanged.addListener(function(window) {
 */
 
 /*
-*
+* when facet checked/unchecked
 */
 function handleFacetChange(data){
   console.log("App.handleFacetChange:",data);

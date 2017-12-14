@@ -4,7 +4,14 @@ import * as Util from './Util';
 
 //'client' data store of what's currently displayed. (vs indexedDB)
 let store = {results:{}};
-//data store methods.
+
+/* ----- data store methods ---------*/
+function deleteResultSet(id){
+  console.log("Results.deleteResultSet");
+  delete store.results[id];
+  PubSub.publish('store:result_set:deleted',{type:'setDeleted', data:{id:id}});
+};
+
 function putResultSet(docs){
   console.log("Results.putResultSet ",docs);
   store.results[store.activeFacet.id] = docs;
@@ -15,9 +22,37 @@ function putResultSet(docs){
 function setActiveFacet(data){
   console.log("setActiveFacet:",data);
   store.activeFacet = data;
+  PubSub.publish('store:active_facet:change',{type:'activeFacet', data:store.activeFacet});
 }
 
 /*----------------------------------*/
+/*
+* do something in response to a local store change.
+*/
+function onStoreChange(prop){
+  console.log("onStoreChange:",prop);
+  switch(prop.type){
+    case 'activeFacet':
+      if(!prop.data.checked){
+        console.log(prop.data.subject," was unchecked");
+        deleteResultSet(prop.data.id);
+      }
+      break
+    default:
+      console.warn("unknown event type "+prop.type+" on results local store change.");
+      break;
+  }
+}
+
+/*
+* do something in response to deletion of a set in the local store.
+*/
+function onStoreDelete(prop){
+  console.log("onStoreDelete:",prop);
+  renderDocCounter( renderDocs( sortBy(store) ) ); //todo: promisify
+  //.then(renderDocs)
+  //.then(renderDocCounter);
+}
 
 function sortBy(store){
   console.log("Results.sortBy",store);
@@ -70,6 +105,7 @@ function makeItemNode(item, options={}){
 
 /*
 * render documents from a search result
+* todo: weird that this returns docs - given it's purpose is to render.
 */
 function renderDocs(docs){
   console.log("Results.renderDocs:",docs);
@@ -108,6 +144,8 @@ function update(resp){
 //listeners
 //PubSub.subscribe('search:results:put',update);
 PubSub.subscribe('search:facets:changed', setActiveFacet);
+PubSub.subscribe('store:active_facet:change', onStoreChange);
+PubSub.subscribe('store:result_set:deleted', onStoreDelete);
 
 export {
   putResultSet as put,
