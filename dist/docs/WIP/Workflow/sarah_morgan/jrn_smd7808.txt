@@ -1,9 +1,0 @@
-<letter id="smd7808">
-<recipient first="" last="" type="individual"/>
-</p><p>
-<a rel="month origin" value="5">May</a> <a rel='day origin' value='5'>5th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>] [<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana]
-</p><p>
-Vile old Yankee boats, four in number, passed up this morning without stopping. After all our excitement, this "silent contempt" annihilated me! What 
-in the world do they mean? The river was covered with burning cotton; perhaps they want to see where it came from. 
-</p><p>
-</letter>

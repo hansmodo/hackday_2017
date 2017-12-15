@@ -1,9 +1,0 @@
-<letter id="jol4931">
-<recipient first="Henry" last="Laurens" type="individual"/>
-<p>
-HEAD QUARTERS, <a rel='day origin' value='24'>24th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
-</p><p>
-I have but one pair of breeches that are wearable. If James can possibly procure me some white cloth 
-to reinforce me in this article, it will be of great service to me. 
-</p>
-</letter>

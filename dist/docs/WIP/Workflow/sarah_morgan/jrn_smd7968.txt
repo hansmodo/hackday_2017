@@ -1,8 +1,0 @@
-<letter id="smd7968">
-<recipient first="" last="" type="individual"/>
-</p><p>
-[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Sunday, <a rel="month origin" value="11">November</a> <a rel='day origin' value='22'>22d</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
-</p><p>
-A report has just reached us that my poor dear Gibbes has been taken prisoner along with the rest of Hayes's brigade. 
-</p><p>
-</letter>

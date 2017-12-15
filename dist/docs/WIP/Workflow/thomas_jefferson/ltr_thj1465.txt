@@ -1,3 +1,0 @@
-<letter id='thj1465'>
-<recipient first='' last='' type='individual'/>
-v</letter>
