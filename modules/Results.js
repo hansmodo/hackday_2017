@@ -8,7 +8,7 @@ let parentNode = document.querySelector('.'+Conf.CSS.FACETS);
 //'client' data store of what's currently displayed. (vs indexedDB)
 let store = {
   results:{},
-  filters:{years:[]},
+  filters:{years:[],locations:[]},
   getDocs:() => {
     //console.log("Results.store.getDocs");
     let docs=[];
@@ -51,6 +51,22 @@ let store = {
     let idx = yearFilters.indexOf(year);
     yearFilters.splice(idx,1);
     PubSub.publish('store:filter:year:updated',{years:this.store.filters.years});
+  },
+  getFilterLocations:() => {
+    return this.store.filters.locations;
+  },
+  getUniqueLocations:() => {
+    console.log("Results.store.getUniqueLocations");
+    let items = [];
+    for(var set in this.store.results){
+      //console.log("...set:",set);
+      let setItems = this.store.results[set].map(doc => {
+        return doc.media.city;
+      })
+      //console.log(".......setitems:",setItems);
+      items = items.concat(setItems);
+    }
+    return [...new Set(items)].sort();
   }
 };
 
@@ -131,6 +147,8 @@ function onFacetChange(prop){
       }else{
         deselectCheckboxes('year');
       }
+      break;
+    case 'location':
 
       break;
     default:
@@ -247,12 +265,21 @@ function makeYearNode(year, options={}){
   let markup = `<li class="${Conf.CSS.FACET}"><label for="${year}"><input type="checkbox" value="${year}" id="${year}" ${options.selected ? 'checked':''}>${year}</label></li>`;
   return Util.vivify(markup);
 };
-
+//todo:move to Facets module- combine with above.
+function makeLocationNode(item, options={}){
+  let markup = `<li class="${Conf.CSS.FACET}"><label for="${item}"><input type="checkbox" value="${item}" id="${item}" ${options.selected ? 'checked':''}>${item}</label></li>`;
+  return Util.vivify(markup);
+}
+//todo:move to Facets module
 function makeAllYearsNode(options={}){
   let markup = `<li class="${Conf.CSS.FACET} ${Conf.CSS.ALL_YR_CNTRL}"><label for="all_years"><input type="checkbox" value="all_years" id="all_years" ${options.selected ? 'checked':''}>All Years</label></li>`;
   return Util.vivify(markup);
 }
-
+//todo:move to Facets module - combine with above.
+function makeAllLocationsNode(options={}){
+  let markup = `<li class="${Conf.CSS.FACET} ${Conf.CSS.ALL_LC_CNTRL}"><label for="${Conf.CSS.ALL_LC_CNTRL}"><input type="checkbox" value="${Conf.CSS.ALL_LC_CNTRL}" id="${Conf.CSS.ALL_LC_CNTRL}" ${options.selected ? 'checked':''}>All Locations</label></li>`;
+  return Util.vivify(markup);
+}
 /*
 * render documents from a search result
 * todo: weird that this returns docs - given it's purpose is to render.
@@ -279,6 +306,7 @@ function renderDocCounter(docs){
   return;
 }
 
+//todo: whoops. this belongs in Facets module.
 function renderYears(){
   console.log("renderYears");
   let facetsCntr = parentNode.querySelector('.'+Conf.CSS.FACET_GRP+'.'+Conf.CSS.YR_FACETS);
@@ -293,6 +321,27 @@ function renderYears(){
   uniqueYrs.forEach((item) => {
     let selected = (filterYrs.indexOf(item) > -1);
     fragment.appendChild( makeYearNode(item, {selected:selected}) );
+  });
+
+  facetsCntr.appendChild(fragment);
+  return;
+};
+
+//todo: whoops. this belongs in Facets module.
+function renderLocations(){
+  console.log("renderLocations");
+  let facetsCntr = parentNode.querySelector('.'+Conf.CSS.FACET_GRP+'.'+Conf.CSS.PLACE_FACETS);
+  let uniquePlcs = store.getUniqueLocations();
+  let filterPlcs = store.getFilterLocations();
+  let allBoxSelected = (filterPlcs.length === 0);
+  let fragment = document.createDocumentFragment();
+
+  facetsCntr.innerHTML = '';
+  //if no filter locations then 'all' checkbox is selected
+  fragment.appendChild( makeAllLocationsNode({selected:allBoxSelected}) );
+  uniquePlcs.forEach((item) => {
+    let selected = (filterPlcs.indexOf(item) > -1);
+    fragment.appendChild( makeLocationNode(item, {selected:selected}) );
   });
 
   facetsCntr.appendChild(fragment);
@@ -316,7 +365,8 @@ function update(resp){
   .then(applyYearFilter)
   .then(renderDocs)
   .then(renderDocCounter)
-  .then(renderYears);
+  .then(renderYears)
+  .then(renderLocations);
 }
 
 //listeners
