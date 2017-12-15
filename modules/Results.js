@@ -18,6 +18,15 @@ let store = {
     }
     return docs;
   },
+  getDocById:(id) => {
+    console.log("Results.store.getDocById:",id);
+    let docs = this.store.getDocs();
+    let doc = docs.filter((doc) => {
+      //console.log("...",doc.id," == ",id)
+      return doc.id == id
+    }).pop();
+    return doc;
+  },
   getUniqueYears:() => {
     console.log("Results.store.getUniqueYears");
     let years = [];
@@ -108,6 +117,10 @@ function setActiveFacet(data){
   console.log("Results.setActiveFacet:",data);
   store.activeFacet = data;
   PubSub.publish('store:active_facet:change',{type:'activeFacet', data:store.activeFacet});
+};
+
+function getDocById(id){
+  return store.getDocById(id);
 }
 /*----------------------------------*/
 
@@ -444,5 +457,6 @@ export {
   update,
   setFilterYear as setYear,
   setFilterLocation as setLocation,
+  getDocById as getById,
   store
 }

@@ -1,13 +1,16 @@
 import * as PubSub from './modules/PubSub';
 import * as Browser from './modules/Browser.js';
 import * as Conf from './modules/Config';
+import * as IO from './modules/IO';
+import * as User from './modules/User';
+import * as Folders from './modules/Folders';
 import * as Model from './modules/Model.js';
 import * as Facets from './modules/Facets.js';
 import * as Results from './modules/Results.js';
 import * as DB from './js/db.js';
 
 //expose in global namespace for debugging during development.
-window.Letterati = {model:Model,db:DB,results:Results};
+window.Letterati = {model:Model,db:DB,results:Results,folders:Folders};
 //dom refs
 let $parent = document.querySelector('.'+Conf.CSS.PARENT);
 
@@ -83,21 +86,34 @@ function handleFacetChange(data){
   }
 };
 
+/*
+* big hairy mess. gets txt file via chrome url as blob, reads, injects to screen
+*/
 function onResultsCntrClick(evt){
   console.log("handleResultsCntrClick:",evt);
   let target = evt.target;
   if(target.classList.contains(Conf.CSS.RESULT_MORE)){
-    let parentNode = document.querySelector('.'+Conf.CSS.READ_DOC);
-    console.log("...parentNode:",parentNode)
+    let bodyNode = document.querySelector('.'+Conf.CSS.DOC_BODY);
+    let titleNode = document.querySelector('.'+Conf.CSS.DOC_TITLE);
+    //console.log("...bodyNode:",bodyNode)
     let docId = target.getAttribute('href').split('/').pop();
-    //console.log("....docId:",docId);
+    let result = Results.getById(docId);
+    if(result && result.media.type){
+      if(result.media.type === 'letter'){
+        titleNode.innerHTML = result.author.firstName + ' ' + result.author.lastName + ' ' + result.media.type + ' to ' + result.recipient.firstName + ' ' + result.recipient.lastName;
+      }else if(result.media.type === 'journal'){
+        titleNode.innerHTML = result.author.firstName + ' ' + result.author.lastName + ' ' + result.media.type + ' entry';
+      }
+    }
+
+    console.log("....result:",result);
     let filePath = chrome.extension.getURL('/docs/'+docId+'.txt');
     //console.log("....filePath:",filePath);
 
     let reader = new FileReader();
     reader.onload = function(evt){
-      console.log("File ready");
-      parentNode.innerHTML = reader.result;
+      //console.log("File ready");
+      bodyNode.innerHTML = reader.result;
     }
 
     let xhr = new XMLHttpRequest();
@@ -105,32 +121,66 @@ function onResultsCntrClick(evt){
     xhr.responseType = 'blob';
     xhr.onload = function(e) {
       if (this.status == 200) {
-        console.log("success")
-        var myBlob = this.response;
-        // myBlob is now the blob that the object URL pointed to.
-        reader.readAsText(myBlob);
+        //var Blob = this.response;
+        reader.readAsText( this.response );
       }
     };
     xhr.send();
 
-
-
-
-
-    transitionToConfirm(Conf.CSS.READ_DOC);
+    transitionToDoc(Conf.CSS.READ_DOC);
   }
 }
 
+function onBackBtnClick(){
+  transitionFromDoc(Conf.CSS.READ_DOC);
+}
 /* -- Search --*/
 //only app file imports db and runs searches.
 
 function getSubjectDocs(data){
 	console.log("App.getSubjectDocs:",data.subject)
 	let docs = DB.getByAuthor(data.subject);
-
 	Results.update(docs);
-  //Results.put(docs);
 }
+
+/*-- get cookies that will determine if user is logged into Edmodo --*/
+chrome.cookies.getAll({domain: 'edmodo.com'},
+  function(cookies) {
+    if(cookies){
+      //console.log("Get cookies:",cookies);
+      //filter and reduce the cookie api response
+      cookies = cookies.filter(function(cookie){
+        return ['edtr','logged_out'].indexOf(cookie.name) > -1;
+      }).reduce((obj, item) => {
+        obj[item.name] = item
+        return obj
+      }, {});
+
+      if(cookies['edtr'] && cookies['logged_out']){
+        //use case #1 - user logged out
+        //console.log("user is currently logged out.");
+        User.setAuthStatus(false);
+        }else if(cookies['edtr']){
+        //use case #2 - user currently logged in
+        //console.log("user logged in");
+        User.setAuthStatus(true);
+        IO.fetchCurrentUser().then( (resp) => {
+          User.setUser(resp);
+        });
+
+        IO.fetchUserToken().then( (token) => {
+          User.setUserToken(token);
+          Folders.fetch(token).then(Folders.set);
+        });
+
+      }else{
+        //use case #3 - user never logged in on current device or cleared cookies.
+        console.log("user never logged in");
+        User.setAuthStatus(false);
+      }
+
+    }
+});
 
 /*---- Other -------------*/
 
@@ -144,12 +194,28 @@ function closePlugin(e){
 };
 
 /*
-* show  the 'Save' or 'Share' confirmation screen
+* show  the 'Document' screen
 */
-function showConfirm(selector){
-  document.querySelector('.'+selector).classList.add(Conf.CSS.ACTIVE, Conf.CSS.FROM_RIGHT);
+function showDoc(selector){
+  let node = document.querySelector('.'+selector);
+  node.classList.remove(Conf.CSS.TO_RIGHT);
+  node.classList.add(Conf.CSS.ACTIVE, Conf.CSS.FROM_RIGHT);
 };
 
+function hideDoc(selector){
+  let node = document.querySelector('.'+selector);
+  node.classList.remove(Conf.CSS.FROM_RIGHT);
+  node.classList.add(Conf.CSS.TO_RIGHT);
+  setTimeout(function(){ node.classList.remove(Conf.CSS.ACTIVE) }, 500);
+};
+
+/*
+* SHOW the main screen
+*/
+function showMain(){
+  $parent.classList.add(Conf.CSS.FROM_LEFT);
+  $parent.classList.remove(Conf.CSS.TO_LEFT);
+};
 /*
 * HIDE the main screen
 */
@@ -158,18 +224,27 @@ function hideMain(){
 };
 
 /*
-* move main screen out to make room for a confirmation screen.
+* move main screen out to make room for a document read screen.
 */
-function transitionToConfirm(selector){
-  //console.log("transitionToConfirm:",selector);
+function transitionToDoc(selector){
+  //console.log("transitionToDoc:",selector);
   hideMain();
-  showConfirm(selector);
+  showDoc(selector);
 }
 
+/*
+* move doc screen out to make room for main screen.
+*/
+function transitionFromDoc(selector){
+  console.log("transitionFromDoc:",selector);
+  showMain();
+  hideDoc(selector);
+}
 
 /*------------------------*/
 /*-- dom event handling --*/
 document.querySelector('.'+Conf.CSS.RESULTS).addEventListener('click', onResultsCntrClick, false);
+document.querySelector('.dismiss-control.document').addEventListener('click', onBackBtnClick, false);
 
 /*-- custom event mediation between modules --*/
 //called once on load

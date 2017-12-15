@@ -43,7 +43,7 @@ body, input, textarea {
     padding:8px;
   }
 
-  &.images {
+  &.document {
     top:5px;
     right:auto;
     left:0;
@@ -98,32 +98,16 @@ body, input, textarea {
   padding:0 0 0 10px;
 }
 
-.selected.img-tray-cell .controls {
-  border-top: none;
-  transition: opacity .2s ease;
-  opacity: 1;
+
+.document-header {
+  position: relative;
 }
-
-.default-title-img-container {
-  background: $default-blue;
-  border-radius: 6px;
-  color:#fff;
-  min-height:150px;
-  padding:15px;
-  //width:260px;
-
-  .img-url {
-    word-wrap: break-word;
-  }
+.document-title {
+  margin-left:25px;
 }
-
-.thumbnail {
-  cursor:pointer;
-  display:block;
-  margin-top:10px;
-  max-height:160px;
-  max-width:200px;
-  border-radius: 8px;
+.document-body {
+  line-height: 1.5em;
+  padding:10px;
 }
 
 .entry {

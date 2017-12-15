@@ -19,6 +19,8 @@ RESULT        : 'result-item',
 RESULTS_CNT   : 'results-counter',
 RESULT_MORE   : 'read-more',
 READ_DOC      : 'read-document',
+DOC_TITLE     : 'document-title',
+DOC_BODY      : 'document-body',
 
 FADE_IN       : 'fade-in',
 FADE_OUT      : 'fade-out',
