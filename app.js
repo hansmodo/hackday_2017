@@ -1,5 +1,6 @@
 import * as PubSub from './modules/PubSub';
 import * as Browser from './modules/Browser.js';
+import * as Conf from './modules/Config';
 import * as Model from './modules/Model.js';
 import * as Facets from './modules/Facets.js';
 import * as Results from './modules/Results.js';
@@ -7,6 +8,9 @@ import * as DB from './js/db.js';
 
 //expose in global namespace for debugging during development.
 window.Letterati = {model:Model,db:DB,results:Results};
+//dom refs
+let $parent = document.querySelector('.'+Conf.CSS.PARENT);
+
 /*
 //check if we can persist
 if (navigator.storage && navigator.storage.persisted){
@@ -79,6 +83,15 @@ function handleFacetChange(data){
   }
 };
 
+function onResultsCntrClick(evt){
+  console.log("handleResultsCntrClick:",evt);
+  let target = evt.target;
+  if(target.classList.contains(Conf.CSS.RESULT_MORE)){
+    console.log(Conf.CSS.RESULT_MORE,' click');
+    transitionToConfirm(Conf.CSS.READ_DOC);
+  }
+}
+
 /* -- Search --*/
 //only app file imports db and runs searches.
 
@@ -90,13 +103,46 @@ function getSubjectDocs(data){
   //Results.put(docs);
 }
 
+/*---- Other -------------*/
+
 //As popup loads
 document.addEventListener('DOMContentLoaded', function() {
   //
 });
 
+function closePlugin(e){
+  window.close();
+};
 
-/*-- mediate custom events between modules --*/
+/*
+* show  the 'Save' or 'Share' confirmation screen
+*/
+function showConfirm(selector){
+  document.querySelector('.'+selector).classList.add(Conf.CSS.ACTIVE, Conf.CSS.FROM_RIGHT);
+};
+
+/*
+* HIDE the main screen
+*/
+function hideMain(){
+  $parent.classList.add(Conf.CSS.TO_LEFT);
+};
+
+/*
+* move main screen out to make room for a confirmation screen.
+*/
+function transitionToConfirm(selector){
+  //console.log("transitionToConfirm:",selector);
+  hideMain();
+  showConfirm(selector);
+}
+
+
+/*------------------------*/
+/*-- dom event handling --*/
+document.querySelector('.'+Conf.CSS.RESULTS).addEventListener('click', onResultsCntrClick, false);
+
+/*-- custom event mediation between modules --*/
 //called once on load
 PubSub.subscribe('model:set', Facets.render);
 //called as facet selection changes

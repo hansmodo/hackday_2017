@@ -1,7 +1,7 @@
 // css classnames of nodes used in chrome extension.
 
 let CSS = {
-PARENT        : 'scriptorium',
+PARENT        : 'edmo-plugin',
 FACETS        : 'facet-container',
 FACET_GRP     : 'facet-group',
 PPL_FACETS    : 'people',
@@ -12,10 +12,13 @@ ALL_LC_CNTRL  : 'all_locations',
 FACET         : 'facet-item',
 FACET_TITLE   : 'facet-title',
 PPL_SEARCH    : 'person-search-control',
+ACTIVE        : 'active',
 
 RESULTS       : 'results-container',
 RESULT        : 'result-item',
 RESULTS_CNT   : 'results-counter',
+RESULT_MORE   : 'read-more',
+READ_DOC      : 'read-document',
 
 FADE_IN       : 'fade-in',
 FADE_OUT      : 'fade-out',
