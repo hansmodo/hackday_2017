@@ -3,6 +3,9 @@
 @import 'partials/_transitions';
 @import 'partials/_font';
 
+.push {
+  padding-left:10px;
+}
 
 /* app specific */
 body, input, textarea {
@@ -67,9 +70,32 @@ body, input, textarea {
   margin: 0 0 15px 0;
 }
 
+.search-controls {
+  margin-bottom:10px;
+}
+.person-search-control {
+  padding:5px;
+  width:205px
+}
+
+.facet-container {
+  border:1px solid $light-gray;
+  border-radius:5px;
+  height:440px;
+  overflow:auto;
+
+  .region-title {
+    background: $light-gray;
+    margin-top: 0;
+    padding:10px 5px;
+  }
+}
+
 .facet-group {
-  padding:0;
   list-style: none;
+  max-height: 160px;
+  overflow:auto;
+  padding:0 0 0 10px;
 }
 
 .selected.img-tray-cell .controls {

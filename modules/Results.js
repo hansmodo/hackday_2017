@@ -2,8 +2,52 @@ import * as PubSub from './PubSub';
 import * as Conf from './Config';
 import * as Util from './Util';
 
+//Dom references
+let parentNode = document.querySelector('.'+Conf.CSS.FACETS);
+
 //'client' data store of what's currently displayed. (vs indexedDB)
-let store = {results:{}};
+let store = {
+  results:{},
+  filters:{years:[]},
+  getDocs:() => {
+    //console.log("Results.store.getDocs");
+    let docs=[];
+    for(var set in this.store.results){
+      docs = docs.concat(this.store.results[set])
+    }
+    return docs;
+  },
+  getUniqueYears:() => {
+    console.log("Results.store.getUniqueYears");
+    let years = [];
+    for(var set in this.store.results){
+      //console.log("...set:",set);
+      let setYrs = this.store.results[set].map(doc => {
+        return doc.media.date.split('-')[0];
+      })
+      //console.log(".......setYrs:",setYrs);
+      years = years.concat(setYrs);
+    }
+    return [...new Set(years)];
+  },
+  getFilterYears:() => {
+    return this.store.filters.years;
+  },
+  setFilterYear:(year) => {
+    console.log("Results.store.setFilterYear:",year);
+    if( this.store.filters.years.indexOf(year) == -1 ){
+      this.store.filters.years.push(year);
+      PubSub.publish('store:filter:year:updated',{years:this.store.filters.years});
+    }
+  },
+  deleteFilterYear:(year) => {
+    console.log("Results store.deleteFilterYear:",year);
+    let yearFilters = this.store.filters.years;
+    let idx = yearFilters.indexOf(year);
+    yearFilters.splice(idx,1);
+    PubSub.publish('store:filter:year:updated',{years:this.store.filters.years});
+  }
+};
 
 /* ----- data store methods ---------*/
 function deleteResultSet(id){
@@ -13,31 +57,36 @@ function deleteResultSet(id){
 };
 
 function putResultSet(docs){
-  console.log("Results.putResultSet ",docs);
+  //console.log("Results.putResultSet ",docs);
   store.results[store.activeFacet.id] = docs;
-  //PubSub.publish('search:result:put',store);
   return store;
 };
 
 function setActiveFacet(data){
-  console.log("setActiveFacet:",data);
+  console.log("Results.setActiveFacet:",data);
   store.activeFacet = data;
   PubSub.publish('store:active_facet:change',{type:'activeFacet', data:store.activeFacet});
 }
 
 /*----------------------------------*/
 /*
-* do something in response to a local store change.
+* do something in response to a facet changing.
 */
-function onStoreChange(prop){
-  console.log("onStoreChange:",prop);
-  switch(prop.type){
-    case 'activeFacet':
+function onFacetChange(prop){
+  console.log("Results.onFacetChange:",prop);
+  switch(prop.data.group){
+    case 'people':
       if(!prop.data.checked){
-        console.log(prop.data.subject," was unchecked");
+        console.log("...",prop.data.subject," was unchecked");
         deleteResultSet(prop.data.id);
       }
-      break
+      break;
+    case 'year':
+      if(!prop.data.checked){
+        console.log("...",prop.data.subject," was unchecked");
+        store.deleteFilterYear(prop.data.subject);
+      }
+      break;
     default:
       console.warn("unknown event type "+prop.type+" on results local store change.");
       break;
@@ -48,11 +97,42 @@ function onStoreChange(prop){
 * do something in response to deletion of a set in the local store.
 */
 function onStoreDelete(prop){
-  console.log("onStoreDelete:",prop);
-  renderDocCounter( renderDocs( sortBy(store) ) ); //todo: promisify
-  //.then(renderDocs)
-  //.then(renderDocCounter);
+  console.log("Results.onStoreDelete:",prop);
+  renderDocCounter( renderDocs( applyYearFilter( sortBy(store) ) ) );
 }
+
+/*
+* do something in response to *put* of a set into the local store.
+*/
+function onStorePut(store){
+  //console.log("onStorePut");
+  //getUniqueYears();
+}
+
+/*
+* use secondary facet vals to create a filtered list of documents.
+*/
+function onFilter(data){
+  console.log("Results.onFilter:",data);
+  let docs = store.getDocs();
+  docs = applyYearFilter(docs);
+  renderDocsPipeline(docs);
+};
+
+function applyYearFilter(docs){
+  console.log("applyYearFilter:",docs.length);
+  let filterYrs = store.getFilterYears();
+  if(filterYrs.length){
+    docs = docs.filter((doc) => {
+      if(doc.media && doc.media.date && doc.media.date.split){//account strings and date objects till they are cleaned up.
+        let docYear = doc.media.date.split('-')[0];
+        return (filterYrs.indexOf(docYear) > -1);
+      }
+    });
+  }
+  console.log("...",docs.length);
+  return docs;
+};
 
 function sortBy(store){
   console.log("Results.sortBy",store);
@@ -82,6 +162,15 @@ function compareMediaByDate(a, b) {
 }
 
 /*
+* display docs with only this or other selected yrs.
+*/
+function setFilterYear(year){
+  //console.log("Results.setFilterYear:",year);
+  store.setFilterYear(year);
+};
+
+/*----- UI render methods ----*/
+/*
 * markup for a single group item.
 * conditionally check the item by default.
 */
@@ -104,15 +193,30 @@ function makeItemNode(item, options={}){
 };
 
 /*
+* markup for a single group item.
+* conditionally check the item by default.
+*/
+function makeYearNode(year, options={}){
+  //console.log("Results.makeYearNode: ",year);
+  let markup = `<li class="${Conf.CSS.FACET}"><label for="${year}"><input type="checkbox" value="${year}" id="${year}" ${options.isSubject ? 'checked':''}>${year}</label></li>`;
+  return Util.vivify(markup);
+};
+
+function makeAllYearsNode(){
+  let markup = `<li class="${Conf.CSS.FACET} ${Conf.CSS.ALL_YR_CNTRL}"><label for="all_years"><input type="checkbox" value="all_years" id="all_years" checked >All Years</label></li>`;
+  return Util.vivify(markup);
+}
+
+/*
 * render documents from a search result
 * todo: weird that this returns docs - given it's purpose is to render.
 */
 function renderDocs(docs){
-  console.log("Results.renderDocs:",docs);
+  console.log("Results.renderDocs:",docs.length);
   let resultsCntr = document.querySelector('.'+Conf.CSS.RESULTS);
-  resultsCntr.innerHTML = '';
-  //console.log("...resultsCntr:",resultsCntr);
   let fragment = document.createDocumentFragment();
+
+  resultsCntr.innerHTML = '';
   docs.forEach(item => {
     fragment.appendChild( makeItemNode(item) );
   })
@@ -123,32 +227,60 @@ function renderDocs(docs){
 };
 
 function renderDocCounter(docs){
-  console.log("Results.renderDocCounter:",docs);
+  //console.log("Results.renderDocCounter:",docs);
   let node = document.querySelector('.'+Conf.CSS.RESULTS_CNT);
   node.innerHTML = 'Showing '+docs.length+' results';
+  return;
 }
 
+function renderYears(){
+  console.log("renderYears");
+  let facetsCntr = parentNode.querySelector('.'+Conf.CSS.FACET_GRP+'.'+Conf.CSS.YR_FACETS);
+  let uniqueYrs = store.getUniqueYears();
+  //console.log("...uniqueYrs:",uniqueYrs);
+  let fragment = document.createDocumentFragment();
+  facetsCntr.innerHTML = '';
+  fragment.appendChild( makeAllYearsNode() );
+  uniqueYrs.forEach((item) => {
+    fragment.appendChild( makeYearNode(item, {}) );
+  });
+
+  facetsCntr.appendChild(fragment);
+  return;
+};
+
+function renderDocsPipeline(docs){
+  console.log("renderDocsPipeline");
+  renderDocCounter( renderDocs( docs ) ); //todo: promisify
+};
+/*----- ----------------- ----*/
 
 /*
-* given a promise - update all portions of search UI
+* given a promise - pipeline to update all portions of search UI
+* note: called everytime db queried.
 */
 function update(resp){
-  //console.log("Results render:", resp);
+  console.log("Results.update:", resp);
+  //render people
   resp.then(putResultSet)
   .then(sortBy)
+  .then(applyYearFilter)
   .then(renderDocs)
-  .then(renderDocCounter);
-
+  .then(renderDocCounter)
+  .then(renderYears);
 }
 
 //listeners
 //PubSub.subscribe('search:results:put',update);
 PubSub.subscribe('search:facets:changed', setActiveFacet);
-PubSub.subscribe('store:active_facet:change', onStoreChange);
+PubSub.subscribe('store:active_facet:change', onFacetChange);
 PubSub.subscribe('store:result_set:deleted', onStoreDelete);
+PubSub.subscribe('store:result_set:put', onStorePut);
+PubSub.subscribe('store:filter:year:updated', onFilter);
 
 export {
   putResultSet as put,
   update,
+  setFilterYear as setYear,
   store
 }

@@ -62,7 +62,14 @@ chrome.windows.onFocusChanged.addListener(function(window) {
 function handleFacetChange(data){
   console.log("App.handleFacetChange:",data);
   if(data && data.checked){
-    getSubjectDocs(data);
+    //search for more people
+    if(data.group ==='people'){
+      getSubjectDocs(data);
+    }
+    //filter by year
+    if(data.group === 'year'){
+      Results.setYear(data.subject);//e.g. display results w/these yrs.
+    }
   }
 }
 

@@ -9,20 +9,28 @@
   <body>
     <div class="container">
       <div class="edmo-plugin">
-        <header><h1 class="large plugin-title">Search</h1></header>
+        <header><h1 class="large plugin-title">Primary Document Search</h1></header>
         <p class="dismiss-control plugin"></p>
         <div class="left-col">
 
           <div class="search-controls">
-            <input type="text" class="person-search-control" placeholder="Enter a name">
+            <input type="text" class="large person-search-control" placeholder="Enter a name">
           </div>
 
           <div class="facet-container">
-            <h2>Refine by</h2>
-            <ul class="facet-group people"></ul>
-            <ul class="facet-group location"></ul>
-            <ul class="facet-group year"></ul>
-            <ul class="source-facet"></ul>
+            <h2 class="medium region-title push">Refine by</h2>
+
+            <h3 class="normal medium push">Authors</h3>
+            <ul class="facet-group people push" data-grp="people"></ul>
+
+            <h3 class="normal medium push">Location</h3>
+            <ul class="facet-group location push" data-grp="location"></ul>
+
+            <h3 class="normal medium push">Year</h3>
+            <ul class="facet-group year push" data-grp="year"></ul>
+
+            <h3 class="normal medium push">Source</h3>
+            <ul class="source-facet push"></ul>
           </div>
         </div>
 

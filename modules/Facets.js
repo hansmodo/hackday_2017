@@ -42,15 +42,15 @@ function renderFacets(data){
     let uniqPeople = data.people.filter((person, index, self) => self.findIndex(t => t.name === person.name ) === index);
     let fragment = document.createDocumentFragment();
 
-    fragment.appendChild( makeSubTitleNode('Authors') );
+    //fragment.appendChild( makeSubTitleNode('Authors') );
     uniqPeople.forEach((item) => {
       let isSubject = (data.subject == item.name);
       if(isSubject){
-        PubSub.publish('search:facets:changed', {id:makeUID(item), checked:true, subject:item.name});
+        PubSub.publish('search:facets:changed', {group:'people', id:makeUID(item), checked:true, subject:item.name});
       }
       fragment.appendChild( makeItemNode(item, {isSubject:isSubject}) );
     });
-    fragment.appendChild( makeSubTitleNode('Recipients') );
+    //fragment.appendChild( makeSubTitleNode('Recipients') );
     //todo: get unique list of recipients from all Authors
     //get count for each, unique recipent
 
@@ -85,16 +85,22 @@ function updateUI(data){
   updatePeopleSearchFld(data.subject);
 }
 
+/*
+* apply behaviors to any facet group containers - they in turn delegate.
+*/
 function addBehavior(){
-  let peopleFacets = document.querySelector('.facet-group.people');
-  console.log('App peopleFacet:',peopleFacets);
-  peopleFacets.addEventListener('change', onFacetChange, false);
+  let facetGrpNodes = Array.from(document.querySelectorAll('.facet-group'));
+  //console.log('Facets facetGrpNodes:',facetGrpNodes);
+  facetGrpNodes.forEach((node) => {
+    node.addEventListener('change', onFacetChange, false);
+  });
 }
 
 function onFacetChange(e){
-  console.log("onFacetChange",e);
+  console.log("Facet.onFacetChange",e);
   let target = e.target;
-  PubSub.publish('search:facets:changed', {id:target.id, checked:target.checked, subject:target.value});
+  let facetGrp = target.closest('.'+Conf.CSS.FACET_GRP).getAttribute('data-grp');
+  PubSub.publish('search:facets:changed', {group:facetGrp, id:target.id, checked:target.checked, subject:target.value});
 }
 
 //listeners
