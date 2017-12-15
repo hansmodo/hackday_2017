@@ -1,0 +1,71 @@
+<letter id="rim3003">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+Camp, near <a href='/results.php?city=st johns' rel='city origin'>St. John's</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+DEAR GENERAL, 
+</p><p>
+Some time ago I informed you of my intentions to make my 
+approaches on the west side, as soon as the expected reenforcement enabled me to undertake it. I had had a road cut to the 
+intended ground, and some fascines made, when I was informed 
+by Major Brown, that a general dissatisfaction prevailed ; that 
+unless something was undertaken in a few days, there would 
+be a mutiny ; and that the universal sense of the army was to 
+direct all our attention to the east side. The impatience of the 
+troops to get home has prevented their seeing the impossibility 
+of undertaking this business sooner, the duty being hard for the 
+troops, even on the present confined state of operations. 
+</p><p>
+When I mentioned my intentions, I did not consider I was at 
+the head of troops who carry the spirit of freedom into the field, 
+and think for themselves. Upon considering the fatal consequences which might flow from a want of subordination and discipline (should this ill humor continue), my unstable authority 
+over troops of different Colonies, the insufficiency of the military 
+law, and my own want of powers to enforce it, weak as it is, I 
+thought it expedient to call the Field-Officers together. Inclosed 
+I send you the result of our deliberations. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p><p>
+Result of the Proceedings of a Council of War, held at <a href='/results.php?city=st johns' rel='city'>St. John's</a>, 
+October 13th, <a href="http://www.familytales.org/results.php?year=1775">1775</a>. 
+</p><p>
+I proposed establishing a battery of all our spare heavy can 
+non, on the rising ground exactly opposite the stone house in the 
+north redoubt (in the west face of which there is but one embrasure open), at the distance of about four hundred yards, securing 
+this battery with a work capable of being well defended by 
+two hundred men. From this battery our approaches might be 
+continued to the ditch, and by the time we arrived there, the 
+fraise around the berme would be destroyed, the rampart in a 
+ruinous state, and the large house (which is said to be their 
+principal barrack) would be destroyed, as every shot that missed the rampart, must take the house. Two four-pounders on 
+the east side would answer the end of securing the west ram 
+part in reverse, and thereby slackening the opposition of the 
+enemy. 
+</p><p>
+By this mode of proceeding, if our ammunition held out, there 
+would be, in my opinion, some prospect of success, notwithstanding  the superior artillery of the garrison, which could not be 
+mounted in its proper place in time enough to prevent the 
+erection of our battery. The Field-Officers were, to a man, of 
+opinion that my reasons were insufficient, being afraid the designed ground was at this season too wet for approaches, and 
+strongly of opinion our heavy cannon on the cast side would 
+more effectually distress the enemy by annoying their buildings, 
+the fort having a gentle slope to the river, and (which was 
+urged as the strongest motive) by destroying their schooner. In 
+vain I represented, that even if every building was destroyed, 
+the garrison would not surrender without a probability of an 
+assault, which could never arise from any attack on the opposite side of the river ; that the vessel could not be destroyed, 
+because she would change her place in such a manner as to 
+elude our batteries ; that we had little powder or time to throw 
+away on experiments; that I had a moral certainty they would find themselves mistaken ; and finally that they must take it 
+upon themselves, for I would not oppose the general sense of 
+the army, and should enforce the measure by every effort in 
+my power. 
+</p><p>
+I cannot help observing, to how little purpose I am here. 
+Were I not afraid the example would be too generally followed, 
+and that the public service might suffer, I would not stay an 
+hour at the head of troops whose operations I cannot direct. 
+I must say I have no hopes of success, unless from the garrison's wanting provisions. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

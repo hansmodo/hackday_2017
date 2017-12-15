@@ -1,0 +1,22 @@
+<letter id="nib5209">
+<recipient first="George" last="Gibbs" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phila</a>. <a rel="month origin" value="3">March</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1825' rel="origin">1825</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+I have just received your favor of the 14th inst. and 
+regret much that it will not be in my power to negotiate 
+the note you have forwarded, which is therefore returned 
+to you herewith. Since my connection with the Bank I 
+have been obliged to make it an invariable rule not to be a 
+borrower from the Bank itself and not to be an indorser 
+on notes discounted either there or in other institutions. 
+To this I have on principle adhered, to the prejudice of my 
+own interest, from a conviction that situated as I am, it 
+was in all respects proper. I should feel more unwilling to 
+act on it upon the present occasion if I did not know that 
+it would not incommode you as you will find no difficulty 
+in making the arrangement elsewhere. . . . 
+</p>
+</letter>

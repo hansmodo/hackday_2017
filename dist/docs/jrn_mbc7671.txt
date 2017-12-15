@@ -1,0 +1,38 @@
+<letter id="mbc7671">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1863' rel="origin">1863</a>]. For a week we have had such a tranquil, happy time here. Both my husband and Johnny are 
+here still. James Chesnut spent his time sauntering around with his father, or stretched on the rug before my fire reading Vanity Fair and Pendennis. By good luck he had not read them before. We have kept Esmond for the last. He 
+owns that he is having a good time. Johnny is happy, too. He does not care for books. He will read a novel now and 
+then, if the girls continue to talk of it before him. Nothing else whatever in the way of literature does he touch. He 
+comes pulling his long blond mustache irresolutely as if he hoped to be advised not to read it " Aunt Mary, shall 
+I like this thing ? : I do not think he has an idea what we are fighting about, and he does not want to know. He says, 
+" My company, " My men, with a pride, a faith, and an affection which are sublime. He came into his inheritance 
+at twenty-one (just as the war began), and it was a goodly one, fine old houses and an estate to match. 
+</p><p>
+Yesterday, Johnny went to his plantation for the first time since the war began. John Witherspoon went with 
+him, and reports in this way : How do you do, Marster ! How you come on ? ; thus from every side rang the 
+noisiest welcome from the darkies. Johnny was silently shaking black hands right and left as he rode into the crowd. 
+</p><p>
+As the noise subsided, to the overseer he said : Send down more corn and fodder for my horses." And to the 
+driver, " Have you any peas? " Plenty, sir." " Send a wagon-load down for the cows at Bloomsbury while I 
+stay there. They have not milk and butter enough there for me. Any eggs? Send down all you can collect. How 
+about my turkeys and ducks? Send them down two at a time. How about the mutton? Fat? That's good; send down two a week." 
+</p><p>
+As they rode home, John Witherspoon remarked, " I was surprised that you did not go into the fields to see your 
+crops." " What was the use? " " And the negroes; you had so little talk with them." 
+</p><p>
+No use to talk to them before the overseer. They are 
+coming down to Bloomsbury, day and night, by platoons and they talk me dead. Besides, William and Parish go up 
+there every night, and God knows they tell me enough plantation scandal overseer feathering his nest ; negroes ditto 
+at my expense. Between the two fires I mean to get some thing to eat while I am here. 
+</p><p>
+For him we got up a charming picnic at Mulberry. Everything was propitious the most perfect of days and 
+the old place in great beauty. Those large rooms were delightful for dancing; we had as good a dinner as mortal 
+appetite could crave; the best fish, fowl, and game; wine from a cellar that can not be excelled. In spite of blockade 
+Mulberry does the honors nobly yet. Mrs. Edward Stock ton drove down with me. She helped me with her taste and 
+tact in arranging things. We had no trouble, however. 
+All of the old servants who have not been moved to Bloomsbury scented the prey from afar, and they literally flocked 
+in and made themselves useful. 
+</p>
+</letter>

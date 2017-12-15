@@ -1,0 +1,71 @@
+<letter id='mad1618'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, August 23d, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, My last went via England, in the hands of a Swiss 
+gentleman, who had married an American lady, and was returning with her to his own Country. He proposed to take <a href="/results.php?city=paris" rel="city">Paris</a> 
+in his way. By that opportunity I inclosed copies of the proceedings of this State on the subject of the Constitution. 
+</p><p>
+North Carolina was then in Convention, and it was generally 
+expected would, in some form or other, have fallen into the general stream. The event has disappointed us. It appears that 
+a large majority has decided against the Constitution as it 
+stands, and, according to the information here received, has 
+made the alterations proposed by Virginia the conditions on 
+which alone that State will unite with the others. Whether 
+this be the precise state of the case, I cannot say. It seems at 
+least certain that she has either rejected the Constitution, or 
+annexed conditions precedent to her ratification. It cannot be 
+doubted that this bold step is to be ascribed in part to the influence of the minority in Virginia, which lies mostly in the 
+Southern part of the State, and to the management of its leader. 
+It is in part ascribed, also, by some, to assurances transmitted 
+from leading individuals here, that <a href="/results.php?city=new york" rel="city">New York</a> would set the 
+example of rejection. 
+</p><p>
+The event, whatever may have been its cause, with the tendency of the circular letter from the Convention of <a href="/results.php?city=new york" rel="city">New York</a>, 
+has somewhat changed the aspect of things, and has given fresh 
+hopes and exertions to those who opposed the Constitution. 
+The object with them now will be to effect an early Convention, composed of men who will essentially mutilate the system, 
+particularly in the article of taxation, without which, in my 
+opinion, the system cannot answer the purposes for which it 
+was intended. An early Convention is in every view to be 
+dreaded in the present temper of America. A very short period 
+of delay would produce the double advantage of diminishing 
+the heat and increasing the light of all parties. A trial for 
+one year will probably suggest more real amendments than all 
+the antecedent speculations of our most sagacious politicians. 
+</p><p>
+Congress have not yet decided on the arrangements for inaugurating the new Government. The place of its first meeting 
+continues to divide the Northern and Southern members, though 
+with a few exceptions to these general descriptions of the parties. The departure of Rhode Island, and the refusal of North 
+Carolina, in consequence of the late event there, to vote in the 
+question, threatens a disagreeable issue to the business, there 
+being now an apparent impossibility of obtaining seven States 
+for any one place. The three Eastern States and <a href="/results.php?city=new york" rel="city">New York</a>, 
+reinforced by South Carolina, and as yet by New Jersey, give 
+a plurality of votes in favor of this city. The advocates for a 
+more central position, however, though less numerous, seemed 
+very determined not to yield to what they call a shameful 
+partiality to one extremity of the continent. It will be certainly of far more importance under the proposed than the present system that regard should be had to centrality, whether we 
+consider the number of members belonging to the Government, 
+the diffusive manner in which they will be appointed, or the 
+increased resort of individuals having business with the Legislative, Executive, and Judiciary departments. 
+</p><p>
+If the Western Country be taken into view, as it certainly 
+ought, the reasoning is still further corroborated. There is 
+good ground to believe that a very jealous eye will be kept in 
+that quarter on inattention to it, and particularly when involving a seeming advantage to the Eastern States, which have been 
+rendered extremely suspicious and obnoxious by the Mississippi 
+project. There is even good ground to believe that Spain is 
+taking advantage of this disgust in Kentucky, and is actually 
+endeavoring to seduce them from the Union, holding out a darling object which will never be obtained by them as part of the 
+Union. This is a fact as certain as it is important, but which 
+I hint in strict confidence, and with a request that no suspicion 
+may be excited of its being known, particularly through the 
+channel of me. I have this moment notice that I must send off 
+my letter instantly, or lose the conveyance. I must consequently 
+defer further communications till another opportunity. 
+</p><p>
+Along with this you will receive a copy of the report you 
+desired from Mr. Thomson, and a copy of the Federalist, a publication mentioned in my last. 
+</p></letter>

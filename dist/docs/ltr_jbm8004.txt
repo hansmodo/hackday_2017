@@ -1,0 +1,35 @@
+<letter id='jbm8004'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+U. S. Ship Portsmouth, 
+</p><p>
+<a href='/results.php?city=san francisco' rel='city origin'>Yerba Buena</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='26'>26</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: Since writing to you by Lieutenant Revere a force of seventy Californians, moving from Santa Clara towards Sonoma, after passing the narrows of this bay twelve miles to the 
+Northerd of my anchorage, were met by a party of fifteen of the revolutionists, and checked or, as reported, compelled to fall back with the loss of two killed and two wounded, two of the 
+fifteen also falling by the fire of their opponents. This first success, though seemingly a small 
+affair, cannot fail I think to give a favorable impulse to the operations of the insurgents and attract at once numbers of the foreign residents to their aid. Although neutral in my position, I 
+cannot be so in feeling and am anxiously looking for farther intelligence, believing that inactivity in the circumstances can form no part of the policy of the Sonoma party. 
+</p><p>
+<a href="/results.php?tla=jsc" rel="adversary">Castro</a> has written to me, saying that " he had received advice from various sources, that the boats of the American ship Portsmouth go about the Bay of San Francisco armed for the 
+purpose of examining its trade, etc." This, of course, I have very honestly denied, but informed him that I had sent two boats since the 10th inst. to your camp, and deemed it proper in the 
+circumstances to notify him of my intention to despatch another for the purpose of communicating with you at the close of this week, since which I have heard nothing from him. He is at 
+Santa Clara with about seventy men, it is said. 
+</p><p>
+I have directed Lieutenant Bartlett to bring Surgeon Henderson with him when he returns, unless your detention beyond the period named for your final departure for the United States 
+should render his further continuance important, of which you will please be the judge. Lieutenant Bartlett will hand you, sir, a package for the Honorable Secretary of the Navy, which (if 
+perfectly convenient, not otherwise), I will thank you to take charge of, and forward from any point of communication most convenient to yourself. 
+</p><p>
+Wishing you, sir, a safe and pleasant journey to your country and home, I have the honor to subscribe myself, 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>,
+</p><p>
+Commander U. S. N. 
+</p><p>
+To Captain J. C. Fremont, 
+</p><p>
+U. S. Topi. Engineers, Upper California. 
+</p>
+</letter>

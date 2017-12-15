@@ -1,0 +1,62 @@
+<letter id='thj1427'>
+<recipient first='John' last='Adams' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, August 10,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+Your favor of the 4th instant came to hand yesterday. I now enclose you
+the two "Arrêts" against the importation of foreign manufactures into
+this kingdom. The cause of the balance against this country in favor of
+England, as well as its amount, is not agreed on. No doubt, the rage
+for English manufactures must be a principal cause. The speculators in
+exchange say, also, that those of the circumjacent countries, who have
+a balance in their favor against France, remit that balance to England
+from France. If so, it is possible that the English may count this
+balance twice: that is, in summing their exports to one of these States,
+and their imports from it, they count the difference once in their
+favor; then a second time, when they sum the remittances of cash they
+receive from France. There has been no "Arrêt" relative to our commerce,
+since that of August, <a href="/results.php?year=1784">1784</a>. And all the late advices from the French
+West Indies are, that they have now in their ports always three times
+as many vessels as there ever were before, and that the increase
+is principally from our States. I have now no further fears of that
+"Arrêts" standing its ground. When it shall become firm, I do not think
+its extension desperate. But whether the placing it on the firm basis
+of treaty be practicable, is a very different question. As far as it is
+possible to judge from appearances, I conjecture that Crawford will do
+nothing. I infer this from some things in his conversation, and from
+an expression of the Count de Vergennes, in a conversation with me
+yesterday. I pressed upon him the importance of opening their
+ports freely to us, in the moment of the oppressions of the English
+regulations against us, and perhaps of the suspension of their commerce.
+He admitted it; but said we had free ingress with our productions. I
+enumerated them to him, and showed him on what footing they were, and
+how they might be improved. We are to have further conversations on the
+subject. I am afraid the voyage to Fontainebleau will interrupt them.
+From the inquiries I have made, I find I cannot get a very small and
+indifferent house there, for the season, (that is, for a month) for less
+than one hundred or one hundred and fifty guineas. This is nearly the
+whole salary for the time, and would leave nothing to eat. I therefore
+cannot accompany the court thither, but I will endeavor to go there
+occasionally from <a href="/results.php?city=Paris" rel="city">Paris</a>.
+</p><p>
+They tell me it is the most favorable scene for business with the Count
+de Vergennes, because he is then more abstracted from the domestic
+applications. Count d'Aranda is not yet returned from the waters of
+Vichy. As soon as he returns, I will apply to him in the case of Mr. Watson. I will pray you to insure Houdon's life from the 27th of last
+month till his return to <a href="/results.php?city=Paris" rel="city">Paris</a>. As he was to stay in America a month
+or two, he will probably be about six months absent; but the three per
+cent, for the voyage being once paid, I suppose they will insure his
+life by the month, whether his absence be longer or shorter. The sum to
+be insured is fifteen thousand livres tournois. If it be not necessary
+to pay the money immediately, there is a prospect of exchange becoming
+more favorable. But whenever it is necessary, be so good as to procure
+it by selling a draft on Mr. Grand, which I will take care shall be
+honored. With compliments to the ladies,
+</p><p>
+I am, dear Sir, your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

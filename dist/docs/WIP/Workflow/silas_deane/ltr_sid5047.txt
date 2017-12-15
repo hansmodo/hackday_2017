@@ -1,0 +1,20 @@
+<letter id="sid5047">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 30th <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am still so unhappy, as to be without the honor of any reply to the several letters I have written through you to 
+Congress, praying that honorable body to favor me with an audience, and that they would give the necessary orders to 
+their ministers or commissioners at the Court of Versailles to examine, adjust, and settle my accounts immediately on 
+my return to France. I take the liberty now to add to what I have already written, that the hopes of being favored 
+with an audience have already occasioned my losing several very agreeable and safe opportunities of returning, until the 
+season has become as pressing as the business which calls me back, and obliges me most earnestly to entreat the attention of Congress to my situation and requests. 
+I have the honor to remain, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

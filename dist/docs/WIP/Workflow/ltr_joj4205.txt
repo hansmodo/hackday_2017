@@ -1,0 +1,47 @@
+<letter id="joj4205">
+<recipient first="E" last="Brown" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1821' rel="origin">1821</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received, and thank you for, the interesting report 
+of the joint committee of both houses of your Legislature, 
+relative to certain proceedings of the Bank of the United 
+States, which you were so obliging as to send me. 
+</p><p>
+Controversies between the national and a state government, or any of their respective departments, are to be 
+regretted. It is desirable that the one which occasioned 
+this report, should be brought to an amicable and satisfactory termination ; and that the limits which bound the authorities of the national and state governments be well ascertained and observed. 
+</p><p>
+However extensive the constitutional power of a government to impose taxes may be, I think it should not be so 
+exercised as to impede or discourage the lawful and useful 
+industry and exertions of individuals. Hence, the prudence 
+of taxing the products of beneficial labour, either mental or 
+manual, appears to be at least questionable. 
+</p><p>
+Whether taxation should extend only to property, or 
+only to income, or to both, are points on which opinions 
+have not been uniform. I am inclined to think, that both 
+should not be taxed. If the first is preferred, then tax the 
+land and stock of a farmer, but not his crops ; tax his milchcows, but not their milk, nor the butter and cheese made of 
+it, whether the same be sent to market or consumed in his 
+family. Tax the real and personal estate of a physician 
+and a lawyer, but not the conjectural and varying profits 
+they derive from the skilful and industrious exercise of 
+their professions, &c. &c. 
+</p><p>
+On this and similar subjects, there will be different opinions. Our minds are probably as little alike as our features ; and it is not uncommon for men of unquestionable 
+talents and candour to take opposite sides of the same question : neither of them being culpable, both are entitled to 
+allowances for the risk of committing mistakes, to which 
+we are all more or less exposed. 
+</p><p>
+It is an agreeable circumstance that prosperity attends 
+you ; and permit me to add, that for its continuance and 
+increase, you have the best wishes of 
+</p><p>
+Sir, your obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

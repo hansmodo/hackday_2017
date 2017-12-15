@@ -1,0 +1,22 @@
+<letter id="edp4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=edmunsbury' rel='city origin'>Edmunsbury</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='11'>11th</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I congratulate you, sir, upon your appointment to represent the American States at the court of Madrid ; the just 
+testimony of that confidence which the honourable body you have presided over, have in your abilities and integrity. 
+May health, success, and every felicity accompany you; but, while I am sensible of the advantages we shall reap 
+from your eminent services there, I have my fears that they will be missed, importantly, where you now are ; and that 
+the spirit of party, almost laid to sleep, will revive upon your absence. I cordially wish you may be able to heal 
+the new-made breach between Spain and Britain, since France appears disposed to peace, and I am mistaken if the 
+court of London are not ready to make up with us, if nothing respecting our allies hinders it. Indeed we want 
+an honourable peace ; but I hope there lives not a wretch who wishes it upon terms of dishonour to our noble allies. 
+I am, sir, with unfeigned regard, 
+</p><p>
+Your most obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=edp" rel="me">Edmund Pendleton</a>. 
+</p>
+</letter>

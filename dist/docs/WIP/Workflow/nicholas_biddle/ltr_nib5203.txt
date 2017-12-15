@@ -1,0 +1,357 @@
+<letter id="nib5203">
+<recipient first="James" last="Monroe" type="individual"/>
+<p>
+<a href='/results.php?city=andalusia' rel='city origin'>Andalusia</a> <a rel="month origin" value="10">October</a> <a rel='day origin' value='8'>8</a>. <a href='/results.php?year=1820' rel="origin">1820</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+You will I am sure feel some interest in the inclosed 
+paper which I have thought it advisable to publish in order 
+to correct some deeply rooted prejudices against some of the 
+measures of the last war. Having never taken any formal notice of them till now, I believed that after so long a time it 
+was right to state distinctly what it was I had really done, to 
+excite the violence of that period. As far as I can learn, its effect upon fair &amp; liberal minds has been such as I could wish. 
+Nevertheless it will not contribute at all to my election 
+which will be decided by very different considerations. Ac 
+cording to the unfortunate system of nomination prevailing 
+here, it is always in the power of a cabal to take from the 
+people all share in the real business of an election. Thus for 
+instance I was originally nominated by both sections of the 
+Republican party by a Committee of the friends of Mr Findlay &amp; a Committee of the friends of Mr Heister. But the 
+latter were so anxious to secure his election, that finding the 
+federalists unwilling [to] vote for their candidate Mr Heister 
+unless Mr Heister's friends in return would vote for the federal 
+members of Congress, they reassembled &amp; in order to secure 
+the federal votes for Mr Heister gave up their Congress ticket 
+altho it had been formally agreed upon &amp; published. My sup 
+port therefore will be from one section only of the republicans 
+the other at the head of whom is Duane opposing my election, not as he himself avowed to a friend of mine from any 
+personal hostility to me, but because I was well disposed to 
+the administration of the general gov. Another very efficient 
+motive with that individual is that my nomination excluded 
+his own son. Such are the springs which move our election. 
+The district is in truth a perfect chaos of small factions &amp; as 
+I have shunned all participation in their intrigues I do not 
+anticipate the slightest chance of being elected. The only 
+object of any importance is to rally the sound part of the 
+population against the decided hostility to the general gov. 
+which animates some of the demagogues &amp; that I think 
+can be accomplished. Will you present my best respects to <a href='/results.php?tla=' rel=''>Mrs Monroe</a> . . . 
+</p><p>
+The opposition is formed of a union of the federalists with 
+the friends of Mr Heister. The latter consist of two divisions, 
+one willing to sacrifice every thing for Mr Heister, the other 
+at the head of whom is Duane, in addition to the same motive 
+are stimulated by the pleasure of opposing one whom they 
+know to be friendly to the administration of the general gov. 
+This reason is distinctly avowed by their leader who at the 
+same time professes to have no personal hostility to me. Such 
+are the secret springs which will control the election. 
+</p><p>
+To the Electors of the City and County of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+and the County of Delaware. 
+</p><p>
+I understand that many estimable persons among you, retain unkind feelings toward me from a belief that during the 
+late war, I proposed to establish in Pennsylvania the French 
+system of military conscription. This reproach was widely 
+circulated at that period. But I was then too anxious about 
+the defence of the country, to care about defending myself, 
+and I therefore never in any way noticed it, presuming that 
+when the violence of party passions should subside, men 
+would return to more just and liberal sentiments. I should 
+still persevere in the same silence, but I think it due to those 
+gentlemen, who have done me the honor to connect my name 
+with the approaching election for members of congress, to 
+remove an impression which may be injurious. If then it be 
+true, that there is any individual, who forgetting the dangers of the war, remembers only its prejudices, he will perhaps 
+find in the following statement, some reason to think that he 
+has been unjust to me. 
+</p><p>
+The assertion is, that I proposed to introduce the French 
+system of conscription. 
+</p><p>
+The fact is, that I never proposed any thing resembling the 
+French conscription; that what I did propose, was a system 
+practised in Pennsylvania, long before the French conscription was in existence; and that the very design and effect 
+of it was to avoid a conscription, that is a militia draft which 
+is in principle, very nearly the same mode of levying troops. 
+</p><p>
+A few words will make this evident. The French system of 
+conscription is this. All the men between twenty and twenty-five years of age, are divided into classes. When a class is called into service, each man of the class must find a substitute or march, or what to the mass of the citizens is 
+precisely the same thing, pay sixteen dollars a month. The 
+nature of the two services is of course different, from the 
+peculiar circumstances, and the different forms of government 
+in the two countries; but as mere modes of military levy 
+they are evidently similar. 
+</p><p>
+Now what I have proposed was this. Every twenty-two 
+men above eighteen years of age, were to furnish a soldier to 
+serve for the defence of the state, during twelve months. If 
+they did not, the proper officer was to provide one, and di 
+vide the expense among the twenty-two. But before doing 
+this, such of the twenty-two as were liable to military duty 
+drew lots. If the person on whom the lot fell consented to 
+serve, he received a contribution of two hundred dollars from 
+his neighbors. If he did not, the price of a substitute should 
+exceed two hundred dollars, he was to pay the excess, which 
+was limited to two hundred dollars more. 
+</p><p>
+All this might be a good or a bad system, but one thing at 
+least is clear, that it is totally unlike the French system, and 
+much less like the French conscription than our own militia 
+law, which it was intended to supercede. 
+</p><p>
+But in fact, the mode of raising a military force at that 
+time, was not a question of general policy, but of immediate 
+expediency not how to frame a permanent system, but how 
+to provide against a sudden emergency. It was necessary to 
+raise within ten weeks, that is between the middle of January, before which no law could pass, and the month of April, 
+when <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> might be assailed, an adequate force for 
+its protection. To procure these troops by voluntary enlistments, was utterly hopeless; for the United States army had, 
+during more than two years, gleaned every idler in the state; 
+and even had there been time, the commonwealth had neither 
+land to promise, nor bounty money to pay to recruits. To rely 
+exclusively on occasional drafts of militia, hastily levied at 
+every fresh alarm, was to entrust the fate of the city to a system the most oppressive to the citizen, the most expensive 
+to the community, and the least efficient against the enemy. 
+Believing then the voluntary enlistment too slow and too 
+dear, and the militia draft too weak and too burdensome, 
+I proposed that which promised to be at once prompt, equal, 
+and efficient. I thought then, and I think still, that it had 
+many decided advantages over the other plans. The first, 
+and the most important was, that by it, and by it alone could 
+nine thousand well officered men be brought into the field in 
+six weeks, without any demand on the state treasury the 
+second was, that being chiefly composed of substitutes who 
+would probably reinlist, the force could be retained as long as 
+it should be wanted the third was, that it was much more 
+favourable to the poorer citizens, than the militia law. By that 
+law, if a militia man leaves home, neither he nor his family 
+receive any indemnity; and if he stays at home, he pays for 
+a years delinquency, one hundred and ninety-two dollars. 
+By the proposed bill, if he left home he received two hundred 
+dollars; if he staid at home he paid, except in an extraordinary 
+case, only the twenty-second part of the price of a substitute. 
+Instead moreover of being a dangerous novelty, it had all 
+the merit of successful experience. It was an old Pennsylvania plan. In the year <a href='/results.php?year=1780'>1780</a>, a law passed dividing the people 
+into classes, each of which was to furnish a man to serve in 
+the army of the United States during the war, and a delinquent class was to pay fifteen pounds specie or current money, 
+equivalent, which was one thousand one hundred and twenty-five pounds currency. 
+</p><p>
+A second act, passed in <a href='/results.php?year=1781'>1781</a>, by which, if a class was delinquent, a substitute was to be procured without limitation of price, at the expense of the class. 
+</p><p>
+A comparison of the levy of <a href='/results.php?year=1780'>1780</a>, with that of <a href='/results.php?year=1815'>1815</a>, will 
+show how little reason <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> would have had to com 
+plain of the latter. By the law of <a href='/results.php?year=1780'>1780</a>, the city and county 
+of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> was bound to furnish eight hundred and 
+ninety-five men, to serve in the United States army during 
+the war. By the proposed law, the city and county, with per 
+haps three times the population, and twenty times the wealth 
+of <a href='/results.php?year=1780'>1780</a>, would have been bound to furnish, for its own exclusive defence during one year, about one thousand, or eleven 
+hundred men. 
+</p><p>
+Let me now ask any fair and candid man, in what part of 
+this proposed measure is there any thing unjust or oppressive 
+any thing which violates the rights, or wounds the interests 
+of a single individual if it be not milder than the militia 
+law more practicable than an enlistment system and 
+unless the city was prepared to submit quietly to shame and 
+pillage, what mode of organizing resistance could be more im 
+mediate, energetic and just? But supposing it not to be the 
+best plan, supposing it to be a wrong plan. That would be 
+a fit reason for preferring some other, but it surely is not a 
+fair subject of reproach against the proposer, who could not 
+possibly have had any personal or selfish motive, and who, if 
+he erred, could have been mislead only by mistaken zeal. So 
+unwilling indeed was I, that any mere pride of opinion on my 
+part should interfere with the public service, that I at the 
+same time, supported and voted for an enlistment bill, under an impression that the few who could be raised by it, would 
+be at least so much gained for our defence and when my 
+own proposal was lost in the house of representatives, was 
+one of a committee who immediately proposed a bill for 
+raising volunteers, on which the senate were engaged the 
+day when peace was announced. 
+</p><p>
+I proposed and supported these measures from a conviction, that the state of the country demanded a vigorous 
+effort to save it, and I should have consented to any thing 
+which would call forth its resources without being very fastidious as to forms. And truly if eight thousand men were 
+willing to come from the interior to our assistance, it did 
+seem to be a matter of utter insignificance to the citizens 
+of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, whether they came out of classes of twenty- 
+two, or classes of any other number. That they came at 
+all that they came well armed well officered and well 
+paid might, I think, have satisfied the most scrupulous, 
+and furnished an apology at least for the system which 
+brought them. 
+</p><p>
+I have now finished the original purpose of this note, but 
+the subject induces me to add a few words on the general 
+measures of that time. 
+</p><p>
+In the autumn of <a href='/results.php?year=1814'>1814</a>, I was elected to represent this 
+district in the senate. You all remember the condition of 
+the country. Washington had been taken <a href='/results.php?city=baltimore' rel='city'>Baltimore</a> at 
+tacked a large British fleet and army were on the coast, 
+able suddenly to strike any assailable point. Against this 
+danger, <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> was totally unprepared. She relied on 
+the general government, until the failure of the military 
+proposals in congress announced to the states, that they 
+must provide for their own safety. From that moment it became my duty to secure the means of defending the capital. It was manifest that unless a force could be collected 
+before the navigation of the Delaware opened, Philadelphia was at the mercy of the enemy. We wanted then a 
+naval defence we wanted a stationary land force, in 
+aid of the militia we wanted arms we wanted money. 
+That none of these were neglected, will be seen by the legislative journals of that day, which I cite, because they offer 
+a simple and unquestionable statement of facts. 
+</p><p>
+Extract the Senate Journal, <a href='/results.php?year=1814'>1814</a>-15, p. 104. January 
+4th, <a href='/results.php?year=1815'>1815</a>. 
+</p><p>
+"A motion was made by Mr. Biddle and Mr. Lowrie, and 
+read as follows. Resolved, that a committee be appointed 
+to inquire into the expediency of raising by drafts from the 
+militia, a corps of eight thousand men, to serve during 
+twelve months for the defence of Pennsylvania and the 
+adjoining states, with leave to report by bill or otherwise. 
+Resolved, that the same committee be instructed to in 
+quire into the expediency of procuring one or more steam 
+frigates, steam batteries, or other means of defence for the 
+protection of the shores of Delaware, with leave to report 
+by bill or otherwise. Resolved, that the same committee be 
+instructed to inquire into the expediency of borrowing a 
+sum not exceeding one million of dollars, to be employed 
+solely for the defence of this state with leave to report 
+by bill or otherwise. 
+</p><p>
+"On motion, said resolutions were severally read, considered, and adopted, and ordered that Mr. Biddle, Mr. Lowrie, Mr. Forster, Mr. Frailey and Mr. Beale, be a committee for the purpose expressed in said resolutions." 
+</p><p>
+In two days January 6th, <a href='/results.php?year=1815'>1815</a>. Page no. 
+</p><p>
+"Mr. Biddle from the committee appointed for the purpose on the fourth instant, reported an act to raise a military force for the defence of this commonwealth." This passed the senate on the I4th of January. 
+</p><p>
+On the I3th January Page 128. 
+</p><p>
+"Mr. Biddle from the committee appointed for the pur 
+pose on the fourth instant reported a bill entitled an act 
+to authorize a loan of one million of dollars, for the defence 
+of this commonwealth." The loan was to be at seven per 
+cent, and to be applied exclusively "to defray any expenses 
+which may be incurred in military or naval preparations 
+for the defence of this commonwealth." 
+</p><p>
+On investigation it appeared that the steam frigates 
+could not be built in time, and that the approach to the 
+city might be adequately defended, by strengthening the 
+United States flotilla in the Delaware. It consisted of 
+twenty-seven boats and vessels, but such was the desperate 
+state of the recruiting service, that this armament had only 
+about one fifth of its complement; and a large part of its 
+crew were to be discharged in April. The commander was 
+requested to state distinctly, what number of men would 
+render his flotilla perfectly efficient, and what bounties 
+would procure them. He did so, but, that in a service so 
+important nothing should be left to hazard, the number of 
+men as well as the bounties, were increased beyond his esti 
+mates. 
+Accordingly, January 25th, <a href='/results.php?year=1815'>1815</a>: 
+</p><p>
+"Mr. Biddle read in his place, and on permission presented to the chair a bill, entitled An act granting additional emoluments to seamen, employed in the defence of this commonwealth. " This bill passed February 1st. 
+</p><p>
+Of arms the state possessed enough to equip the new 
+levies, (Senate Journal, p. 21,) but that every thing which 
+promised to be useful, might be pressed into the public 
+service. 
+</p><p>
+"On motion of Mr. Biddle and Mr. Graham, the follow 
+ing resolution was twice read, considered, and adopted. Re 
+solved, That a committee be appointed to inquire into the 
+nature and advantages of Chamber's repeating guns, and 
+the expediency of employing them in the service of the 
+state." Senate Journal, p. 46. 
+</p><p>
+Page 67. "Mr. Biddle, from the committee appointed 
+on the 1 5th, to inquire into the nature and advantages of 
+Chamber's repeating guns, made report as follows," &amp;c. 
+&amp;c. Concluding with a resolution to purchase fifty swivels, 
+and to have five hundred muskets altered to the new plan. 
+</p><p>
+These documents prove that, within a few days after 
+the duty of protecting the capital, devolved on the legislature, an efficient system of defence was proposed and 
+passed in the Senate; a system, which before the month of 
+April, would have placed between <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> and its enemy, a strong flotilla, capable of being speedily reinforced, 
+by all the naval resources of the city; and a well officered army in aid of the local militia; a system, which would 
+have shielded the city from all danger and all alarm during the war. 
+</p><p>
+Of the energy and patriotism of those gentlemen, from 
+the interior, who co-operated with me, and who, although 
+remote from the capital, readily and zealously took their 
+share in its defence, I can never speak nor feel too warmly. 
+Nor did I permit myself to question the motives of those 
+who opposed any of these measures. I knew them too well, not to ascribe their opposition to a fair and honourable 
+difference of opinion. But I also had some right to a liberal 
+construction of my own views. In executing the duties as 
+signed to me, I had endeavoured to do what was useful, not 
+what was agreeable; and never having sought to please, 
+not to have pleased, would have been a subject neither of 
+surprise, nor mortification. But I could not easily anticipate, that after a laborious and anxious struggle to pro 
+vide for the defence of my own native city against foreign 
+enemies, after securing the aid of patriotic men from the 
+country, willing to partake in the expense and the dangers 
+of that defence, I should become an object of denunciation 
+in that very city; should have been put under a sort of 
+political proscription, avowedly for my activity in striving to protect it. 
+</p><p>
+There was about the same time another measure, to 
+which from my share in it, it may be well to advert. When 
+Massachusetts and Connecticut proposed to Pennsylvania, 
+the changes in the constitution, originally projected at 
+the convention of <a href='/results.php?city=hartford' rel='city'>Hartford</a>, 1 it appeared to me after very 
+deliberate examination that their inevitable effect would 
+be to loosen the whole structure of the confederation, and 
+that they were therefore more dangerous to the country 
+than the foreign armies which threatened it. The discussion 
+of these proposals had in every quarter, inflamed to their 
+utmost violence the feelings of the community. I thought 
+then that Pennsylvania, neutral in its position, yet em 
+bracing nearly all the interests on which these changes would operate, might usefully interpose its calm strength 
+between the passions of its neighbours, and by a course of 
+mingled decision and gentleness, reclaim them to milder 
+feelings towards each other. The report on the amendments 
+was hastily drawn in the midst of other occupations, and 
+much of it written on the road to Harrisburgh. It of course 
+has no pretension as to form. But if my recollection does 
+not deceive me, its general tone was fair and impartial, 
+it imputed no unworthy motives, it contained no phrase 
+which could wound even any member of that convention, 
+it discussed the proposals with candor, nor was there the 
+slightest departure from that courtesy, which among in 
+dependent states, is at once the proof and the security of 
+mutual respect. Yet this paper it seems has been the subject or the pretext of much censure upon its author. 
+</p><p>
+Of all these things I have never complained. I do not now complain. Their singularity has much oftener tempted 
+me to smile at finding myself reproached not by the men 
+of the country, for calling them from their homes, but 
+by the men of the city, because in suddenly raising nine 
+thousand soldiers for its defence, I had been guilty of arranging them into classes of twenty-two. It is right how 
+ever, to say that if during the war I persevered in these 
+measures in opposition to prejudices, which I saw were 
+estranging from me many honest and amiable citizens, and 
+if I have suffered nearly six years to pass without any effort 
+to remove them, my silence has proceeded rather from a 
+disregard of what was merely personal to myself, than from 
+any insensibility to the good will of the community. I do 
+not feel and I will not affect any such indifference. I have 
+lived long enough to know that the kindly feelings of those who surround us, are among our best and safest enjoyments. 
+But even that good will may be too dearly purchased, and 
+I am quite sure that the applause of others, could never 
+console me for the loss of my own esteem. That I should 
+have forfeited irretrievably, if at a season of great national 
+disaster, when not merely the safety, but the honor of the 
+state was menaced, when all the free institutions of this 
+country were rocking to their foundations, I should from 
+any spirit of faction, or the despicable dread of being what 
+is called unpopular, have shrunk from any one duty of the 
+station in which your confidence had placed me. 
+</p><p>
+NICHOLAS BIDDLE. 
+</p>
+</letter>

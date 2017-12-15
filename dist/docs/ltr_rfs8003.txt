@@ -1,0 +1,29 @@
+<letter id='rfs8003'>
+<recipient first='Stephen' last='Kearny' type='individual'/>
+<p>
+Headquarters, <a href='/results.php?city=san diego' rel='city origin'>San Diego</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Dear General : Your note of yesterday was handed to me last night by <a href="/results.php?tla=hst" rel="colleague met">Captain Turner</a>, of the dragoons. 
+</p><p>
+In reply to that note, permit me to refer you to the conversation held with you yesterday 
+morning at your quarters. I stated to you distinctly that I intended to march upon St. Louis Rey as soon as possible with a part of the force under my command, and that I was very desirous to march on to the Pueblo to co-operate with <a href="/results.php?tla=jhf" rel="colleague">Lieutenant-Colonel Fremont</a> ; but my 
+movements after, to St. Louis Rey, would depend entirely upon the information that I might 
+receive as to the movements of <a href="/results.php?tla=jhf" rel="colleague">Colonel Fremont</a> and the enemy. It might be necessary for me to stop the pass of San Felipe, or march back to San Diego. 
+</p><p>
+Now, my dear General, if the object of your note is to advise me to do anything which would enable a large force of the enemy to get into my rear and cut off my communication 
+with San Diego, and hazard the safety of the garrison and the ships in the harbor, you will excuse me for saying I cannot follow such advice. 
+</p><p>
+My purpose still is to march for St. Louis Rey as soon as I can get the dragoons and riflemen mounted, which I hope to do in two days. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=rfs" rel="me">R. F. Stockton</a>, <br>
+Commander-in-Chief and Governor 
+</p><p>
+of the Territory of California.
+</p><p>
+To Brigadier-General S. W. Kearny, 
+</p><p>
+United States Army. 
+</p>
+</letter>

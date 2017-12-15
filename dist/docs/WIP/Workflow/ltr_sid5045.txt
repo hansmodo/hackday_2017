@@ -1,0 +1,44 @@
+<letter id="sid5045">
+</p><p>
+TO THE PRESIDENT OF CONGRESS. 
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1st</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+I think it unnecessary to make an apology for sending you the enclosed estimates and reflections made on two of the most important and interesting subjects, and for desiring 
+the same may be communicated to Congress. Should that honorable body approve of any or all of them, I shall be very lKi|)|)y, and if they should not they will excuse me for 
+having given them this trouble, when they reflect, that the desire of throwing some light on these subjects has been my sole motive. 
+</p><p>
+The providing for the redemption of our money, and the establishment of a marine, are objects, which in my view, far exceed in the magnitude and extent of their importance, and that are at present under public consideration ; they 
+greatly depend on each other, and permit me to say, all our future operations in a great degree depend on them. We 
+cannot pay the interest of any considerable loan without commerce, which cannot be revived effectually without a marine force of our own, which may I am confident be formed on the enclosed plan, and be ready in a short space 
+of time to act with vigor. Great Britain has long had the empire of the ocean, and in consequence the whole world has been her tributary ; her own bad policy and the present war will deprive her of that empire at this important crisis 
+it depends on the measures taken by the United States, whether they shall succeed Great Britain or not in this 
+extensive dominion. Reason, observation, and experience authorise me to say, there is not in the world any power so 
+capable of it, and as the United States can never aim at foreign conquests, but simply to guard their own coasts, 
+and to protect the commerce of their subjects, their superiority at sea can never give just cause of jealousy or offence 
+to any other nation. I am confident that a fleet of forty sail, to consist of twenty such large ships as I have described, and twenty frigates, will be more than equal to this purpose, and such a fleet may be got to sea in the course 
+of the coming year, if the materials wanted from Europe can be procured, which, if immediately applied for, I have not the least doubt of. 
+</p><p>
+I have the honor to remain, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p><p>
+P. S. I am still without the honor of any answer to my letter of the 7th ult . 
+</p><p>
+November 13th. 
+</p><p>
+After writing the above, my apprehension, lest I should be thought any way out of the usual course in communicating my sentiments to Congress, made me omit sending it to 
+you with the enclosed, but the alarming intelligence, which I received but a day or two since, of the sentiments of my countrymen in different parts on the present situation of the 
+credit of our money, the state of our finances and resources, and of the temper and disposition prevailing in consequence, has made me waive every personal consideration, 
+and communicate ibis with the enclosed to Congress, and I shall count it one of the happiest occurrences of my life, if 
+anything in my power will help to prevent that total loss of public as well as private credit, which I am sorry to find 
+begins to be almost universally apprehended, and I fear appearances at this time are in support of such apprehensions, which though at bottom they may be ill founded, yet, 
+if once generally prevailing, will. produce consequences easily foreseen. I beg leave to refer to Colonel Duer for 
+the substance of the intelligence I refer to, having communicated the letters I have received to him, for as they contain many things merely personal, I could not lay them at large before Congress. 
+</p><p>
+S. D. 
+</p>
+</letter>

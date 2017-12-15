@@ -1,0 +1,31 @@
+<letter id="tip3707">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I was yesterday honored with your Excellency's 
+letter of the 21st, to the several directions in which 
+I shall pay due attention. Yesterday I received a letter from Major Clairborne, dated the 12th instant, 
+informing me that the two expresses, stationed at 
+Bowling Green, had left it some days for want of support. As Colonel Carrington had comprehended, in 
+his estimate for Virginia, one charge for expresses, I 
+have desired him to ask <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a> for authority to 
+engage actual payment, and then immediately to write 
+Major Clairborne to replace and firmly fix the expresses, W'hom Colonel Carrington will pay on his return to Virginia. I will also apply for the Maryland district, and enable Mr. Yeates to keep his chain complete. 
+</p><p>
+Your Excellency advised that the ox-teams should 
+be assembled by the middle of May last year. I 
+would request your direction for the present year on 
+this head. The longer their assembling is delayed, 
+consistent with the expected operations, the better, 
+on account of the pasturage, which, by the middle of 
+May, is hardly sufficient for the support of the cattle. 
+It is of importance, too, to preserve, as long as possible, all the forage in the vicinity of the army. I 
+have the honor to be, with the greatest respect, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter>

@@ -1,0 +1,75 @@
+<letter id="tip3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am honored with your Excellency's letter of this 
+date respecting the preparations to be made for the 
+next campaign. The reason of my stay at the North 
+River I mentioned in my letter from thence. As 
+soon as I obtained the returns in that quarter, I 
+came away. A general return is forming, which, from 
+the multiplicity of articles, will be voluminous; but, 
+as soon as possible, I will complete and lay it before 
+your Excellency. In the mean time, I beg leave to 
+submit to your consideration some things which need 
+not wait the completion of the return, but on which, 
+from their nature and capital importance, an early 
+decision seems requisite. 
+On considering the mode most proper to be adopted 
+in providing ox-teams for the ensuing campaign, the 
+Secretary of War and I were decidedly in favor of 
+purchasing them. I have since formed the inclosed 
+estimate, number One, showing the comparative expenses of hiring and purchasing the necessary number of ox-teams, in which your Excellency will see 
+on what foundation our opinion rested. Tents being 
+the most expensive and essential articles of camp 
+equipage, I extracted from the returns, then in my 
+hands, the numbers on which we might rely for the 
+ensuing campaign. The Secretary of War, on a cursory view, supposed these numbers would be sufficient. The same extract, a copy of which, number 
+Two, is inclosed, shows the state of the knapsacks, 
+canteens, &c., at the times mentioned therein. On 
+comparing this with my estimate of last year, I think 
+nothing more needs be purchased, at least for the present, except knapsacks, canteens, and camp-kettles. 
+I was apprehensive that the canteens at <a href='/results.php?city=boston' rel='city'>Boston</a>, in 
+September, might afterwards have been transported to 
+Claverack, and they are an article so frequently lost 
+and broken, I concluded with the Secretary of War, 
+that six thousand more should be procured in Massachusetts, to be brought on by the teams raised for 
+the army ; and I sent orders accordingly to my deputy there by him. 
+</p><p>
+Number Three, is a return of the public boats in 
+the North River. On the back of it I have noted 
+the number and species of private vessels on the same 
+river, and the amount of their tonnage. But, as they 
+have run during the winter, and been ill-prepared, 
+probably not more than half of them will be fit for service The ensuing season. I procured this information, as I thought it might be of use, if a question 
+should arise, whether the gun-boats and other public 
+vessels there should be repaired. 
+</p><p>
+Number Four contains the terms on which Mr. Sheafe, the superintendent at Wappen's Creek, will 
+perform the ship and boatWright's work therein mentioned. Number Five is an estimate of a company 
+of artificers, which I apprehend will be necessary in 
+the main army the ensuing campaign. Should the 
+operations of the army in the State of <a href='/results.php?city=new york' rel='city'>New York</a> require a greater number, I persuade myself it will 
+be easy to engage them for the occasion. On the 
+terms stated, I find the company can be raised. I 
+left orders with the Commissary of Forage to form a 
+magazine sufficient for the posts in the Highlands 
+until the first of May, which, if the snow continues, 
+I expect will be done. I have contracted with the 
+smith at Newburg for all the smiths' work necessary 
+for the main army during the next campaign, if I 
+choose to continue the contract so long. Its continuance will, of course, depend on the aid which can be 
+derived from the Superintendent of Finance. The 
+terms are lower than any smiths in this city will engage on. It was the desire of the Secretary at War, 
+that your Excellency's determination relative to the 
+ox-teams, might be by me communicated to him before he should leave Massachusetts. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter>

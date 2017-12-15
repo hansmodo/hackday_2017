@@ -1,0 +1,39 @@
+<letter id="ben4720">
+<recipient first="William" last="Franklin" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+DEAR SON, 
+</p><p>
+We have had so many alarms of changes, which did not 
+take place, that just when I wrote it was thought the ministry 
+would stand their ground. However, immediately after, the 
+talk was renewed, and it soon appeared that the Sunday 
+changes were actually settled. Mr. Con way resigns and Lord 
+Weymouth takes his place. Lord Gower is made President 
+of the Council in the room of Lord Northington. Lord 
+Shelburne is stript of the American business, which is given 
+to Lord Hillsborough as secretary of state for America, a 
+new distinct department. Lord Sandwich, 'tis said, comes 
+into the postoffice in his place. Several of the Bedford 
+party are now to come in. 
+</p><p>
+How these changes may effect us a little time will show. 
+Little at present is thought of but elections, which gives me 
+hopes that nothing will be done against America this session, 
+though the <a href='/results.php?city=boston' rel='city'>Boston</a> Gazette had occasioned some heats, and the 
+<a href='/results.php?city=boston' rel='city'>Boston</a> Resolutions a prodigious clamour. I have endeavoured to palliate matters for them as well as I can : I send 
+you my manuscript of one paper, though I think you take the 
+Chronicle. The editor of that paper, one Jones, seems a 
+Grenvillian, or is very cautious, as you will see by his corrections and omissions. He has drawn the teeth and pared the 
+nails of my paper, so that it can neither scratch nor bite. It 
+seems only to paw and mumble. I send you also two other 
+late pieces of mine. There is another which I cannot find. 
+I am told there has been a talk of getting me appointed 
+under-secretary to Lord Hillsborough ; but with little likelihood, as it is a settled point here, that I am too much of an 
+American. I am in very good health, thanks to God : Your 
+</p><p>
+affectionate father, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

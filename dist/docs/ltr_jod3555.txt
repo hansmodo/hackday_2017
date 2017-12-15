@@ -1,0 +1,48 @@
+<letter id="jod3555">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel="day origin" value='8'>8</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE this day, by special permission from their majesties, obtained by Mr. West, the painter, who with 
+Mr. Copley does so much honor to our country, seen 
+the apartments in the Queen's house, as it is called, 
+or Buckingham House. It is a great curiosity indeed. 
+There is an inestimable collection of paintings by the 
+greatest masters, Raphael, Rubens, Vandyke and 
+many others. There is one room which the King 
+calls Mr. West's, as it is ornamented with a collection 
+of his works the return of Regulus the death of Epaminondas the death of Bayard the death of 
+General Wolf, &c. 
+</p><p>
+The cartons of Raphael are a wonderful production of art. The library is the most elegant thing I 
+ever saw. But the King's military and naval room 
+pleased me best, as it is a collection of plans and 
+models of every dockyard and man of war in his 
+empire. Come to Europe with Abby as soon as possible, and satisfy your curiosity, and improve your taste 
+by viewing these magnificent scenes. Go to the 
+play. See the paintings and buildings. Visit the 
+manufactures for a few months ; and then, if Congress 
+pleases, return to America with me to reflect upon them. I am in earnest. I cannot be happy nor tolerable without you. Besides, I really think one trip 
+across the sea would be of service to you and my 
+daughter, to whom my love. I shall expect you constantly until you arrive. 
+</p><p>
+I mourn the loss of my father, but it was time to 
+expect it from his age. You must be melancholy and afflicted, and I hope that the voyage will divert your 
+thoughts. Mr. Thaxter is in America before this, no 
+doubt. My dear son is the only secretary I have or 
+propose to have at present. I believe I shall go to 
+the <a href='/results.php?city=hague' rel='city'>Hague</a> and reside chiefly there ; but write to me, 
+until you embark, by Portugal, Spain, France, England or Holland. The nearer you arrive to the 
+<a href='/results.php?city=hague' rel='city'>Hague</a>, the nearer I believe you will be to me, yet I 
+may be in Paris. I shall stay but a short time in 
+<a href='/results.php?city=london' rel='city'>London</a>. You will read in the newspapers innumerable lies about Jay and me. Regard them as little 
+as I do. I have met with an agreeable reception 
+here, as agreeable as I wish ; in short I have been received here exactly as I wished to be. 
+</p><p>
+Yours, with tenderness unutterable, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. ADAMS</a>.  
+</p>
+</letter>

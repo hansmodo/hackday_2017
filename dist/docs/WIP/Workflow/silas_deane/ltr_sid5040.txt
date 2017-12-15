@@ -1,0 +1,29 @@
+<letter id="sid5040">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+I received your letter of the 7th instant, in which you informed me, that mine of the same date to you was by 
+Congress ordered to lie on the table, until the examination of Mr Carmichael should be finished. 
+</p><p>
+Though totally unable even to conjecture, what relation the 
+examination of that gentleman can possibly have to those abusive and injurious letters, written by Mr Izard and Mr Lee, yet, 
+as I had so often troubled Congress during a three months' attendance, with my repeated solicitations to be heard, I 
+forbore repealing them until neither my health, my interest, 
+nor my honor will permit me a much longer stay in America; I have, therefore, taken the liberty of enclosing my 
+answers to the letters of those gentlemen. It pains me to be obliged to answer at all, and it grieves me exceedingly to be 
+deprived of the opportunity of doing it in person ; I still hope to be indulged before leaving America. I have only further 
+to inform Congress, that I shall go into the country tomorrow, for a few days, that having engaged a passage in a ship, 
+which will sail for France sometime next month, I propose to leave <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> in a few days after I return from 
+the country, in order to embark, and shall esteem myself honored by Congress if they have any thing further in 
+which I may be of service to my country, if they will favor me with their commands. 
+</p><p>
+I have the honor to remain, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

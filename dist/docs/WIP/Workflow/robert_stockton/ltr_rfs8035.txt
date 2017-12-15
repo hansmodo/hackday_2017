@@ -1,0 +1,24 @@
+<letter id="rfs8035">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+UNITED STATES FRIGATE CONGRESS, 
+HARBOUR OF <a href='/results.php?city=san diego' rel='city origin'>SAN DIEGO</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I have the honour to inform you that the civil government of this territory is in successful operation, that <a href='/results.php?tla=jhf' rel='colleague'>Colonel Fremont</a> is acting as governor and 
+Colonel Russell as secretary, and that I am again on board of the Congress, preparing her for the coast of Mexico. 
+</p><p>
+Lieutenant Gray, who is charged with my despatches, has been my aid-de camp, and has done his duty with great good conduct and gallantry. 
+</p><p>
+He is the officer whom I sent to relieve <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> from his perilous condition after his defeat at San Pasqual, and deserves the consideration of the department. 
+</p><p>
+He will be able to give you the particulars of that unfortunate and disastrous affair. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, &c. 
+</p><p>
+To the Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D. C. 
+</p><p>
+</letter>

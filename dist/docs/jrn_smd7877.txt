@@ -1,0 +1,44 @@
+<letter id="smd7877">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=clinton' rel='city origin'>Clinton</a>, Louisiana ], <a rel="month origin" value="9">September</a> <a rel='day origin' value='1'>1st</a>, Monday. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+I woke up this morning and, to my great surprise, find that summer has already passed away, and that 
+we have already entered the first month of fall. Where has the summer gone to? Since the taking of 
+Fort Jackson, the days have gone by like a dream. I had hardly realized spring, when now I find it is 
+autumn. I am content to let the time fly, though, as every day brings us nearer Peace or something else. 
+</p><p>
+How shockingly I write! Will I ever again have a desk or a table to write on? At present, my seat is a 
+mattress, and my knee my desk; and that is about the only one I have had since the 2d of August. This 
+is the dreariest day I have seen for some time. Out side, it has been raining since daybreak, and inside, 
+no one feels especially bright or cheerful. I some times wish mother would carry out her threat and 
+brave the occasional shellings at <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>. I would dare anything, to be at home again. I know 
+that the Yankees have left us little besides the bare house; but I would be grateful for the mere shelter 
+of the roof. I often fancy how we will miss little articles that we thought necessary to our comfort 
+before, when we return. . . . And the shoes I paid five dollars for, and wore a single time? I am wishing I 
+had them now that I am almost barefooted, and can not find a pair in the whole country. . . . Would it not 
+be curious, if one of these days while traveling in the North (if I ever travel again), I should find some 
+well-loved object figuring in a strange house as a "trophy of the battle of <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>"? I should 
+have to seek for them in some very low house, perhaps; respectable people had very little to do with 
+such disgraceful work, I fancy. Suppose I should see father's cigar-stand, for instance, or Miriam's 
+little statues? I wonder if the people would have the conscience to offer to return them? A young 
+lady, passing by one of the pillaged houses, expressed her surprise at seeing an armoir full of women's and 
+children's clothes being emptied, and the contents tied up in sheets. "What can you do with such 
+things?" she asked a soldier who seemed more zealous than the rest. "Ain't I got a wife and four children in the North?" was the answer. So we, who 
+have hardly clothes enough for our own use, are stripped to supply Northerners! 
+</p><p>
+One would think that I had no theme save the wreck of our house, if they read this. But I take it 
+all out in here. I believe I must be made of wood, or some other tough material, not to feel it more. I 
+sometimes ask myself if it is because I did not care for home, that I take it so quietly now. But I know 
+that is not it. I was wild about it before I knew what had happened; since I learned all, few are the words 
+that have escaped my lips concerning it. Perhaps it is because I have the satisfaction of knowing what 
+all women crave for the Worst. Indeed it is a consolation in such days as these when truth concerning 
+either side is difficult to discover. The certainty of anything, fortune or misfortune, is comfort to me. 
+I really feel sorry for the others who suffered ; but it does not strike me that sympathy is necessary in our case. 
+</p><p>
+Mrs. Flynn came to Lilly's room, when she heard of it, well prepared for sympathy, with a large 
+handkerchief and a profusion of tears, when she was horrified to find both her and Miriam laughing over 
+the latter's description of some comical scene that met her sight in one of the rooms. Seems to me that 
+tears on all occasions come in as the fortieth article, to the articles of belief of some people. 
+</p><p>
+</letter>

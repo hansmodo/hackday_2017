@@ -1,0 +1,116 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.BxcA17 on line 183
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--cdt
+--DOC-AUTHOR-FIRST--Chevalier
+--DOC-AUTHOR-LAST--de Ternay
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="cdt3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel='day origin' value='8'>8</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter which your Excellency 
+has done me the honor to write. It would be very 
+difficult for me to fix a point for my junction with 
+the squadron, which was to follow me when I left 
+the ports of France. I am absolutely ignorant of 
+its force, and the part of America where it ought to 
+make the land. I only know, that the intention of 
+the King was to confide to me a force superior to 
+that of the enemy. He was not ignorant then that 
+Graves was destined to follow me with a strong 
+squadron, and that, after his juncture with Arbuthnot, 
+he would be superior to that he confided to me. 
+Monsieur le <a href='/results.php?tla=laf' rel='colleague'>Marquis De Lafayette</a> will have told your 
+Excellency all I told him, in private, and in presence of the <a href='/results.php?tla=cdr' rel='colleague'>Count De Rochambeau</a>, upon this subject. 
+</p><p>
+I see no difficulty in causing the merchant vessels 
+of the second division to enter the Delaware, if the 
+officer who commands it has taken measures, as I 
+did, to make the coast of Chesapeake Bay; but I 
+see much difficulty in making the ships of war enter 
+and come out of that river, with respect to its mouth. 
+As the point for the junction of the two squadrons, 
+I regard <a href='/results.php?city=boston' rel='city'>Boston</a> as preferable in all respects, since 
+the enemy could not maintain the entrance of the 
+Bay, in the month of September, without exposing 
+themselves to the same inconveniences which made 
+them lose, within two years, a vessel of war in these 
+parts. I write accordingly to the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a>, under your cover, that if the second division arrives in the Chesapeake Bay, it might, at the 
+option of <a href='/results.php?tla=gwa' rel='colleague'>General Washington</a> and of the <a href='/results.php?tla=cdr' rel='colleague'>Count De Rochambeau</a>, make the Evansport vessels enter into 
+the Delaware, and that the vessels of war might 
+afterwards proceed to <a href='/results.php?city=boston' rel='city'>Boston</a>, taking under their convoy the few ships which are in that river, loaded 
+with flour for Rhode Island. But I observe ahways to your Excellency, that the point of this division making the land is absolutely unknown to me; that 
+I do not judge that it is equal in force to that of Graves; that if the officer, who commands, has taken 
+measures to arrive at <a href='/results.php?city=boston' rel='city'>Boston</a>, I shall learn the account with the greatest pleasure. 
+</p><p>
+The English squadron is anchored between Block Island and Long Island, nearest the land. I am, with sincere respect and attachment. Sir, 
+</p><p>
+Your most humble and most obedient servant. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdt" rel="me">Chevalier De Ternay</a>.
+</p>
+</letter><letter id="cdt3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value='10'>10</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter, which your Excellency 
+has done me the honor to write, the 6th of this 
+month, on the subject of the American frigates which 
+may join the squadron of the King of France. 
+</p><p>
+When I shall be equal in force to the enemy, or 
+perhaps superior, and when there shall be any maritime operation corresponding with that which you 
+have premeditated, and which Monsieur the Marquis 
+de Lafayette has imparted to me, those frigates will 
+certainly be very useful to me ; but, till then, I think 
+they might be employed most usefully in a cruise 
+to intercept the vessels which go from <a href='/results.php?city=charleston' rel='city'>Charleston</a> to 
+<a href='/results.php?city=new york' rel='city'>New York</a>. I believe that Admiral Arbuthnot has, 
+in this place here, all his strong frigates. 
+</p><p>
+I propose to your Excellency to have escorted, by 
+those frigates, to the ports of <a href='/results.php?city=boston' rel='city'>Boston</a>, a vessel loaded 
+with flour by Monsieur Holker for the squadron of 
+the King of France, and which is at present in the 
+Delaware. It would be necessary, in this case, that 
+they take their route a little large, that they may 
+not fall too near this place, the frigates of Arhuthnotbeins: able to extend their cruises to the Shoals of 
+Nantucket. This Admiral sent me, yesterday morning, a [flag], in order to transmit me some letters 
+from French prisoners, at this very moment at New 
+York. He is anchored at the easternmost point of 
+Long Island. I had sent a vessel, some hours before, 
+to propose to him an exchange. 
+</p><p>
+If you do not want the sloop <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, and this 
+vessel is a good sailer, your Excellency could despatch her to St. Domingo. The <a href='/results.php?tla=laf' rel='colleague'>Marquis De Lafayette</a> would send, by this opportunity, the letter which 
+I had transmitted to him for the Count de Guichen, 
+and which ought to be translated into ciphers by 
+the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a>. I require, conformably 
+to the orders of the King, a reenforcement of some 
+ships from this French Commander. If these arrive 
+by the end of September, I could transport your 
+army to Long Island the beginning of October, and 
+finally decide the fate of America this year. I send 
+to the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a> the signals of recognizance which have been previously addressed to me 
+by the Council of Admiralty at <a href='/results.php?city=boston' rel='city'>Boston</a>, and which I 
+have adopted. It is necessary that there should be 
+uniformity in those on the whole coast, to avoid confusion. I am, with respect and sincere attachment. 
+Sir, 
+</p><p>
+Your most humble and most obedient servant. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdt" rel="me">The Chevalier De Ternay</a>.
+</p>
+</letter>

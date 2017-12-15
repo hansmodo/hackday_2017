@@ -1,0 +1,47 @@
+<letter id="joj4148">
+<recipient first="Benjamin" last="Vaughan" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='31'>31st</a> <a rel="month origin" value="8">Aug.</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I had this afternoon the pleasure of receiving your favour 
+of the 18th inst. Mrs. Jay joins me in sincerely congratulating you and your amiable family on your arrival in this 
+country ; may your expectations of happiness in it be fully 
+realized. 
+</p><p>
+The reasons which have determined you to settle on the 
+Kennebeck, I can easily conceive are cogent, but I natter 
+myself you will sometimes find leisure for excursions this 
+way. 
+</p><p>
+I presume that our political sentiments do not differ 
+essentially. To me it appears important that the American 
+government be preserved as it is, until mature experience 
+shall very plainly point out very useful amendments to our 
+constitution ; that we steadily repel all foreign influence and 
+interference, and with good faith and liberality treat all 
+nations as friends in peace, and as enemies in war ; neither 
+meddling with their affairs, nor permitting them to meddle 
+with ours. These are the primary objects of my policy. 
+The secondary ones are more numerous, such as, to be 
+always prepared for war, to cultivate peace, to promote 
+religion, industry, tranquillity, and useful knowledge, and to 
+secure to all the quiet enjoyment of their rights, by wise 
+and equal laws irresistibly executed. I do not expect that 
+mankind will, before the millennium, be what they ought to 
+be ; and therefore, in my opinion, every political theory 
+which does not regard them as being what they arc, will 
+probably prove delusive. 
+</p><p>
+It will give me pleasure to receive the publication you 
+mention; being from your pen, it will, I am persuaded, be 
+interesting. Be pleased to present our best compliments 
+to Mrs. Vaughan and your sister. 
+</p><p>
+I am, dear sir, 
+Your affectionate and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

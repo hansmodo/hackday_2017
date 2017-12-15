@@ -1,0 +1,27 @@
+<letter id="sid5009">
+<recipient first="William" last="Bingham" type="individual"/>
+<p>
+<a rel='day origin' value='25'>25th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. [Paris]
+</p><p>
+Dear Sir, 
+</p><p>
+I have received no letter from you since those of the 4th and 5th of August last, nor any intelligence from Congress 
+since the 5th June, which not only surprises but distresses me. I now send to the care of Mons. Deant two hundred 
+tons of a necessary article to be at your orders for use of the 
+Congress ; the freight is to be paid in Martinique as customary, and I wish you to ship it for the ports of the Colonies, 
+in such a manner, and in such quantities in a vessel, as you shall judge most prudent, advising the Congress of your 
+having received it, and the methods you are taking to ship it to them, praying them to remit you the amount of the freight, 
+as you must make friends in Martinique for advancing the same. 
+</p><p>
+I wish you could write me oftener, and inform me very 
+particularly what letters you receive from me, directed immediately to you, and what letters for other persons. In 
+this way I shall know which of my letters fail. 
+</p><p>
+I am, with great respect, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p><p>
+P. S. Forward the enclosed under cover, and with the 
+usual directions, in case of capture. 
+</p>
+</letter>

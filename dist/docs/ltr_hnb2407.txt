@@ -1,0 +1,20 @@
+<letter id="hnb2407">
+<recipient first="Aaron" last="Burr" type="individual"/>
+<p>
+MANSION HOUSE, <a href="/results.php?city=philadelphia" rel="city origin">PHIL A.</a>, <a rel="month origin" value="11">Nov.</a> <a rel="day origin" value="28">28th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+SIR : I have reflected, with much concern, on an observation which fell from you yesterday ; namely, that 
+my account was not a small one, and that you had not yet examined it. You may recollect, when I presented it to 
+you at <a href="/results.php?city=richmond" rel="city">Richmond</a>, I told you I had vouchers for most of the items it contained ; to which I will now add, that I can substantiate the whole, whenever it may become necessary ; and, on receiving it from me, you said you were 
+satisfied it was correct, and wanted to see no vouchers. If I have misunderstood you, on either of these occasions, 
+I shall expect to hear from you in the course of this evening, with a statement of your objections, if any, to my charges. 
+The exact amount of my demand, on account of my indorsement of the bills upon which I have been sued by 
+Miller, I can not immediately ascertain. I believe the damages are 10, chargeable with interest, as well as the principal, from the time the bill was returned. 
+</p><p>
+In the close of the late interesting intercourse that has so long subsisted between us, you must perceive, sir, I 
+feel myself released from the performance of an offer I made you of introductory letters to the Lords Elgin, 
+Courtenay and Sackville. I feel that I could not solicit their attentions to you as my friend ; and I should wish to decline doing so on any other grounds. 
+</p><p>
+I am, sir, with all respect and consideration, your obedient servant, <a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a>. 
+</p>
+</letter>

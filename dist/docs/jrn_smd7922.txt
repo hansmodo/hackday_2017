@@ -1,0 +1,13 @@
+<letter id="smd7922">
+<recipient first="" last="" type="individual"/>
+</p><p>
+From my sick bed, this <a rel='day origin' value='15'>15th</a> day of <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1863' rel='origin'>1863</a>. <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> [ Louisiana ], Thursday. 
+</p><p>
+AM I not glad to get another blank book ! On Sunday my old one gave out, to my unspeakable distress, and I would have been <em>desolee</em> if I had not had three 
+or four letters to answer, as writing is my chief occupation during my tedious illness. O that unfortunate 
+trip to Port Hudson ! Have I not cause to remember and regret it? Two months last Sunday since I have 
+been lying here a cripple, and I am not yet able to take a step. However, on Monday mother sent Dr. Woods as my fourth physician, and I have made up 
+my mind that either he or Nature will effect a cure before long. Wonder how it feels to walk? It makes 
+me weary to see others try it; I always fear that the exertion must be very painful an absurd idea which I endeavor to keep to myself. . . . 
+</p><p>
+</letter>

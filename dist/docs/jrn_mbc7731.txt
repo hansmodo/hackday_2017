@@ -1,0 +1,22 @@
+<letter id="mbc7731">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Yesterday was such a lucky day for my housekeeping in our hired house. Oh, ye kind Columbia 
+folk! Mrs. Alex Taylor, nee Hayne, sent me a huge bowl of yellow butter and a basket to match of every vegetable 
+in season. Mrs. Preston's man came with mushrooms freshly cut and Mrs. Tom Taylor's with fine melons. 
+</p><p>
+Sent Smith and Johnson (my house servant and a carpenter from home, respectively) to the Commissary's with 
+our wagon for supplies. They made a mistake, so they said, and went to the depot instead, and stayed there all day. I 
+needed a servant sadly in many ways all day long, but I hope Smith and Johnson had a good time. I did not lose 
+patience until Harriet came in an omnibus because I had neither servants nor horse to send to the station for her. 
+</p><p>
+Stephen Elliott is wounded, and his wife and father have gone to him. Six hundred of his men were destroyed 
+in a mine ; and part of his brigade taken prisoners : Stoneman and his raiders have been captured. This last fact 
+gives a slightly different hue to our horizon of unmitigated misery. 
+</p><p>
+General L - told us of an unpleasant scene at the President's last winter. He called there to see Mrs. McLean. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> was in the room and he did not speak to her. He did not intend to be rude ; it was merely an oversight. And so he called again and tried to apologize, to remedy his blunder, but the President was inexorable, and 
+would not receive his overtures of peace and good-will. General L - is a New York man. Talk of the savagery 
+of slavery, heavens! How perfect are our men's manners down here, how suave, how polished are they. Fancy one 
+of them forgetting to speak to <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> in her own drawing-room. 
+</p>
+</letter>

@@ -1,0 +1,42 @@
+<letter id="jod3506">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+MY BEST FRIEND, 
+</p><p>
+THIS town is a small one, not larger than <a href='/results.php?city=plymouth' rel='city'>Plymouth</a>. 
+There are in it two German churches, the one Luther 
+an, the other Calvinistical. The congregations are pretty numerous and their attendance upon public worship is decent. It is remarkable that the Germans-, 
+wherever they are found, are careful to maintain the 
+public worship, which is more than can be said of the 
+other denominations of Christians, this way. There is 
+one Church here erected by the joint contributions of 
+Episcopalians and Presbyterians, but the minister, who 
+is a missionary, is confined for Toryism, so that they 
+have had for a long time no public worship. Congress have appointed two chaplains, Mr. White and 
+Mr. Duffielcl, the former of whom, an Episcopalian, 
+is arrived, and opens Congress with prayers every 
+day. The latter is expected every hour. Mr. Duche, 
+I am sorry to inform you, has turned out an apostate 
+and a traitor. Poor man ! I pity his weakness and 
+detest his wickedness. 
+</p><p>
+As to news we are yet in a painful suspense about 
+affairs at the northward, but from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, we 
+have accounts that are very pleasing. Commodore Hazelwood with his galleys, and Lieutenant Colonel Smith in the garrison of fort Mifflin, have behaved in 
+a manner the most gallant and glorious. They have 
+defended the river and the fort with a firmness and 
+perseverance which does honor to human nature. If 
+the news from the northward is true, Mr. Howe will 
+scarcely venture upon winter quarters in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+We are waiting for news from Rhode Island. 
+</p><p>
+I am wearied with the life I lead, and long for the 
+joys of my family. God grant I may enjoy it in 
+peace. Peace is my dear delight. War has no charms 
+for me. If I live much longer in banishment I shall 
+scarcely know my own children. Tell my little ones, 
+that if they will be very good, papa will come home. 
+</p>
+</letter>

@@ -1,0 +1,28 @@
+<letter id='abl407'>
+<recipient first='Hannibal' last='Hamlin' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>,
+September 28, <a href="/results.php?year=1862">1862</a>.
+</p><p>
+HON. HANNIBAL HAMLIN.
+</p><p>
+MY DEAR SIR: Your kind letter of the 25th is just received. It is
+known to some that, while I hope something from the proclamation, my
+expectations are not as sanguine as are those of some friends. The
+time for its effect southward has not come; but northward the effect
+should be instantaneous. It is six days old, and, while commendation
+in newspapers and by distinguished individuals is all that a vain man
+could wish, the stocks have declined, and troops come forward more
+slowly than ever. This, looked soberly in the face, is not very
+satisfactory. We have fewer troops in the field at the end of the
+six days than we had at the beginning--the attrition among the old
+outnumbering the addition by the new. The North responds to the
+proclamation sufficiently in breath; but breath alone kills no
+rebels.
+</p><p>
+I wish I could write more cheerfully; nor do I thank you the less for the kindness of your letter.
+</p><p>
+Yours very truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

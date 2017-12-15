@@ -1,0 +1,17 @@
+<letter id="nib5234">
+<recipient first="Robert" last="Lenox" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='6'>6th</a> . <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+... I intended when I saw you to ask you to procure 
+for me some information. The Office at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a> had 
+got into a very bad way and great losses will be sustained there. In order however to repair them as much as possible 
+we placed at the head of it Mr. Jeremiah Mason, who has been very busy and very useful in securing our old bad debts and 
+preventing new ones. This operation you know, is not a pleas 
+ant one &amp; has raised against Mr Mason a number of enemies who complain loudly. Such complaints are generally ill 
+founded, &amp; we are disposed to receive them with great distrust. At the same time it is proper not to disregard them 
+and I should like to know from an authentic source whether there is any foundation for them. . . . 
+</p>
+</letter>

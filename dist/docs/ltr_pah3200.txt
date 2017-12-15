@@ -1,0 +1,34 @@
+<letter id="pah3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+My great anxiety for the success of the American 
+arms under your command, indus me to trouble you 
+with this. Accounts from the camp are so various 
+and contradictory that I know not what to rely on. 
+If the weight of public affairs, under which you have 
+so long labored, will permit, a few lines will be most 
+welcome to me. 
+</p><p>
+Although it seems impossible to enlist Continental 
+recruits here, yet the zeal of our countrymen is great 
+and general in the public cause. I wish some proper 
+exertions of that spirit were wisely directed to the 
+general good. A hint from you may lead to some 
+thing important,, at a time like this, when most people seem at a loss to fix on the most effectual means 
+of prosecuting the war vigorously. The Assembly is 
+now sitting, and I shall take pleasure in communicating to them any matter you judge proper for 
+their attention. 
+</p><p>
+I beg leave to assure your Excellency, that with 
+the most unfeigned respect, and the highest regard, 
+I am, dear Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pah" rel="me">PATRICK HENRY</a>. 
+</p>
+</letter>

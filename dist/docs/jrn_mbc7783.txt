@@ -1,0 +1,23 @@
+<letter id="mbc7783">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Miss Middleton's letter came in answer to mine, telling her how generous my friends here were to me. 
+We long," she says, " for our own small sufficiency of wood, corn, and vegetables. Here is a struggle unto death, 
+although the neighbors continue to feed us, as you would say, with a spoon. We have fallen upon a new device. 
+We keep a cookery book on the mantelpiece, and when the dinner is deficient we just read off a pudding or a creme. 
+It does not entirely satisfy the appetite, this dessert in imagination, but perhaps it is as good for the digestion. 
+</p><p>
+As I was ready to go, though still up-stairs, some one came to say <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a> had called. Mrs. Hamilton 
+cried out, "Send word you are not at home. " " Never ! said I. " Why make him climb all these stairs when you 
+must go in five minutes ? " If he had come here dragging <a href='/results.php?tla=wts' rel=''>Sherman</a> as a captive at his chariot wheels I might say not 
+at home, but not now." And I ran down and greeted him on the sidewalk in the face of all, and walked slowly beside 
+him as he toiled up the weary three stories, limping gallantly. He was so well dressed and so cordial ; not depressed in 
+the slightest. Pie was so glad to see me. He calls his report self-defense; says <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> attacked him and he 
+was obliged to state things from his point of view. And now follow statements, where one may read between the 
+lines what one chooses. He had been offered a command in Western Virginia, but as <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> was concerned because 
+he and <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> were not on cordial terms, and as the fatigue of the mountain campaign would be too great for 
+him, he would like the chance of going across the Missis sippi. Texas was true to him, and would be his home, as it 
+had voted him a ranch somewhere out there. They say <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> is utterly despondent, and has no plan if Richmond 
+goes, as go it must. 
+</p>
+</letter>

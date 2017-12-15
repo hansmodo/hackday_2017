@@ -1,0 +1,56 @@
+<letter id="cdt3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value='10'>10</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter, which your Excellency 
+has done me the honor to write, the 6th of this 
+month, on the subject of the American frigates which 
+may join the squadron of the King of France. 
+</p><p>
+When I shall be equal in force to the enemy, or 
+perhaps superior, and when there shall be any maritime operation corresponding with that which you 
+have premeditated, and which Monsieur the Marquis 
+de Lafayette has imparted to me, those frigates will 
+certainly be very useful to me ; but, till then, I think 
+they might be employed most usefully in a cruise 
+to intercept the vessels which go from <a href='/results.php?city=charleston' rel='city'>Charleston</a> to 
+<a href='/results.php?city=new york' rel='city'>New York</a>. I believe that Admiral Arbuthnot has, 
+in this place here, all his strong frigates. 
+</p><p>
+I propose to your Excellency to have escorted, by 
+those frigates, to the ports of <a href='/results.php?city=boston' rel='city'>Boston</a>, a vessel loaded 
+with flour by Monsieur Holker for the squadron of 
+the King of France, and which is at present in the 
+Delaware. It would be necessary, in this case, that 
+they take their route a little large, that they may 
+not fall too near this place, the frigates of Arhuthnotbeins: able to extend their cruises to the Shoals of 
+Nantucket. This Admiral sent me, yesterday morning, a [flag], in order to transmit me some letters 
+from French prisoners, at this very moment at New 
+York. He is anchored at the easternmost point of 
+Long Island. I had sent a vessel, some hours before, 
+to propose to him an exchange. 
+</p><p>
+If you do not want the sloop <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, and this 
+vessel is a good sailer, your Excellency could despatch her to St. Domingo. The <a href='/results.php?tla=laf' rel='colleague'>Marquis De Lafayette</a> would send, by this opportunity, the letter which 
+I had transmitted to him for the Count de Guichen, 
+and which ought to be translated into ciphers by 
+the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a>. I require, conformably 
+to the orders of the King, a reenforcement of some 
+ships from this French Commander. If these arrive 
+by the end of September, I could transport your 
+army to Long Island the beginning of October, and 
+finally decide the fate of America this year. I send 
+to the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a> the signals of recognizance which have been previously addressed to me 
+by the Council of Admiralty at <a href='/results.php?city=boston' rel='city'>Boston</a>, and which I 
+have adopted. It is necessary that there should be 
+uniformity in those on the whole coast, to avoid confusion. I am, with respect and sincere attachment. 
+Sir, 
+</p><p>
+Your most humble and most obedient servant. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdt" rel="me">The Chevalier De Ternay</a>.
+</p>
+</letter>

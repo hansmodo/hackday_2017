@@ -1,0 +1,15 @@
+<letter id="usg7058">
+<recipient first="John" last="Schofield" type="individual"/>
+<p>
+[<a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a>, <a rel='day origin' value='12'>12th</a>, <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a>]
+</p><p>
+MAJOR-GENERAL J. M. SCHOFIELD : 
+</p><p>
+No movement will be made against <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> at present. Give your men and animals all the rest you can preparatory to 
+early operations in the spring. Furlough all the veterans you deem it prudent to let go. 
+</p><p>
+U.S. GRANT, 
+</p><p>
+Major- General.
+</p>
+</letter>

@@ -1,0 +1,14 @@
+<letter id="nib5243">
+<recipient first="Samuel" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="1">Jan'y</a> <a rel='day origin' value='2'>2nd</a>. <a href='/results.php?year=1830' rel="origin">1830</a> 
+</p><p>
+My dear Sir 
+</p><p>
+. . . The expressions in the message were the President's own not dictated nor suggested by any body else 
+&amp; inserted in opposition to the wishes, if not the advice of all his habitual counsellors. It is not therefore a cabinet 
+measure, nor a party measure, but a personal measure. As such it is far less dangerous because if the people know that 
+this is not an opinion which they must necessarily adopt as a portion of their party creed but an opinion of the 
+President alone a very honest opinion though a very erroneous one then the question will be decided on its own merits. . . . 
+</p>
+</letter>

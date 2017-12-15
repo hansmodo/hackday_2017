@@ -1,0 +1,47 @@
+<letter id="gom4510">
+<recipient first="George" last="Washington" type="individual"/>
+</p><p>
+[<a href='/results.php?city=york town' rel='city origin'>York Town</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1778' rel="origin">1778</a>.] 
+</p><p>
+Dear Sir, 
+</p><p>
+I expected before this time to have written to you, that 
+provision is made for the American officers, but that thief of 
+time, procrastination, has kept it off from time to time. The 
+question is now the order of the day, and, as such, takes 
+place of every other business. When it will be determined, 
+I know not, but this I know, that it shall be finished one way 
+or the other before anything else, let what will happen. I 
+am confident it will go right, if something very extraordinary 
+does not occur. In the interim nothing is done. I feel as 
+severely on this occasion as you can do. All will yet go well. 
+</p><p>
+We have determined to send <a href='/results.php?tla=hog' rel='colleague'>Gates</a> to Hudson River, 
+where he is to command very largely. But he is to receive 
+instructions, which shall be proper. You are directed to call 
+a council of major generals, in which the chief engineer is officially to be a member, and to which, by a subsequent resolution, Generals <a href='/results.php?tla=hog' rel='colleague'>Gates</a> and Mifflin were ordered to repair. 
+As these gentlemen ought not to receive orders immediately 
+from Congress, they are, as you will see, permitted to leave 
+the board of war upon your order. This amendment was 
+therefore acquiesced in unanimously. Colonel Harrison will, I believe, be again appointed a member of the Board of War. 
+This I mention by the bye. I add my wish, that your business and your inclinations may be so ordered, as to allow him 
+to accept of it. For this I have many reasons. Every man 
+of business knows, that words are of great weight, and we receive reports from the Board of War every day. I need say 
+no more, except that it is not always possible to weigh sentences with that accuracy in a public assembly, which is practicable in the closet.* It is astonishing that Congress, who 
+certainly are not without sufficient apprehension, should at 
+so critical a moment as the present be so supine, but this is 
+human nature, and we must bear it. I have a remedy in contemplation. If you were an unconcerned spectator, it would 
+divert you to see, that although a majority of our House have 
+been agreed in a certain point, ever since Mr Dana arrived 
+here, yet nothing is done. 
+</p><p>
+Apropos, of your council of war. Should you determine 
+on anything, which, considering the course of human affairs, 
+is, I confess, rather improbable, let Congress know nothing 
+about it. A secret should never be trusted to many bosoms. 
+I will forfeit anything, except reputation, that it will not be 
+well kept, even by those necessarily confided in. I am, &LC. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

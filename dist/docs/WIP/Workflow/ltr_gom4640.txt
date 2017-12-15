@@ -1,0 +1,223 @@
+<letter id="gom4640">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="2">February</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Since my last, I have had every reason to believe, that the 
+execution of the King has produced on foreign nations the 
+effect which I had imagined. The war with England exists, and it is now proper, perhaps, to consider its consequences, to 
+which effect, we must examine the objects likely to be pursued by England, for in this country, notwithstanding the gasconades, a defensive war is prescribed by necessity. 
+</p><p>
+Many suppose that the French Colonies will be attacked, 
+but this I do not believe. It is indeed far from improbable 
+that a British garrison may be thrown into Martinique, but as 
+to St Domingo, it would require more men than can be spared 
+to defend it, and as much money as it is worth. Besides 
+which, there are higher considerations to be attended to. 
+In one shape or another, this nation will make a bankruptcy. 
+The mode now talked of, is to pay off the debt in a species of 
+paper money, which shall be receivable for the sales of confiscated property, and which shall bear no interest. When once 
+the whole of the debt shall be fairly afloat, the single word depreciation will settle all accounts. You will say, perhaps, that 
+this measure is unjust, but to this I answer, that in popular governments, strongly convulsed, it is a sufficient answer to all arguments, that the measure proposed is for the public good. 
+Supposing, then, the debt of France thus liquidated, she presents a rich surface covered with above twenty millions of people, who love war better than labor. Be the form of government what it may, the Administration will find war abroad 
+necessary to preserve peace at home. The neighbors of 
+France must therefore consider her as a great power, essentially belligerent, and they must measure themselves by the scale 
+of her force. 
+</p><p>
+In this view of the subject, to take her islands, is to possess 
+but the paring of her nails, and therefore more serious efforts 
+must be made. Strange as it may seem, the present war is, 
+on the part of France, a war of empire, and if she defends 
+herself, she commands the world. I am persuaded that her 
+enemies consider this as the real state of things, and will there 
+fore bend their efforts towards a. reduction of her power; and 
+this may be compassed in two ways, either by obliging her to 
+assume a new burden of debt to defray the expense they are 
+at on her account, or else by a dismemberment. The latter 
+appears the more certain mode. In this case, it will, I presume, be attempted to make the Saome her northern boundary 
+as far as the Ardennes, and then along the Ardennes to the 
+Vosges mountains, to mount Jura, and along mount Jura to the 
+Alps. This will throw French Flanders, Artois, and a part of 
+Picardy into the circle of Austrian Flanders, which may be 
+erected into an independent State, and the country lying east 
+of the Vosges and mount Jura may be a compensation to the 
+Elector Palatine, for the cession of Bavaria. 
+</p><p>
+On such a project, if it exists, the first question is as to the 
+means of execution ; and these are well prepared, if the enemy knows how to make use of them. Alsace is attached to 
+the German Empire, and to the cause of religion. The only 
+thing, which pleases them in the revolution, is the abolition of 
+the tithes, and they are as much disgusted by the banishment 
+of their priests. I speak here of the Roman Catholic only. 
+The sentiments of this people cannot be unknown to the enemy. As to French Flanders and Artois, the cause of religion 
+is with them the first care, but as yet they have not had a fair 
+opportunity to show themselves, because they are awed by the 
+numerous garrisons spread through their country. I think, as 
+I mentioned in my last, that there exists a treaty respecting 
+Flanders between England and Austria, but I cannot find out 
+the exact purport. Prussia is, I think, to find her account in 
+Poland. 
+</p><p>
+As to the conduct of the war, I believe it to be on the part 
+of the enemy as follows. First, the maritime powers will try to 
+cut off all supplies of provisions, and take France by famine ; 
+that is to say, excite revolt among the people by that strong 
+lever. Give us again our bread and our chains, might perhaps 
+be the language of Paris. I think I can perceive some seeds 
+already sown to produce that fruit. It is not improbable, that 
+our vessels bringing provisions to France may be captured and 
+taken into England, the cargoes paid for by the government. 
+Secondly, Britain may perhaps land a body of troops in Normandy, with intention to prenetrate to Rouen, and cause the 
+royal standard to be erected by the French Emigrants. If a 
+large body of the people flock to it, they might come on to 
+wards the capital, if not, they may move along the coast to 
+Abbeville, and thence form a junction with the army acting in 
+Flanders. For this descent, if it takes place, is but a secondary operation ; the main stress will be in Flanders, for there 
+the troops of Britain, Holland, Hanover, Austria, and Prussia, 
+can be fed from the ocean at a very cheap rate, and the more 
+their operations may be confined to the sea coast, the more will 
+it be difficult for France to oppose them, because the provisions 
+must in such case be carried to an extreme corner of the country. Thirdly, an attack of great energy will be made on the 
+side of Mayence, in the view to destroy totally the army under 
+Custine, and penetrate into lower Alsace. But the real at 
+tack of that ci-divant province will, I think, be on the side of 
+Upper Alsace, for which purpose nothing will be left undone 
+to bring the Swiss into action, as thereby the fire of war will 
+extend all along from the German Ocean to the Mediterranean 
+Sea. Fourthly, the efforts on the side of Savoy will probably be confined to the recovery of that country, and such di 
+version as may occupy a part of the French army for their own 
+defence. Fifthly, on the side of Provence and Languedoc 
+there will be only a predatory war, a war of alarm, such as 
+may increase the want of bread by multiplying the consumers, for I do not believe in a serious attempt on either Toulon 
+or Marseilles. Under this chapter, and as an incidental consideration, are the intrigues with the Turk to engage the Barbary powers. I think a British squadron in the Mediterranean will do more towards these than a dozen Ambassadors. 
+Lastly, on the side of Spain there will, I believe, be nothing 
+more than diversion. How great that may be will depend on 
+contingencies, not within the compass of human foresight. A 
+revolution at court which should dismiss the Queen and her 
+paramour might give some energy to the administration,, 
+which at present is extremely feeble. 
+</p><p>
+Having thus run through the probabilities on the side of the Adversary, I come now to what appear to be the views of 
+France. You will have seen, that the effective army for <a href='/results.php?year=1793'>1793</a> 
+is fixed at something more than five hundred thousand men. 
+These they will be able to get together. The recruiting service goes on well, and although many of the last year's men 
+return with design not to re-engage, their places will be sup 
+plied ; so that by the beginning of June that immense army 
+(barring accidents) will be completed. 
+</p><p>
+The main object at present is to overrun Holland ; a thing 
+which might have been affected six weeks ago, but at present 
+I believe it is not to be done. If the Prussian aud Hanoverian troops advance rapidly, it will hardly be attempted. It is 
+however expected that Maestricht may fall as suddenly as Mayence, and perhaps by similar means. If this should happen 
+it would greatly impede the confederates, and of course they 
+will exert themselves to prevent that misfortune. Never 
+were the moments more precious, than they are to both par 
+ties in that quarter ; for there the first blow will be more than 
+one half of the battle. Should the enemy become speedily 
+superior in the field, there is nothing to stop him till he comes 
+to Valenciennes, and at every step he would gather new force ; 
+besides, he need not embarrass himself with convoys, because 
+he would soon receive abundance from the side of the sea. 
+As to the colonies, I believe that France will not attempt to 
+defend them, and their whole commerce falls naturally into 
+the lap of America, unless the British prevent it, and I think 
+they will find it more convenient to neglect that small object 
+to pursue the great ones, which open themselves to view in 
+this quarter. 
+</p><p>
+What I have just said leads me very naturally to your letter of the seventeenth of November. You had previously instructed me to endeavor to transfer the negotiation for a 
+new treaty to America, and if the revolution of the tenth of 
+August had not taken place, but instead thereof the needful 
+power and confidence been restored to the crown, I should perhaps have obtained what you wished as a mark of favor and confidence. A change of circumstances rendered it necessary to change entirely my conduct, so as to produce in 
+one way, what was impracticable in another. 
+</p><p>
+As I saw clearly, or at least thought I saw, that France and 
+England would at length get by the ears, it seemed best to let 
+them alone, until they should be nearly pitted. When I found 
+this to be the case, I asked an interview with the Minister of 
+Foreign Affairs, and mentioned to him my wish that an exception should be made in the decree against emigrants, in favor 
+of those who were in the United States. I told him truly, that 
+I wished the alliance between the two nations to be strictly pre 
+served. I told him with great frankness, that notwithstanding 
+appearances, and the flattering accounts transmitted by some 
+of his agents, Britain was, in my opinion, hostile, and an at 
+tempt at alliance with her, idle. He assured me he was of the 
+same opinion. I then observed to him, that in such case, 
+there would be no doubt but Mr Hammond would exert him 
+self to inculcate the opinion, that our treaty having been made 
+with the King, was void by the Revolution. He said that such 
+an opinion was absurd. I told him, (premising in this place, 
+that the whole conversation was inofficial, and unauthorised on 
+my part, from circumstances he was well acquainted with,) that 
+my private sentiments were similar to his, but I thought it 
+would be well to evince a degree of good will to America, 
+which might prevent disagreeable impressions, and had there 
+fore taken the liberty to suggest the exception in favor of emigrants to America. 
+</p><p>
+Here I left it, and changed the conversation. Now I know 
+well, that some of the leaders here who are in the Diplomatic 
+Committee hate me cordially, though it would puzzle them to 
+say why ; and I was determined rather to turn that disposition 
+to account than to change it, because I see some advantages to 
+result from it. Thus I contributed indirectly to the slight put 
+on me, by sending out M. Genet without mentioning to me a 
+syllable either of his mission or his errand, both of which, 
+nevertheless, I was early and sufficiently informed of. The 
+pompousness of this Embassy could not but excite the attention of England, and my continuance at Paris, notwithstanding 
+the many reasons which might have induced me to leave it&gt; 
+would also, I thought, excite in some degree their jealousy ; and 
+I have good reason to believe that this effect was produced. 
+From all this I conjectured, that both parties might be brought 
+to bid at your auction, At any rate the thing you wished for 
+is done, and you can treat in America if you please. Whether 
+you will or not is another affair. Perhaps you will see that 
+all the advantages desired do already exist, that the acts of the 
+constitutional Assembly have in some measure set us free from 
+our engagements, and that, increasing daily in power, we may 
+make quite as good a bargain some time hence as now. 
+</p><p>
+It remains to add a few words in reply to what regards me 
+personally in your letter. I am very happy, indeed, to find 
+that my conduct, as far as it was known, is approved of. This 
+is the summit of my wish, for I. candidly acknowledge that the 
+good opinion of the wise and virtuous is what I prize beyond 
+all earthly possessions, I have lately debated much within 
+myself what to do. The path of life in Paris is no longer 
+strewed with roses, as you may well imagine ; indeed it is extremely painful. I have already given my reasons for staying 
+here, but now the scene is changed, and I had thoughts of 
+making a tour to the different Consulates. There are, how 
+ever, some pretty solid objections to that plan for the present. 
+</p><p>
+The next thing which suggested itself was to hire a country 
+house for the summer season, in the neighborhood. At length, 
+that my leaving the city might give no offence to anybody, I 
+have bought a country house in an out of the way place, 
+where it is not likely that any armies will pass or repass, even 
+should the enemy penetrate. If I lose the money paid for it, 
+I will put up with the loss. The act in itself shows a disposition friendly to France, and as it is between twenty and thirty 
+miles from Paris, I shall be at hand, should business require 
+my presence. Mr Livingston, my secretary, will continue 
+in town unless driven out of it by war or famine. In this way 
+I hope to avoid those accidents which are almost inseparable 
+from the present state of society and government, and which, 
+should they light on the head of a public Minister, might involve consequences of a disagreeable nature. It is more pro 
+per also, I conceive, to make arrangements of this kind in a 
+moment of tranquillity, than when confusion is awakened in 
+to mischief. In all this my judgment may err, but I can tru jly say that the interest of the United States is my sole object. 
+Time alone can tell whether the conduct be as right as I 
+know the intention to be. 
+</p><p>
+Before I close this letter, I must pray your indulgence for 
+referring to the enclosed copy of what I wrote on the twenty-^ 
+seventh of last month, to the bankers of the United States in 
+Amsterdam. I make no comment thereon, only as I had no 
+right to give the order in question, I consider it as of course, 
+that if disapproved of I must replace the money which may be 
+advanced on it. This is one of the cases in which not to act 
+is taking a part, and in which it is ruin to balance. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

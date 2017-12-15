@@ -1,0 +1,26 @@
+<letter id="joj4124">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='17'>17th</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+There is something very pleasant in the reflection, that 
+while war, discord, and oppression triumph in so many 
+parts of Europe, their domination does not extend to our 
+country. I sometimes flatter myself that <a href='/results.php?city=providence' rel='city'>Providence</a>, in 
+compassion to the afflicted in these countries, will continue 
+to leave America in a proper state to be an asylum to them. 
+</p><p>
+Among those who have suffered severely from these 
+evils, is Monsieur De Rochefoucauld Liancourt, formerly 
+president of the National Assembly of France. His rank 
+and character are known to you. He will be the bearer of 
+this letter, and I am persuaded that his expectations from 
+it will be realized. 
+</p><p>
+Yours, sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

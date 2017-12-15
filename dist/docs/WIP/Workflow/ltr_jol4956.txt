@@ -1,0 +1,76 @@
+<letter id="jol4956">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS (on the lovely banks of the Raritan, opposite <a href='/results.php?city=new brunswick' rel='city origin'>New Brunswick</a>), <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I had the pleasure of writing to you the day before 
+yesterday, from English Town, but through some 
+mistake my letter was not delivered to the express, 
+altho it was written in a hurry. I recollect no circumstance in it relative to our late engagement, 
+which farther inquiry and consideration do not con 
+firm. From a second view of the ground, as well as 
+the accounts I have since had of the enemy's strength 
+and designs, it is evident to me that Mr Clinton's 
+whole flying army would have fallen into our hands, 
+but for a defect of abilities or good will in the commanding officer of our advanced corps. His precipitate retreat spread a baneful influence every where. 
+The most sanguine hope scarcely extended farther, 
+when the Commander in chief rallied his troops, than 
+to an orderly retreat ; but by his intrepidity and presence of mind, a firm line of troops was formed on a 
+good position, from whence he cannonaded with 
+advantage, and detached light parties in front, who 
+drove the enemy from the field. Gen'l Clinton arid 
+Lord Cornwallis were both present at the action. 
+</p><p>
+The reason for not pursuing them farther with the main body of our army was, that people well acquainted with the country said that the strength of 
+the ground would render it impracticable for us to injure them essentially; and that the sandy, parched soil, together with the heat of the sun, would probably 
+occasion us considerable loss. From the specimen of yesterday's march we have reason to think it fortunate that we took the part we have done ; the heat of the 
+weather, thirsty soil, and heavy sand, reduced us to the necessity of bringing on many of our weaker men in waggons. 
+</p><p>
+We are now arrived in a delightful country where we 
+shall halt and refresh ourselves. Bathing in the Raritan, and the good living of the country will speedily 
+refresh us. I wish, my dear father, that you could 
+ride along the banks of this delightful river. Your 
+zeal for the public service will not at this time 
+permit it. But the inward satisfaction which you 
+must feel from a patriotic discharge of your duty, is 
+infinitely superior to the delights of retirement and 
+ease. I admire your constant virtue, and will imitate 
+your example. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+Col. Morgan writes this day, that the rear of the enemy is a mile below Middle Town; that he has 
+had a skirmish with several of their light parties, which has cost them some lives. He had only one 
+man wounded. Desertions continue, and I suppose will be very considerable at the moment of embarkation. 
+</p><p>
+I have seen the General much embarrassed this 
+day, on the subject of those who distinguished them 
+selves in the battle of Monmouth. To name a few, 
+and be silent with regard to many of equal-merit w'd be 
+an injustice to the latter; to pass the whole over unnoticed w'd be an unpardonable slight ; indiscriminate 
+praise of the whole w'd be an unfair distribution of 
+rewards; and yet, when men generally conducted 
+themselves so well as our officers did, this matter is 
+allowable and is eligible, because least liable to give offence. 
+</p><p>
+The merit of restoring the day, is due to the 
+General; and his conduct was such throughout the 
+affair as has greatly increased my love and esteem for 
+him. My three brother aids gained themselves great 
+applause by their activity and bravery, while the 
+three secretaries acted as military men on this occasion, and proved themselves as worthy to wield the sword as the pen. 
+</p><p>
+<a href='/results.php?tla=' rel=''>Gen'l Steuben</a>, his aids and your son, narrowly escaped being surrounded by the British horse, early 
+on the morning of the action. "We reconnoitered them rather too nearly, and L'd Cornwallis sent the 
+dragoons of his guard to make us prisoners. Gen'l Clinton saw the Baron's star, and the whole pursuit 
+was directed at him ; but we all escaped, the dragoons fearing an ambuscade of infantry. 
+</p><p>
+We have buried Col. Moncton with the honours of war. 
+</p><p>
+The Honble Henry Laurens, Esq'r ., 
+</p>
+</letter>

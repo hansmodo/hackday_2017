@@ -1,0 +1,40 @@
+<letter id="thm3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=bristol' rel='city origin'>Bristol</a>, Saturday evening, 8 o clock, <a rel="day origin" value="28">28</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The inclosed I have this minute received from an 
+express sent by my order to <a href='/results.php?tla=jhc' rel='colleague'>General Cadwalader</a>. 
+The General, not knowing that I was here, did not 
+write to me, and as I supposed the contents of importance in my movements, I took the liberty to 
+open the letter, for which I must plead only the 
+occasion in excuse. 
+</p><p>
+I came here at four o clock this afternoon. Five 
+hundred men, sent from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> yesterday, crossed 
+to Burlington this morning. This evening I sent 
+over near three hundred more. To-morrow seven or 
+eight hundred shall follow. I will cross in the morning , and endeavour to form them into regiments, and 
+a brigade. They consist of many different corps, and 
+want much regulation. 
+</p><p>
+If your Excellency has any orders for me, other than to join <a href='/results.php?tla=jhc' rel='colleague'>General Cadwalader</a> as soon as possible, 
+please to favor me with such as are necessary, and I 
+will punctually obey them. Pennsylvania is at length 
+roused, and coming in great numbers to your Excellency's aid. Mr. Hall will return with your orders. 
+I am informed that we cannot cross at Bordentown, 
+nor at any place between that place and this. I 
+have no doubt of effecting it here, having sent from 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> in the morning several fine boats, which 
+are now here. 
+</p><p>
+I most heartily congratulate your Excellency on 
+your late capital stroke, and wish most ardently a 
+repetition. I am, with great affection and attachment, 
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thm" rel="me">THOMAS MIFFLIN</a>. 
+</p>
+</letter>

@@ -1,0 +1,49 @@
+<letter id="laf3717">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Alliance, off <a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I am sorry to think we are not yet gone, and there 
+remain still some doubts of our going to-morrow. 
+This delay I lament, not so much on private accounts, 
+as I do on the account of our next campaign, in the 
+planning of which your opinion, as I shall deliver it, must be of the greatest use to the common cause. 
+As to the department of Foreign Affairs, I shall be 
+happy to justify the confidence of the Congress, by 
+giving my opinion, to the best of my power, whenever it is asked for. But the affair of finances will, 
+I fear, be a difficult point for the American Minister, 
+in which, however, I shall be happy to help him with 
+my utmost exertions. The moment I arrive in France, 
+I will write to you minutely how things stand, and 
+give you the best accounts in my power. 
+</p><p>
+I have received every mark of affection in <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+and am much attached to this town, to which I owe 
+so many obligations j but, from public considerations, 
+I have been impatient to leave it and go on board 
+the frigate, where I receive all possible civilities, but 
+where I had rather be under sail than at anchor. 
+</p><p>
+I beg your pardon, my dear General, for giving 
+you so much trouble in reading my scrawls ; but we 
+are going to sail, and my last adieu I must dedicate 
+to my beloved General. Adieu, my dear General. I 
+know your heart so well, that I am sure that no 
+distance can alter your attachment to me. With the 
+same candor, I assure you that my love, my respect, 
+my gratitude for you, are above expression ; that, at 
+the moment of leaving you, I felt more than ever 
+the strength of those friendly ties that forever bind 
+me to you, and that I anticipate the pleasure, the 
+most wished-for pleasure, to be again with you, and, 
+by my zeal and services, to gratify the feelings of 
+my respect and affection. will you be pleased to 
+present my compliments and respects to Mrs. Washington, and to remember me to <a href='/results.php?tla=hek' rel='colleague met'>General Knox</a> and <a href='/results.php?tla=bel' rel='colleague met'>General Lincoln</a>. Adieu, my dear General.
+</p><p>
+Your respectful and tender friend, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

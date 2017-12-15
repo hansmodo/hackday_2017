@@ -1,0 +1,33 @@
+<letter id="hnb2412">
+<recipient first="J" last="Devereux" type="individual"/>
+<p>
+COTTAGE CRESCENT, <a href="/results.php?city=bath" rel="city origin">Bath</a>, <a rel="month origin" value="8">Aug.</a> <a rel="day origin" value="31">31st</a>, <a href="/results.php?year=1825" rel="origin">1825</a>. 
+</p><p>
+MY DEAR DEVEREUX : Perceiving by the papers that commercial intercourse with Colombia is connived at by 
+France, which I have thought it probable may have arisen from the success of your efforts on the part of 
+the Republic with the French ministry ; and if I am right in this conjecture, I may rejoice in your having 
+been, at least, the proximate cause of that recognition which seems so generally expected to be made by the 
+French Government. Should this soon take place, surely the services you have rendered the Republic, and the 
+claims you have on Bolivar, can admit of no intervention between you and the Colombian Government, notwithstanding your being a foreigner, to impede your filling any diplomatic situation in Europe you might choose to 
+accept under the Republic. Might I, in such an issue of your exciting political speculations, suggest that, if your 
+views are not already fixed, I will not say on some more attached, but more competent friend, I would be most 
+happy to be appointed your secretary, in which character, I may venture to say, I hope my industry and acquirements would not disappoint your expectations. To this 
+application you will 'gratify me with an early answer. But en attendant, if you could, without inconvenience, 
+procure me a consular appointment under the Colombian Government, or any agency worth even 200 per annum, 
+in any situation in Europe, such an addition to our present small income would make us comfortable any where 
+near you; though, I confess, we should receive it with considerable alloy, if it were to depend on the condition of our residing out of Europe. 
+</p><p>
+I have nearly, but not quite, abandoned the project of resuming my profession in Ireland, which is not now the 
+happy home of our " by-gone years." The scheme is beset with too many difficulties to promise success, with a detail of which I will not attempt to excite your sympathies. 
+</p><p>
+Mrs. B. has sanguine hopes that the suggestions I have presented to your friendship may open better prospects 
+for us. She begs to close this letter ; so I will only add, I hope we shall soon learn where we may look for the happiness of embracing you ; being 
+</p><p>
+Ever, my dear Devereux, faithfully yours, 
+</p><p>
+<a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a>. 
+</p><p>
+P. S. We have just heard of a new work on the Colombian Revolution, with which we are impatient to 
+meet, that we may follow the march of your fame. Apro pos de la marche, I have composed some military ones, of 
+which I hope your Excellency will hereafter select one, to be enhanced by your accepting its dedication. 
+</letter>

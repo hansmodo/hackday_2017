@@ -1,0 +1,18 @@
+<letter id='mad1597'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 15, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, I have at length the pleasure to enclose you the 
+favorable result of the Convention at <a href="/results.php?city=boston" rel="city">Boston</a>. The amendments are a blemish, but are in the least offensive form. The 
+minority, also, is very disagreeably large, but the temper of 
+it is some atonement. I am assured by <a href='/results.php?tla=ruk' rel='co-worker met'>Mr. King</a> that the leaders of it, as well as the members of it in general, are in good 
+humor, and will countenance no irregular opposition, there or 
+elsewhere. The Convention of New Hampshire is now sitting. 
+There seems to be no question that the issue there will add a 
+seventh pillar, as the phrase now is, to the federal Temple. 
+</p><p>
+With the greatest respect and attachment, I am, Dear Sir, 
+yrs. 
+</p>
+</letter>

@@ -1,0 +1,17 @@
+<letter id='wfp8000'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+What are you going to do with the Mexican War? I hope there will be no treaty without the acquisition of California. The loss of California to Mexico will be nothing, as it will aid in 
+consolidating her Government, and finally strengthen it, while its acquisition will be immense to us. . . . 
+</p><p>
+If we had California, with its vast harbors, in the next fifty years we could control the commerce of the Pacific and the wealth of China and India, and the future destiny of our glorious 
+Republic would be to accumulate as vast wealth and power on the Pacific as we have on the Atlantic. Some people seem to have very tender consciences of late as to conquests. I should 
+like to know if half the earth is not now owned by the rights of conquests ? 
+</p><p>
+<a href="/results.php?tla=wfp" rel="me">F. W. Pickens</a>,
+</p><p>
+<a href='/results.php?city=edgewood' rel='city origin'>Edgewood</a>, S. C. 
+</p>
+</letter>

@@ -1,0 +1,52 @@
+<letter id="alh4307">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel='day origin' value='30'>30</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+I am much obliged to your Excellency for the explicit manner in which you contradict the insinuations 
+mentioned in my last letter. The only use I shall 
+make of your answer, will he to put it into the hands 
+of a few friends. 
+</p><p>
+The Constitution proposed has, in this State, warm 
+friends and warm enemies. The first impressions 
+every where are in its favor; but the artillery of its 
+opponents makes some impression. The event cannot 
+yet be foreseen. The inclosed is the first number of 
+a series of papers to be written in its defence. 
+</p><p>
+I send you also, at the request of the <a href='/results.php?tla=frs' rel='colleague'>Baron De Steuben</a>, a printed pamphlet, containing the grounds of 
+an application lately made to Congress. He tells me 
+there is some reference to you, the object of which he 
+does not himself seem clearly to understand; but imagines it may be in your power to be of service to 
+him. There are public considerations that induce me 
+to be somewhat anxious for his success. He is fortified with materials which, in Europe, could not fail to 
+establish the belief of the contract he alleges. The 
+documents of service he possesses are of a nature to 
+convey an exalted idea of them. The compensations 
+he has received, though considerable, if compared 
+with those which have been received by American 
+officers, will, according to European ideas, be very 
+scanty in application to a stranger who is acknowledged to have rendered essential services. Our reputation abroad is not, at present, too high. To dismiss an old soldier, empty and hungry, to seek the 
+bounty of those on whom he has no claims, and to complain of unkind returns and violated engagements, 
+will certainly not tend to raise it. I confess, too, 
+there is something in my feelings which would incline 
+me, in this case, to go farther than might be strictly 
+necessary, rather than drive a man, at the Baron's 
+time of life, who has been a faithful servant, to extremities. And this is unavoidable, if he does not 
+succeed in his present attempt. What he asks would, 
+all calculations made, terminate in this, — an allowance 
+of his five hundred and fifty guineas a year. He 
+only wishes a recognition of the contract. He knows 
+that, until affairs mend, no money can be produced. 
+I do not know how far it may be in your power 
+to do him any good ; but I shall be mistaken if the 
+considerations I have mentioned do not appear to 
+your Excellency to have some weight. I remain, 
+with great respect and esteem, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>.
+</p>
+</letter>

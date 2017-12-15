@@ -1,0 +1,52 @@
+<letter id="rfs8021">
+<recipient first="David" last="Henshaw" type="individual"/>
+</p><p>
+UNITED STATES SHIP PRINCETON, 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>PHILADELPHIA</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1844' rel="origin">1844</a>. 
+</p><p>
+SIR : The United States ship Princeton having received her armament on board, and being nearly ready for sea, I have the honour to transmit to you the following account of her equipment, &c. 
+</p><p>
+The Princeton is a full-rigged ship, of great speed and power, able to perform any service that can be expected from a ship-of-war. 
+Constructed upon the most approved principles of naval architecture, she is believed to be at least equal to any ship of her class, 
+with her sails. She has an auxiliary power of steam, and can make greater speed than any sea-going steamer or other vessel heretofore 
+built. Her engines lie snug in the bottom of the vessel, out of reach of an enemy's shot, and do not at all interfere with the use of the sails, but can at any time be made auxiliary thereto. She 
+shows no chimney and makes no smoke, and there is nothing in her external appearance to indicate that she is propelled by steam. 
+</p><p>
+The advantages of the Princeton over both sailing-ships and steamers propelled in the usual way are great and obvious. She can go in and out of port at pleasure, without regard to the force 
+or direction of the wind or tide, or the thickness of the ice. She can ride safely with her anchors in the most open roadstead, and may lie to in the severest gale of wind with safety. She can not 
+only save herself, but will be able to tow a squadron from the dangers of a lee-shore. Using ordinarily the power of the wind, and 
+reserving her fuel for emergencies, she can remain at sea the same length of time as other sailing-ships. Making no noise, smoke, or agitation of the water, (and, if she chooses, showing no sail,) she 
+can surprise an enemy. She can at pleasure take her own position and her own distance from the enemy. Her engines and waterwheel being below the surface of the water, safe from an enemy's shot, she is in no danger of being disabled, even if her masts should be destroyed. She will not be at a daily expense for fuel, as other steamships are. The engines, being seldom used, will probably out 
+last two such ships. These advantages make the Princeton, in my opinion, the cheapest, fastest, and most certain ship-of-war in the 
+world. The equipments of this ship are of the plainest and most substantial kind, the furniture of the cabins being made of white 
+pine boards, painted white, with mahogany chairs, table, and side board, and an American-manufactured oil-cloth on the floor. To economize room, and that the ship may be better ventilated, curtains 
+of American-manufactured linen are substituted for the usual and more cumbrous and expensive wooden bulkheads, by which arrangement the apartments of the men and officers may in an instant be 
+thrown into one, and a degree of spaciousness and comfort is attained unusual in a ship of her class. The Princeton is armed with 
+two long 225-pound wrought-iron guns and twelve 42-pound carronades, all of which may be used at once on either side of the ship. She can consequently throw a greater weight of metal at one broad 
+side than most frigates. The big guns of the Princeton can be fired! with an effect terrific and almost incredible, and with a certainty heretofore unknown. The extraordinary effects of the shot were 
+proved by firing at a target, which was made to represent a section of the two sides and deck of a seventy-four-gun ship, and timbered, kneed, planked, and bolted, in the same manner. This target was 
+five hundred and sixty yards from the gun. With the smaller charges of powder the shot passed through these immense masses of timber, (being fifty-seven inches thick,) tearing it away and 
+splintering it for several feet on each side, and covering the whole surface of the ground for a hundred yards square with fragments of wood and iron. The accuracy with which these guns throw their 
+immense shot (which are three feet in circumference) may be judged by this : that six shot fired in succession at the same elevation struck the same horizontal plank in a target more than half a mile 
+distant. By the application of the various arts to the purposes of war on board the Princeton, it is believed that the art of gunnery for sea-service has, for the first time, been reduced to something 
+like mathematical certainty. The distance to which these guns can throw their shot, at every necessary angle of elevation, has been ascertained by a series of careful experiments. The distance from 
+the ship to any object is readily ascertained with an instrument on 
+board, contrived for that purpose, by an observation which it requires but an instant to make, and by inspection without calculation. By self-acting locks, the guns can be fired accurately at the 
+necessary elevation, no matter what the motion of the ship may be. It is confidently believed that this small ship will be able to battle 
+with any vessel, however large, if she is not invincible against any foe. The improvements in the art of war adopted on board the Princeton, may be productive of more important results than any thing that has occurred since the invention of gunpowder. The numerical force of other navies, so long boasted, may be set at naught. The ocean may again become neutral ground, and the 
+rights of the smallest as well as the greatest nations may once more be respected. 
+</p><p>
+All of which, for the honour and defence of every inch of our territory, is most respectfully submitted to the honourable Secretary of the Navy, for the information of the President and Congress of the United States, 
+</p><p>
+By your obedient and faithful servant, 
+</p><p>
+R. F. STOCKTON, 
+</p><p>
+Captain U. S. Navy. 
+</p><p>
+To Hon. David Henshaw, 
+</p><p>
+Secretary of the Navy. 
+</p><p>
+</letter>

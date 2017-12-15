@@ -1,0 +1,27 @@
+<letter id="nib5255">
+<recipient first="Joseph" last="Gales" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="3">March</a> <a rel='day origin' value='2'>2</a>. <a href='/results.php?year=1831' rel="origin">1831</a> 
+</p><p>
+Dear Sir 
+</p><p>
+... On this whole subject of publication, my theory 
+is very simple. I believe that nine tenths of the errors of men 
+arise from their ignorance and that the great security of 
+all our institutions is in the power, the irresistible power, of 
+truth. I recollect well when twenty years ago I opposed in the 
+Legislature 2 of my State the measures taken to prostrate the former Bank, how much of the opposition to the Bank 
+was the result of downright ignorance of its meaning and its 
+operations, and I have lived to see the very individuals the 
+most zealous in the work of destruction, candidly confess, as 
+they have grown older and wiser, that they did not properly 
+appreciate the institution. I know what was then wanting 
+and I am resolved that it shall not now be wanting. I saw 
+the manner in which the small demagogues of that day deceived the community and I mean to try to prevent the 
+small demagogues of this day from repeating the same delusion. For this, there is but one course, the free circulation of plain honest truths by means of the press. There is 
+one mode in which you can much assist me. It is by the transmission of a list, such as your long practice has enabled you 
+to accumulate, of citizens with their respective addresses in various parts of the United States. Your own subscription 
+list, with the additions which you propose to make for increased diffusion of your paper, would form excellent materials &amp; I would gladly defray the expence, if necessary, of 
+copying that list which, for greater convenience, should be divided into States 
+</p>
+</letter>

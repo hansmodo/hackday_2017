@@ -1,0 +1,86 @@
+<letter id="laf4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+On board the Nymph, <a href='/results.php?city=new york' rel='city origin'>New York</a> Harbour, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1784' rel="origin">1784</a> 
+</p><p>
+My dear General, 
+</p><p>
+I have received your affectionate letter of the 8th j 
+and from the known sentiments of my heart to you, 
+you will easily guess what my feelings have been in 
+perusing the tender expressions of your friendship. 
+</p><p>
+No, my beloved General, our late parting was not by 
+any means a last interviev/. My wliole soul revolts 
+at the idea ; and could I harbour it an instant, indeed, 
+my dear General, it would make me miserable. I well 
+see you never will go to France. The inexpressible 
+pleasure of embracing you in my own house, of welcoming you in a family where your name is adored, 
+I do not much expect to experience; but to you I 
+shall return, and, within the walls of <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, 
+we shall yet often speak of old times. My firm plan 
+is to visit now and then my friend on this side of 
+the Atlantic ; and the most beloved of all friends I 
+ever had, or ever shall have anywhere, is too strong 
+an inducement for me to return to him, not to think 
+that whenever it is possible I shall renew my so 
+pleasing visits to Mount Yernon. 
+</p><p>
+Since I have left you, my dear General, we have 
+passed through <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> to <a href='/results.php?city=trenton' rel='city'>Trenton</a>, where I was 
+happy to find a numerous and well-chosen Congress. 
+Their testimonies of kindness to me, and my answer 
+to them, you will see in the newspapers. As to my 
+services abroad, it has been (on motion respecting 
+what I told you) universally decided that public confidence in me was a matter of course, a doubt of 
+which ought not to be expressed. But, as I know 
+the sense of the Congress, and as <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a> has accepted, and Mr. Jeflerson will be Minister in France, 
+my situation in that respect will be very agreeable. 
+</p><p>
+Orders have been sent to Canada to reenforce the 
+Lake posts, put the vessels in commission, and repel 
+force by force. But I. think that if once Congress 
+have the trade to regulate, mercantile interdictions <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> will set these people to rights. Although party spirit 
+had a little subsided in <a href='/results.php?city=new york' rel='city'>New York</a>, yet that city is 
+not by any means settled. How far from <a href='/results.php?city=boston' rel='city'>Boston</a> ! 
+</p><p>
+Although your nephew is not arrived, I will hope 
+for the pleasure to see him in Paris. <a href='/results.php?tla=nag' rel='colleague met friend'>General Greene</a> 
+was in <a href='/results.php?city=hartford' rel='city'>Hartford</a> when the letter reached him, from 
+where he came to <a href='/results.php?city=new york' rel='city'>New York</a>, and I had the pleasure 
+to spend some days with him. Inclosed I send you 
+a small cipher. Should any public political business 
+require a fuller one, I will write to you a complete 
+cipher I have had long ago with <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a>'s present 
+department. 
+</p><p>
+Mr. Carey, printer of the Volunteer journal, has been 
+obliged to fly for his life, and now lives at Mr. Sutler's, hatter. Front street, in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, where he is 
+going to set up a paper. A letter from you, becoming a subscriber, and telling him I have mentioned it 
+to you, will the most oblige me, as I have promised 
+him to recommend him to my friends. He is now 
+an American; and we have nothing to do with his 
+quarrel with the Duke of Rutland, which disputes, 
+by the by, seem to subside, and vanish into nothing. 
+The French packet is not yet arrived. 
+</p><p>
+The Chevalier de Caraman and Captain Grandchain 
+beg leave to offer their respects to you, Mrs. Washington, and all the family. My most tender, affectionate respects wait upon Mrs. Washington and all 
+the family. I beg she will give a kiss for me to 
+the little girls, my friend ; and I beg Mrs. 
+</p><p>
+Stuart, the Doctor, Mr. Lund Washington, and all our 
+friends, to receive my best compliments. I hope <a href='/results.php?tla=beh' rel=''>Mr. Harrison</a> will be soon appointed, and I wish his cousin may know it. 
+</p><p>
+Adieu, adieu, my dear General. It is with inexpressible pain that I feel I am going to be severed 
+from you by the Atlantic. Every thing, that admiration, respect, gratitude, friendship, and filial love, can 
+inspire, is combined in my affectionate heart to devote me most tenderly to you. In your friendship I 
+find a delight which words cannot express. Adieu, 
+my dear General. It is not without emotion that I 
+write this word, although I know I shall soon visit 
+you again. Be attentive to your health. Let me 
+hear from you every month. Adieu, adieu. 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p>
+</letter>

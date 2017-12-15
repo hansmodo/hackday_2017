@@ -1,0 +1,29 @@
+<letter id="smd7881">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a href='/results.php?city=clinton' rel='city origin'>Clinton</a> [ Louisiana ], <a rel="month origin" value="9">September</a> <a rel='day origin' value='9'>9th</a>, Tuesday. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+ 
+Back again ! For how long, I know not. At sunset Saturday, Eliza and Miriam returned to Mrs. McCay's with Nannie Davidson. Mother had 
+proved obdurate and refused to leave <a href='/results.php?city=clinton' rel='city'>Clinton</a>; so they had all gone on, and spent the day with Mrs. Haynes instead of going to Mrs. George's. After 
+my quiet, solitary day, I was glad to see them again, 
+particularly as they brought confirmation of the 
+great victory in Virginia. It is said the enemy were 
+cut off from Washington, and that we were pursuing 
+them. O my brothers! If God will only spare them ! 
+I envy Lydia who is so near them, and knows all, 
+and can take care of them if they are hurt. It will be 
+several days at least, before we can hear from them, 
+if we hear at all; for Jimmy has never yet written a 
+line, and George has written but once since the taking of the forts, and that was before the battle of Chickahominy. We can only wait patiently. perhaps General Carter will bring us news. 
+</p><p>
+Mrs. Haynes sent a very pressing invitation for us to spend the next day with her, so, although it was 
+Sunday, we went. I am becoming dreadfully irreligious. I have not been to church since Mr. Gierlow went to Europe last July. It is perfectly 
+shocking; but the Yankees have kept me running until all pious dispositions have been shaken out of 
+me ; so they are to blame. Like heathens, we called on Miss Comstock as we passed through town, and 
+spent an hour with her. Landed at Mr. Haynes's, we had ample time to look around before he and his 
+wife got back from church. Here again I found what seems to be the prevailing style of the country, wide 
+spread doors and windows, with neither blinds nor shade trees to keep off the glare of the sun. The 
+dining-room was a wide hall, where the rising sun shone in your face at breakfast, and at dinner, being 
+directly overhead, seemed to shine in at both ends at once. A splendid arrangement for a Fire Worshiper; but I happened to be born in America, instead of Persia, so fail to appreciate it. 
+</p><p>
+</letter>

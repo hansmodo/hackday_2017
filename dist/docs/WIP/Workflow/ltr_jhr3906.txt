@@ -1,0 +1,15 @@
+<letter id="jhr3906">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a rel="month origin" value="6">JUNE</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR: 
+</p><p>
+It will be necessary that you send down as soon as you can, the witnesses against the several prisoners brought by Lieut. Cone, that they 
+may be brought to trial, by a Court Martial, which they cannot be 
+without the witnesses being here. Be pleased to cause the proclamations herewith sent to be made known in the district of your regiment. 
+I am sir, your humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter>

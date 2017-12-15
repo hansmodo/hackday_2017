@@ -1,0 +1,39 @@
+<letter id='mad1467'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, October 10, <a href="/results.php?year=1780">1780</a>. 
+</p><p>
+DEAR SIR, Your favor of the 1st instant came safe to hand yesterday. The enclosed was sent to <a href='/results.php?tla=edp' rel=''>Mr. Pendleton</a>, who is still in town. 
+</p><p>
+All we know of the several fleets in the American seas, is 
+that Rodney with a few ships is at <a href="/results.php?city=new york" rel="city">New York</a>, the remainder 
+having joined Graves and Arbuthnot, whom we know nothing 
+about. Ternay is still at Rhode Island. The main French 
+fleet under Guichen left the West Indies about the time first 
+mentioned, with a large fleet of merchantmen under its convoy, 
+and has not since been heard of. The residue of the French 
+fleet is in the West Indies, but we do not hear of their being 
+any way employed. It is said an English expedition is preparing at Jamaica against some of the Spanish settlements. The 
+Spanish expeditions against the Floridas I believe I mentioned 
+in my last. 
+</p><p>
+We have private accounts, through a channel which has seldom deceived, that a very large embarkation is still going on 
+at <a href="/results.php?city=new york" rel="city">New York</a>. I hope Virginia will not be surprised, in case 
+she should be the meditated victim. 
+</p><p>
+Andre was hung as a spy on the 2d instant. Clinton made 
+a frivolous attempt to save him by pleading the passport granted 
+by Arnold. He submitted to his fate in a manner that showed 
+him to be worthy of a better one. His coadjutor, Smith, will 
+soon follow him. The hero of the plot, although he may for the 
+present escape an ignominious death, must lead an ignominious 
+life, which, if any of his feelings remain, will be a sorer punishment. It is said that he is to be made a Brigadier, and employed in some predatory expedition against the Spaniards, in 
+which he may gratify his thirst for gold. It is said with more 
+probability, that his baseness is universally despised by those 
+who have taken advantage of it, and that some degree of resentment is mixed with their contempt, on account of the loss of 
+their darling officer, to which he was accessory. 
+</p><p>
+With sincere regard, I am, dear sir, your obedient, humble 
+serv.t. 
+</p>
+</letter>

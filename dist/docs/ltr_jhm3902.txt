@@ -1,0 +1,47 @@
+<letter id="jhm3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR : 
+</p><p>
+Your letter of the 10th inst. came safe to hand two days ago. The 
+commanders of privateers, knowing their authority, and regardless of our 
+unfortunate situation, are determined to add to our distresses, instead 
+of contributing towards their relief; indeed, the men who usually command these vessels are needy and avaricious to the last degree, and 
+come out with a view of making money by any means that does not 
+subject them to be hanged; humanity is a thing they are totally unacquainted with. By a late Act of Congress, all British property, where 
+soever found, is made liable to seizure. How far the vessel in question, 
+having <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s flag, might have violated, I will not pretend to 
+judge, if it is put upon this issue; thus its rests with <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> to 
+take cognizance of the affair. But in the light the matter at present 
+strikes me, we have gone far enough in confining the captain and crew; 
+more rigorous measures may probably bring us into a dispute with the 
+State of North Carolina. What we have already done is a mere act of 
+power, and in our circumstances highly excusable. I would, therefore, 
+recommend that the captain and crew be discharged, and the vessel 
+be permitted to depart as soon as the flag has sailed, and got beyond all 
+danger of being taken. I should be extremely glad if you could con 
+tract for any quantity of clothing from the quarter you mention, and I 
+will engage to have produce returned for it that is, if it can be spared. 
+I have employed Mr. Robert Heriot to take an account of the provisions in the district of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>; as soon as I can get his return, I 
+shall be able to let you know what rice is to be spared. All the south 
+ward parts of the country are stripped very bare, and it is very probable 
+we shall be obliged to draw some provisions from San tee for this army. 
+The same objection lies against paying Mr. Wayne's account. Until I 
+can get the return above mentioned, I enclose you an order on Capt. Richardson, at the high hills of Santee, for 500 Ibs. powder and 1,500 
+lead, 50 muskets and bayonets, 50 cartouch boxes, and 1,000 flints, which 
+you may send for as soon as you please. As to cannon ball, I know 
+not where to procure them; if you can point any mode that promises 
+a probability of success, I will undertake to have the experiment made. 
+I have already wrote you fully respecting Mr. Porcher; also, respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, and my determination about impressing 
+horses. Mr. John Waring's situation at present being so exceedingly 
+distressing, I have given him permission to remain at home, on his 
+engaging to join you again as soon as possible. Mrs. Hall sends on a 
+horse for his wagon ; I, therefore, request you would furnish the necessary escort, and send it forward without delay. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

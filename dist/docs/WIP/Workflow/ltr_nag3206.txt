@@ -1,0 +1,124 @@
+<letter id="nag3206">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>Morristown</a>, <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR, 
+</p><p>
+The situation of my department has been, for a 
+long time, peculiarly embarrassed. My greatest solicitude and efforts have scarcely satisfied the common 
+exigencies of the service ; and I have the mortification to find that, in spite of all my endeavours, the 
+difficulties are every day increasing. 
+</p><p>
+I have repeatedly mentioned to your Excellency, 
+for some months past, that the supplies of money 
+furnished the department were very unequal to the 
+current expenses. I have all along flattered myself 
+that affairs would take a new and more favorable 
+turn. As Congress were deliberating upon the subject of finance, I was led to believe that the schemes 
+and plans they were adopting would afford more 
+ample relief; and have encouraged the agents, under 
+such an expectation, to proceed in the execution of 
+the business. They have been enabled to extend 
+their credit thus far, so as to keep the wheels in 
+motion, hoping not to fail until government could 
+find ways and means for furnishing us with cash 
+more adequate to the demands. 
+</p><p>
+But whatever grounds I supposed there were for 
+authorizing such expectations, I now find they were 
+vain and nugatory. The cloud thickens, and the 
+prospects are daily growing darker. There is now 
+no hope of cash. The agents are loaded with heavy 
+debts, and perplexed with half-finished contracts, and 
+the people clamorous for their pay, refusing to proceed in the public business unless their present demands are discharged. The constant run of expenses, 
+incident to the department, presses hard for further 
+credit., or immediate supplies of money. To extend 
+one, is impossible ; to obtain the other, we have not 
+the least prospect. I see nothing, therefore, but a 
+general check, if not an absolute stop, to the progress of every branch of business in the whole department, I have little reason to hope that, with the 
+most favorable disposition in the agents, it will be 
+in our power to provide for the occasional demands 
+of the army in their present cantonments; much less, 
+to have in readiness the necessary apparatus, and 
+supplies of different kinds, for putting the army in 
+motion at the opening of the campaign. My apprehensions of a failure in these respects are so strong, 
+and my anxiety for the consequences so great, that I 
+feel it my duty once more to represent to your Excellency our circumstances and prospects. From such a view of our situation, you may be led not to expect more from us than we are able to perform, and 
+may have time to take your measures consequent 
+upon such information. 
+</p><p>
+I know not whether government can command such 
+sums of money as are necessary for the current expenses of the nation ; but it is a folly to expect that 
+this expensive department can be long supported on 
+credit. A further attempt would only bring ruin and 
+distress upon ourselves, without affording any substantial advantage, either to the public or the army ; 
+and, therefore, I think it highly necessary, as all military movements are under your immediate direction, 
+and as the affairs of this department are intimately 
+connected with all the active operations, that you 
+should have a right understanding with Administration, with respect to the support they can give. 
+in executing the measures you may think proper to 
+take. 
+There is no deficiency in the resources of the 
+country. On the contrary, I have authentic reasons 
+to conclude the country is more plentifully stored 
+with every material necessary for the provision and 
+support of an army, than it has been for three years 
+past. The defect lies in a want of proper means to 
+draw them into public use. I cannot see how a remedy will be applied to this evil in the present management of finance. The wretched state in which 
+that is involved, creates HCAV obstructions, and an ac 
+cumulation of expenses in every branch of the department. 
+</p><p>
+Hitherto our principal difficulty has arose from a 
+want of proper supplies of money, and from the inefficacy of that which we obtained ; but now there 
+appears a scene opening which will introduce new 
+embarrassments. The Congress have recommended to 
+the different States to take upon themselves the furnishing certain species of supplies for our department. The recommendation falls far short of the 
+general detail of the business, the difficulty of ad 
+justing which, between the different agents as well 
+as the different authorities from which they derive 
+their appointments, I am very apprehensive will introduce some jarring interests, many improper disputes, 
+as well as dangerous delays. Few persons, who have 
+not a competent knowledge of this employment, can 
+form any tolerable idea of the arrangements necessary to give despatch and success in discharging the 
+duties of the office, or see the necessity for certain 
+relations and dependencies. The great exertions 
+which are frequently necessary to be made, require 
+the whole machine to be moved by one common interest, and directed to one general end. How far the 
+present measures, recommended to the different States, 
+are calculated to promote these desirable purposes, I 
+cannot pretend to say; but there appears to me such a maze, from the mixed modes adopted by some 
+States, and about to be adopted by others, that I 
+cannot see the channels, through which the business 
+may be conducted, free from disorder and confusion. 
+</p><p>
+It would be a folly for me to attempt to change 
+the general disposition of mankind, or to flatter my 
+self with the hopes of a different conduct from those 
+who may be employed in the various branches of the 
+department, than what is known to influence and 
+govern men. If experiments are necessary, I have 
+not the least objections to their being made ; but I 
+cannot agree to be responsible for the consequences. 
+If government is distressed, and these expedients are 
+requisite for her relief, my aid shall not be wanting, 
+during my stay in the department, to give them a 
+fair and full operation ; but I cannot say that I think 
+they will either answer the expectations of the pub 
+lic, or prove competent to the demands of the army. 
+</p><p>
+It cannot be more disagreeable to your Excellency 
+to receive, than it is to me to make, so unfavorable a representation. I have left no steps unattempted, 
+that appeared calculated to put affairs on a more 
+prosperous footing; and I have hoped that every 
+succeeding account would be more promising than the 
+last. I should betray my trust, were I to amuse your Excellency with hopes and encouragements; and I 
+beg that this description of my department may not 
+only be considered as justly drawn, but dictated by 
+motives of duty, and aiming at the advantage of the 
+public. I am, with great respect, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

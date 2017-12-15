@@ -1,0 +1,54 @@
+<letter id="rim3011">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+<a href='/results.php?city=montreal' rel='city origin'>Montreal</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I am ashamed of dating my letter from hence ; you will be 
+surprised at my long stay here, but day after day have I been 
+delayed without a possibility of getting to Arnold's assistance. 
+His last letter I inclose to you, together with one for General <a href='/results.php?city=washington' rel='city'>Washington</a>. 
+</p><p>
+To-morrow, I believe, I shall sail with two or three hundred men, some mortars and other artillery. It is with great 
+indignation I hear Lieutenant Halsey, whom I left as Assistant 
+Engineer at <a href='/results.php?city=st johns' rel='city'>St. John's</a>, to put the barracks in a proper state 
+for the reception of a garrison, has run away without leave, 
+taking with him the artificers I had left to carry on the work. 
+This behaviour deserves the severest punishment. I beg he may 
+be made an example of; he is a fit subject of it, and deserved 
+to have been dismissed for endeavouring to persuade the soldiers to return from <a href='/results.php?city=st johns' rel='city'>St. John's</a>, and not to proceed to <a href='/results.php?city=montreal' rel='city'>Montreal</a>. Lieutenant Graham, of the fourth regiment, and several others, can prosecute him. 
+</p><p>
+It will be necessary to send hard money here immediately, 
+as paper will not yet go down. Price has lent me five thou 
+sand pounds, York money; Walker has been so fortunate as to 
+get home, being retaken in one of the vessels. Poor Allen 
+is sent to England in irons. Should any accident befall him, 
+I hope Prescott will fall a sacrifice to his manes. 
+</p><p>
+I sent by <a href='/results.php?tla=pjs' rel='colleague met'>Mr. Schuyler</a> a return of provisions, taken in the 
+vessels. I wish Lee could sec off immediately for the command 
+here. I have thoughts of disarming the Tories in this town; 
+not so much from any apprehensions I have of them, as to 
+quiet the jealous apprehensions of the troops. Several Commissioners and other officers are flown without settling their accounts. I hope those people will incur the heavy censure of 
+Congress. One, Mr. Waterhouse, who was appointed by Colonel Bedel, and whose conduct must be inquired into, having, I fear, 
+made great waste of public stores ; one, Mr. Stewart, who acted 
+at Laprairie ; one, Mr. Power, who acted at <a href='/results.php?city=st johns' rel='city'>St. John's</a>. Lieu 
+tenant-Colonel Warner has, I believe, large accounts unsettled. 
+In short, there are great abuses to be rectified. 
+</p><p>
+I wish exceedingly for a respectable Committee of Congress. 
+I really have not weight enough to carry on business by my 
+self. I send you the two Indians taken in Carleton's attack. 
+I forgot to make you this present before. 
+</p><p>
+With respect to the Canadian soldiery, I think you may venture to send them back. The I should imagine might 
+influence in some measure the choice of representation for a Convention. I am, my dear General, with sentiments of real 
+esteem and respect, your most affectionate, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p><p>
+P. S. The Indians are of the Conosadago. I have not, I believe, more than eight hundred effective here. However, I 
+can have as many Canadians, as I know how to maintain ; atleast I think so, while affairs wear so promising an aspect. 
+</p>
+</letter>

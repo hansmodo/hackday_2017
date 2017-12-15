@@ -1,0 +1,26 @@
+<letter id="mbc7692">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. A visit from the President's handsome and accomplished secretary, Burton Harrison. I lent him 
+Gountry Clergyman in Town and Elective Affinities. He is to bring me Mrs. Norton's Lost and Saved. 
+</p><p>
+At Mrs. Randolph's, my husband complimented one of the ladies, who had amply earned his praise by her splendid 
+acting. She pointed to a young man, saying, " You see that wretch ; he has not said one word to me ! : My husband asked innocently, "Why should he ? And why is he a wretch? ; " Oh, you know! : Going home I explained this riddle to him; he is always a year behindhand in gossip. " They said those two were engaged last winter, 
+and now there seems to be a screw loose; but that sort of thing always comes right." The Carys prefer James Chesnut to his wife. I don't mind. Indeed, I like it. I do, too. 
+</p><p>
+Every Sunday Mr. Minnegerode cried aloud in anguish his litany, "from pestilence and famine, battle, murder, 
+and sudden death," and we wailed on our knees, "Good Lord deliver us/ and on Monday, and all the week long, 
+we go on as before, hearing of nothing but battle, murder, and sudden death, which are daily events. Now I have a 
+new book; that is the unlooked-for thing, a pleasing incident in this life of monotonous misery. We. live in a huge 
+barrack. We are shut in, guarded from light without. 
+</p><p>
+At breakfast to-day came a card, and without an instant's interlude, perhaps the neatest, most fastidious man 
+in South Carolina walked in. I was uncombed, unkempt, tattered, and torn, in my most comfortable, worst worn, 
+wadded green silk dressing-gown, with a white woolen 
+shawl over my head to keep off draughts. He has not been 
+in the war yet, and now he wants to be captain of an engineer corps. I wish he may get it ! He has always been my 
+friend; so he shall lack no aid that I can give. If he can stand the shock of my appearance to-day, we may reason 
+ably expect to continue friends until death. Of all men, the fastidious Barny Heywood to come in. He faced the 
+situation gallantly. 
+</p>
+</letter>

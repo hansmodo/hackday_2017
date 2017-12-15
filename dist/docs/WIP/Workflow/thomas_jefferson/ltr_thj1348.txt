@@ -1,0 +1,67 @@
+<letter id='thj1348'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="http://www.familytales.org/results.php?city=Williamsburg" rel="city">Williamsburg</a>,
+</p><p>
+July 17, <a href="http://www.familytales.org/results.php?year=1779">1779</a>.
+</p><p>
+Sir,
+</p><p>
+I some time ago enclosed to you a printed copy of an order of Council,
+by which Governor Hamilton was to be confined in irons, in close jail,
+which has occasioned a letter from General Phillips, of which the
+enclosed is a copy. The General seems to think that a prisoner on
+capitulation cannot be put in close confinement, though his capitulation
+should not have provided against it. My idea was, that all persons taken
+in war, were to be deemed prisoners of war. That those who surrender on
+capitulation (or convention) are prisoners of war also, subject to the
+same treatment with those who surrender at discretion, except only so
+far as the terms of their capitulation or convention shall have guarded
+them. In the capitulation of Governor Hamilton (a copy of which I
+enclose), no stipulation is made as to the treatment of himself, or
+those taken with him. The Governor, indeed, when he signs, adds a
+flourish of reasons inducing him to capitulate, one of which is the
+generosity of his enemy. Generosity, on a large and comprehensive scale,
+seems to dictate the making a signal example of this gentleman;
+but waving that, these are only the private motives inducing him to
+surrender, and do not enter into the contract of Colonel Clarke. I have
+the highest idea of those contracts which take place between nation
+and nation, at war, and would be the last on earth to do any thing in
+violation of them. I can find nothing in those books usually recurred
+to as testimonials of the laws and usages of nature and nations, which
+convicts the opinions I have above expressed of error. Yet there may
+be such an usage as General Phillips seems to suppose, though not taken
+notice of by these writers. I am obliged to trouble your Excellency on
+this occasion, by asking of you information on this point. There is no
+other person, whose decision will so authoritatively decide this doubt
+in the public mind, and none with which I am disposed so implicitly
+to comply. If you shall be of opinion that the bare existence of a
+capitulation, in the case of Governor Hamilton, privileges him
+from confinement, though there be no article to that effect in the
+capitulation, justice shall most assuredly be done him. The importance
+of this point, in a public view, and my own anxiety under a charge of
+violation of national faith by the Executive of this Commonwealth, will,
+I hope, apologize for my adding this to the many troubles with which I
+know you to be burdened. I have the honor to be, with the most profound
+respect, your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p><p>
+P. S. I have just received a letter from Colonel Bland, containing
+information of numerous desertions from the Convention troops, not less
+than four hundred in the last fortnight. He thinks he has reason to
+believe it is with the connivance of some of their officers. Some
+of these have been retaken, all of them going northwardly. They had
+provided themselves with forged passports, and with certificates of
+having taken the oath of fidelity to the State; some of them forged,
+others really given by weak magistrates. I give this information to
+your Excellency, as perhaps it may be in your power to have such of them
+intercepted as shall be passing through Pennsylvania and Jersey.
+</p><p>
+Your letter enclosing the opinion of the board of war in the case of
+Allison and Lee, has come safe to hand, after a long passage. It shall
+be answered by next post. T. J.
+</p>
+</letter>

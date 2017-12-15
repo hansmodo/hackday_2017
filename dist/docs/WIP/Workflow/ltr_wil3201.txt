@@ -1,0 +1,65 @@
+<letter id="wil3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=elizabethtown' rel='city origin'>Elizabethtown</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have to acknowledge your Excellency's favors of the 16th and 17th instant. 
+</p><p>
+From your Excellency's known disposition to afford 
+this State all the assistance which the circumstances 
+of your troops will permit, I think the reasons assigned., in your letter of the 16th, against sending a detachment into Monmouth, have their weight ; 
+and one is often obliged to make those applications 
+against one's own judgment, for the satisfaction, and 
+through the solicitations, of others. 
+</p><p>
+I am happy to find your Excellency concur with 
+me in sentiment respecting the prisoners lately be 
+longing to the British ship, stranded on our coast ; 
+and I have acquainted Colonel Beatty that they are 
+to be considered as the prisoners of this State, and 
+to be delivered to the order of Mr. Boudinot, our Commissary. I am exceedingly pleased with the 
+plan your Excellency proposes, in your letter of the 
+17th, for suffering flag-boats to pass only once a month, except on extraordinary occasions. For the 
+inhabitants of the States, who have no military business to transact, it is quite sufficient ; and the inconvenience of being delayed for that space of time, 
+when such establishment is found necessary for the 
+public good, ought to be, and by all true Whigs 
+will be, cheerfully acquiesced in. Indeed, of all 
+those who have applied to me for recommendations 
+to the commanding officer at <a href='/results.php?city=elizabethtown' rel='city'>Elizabethtown</a>, to go to 
+Staten Island or <a href='/results.php?city=new york' rel='city'>New York</a>, not above one in twenty 
+appeared entitled to. that indulgence ; and many of 
+them were as venomous Tories as any in the country. It is either from a vain curiosity (extremely 
+predominant in women), cloaked with the pretence 
+of securing their debts or effects, in which they 
+seldom, if ever succeed ; or, for the sake of buying 
+tea and trinkets (for which they would as soon forfeit a second Paradise, as Eve did the first, for the 
+forbidden fruit), that they are perpetually prompted 
+to those idle rambles. I have, accordingly, been 
+very sparing in gratifying their requests ; but have 
+often had the mortification to find that many of 
+those whom I had denied, were, notwithstanding, 
+successful in their subsequent addresses to the military officers, who, from a mistaken complaisance, 
+seemed incapable of resisting the solicitations of 
+those eloquent and pernicious vagrants. The men 
+are still more seriously mischievous, and go with 
+commercial motives, and to secure capital quantities 
+of British merchandises. 
+</p><p>
+By a late law, our Legislature has made it penal 
+for any of the inhabitants of this State to go into 
+the enemy's lines without your Excellency's pass or 
+mine ; and I am sure I shall not find myself disposed to grant any but in cases in which the principles of charity or humanity evidently appear to 
+require it. 
+</p><p>
+I hope the capture of the thirty Dutch vessels by 
+the enemy on their passage to the West Indies, on pretence of their being intended for America, laden 
+with French goods, will animate their High Mightinesses to vindicate their rights, and protect their 
+commerce. I have the honor to be, with the highest esteem, Dear Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wil" rel="me">WILLIAM LIVINGSTON</a>. 
+</p>
+</letter>

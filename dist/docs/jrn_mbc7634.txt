@@ -1,0 +1,19 @@
+<letter id="mbc7634">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mr. Chesnut says he is very glad he went to 
+town. Everything in Charleston is so much more satisfactory than it is reported. Troops are in good spirits. It will 
+take a lot of iron-clads to take that city. 
+</p><p>
+Isaac Hayne said at dinner yesterday that both <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> and the President had a great opinion of Mr. Chesnut's natural ability for strategy and military evolution. 
+Hon. Mr. Barnwell concurred; that is, Mr. Barnwell had 
+been told so by the President. Then why did not the President offer me something better than an aideship? " "I 
+heard he offered to make you a general last year, and you said you could not go over other men's shoulders until you 
+had earned promotion. You are too hard to please. " ll No, 
+not exactly that, I was only offered a colonelcy, and Mr. Barnwell persuaded me to stick to the Senate; then he wanted my place, and between the two stools I fell to the ground. 
+</p><p>
+My Molly will forget Lige and her babies, too. I asked 
+her who sent me that beautiful bouquet I found on my center-table. "I give it to you. Twas give to me." And Molly 
+was all wriggle, giggle, blush. 
+</p>
+</letter>

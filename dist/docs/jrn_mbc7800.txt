@@ -1,0 +1,17 @@
+<letter id="mbc7800">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Saturday I was in bed with one of my worst headaches. Occasionally there would come a sob and I 
+thought of my sister insulted and my little sweet Williams. Another of my beautiful Columbia quartette had rough experiences. A raider asked the plucky little girl, Lizzie Hamilton, for a ring which she wore. You shall not have it, 
+she said. The man put a pistol to her head, saying, "Take it off, hand it to me, or I will blow your brains out." 
+" Blow away," said she. The man laughed and put down his pistol, remarking, " You knew I would not hurt you." 
+" Of course, I knew you dared not shoot me. Even <a href='/results.php?tla=wts' rel=''>Sherman</a> would not stand that." 
+</p><p>
+There was talk of the negroes where the Yankees had been negroes who flocked to them and showed them where 
+silver and valuables had been hid by the white people. Ladies -maids dressed themselves in their mistresses gowns 
+before the owners faces and walked off . Now, before this every one had told me how kind, faithful, and considerate 
+the negroes had proven. I am sure, after hearing these tales, the fidelity of my own servants shines out brilliantly. 
+I had taken their conduct too much as a matter of course. In the afternoon I had some business on our place, the Hermitage. John drove me down. Our people were all at home, quiet, orderly, respectful, and at their usual work. 
+In point of fact things looked unchanged. There was nothing to show that any one of them had even seen the Yankees, or knew that there was one in existence. 
+</p>
+</letter>

@@ -1,0 +1,42 @@
+<letter id="bea3205">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=german flats' rel='city origin'>German Flats</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The 24th instant, in the evening, I reached Fort Schuyler, but 
+too late, after so fatiguing a march, to pursue the enemy that 
+evening. Early the next morning, a detachment of five hundred 
+men followed them. Soon after, a heavy rain came on, which 
+obliged them to return, excepting a small party, who went to 
+the Oneida Lake, where they arrived just in time to see the 
+last boats of the enemy going off. The 26th proved a rainy day, 
+so that it was impossible for the troops to move until the evening, when I sent off Colonel Livingston's and Colonel Jackson's 
+regiments. Yesterday, Bailey's and Wesson's left Fort Schuyler, 
+and arrived here last evening. The greatest despatch is made in 
+getting their boats over the Falls. 
+</p><p>
+You may depend on my joining you as soon as possible with 
+my detachment, about twelve hundred men. Few Indians will 
+be with me. The Oneidas and Tuscaroras, of all the Six Nations, are our only friends. The Commissioners have frequently 
+told them that they wished them to observe a strict neutrality, 
+and that they would never ask them to take up arms. I found 
+their head men determined to follow the advice of the Commissioners ; and therefore I did not urge the young men to join me, 
+though I am told by Mr. Deane that most of them may be induced to do it. I have despatched a messenger to them, acquainting them that you wish to see them immediately ; and that, as 
+you are a warrior, they might naturally judge of the subject on 
+which you would speak to them. 
+</p><p>
+I have left Gansevoort's and Van Schaick's regiments, consisting of seven hundred men, at Fort Schuyler. One company of the 
+latter garrisons Fort Dayton ; and a second, Fort Johnson. They 
+are supplied with two months provisions, and a good store of 
+ammunition. 
+</p><p>
+I believe there is nothing to be feared from the enemy in this 
+quarter at present. I have made your compliments and done your message to Colonels Gansevoort and Willett. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>.
+</p>
+</letter>

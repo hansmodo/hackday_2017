@@ -1,0 +1,30 @@
+<letter id="joj4200">
+<recipient first="Daniel" last="Raymond" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1819' rel="origin">1819</a>. 
+</p><p>
+Sir, 
+</p><p>
+I received by the last mail the pamphlet on " the Missouri Question," which you did me the favour to send. 
+The remarks and statements contained in it place the 
+pernicious influence of slavery on the welfare of our country in conspicuous and impressive points of view. 
+</p><p>
+The obvious dictates both of morality and policy teach 
+us, that our free nation cannot encourage the extension of 
+slavery, nor the multiplication of slaves, without doing 
+violence to their principles, and without depressing their 
+power and prosperity. 
+</p><p>
+It appears to me desirable, that your remarks and statements, as well as the excellent arguments of <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a>, 
+should be widely diffused ; they will have a strong tendency 
+to render public opinion on this very important subject correct and settled. 
+</p><p>
+Accept my acknowledgments for this mark of attention, 
+and for the inducements which prompted it. 
+</p><p>
+I am, sir, 
+Your obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

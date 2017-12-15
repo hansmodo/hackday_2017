@@ -1,0 +1,47 @@
+<letter id="pjs3023">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort edward' rel='city origin'>Fort Edward</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Since I wrote you from <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, I have not been 
+able to learn what is become of <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> 
+and the enemy. The army followed the troops that 
+came to Skenesborough as far as Fort Ann, where 
+they were yesterday repulsed ; notwithstanding which, 
+Colonel Long, contrary to my express orders, evacuated that post, I am here, at the head of a handful of men, not above fifteen hundred, without provisions, little ammunition, not above five rounds to 
+a man, having neither ball, nor lead to make any; 
+the country in the deepest consternation ; no carriages to move the stores from Fort George, which I 
+expect every moment to learn is attacked. And 
+what adds to my distress, is, that a report prevails 
+that I had given orders for the evacuation of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, whereas not the most distant hint of such an 
+intention can be drawn from any of my letters to 
+<a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a>, or any other person whatever. 
+I am informed, from undoubted authority, that the 
+garrison was reenforced with twelve hundred men at 
+least two days before the evacuation, and that eighty 
+head of cattle had got in, and a number of sheep. 
+What could induce the General Officers to a step 
+that has ruined our affairs in this quarter, God only 
+knows. 
+</p><p>
+By the information of some of the prisoners I 
+learn, that the enemy have already a brigade on the 
+w r ay from Skenesborough to this place. General Nixon's is not yet come up ; but, if it does, we shall 
+still be too weak to make any capital opposition. I 
+will, however, throw as many obstructions in the enemy's route as possible. A party is parading to fell 
+trees across the road between this and Fort Ann, to 
+take up all the bridges, drive off all the cattle, and 
+bring away the carriages. 
+</p><p>
+I inclose your Excellency a proclamation of <a href='/results.php?tla=jhb' rel='adversary'><a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a></a>, which he has caused to be industriously 
+spread through the country, and, I fear, will be at 
+tended with the most evil consequences to us. I am, 
+dear Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

@@ -1,0 +1,39 @@
+<letter id="bel3218">
+<recipient first="" last="Brown" type="individual"/>
+<p>
+GENERAL LINCOLN TO COLONEL BROWN. 
+</p><p>
+<a href='/results.php?city=pawlet' rel='city origin'>Pawlet</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR COLONEL, 
+</p><p>
+All your movements since you left this place have [been] very 
+agreeable to me. I am greatly obliged to you for your exertions, 
+and am glad to hear, that with spirit the officers and men under 
+you have distinguished themselves. You are all entitled to the 
+thanks of the public; mine you have most cordially. 
+</p><p>
+I had no idea, when I wrote to General Bayley, to which 
+letter you refer, of your retreating while there was a probability 
+of success ; neither do I now wish it. Colonel "Woodbridge will 
+afford you all the assistance in his power. I had yesterday 
+<a href='/results.php?year=1776'>1776</a>. <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s repeated orders to join him at Stillwater. I must 
+do it myself with all the troops I can collect here. He had a skirmish, the night before last, with the enemy. He took two 
+hundred and fifty prisoners and three field-pies. General Warner and you must act your own judgments with respect to at 
+tacking the enemy's lines, continuing the siege, or retiring. I 
+am this moment going to set off; expect to see <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> 
+to-morrow. I shall leave General Bayley at Castleton, who will 
+afford you every in supplies. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p><p>
+P. S. While at Skenesborough, I could get no advice from you, 
+and supposed our expresses were cut off. Indeed, I was con 
+firmed in this opinion, after being informed that one of our boats 
+was fired on by the Tories, and one man killed. The boat went, 
+as afterwards I was told, into East Bay. I therefore took post 
+for one night at Castleton. 
+</p>
+</letter>

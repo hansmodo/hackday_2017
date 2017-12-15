@@ -1,0 +1,23 @@
+<letter id="gwa4477">
+<recipient first="Elias" last="Dayton" type="individual"/>
+<p>
+TO COLONEL ELIAS DAYTON. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The late accounts from <a href='/results.php?city=new york' rel='city'>New York</a> are mysterious and perplexing, but they at any rate demand that we should be in readiness to move. You will therefore 
+concentrate as much as possible your brigade, and put 
+them under marching orders. The parties at the Clove 
+are not to be immediately called in, but the officers 
+commanding them should be warned to be in readiness. Should an evacuation of <a href='/results.php?city=new york' rel='city'>New York</a> take place, 
+as many strongly suspect, the troops under your command will be next in order for detachment. You will 
+therefore desire the officers to make preparation for a 
+move farther than merely to join the main body of 
+the army. As I am very anxious to learn what they 
+are really doing in <a href='/results.php?city=new york' rel='city'>New York</a>, you will oblige me by 
+obtaining and sending me as accurate intelligence as 
+possible. I am, &c. 
+</p>
+</letter>

@@ -1,0 +1,42 @@
+<letter id="dab3705">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I have this moment received intelligence, that the 
+enemy from Detroit intend paying a visit to this frontier. Major Lanctot has wrote me in French, and 
+I take the liberty to inclose a copy of the translation. The Delaware runners add, that a party of 
+twenty Indian warriors have been discovered, about 
+six days ago, marching towards these settlements, 
+and that a large party of Senecas may soon be expected down the Alleghany River. 
+</p><p>
+Last week seven persons were killed and taken by 
+the savages, in an interior settlement on Ten Mile 
+Creek. As no supply of goods has yet been sent 
+for the Delaware Indians, agreeably to treaty, I conceive they will be compelled to make terms with the 
+British, or perish; and next spring we shall have a 
+general Indian war. 
+</p><p>
+If I had a sufficient number of men, and a supply 
+of provisions, I should be happy to meet the enemy, 
+before they reach the posts or settlements ; but I see 
+no method, but force, to obtain it, and the mills cannot grind for want of water. 
+</p><p>
+Should this intelligence prove true (and I have no 
+reason to doubt it), I will do all I can to oppose the 
+designs of the enemy; but my regular force is very 
+small, and the inhabitants will be in the greatest 
+dread imaginable. Indeed, I expect they think more 
+of flight than resistance. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. The Delaware messengers say, that Captain 
+McIntyre's party killed eighteen or nineteen of the 
+Wyandots that were crossing the Ohio, as mentioned 
+in a former letter. 
+</p>
+</letter>

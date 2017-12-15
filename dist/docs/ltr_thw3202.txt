@@ -1,0 +1,59 @@
+<letter id="thw3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+In Council, <a href='/results.php?city=lancaster' rel='city origin'>Lancaster</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+In answer to your Excellency's letter of the 7th 
+instant, I beg leave to inclose to you extracts of a 
+letter to his Excellency the President of Congress, 
+from this Council, and of a representation from the 
+Council and the General Assembly to Congress, by 
+which your Excellency will see that attention has 
+been given to the supplying of the army with wagons, and what is the opinion of the Council respecting the difficulties attending this business. 
+</p><p>
+There is not any State on this Continent which 
+has been so oppressed with Continental business as 
+this has been, from the beginning of the present controversy to this hour. Its exertions have been so 
+zealous and unremitting, that no time has been lost 
+in inquiries after groundless charges of neglect made against it, which have been generally calculated to 
+excuse indolent or improvident officers, or to disgrace 
+the government established in it. The amazingly 
+difficult task, which your Excellency has to perform, 
+while you are embarrassed with perpetual applications 
+and complaints of officers, who are not fully acquainted with their duty, must too forcibly convince you 
+how near to an impossibility it is to conduct very 
+extensive business without the subordinate officers discharging, in some sort, their duty ; and it is from the 
+example of your Excellency alone, that it is believed 
+to be possible to conduct the affairs of a large army, 
+under the difficulties which you have had to contend 
+with. Equal abilities or success in attempts of this 
+kind are not to be expected in many instances. And 
+this Council must acknowledge that they are not 
+equal to the task imposed on them, if it is under 
+stood to be their duty to furnish every Deputy Quarter-master with four or five wagons, whenever they 
+are wanted, and to give equal attention to every other 
+department of the State and army. This, indeed, 
+seems to be expected of them; for there is, at present, 
+an absolute dependence on the Council to supply the 
+common rations of the soldiery now in the borough. 
+An earnest desire to serve the general cause, and a 
+zealous attachment to its interest, are the only motives which could possibly induce the Council to undertake such business in any extremity. 
+</p><p>
+The unparalleled patience and magnanimity with 
+which the army, under your Excellency's command, 
+have endured the hardships attending their situation, 
+unsupplied as they have been through an uncommonly 
+severe winter, is an honor which posterity will con 
+sider as more illustrious than could have been derived to them by a victory obtained by any sudden and 
+vigorous exertion. The latter often depends on some 
+circumstance trifling in itself, while the former is derived from a determined perseverance through the 
+greatest difficulties, which virtue and a truly patriotic 
+spirit only can inspire. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thw" rel="me">THOMAS WHARTON, JR</a>. 
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<letter id="smd7912">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], <a rel="month origin" value="11">November</a> <a rel='day origin' value='16'>16th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+I was interrupted yesterday morning by Mrs. Badger, who wished to apply a few dry cups to my 
+back, to which I quietly submitted, and was unable to move afterwards without pain, as a reward for 
+my patience. But towards sunset came two dear letters that made me forget what I had suffered, one 
+from George, and one from Jimmy, dated Bermudas. For the first time I know what my dear little brother 
+suffered during those long months when we could not hear if he were dead or alive. He kept the secret 
+until he no longer needed either friends or money; and now he tells it with a simplicity that made me 
+cry fit to break my heart when I was left alone in the twilight with no one to see. . . . George comforts me 
+with hopes of Peace, and a speedy return. If it could only be! ... 
+</p><p>
+This morning the boom of Yankee guns reached 
+my ears ; a sound I had hoped never to hear again. 
+It is only those poor devils (I can afford to pity 
+them in their fallen state) banging away at some 
+treasonable sugar-houses that are disobedient 
+enough to grind cane on the other side of the 
+river. I hear that one is at Mrs. Cain's. The 
+sound made my heart throb. What if the fight 
+should come off before I can walk? It takes three 
+people to raise me whenever it is necessary for me 
+to move; I am worse than helpless. 
+</p><p>
+</letter>

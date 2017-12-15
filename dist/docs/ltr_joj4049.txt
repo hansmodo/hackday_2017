@@ -1,0 +1,50 @@
+<letter id="joj4049">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='13'>13th</a> <a rel="month origin" value="10">Oct.</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Morris, 
+</p><p>
+I have received your festina Jente letter, but wish it had 
+been at least partly in cipher ; you need not be informed of 
+my reasons for the wish, as by this time you must know 
+that seals are, on this side of the water, rather matters of 
+decoration than of use It gave me nevertheless great 
+pleasure to receive that letter, it being the first from you 
+that had reached me, the Lord knows when. I find you 
+are industrious, and of consequence, useful ; so much the 
+better for yourself, for the public, and for our friend Morris, 
+whom I consider as the pillar of American credit. 
+</p><p>
+The king of Great Britain, by letters patent under the 
+great seal, has authorized Mr. Oswald to treat with the 
+commissioners of the United States of America. His first 
+commission literally pursued the enabling act, and the authority it gave him was expressed in the very terms of that 
+act, viz. to treat with the colonies, and with any or either 
+of them, and any part of them, and with any description of 
+men in them, and with any person whatsoever, of and concerning peace, &c. 
+</p><p>
+Had I not violated the instructions of Congress, their 
+dignity would have been in the dust ; for the French minister even took pains, not only to persuade us to treat under 
+that commission, but to prevent the second, by telling Fitzherbert that the first was sufficient. I told the minister that we neither could nor would treat with any nation in the 
+world on any other than on an equal footing. 
+</p><p>
+We may and we may not have a peace this winter. 
+Act as if the war would certainly continue. Keep proper 
+garrisons in your strong posts ; and preserve your army 
+sufficiently numerous, and well appointed, until every idea 
+of hostility and surprise shall have completely vanished. 
+</p><p>
+I could write you a volume, but my health admits only 
+of short intervals of application. 
+</p><p>
+Present my best wishes to Mr. and Mrs. Morris, and 
+such other of our friends as may ask how we do. 
+</p><p>
+I am, dear Morris, 
+</p><p>
+Very much your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,57 @@
+<letter id="pjs3021">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city orgin'>Albany</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="6">June</a> <a href="/results.php?year=1777" rel="origin">1777</a>; 11 o clock, A. M. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your Excellency's favor of the 20th instant I had 
+the honor to receive at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, in the evening of 
+the 26th. I am this moment favored with a letter of the 
+25th instant from <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a>, copy whereof I 
+herewith transmit. Should an accident happen to the 
+garrison of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and <a href='/results.php?tla=jhb' rel='adversary'><a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a></a> make 
+a push to gain the south part of the Lake, I know of 
+no obstacle to prevent him. Comparatively speaking, 
+I have not a man to oppose him; the whole number 
+at the different posts at and on this side of the Lake, 
+including the garrisons of Fort George and Skenesborough, not exceeding seven hundred men, and these I cannot draw away from their several stations, 
+in every one of which they are already much too 
+weak. It is therefore highly necessary that a strong 
+reenforcement should, without delay, be sent me. If 
+the sloops are not yet sent to bring the troops your 
+Excellency has ordered to be kept in readiness at 
+<a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, I shall push them off without delay. 
+</p><p>
+As it is not probable that we shall in time be 
+supplied with field-pieces from the eastward, I must 
+entreat that the reinforcements may bring some up 
+with them. 
+</p><p>
+I have this moment also received a letter from Mr. 
+Deane, the Indian Interpreter, an extract whereof I 
+inclose to you. As the information tallies exactly with 
+what I had before, it leads me to conclude that an 
+irruption will be made from the [westward]. 
+</p><p>
+I shall apply for the aid of the militia of this and 
+the neighbouring States, but I fear it will not be very 
+powerful, as many must be necessarily left at home. 
+</p><p>
+I have received a letter from the Commissary-General, which I think neither so temperate or decent as it should be. I shall take the first leisure 
+hour to transmit you a copy, with my answer, in which, I believe, it will be evinced from authentic 
+returns, that the scarcity of provisions in this department is, in a great measure, if not altogether, to be 
+imputed to a want of attention in the persons whose duty it was to supply this department. I am, dear 
+Sir, with great regard and esteem, Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p><p>
+P. S. I have sent an express to <a href='/results.php?tla=isp' rel='colleague'><a href='/results.php?tla=isp' rel='colleague'>General Putnam</a></a> 
+to hasten on the troops your Excellency had ordered 
+to be in readiness for this quarter. 
+</p><p>
+Since writing the above I have received another letter from <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a>, a copy whereof is in 
+closed. I am in pain about Fort George, but have no troops to throw in, and some time will necessarily 
+elapse before the militia can be got to march. 
+</p>
+</letter>

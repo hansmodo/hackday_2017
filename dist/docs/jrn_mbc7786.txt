@@ -1,0 +1,15 @@
+<letter id="mbc7786">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='17'>17th</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. A letter from <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>, who writes: " Do come to me, and see how we get on. I shall have a 
+spare room by the time you arrive, indifferently furnished, but, oh, so affectionately placed at your service. You will 
+receive such a loving welcome. One perfect bliss have I. The baby, who grows fat and is smiling always, is christened, and not old enough to develop the world's vices or to be snubbed by it. The name so long delayed is Varina Anne. My name is a heritage of woe. 
+</p><p>
+" Are you delighted with your husband? I am delighted with him as well as with my own. It is well to lose 
+an Arabian horse if one elicits such a tender and at the same time knightly letter as General Chesnut wrote to my 
+poor old Prometheus. I do not think that for a time he felt the vultures after the reception of the General's letter. 
+</p><p>
+" I hear horrid reports about Richmond. It is said that all below Ninth Street to the Rocketts has been burned 
+by the rabble, who mobbed the town. The Yankee performances have not been chronicled. May God take our cause into His own hands. 
+</p>
+</letter>

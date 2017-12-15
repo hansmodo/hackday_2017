@@ -1,0 +1,18 @@
+<letter id="mbc7710">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Hetty, the handsome, and Constance, the witty, came ; the former too prudish to read Lost and Saved, 
+by Mrs. Norton, after she had heard the plot. Conny was making a bonnet for me. Just as she was leaving the house, 
+her friendly labors over, my husband entered, and quickly ordered his horse. It is so near dinner, I began. But 
+I am going with the President. I am on duty. He goes to inspect the fortifications. The enemy, once more, are with 
+in a few miles of Richmond." Then we prepared a lunch eon for him. Constance Gary remained with me. 
+</p><p>
+After she left I sat down to Romola, and I was absorbed in it. How hardened we grow to war and war's alarms ! 
+The enemy's cannon or our own are thundering in my ears, 
+and I was dreadfully afraid some infatuated and frightened friend would come in to cheer, to comfort, and interrupt me. Am I the same poor soul who fell on her knees and prayed, and wept, and fainted, as the first gun boomed 
+from Fort Sumter ? Once more we have repulsed the enemy. But it is humiliating, indeed, that he can come 
+and threaten us at our very gates whenever he so pleases. If a forlorn negro had not led them astray (and they 
+hanged him for it) on Tuesday night, unmolested, they would have walked into Richmond. Surely there is horrid 
+neglect or mismanagement somewhere. 
+</p>
+</letter>

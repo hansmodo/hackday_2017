@@ -1,0 +1,48 @@
+<letter id="alh3420">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+[<a rel="month origin" value="6">June</a> <a rel="day origin" value="4">4th</a>, <a href="/results.php?year=1782" rel="origin">1782</a>]
+</p><p>
+SIR, 
+</p><p>
+The explanation which you give of your intention, in your late offer, makes it an object that will compensate fully for the time that it will deduct from my other 
+occupations. In accepting it, I have only one scruple, 
+arising from a doubt whether the service I can render in 
+the present state of things, will be an equivalent for the 
+compensation. The whole system, (if it may be so called,) 
+of taxation in this state, is radically vicious, burthensome 
+to the people, and unproductive to government. As the 
+matter now stands, there seems to be little for a continental receiver to do. The whole business appears to be 
+thrown into the hands of the county treasurers ; nor do I 
+find that there is any appropriation made of any part of the 
+taxes collected for continental purposes, or any provision 
+to authorize payment to the officer you appoint. This, 
+however, must be made. There is only one way in which 
+I can imagine a prospect of being materially useful ; that 
+is, in seconding your applications to the state. In popular assemblies much may sometimes be brought about by 
+personal discussions, by entering into details, and combating objections as they rise. If it should, at any time, be 
+thought advisable by you to empower me to act in this capacity, I shall be happy to do every thing that depends 
+upon me to effectuate your views. I flatter myself, to you, 
+sir, I need not profess that I suggest this, not from a desire 
+to augment the importance of office, but to advance the 
+public interest. 
+</p><p>
+It is of primary moment to me, as soon as possible to 
+take my station in the law, and on this consideration I am 
+pressing to qualify myself for admission the next term, 
+which will be the latter end of July. After this, should you 
+think an interview necessary, I will wait upon you in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. In the mean time, I shall be happy to receive your 
+instructions, and shall direct my attention more particularly 
+to acquiring whatever information may be useful to my future operations. I have read your publications at different 
+times, but as I have not the papers containing them in my 
+possession, it will be necessary that their contents should 
+be comprised in your instructions. A meeting of the legislature is summoned early in the next month, at which, if I 
+previously receive your orders, it may be possible to put 
+matters in train. I am truly indebted to you, sir, for the 
+disposition you have manifested upon this occasion, and I 
+shall only add an assurance of my endeavours to justify your 
+confidence. 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">ALEX. HAMILTON</a>. 
+</p>
+</letter>

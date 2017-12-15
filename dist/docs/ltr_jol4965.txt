@@ -1,0 +1,69 @@
+<letter id="jol4965">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="9">Septem.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I avail myself of Col. Bannister's offer to have the pleasure of writing to you. 
+</p><p>
+The intelligence which we have received since my 
+last, confirms the idea of a grand move on the part of 
+the enemy. A British matross who deserted the day 
+before yesterday declares that he assisted in embarking artillery and stores, and says that five thousand 
+troops are destined for the "West Indies. Accounts received some days since of taylors being employed in 
+stripping regimental coats of their lining and making 
+up thin overalls and waistcoats, indicates an expedition to a warmer climate than any on the territories 
+of the United States, in the approaching season. 
+It is reported that many merchants are disposing of 
+their wares by vendue at low rates. I am not acquainted with the persons to whom we are indebted 
+for intelligence, and therefore cannot be sure whether 
+they are the dupes of reports circulated by the enemy, 
+or give us a relation of facts that may be depended on. 
+</p><p>
+There appears to be no other object here for the 
+enemy but the French squadron, nor elsewhere but 
+the French islands. Either will require an exertion 
+of their whole force, and the latter perhaps will upon 
+several accounts be preferred. 
+</p><p>
+Some people are of opinion that they will aim first 
+at the ruin of the squadron, and then direct their whole force against some French island. It is difficult to predict what measures will be pursued by 
+men, who have been so eccentric in their military operations. 
+</p><p>
+If they had been vigorous, the French squadron 
+might have fallen a sacrifice, and it would have been 
+a tottering stroke to the marine of France. But their 
+delay and the disposition which has been made by our 
+general, have, I hope, pretty well secured an object of 
+such importance to the common cause. 
+</p><p>
+It is to be urged in excuse for them that Byron's 
+fleet suffered by a storm, and that the crews belonging 
+to it are in very bad health. The division of six ships 
+under Rear Admiral Parker at <a href='/results.php?city=new york' rel='city'>New York</a>, has been 
+obliged to land five hundred, some say a thousand 
+men ; besides, you know, two of his fleet (one of them 
+the Admiral's ship), arc said to be missing, and one, to 
+have put back to <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>. 
+</p><p>
+The army will move from its present position to 
+morrow morning. 
+</p><p>
+God preserve you, my dear father. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+Mr. Galvan, an officer in one of our Carolina regiments brought me two letters of very particular 
+recommendation from the Bn. de Holzendorff and Mr. Reid. Some of our family informed me that in 
+a letter to me, which I have not yet received, this person was mentioned in such a manner as excluded him from favour. When he called upon me, therefore, I 
+did not introduce him to the General ; he found means however, to introduce himself, and ask the General's protection. The Gen'l asked me in private whether 
+this was not the person alluded to in your letter ; I told him he was; the General then left the room with out taking any farther notice of him. Galvan finding 
+he had so little encouragement to stay, retired. Yesterday he came again and produced a letter which he said he intended to send to you, in which he desires 
+that through my mediation he might be restored to your friendship, and desired leave to read it. I told him he was the master to write what he pleased, but 
+that I should not confirm that in my letters to you. He asked me the reason of the cold reception the Gen'l had given him. I told him that I must frankly 
+inform him that we had all heard very serious matters to his disadvantage, and besides that, as his only object here was to serve as a volunteer, he might depend 
+upon it, that there was no opening for him. He asked me whether I had received any letter from you respecting him ; I told him I had not. He desired to 
+have an opportunity of justifying himself before the General, but this I waived. I was then called oft for some business, and he went away saying that he would call again. 
+</p>
+</letter>

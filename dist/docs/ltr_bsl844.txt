@@ -1,0 +1,34 @@
+<letter id='bsl844'>
+<recipient first='' last='' type='individual'/>
+<p>
+Senate Chamber [<a href='/results.php?city=san jose' rel='city origin'>San Jose</a>]<br/>  
+January <a rel='day origin' value='26'>26</a>, <a href="/results.php?year=1851">1851</a> Sunday Morning
+</p><p>
+Dear Sister,
+</p><p>
+Your affectionate letter of the 10th November is before me and how to employ the morning better than writing home I know not. How is it I never heard of Hattie's marriage, your letter bearing the first information. With all my heart I wish her happiness, and do not doubt from the character her husband bears that she will enjoy her share.
+</p><p>
+Ere' this, Shep is amongst you & a gratification it must be to Mother. I have not written as punctually since his return. I heard from Charles a short time since. He was still in the mines, and I feel thankful he is located in the most thickly populated district on account of the recent Indian disturbances. My former partner has been driven from his camp on the Fresno & three young men murdered by the Indians [and] all his property was burnt. Since [then] a battle has been fought in which some 50 Indians were killed, & subsequently they in large numbers attacked another settlement in the night & massacred 76 Americans. The Gov. has ordered out troops to aid the miners, & we have been the last two days legislating to create a "war fund" to defray expenses. I rear the war will be protracted as the Indians, counting all the tribes from Sacramento to Tulare lake number about 9000 who subsist principally on roots and acorns & can take refuge in the imprgnable fastnesses of the Sierra Nevada.
+</p><p>
+Charles was well & should I hear he is not successful will send for him. Will you allow Mr. Vanity to day a little about himself? Gov. P.H. Burnett resigned some two weeks since & the Lieut. Gov. Jno. McDougal installed as Gov. consequently a Lieut. Gov. as president of the Senate was wanted. There were many aspirants in our body. I declined a nomination but recd a majority of the votes. I than requested each member not to support me. But Genl. Douglass, a warm friend (our state marshal) & another senator would vote for me, so that if you see the vote you must not think I would allow myself to be run & defeated.
+</p><p>
+Mr. Broderick, who is a New Yorker, I warmly supported. Much feeling exists here between Northerners and Southerners. This ultra-radicalism I despise, particularly a fanatical Southerner.
+</p><p>
+Quite a compliment was paid me a few days since. The title of Col. is prefixed to my name. The first intimatin I had was in the State Journal, that the Hon. B.S.L. & Col. J. Neely Johnson were appointed aid de camps to his excellency, Gov. McDougal.
+</p><p>
+How heart rending is the news about those two little boys. Do send for them and put them to school. I will forward $1000 to Shep for than purpose. That puppy Leonard ought to be cowhided within an inch of his life. My feelings have not been as much ruffled in a long time as when your letter cautiously speaks of his cruelty. Something should be done--a day of retribution will come when he must answer for this inhuman conduct. I wrote to your cubs and directed them to superscirbe to me as the capital.
+</p><p>
+Overtures of great interest have been made me by aspirants--for instance a position worth $6000 per annum and perquisites, but I hold off. The legislation is within one or two of a tie as regards politics. I have acted independent and with two friends whom I control, can wield the balance of power.
+</p><p>
+<a href="/results.php?tla=jhf" rel="colleague met">Fremont</a> is very friendly and polite. T. Butler King calls in my room most every day. The small potatoes are still more friendly and ever obsequious--so much for management.
+</p><p>
+I have been thinking seriously of making a flying trip home this spring--circumstances will govern. I am desirous of seeing you all. What would you say: to see an hombre weighing about 186 pounds, hearty and hale, stalk in among you some day?
+</p><p>
+Although I begin to count the years, and they number too [many?], I feel the dame bouyancey of spirits as when at 18. My health is excellent. This climate suits me. Think of the 26th Jany, sittiing here with my window up and the birds singing gayly and such succession of days. Everyone who remains 2 or 3 winters in this state will never be satisfied with the cold northeasters and snoe and sleet of your latitudes. Monday Morning, 27th Jany-- Another fine day and here am I at me desk penning again. The Gov. appointment I yesterday mentioned has jsut been reported--We have a mass of business before us which will occasion a log session--how position opens ones eyes to the intirgues of the world. So many advances mad so differently and all emanating from some interested motive. On the 4th of Feby, a grand flare up comes off.
+</p><p>
+I send Annie a ticket. Tell her if she only had wings how soon she would fly over. Tell Ned he's a dutchman and won't write to Uncle Ben. I suppose your little ones are all at school. By the by, I made arrangements this morning to send E.H. W. instead of Shep $1000 which is all the same. Please expend it for the little boys of Clem, Willy, and Eugene. Let Hart use his judgement. I will strive and write Mother a few lines [by] this steamer. I can judge of her anxiety to hear from us and will try and reciprocate all favors from home. As ever, your affectionate Brother,
+</p><p>
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a><br/>  
+My love to all!!
+</p>
+</letter>

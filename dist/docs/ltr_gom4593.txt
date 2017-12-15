@@ -1,0 +1,25 @@
+<letter id="gom4593">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="3">March</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I had the honor to write to you on the twenty-sixth of last 
+month, to which I now refer. Since that period the Assembly 
+have taken another step in the same disagreeable road. They 
+have deprived all ships other than those built in France of the 
+privilege of French bottoms. This, added to the other .duress 
+already noticed, produces, I am told, much sensation among 
+the few Americans who are settled in the ports of this king 
+dom. 
+</p><p>
+You will find enclosed herein a copy of the note, which I gave 
+to the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a>. He told me in conversation 
+when I urged his interference, that by so doing he should injure us, because his enemies had already voted against us, 
+contrary to their general opinion, merely to vex and injure 
+him. This is very unfortunate. I am, &c, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

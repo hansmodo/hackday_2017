@@ -1,0 +1,64 @@
+<letter id="gom4584">
+<recipient first="William" last="Short" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="2">February</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+You have seen the decree which has been made respecting 
+tobacco, and which gives to French shipping a preference of 
+above one hundred livres per ton over American. Previous to 
+the decision on this business, T was desired by a note to dine 
+with <a href='/results.php?tla=laf' rel='colleague met'>Monsieur De Lafayette</a>, in order to confer on American 
+business. And note, that I had attended once before, when 
+he wished me to go with him to the Committee of Commerce, 
+but I declined until the Committee should ask my attendance, 
+which they have not done. At the conference to which I 
+was invited, were present Mr Swan, and Colonel Walker, and a 
+little man whom Chastellux formerly recommended to me as 
+being a disciple of Doctor Pangloss. In his way to America 
+he was shipwrecked, had his toes frozen off, and was after 
+wards, I believe, appointed to some subordinate place in the 
+consular office. During the conference, another little man 
+came in, whom I do not know, but have been told that his 
+name is Raymond, and that he is from Alsace. 
+</p><p>
+After Lafayette had proposed the question, I asked the opinion of Walker and Swan, which they gave, and the latter in 
+particular observed that the southern provinces would soon 
+supply the kingdom, if the culture was allowed. I delivered 
+my sentiments to the following effect. A sacrifice of the interest of France to that of America could not reasonably be 
+expected. The first question was, or ought to be, whether 
+they could dispense with the revenue. If they could, then 
+they should give it up entirely, and consult the commercial interest of the country. That to this effect they should make 
+the article free to be imported and exported everywhere. 
+That if on the contrary they should deem the revenue necessary, then the following modes of obtaining it occurred. 1. a 
+Duty ; 2. an Excise ; 3. a Farm ; 4. a Regie. That the first, 
+if great, would be eluded ; that the second, incompatible with 
+their new principles, was not worth establishing as a single article, because of the expense attending it; that the third was 
+out of fashion ; and by the fourth they would be cheated. 
+</p><p>
+Respecting the free culture, I gave it as my decided opinion, that in a short time it would totally destroy the tobacco 
+trade, and to this effect I stated the charges attending the 
+transportation of that article, which amount to about three guineas on the medium produce of an acre. And I have no doubt 
+that the south of France will produce as good tobacco as Virginia. About this time the Alsacian came in, and said a great 
+deal to prove what, if I can read the countenance, he did not 
+believe a word of, viz. that no tobacco would be planted even if 
+the permission were granted, excepting in Flanders and Alsace. I did not think it worth while to attempt a useless confutation, but told Lafayette that as they had already set Alsace 
+on fire, I could not advise them to add more fuel. That I had 
+given him facts from which he might draw his own conclusions. 
+That I would not pretend to advise, but would venture to predict. That the free culture would be permitted, and thereby 
+the revenue be lost ; but that afterwards the culture would be 
+prohibited through all France, and the revenue be established. 
+I could not but smile inwardly at the conduct of the business. 
+The national interests are every way injured, those of America by no means served, and Alsace is the dupe. All this, time 
+I think will show. 
+</p><p>
+Finding that the decrees bore so hard upon us, both in our agriculture and navigation, I have, notwithstanding my previous determination, spoken to <a href='/results.php?tla=laf' rel='colleague met'>Monsieur De Lafayette</a>, who, ac 
+cording to custom, asked for a little note about it. I spoke also to Monsieur de Montmorin, at whose request I have really written a pretty large note, which he will get translated and 
+deliver to the Diplomatic Committee. It purports to be observations of sundry American citizens. I mean to keep out of 
+sight as much as possible, and do all the good I can ; and for the rest I repeat again, let the world wag as it may. I have 
+the honor to be, &ic. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

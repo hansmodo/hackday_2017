@@ -1,0 +1,43 @@
+<letter id="jsu3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I should have long since wrote your Excellency, 
+was there any thing in this quarter worth engaging 
+your attention. I found, upon my journey home, That there was not the least probability of the enemy's 
+attempting to rescue <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> and army. I therefore went to New Hampshire, where I tarried 
+about twelve days. Upon my arrival there, I found 
+no troops worth mentioning, and, by the inclosed re 
+turn, your Excellency will see we are little better 
+now. Connecticut has not sent us a man; Massachusetts, but fifty ; New Hampshire, owing to my pushing the matter, have theirs principally on the roads. 
+</p><p>
+The three last-mentioned regiments will leave me 
+to-morrow; their time expires this night. When your Excellency has viewed this return, you will be surprised at the indolence of the enemy. They are 
+three thousand six hundred strong, of British and 
+Hessians, besides a small regiment of Greencoats, 
+made up of deserters and refugees from us. This 
+regiment consists of one hundred and twenty-seven, 
+and is commanded by one Whitmore. They have 
+drafted none from Rhode Island, this year, except 
+fifty-four to join the light infantry of their Grand 
+Army. Those sailed with Lord Howe. The enemy 
+are busy in fortifying the Island, and are much afraid 
+that we are about to attack them. I wish the deception may continue. Captain Whipple, in the <a href='/results.php?city=providence' rel='city'>Providence</a> frigate, passed their shipping, with a strong gale of wind, the night of the 30th ultimo, under a 
+severe fire, which he warmly returned, and got safe 
+to sea. 
+</p><p>
+We have nothing new in this quarter, save that 
+General Pigot politely requested nie to disperse his 
+handbills among the people, which I refused, and delivered them over to the Assembly.* I since hear, 
+that while I was viewing the sea-coast below the 
+enemy, the populace rose and burnt them under the gallows. When any thing worth your Excellency's 
+notice occurs, I shall give you the earliest intelligence. Interim, I have the honor to be, dear General, with the highest sentiments of gratitude and esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

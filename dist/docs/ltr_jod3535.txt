@@ -1,0 +1,51 @@
+<letter id="jod3535">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, Hotel de Valois, Rue de Richelieu, 	<a rel="day origin" value='23'>23</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE children made me a visit to-day, and went with 
+me to dine with my old friends, the two Abbes, whom 
+you have often heard me mention, Chalut and Arnoux, who desire me to mention them to you in my 
+letters as devoted friends of America, and particular 
+friends to me and to you, notwithstanding the difference of religion. The children are still in good 
+health and spirits, and well pleased with their academy. Ah ! how much pain have these young gentle men cost me within these three months ! The mountains, the cold, the mules, the houses without chimneys or windows, the will not add. I wish for 
+</p><p>
+a painter to draw me and my company mounted on muleback, or riding in the calashes, or walking, for we 
+walked one third of the way. Yet by the help of 
+constant care and expense, I have been able to get 
+them all safe to Paris. The other moiety of the family is quite as near my heart, and therefore I hope 
+they will never be ramblers. I am sick of rambling. 
+If I could transport the other moiety of the family 
+across the Atlantic with a wish, and be sure of returning them, when it should become necessary, in the 
+same manner, how happy should I be ! 
+</p><p>
+I have been received here with much cordiality, and am daily visited by characters who do me much 
+honor. Some day or other you will know, I believe, but I had better not say at present. Your friend, the <a href='/results.php?tla=cde' rel='colleague met acquaintance'>Comte D Estaing</a>, however, I ought to mention, because you have been acquainted with him. I have 
+dined with him, and he has visited me and I him, and I hope to have many more conversations with him, 
+for public reasons, not private, for on a private account great men and little are much alike to me. 
+</p><p>
+Mr. Lee and Mr. Izard are going home in the Alliance, and, I hope, will make you a visit. How 
+many vicissitudes they are to experience, as well as 
+I and all the rest of our countrymen, I know not. 
+The events of politics are not less uncertain than those 
+of war. Whatever they may be, I shall be content. 
+Of one thing I am pretty sure, that if I return again 
+safe to America, I shall be happy the remainder of 
+my days, because I shall stay at home, and at home 
+I must be to be happy. There is no improbability 
+that I may be obliged to come home again soon, for 
+want of means to stay here. I hope, however, care 
+will be taken that something may be done to supply 
+us. My tenderest affection to Abby and Tommy. 
+They are better off than their brothers, after all. I 
+have been taking measures to send home your things. 
+I hope to succeed by the Alliance. It shall not be 
+my fault, if I do not. If I cannot send by her, I will 
+wait for another frigate, if it is a year, for I have no 
+confidence in other vessels. 
+</p><p>
+Yours, forever yours. 
+</p>
+</letter>

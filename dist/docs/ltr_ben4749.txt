@@ -1,0 +1,99 @@
+<letter id="ben4749">
+<recipient first="Thomas" last="Crowley" type="individual"/>
+<p>
+[FROM THE "PUBLIC ADVERTISER"] <a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="10">Oct.</a> <a rel='day origin' value='21'>21</a>. [<a href='/results.php?year=1768' rel="origin">1768</a>] 
+</p><p>
+SIR, 
+</p><p>
+As you have printed here your letter of yesterday to your 
+friend in America, and it may be long before you receive an 
+answer from thence, permit me in the mean time to give you a 
+few remarks on it, submitting them, as you have done your 
+Letter, to the Public. 
+</p><p>
+The disposition you shew to promote peace and harmony 
+between the two countries, is commendable: But if you 
+wish to have any influence with us Americans as a mediator, 
+methinks you should have avoided giving us ground for suspicion that you are prejudiced against us, and that you have 
+imbibed notions of us extremely injurious, and not founded 
+in fact. 
+</p><p>
+You speak of us as a people unreasonable enough to expect 
+protection from Britain, without contributing towards the 
+expense, which is far from being the case. The King has 
+no subjects more willing to grant him aids in proportion to 
+their abilities. 
+</p><p>
+You speak of our "dangerous and vain expectations of 
+becoming independent," and say that "certainly there are 
+such among us." j Allow me to tell you, that you are certainly 
+mistaken, and that there is not a single wish in the colonies 
+to be free from subjection to their amiable sovereign the King 
+of Great-Britain, and the constitutional dependence thence 
+arising; and the charging them with such views is a cruel 
+calumny, which you ought not to have countenanced, much less to have asserted it as a certain fact, j 
+</p><p>
+You bring an account against us of Eighty Millions, which 
+you say this nation has run in debt by a war commenced for 
+our protection ; and this, joined with your groundless insinuations of our unwillingness to contribute to the exigencies of 
+the crown, seems intended to make us odious, as being both 
+burthensome and ungrateful. We cannot take this well of 
+you, when it is known that that war was commenced, not to 
+defend the colonies (who were in profound peace, and had 
+given no offence to their neighbours, either Indians or French) 
+but to protect the British trade with the Indians which the 
+French had interrupted, and to remove their incroachments 
+on the King's wilderness lands in Acadia. We have never 
+engaged Britain in any war on our account, but have constantly managed our Indian wars ourselves, without asking 
+help from hence, either of men or money. On the other hand, 
+by our connexion with Britain we are unavoidably drawn into 
+all her wars, and always have, as it was our duty, borne our 
+part of them without murmuring. And you might, with more 
+propriety, have charged that expence of Eighty Millions to 
+the manufactures of Birmingham, Yorkshire, Manchester, 
+Norwich, &c. or to the British merchants, since the securing 
+a vent for their goods, and the freedom and extention of their 
+trade, was more the motive of the war, than our protection, 
+who asked for none. But you pass them over as Hanover, 
+Portugal, and the East India company, whose protection was 
+expressly intended by Britain, and indeed highly expensive 
+to her; tho' left intirely out of your account, that the odium 
+of the whole may be laid on us. As to the " burning all our 
+maritime towns," which you would intimidate us with, I 
+shall only say, that I wonder how so barbarian a thought 
+came into a peaceable man's head. This brave and generous 
+nation can never proceed to such excesses against us, merely 
+for vindicating our rights, and endeavouring to secure them 
+by the quiet measures of industry and frugality. However, 
+if our property is not in fact our own, but may be taken from 
+us, at the pleasure of others without our consent, it is no 
+matter how soon it is burnt; it is not worth belonging on 
+such terms. 
+</p><p>
+You further intimate that our using British manufactures 
+gives us no merit with this nation, because we must have used 
+them if our ancestors had not migrated, and we had of course 
+been born here. This is an ingenious argument, which I 
+will not dispute, but only observe, that if Britain is not obliged 
+by our buying her goods, we hope she will not be disobliged 
+by our refusing them; since if we had been both here we 
+might have worked for ourselves, and that is only what we are 
+now about to do. 
+</p><p>
+Upon the whole, as we are not presumptuous enough to ask 
+an union with Britain, such as England contracted with Scotland, we have no "proposition" to make, but that she would 
+leave us the enjoyment of our native and dear-bought privileges, and not attempt to alter or innovate our constitutions, 
+in the exercise of which everything went prosperously for 
+both countries, till the idea of taxing us by the power of Parliament unfortunately entered the heads of your ministers, 
+which had occasioned a public discussion of questions that 
+had better never been started, and thrown all into confusion. 
+</p><p>
+I am, Sir, with great respect for your good intentions, 
+equally a lover of peace with yourself, and also 
+Your well wishing friend, 
+</p><p>
+FRANCIS LYNN, 
+</p><p>
+of <a href='/results.php?city=boston' rel='city'>Boston</a> in New-England. 
+</p>
+</letter>

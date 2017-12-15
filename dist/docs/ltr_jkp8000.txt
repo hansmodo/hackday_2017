@@ -1,0 +1,17 @@
+<letter id='jkp8000'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Washington City</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1845' rel="origin">1845</a>. 
+</p><p>
+My Dear Sir : I enclose you a letter from Mr. Bancroft, and will add, to what he has said, that the information from Mexico comes in so authentic a shape as to entitle it to entire credit. . . . 
+</p><p>
+You may consider me impatient on this subject. I do not consider that I am so, but still I have a great desire that what is contemplated should be done as soon as it may suit your convenience. I have felt great reluctance in saying this much, because I desired not to interfere with your arrangements during the short recreation which you have taken from your arduous labors. 
+</p><p>
+I am, very faithfully and truly, your friend, <a href="/results.php?tla=jkp" rel="me">James K. Polk</a>. 
+</p><p>
+P.S. — If you determine to anticipate the period of your return to Washington, you will see the propriety of leaving Bedford in a way to produce no public sensation as to the cause of 
+your departure. That it may not be known that you leave on receiving a letter from me, I will not place my frank on this letter. 
+</p><p>
+Yours, etc., J. K. P. 
+</p>
+</letter>

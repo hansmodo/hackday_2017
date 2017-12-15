@@ -1,0 +1,26 @@
+<letter id='thj1377'>
+<recipient first='Samuel' last='Huntington' type='individual'/>
+<p>
+TO HIS EXCELLENCY THE PRESIDENT OF CONGRESS.
+</p><p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, January 15,<a href="/results.php?year=1781">1781</a>.
+</p><p>
+Sir,
+</p><p>
+As the dangers which threaten our western frontiers, the ensuing spring,
+render it necessary that we should send thither Colonel Crocket's
+battalion, at present on guard at Fredericktown, but raised for the
+western service, I thought it necessary to give your Excellency previous
+information thereof, that other forces may be provided in time to
+succeed to their duties. Captain Read's troop of horse, if necessary,
+may be continued a while longer on guard.
+</p><p>
+I have the honor to be, with the greatest respect,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="jhm3912">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Your letter of the 9th inst., enclosing the articles of agreement entered into with Graney and his party, came safe to me on the 13th. I 
+took the earliest opportunity of laying them before the Council for 
+their consideration, and, after weighing them with that circumspection 
+which was due to their interesting contents, they have signified their 
+unanimous approbation of the same. They also meet with my most 
+hearty concurrence; and permit me, sir, to express to you the high 
+sense I entertain of the services you have rendered to the State on this 
+important occasion. The measures adopted by you are so well calculated, that they could not fail to produce the favorable issue which has 
+attended them; and I think there is every reason to expect that the 
+advantages to be derived to the State from so happy a termination of 
+this matter, will be still more diffusive than they have yet appeared to 
+be, and will, in a short time, work a total extinction of that spirit of 
+discord which has so unfortunately pervaded this State for some time 
+past. It is necessary I should have the names of the persons who are 
+parties to the agreement, as every man's name must be included in the 
+proclamation of pardon ; I should, therefore, be glad you would forward 
+them to me as soon as you can, and, in the meantime, inform them of 
+the reasons for delaying the proclamation, as they might otherwise suspect an intention of avoiding it. I have no particular orders to give, 
+but I must earnestly recommend your earliest attention to be paid to 
+the militia of this brigade, who are the most incorrigibly obstinate and 
+perverse beings that I have ever met with, and who are absolutely a 
+disgrace to the State. I am convinced, from repeated experiments I 
+have made of them, that nothing but the most rigid execution of the 
+militia law with regard to them, can ever bring them to a proper sense 
+of their duty. In speaking of the brigade, it is necessary I should 
+inform you that the militia of the islands are by no means to be included 
+in the censure ; on the contrary, they merit applause ; for, notwithstanding their exposed situation, they early submitted, and, whilst the other 
+parts of the brigade were behaving in the most unwarrantable manner, 
+they cheerfully submitted to every order given them, and have repeatedly repulsed the attacks of the enemy on the islands, and, as far as I 
+have had occasion to employ them, they have done their duty. I have 
+this moment received your letter of the 16th inst. Most of its contents 
+have already been observed upon. The mode in which you propose to 
+treat Major Skelly, I think may be productive of very good consequences. I sent Mr. "Wilson, the sheriff for Cheraws, his commission 
+three months ago, and am surprised to find he has not received it. It 
+must be lying somewhere at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> ; but, if he cannot get it, I 
+will send him another. However, his not having the commission need 
+not prevent him from acting. The appointment by the Legislature is 
+the substantial part; the commission is more a matter of form. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

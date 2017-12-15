@@ -1,0 +1,44 @@
+<letter id="smd7866">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='13'>13th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+I am in despair. Miss Jones, who has just made her escape from town, brings a most dreadful account. 
+She, with seventy-five others, took refuge at Dr. Enders's, more than a mile and a half below town, 
+at Hall's. It was there we sent the two trunks containing father's papers and our clothing and silver. 
+Hearing that guerrillas had been there, the Yankees went down, shelled the house in the night, turning 
+all those women and children out, who barely escaped with their clothing, and let the soldiers loose 
+on it. They destroyed everything they could lay their hands on, if it could not be carried off; broke 
+open armoirs, trunks, sacked the house, and left it one scene of devastation and ruin. They even stole 
+Miss Jones's braid! She got here with nothing but the clothes she wore. 
+</p><p>
+This is a dreadful blow to me. Yesterday, I thought myself beggared when I heard that our house 
+was probably burnt, remembering all the clothing, books, furniture, etc., that it contained; but I consoled myself with the recollection of a large trunk 
+packed in the most scientific style, containing quantities of nightgowns, skirts, chemises, dresses, 
+cloaks, in short, our very best, which was in safety. Winter had no terrors when I thought of the 
+nice warm clothes ; I only wished I had a few of the organdie dresses I had packed up before wearing. 
+And now? It is all gone, silver, father's law papers, without which we are beggars, and clothing ! Nothing left! 
+</p><p>
+I could stand that. But as each little article of Harry's came up before me (I had put many in the 
+trunk), I lost heart. . . . They may clothe their negro women with my clothes, since they only steal 
+for them ; but to take things so sacred to me ! O my God, teach me to forgive them! 
+</p><p>
+Poor Miss Jones! They went into her clothes-bag and took out articles which were certainly of no service to them, for mere deviltry. There are so many 
+sufferers in this case that it makes it still worse. The plantation just below was served in the same 
+way; whole families fired into before they knew of the intention of the Yankees; was it not fine sport? 
+I have always been an advocate of peace if we could name the conditions ourselves but I say, 
+War to the death ! I would give my life to be able to take arms against the vandals who are laying waste 
+our fair land! I suppose it is because I have no longer anything to lose that I am desperate. Before, 
+I always opposed the burning of <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, as a useless piece of barbarism in turning out five thousand women and children on the charity of the world. 
+But I noticed that those who had no interest there warmly advocated it. Lilly Nolan cried loudly for 
+it; thought it only just; but the first shell that whistled over her father's house made her crazy with rage. 
+The brutes! the beasts! how cruel! wicked! etc. It was too near home for her, then. There is the greatest difference between my property and yours. I 
+notice that the further I get from town, the more ardent are the people to have it burned. It recalls 
+very forcibly Thackeray's cut in "The Virginians," when speaking of the determination of the Rebels to 
+burn the cities: he says he observed that all those who were most eager to burn <a href='/results.php?city=new york' rel='city'>New York</a> were in 
+habitants of <a href='/results.php?city=boston' rel='city'>Boston</a>; while those who were most zealous to burn <a href='/results.php?city=boston' rel='city'>Boston</a> had all their property in 
+<a href='/results.php?city=new york' rel='city'>New York</a>. It is true all the world over. And I am afraid I am becoming indifferent about the fate of 
+our town. Anything, so it is speedily settled! Tell me it would be of service to the Confederacy, and 
+I would set fire to my home if still standing willingly! But would it? 
+</p><p>
+</letter>

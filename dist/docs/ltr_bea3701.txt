@@ -1,0 +1,51 @@
+<letter id="bea3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head Quarters, <a href='/results.php?city=robinsons house' rel='city origin'>Robinson's House</a>, 
+</p><p>
+<a rel='day origin' value='8'>8</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Colonel Stewart Commissary-General of Issues, has 
+made a demand on the Commissary at this post for 
+thirty hogsheads of rum. As there are only fifty odd 
+in the magazine, I have desired him to send only 
+fifteen, which will be a present supply for the army; 
+the remainder will he necessary for the use of the 
+garrison. The Commissary informs me that he expects no more ; and as large supplies are coming on 
+from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I think the army cannot want. 
+</p><p>
+I wish your Excellency would be kind enough to 
+order Mr. Erskine to send me a map of the country 
+from this place to <a href='/results.php?city=new york' rel='city'>New York</a>, particularly on the east 
+side of the river, which would be very useful to me. 
+The ofiicers in general, from the State of Massachusett's Bay, have never been in the service before, and 
+are extremely ignorant of their duty, which throws 
+every thing into confusion ; and, in case of an attack 
+on the post, from their inexperience I believe little 
+dependence can be placed on them. The troops are 
+good, and well armed. Would it not be better. Sir, 
+to continue a part or the whole of the <a href='/results.php?city=new york' rel='city'>New York</a> 
+brigade at this post, whose ofiicers (particularly Colonel Malcom) are well acquainted with the duty, and 
+can be depended on, and the troops have, in general, 
+bad arms and few bayonets ? 
+</p><p>
+I am convinced, that the Massachusetts or Hampshire troops will be better in the field, from this circumstance in their arms. 
+</p><p>
+Major Villefranche has surveyed the works at West 
+Point, and informs me that there is a vast deal to do to complete them ; that large quantities of materials, 
+such as timber, plank, boards, stone, &c., -will be wanted. Part of the materials are at different places near 
+this post ; but I do not find that there are any teams 
+or forage in the department, and, at present there is 
+no prospect of any being furnished. 
+</p><p>
+I am sorry to trouble your Excellency with so 
+long a list of grievances; and am, very respectfully, 
+your Excellency's 
+</p><p>
+Most obedient and obliged humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">Benedict Arnold</a>.
+</p>
+</letter>

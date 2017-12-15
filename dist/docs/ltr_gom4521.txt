@@ -1,0 +1,53 @@
+<letter id="gom4521">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I took the liberty in some late conversations to give you my sentiments on public affairs. I know the folly of offering opinions, which bear the appearance of advice, but a regard for 
+you, and the sincerest wishes for the prosperity of this kingdom, pushed me beyond the line, which caution would have drawn for one of less ardent temper. I do not wish you to consider 
+this as an apology. On the contrary, I desire you to recollect, both now and hereafter, the substance of those conversations. 
+In that progress of events, which rapidly advances, you will judge my judgment. 
+</p><p>
+I am convinced, that the proposed Constitution cannot serve 
+for the government of this country ; that the National Assembly, late the object of enthusiastic attachment, will soon be treated with disrespect; that the extreme licentiousness of your 
+people will render it indispensable to increase the royal authority ; that under such circumstances the freedom and happiness of France must depend on the wisdom, integrity, and firmness of his Majesty's counsels, and, consequently, that the ablest 
+and best men should be added to the present administration that, so far as regards yourself, you should take care that those, 
+who come in, be sensible of the obligation they owe you, disposed to repay it, and of a temper neither to desert you, nor their sovereign, nor each other, in the moment of danger, or for 
+the sake of advantage. I consider the present time as critical, and that if neglected many inseparable mischiefs must ensue. 
+</p><p>
+Such are the bodings of a mind, not easily ruffled nor alarmed, but feelingly alive to the interests of friendship, and devotedly attached to the liberties of mankind. Certainly you 
+have much better means of information than I have. Certainly you have that intimate knowledge of your own nation, which 
+it is impossible for a stranger to acquire. And most certainly 
+you have perfect acquaintance with the characters, which stand 
+forward for public observation. Let what I have said therefore go for nothing. I have repeated it here, as being in some 
+sort the needful introduction to what I am now to communicate. 
+</p><p>
+Last evening, in company with some of your friends, who supposed me to enjoy a share of your confidence, in which I 
+assured them, with great truth, that they were mistaken, I was urged to visit and entreat you not to go into the Council. 
+Knowing how much you are occupied, and how improper it is for me to ; interfere I declined the visit, but was at length 
+prevailed on by earnest entreaty to profuse, that I would in a letter assign the reasons, which influence them, and which are. 
+first, that your present command must of necessity engrossed your time, and require undissipated attention, and in consequence that you must foil in the duty either of Minister or 
+General. Secondly, that when in Council your opinions will 
+not have more weight, and perhaps less-, than they have at present because at present they are respected as coming from you, 
+but will only be received in Council according to the reasons adduced in their support, and it is not always that the wisest 
+man is the most eloquent. Thirdly, if your opinions do not prevail, you will have the mortification to sanction by your 
+presence the measures, which you disapprove, or quit in disgust the seat, which you have taken. Fourthly, if your opinions prevail, you will then in your quality of General be called 
+on to execute what in your quality of councillor you have ordained. Tn this situation the public opinion will revolt' unless 
+it : be subdued. The one will ruin -you, and the other your country, Fifthly, the jealousy and suspicion inseparable from 
+tumultuous revolutions, and which have already been maliciously pointed against you, will certainly follow all your future 
+steps, if you appear to be too strictly connected with the Court. The foundations of your authority will then crumble away, and 
+you will fall the object of your own astonishment. Sixthly, the retreat of the Duke of Orleans is attributed to you, and if you 
+go into the Council immediately after what is called by some his flight, and by others his banishment, the two events will be 
+coupled in a manner particularly disadvantageous and disagreeable.- Seventhly, if you go into the Ministry with Mirabeau, or about the same time, every honest Frenchman will 
+ask himself the cause of what he will call a very strange coalition. There are in this world men, who are to be employed ; 
+not trusted. Virtue must ever be sullied by an alliance with 
+vice. And liberty will blush at her introduction, if led by a hand polluted. Lastly, lam earnestly, most earnestly, requested by those who love you well, to add one caution as to your 
+friends. Trust those who had that honor before the twelfth of July. New friends are zealous, they are ardent, they are attentive, but they are seldom true. 
+</p><p>
+Excuse the liberty of an old one, who is truly yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

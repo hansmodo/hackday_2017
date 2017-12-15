@@ -1,0 +1,33 @@
+<letter id="smd7930">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Sunday, <a rel="month origin" value="2">February</a> <a rel='day origin' value='22'>22d</a>, <a href='/results.php?year=1863' rel="origin">1863</a>. 
+</p><p>
+Mother has come to me ! O how glad I was to see her this morning! And the Georgia project, which I 
+dared not speak of for fear it should be mere talk and nothing more, is a reality. -- Yes! we are actually 
+going! I can hardly believe that such good fortune as getting out of that wretched <a href='/results.php?city=clinton' rel='city'>Clinton</a> really awaits 
+us. Perhaps I shall not like <a href='/results.php?city=augusta' rel='city'>Augusta</a> either ; a stranger in a strange city is not usually enchanted with 
+everything one beholds; but still a change of scene a new country new people it is worth 
+while! Shall we really go? Will some page in this book actually record "<a href='/results.php?city=augusta' rel='city'>Augusta</a>, Georgia"? No! I 
+dare not believe it ! Yet the mere thought has given 
+me strength within the last two weeks to attempt 
+to walk. Learning to walk at my age ! Is it not amusing? But the smallest baby knows more about it 
+than I did at first. Of course, I knew one foot was to be put before the other; but the question was how it 
+was to be done when they would not go? I have conquered that difficulty, however, and can now walk 
+almost two yards, if some one holds me fast. 
+</p><p>
+Sunset. Will [Pinckney] has this instant left. 
+Ever since dinner he has been vehemently opposing 
+the Georgia move, insisting that it will cost me my 
+life, by rendering me a confirmed cripple. He says he 
+could take care of me, but no one else can, so I must 
+not be moved. I am afraid his arguments have 
+about shaken mother's resolution. Pshaw! it will do 
+me good! I must go. It will not do to remain here. 
+Twenty-seven thousand Yankees are preparing to 
+march on Port Hudson, and this place will certainly 
+be either occupied by them, or burned. To go to 
+<a href='/results.php?city=clinton' rel='city'>Clinton</a> is to throw myself in their hands, so why not 
+one grand move to <a href='/results.php?city=augusta' rel='city'>Augusta</a>? 
+</p><p>
+</letter>

@@ -1,0 +1,110 @@
+<letter id="aba3429">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1787" rel="origin">1787</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+If, as the poet says, " expectation makes the blessing 
+sweet," your last letter was peculiarly so. As you 
+conjectured, I was not a little anxious that neither 
+Captain Barnard nor Davis brought me a line. I was 
+apprehensive that something was the matter, some 
+imminent danger threatening some friend, of which 
+my friends chose not to inform me until their fate 
+was decided. I sent on board the ship ; the solitary 
+box of meal was searched throughout. What, not 
+one line from my dear sister Cranch, she who has 
+never before failed me ? Can it be possible ? Uncle 
+Smith did not, as usual, say in his letter, that all 
+friends were well. Dr. Tufts, for the first time, 
+omitted mentioning my children. That might be 
+because he thought that thev had written. Thus was 
+rav mind agitated until Captain Scott's arrival, who 
+brought me your kind letter of May the 20th, but 
+none from either of my nieces or children. Those 
+dear lads do not write so often as I wish them to do, 
+because they have nothing more to say than that they 
+are well ; not considering how important that intelligence is to an affectionate parent. Mr. J. Cranch 
+wrote to me soon after Barnard's arrival, and sent me 
+an extract of a letter from Miss B. Palmer, with a 
+particular account of the performances in April, at 
+<a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, in which your son and mine bore a part. 
+These young gentlemen are much indebted to her 
+for her partiality and the very flattering manner in 
+which she describes them. I hope they will continue to deserve the esteem of all good judges, and 
+do honor to themselves and their countrv. The account you give me of the health of J. Q. A. is no 
+more than I expected to hear. I warned him frequently before he left me, and have been writing him 
+ever since. I hope he will take warning before it is 
+too late. It gives me great satisfaction to learn that 
+he has passed through the University with so much 
+reputation, and that his fellow students are attached 
+to him. I have never once regretted the resolution 
+he took of quitting Europe, and placing himself upon 
+the theatre of his own country ; where, if his life is 
+spared, I presume he will neither be an idle nor useless spectator. Heaven grant, that he may not have 
+more distressing scenes before him, and a gloomier 
+stage to tread, than those on which his father has 
+acted for twelve years past. But the curtain rises 
+before him, and instead of Peace waving her olivebranch, or Liberty seated in a triumphal car, or Commerce, Agriculture, and Plenty, pouring forth their 
+stores, Sedition hisses, Treason roars, Rebellion 
+gnashes her teeth, Mercy suspends the justly merited 
+blow, but Justice strikes the guilty victim. Here may 
+the scene close, and brighter prospects open before us 
+in future. I hope the political machine will move with 
+more safety and security this year than the last, and 
+that the new head may be endowed with wisdom sufficient to direct it. There are some good spokes in 
+the wheels, though the master workmen have been 
+unskilful in discarding some of the best, and choosing 
+others not sufficiently seasoned ; but the crooked and 
+cross-grained will soon break to pieces ; though this 
+may do much mischief in the midst of a journey, 
+and shatter the vehicle, yet another year may repair the damages. But to quit allegory, or you will 
+think I have been reading Johnny Bunyan, the conduct of a certain gentleman ^ s rather curious. I 
+really think him an honest man, but ambition is a 
+very wild passion, and there are some characters, 
+that never can be pleased unless they have the entire direction of all public affairs. And, when they 
+are unemployed, they are continually blaming those in office, and accusing them of ignorance or incapacity, and spreading alarms that the country is 
+ruined and undone ; but put them into office, and 
+it is more than probable they will pursue the same 
+conduct which they had before condemned. But 
+no man is fit to be trusted, who is not diffident of 
+himself. Such is the frailty of human nature, and 
+so great a flatterer is self-love, that it presents false 
+appearances, and deceives its votaries. 
+</p><p>
+I have had with me for a fortnight a little daughter of <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson's</a>, who arrived here with a young 
+negro girl, her servant, from Virginia. <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> wrote me some months ago that he expected 
+them, and desired me to receive them. I did so, 
+and was amply repaid for my trouble. A finer 
+child of her acre I never saw. So mature an understanding, so womanly a behaviour, and so much sensibility, united, are rarely to be met with. I grew so 
+fond of her, and she was so attached to me, that, 
+when <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> sent for her, they were obliged 
+to force the little creature away. She is but eight 
+years old. She would sit sometimes, and describe 
+to me the parting with her aunt who brought her 
+up, the obligations she was under to her, and the 
+love she had for her little cousins, till the tears 
+would stream down her cheeks ; and how I had 
+been her friend, and she loved me. Her papa 
+would break her heart by making her go again. 
+She clung round me so that I could not help shedding a tear at parting with her. She was the favorite of every one in the house. I regret that such 
+fine spirits must be spent in the wall of a convent. 
+She is a beautiful girl, too. 
+</p><p>
+This, I presume, is Commencement day. I dare 
+say the young folks feel anxious. I don't know 
+whether I should venture to be a hearer, if I was in 
+America. I should have as many perturbations as 
+the speakers. I hope they will acquit themselves 
+with honor. <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> desires me to tell cousin 
+Cranch that any of his books are at his service. 
+I believe we must send some of these young men to 
+settle in Vermont. Can they get their bread in Massachusetts ? But " the world is all before them " ; 
+may " <a href='/results.php?city=providence' rel='city'>Providence</a> be their guide." 
+</p><p>
+Your sister, 
+</p><p>
+A. A. 
+</p>
+</letter>

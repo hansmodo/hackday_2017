@@ -1,0 +1,13 @@
+<letter id="nib5222">
+<recipient first="John" last="Potter" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="1">Jan'y</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1828' rel="origin">1828</a> 
+</p><p>
+Dear Sir 
+</p><p>
+. . . We might, you perceive, have increased the dividend, but we did not like, after the recent proceedings in Congress to have the air of straining our profits for the sake of appearances and thought it better to stop far within our 
+limits. This course I think you would approve. 
+</p><p>
+The motion of <a href='/results.php?tla=jab' rel=''>Mr Barbour</a> has, we think been serviceable to the Bank. . . . 
+</p>
+</letter>

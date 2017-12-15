@@ -1,0 +1,18 @@
+<letter id="joj4019">
+<recipient first="Benjamin" last="Lincoln" type="individual"/>
+<p>   	 
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+Although I have not the honour of a personal acquaintance with you, yet I am so well informed of your character as to believe you will always be happy in leading a young 
+soldier to glory, and to afford him that countenance and protection that brave and generous youth seldom fails to invite. Permit me, therefore, to recommend to you 
+Major Matthew Clarkson, who is now going to place himself under your command; and be assured that you will confer an obligation on me by becoming his friend as well as his general. 
+</p><p>
+I am, with great respect and esteem, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

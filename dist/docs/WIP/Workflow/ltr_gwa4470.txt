@@ -1,0 +1,64 @@
+<letter id="gwa4470">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>
+</p><p>
+Dear Sir, 
+</p><p>
+I am glad to find, that you have received the necessary papers, and are entering upon the measures for interrupting the enemy's communications. I hope you 
+will be enabled, by the assistance of the person proposed, if he is found sufficiently faithful and intelligent, to prosecute those measures to good effect ; because I 
+think the intelligence obtained through that channel of Count d'Estainnr, and commanded his vanguard when he forced the 
+entrance of tins harbour." — .Yewport, May SIh. 
+</p><p>
+The following is an extract from the instructions sent by the Minister 
+of War to <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a>, dated Versailles, March 7th. 
+</p><p>
+1. It is the intention of his Majesty, that you do not abandon Rhode 
+Island, if the squadron destined to act in concert with you for its defence 
+cannot retire to <a href='/results.php?city=boston' rel='city'>Boston</a> without hazard, or before it shall be relieved from 
+its defensive position at Rhode Island by a superior naval force. 
+</p><p>
+2. I will inform you, that, in the month of July or August, the superior naval force of which you have just received notice, will withdraw the 
+squadron of M. de Barras from the harbour of Rhode Island ; and you 
+will carefully reserve to yourself the knowledge of this arrangement, 
+which may be accelerated. 
+</p><p>
+3. If, by unforeseen events, or any cause whatever, the army of 
+Washington should be broken up and dispersed, it is the intention of the 
+King, that, under these circumstances, you should decline acceding to 
+any orders or requests of that general to penetrate into the interior of 
+the continent ; as in that case it would be prudent to reserve yourself, 
+and to retire to the Antilles if possible, or to St Domingo, according to 
+the season. 
+</p><p>
+4. If, on the contrary, the American army remains in its present 
+slate, and yet without being able to undertake any combined operation 
+with the squadron ; and if this latter should attempt any other enterprise, 
+where the concurrence of a certain number of land forces would be required, the King leaves it in your power to furnish them, provided that 
+the plan be concerted with the American general. 
+</p><p>
+5. Should there be an opportunity for the squadron at Rhode Island 
+to act independently of the American army, you are aware that the naval 
+forces of the King should concur in all operations, which are considered 
+advantageous to the common cause. 
+</p><p>
+6. You are also aware, that, as long as the King's troops occupy Rhode Island, the transports destined to receive the troops are to be 
+kept there ; when, on the contrary, the army under your command shall 
+penetrate into the country, and the squadron abandons Rhode Island, 
+this squadron will proceed to <a href='/results.php?city=boston' rel='city'>Boston</a>, and take with it the transports, 
+that have been retained. 
+</p><p>
+7. If, from the different causes mentioned, you should remain in 
+your position at Rhode Island, and a superior naval force of the King 
+should withdraw the squadron which is in that port, I give you notice, 
+that the Count de Grasse has orders to leave with you two vessels to 
+defend the port, and the transports necessary for your army.
+</p><p>
+I have been exceedingly distressed by the repeated accounts I have received of the sufferings of the troops on the frontier, and the terrible consequences which 
+must ensue, unless they were speedily supplied. What gave a particular poignancy to the sting I felt on the 
+occasion was my inability to afford relief. Such partial supplies as were on hand, to the very last barrel of meat, I ordered instantly to be sent, and have promised 
+<a href='/results.php?tla=jac' rel='co-worker'>General Clinton</a> what further succour the States will enable me to give. Major-<a href='/results.php?tla=wih' rel='co-worker'>General Heath</a> has gone to the several eastern States, to enforce my pointed representations, to rouse them to more vigorous exertions, 
+and to make arrangements for supplies during the whole campaign. I cannot but hope this measure will 
+be attended with success. I am, &,c. 
+</p>
+</letter>

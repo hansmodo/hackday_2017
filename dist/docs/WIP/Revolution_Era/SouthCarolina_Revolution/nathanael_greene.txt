@@ -1,0 +1,517 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.cXZlDl on line 214
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--nag
+--DOC-AUTHOR-FIRST--Nathanael
+--DOC-AUTHOR-LAST--Greene
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+</letter><letter id="nag3900">
+<recipient first="John" last="Laurens" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have just received the enclosed note from Mrs. McQueen, and have been talking with . It appears the enemy have it in contemplation to attack us in our divided state; they must inevitably ruin us. 
+You will join the army, therefore, without loss of time. I wish it was possible for Gen. Marion to take a position near Monk's Corner, that he 
+might join us in cases of necessity. Please to write to him on the subject. Let me hear from you to-night. I did not know until this morning that you had Major Moses command with you. I thought 
+they had joined the line. 
+</p><p>
+Yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, NEAR <a href='/results.php?city=dorchester' rel='city origin'>DORCHESTER</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your letter yesterday to Col. Maham is this moment handed to me. <a href='/results.php?tla=jol' rel='colleague met'>Lieut. Col. Laurens</a> joined us the night before last, and I have heard 
+nothing further of the enemy's attack upon us. While the light troops 
+were absent, I was a little apprehensive; but on their return, I feel 
+perfectly easy. Enclosed I send you a copy of a letter from General Leslie, by which you will see what the poor inhabitants have to expect. 
+I gave no other answer to it than by informing him that I had no control over civil Government, and directed him to the Governor and 
+Council, who alone possessed powers competent to the business, and 
+who would give him such an answer as the honor and interest of the 
+Government required. If you could subsist with a flying party in the 
+neighborhood of Strawberry, or anywhere between Cooper River and Santee, it would afford great protection to that part of the country. 
+Our present position is so favorable for affording you support by a rapid 
+march of our cavalry, that I much doubt whether the enemy will venture any bold enterprise against you; and if they should, if you move 
+from day to day, and with your usual caution and address, as you are 
+so perfectly acquainted with the country, you can easily avoid them 
+</p><p>
+until our cavalry can join you, and by fixing upon some place to meet 
+at, you may form a junction with certainty and despatch. But, if you 
+think your party will be too much exposed, you will take any position 
+you may think their safety requires, giving the inhabitants as full notice 
+as possible and all the negroes, also of the enemy's intentions to 
+steal all the latter they can, and carry them off. If the negroes are 
+advertised of the enemy's intentions, I think they will get but few of 
+them. 
+</p><p>
+I am, dear sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, NEAR <a href='/results.php?city=dorchester' rel='city origin'>DORCHESTER</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your favor of the 8th was handed me yesterday. <a href='/results.php?tla=jol' rel='colleague met'>Lieut. Colonel Laurens</a> has given me an account of the enemy's last movement, and 
+Gen. Leslie has explained the object to me in a letter, a copy of which 
+I inclosed to you in my last. With respect to the incorporation of Horry's and Maham's corps, I have said all upon it that I can say. If 
+you cannot effect the incorporation upon the first plan, pursue your 
+second; and if you cannot accomplish that, employ the force in any 
+manner you can most for the benefit of the service, and in a way most 
+pleasing to the officers. The schooner that went to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> for 
+rice has the Governor's pass, and not mine; however, be it one or the 
+other, tell Col. Horry not to let the cutter have anything to do with 
+her; and if they attempt to carry her away by force, to repel force by 
+force. Whatever position you take with your troops, it will be necessary frequently to change it, which will keep the enemy in the dark, 
+and prevent their enterprising anything against you. Should the 
+enemy move out after you, our cavalry shall form a junction with 
+you at the place you mention, or any other you may advise, upon the 
+spur of the occasion. Col. Pinckney has arrived in camp. With 
+esteem and regard, 
+</p><p>
+I am, dear sir, your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3903">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+No date, supposed about <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+Your letter of the 8th April has been received; and as I have had 
+no direct opportunity to give it an answer, and as the subject did not 
+require it immediately, I have omitted it. I cannot decide on one part 
+of your letter, that is, respecting half-pay. If you were entitled to 
+half-pay on your former standing, you are entitled to it now; but, if 
+you mean upon the present reduction proposed, there can be no half-pay establishment follow it, as I have no authority for the purpose, nor 
+</p><p>
+can I conceive the officers would have the least right to expect such a 
+thing. Their services were due to the State, from the situation it was 
+in, and those temporary corps afforded them a much more honorable 
+and agreeable service than serving in the militia; and as the Continent 
+takes the expense upon themselves until their reduction, it is all that 
+can be expected and, to continue them longer than they are useful, 
+would be multiplying expense without sufficient object, for no country 
+ever required economy more than ours to complete their independence. 
+I left the business of reducing the regiments entirely to Gen. Marion; 
+if it could be effected, well, but if not, let them remain as they were, 
+until the men's term of service expires. He informs me that he has 
+united all the horse under Col. Maham, and directed your men to 
+do duty at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>; this is perfectly agreeable to me, if so to you. 
+I directed, a few days past, a company of artillery to join you at 
+<a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, and to your orders, in defence of that place. I am much 
+afraid the enemy will attempt something against Waccamaw, as I am 
+told there is a great quantity of provisions there. 
+</p><p>
+I am, with great esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3904">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have been of opinion some time, and got intelligence last evening, 
+that the enemy were preparing to come out and attack us. It seems 
+the refugees are pushing the General very hard for the purpose. What 
+serves to confirm me in opinion that the enemy have some offensive 
+operations in view is, they have taken uncommon pains for a few days 
+past to find out our position, by sending flag after flag, and by searching out and interrupting every channel through which we might get 
+intelligence. The refugees are ordered to be embodied to do garrison 
+duty, while the army takes the field. It may all end in smoke, but I 
+seriously believe they mean to give us battle ; and as they will have all 
+their force collected, so I think it prudent to draw ours to a point until 
+their intentions are better understood. You will, therefore, move over 
+towards Dorchester with all your force as soon as possible, and let me 
+know from time to time where you are. You will leave a very small 
+patrole to watch the motions of the enemy in that quarter, and to for 
+ward intelligence of all matters of discovery. I would have you put 
+your men in the best order for action, and send me a roll of the force 
+you will be able to bring to our aid. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3905">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your favor of the 13th inst. is this moment came to hand. The 
+prospect of a general action is not so immediate as I expected a few 
+days ago. You will, therefore, halt in the neighborhood of Strawberry 
+</p><p>
+Ferry, and wait there, or in that neighborhood, until you hear further 
+from me. I don t believe the enemy will make another excursion soon 
+into St. Thomas , but they may. I should be obliged to you to get an 
+account of all the forage in that quarter; with us it is scarce. I begin 
+to feel afraid our cavalry will be obliged to cross the Edisto for subsistence. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3906">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+I wrote you yesterday to return to Strawberry, but, as you are so 
+near, before you return I wish to see you, provided you come to Mr. 
+Blake's to-night; but, if you should meet with your first express, and 
+halt short of Mr. Blake s, you may return to the position recommended 
+in that letter. However, I am of opinion, from a variety of reports, 
+the enemy means to take the field in a few days, and that they have 
+little less than 700 negroes armed for the purpose. The British horse 
+were at Dorchester yesterday, but returned last night. 
+I am, dear sir, your humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3907">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I am favored with your letter of this day. I know of no way of 
+reinforcing you but by Col. Hampton's corps. I will speak with the 
+Governor on the subject. At present, I believe we have no spare arms; 
+however, I will make more strict enquiry, and let you know. Arms are 
+expected from the Northward, but they will be a long time on the road, 
+if we are to judge of the future by the past. To enable me to give my 
+orders respecting the cannon at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, you must send the size of 
+the calibres. Every measure should be taken to preserve the provisions, for I am very apprehensive there will be a scarcity. I thank you 
+for the enemy's returns of rations drawn. I think it large, but, perhaps, their force may be greater than I imagine, 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3908">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+From many different accounts the enemy threatens us with an attack. 
+We have had no small uneasiness in our camp for want of pay, clothing 
+and spirits. The discontent has reached the enemy, and it is confidently asserted that they are coming out to take advantage of it. I 
+</p><p>
+think it necessary, therefore, as I am not well informed of the full ex 
+tent of the discontent, to call our force together from all parts, as well 
+to awe the malcontents, if any there be, as to prevent the enemy from 
+attempting anything in consequence thereof. I beg you will, therefore, 
+march and join us as soon as possible, with all your force, except a 
+small recounoitering party; and, although this may expose a greater 
+part of the country, yet it will serve to secure a greater object. I beg 
+you will lose no time. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3909">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS (<a href='/results.php?city=cattles plantation' rel='city origin'>Mr. Cattle's Plantation</a>), <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 16th June and 8th July I have had the pleasure to 
+receive, and am made happy that you have brought Major Ganey, and 
+his party, to submit to the laws of the State without making much use 
+of force. Nothing reflects more honor upon an officer than accomplishing that by address which others could effect only by force; to save the 
+effusion of human blood must be the wish of every humane and generous 
+bosom. I fancy you must be mistaken about Mr. RavenePs being in 
+confinement. Capt. Warren, our Commissary of prisoners, was in town 
+to examine the state of all the prisoners, as well militia as regulars; his 
+report contains no such thing. Capt. SkeJly is released in consideration of Judge Pendleton being set at liberty. The Judge has come 
+out, and Capt. Skelly gone in. Should it be found that Mr. Ravenel 
+is in confinement, which I cannot suppose, I will write to Gen. Leslie 
+on the subject. It is evidently for the interest of those corps of Maham 
+and Hampton to be incorporated. Neither would have existence long 
+without it; but, by being consolidated, they will have, perhaps, a permanency during the war, and provision made for them accordingly. 
+You will inform the officers thereof, that it is a matter settled between 
+the Governor and myself, that the two corps be united, and that they 
+are to be considered in future upon the State establishment. This was 
+thought advisable after the fullest examination of the matter, and I 
+</p><p>
+hope the officers will make no difficulty in concurring in a measure 
+equally beneficial to them, as necessary for the public good. The requisition for the militia was upon the supposition that the garrison of 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> might come to Charlestown, and give the enemy such an 
+additional force as to enable them to give a blow to our army. I believe 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> is not fully evacuated, and therefore nothing to apprehend at 
+present; you will remain, therefore, on the other side of Cooper River, 
+between that and Santee, to protect the people from the daily depredations of little parties from Charlestown. If the garrison of <a href='/results.php?city=savannah' rel='city'>Savannah</a> 
+arrives, I will notify you, and direct you where to form a junction with 
+me. It is said that Fanning is determined to have you, dead or alive, 
+therefore, take care of yourself. It is, also, reported, by a person in the 
+enemy's secrets, that a large party of the enemy is to move out soon 
+into St. Thomas and St. Stephens parishes. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p><p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+By a woman from town last night, I have just heard the garrison of 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> is actually arrived at Charlestown. If it should prove true, 
+you will hear from me again immediately. 
+</p>
+</letter><letter id="nag3910">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="7">July</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR: 
+</p><p>
+I have just got your letter of this day, dated at Wasmasaw. No 
+thing ever surprised me more. I was in the highest hopes you were 
+at or near <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. Mr. Singleton, by whom I wrote, was fully 
+informed of the contents of the letter, and the necessity of its being 
+delivered with all possible dispatch. He had a letter for Col. Lushington, and promised to have it delivered in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> the day fol 
+lowing the date of your letter, by 10 o clock, and yours I expected 
+</p><p>
+would have got to you by one in the morning, and you on your march 
+before sunrise. Never did I feel such a vexatious disappointment in 
+all the course of my life. I beg you will make enquiry into the cause 
+of the delay, as you write that mine never got to your hands until this 
+morning. Somebody deserves nothing short of hanging. I am afraid 
+you will now arrive too late to be of any service, unless the goods should 
+be got up the rivers, and your force deter the enemy from following 
+them. Since I wrote you, the enemy's intentions have been again con 
+firmed by repeated accounts. I need not urge you to use all possible 
+dispatch in marching to the relief of the place, as your own zeal will 
+stimulate you to do all in your power. I have not heard anything from 
+the party that crossed to Haddrell's Point, whether they proceeded or 
+not; but, in order to alarm their fears, I made a move in force towards 
+James Island, to induce them, if possible, to countermand the order. 
+I beg you will let me hear from you respecting the progress the enemy 
+has made, and if they have attempted anything, and how far they were 
+successful. If the enemy has not made the descent, you will wait in 
+the neighborhood of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> until you hear further from me. I 
+consider the disappointment of your not getting my letter the greater, 
+as I find your force so respectable, as they appear by your returns. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3911">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR GENERAL : 
+</p><p>
+I have just received your letter of the 5th. I am sorry the enemy 
+is so situated as to give them an opportunity to carry off the produce of 
+the country, without your having it in your power to injure them. 
+Cannot small parties interrupt them, or is there any move that we can 
+make that may tend to dislodge them. Great preparations are making 
+in Charlestown for the evacuation of the place. I am persuaded it 
+will take place soon, and the more scanty we can render their supplies 
+of provisions, the sooner it will happen, and the fewer negroes they will 
+have in their power to take with them. I am glad you have got through 
+the disagreeable business of uniting Maham's and Hampton's corps. 
+In the present form I am in hopes they will be useful. Should the enemy 
+leave Santee, you will cross the river and move towards the Cooper. 
+But it is necessary I should inform you that the enemy are advised of 
+my wishes on this head, having taken Mr. Singleton with a number of 
+letters among others, one for you. With respect to the beef collectors, 
+I am a stranger to it. We have no Commissaries of our own, they are 
+all under the government of Mr. Hort, and by him appointed. But I 
+should not suppose these people will dare to rise in the present situation of things, and it is necessary they should contribute to the support 
+of the army as well as other parts of the State. 
+</p><p>
+I am, dear sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3912">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="8">August</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your letter of the 20th July, came safe to hand. The dissolution of 
+your corps, or rather embodying it with other corps, I think a prudent 
+measure. At present, I have no commands which will interfere with 
+your wishes for retiring. All the cavalry corps are incorporated into 
+one, and the great probability of a speedy evacuation of Charlestown 
+will, I hope, render your further services unnecessary. Whether you 
+</p><p>
+are a supernumerary or not, don t depend on my opinion; but if those 
+letters are all you have to found your claim upon, I think you are not, 
+however great your sufferings, expense and trouble, since I have been 
+to the Southward. I flatter myself you feel yourself happy in the 
+reflection that you have aided your country in the hour of her greatest 
+distress, and that the efforts have contributed to her deliverance. I 
+sincerely thank you for your polite attentions to all my wishes, and for 
+the very essential service which you have rendered the public and me 
+in the arduous struggle. 
+</p><p>
+I am, with great esteem and regard, your most obt. humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3913">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have this moment received your letter of the 23d inst. Since the 
+letter written by Major Burnet yesterday, I have been informed that 
+a fleet, consisting of one sloop-of-war, three galleys, three armed brigs, 
+with ten empty sloops and schooners, having 500 infantry under Major 
+Brewerton and Doyle on board, passed the bar of Charlestown early 
+yesterday morning, destined for Santee and Cambahee, to collect rice. 
+It was supposed they would divide the force nearly equal. I have no 
+doubt but you will take measures to make them pay dearly for the rice 
+they may collect on Santee. I am, dear sir, with esteem and regard^ 
+Your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3914">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I have just got letters from Gen. Gist, giving an account of a little 
+action between <a href='/results.php?tla=jol' rel='colleague met'>Col. Laurens</a> and the enemy, about twelve miles below 
+the ferry on Combahee, where he had taken post, and thrown up a 
+little work to fire on the enemy's shipping, as they passed down the 
+river. The enemy landed in considerable force. The Colonel's party 
+being small, was beat back, in which conflict the Colonel fell, and we 
+had the mortification to lose a howitzer. Gen. Gist got up just time 
+enough to save the party from suffering further injury. We had twenty-four killed, wounded and missing. After this action the enemy embarked, and went down the river to the mouth of it, where they lay 
+when Gen. Gist's dispatches came away; it is said they are going to 
+Port Royal. There is no mention made of the enemy's loss; but they 
+must have suffered considerably, and I believe they have got little or 
+no rice. This is the substance of the General's letter. I lament the 
+unhappy fate of <a href='/results.php?tla=jol' rel='colleague met'>Col. Laurens</a>. I am, with great respect, 
+Your Excellency's most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter><letter id="nag3915">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD QUARTERS, <a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='31'>31</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR: 
+</p><p>
+I most sincerely congratulate you upon the very honorable check you 
+gave the enemy, and I am happy to hear you give such ample testimony 
+to the bravery and firmness of the militia. I wish in every part of the 
+State they were equally deserving the same applause. From what has 
+passed, you may see how little dependence is to be placed in the enemy's 
+peaceable professions. It gives me the highest satisfaction to find that 
+they are disappointed in their expectations of finding you off your guard, 
+from the arts that had been practised to effect it. At the close of every 
+month, you will give me a return of the Continental and State troops, 
+and the militia serving under your command, specifying where they are 
+employed, and for what purpose, as I want to give the minister of war 
+as satisfactory an account as possible of the force of this country. 
+I am, dear sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3916">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have received your letter by Mr. Pollock, with the returns enclosed. 
+Intelligence from town induces me to believe the enemy are making 
+preparations for another expedition after provision, and that the neighborhood of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> will be their object, if there is a large quantity 
+of provisions near that place. I beg that some steps may be taken for 
+removing the rice, if possible, or for effectually covering the country 
+from the ravages of the enemy. I am unable, at this distance, to deter 
+mine with precision the position you ought to take, or the measures 
+you have it in your power to pursue, to oppose their designs. You 
+will, therefore, adopt the plan which you think most eligible. 
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter><letter id="nag3917">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="10">October</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Your letter of the 28th inst. I have this moment received. Capt. 
+Warren has written to you requesting the prisoners, mentioned in the 
+list you enclosed, might be sent to Charlestown, except the dragoons, as 
+they were exchanged by an agreement entered into the 23d instant, 
+by which all citizens and militia of every rank and denomination, made 
+prisoners of war previous to that date, southward of the Delaware 
+River, with all the volunteers, and many Continental officers, a list of 
+whose names will be immediately published by the Commissary of 
+Prisoners. The safe-guard had certainly, by his conduct, forfeited 
+his protection. I wish, however, you would send him to Gen. Leslie, 
+with a remonstrance against the irregularities committed. Should 
+there be an opportunity of injuring the enemy at the distillery, by a 
+detachment from this army, I beg you will send me such intelligence 
+as to enable me to give you the necessary aid. 
+</p><p>
+I have the honor to be, sir, with much esteem, your obdt. servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

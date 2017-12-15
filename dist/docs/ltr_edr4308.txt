@@ -1,0 +1,19 @@
+<letter id="edr4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have examined all <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a>'s ministerial correspondence ; and, after the impression which I had received from others, whom I supposed to be conversant 
+with it, I am really astonished to find so little of what is exceptionable, and so much of what the most 
+violent would call patriotic. The parts to be withheld, will probably be of these denominations ; — 1, what the conduct of the rulers in France, which, if returned to that country, might expose him to danger ; 3, 
+the authors of some interesting information, who, if known, would be infallibly denounced. He speaks 
+indeed of his Court, a phrase which he might as well have let alone. I shall do myself the honor of waiting on you in the morning ; and I write now, only to 
+give you an outline of the true state of the business. I have the honor. Sir, to be, with the highest respect.
+</p><p> 
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

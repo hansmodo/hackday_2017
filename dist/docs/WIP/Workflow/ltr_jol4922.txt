@@ -1,0 +1,66 @@
+<letter id="jol4922">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a> gives me an opportunity 
+of thanking you for your kind letter of the 25th . The 
+intended expedition to Canada that gentleman had 
+communicated to me the day before in confidence, 
+and by giving me the perusal of his letter to you on 
+the subject had discovered his aversion to a certain 
+general as second in command. 
+</p><p>
+The policy of the enterprise does not appear to me 
+good in our present circumstances, for altho numbers 
+may be employed in this that could not be engaged in 
+any other, counting volunteers from the Eastern states 
+and the well affected of the country into which the war 
+is carried, yet a certain quantity of strength and treasure will be employed, which might be better applied 
+elsewhere. I am speaking on the supposition that it 
+is impossible for us to hold our conquests in Canada, 
+while the enemy continues superior to us by sea. 
+</p><p>
+Towns and fortifications and some military stores 
+may be destroyed; the unhappy Canadians will be 
+forced to side by turns with the party in possession, 
+and experience the redoubled horrors of war. 
+</p><p>
+The organization of the force which we are to use, 
+as far as we are acquainted with it here, does not give 
+satisfaction. It is feared that the ambition and 
+intriguing spirit of Con way will be subversive of the 
+public good, while he will proceed securely behind 
+the shield of his commanding officer, taking to 
+himself the merit of every thing praiseworthy and 
+attributing every misfortune to the ostensible head. 
+The person who is appointed Q. master for this 
+expedition, is said to be a man skilfull in enriching 
+himself at the public expense. 
+</p><p>
+Our friend the M's . knowing the existence of a 
+certain faction, and penetrating the character of his second, has prudently resolved to wait upon Congress, 
+and to find out the extent of their views in sending 
+forces into Canada, that he may act correspondently 
+and not have the secret of their intentions deposited 
+in another man while he has the command. 
+</p><p>
+I cannot altogether clear up the matter which you 
+allude to. I think I told you in my first letters on the 
+subject whence the general derived his knowledge of 
+the existence of the insolent paragraph, and it does 
+not appear extraordinary to me that a certain gentle 
+man who was capable of writing it, should afterwards 
+deny it. 
+</p><p>
+I am called upon to attend the general to his first 
+official interview with the congressional committee, 
+and have time only to repeat that I am ever, 
+</p><p>
+Your 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

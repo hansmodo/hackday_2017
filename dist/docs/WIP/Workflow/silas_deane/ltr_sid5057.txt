@@ -1,0 +1,23 @@
+<letter id="sid5057">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='17'>17th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I ask liberty to refer to the two last letters, which I did myself the honor of writing to you on the 30th ult. and 2d 
+instant, and which remain unanswered. In them I mentioned the situation to which I was brought by my being detained in this city, the difficulties and distresses of which 
+have been ever since daily increasing. 
+</p><p>
+I will not take up the time of Congress by entering into a detail of circumstances ; many of the honorable members are not unacquainted with them, but inform Congress that I 
+am under the necessity of going out of town early in next week, and considering myself at the orders of Congress, pray to be informed if they have any commands for me, 
+which render it necessary that I defer any longer to leave <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. My own family and private affairs, as well as those of one intrusted to my care, have long suffered by 
+my absence ; they must suffer to the last degree, if longer neglected. 
+</p><p>
+I have the honor to be, with the greatest respect, 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

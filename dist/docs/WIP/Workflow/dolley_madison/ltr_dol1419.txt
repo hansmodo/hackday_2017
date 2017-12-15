@@ -1,0 +1,27 @@
+<letter id='dol1419'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1419'>
+<recipient first='Mary' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, October 31, <a href="/results.php?year=1835">1835</a>. 
+</p><p>
+I was delighted to receive your last letter, my dearest Mary, as I am always, and 
+sorry for your disappointment at not see ing Thomas and his wife. You inquire 
+if Count d Orsay has been here? Yes, he spent nearly three weeks with us, off and on, and seemed to enjoy himself very 
+much. He is a great sportsman, and would borrow Payne's summer clothes, and go forth, returning as ragged as bushes and 
+mire could make him, rest for several days, and then off again, tumbling into the 
+river, losing his way and yet come home laughing at his adventures. We found him an elegant young man, sensible and 
+well-informed, except on the intricacies of our woods. I forget, now, who introduced him ; I think General Dearborn sent a letter of introduction. 
+Mr. and Mrs. Stevenson stayed a week with me, but I have not 
+yet heard from Mrs. Grimes and her children, of their time for coming. I must 
+tell you that my English beauty has given me a calf as pretty as herself ; tell this to 
+dear Dolly that she may be glad with me. Have you any amusing books, no matter 
+how old, to lend me ? You see in what haste I write ; tell me everything that you 
+are doing, dear girls ; my heart follows you all the time, in spite of my engrossing 
+family. It is now late at night, and my eyes close. Dear love to you all. Good night, and sweet dreams ! 
+</p><p>
+Your aunt 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY</a>. 
+</p>
+</letter></letter>

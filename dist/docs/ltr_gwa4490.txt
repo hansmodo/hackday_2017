@@ -1,0 +1,23 @@
+<letter id="gwa4490">
+<recipient first="Jean Baptiste" last="de Vimeur" type="individual"/>
+<p>
+TO COUNT DE ROCHAMBEAU. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I do myself the honor to acknowledge the receipt 
+of your Excellency's letter of the 20th instant, from 
+which I have the pleasure to observe the progress you 
+make in the march of the troops under your command, 
+and your intentions to come to my camp in person 
+from <a href='/results.php?city=hartford' rel='city'>Hartford</a>. Be assured, Sir, I shall be very happy 
+to see you whenever you arrive. You do not mention the route by which you intend to come. You 
+will find me at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. My intelligence from the 
+southward is too vague and uncertain to communicate 
+to your Excellency. By the time of your arrival, I 
+hope to be able to give you some certain information 
+of our situation in that quarter. I am, &,c. 
+</p>
+</letter>

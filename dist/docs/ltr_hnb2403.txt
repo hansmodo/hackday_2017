@@ -1,0 +1,30 @@
+<letter id="hnb2403">
+<recipient first="Margaret" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=port gibson" rel="city origin">GIBSON'S PORT</a>, SATURDAY, <a rel="month origin" value="6">June</a> <a rel="day origin" value="13">13th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+I arrived here about half-past seven o'clock this morning, after having lost half the day yesterday by lying by 
+at Greenville, with a headache too heavy to ride with. I am now perfectly well, and after losing to-day with the 
+Belpre folks here, and the detention occasioned by getting little Bay shod, shall resume the journey this evening. 
+</p><p>
+The road is pretty open, having been lately cut out; but I shall endeavor, by traveling a good part of the 
+night, to make up for whatever indulgence of shelter or rest I may allow the horses and myself in the day. I 
+find the cap the most comfortable luxury I ever traveled with, and think I can adjust a simple handkerchief about 
+my head and face in a way to parry the musquitoes, or their more formidable companions the horse-flies. 
+</p><p>
+I have no care, I assure you, for any thing affecting myself, but through you and my boys ; could I, then, only 
+be assured, that you would be as industrious to seek your recreation, and frequently shift the subject of your labors, 
+as you are criminal in protracting the intervals of your sedentary occupations, that my boys would not be ever 
+exposed to the sun bareheaded and barefoot, my reflections on my business, or subjects of interest or amusement would not, I protest, suffer a moment's interruption. 
+Improve, then, the blessing you did not expect, for you could never find it on the Ohio, which a benignant God 
+has reserved for you among strangers, in the generous regards of so many worthy families and individuals who have become your friends. Farewell ! 
+</p><p>
+<a href="/results.php?tla=hnb" rel="me">HAR. BLENNERHASSETT</a>. 
+</p><p>
+Give my particular love to Scott and F , and kiss 
+</p><p>
+Anne and the boys for me. 
+</p><p>
+MRS. BLENNERHASSETT. 
+</p>
+</letter>

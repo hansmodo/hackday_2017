@@ -1,0 +1,43 @@
+<letter id="rom4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="11">November</a> 	<a rel='day origin' value='27'>27th</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I congratulate you on the signing of the definitive treaty.. 
+and on the evacuation of New- York, which took place on 
+Tuesday. Our friend <a href='/results.php?tla=gom' rel='friend met colleague'>Gouverneur Morris</a> is there. He 
+has been gone about eighteen days, and I expect him back 
+very soon ; he will then give you the detail, and inform you 
+of such things as you may wish to know respecting any of 
+your particular friends. 
+</p><p>
+If Great Britain persists in refusing admittance to our 
+ships in their islands, they will probably have great cause 
+to repent, for I shall not be surprised to see a general prohibition to the admittance of theirs into our ports ; and if 
+such a measure is once adopted, they may find it very difficult to obtain any alteration, and in that case the advantages of carrying will be much against them. Should the 
+court of France pursue the same policy, we shall fall in 
+with the Dutch, and probably have more connexions in 
+commerce with them than with any other people. I have 
+received the prints of the rise and fall of the balloon. Pray 
+cannot they contrive to send passengers with a man to 
+steer the course, so as to make them the means of conveyance for despatches from one country to another, or 
+must they only be sent for intelligence to the moon and 
+clouds ? 
+We are dismissing the remains of our army, and getting 
+rid of expense, so that I hope to sec the end of my engagements before next May, but I doubt whether it will be in 
+my power to observe that punctuality in performing them, 
+which I wish and have constantly aimed at. 
+</p><p>
+I am sending some ships to China, in order to encourage 
+others in the adventurous pursuits of commerce, and I wish 
+to see a foundation laid for an American navy. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your affectionate friend and humble servant, 
+</p><p>
+<a href="/results.php?tla=rom" rel="me">Robert Morris<a/>. 
+</p>
+</letter>

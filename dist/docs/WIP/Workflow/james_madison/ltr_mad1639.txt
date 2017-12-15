@@ -1,0 +1,45 @@
+<letter id='mad1639'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, March 19, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, On our arrival here we found that the number 
+of Representatives on the spot had been stationary from the 
+second day of the meeting. Mr. Page, Mr. Lee, and myself, 
+raised it to 21, and Mr. S. Griffin and Mr. Moore have been 
+since added. The number of attending Senators continues at 
+eight. When a quorum will be made up in either House rests 
+on vague conjecture rather than on any precise information. It 
+is not improbable, I think, that the present week will supply 
+the deficiency in one, if not in both of them. The States most 
+convenient are among the defaulters. It will not be known, I 
+am told, in this State, who the Representatives are, till some 
+time next month. The federal party calculate on an equal 
+division of the six. Mr. Lawrence for the city district, Mr. Floyd for the Long Island district, and Mr. Benson for a third. 
+In New Jersey the election has been conducted in a very singular manner. The law having fixed no time expressly for closing 
+the polls, they have been kept open three or four weeks in some 
+of the counties, by a rival jealousy between the Eastern and 
+western divisions of the State; and it seems uncertain when 
+they would have been closed if the governor had not interposed, 
+by fixing on a day for receiving the returns, and proclaiming 
+the successful candidates. The day is passed, but I have not 
+heard the result. The Western ticket in favor of Skureman, 
+Boudinot, Cadwallader, and Sennickson, if this be the name, is 
+supposed to have prevailed; but an impeachment of the election 
+by the unsuccessful competitors has been talked of. Two of the 
+Representatives from Massachusetts are also unknown to us. 
+In one of the districts it is supposed that a disaffected man has 
+prevailed. 
+</p><p>
+An English packet has been long expected, and is not yet 
+arrived. The state of foreign news remains, of consequence, 
+little altered. The accounts of latest date, through other 
+channels, shew that the progress in France towards a constitutional establishment is unchecked, and that a coalition between 
+the king and the commons against the nobility and clergy will 
+direct the innovations. 
+</p><p>
+With respectful compliments to Mrs. Washington and the 
+rest of the family, I am, dear sir, truly and affect'y. your obt 
+serv. 
+</p>
+</letter>

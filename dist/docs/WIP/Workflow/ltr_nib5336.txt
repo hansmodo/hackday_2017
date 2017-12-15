@@ -1,0 +1,19 @@
+<letter id="nib5336">
+<recipient first="R" last="Blatchford" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='31'>31</a>, <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir 
+</p><p>
+I will thank you to take charge of a little matter which may become important unless wisely managed. The Bank 
+has just made a settlement, mutually advantageous to both parties, with the Gov't  To you, who know all the bearings 
+of such a measure, I need not say, that I regard it as the termination of the war, &amp; therefore of great benefit alike to the 
+Bank,and to the country. But if it be a matter of advantage to the Bank, or of triumph to its friends, like all triumphs it should 
+be enjoyed with moderation. In noticing it therefore, by the press, I would specially avoid everything like exultation 
+everything like rep roach to the administration as being forced, at last, to resort to the Bank. But on the contrary the administration should be treated as having done a good thing, and should have credit for a pacification which cannot fail to 
+be useful to the country. It may be of some consequence to the Adm'n . to see that they do not expose themselves, by this 
+step, to sneers and sarcasms from their political opponents. 
+</p><p>
+Will you have the goodness to suggest this as the proper tone to be adopted by our friends in <a href='/results.php?city=new york' rel='city'>New York</a> ? 
+</p>
+</letter>

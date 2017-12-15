@@ -1,0 +1,98 @@
+<letter id='mad1719'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=orange" rel="city">Orange</a>, June 13, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+MY DEAR SIR, My last was of the 27 May. It enclosed, 
+among other things, a letter to the French Minister de Flnterieure, in answer to one enclosing a Decree of the National 
+Assembly. On the propriety of the answer I wished your 
+freest judgment; and as the sending one at all may be rendered 
+by events improper, I must request the favor of you not to forward the letter if intelligence should confirm such to be the 
+state of things that it would be totally mal-apropos there. 
+Provided it be proper there, and consequently proper in itself, 
+I shall not trouble myself about any comments which the publication attending all such things may produce here. The letter 
+preceding my last, as well as the last, contained some other 
+papers which I wish to know have been received. 
+</p><p>
+Your two last favors were of May 27 and June 2. The 
+latter confirms the apostasy of Dumouriez, but relieves us from 
+the more alarming account of his being supported in it by the 
+army. Still, however, much is to be dreaded from the general 
+posture of things. Should they take a turn decidedly wrong, I 
+fear little regard will be paid to the limited object avowed by 
+the Austrian general in his first proclamation. In fact, if the 
+plan of Dumouriez had succeeded, it is probable that, under the 
+clause of the proclamation relating to an amendment of imperfections in the Constitution of <a href="/results.php?year=1791">1791</a>, the form of the national 
+sanction would have been obtained, as in the Restoration of 
+Charles II, to whatever establishment military despotism might 
+please to dictate. The only hope of France, next to the success 
+of her own efforts, seems to lie in the number and discordant 
+views of her combined enemies. 
+</p><p>
+I observ. that the newspapers continue to criticise the President's proclamation, and I find that some of the criticisms 
+excite the attention of dispassionate and judicious individuals 
+here. I have heard it remarked by such, with some surprise, 
+that the President should have declared the United States to 
+be neutral in the unqualified terms used, when we were so 
+notoriously and unequivocally under eventual engagements to 
+defend the American possessions of France. I have heard it 
+remarked, also, that the impartiality enjoined on the people was 
+as little reconcileable with their moral obligations as the unconditional neutrality proclaimed by the Government is with 
+the express articles of the Treaty. It has been asked, also, 
+whether the authority of the Executive extended by any part 
+of the Constitution to a declaration of the Disposition of the 
+United States on the subject of war and peace ? I have been 
+mortified that on these points I could offer no bona fide explanations that ought to be satisfactory. On the last point, I must 
+own my surprise that such a prerogative should have been exercised. Perhaps I may have not attended to some parts of the 
+Constitution with sufficient care, or may have misapprehended 
+its meaning. But, as I have always supposed and still conceive, 
+a proclamation on the subject could not properly go beyond a 
+declaration of the fact that the United States were at war or 
+peace, and an injunction of a suitable conduct on the citizens. 
+The right to decide the question whether the duty and interest of the United States require war or peace under any 
+given circumstances, and whether their disposition be towards 
+the one or the other, seems to be essentially and exclusively 
+involved in the right vested in the Legislature of declaring 
+war in time of peace, and in the President and Senate of 
+making peace in time of war. Did no such view of the subject 
+present itself in the discussions of the Cabinet? I am extremely afraid that the President may not be sufficiently aware 
+of the snares that may be laid for his good intentions by men 
+whose politics at bottom are very different from his own. An 
+assumption of prerogatives not clearly found in the Constitution, and having the appearance of being copied from a monarchical model, will beget animadversion equally mortifying to 
+him and disadvantageous to the Government. Whilst animadversions of this sort can be plausibly ascribed to the spirit of 
+party, the force of them may not be felt. But all his real 
+friends will be anxious that his public conduct may bear the 
+strictest scrutiny of future times, as well as of the present day; 
+and all such friends of the Constitution would be doubly pained 
+at infractions of it under auspices that may consecrate the evil 
+till it be incurable. 
+</p><p>
+The great danger of misconstruing the sentiment of Virginia 
+with regard to liberty and France is from the heretical tone of 
+conversation in the Towns on the post roads. The voice of the 
+country is universally and warmly right. If the popular disposition could be collected and carried into effect, a most important use might be made of it in obtaining contributions of 
+the necessaries called for by the danger of famine in France. 
+Unfortunately, the disaffection of the Towns, which alone could 
+give effect to a plan for the purpose, locks up the public gratitude and beneficence. 
+</p><p>
+Our fine prospects in the wheat fields have been severely 
+injured by the weather for some time past. A warm and moist 
+spring had pushed the wheat into rather a luxuriant state. It 
+had got safe into the head, however, and with tolerable weather 
+would have ripened into a most exuberant crop. Just as the 
+grain was in a milky state the weather became wetter than 
+ever, and has continued raining or cloudy almost constantly 
+since. This has brought on a little of the rust, and pretty 
+universally in this quarter a decay of the ear called the Rot. 
+Should the weather be ever so favorable henceforward, a considerable proportion will be lost; and if unfavorable, the loss 
+may be almost entire. We are at this moment both excessively 
+wet and hot. The forwardest wheat is turning fast, and may 
+be nearly safe. The generality is not sufficiently advanced to 
+be out of danger of future, or beyond the effect of past causes. 
+The Kentucky coffee trees hi this neighborhood are too 
+young to bear for some years. I will do all I can to get the 
+seed for Bartram from Kentucky as soon as possible. 
+</p><p>
+Adieu. 
+</p>
+</letter>

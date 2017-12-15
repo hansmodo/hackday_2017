@@ -1,0 +1,52 @@
+<letter id="jsu3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, [<a href='/results.php?city=valley forge' rel='city origin'>Valley Forge</a>], <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Agreeably to your Excellency's directions, I have 
+consulted some of the General Officers who I thought 
+most capable of advising upon the proper steps to 
+take in our present circumstances. They say that 
+they can by no means advise for or against an attack. 
+They are fully convinced that General Howe has his 
+whole force with him ; that, if your Excellency thinks 
+your force sufficient to cope with his, they are willing to risk their lives and fortunes with you in the 
+attempt. They say, further, that General Howe is 
+possessed of very strong grounds at present, and, even 
+if he was not, he would have sufficient time to post 
+himself strongly before you could reach him, as your army must have a march of two days before they 
+could come to action. They think if an attack is 
+made on his left with success, he can retreat with 
+ease ; if on his right, he must be ruined ; but, should 
+you fail in the latter, your army must be pushed into 
+the Schuylkill. 
+</p><p>
+They, upon the whole, think that the attempt will 
+be exceeding hardous, and the success doubtful ; 
+that, if you fail, the people who are now so fond of 
+censuring, will change their clamor, and censure you 
+for not attacking him when he was within a mile 
+of you, and your army more numerous and in better 
+condition than at present. They say they are free for attacking him, if he, by his advances this way, 
+shows an intention of attacking us ; but cannot ad 
+vise to marching the army to attack him where he 
+now is, unless your Excellency is fully convinced of 
+your superiority in numbers. 
+</p><p>
+These are the sentiments of the gentlemen whom I 
+have consulted, and, though I think they have much 
+weight, I am so weary of the infernal clamor of the 
+Pennsylvanians, that I am for satisfying them at all 
+events, and risking every consequence in an action. 
+Possibly we may be successful; if not, they may be 
+satisfied, and even Congress itself may gain experience, and learn to censure with more caution. Possibly a defeat may have this good effect, and a victory will bring with it its own reward. I am, there 
+fore, clearly for risking every consequence in an action, and, among others, most cheerfully, the life and 
+fortune of 
+</p><p>
+Your Excellency's most obedient servant. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

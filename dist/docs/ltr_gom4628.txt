@@ -1,0 +1,111 @@
+<letter id="gom4628">
+<recipient first="Rufus" last="King" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="10">October</a> <a rel='day origin' value='23'>23d</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Yours of the first of September reached me a few days ago. 
+Accept my sincere thanks for the information it contains, 
+which is precious and highly pleasing. 
+</p><p>
+I might comment on what you say respecting a print, which 
+censures every measure of government, but you will readily 
+anticipate all which I might say on that subject. I cannot 
+give you such desirable intelligence respecting the state of 
+things here, as I might have done if the late revolution had 
+not taken place, because I find my intercourse of necessity suspended, and until I have orders respecting the new government I am bound to preserve a neutrality of conduct, so that I 
+cannot as heretofore peep behind the scenes. Add to this, that 
+there is at present no very certain march anywhere, each feeling himself obliged to deviate according to circumstances from 
+the course which he might wish. I will attempt, however, to 
+give you an abbreviation of the late events, and in my letters to Mr Jefferson, which may perhaps be communicated to 
+the Senate, and at any rate from the gazettes preceding and 
+subsequent to the tenth of August, you will be able to fill 
+up the outlines of the sketch. 
+</p><p>
+The late revolution has for its remote cause that excess in 
+the human temper, which drives men always to extremes, if 
+not checked and controlled. Fonts pr oximate cause it has 
+the vices and defects of the late constitution, and particularly 
+that an executive without powers was rendered responsible for 
+events, and that a legislature composed of a single chamber of 
+representatives was secured by every precaution, and under 
+no control except some paper maxims and popular opinion. 
+That the people, or rather the populace, a thing which thank 
+God is unknown in America, nattered with the idea that they 
+are omnipotent, and disappointed from necessity in the golden 
+prospects originally held out to them, were under no restraint, 
+except such as might be imposed by magistrates of their own 
+choice. It resulted inevitably, that the executive must be in 
+the power of the legislative, and this last at the mercy of such 
+men as could influence the mob. 
+</p><p>
+By reducing the royal authority below all reasonable mea 
+sure, the constitution makers had created a moral impossibility, that the people should believe the King sincere in his acceptance, even if it had been possible that he should without 
+regret have beheld himself reduced from the first place allotted 
+to man, to a state so low as to be exposed to insult from the 
+lowest. It was evident then, that the constitution could not 
+last, and in the overturn three things might happen, viz. the 
+establishment of despotism, the establishment of a good constitution, or the institution of a democracy. The first under an 
+able and ambitious Prince was inevitable. The second was 
+extremely difficult, not in itself, but because the chiefs of different parties all found themselves committed to different points 
+and opinions. The last was only a natural continuation of the 
+progress of men's minds, in a necessary succession of ideas 
+from the bill of rights. The advocates for republican government therefore had an easy task, although both to themselves 
+and others it appeared difficult. 
+</p><p>
+From the moment that the second Assembly met, a plan was 
+formed among several of the members and others, to overturn 
+the constitution, which they had just sworn to observe, and establish a republic. This arose in part from the desire of placing themselves better than they could otherwise do, and in 
+part from a conviction that the system could not last, and that 
+they would have no share in the administration under such a 
+pure monarchy. As they had a strong hold upon the lowest 
+class of people, as the aristocratic and constitutional parties 
+were at open war, as these last avowed openly their wish to 
+amend, in other words, to change the constitution, which at the 
+same time they assumed to venerate, it was not a difficult 
+matter to assault a monarch, who adhered to that form which 
+he could not be supposed to approve, and whose faults became 
+daily more and more apparent. 
+</p><p>
+Add to this, that the court was involved in a spirit of little 
+paltry intrigue, unworthy of anything above the rank of foot 
+men and chambermaids. Every one had his and her little project, and every little project had some abettors. Strong manly councils frightened the weak, alarmed the envious, and 
+wounded the enervate minds of the lazy and luxurious. Such 
+councils, therefore, if perchance any such appeared, were approved but not adopted, certainly not followed. The palace 
+was always filled with people whose language, whose conduct, 
+whose manner were so diametrically opposite to everything like liberty, that it was easy to persuade the people that the 
+court meant to destroy the constitution, by observing strictly 
+the constitution. Some persons avowed the tactics, which 
+from the moment of such avowal were no longer worth 
+a doit. The King, whose integrity would never listen to 
+anything like the violation of his oath, had nevertheless 
+the weakness to permit those, who openly avowed unconstitutional sentiments, to approach his person, and enjoy his 
+intimacy. The Queen was still more imprudent. The re 
+publicans (who had also their plan to destroy the constitution 
+by the constitution) founded on the King's personal integrity 
+their operation to destroy his reputation for integrity, and hold 
+him out to the world as a traitor to the nation, which he was 
+sworn to protect. 
+</p><p>
+They in consequence seized every occasion to pass popular 
+decrees, which were unconstitutional If the King exercised 
+his veto, he was accused of wishing a counter revolution. If 
+he sanctioned the decree, he was so far lost with those, who 
+were injured by the decree, and of course became daily more 
+and more unprotected. The success of his enemies was beyond their own expectation. His palace was assaulted. He 
+took refuge with the Assembly, and is now a prisoner of state 
+with his family. 
+</p><p>
+But now the ideas of revolt, which had been fostered for his 
+overthrow, are grown very troublesome to those, who have 
+possessed themselves of the authority. It is not possible to 
+say either to the people or to the sea, so far shalt thou go and 
+no farther ; and we shall have, I think, some sharp struggles 
+which will make many men repent of what they have done, 
+when they find with Macbeth, that they have but taught 
+bloody instructions, which return to plague the inventor. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

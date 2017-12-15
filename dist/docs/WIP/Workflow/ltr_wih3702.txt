@@ -1,0 +1,48 @@
+<letter id="wih3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, 10 o'clock, P. M., <a rel='day origin' value='21'>21</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+This afternoon, fifteen or sixteen British ships of 
+war have made their appearance off this harbour, 
+to the eastward of Block Island. More than half of 
+them, I think, are ships of the line. From appearances, at sun-setting, they intended to come to, under 
+Block Island. 
+</p><p>
+Admiral Graves has probably joined Admiral Arbuthnot, and their design is to block up the fleet of 
+Monsieur le <a href='/results.php?tla=cdt' rel='colleague met'>Chevalier De Ternay</a>, and, if possible, intercept the expected second division of the French 
+fleet. I thought it my duty to give immediate notice to your Excellency, and beg leave to submit the 
+expediency of some small cruisers being immediately 
+sent from the Delaware, to cruise for the French 
+fleet, and direct them to a place of safety. I have 
+written to the Council and Navy Board, at <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+and proposed the same, in case the fleet should take 
+the eastern coast. I have mentioned this to his 
+Excellency, <a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a>, who was so much 
+pleased with it, that he requested I would write, for 
+that he should leave it wholly with me. 
+</p><p>
+This night is spent in mounting a number of guns 
+at advantageous posts at the entrance of the harbour, 
+to make a cross-fire with the ships, &c. There are 
+with the army a number of good engineers, and an 
+exceedingly fine corps of artillery, with a numerous 
+train of field-artillery, and some battering cannon. 
+</p><p>
+I had ordered <a href='/results.php?tla=chg' rel='colleague met'>Colonel Greene</a>'s regiment to march 
+immediately for the main army, but, under present 
+appearances, I think it best to detain them a few 
+days. I have ordered them to take post at Butts's 
+Hill, at the north end of the Island, to secure the 
+communication. This has given much satisfaction to 
+<a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a>, and I hope will meet with your 
+Excellency's approbation. I have the honor to be, 
+with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>.
+</p>
+</letter>

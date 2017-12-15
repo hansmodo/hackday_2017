@@ -1,0 +1,64 @@
+<letter id="bel3209">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Sir Harry seems to be collecting his force on 
+James's Island, and is there throwing up some works ; 
+one among the ruins of Fort Johnson, another a little to the westward of it. It is said that he is also 
+throwing up a bomb-battery opposite the town. Drawing his principal force to this Island, hauling his galleys and other armed vessels of small draught of 
+water near the mouth of Wappoo, collecting a number of boats there, indicate that an attempt on the 
+southerly part of the town, by boats, will be made. 
+It is pretty evident that he means to introduce his 
+ships into the harbour, which I find he may effect 
+with more safety than I once supposed he could ; for 
+our frigates, which it was thought could lie before 
+the bar, so as to command the entrance of it, appear to draw too much water for the purpose, and cannot 
+anchor with safety nearer to it than three miles, and there they are liable to be annoyed from the shore; 
+and the channel is so narrow that they cannot anchor in line of battle. It is the opinion of all the 
+Captains of the ships, that they can render more 
+essential services by lying abreast, and acting in con 
+junction with Fort Moultrie, than by taking any 
+other post. 
+</p><p>
+General Hogan's arrival, last night, gives great happiness and spirit to the garrison; for we were be 
+fore, and are now, much too weak ; we have but very 
+little support from the country militia of this State ;there are but about two hundred of them in town, 
+and it will be with difficulty that they will be 
+brought into it, notwithstanding the exertions of the 
+executive. The spirit with which they are conducting themselves, your Excellency will learn by the 
+inclosed proclamation. 
+</p><p>
+The southern part of the State is exposed to the 
+immediate incursions of the enemy, and to the depredations of the Tories. This, at present, keeps a 
+number of men in that part in arms, to protect their 
+families and property, which they say cannot be re 
+moved. In the middle part of the country most of 
+the inhabitants are disaffected, and a few days since 
+were in arms, and killed a number of people. This 
+forbids any troops being drawn from that part of the 
+country; force might be sent into it. The frontiers 
+of the State are obliged to arm to restrain the savages, and for the defence of themselves, and the upper part of Georgia. The Eastern Shore is left for 
+the defence of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> and the sea-coast. 
+</p><p>
+Governor Caswell has, in the most pointed terms, 
+ordered on the whole of the late drafts of three thousand. About one third of them are arrived, and 
+he has directed two thousand more to embody near the bounds of the northerly part of this State, to act 
+in either State, as circumstances may require. I was 
+in hopes General Scott would have been here before 
+now, but I cannot learn that he has yet left Peters 
+burg. 
+</p><p>
+Our works are constantly going on, and matters 
+every day grow better. The people are recovering 
+their spirits, and have now high expectations. I 
+have the honor to be, my dear General, with the 
+highest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

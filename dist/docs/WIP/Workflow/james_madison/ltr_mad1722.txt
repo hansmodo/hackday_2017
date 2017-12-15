@@ -1,0 +1,14 @@
+<letter id='mad1722'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+June 29, <a href="http://www.familytales.org/results.php?year=1793">1793</a>. 
+</p><p>
+MY DEAR SIR,
+</p><p>
+My last was of the 19th. I have since seen several of the National Gazettes, which continue to teem with animadversions on the Proclamation. My opinion of it was expressed in my 
+last. I foresee that a communication of it will make a part of the speech to the next Congress, and that it will bring on some embarrassments. Much will depend on events in Europe; and 
+it is to be regretted that the popularity of the President or the policy of our Government should ever be staked on such contingencies. I observ.that our vessels are frequently and insolently seized and searched for French goods. Is not this complained of by our own people as a breach of the modern law of 
+nations; and whilst British goods are protected by the neutrality of our bottoms, will not remonstrances come from France 
+on the subject? 
+</p>
+</letter>

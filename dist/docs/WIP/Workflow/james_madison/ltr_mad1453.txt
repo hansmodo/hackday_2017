@@ -1,0 +1,33 @@
+<letter id='mad1453'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, ESQ. [SR.]
+</p><p>
+<a href="/results.php?city=princeton" rel="city">PRINCETON</a>, October 9, <a href="/results.php?year=1771">1771</a>. 
+</p><p>
+HONORED SIR, In obedience to your requests I hereby send 
+you an answer to yours of the 25th of September, which I 
+received this morning. My letter by Dr. Witherspoon, who 
+left this place yesterday week, contains most of what you desire 
+to be informed of. I should be glad if your health and other 
+circumstances should enable you to visit him during his stay in 
+Virginia. I am persuaded you would be much pleased with 
+him, and that he would be very glad to see you. 
+</p><p>
+I was so particular in my last with regard to my determination about staying in <a href="/results.php?city=princeton" rel="city">PRINCETON</a> this winter coming, that I need 
+say nothing more in this place, my sentiments being still the 
+same. 
+</p><p>
+I am sorry Mr. Chew's mode of conveyance will not answer 
+in Virginia. I expect to hear from him in a few days, by return 
+of a man belonging to this Town from New <a href="/results.php?city=london" rel="city">London</a>, and shall 
+then acquaint him with it and get it remedied by the methods 
+you propose. 
+</p><p>
+Mr. James Martin was here at commencement, and had an 
+opportunity of hearing from his brothers and friends in. Carolina by a young man lately come from thence to this college; 
+however, I shall follow your directions in writing to him immediately, and visiting him as soon as I find it convenient. 
+</p><p>
+I am, Dr sir, your affectionate son. 
+</p>
+</letter>

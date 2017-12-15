@@ -1,0 +1,79 @@
+<letter id="hek4312">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='28'>28</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+Since the letter I had the honor of transmitting 
+the 21st instant, I have received a letter from Governor Blount, dated the 4th instant. A meeting of 
+the Cherokees, at Estanaula, had taken place, which 
+lasted from the 24th of June to the 1st of July, at 
+which the Little Turkey and many other Chiefs were 
+present ; but the Bloody Fellow, and John Watts, 
+whom the Governor, in his former letter, styled "the 
+champions for peace," were absent. But most of the 
+others who composed the delegation were present. 
+The dispositions manifested were friendly. A number 
+of Chiefs were selected to protect the boats, which 
+were to pass down the Tennessee with the goods designed for the Conference to be held with the Chickasaws and Choctaws, at <a href='/results.php?city=nashville' rel='city'>Nashville</a>. But the Little 
+Turkey expressed considerable dissatisfaction at the 
+line towards Cumberland, alleging it to be the hunting grounds of the Four Nations, to wit, the Creeks, 
+Cherokees, Choctaws, and Chickasaws. It is to be 
+observed that this man is the most influential Chief 
+of the Cherokees, and that he was neither at the 
+treaty of Hopewell, in <a href='/results.php?year=1785'>1785</a>, nor Holstein, in <a href='/results.php?year=1791'>1791</a>. I 
+have had some doubts, whether that part of the line 
+was agreeable to the opinion of the Cherokees generally ; and it really appears to me that something 
+will yet be to be arranged on that subject. 
+</p><p>
+Some Indians, supposed to be Creeks, have committed several murders at <a href='/results.php?city=nashville' rel='city'>Nashville</a>, and have wounded General Robertson and his son. The Governor 
+has had discretionary power to call forth such portions of militia as he should judge expedient for the 
+protection of the exposed parts of his Government, 
+and he has, at different periods, actually called for 
+five companies of militia, most of which are now in 
+service. The Governor expected the Chickasaws and 
+Choctaws to meet him, at <a href='/results.php?city=nashville' rel='city'>Nashville</a>, about the 25th 
+instant. The goods for the Conference at <a href='/results.php?city=nashville' rel='city'>Nashville</a> 
+left Holstein, under the charge of Mr. Allison, the 3d 
+instant, under a proper escort, besides the Indian 
+Chiefs before mentioned. The Governor and <a href='/results.php?tla=anp' rel='colleague'>General Pickens</a> were to set out for <a href='/results.php?city=nashville' rel='city'>Nashville</a> on the 5th instant, to cross Cumberland Mountains, escorted by 
+some horse, which he called out for the occasion. 
+</p><p>
+The Governor has transmitted the affidavits of two 
+men, recently from the Creek country, tending to 
+prove the interference of the Spanish Agent to prevent the Creeks from running the line ; and also of 
+some parties of Creeks making depredations on the 
+Cumberland settlements. It -would seem the Creeks 
+consider the Cumberland settlers as intruders on the 
+joint lands of the Four Nations, and therefore they 
+have a right to steal horses, and, in case of opposition, 
+to kill. It is to be hoped the Governor may devise 
+some measures to prevent the progress of those depredations, which lead to a general confusion and war 
+with the Creeks and Cherokees. I shall write him 
+by the way of <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. 
+</p><p>
+No information yet of Colonel Hardin or Major Trueman. <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>, on the 20th, gives information of some recent depredations by small parties 
+in Ohio county About three hundred and twenty 
+effectives of his troops had arrived. The information 
+of recruits, since the last return, is agreeable to the 
+within. The desertions of the troops, on the march, 
+are excessive. Out of about three hundred and fifty, 
+nearly fifty deserted from Reading to <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. 
+</p><p>
+<a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a> has returned from the western 
+parts of this State. I have intimated to him your 
+desire of his repairing to his Government ; but he 
+says it will be extremely inconvenient to him to do 
+it, as he has a lawsuit to be tried in September next. 
+He seems to think that it would not be proper or 
+necessary for him to be present at the trial of Ensign 
+Morgan. He is to deliver me his evidence in a week 
+or ten days, when I shall order Mr. Morgan to join 
+the army, for his trial. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

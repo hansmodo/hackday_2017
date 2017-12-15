@@ -1,0 +1,451 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.MOIlog on line 296
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4550
+--LETTER-TLA--gwa
+--DOC-AUTHOR-FIRST--George
+--DOC-AUTHOR-LAST--Washington
+--DOC-SOURCE--The Life of Gouverneur Morris With Selections from His Correspondence and Miscellaneous Papers Vol. II., Jared Sparks, 1832
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="gwa4550">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='13'>13th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Sir, 
+</p><p>
+It being important to both countries, that the treaty of 
+peace between Great Britain and the United States should be 
+observed and performed with perfect and mutual good faith, 
+and that a treaty of commerce should be concluded by them, 
+on principles of reciprocal advantage to both, I wish to be ascertained of the sentiments and intentions of the Court of London on these interesting subjects. 
+</p><p>
+It appears to me most expedient to have these inquiries 
+made informally, by a private agent ; and understanding that 
+you will soon be in London, I desire you in that capacity, and 
+on the authority and credit of this letter, to converse with his 
+Britannic Majesty s Ministers on these points, viz. whether 
+there be any and what objections to performing those articles in 
+the treaty, which remain to be performed on his part ; and 
+whether they incline to a treaty of commerce with the United 
+States on any and what terms ? 
+</p><p>
+This communication ought regularly to be made to you by 
+the secretary of state, but that office not being at present filled , 
+my desire of avoiding delays induces me to make it under my 
+own hand. It is my wish to promote harmony and mutual satisfaction between the two countries ; and it would give me great 
+pleasure to find that the result of your agency, in the business 
+now committed to you, will conduce to that end. 
+</p><p>
+I am, Sir, Your most obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4551">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Sir, 
+</p><p>
+My letter to you, herewith enclosed, will give you the credence necessary to enable you to do the business, which it commits to your management, and which I am persuaded you will readily undertake. 
+</p><p>
+Your inquiries will commence by observing, that, as the pre^ 
+sent constitution of government and of the courts established in 
+pursuance of it, removes the objections heretofore made to 
+putting the United States in possession of their frontier posts, 
+it is natural to expect from the assurances of his Majesty and 
+the national good faith, that no unnecessary delays will take 
+place. Proceed then to press a speedy performance of the 
+treaty, respecting that object. 
+</p><p>
+Remind them of the article by which it was agreed, that 
+negroes belonging to our citizens should not be carried away, 
+and of the reasonableness of making compensation for them. 
+Learn with precision, if possible, what they mean to do on this 
+head. 
+</p><p>
+The commerce between the two countries you well under 
+stand. You are apprized of the sentiments and feelings of the 
+United States on the present state of it, and you doubtless have 
+heard, that in the late session of Congress, a very respectable 
+number of both houses were inclined to a discrimination of du 
+ties unfavorable to Britain, and that it would have taken place, 
+but for conciliatory considerations, and the probability that the 
+late change in our government and circumstances would lead 
+to more satisfactory arrangements. 
+</p><p>
+Request to be informed, therefore, whether they contemplate 
+a treaty of commerce with the United States, and on what 
+principles or terms in general. In treating this subject, let it be 
+strongly impressed on your mind, that the privilege of carrying 
+our productions in our vessels to their islands, and of bringing in 
+return the productions of those islands to our own ports and 
+markets, is regarded here as of the highest importance ; and you. 
+will be careful not to countenance any idea of our dispensing 
+with it in a treaty. Ascertain, if possible, their views on this 
+point ; for it would not be expedient to commence negotiations 
+without previously having good reasons to expect a satisfactory 
+termination of them. 
+</p><p>
+It may also be well for you to take a proper occasion of re 
+marking, that their omitting to send a minister here, when the 
+United States sent one to London, did not make an agreeable 
+impression on this country ; and request to know what would 
+be their future conduct on similar occasions. 
+</p><p>
+It is in my opinion very important, that we avoid errors in 
+our system of policy respecting Great Britain, and this can only be done by forming a right judgment of their disposition and 
+views. Hence you will perceive how interesting it is, that you 
+obtain the information in question, and that the business be so 
+managed, as that it may receive every advantage, which abilities, address, and delicacy can promise and afford. 
+I am. Sir, Your most obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4552">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="month origin" value="10">Oct.</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In my first moments of leisure I acknowledge the receipt of 
+your several favors. 
+</p><p>
+To thank you for the interesting communications contained 
+in those letters, and for the pains you have taken to procure 
+me a watch, is all, or nearly all, I shall attempt in this letter ; 
+for I could only repeat things, were I to set about it, which I 
+have reason to believe have been regularly communicated to 
+you in detail, at the periods which gave birth to them. It may 
+not, however, be unpleasing to you to hear in one word, that 
+the national government is organized, and as far as my information goes, to the satisfaction of all parties ; that opposition 
+to it is either no more, or hides its head ; that it is hoped 
+and expected it will take strong root ; and that the non-acceding States will very soon become members of the union. No 
+doubt is entertained of North Carolina ; nor would there be any 
+of Rhode Island, had not the majority of those people bid adieu, 
+long since, to every principle of honor, common sense, and 
+honesty. A material change however has taken place, it is said, 
+at the late election of representatives, and confident assurances 
+are given, from that circumstance, of better dispositions in their 
+legislature at its next session, now about to be held. 
+</p><p>
+The revolution which has been effected in France is of so 
+wonderful a nature, that the mind can hardly realize the fact. 
+If it ends as our last accounts to the first of August predict, 
+that nation will be the most powerful and happy in Europe ; 
+but I fear, though it has gone triumphantly through the first 
+paroxysm, it is not the last it has to encounter before matters 
+are finally settled. In a word, the revolution is of too great a 
+magnitude to be effected in so short a space, and with the loss 
+of so little blood. The mortification of the King, the intrigues of the Queen, and the discontent of the princes and noblesse, will foment divisions, if possible, in the National Assembly, and they will unquestionably avail themselves of every 
+faux pas in the formation of the constitution, if they do not give 
+a more open, active opposition. In addition to these, the licentiousness of the people on one hand, and sanguinary punishments 
+on the other, will alarm the best disposed friends to the measure, 
+and contribute not a little to the overthrow of their object. Great 
+temperance, firmness, and foresight are necessary in the movements of that body. To forbear running from one extreme to 
+another is no easy matter, and should this be the case, rocks 
+and shelves, not visible at present, may wreck the vessel, and 
+give a higher toned despotism than the one which existed be 
+fore. I am, dear Sir, &LC. 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4553">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='28'>28th</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The communications in your several letters, relative to the 
+state of affairs in Europe, are very gratefully received ; and I 
+should be glad if it were in my power to reply to them more in 
+detail than I am able to do. But my public duties, which are 
+at all times sufficiently numerous, being now much accumulated 
+by an absence of more than three month? from the seat of government, make the present a very busy moment for me. 
+</p><p>
+The change of systems, which have so long prevailed in Eu 
+rope, will, undoubtedly, affect us in a degree proportioned to 
+our political or commercial connexions with the several nations of it. But I trust we shall never so far lose sight of our 
+own interest and happiness as to become, unnecessarily, a party in their political disputes. Our local situation enables us to 
+maintain that state, with respect to them, which otherwise could 
+not, perhaps, be preserved by human wisdom. The present 
+moment seems pregnant with great events ; but, as you observe, it is beyond the ken of mortal foresight to determine 
+what will be the result of those changes, which are either making, or contemplated, in the general system of Europe. Al 
+though as fellow men we sincerely lament the disorders, oppressions, and incertitude, which frequently attend national 
+events, and which our European brethren must feel, yet we 
+cannot but hope, that it will terminate very much in favor of 
+the rights of man. And that a change there, will be favorable to this country, I have no doubt. For under the former 
+system we were seen either in the distresses of war, or viewed 
+after the peace in a most unfavorable light through the medium of our distracted state. In neither point could we appear 
+of much consequence among nations. And should affairs continue in Europe in the same state they were, when these impressions respecting us were received, it would not be an easy matter to remove the prejudices imbibed against us. A 
+change of system will open a new view of things, and we shall 
+then burst upon them, as it were, with redoubled advantages. 
+</p><p>
+Should we, under the present state of affairs, form connexions, other than we now have, with any European powers, 
+much must be considered in effecting them, on the score of our 
+increasing importance as a nation ; and at the same time, should 
+a treaty be formed with a nation, whose circumstances may not 
+at this moment be very bright, much delicacy would be necessary in order to show that no undue advantages were taken on 
+that account. For unless treaties are mutually beneficial to 
+the parties, it is vain to hope for a continuance of them beyond 
+the moment when the one, which conceives itself overreached, 
+is in a situation to break off the connexion. And I believe it 
+is among nations as with individuals, that the party taking ad 
+vantage of the distresses of another will lose infinitely more in 
+the opinion of mankind, and in subsequent events, than it will 
+gain by the stroke of the moment. 
+</p><p>
+In my late tour through the southern States, I experienced 
+great satisfaction in seeing the good effects of the general government in that part of the union. The people at large have 
+felt the security which it gives, and the equal justice which it 
+administers to them. The farmer, the merchant, and the 
+mechanic have seen their several interests attended to, and 
+from thence they unite in placing a confidence in their representatives, as well as in those in whose hands the execution of 
+the laws is placed. Industry has there taken place of idleness, and economy of dissipation. Two or three years of 
+good crops, and a ready market for the produce of their lands, 
+have put every one in good humor ; and in some instances they 
+even impute to the government what is due only to the goodness of <a href='/results.php?city=providence' rel='city'>Providence</a>. 
+</p><p>
+The establishment of public credit is an immense point 
+gained in our national concerns. This, I believe, exceeds the 
+expectation of the most sanguine among us. And a late in 
+stance, unparalleled in this country, has been given of the confidence reposed in our measures, by the rapidity with which 
+the subscriptions to the Bank of the United States were filled. 
+In two hours after the books were opened by the commissioners, the whole number of shares was taken up, and four thou 
+sand more applied for, than were allowed by the institution ; 
+besides a number of subscriptions which were coming on. 
+This circumstance was not only pleasing, as it related to the 
+confidence in government, but as it exhibited an unexpected 
+proof of the resources of our citizens. 
+</p><p>
+In one of my letters to you the account of the number of 
+inhabitants, which would probably be found in the United 
+States on enumeration, was too large. The estimate was 
+then founded on the ideas held out by the gentlemen in Congress of the population of the several States, each of whom (as 
+was very natural) looking through a magnifier would speak of 
+the greatest extent, to which there was any probability of their 
+numbers reaching. Returns of the census have already been 
+made from several of the States, and a tolerably just estimate 
+has been now formed in others ; by which it appears, that we 
+shall hardly reach four millions ; but this you are to take along 
+with it, that the real number will greatly exceed the official 
+return^ because, from religious scruples, some would not give 
+in their lists ; from an apprehension that it was intended as 
+the foundation of a tax, others concealed, or diminished theirs ; 
+and from the indolence of the mass, and want of activity in 
+many of the deputy enumerators, numbers are omitted. The 
+authenticated number will, however, be far greater, I believe, 
+than has ever been allowed in Europe ; and will have no 
+small influence in enabling them to form a more just opinion 
+of our present growing importance, than has yet been entertained there. 
+</p><p>
+This letter goes with one from the Secretary of State, to 
+which I must refer you for what respects your public transactions, and I shall only add to it the repeated assurances of 
+regard and affection, with which I am, dear Sir, 
+Your obedient and obliged, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4554">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='20'>20th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+Although your letter of the tenth of June, which I have 
+received, did not paint the prospects of France in the most 
+pleasing colors, yet the events which have since taken place 
+give a more gloomy aspect to the public affairs of that kingdom, than your letter gave reason to apprehend. 
+</p><p>
+A thousand circumstances, besides our distance from the 
+theatre of action, made it improbable that we should have, 
+in this country, a fair statement of facts and causes through 
+the medium of the public prints ; and I have received no 
+other accounts, than what have come in that channel. But 
+taking up the most favorable of these, gloomy indeed appears 
+the situation of France at this juncture. But it is hardly 
+probable that even you, who are on the spot, can say with any 
+precision how these things will terminate ; much less can we, 
+at this distance, pretend to augur the event. We can only 
+repeat the sincere wish, that much happiness may arise to the 
+French nation, and to mankind in general, out of the severe 
+evils which are inseparable from so important a revolution. 
+</p><p>
+In the present state of things we cannot expect, that any 
+commercial treaty can now be formed with France ; but I 
+have no doubt of your embracing the proper moment of arrangement, and of doing whatever may be in your power for 
+the substantial interest of our country. 
+</p><p>
+The affairs of the United States go on well. There are 
+some few clouds in our political hemisphere, but I trust that 
+the bright sun of our prosperity will disperse them. 
+</p><p>
+The Indians on our western and southern frontiers are still 
+troublesome, but such measures are taken as will, I presume, 
+prevent any serious mischief from them ; I confess, however, 
+that I do not believe these tribes will ever be brought to a 
+quiescent state, so long as they may be under an influence 
+which is hostile to the rising greatness of these states. 
+</p><p>
+From the complexion of some of our newspapers, foreigners would be led to believe, that inveterate political dissensions 
+exist among us, . and that we are on the very verge of disunion ; but the fact is otherwise. The great body of the 
+people now feel the advantages of the general government, 
+and would not, I am persuaded, do anything that should destroy it ; but this kind of representations is an evil, which 
+must be placed in opposition to the infinite benefits resulting 
+from a free press ; and I am sure you need not be told, that in 
+this country a personal difference in political sentiments is 
+often made to take the garb of general dissensions. 
+From the Department of State you are, I am informed, 
+furnished with such papers and documents from time to 
+time, as will keep you more particularly informed of the state 
+of our affairs. I shall therefore add nothing further to this 
+letter, than assurances of being always and sincerely yours, &c. 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4555">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+It was not till the middle of February, that I had the pleasure to receive your letter of the 23d of October. 
+</p><p>
+If you, who are at the fountain head of those great and important transactions, which have lately engrossed the attention 
+of Europe and America, cannot pretend to say what will be 
+their event, surely we, in this distant quarter, should be presumptuous indeed in venturing to predict it. And unwise should 
+we be in the extreme, to involve ourselves in the contests of 
+European nations, where our weight could be but small, 
+though the loss to ourselves would be certain. lean however 
+with truth aver, that this country is not guided by such a narrow 
+and mistaken policy, as will lead it to wish the destruction of 
+any nation, under an idea that our importance will be increased in proportion as that of others is lessened. We should 
+rejoice to see every nation enjoying all the advantages, that 
+nature and its circumstances would admit, consistent with civil 
+liberty and the rights of other nations. Upon this ground the 
+prosperity of this country would unfold itself everyday, and 
+every day it would be growing in political importance. 
+</p><p>
+<a href='/results.php?tla=thj' rel='colleague met'>Mr Jefferson</a> will communicate to you such official information as we have to give, and will transmit the laws, public 
+papers, &;c. 
+</p><p>
+I have thought it best, my dear Sir, not to let slip this opportunity of acknowledging the receipt of your letter, lest no other 
+should occur to me very soon, as I am called to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> 
+by the death of my nephew, Major Washington, and am on 
+the point of setting out for that place tomorrow. I need not 
+tell you that this is of course a very busy moment with me. 
+It will therefore account for the conciseness of this letter, by 
+which however you must not measure my regard. 
+</p><p>
+You see me again entering upon the arduous duties of an 
+important office. It is done so contrary to my intention, that 
+it would require more time, than I have allowed myself, to as 
+sign the reasons ; and therefore I shall leave them to your 
+own suggestion, aided by the publications which you will find 
+in the gazettes. I am your sincere friend and affectionate 
+servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4556">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+The difficulty, under existing circumstances, of knowing 
+what to write to you, had determined me to write nothing, but 
+to let the matter rest altogether upon the public communications from the Secretary of State. 
+</p><p>
+Coming to this place, however, on a flying visit to Mount 
+Vernon, and finding the vessel, of which <a href='/results.php?tla=jam' rel='co-worker met'>Mr Monroe</a> is on 
+board, had not left the river, I have so far departed from my 
+determination, as to be seated in order to assure you that my 
+confidence in, and friendship and regard for you, remain undiminished. 
+</p><p>
+To time, and your own observations, if you should return 
+immediately to this country, I commit the rest ; and it will be 
+nothing new to assure you, that I am always and very sincerely yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4557">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=mount vernon' rel='city origin'>Mount Vernon</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+The sole object of the enclosed letter was to evince to you, 
+that, notwithstanding your recall, you held the same place in 
+my estimation that you did before it happened. I expected to 
+have got the letter into Colonel Monroe s hands, before the vessel in which he sailed, had left Patapsco river ; but a fresh 
+fair wind coming up, prevented its reaching him. 
+</p><p>
+Since my arrival at this place, I have been favored with your 
+private letter of the 12th of March, enclosing the duplicate of 
+the 5th of February. For both I thank you. To common 
+accidents, or to the interception of letters for purposes that 
+may be guessed, are to be ascribed those disappointments of 
+which you complain ; for I am almost certain, that information 
+of what was going forward in this country was regularly transmitted to you ; possibly, and probably, not by duplicates, 
+which ought to have been the case, for the greater certainty of getting it to you. 
+</p><p>
+The uncertainty, when letters are not entrusted to confidential persons, or sent by special messengers, of their coming to 
+hand, will restrain me from going into detail at this time. I 
+shall only add, therefore, to the acknowledgment of the receipt of the above letters, that I am entirely ignorant of the 
+source from whence, or the foundation on which, Major Jackson has erected the fabrics of your recall, and of your successor. Neither directly nor indirectly could he have derived them 
+from me, for the best of all reasons, viz. that not until some 
+considerable time after M. Fauchet had arrived in this country, did I entertain an idea of the former, or contemplate the 
+latter; for until then, I had supposed you stood well with the 
+persons in power. Sure I am, nothing short of evidence 
+to the contrary, with the request that accompanied it, would 
+have induced the measure. To Major Jackson I have never 
+written a line since he left this country, nor received one from him. 
+</p><p>
+The prospective you have drawn is not very pleasing ; but it serves to make one more anxious for a nearer view. 
+</p><p>
+The affairs of this country cannot go amiss. There are so many watchful guardians of them, and such infallible guides, 
+that one is at no loss for a director at every turn. But of these matters I shall say little ; if you are disposed to re 
+turn to it, I will leave you to judge of them from your own observation. My primary objects, and to which I have steadily 
+adhered, have been to preserve the country in peace if I can, and to be prepared for war if I cannot ; to effect the first, 
+upon terms consistent with the respect which is due to our selves, and with honor, justice, and good faith to all the world. 
+</p><p>
+<a href='/results.php?tla=joj' rel='co-worker met friend'>Mr Jay</a>, and not <a href='/results.php?tla=thj' rel='colleague met'>Mr Jefferson</a>, as has been suggested to you, embarked as Envoy Extraordinary for England, about the 
+middle of May.. If he succeeds, well ; if he does not, why, knowing the worst, we must take measures accordingly. I am yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter><letter id="gwa4558">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+This letter will be short ; the intention of it being little more 
+than to acknowledge the receipt of your several favors from 
+London, dated the 7th and 13th of April, and 1st and 2d of May, 
+on the business which had been entrusted to you of a public nature ; and of your other letters of the 12th of April, and the 
+3d of May, which more immediately relate to my private requests. 
+</p><p>
+Permit me to thank you, my good sir, for the attention you 
+have given to the latter ; and, as far as your communications 
+with the British Government had gone, to assure you of my 
+entire approbation of your conduct respecting the former. I 
+shall await the answer, which your address of the 30th of April 
+will extort (if silence be not resolved on) from the Duke of 
+Leeds, before I write more fully to you on that head. I am, &;c. 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p><p>
+</letter>

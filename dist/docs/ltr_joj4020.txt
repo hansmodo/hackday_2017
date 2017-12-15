@@ -1,0 +1,25 @@
+<letter id="joj4020">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='6'>6th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+<a href='/results.php?tla=joj' rel=''>Mr. Jay</a> presents his compliments to <a href='/results.php?tla=gwa' rel='colleague'>General Washington</a>, 
+and encloses an extract from a letter in a certain degree 
+interesting. 
+</p><p>
+Extract of a letter from Major-<a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, of the 15th 
+March, <a href='/results.php?year=1779'>1779</a>, to the President of Congress. 
+</p><p>
+" The enclosed copy of my letter to <a href='/results.php?tla=gwa' rel='colleague'>General Washington</a>, of the 4th instant, in answer to his of the 14th ult. 
+from <a href='/results.php?city=middlebrook' rel='city'>Middlebrook</a>, will give Congress a true idea of my 
+opinion respecting our entering Canada, and the only route 
+which we can take with reasonable hopes of success. Individuals, and not the public, will be benefited by an expedition into Canada by either of the routes from <a href='/results.php?city=albany' rel='city'>Albany</a>. 
+That of Co-os alone is practicable, but not without the 
+co-operation of the allied fleet. 
+</p><p>
+"<a href='/results.php?tla=gwa' rel='colleague'>General Washington</a>'s letter of the 14th of February is 
+enclosed. It being the only letter I have received from his 
+excellency since December, Congress will immediately 
+judge of the extent or limitation which it is proper to observe in their instructions to me." 
+</p>
+</letter>

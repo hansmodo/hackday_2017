@@ -1,0 +1,24 @@
+<letter id="frm3905">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=ferguson swamp' rel='city origin'>FERGUSON SWAMP</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I have got thus far in my return from the Southward. I have been 
+within eight miles of Bacon Bridge, and have had a hard march for no 
+purpose. The General imagined the enemy was coming out, and is 
+still of the opinion they will take the field soon ; but I think they will 
+not without a reinforcement, which it seems they expect, as they have 
+don e for six months past. I hope the flag schooner is sailed; if so, 
+discharge Capt. Howell's crew and cutter. Col. Moultrie is to stay in 
+<a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, and collect his regiment; he will be of service to you at 
+least, will not keep you so much confined. I shall send Col. Maham 
+for the horses of your corps as soon as I hear from you. I intend to 
+leave you thirteen, but they must not be the best. I will send you 
+arms as soon as I get them from the high hills of Santee. 
+I am, yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

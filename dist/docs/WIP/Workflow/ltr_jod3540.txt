@@ -1,0 +1,59 @@
+<letter id="jod3540">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=amsterdam' rel='city origin'>Amsterdam</a>, 	<a rel="day origin" value='18'>18</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAREST PORTIA, 
+</p><p>
+I HAVE this morning sent Mr. Thaxter with my two 
+sons to Leyden, there to take up their residence for 
+some time, and there to pursue their studies of Latin 
+and Greek under the excellent masters, and there to 
+attend lectures of the celebrated professors, in that 
+university. It is much cheaper there than here. 
+The air is infinitely purer, and the company and conversation are better. It is perhaps as learned a university as any in Europe. 
+</p><p>
+I should not wish to have children educated in the 
+common schools in this country, where a littleness of 
+soul is notorious. The masters are mean spirited 
+wretches, pinching, kicking and boxing the children 
+upon every turn. There is besides a general littleness 
+arising from the incessant contemplation of stivers 
+and duits, which pervades the whole people. Frugality and industry are virtues every where, but avarice and stinginess are not frugality. The Dutch say 
+that without a habit of thinking of every duit before 
+you spend it, no man can be a good merchant, or 
+conduct trade with success. This I believe is a just 
+maxim in general, but I would never wish to see a son 
+of mine govern himself by it. It is the sure and certain 
+way for an industrious man to be rich. It is the only 
+possible way for a merchant to become the first mer 
+chant or the richest man in the place. But this is an 
+object that I hope none of my children will ever aim at. 
+It is indeed true, every where, that those who attend 
+to small expenses are always rich. 
+</p><p>
+I would have my children attend to duits and far 
+things as devoutly as the merest Dutchman upon 
+earth, if such attention was necessary to support 
+their independence. A man who discovers a disposition and a design to be independent seldom succeeds. 
+A jealousy arises against him. The tyrants are 
+alarmed on one side lest he should oppose them. 
+The slaves are alarmed on the other lest he should 
+expose their servility. The cry from all quarters is, 
+" He is the proudest man in the world. He cannot 
+bear to be under obligation." I never in my life ob 
+served any one endeavoring to lay me under particular obligations to him, but I suspected he had a de 
+sign to make me his dependent, and to have claims 
+upon my gratitude. This I should have no objection 
+to, because gratitude is always in one's power. But 
+the danger is, that men will expect and require more 
+of us than honor and innocence and rectitude will 
+permit us to perform. 
+</p><p>
+In our country, however, any man, with common 
+industry and prudence, may be independent. But to 
+put an end to this stuff, 
+</p><p>
+Adieu most affectionately adieu. 
+</p>
+</letter>

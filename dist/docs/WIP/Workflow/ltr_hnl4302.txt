@@ -1,0 +1,109 @@
+<letter id="hnl4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+My dear General, 
+</p><p>
+IN the full confidence you receive my letters as 
+testimonials of my unceasing respect, and from a solicitude to acquaint you -with all material contingencies in the administration of our national affairs, that 
+you may he able to form your judgment on authentic documents, and, consequently, that your opinions, 
+being bottomed on truth, may not fail to produce the 
+most beneficial effects to our country, I again address 
+you, and mean to confine myself to one subject, which 
+will, I apprehend, soon become the topic of public 
+debate. Among the defects which degrade the Constitution of the Federal Government, is the physical 
+impossibility of secrecy in the sovereignty. Therefore, 
+it is often necessary to make confidential communications, when they serve to correct the circulation of 
+erroneous informations on subjects of national concern, which, in their nature, are secret, but, from the 
+cause just mentioned, become public. Considering 
+myself, therefore, at full liberty to give you a history of this business, I will do it with brevity. 
+</p><p>
+We are told here that the decided difference which 
+prevailed in Congress on the proposed treaty with 
+Spain, is generally understood in every part of the 
+Union ; and it is suggested, that the project of the 
+treaty will become the subject of deliberation in the 
+Assembly of Virginia. 
+</p><p>
+True it is, that this affair unfortunately produced 
+an intemperance common in democratic bodies, and 
+always injurious to the interest of the public; for, to 
+judge wisely on systems and measures, the mind ought to be free from prejudice and warmth^ and influenced 
+by a full, deliberate view of the general effects of such system and measures. 
+</p><p>
+The Eastern States consider a commercial connection with Spain as the only remedy for the distresses 
+which oppress their citizens ; most of which, they say, 
+flow from the decay of their commerce. Their Delegates have, consequently, zealously pressed the formation of this connection, as the only effectual mode to 
+revive the trade of their country. In this opinion, 
+they have been joined by two of the Middle States. 
+On the other hand, Virginia has, with equal zeal, opposed the connection, because the project involves, expressly, the disuse of the navigation of the Mississippi 
+for a given time, and eventually, they think, will 
+sacrifice our right to it. The Delegation is under injunctions from the State on this subject. They have 
+acted in obedience to their instructions, and, myself 
+excepted, in conformity to their private sentiments. 
+I confess that I am by no means convinced of the 
+justness or policy of our instructions, and very much 
+apprehend, unless they are repealed by the present 
+Assembly, the fatal effects of discord in counsel wall 
+be experienced by the United States in a very high 
+degree. 
+</p><p>
+The project submitted by the Secretary for Foreign 
+Affairs w\as founded, as well as I can recollect, on 
+the following principles. First; the commerce between 
+the United States and the King of Spain, to be 
+founded on the principles of perfect reciprocity, which 
+reciprocity to be diffused in all the sub-regulations. 
+Secondly; the trade to be confined to his Catholic 
+Majesty's European dominions. Thirdly ; the bond fide 
+manufactures and produce of the respective countries, 
+imported into either, to be subject to the same duties 
+as are paid by the citizens and subjects of the two 
+nations. Fourthly ; a tariff to be established by Convention, within one year after the ratification of the 
+treaty, ascertaining the necessary duties to be imposed. Fifthly; masts and timber, annually requisite 
+for the navy of Spain, to be bought from the merchants 
+of the United States in preference, provided they are 
+equal in price and quality. 
+</p><p>
+There are some other matters, which I forget. In 
+consideration of the advantages of this treaty, the 
+United States stipulate to forbear, for the term of the 
+treaty, the use of the River Mississippi. The boundaries will be (in case of treaty) established, as fixed 
+in the definitive treaty of peace between the United 
+States and Great Britain. The article of tobacco is 
+excepted in the project, being the produce of Spanish 
+colonies, and is to continue on the present footing, 
+which is favorable. 
+</p><p>
+Thus have I delineated to you the outlines of the 
+proposed plan. Among the many arguments used by 
+the advocates for the treaty, I will mention only one, 
+which I think ought to be know^n. They say that 
+the right of the navigation of the Mississippi is disputed; that the use of that right is now suspended, 
+and cannot be possessed but by force or by treaty, 
+and that a forbearance of the use, on our part, is a 
+confirmation of our right ; the use of which right will 
+be in due time possessed, in consequence of the present project, without putting our claim to the issue 
+of war, which is always precarious, and for which we 
+are totally unprepared. 
+</p><p>
+Should this matter come before our Assembly, much 
+will depend on <a href='/results.php?tla=gem' rel='colleague'>Mr. Mason</a>'s sentiments. So many 
+reasons, founded on true policy, will arise in a full 
+investigation of this subject, that I cannot but hope that the State of Virginia will consider a treaty with 
+Spain, on the principles of the project, essentially 
+necessary to her political happiness, and to her commercial aggrandizement. 
+</p><p>
+The sedition in Massachusetts is, in some degree, 
+subsided, but is not, I fear, extinguished. 
+</p><p>
+Colonel Monroe, who was an Aid in Lord Stirling's 
+family, a Delegate from Virginia in Congress, will, in 
+a few days, return home with his lady. He means 
+to do himself the honor to pay his respects to Mount 
+Vernon in his way. My best respects to Mrs. Washington, with, &c., &c., 
+</p><p>
+<a href="/results.php?tla=hnl" rel="me">Henry Lee, Jr.</a>
+</p>
+</letter>

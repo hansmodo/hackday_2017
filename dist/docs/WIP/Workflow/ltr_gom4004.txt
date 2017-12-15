@@ -1,0 +1,18 @@
+<letter id="gom4004">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+misarna, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1813' rel="origin">1813</a>.
+</p><p> 
+My dear Friend, 
+</p><p>
+Last Tuesday evening my wife was delivered of a boy. I communicate that event because I believe it will give you 
+pleasure. Moreover, I wish you to be one of his godfathers. True it is, thai according to the usual course, you may not 
+be able to perform the duties of that office ; but, my friend should you be mingled with the dust, he shall learn from the 
+history of your life, that a man must be truly pious to be truly great. I do not fix the day, because I wish you 
+to come on in a fortnight or three weeks, when it best suits your convenience. I will then summon the priest and the other sponsors. 
+</p><p>
+Yours truly, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

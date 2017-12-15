@@ -1,0 +1,48 @@
+<letter id="smd7960">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> ], Thursday, <a rel="month origin" value="7">July</a> <a rel='day origin' value='23'>23d</a>. [<a href='/results.php?year=1863' rel='origin'>1863</a>]
+</p><p>
+It is bad policy to keep us from seeing the prisoners; it just sets us wild about them. Put a creature 
+you don't care for in the least, in a situation that 
+commands sympathy, and nine out of ten girls will 
+fall desperately in love. Here are brave, self-sacrificing, noble men who have fought heroically for us, 
+and have been forced to surrender by unpropitious 
+fate, confined in a city peopled by their friends and 
+kindred, and as totally isolated from them as though 
+they inhabited the Dry Tortugas! Ladies are naturally hero- worshipers. We are dying to show these 
+unfortunates that we are as proud of their bravery 
+as though it had led to victory instead of defeat. 
+Banks wills that they remain in privacy. Consequently our vivid imaginations are constantly occupied in depicting their sufferings, privations, hero 
+ism, and manifold virtues, until they have almost 
+become as demigods to us. Even horrid little Captain C- - has a share of my sympathy in his 
+misfortune ! Fancy what must be my feelings where 
+those I consider as gentlemen are concerned! It is 
+all I can do to avoid a most tender compassion for a 
+very few select ones. Miriam and I are looked on 
+with envy by other young ladies because some 
+twenty or thirty of our acquaintance have already 
+arrived. To know a Port Hudson defender is considered as the greatest distinction one need desire. 
+If they would only let us see the prisoners once to 
+sympathize with, and offer to assist them, we would 
+never care to call on them again until they are liberated. But this is aggravating. Of what benefit is it 
+to send them lunch after lunch, when they seldom 
+receive it? Colonel Steadman and six others, I am 
+sure, did not receive theirs on Sunday. We sent with 
+the baskets a number of cravats and some handkerchiefs I had embroidered for the Colonel. 
+</p><p>
+Brother should forbid those gentlemen writing, 
+too. Already a dozen notes have been received from 
+them, and what can we do? We can't tell them not to. 
+Miriam received a letter from Major Spratley this 
+morning, raving about the kindness of the ladies of 
+<a href='/results.php?city=new orleans' rel='city'>New Orleans</a>, full of hope of future successes, and 
+vows to help deliver the noble ladies from the hands 
+of their oppressors, etc. It is a wonder that such a 
+patriotic effusion could be smuggled out. He kindly 
+assures us that not only those of our acquaintance 
+there, but all their brother officers, would be more 
+than happy to see us in their prison. Position of 
+affairs rather reversed since we last met ! 
+</p><p>
+</letter>

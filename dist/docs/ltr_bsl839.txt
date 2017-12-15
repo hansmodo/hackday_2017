@@ -1,0 +1,11 @@
+<letter id='bsl839'>
+<recipient first='' last='' type='individual'/>
+<a href='/results.php?city=Los Angeles' rel='city origin'>Ciudad de Los Angeles</a><br/>  
+Feby <a rel='day origin' value='7'>7</a>, <a href="/results.php?year=1847">1847</a><br/>  
+E.H. Williams, Esq.,
+</p><p>
+This will serve to introduce you to adjutant, L.T. Talbot, Bearer of Dispatches from <a href="/results.php?tla=jhf" rel="colleague met">Gov. Fremont</a> to U.S. Govnt. Any Attention paid Mr. Talbot will be duly appreciated by your affectionate Bub.
+</p><p>
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>

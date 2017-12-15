@@ -1,0 +1,33 @@
+<letter id="jod3528">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=orient' rel='city origin'>Orient</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+WHEN I left Paris, the 8th of March, I expected to 
+have been at home before this day, and have done 
+my utmost to get to sea, but the embarrassments and 
+disappointments I have met with have been many, 
+very many. I have, however, in the course of them, 
+had a fine opportunity of seeing Nantes, L Orient 
+and Brest, as well as the intermediate country. 
+</p><p>
+By the gracious invitation of the King, I am now 
+to take passage in his frigate, the Sensible, with his 
+new Ambassador to America, the Chevalier de la Luzerne. I hope to see you in six or seven weeks. 
+Never was any man in such a state of uncertainty 
+and suspense as I have been from last October, entirely uninformed of the intentions of Congress concerning me. This would not have been very painful 
+to me if I could have got home. Your conversation 
+is a compensation to me for all other things. 
+</p><p>
+My son has had a great opportunity to see this 
+country ; but this has unavoidably retarded his education in some other things. He has enjoyed perfect 
+health, from first to last, and is respected wherever 
+he goes, for his vigor and vivacity both of mind and 
+body, for his constant good humor, and for his rapid 
+progress in French as well as his general knowledge, 
+which, for his age, is uncommon. I long to see his 
+sister and brothers. I need not add 
+</p>
+</letter>

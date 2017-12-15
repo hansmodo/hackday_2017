@@ -1,0 +1,39 @@
+<letter id="rhl4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=chantilly' rel='city origin'>Chantilly</a>, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The letter that you did me the honor to write to 
+me, on the 12th of June last, I did not receive until 
+two days ago. I impute this to my having been 
+obliged to leave the Assembly, by the ill state of my 
+health, a fortnight before it was adjourned. 
+</p><p>
+The very great respect that I shall ever pay to 
+your recommendations, would have been very sufficient to have procured my exertions in favor of <a href='/results.php?tla=tmp' rel='colleague'>Mr. Paine</a>, independent of his great public merits in our 
+revolution. I have a perfect knowledge of the extraordinary effects produced by that gentleman's writings ; effects of such an important nature, as would 
+render it very unworthy of these States to let him 
+suffer any where ; but it would be culpable indeed, 
+to permit it, under their own eye, and within their 
+own limits. I had not the good fortune to be present when <a href='/results.php?tla=tmp' rel='colleague'>Mr. Paine</a>'s business was considered in the 
+House of Delegates, or, most certainly, I should have 
+exerted myself in his behalf I have been told, that 
+a proposition in his favor miscarried, from its being 
+observed that he had shown enmity to this State, by 
+having written a pamphlet injurious to our claim of 
+western territory. It has ever appeared to me, that 
+this pamphlet was the consequence of <a href='/results.php?tla=tmp' rel='colleague'>Mr. Paine</a>'s 
+being himself imposed upon ; and that it was rather 
+the fault of the place than of the man. 
+</p><p>
+This, however, was but a trifle, when compared 
+with the great and essential services that his other 
+writings have done for the United States. 
+</p><p>
+I am, &c., &c., 
+</p><p>
+<a href="/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.. 
+</p>
+</letter>

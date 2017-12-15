@@ -1,0 +1,49 @@
+<letter id="gom4666">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='28'>28th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have just received your letter of yesterday, and it gives 
+me much pleasure to be able to congratulate you upon your 
+nomination, at the same time that I thank you for the friendly 
+sentiments you do me the honor to express for the United 
+States, as well on your own part, as on that of the French nation. The good will of the United States is by no means 
+equivocal, and my personal attachment to France is of long 
+standing, and sincere. I shall therefore feel double pleasure, 
+whenever opportunities occur for giving new strength to the 
+bonds which unite the two nations. I most ardently desire, 
+that nothing may disturb the harmony subsisting between 
+them. 
+</p><p>
+Permit me, Sir, at this time, to renew to you my solicitations respecting the decree of the Convention of May 28th. 
+I learn with satisfaction the daily arrival of wheat and flour, 
+sent to you from America, but I feel some uneasiness respecting that which has not yet arrived. Indeed, how can the enemies of France be prevented from following, with regard to 
+us, the example she has set them, and especially England, 
+who, not being restrained by the faith of treaties, (since we 
+have made none with her,) will follow no impulse but that of 
+her own interests. And how can we complain of it, after the 
+marked preference we have given to France, and the decree 
+of the 9th of May ? 
+</p><p>
+I say nothing to you, Sir, of the impression which this decree will necessarily produce in America. I would rather that 
+such considerations should be presented to you, by your own 
+reflections, than in consequence of mine. But it is of moment 
+that the Convention should come to a definitive decision, be 
+cause this delay, leaving the decree in force, exposes you to 
+all the inconveniences which must result from it, and without 
+any advantage. I ought moreover to observe to you that it 
+will be very difficult, and perhaps impossible, to prevent your 
+privateers from committing illegal and outrageous acts, as long 
+as they are permitted to bring into your ports all the American vessels laden with eatables for countries at war with 
+France. I receive many complaints to this effect, and often 
+what was destined for another port is brought into a French 
+one, which is the cause of great inconveniences. I have the 
+honor to be, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

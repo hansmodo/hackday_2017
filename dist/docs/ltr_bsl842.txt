@@ -1,0 +1,25 @@
+<letter id='bsl842'>
+<recipient first='Amelia' last='' type='individual'/>
+<p>
+Convention Hall<br/>  
+Sept. Oct. <a rel='day origin' value='1'>1st</a>, <a href="/results.php?year=1849">1849</a>
+</p><p>
+Sister Amelia:
+</p><p>
+To you I again drop a few lines, my antipathy for corresponding certainly originates more from thoughtlessness, than from a desire to communicate with you all, but one letter can say to all that I enjoy the same good health & prospering slowly.
+</p><p>
+On the other side you have a design for the seal of the new State of California--with my usual desire of copying, I imitated the design recommended by the committee,& thought that none would appreciate it more, (however hastily sketched) than yourself. Here I go in my wild way of introducing to you almost an enig man without in the first place stating your brother is a member of the Great California Convention. Elected by the people & met to frame the constitution for this new starte--the particulars of which will probably be printed in journals at home. I was elected from San Joaquin district one of the two richest portions of California and receiving one more vote than any delegate from the same district. T.Lloyd Vermule sits along side of me & I can assure you no disgrace to our representation. So you will see I am again in politics, but only for the consumation of one object; vis-a-vis, to prove to my friends at home that I have warm friends here, & those who support me.--Again I am desirous to see <a href="/results.php?tla=jhf" rel="colleague met">Col. Fremont</a>, a Senator from this state, who will certainly come on as soon as we are admitted. We have much talent here & many aspiring & prominent men, but they have "never seen it rain here yet." Mr. Beale now rooms with me & will come on the "wings of Mercury" with our Constitution when completed. He will call & see you if in New York.
+</p><p>
+<a href="/results.php?tla=jhf" rel="colleague met">Col. Fremont</a> & family are here & I had the pleasure to hear from Mrs. F. the other day that a chair at her table was always vacant for me. Oh, what a splendid lady--you would be pleased with her. She is certainly instructive & amusing & Oh! how bitter when she chooses.
+</p><p>
+My prospects are the same & when I last wrote home my business in the mines has proved lucrative & my investments in land good. We have removed the seat of Gov. to San Jose de Guadalupe, where fortunately I owned 31 lots, which only advanced 20 percent. I sold my last lot in <a href='/results.php?city=san francisco' rel='city'>San Francisco</a> on the first of September, which cost me $400, for $2,000 dols. This I have reinvested.
+</p><p>
+You will soon hear of a new town called "Eureka," which I have the honor of locating & having surveyed. It is situated in my district nearer the southern mines than any other town. Mr. Blair, a partner, steams the San Joaquin, has arrived to run exclusively to our town, & and <a href="/results.php?tla=jhf" rel="colleague met">Col. Fremont</a>, also a partner, has discovered a mine, not a placer, which pours out riches inexhaustible, but a short distance from the site.
+</p><p>
+Ned Beal is very anxious to have me accompany him home, but I would sacrifice so much & the previous lesson has taught me to be patient. I was desirous to see you all, which induced me to sell out before which property now is worth over $200,000 dols.--should I be successful, this winter, will come to see you all in the spring as communication is now so easy by the Isthmus.
+</p><p>
+A Mr. Savage, Foster, & myself formed a Co. which went in operation last April--& just the other day news came to me they had with the Indians under our control, got out 38 pounds of gold in one day, but I have no positive assurance of this fact, but have no doubt they are very successful.
+</p><p>
+I recd. from Jno L. Stephens a long letter, he has (condescended), last steamer, offering any assistance, but prosperity does not need it--however--I advised him to make a spec. offering to take an equal share. What his answer will be I cannot say, but he may possibly accept. The house is adjourned and I am ow waiting at my room--Ned lies dozing on the bed, waiting with anxiety the results of our labours. [The abrupt ending and the lack of a signature suggest that a page is missing from this letter.]
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id='swk8001'>
+<recipient first='Robert' last='Stockton' type='individual'/>
+<p>
+<a href='/results.php?city=san diego' rel='city origin'>San Diego</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Dear Commodore : If you can take from here a sufficient force to oppose the Californians 
+now supposed to be near the Pueblo and waiting for the approach of <a href="/results.php?tla=jhf" rel="colleague">Lieutenant-Colonel Fremont</a>, I advise you to do so, and that you march with that force as early as possible in the 
+direction of the Pueblo, by which you will either be able to form a junction with <a href="/results.php?tla=jhf" rel="colleague">Lieutenant-Colonel Fremont</a> or make a diversion very much in his favor. 
+</p><p>
+I do not think that <a href="/results.php?tla=jhf" rel="colleague">Lieutenant-Colonel Fremont</a> should be left unsupported to fight a battle upon which the fate of California may, for a long time, depend, if there are troops here to act 
+in concert with him. Your force, as it advances, might surprise the enemy at the Saint Louis Mission, and make prisoners of them. 
+</p><p>
+I shall be happy, in such an expedition, to accompany you, and to give you any aid, either of head or hand, of which I may be capable. 
+</p><p>
+Yours truly, 
+</p><p>
+<a href="/results.php?tla=swk" rel="me">S. W. Kearny</a>, Brigadier-General. 
+</p><p>
+To Commodore Stockton, 
+</p><p>
+Commanding United States Forces, San Diego. 
+</p>
+</letter>

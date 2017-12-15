@@ -1,0 +1,20 @@
+<letter id="nib5332">
+<recipient first="Samuel" last="Jaudon" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="6">June</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+I have but a moment, as usual, to write, as the Bank is closing, &amp; the mail for the Sirius going. 
+The repeal of the Specie Circular has been followed by a fresh defeat in the rejection of the Sub-Treasury. Mr Buchanan has renewed the matter of the special deposit, but it will fail. 
+</p><p>
+In England we should have seen an instant change of ministry. Here ministers are engaged on wages for a year &amp; 
+however they may misbehave, will serve out their term. On the 9th of July, Congress will adjourn and then the Administration, poor &amp; dispirited, will be brought to reason as wild beasts are tamed by hunger. 
+</p><p>
+Remember that whatever you may read to the contrary, the repeal of the Specie Circular &amp; the defeat of the Sub 
+Treasury are the results, exclusively, of the course pursued 
+by the Bank of the U.S. If we had done as the <a href='/results.php?city=new york' rel='city'>New York</a> 
+Banks had, succumbed to the Gov't  &amp; resumed when they did, it would have been a surrender at discretion. I was 
+willing to risk the temporary overshadowing to have a permanent sunshine; and I think we shall soon have it. . . 
+</p>
+</letter>

@@ -1,0 +1,15 @@
+<letter id="jhm3903">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The bearer, Mr. Shrewsbury, you are better acquainted with than I, therefore, I shall say no more concerning him than recommend him to 
+be disposed of as you shall think .proper. If you think he can be use fully employed in his profession, you will do so; if not, he must do his 
+duty as a militia man. If you approve of neither, you may either send him back to town, or do what you please with him. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

@@ -1,0 +1,28 @@
+nicholas biddle			nib
+henry clay				hec
+daniel webster			web
+james monroe			jam
+john calhoun			jcc
+richard rush			rir
+john forsyth			jof
+john tyler				jot
+bejamin crowninshield	bwc
+andrew jackson			anj
+john quincy adams		jqa
+Martin Van Buren		mvb
+George McDuffie			gmd
+Albert Gallatin			alg
+William Wirt			wiw
+Aaron Burr				aab
+James Barbour			jab
+john sergeant			jse
+thomas cadwalader		tmc
+roswell colt			roc
+robert lenox			rbl
+william lewis			wll
+charles davis			chd
+thomas cooper			tac
+samuel smith			sas
+charles ingersoll		chi
+
+edward livingston?		edl

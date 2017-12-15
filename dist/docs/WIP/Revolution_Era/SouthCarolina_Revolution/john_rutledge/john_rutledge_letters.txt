@@ -1,0 +1,301 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.b85Uw5 on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--jhr
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Rutledge
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jhr3900">
+<recipient name="Convention of North Carolina" type="group"/>
+<p>
+SPEECH OF HIS EXCELLENCY, J. RUTLEDGE. 
+</p><p>
+<a rel="month origin" value="9">Sept.</a> <a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Honorable Gentlemen of the Legislative Council, 
+</p><p>
+Mr. Speaker and Gentlemen of the General Assembly : 
+</p><p>
+I think it my duty to pay this tribute of applause to those brave 
+troops who, in repelling the formidable British armament which at 
+tacked them on Sullivan's Island, vainly flattering themselves with an 
+assurance of easy conquest, displayed firmness and intrepidity that 
+would have reflected honor on Roman veterans; and I must heartily 
+congratulate you on their heroic behavior. It is an auspicious presage 
+of what may be expected from the valor of our other troops, when theirs
+shall be the post of danger, as it demonstrates that men, animated by 
+an ardent zeal for the sacred liberties of their country, and trusting in 
+the Divine support, are capable of the most glorious achievements. 
+</p><p>
+The Cherokee Indians having committed such barbarous acts of 
+hostility as threatened desolation to the frontier settlements, at a time 
+when the enemy lay in view of this town, and an attack on it was daily 
+expected, a considerable force was immediately sent into that nation to 
+obtain satisfaction for their cruel outrages, by acting with the greatest vigour. Our people have behaved with much spirit. It has pleased God to grant very signal success to their operations, and I hope, by His 
+blessing on our arms, and those of North Carolina and Virginia, from 
+whom I have promises of aid, an end may soon be put to the war. 
+</p><p>
+Since your last meeting, the Continental Congress have declared the 
+united colonies free and independent States, absolved from allegiance to 
+the British crown, and the political connection between them and 
+Great Britain totally dissolved an event which necessity had rendered 
+not only justifiable, but unavoidable. This declaration, and several 
+resolves of that honorable body, received during your recess, shall be 
+laid before you. I doubt not you will take such measures as may be 
+requisite, in consequence of them. A well-regulated militia being 
+essential to the preservation of our freedom, I am persuaded you will 
+think, with me, that your time cannot be better employed than in framing a law for making such improvements in the militia as may produce 
+the most beneficial consequences. 
+</p><p>
+It is not improbable that, at the season appointed for the meeting of 
+the next Assembly, the business of legislation must yield to that of a 
+different nature, and it behoves us to employ the time of the enemy's 
+absence in making the best preparations for defence, and enacting such 
+laws as the present exigencies demand. I have, therefore, thought it 
+for the public service to call you together now, that you may deliberate 
+on these matters, which tend to the interest and security of the State. 
+</p><p>
+I shall propose what, in the course of your session, appear to me, 
+and be happy in receiving your advice on, and concurring with you, in 
+any that may effect these important objects. 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3901">
+<recipient name="Convention of North Carolina" type="group"/>
+<p>
+MESSAGE FROM THE PRESIDENT RELATIVE TO A FORT AT CHERAW HILL. 
+</p><p>
+<a rel="month origin" value="9">September</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Mr. Speaker and Gentlemen: 
+</p><p>
+On the 7th of May I was informed, by a letter from the Committee of Secrecy, War and Intelligence, in North Carolina, of their having 
+received advice that the enemy, who then lay in Cape Fear River, had planned a descent at the mouth of Little River, near the borders of 
+this colony, in order to attempt a passage into the back country of that, by the Lake of Waccamaw. Having occasion to confer with the Hon. 
+Colonel Powell on this subject, he urged very strongly to me the absolute necessity of building a stockade fort, and keeping a garrison, at 
+the Cheraw Hill, as a security against incursions of the disaffected about Cross Creek, and for preventing or suppressing insurrections, 
+which they might occasion amongst our own people, near the North Carolina line events which, he feared, especially, if the intended junction between the British forces and the malcontents in that province; 
+had taken place. I thought so much attention and respect due to the representation of a gentleman in his station, who was well acquainted 
+with that part of the country, and had the command of a large regiment there, as to lay it before the council for their advice, which I did. 
+He attended them, and on considering what he offered on this head, they were unanimously of opinion that it was necessary to erect a fort, 
+and keep only a garrison, in consequence of which I gave orders for that purpose. 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3902">
+<recipient first="William" last="Drayton" type="individual"/>
+<p>
+HIS EXCEuLENCY JOHN RUTLEDGE TO HON. WM. HENRY DRAYTON. 
+</p><p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="11">Nov.</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+SIR: 
+</p><p>
+Enclosed you will receive an extract from the Journals of the Privy Council, a consequence of which, you will be pleased to repair to the 
+Convention of North Carolina, and use your utmost endeavors to obtain such aid is the Council recommend should be applied for to that State. 
+I am, sir, 
+</p><p>
+Your very humble servant, 
+</p><p>
+JOHN RUTLEDGE. 
+</p>
+</letter><letter id="jhr3903">
+<recipient first="PAT." last="TONYN." type="individual"/>
+<p>
+<a href='/results.php?city=st. augustine' rel='city origin'>ST. AUGUSTINE</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR : A sense of duty and humanity for the people at large, induces 
+me to transmit to you the enclosed Proclamation and intelligence for 
+their information, and I doubt not in justice to them, you will make as 
+public as possible. 
+</p><p>
+I am, sir, your most obedient and humble servant, 
+</p><p>
+PAT. TONYN. 
+</p><p>
+JOHN RUTLEDGE, ESQ. 
+</p>
+</letter><letter id="jhr3904">
+<recipient first="Robert" last="Goodwyn" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLESTOWN</a>, S. C., <a rel="month origin" value="2">February</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1779' rel="origin">1779</a>, 
+</p><p>
+SIR: 
+</p><p>
+You are immediately to detach two hundred and fifty men, rank and 
+file, of your regiment, properly armed and accoutred, with the necessary number of officers, the whole under the command of a field officer, 
+to join and put themselves under the orders of Brig. -Gen. Williamson, to assemble and encamp the remainder of your regiment at Friday's 
+Ferry, on the twenty-third day of February, inst., there to wait any further orders. 
+</p><p>
+Your men may be assured, that any arrears of pay shall be very soon settled and discharged; that, in future, they will receive their pay 
+with more regularity than heretofore ; that, in all probability, the pay 
+of privates will be augmented by an ordinance now before the Legislature, to a dollar per day, and that everything in the town shall be done 
+to render their situation, on service, as comfortable as possible, and I trust that I shall be readily and cheerfully obeyed. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3905">
+<recipient first="Christopher" last="Gadsden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR: 
+</p><p>
+I presume the draught has been made of a fourth part of your regiment, for patrol duty, according to the directions I gave some time ago, 
+and expected that the remainder would have been in town before now. I 
+think it necessary, that a field officer should be here with them you 
+will be pleased to repair hither, with such of the regiment as are not 
+to do patrol duty, as soon as possible. The persons belonging to your 
+regiment, who have taken protection, are to be tried here by a court 
+from that regiment. It is therefore necessary, in order that their case 
+may be decided, that a part of the regiment should be here you will 
+suffer such other as Mr. Harden names to go with him on a particular 
+piece of business, which I have committed to his charge; you will order 
+all the evidences against the plunderers you've sent down, to repair 
+hither immediately, that they may be brought to trial for their offences 
+before a Court Martial. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3906">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a rel="month origin" value="6">JUNE</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR: 
+</p><p>
+It will be necessary that you send down as soon as you can, the witnesses against the several prisoners brought by Lieut. Cone, that they 
+may be brought to trial, by a Court Martial, which they cannot be 
+without the witnesses being here. Be pleased to cause the proclamations herewith sent to be made known in the district of your regiment. 
+I am sir, your humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3907">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+SIR: 
+</p><p>
+As your regiment may be more usefully employed at present near 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> river, to guard their settlements and prevent the depredations 
+of the enemy in that part of the country, than by acting with the continental troops under Col. Pinckney ; you will be pleased to make the 
+best disposition of it, for that purpose. 
+</p><p>
+I am, sir, your most humble servant, 
+</p><p>
+J. RUTLEDGE, 
+</p>
+</letter><letter id="jhr3908">
+<recipient first="" last="" type="individual"/>
+<p>
+J. RUTLEDGE TO B&gt; G. 
+</p><p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="2">Feb.</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1780' rel="origin">1780</a>, 
+</p><p>
+SIR: 
+</p><p>
+I desire that you will immediately embody one-third of your regiment 
+and procure as many volunteers as you can from it, properly armed and 
+prepared to proceed, and send a Field Officer with them to Charles 
+Town, with the utmost despatch. 
+</p><p>
+I am in haste, sir, 
+</p><p>
+your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p><p>
+P. S. Volunters serving as drafted militia shall have the same pay and allowance of salt, as these militia. Pray have the inclosed resolutions generally and speedily made known throughout your regiment. 
+</p>
+</letter><letter id="jhr3909">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR: 
+</p><p>
+I desire that you will immediately cause the contents of this letter 
+and the enclosed Proclamation to be circulated, and generally made 
+known throughout the district of your regiment, in order that delinquents and offenders may be made known of the consequences which will 
+ensue from a neglect or refusal of their duty to the State. You are to 
+order one-half of your regiment immediately to this town, and transmit 
+to me as soon as possible a list of those who are, or may be drafted 
+or ordered to march, to the end that it may be known who are defaulters to be effected by the Proclamation, which they may be assured will 
+be carried into execution. People may be satisfied that the small pox is 
+not in town, but if it was, I should not admit the circumstance as an 
+excuse for the militia not coming down when ordered ; if they will not 
+come, they must abide the present as well as future consequences. I 
+repeat in the most positive and peremptory terms, that I must have one-half of your regiment here, with the utmost expedition; that part of the 
+regiment which remains in the district are to do patrol duty, for keeping 
+the negroes in order, and be employed in suppressing any insurrections 
+of the disaffected and in apprehending and securing persons who go 
+about (as I am informed many do) making it their business to propagate 
+false news, spread groundless reports, and sow discontent among the 
+people; such persons are to be safely conveyed to me, with the witnesses 
+against them. I shall expect the utmost exertions of yourself, and the 
+officers under you, to carry every part of these orders strictly and speedily into execution. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3910">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR: 
+</p><p>
+As I think it proper to form a respectable camp on the north side of <a href='/results.php?city=santee' rel='city'>Santee</a> River, at Col. Macdonald's plantation, called Wright's Bluff, 
+near the road leading from Manigault's and Gaillard's ferries to Camden, as soon as possible, (not only to cover and secure the country, but 
+to proceed towards Charlestown, in order to compel the enemy to raise the siege of that place), I desire you will use your utmost endeavors 
+to meet me there with as many volunteers as you can collect; but if they should not amount to a third, with one-third (to be drafted) 
+of your regiment, properly armed and accoutred, as soon as they can be resembled. I persuade myself that a consideration of the important service which this measure may render, will induce you to use 
+your utmost exertions to procure the men, and then to turn out cheerfully and speedily on this occasion, especially as the circumstances to which the country militia seem averse, viz. the being confined 
+in town, will not happen for I don't mean to lead them thither. There are, I hope, men enough in town to defend it against an attack; 
+but I think we should relieve our brethren there by obliging the enemy to give up the siege, and deliver the State from the calamities of war, 
+by forcing the enemy to abandon the country, which, as I expect considerable aid from the northward, I doubt not they will soon be under 
+the necessity of doing, if our militia will exert themselves as they ought. You will bring with you all the waggons, cattle and provisions, you can collect, but don't delay your march unnecessarily to wait for them. 
+Dispatch is essential. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter><letter id="jhr3911">
+<recipient first="Robert" last="Goodwyn" type="individual"/>
+<p>
+J. RUTLEDGE TO COL. GOODWYN. 
+</p><p>
+<a href='/results.php?city=georgetown' rel='city origin'>GEORGE TOWN</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR: 
+</p><p>
+I think it proper to acquaint you, and I desire that you will immediately make it known, throughout your regiment, that I expect to be 
+met by the full number which I have called for, from it, at Wright's Bluff, with the utmost expedition, and that every defaulter may be 
+assured, that my Proclamation of last month, shall most certainly be carried strictly into execution against him. As a further means of put 
+ting those who may not incline to come out, in a way of rendering service to their country, which perhaps, they may do, when they have left 
+their own homes, and joined the army, that I hope to have soon collected, I desire that you will cause those, who from love and zeal for 
+their country, march readily to bring with them, as many as they possibly can, of such as are lukewarm, or desirous of remaining inactive, 
+rather than of defending the State. I rely on your utmost exertions to procure the force required, as soon as possible. 
+</p><p>
+And am, sir, your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>.
+</p><p>
+P. S. You will immediately appoint Commissioners (men of integrity and judgment,) in the district of your regiment, to make provision, 
+at the public expense, for the subsistence of such families as may suffer 
+by their parents or husbands being absent on militia duty. 
+</p>
+</letter>

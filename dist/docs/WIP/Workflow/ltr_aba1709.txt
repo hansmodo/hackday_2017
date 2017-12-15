@@ -1,0 +1,51 @@
+<letter id="aba1709">
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href="http://www.familytales.org/results.php?city=boston" rel="city">Boston</a> Garrison, 22 September, <a href="http://www.familytales.org/results.php?year=1774">1774</a>. 
+</p><p>
+I HAVE just returned from a visit to my brother with 
+my father, who carried me there the day before yesterday, and called here on my return, to see this 
+much injured town. I view it with much the same 
+sensations that I should the body of a departed 
+friend ; as having only put off its present glory, to 
+rise finally to a more happy state. I will not despair, 
+but will believe, that, our cause being good, we shall 
+finally prevail. The maxim, " In time of peace prepare for war," (if this may be called a time of peace,) 
+resounds throughout the country. Next Tuesday they 
+are warned at <a href="http://www.familytales.org/results.php?city=braintree" rel="city">Braintree</a>, all above fifteen and under 
+sixty, to attend with their arms ; and to train once a 
+fortnight from that time is a scheme which lies much 
+at heart with many. 
+</p><p>
+Scott has arrived, and brings news that he expected to find all peace and quietness here, as he left 
+them at home. You will have more particulars than 
+I am able to send you, from much better hands. 
+There has been in town a conspiracy of the negroes. 
+At present it is kept pretty private, and was discovered by one who endeavoured to dissuade them from 
+it. He being threatened with his life, applied to Justice Quincy for protection. They conducted in this 
+way, got an Irishman to draw up a petition to the 
+Governor, telling him they would fight for him provided he would arm them, and engage to liberate 
+them if he conquered. And it is said that he attended so much to it, as to consult Percy upon it, and 
+one Lieutenant Small has been very busy and active. There is but little said, and what steps they 
+will take in consequence of it I know not. I wish 
+most sincerely there was not a slave in the province ; 
+it always appeared a most iniquitous scheme to me 
+to fight ourselves for what we are daily robbing and 
+plundering from those who have as good a right to 
+freedom as we have. You know my mind upon 
+this subject. 
+</p><p>
+I left all our little ones well, and shall return to 
+them to-night. I hope to hear from you by the return of the bearer of this, and by Revere. I long 
+for the day of your return, yet look upon you as 
+much safer where you are, but know it will not do 
+for you ; not one action has been brought to this 
+court, no business of any sort in your way, all 
+law ceases, and the gospel will soon follow ; for they 
+are supporters of each other. Adieu, my father hurries me. 
+</p><p>
+Yours most sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=aba" rel="me">ABIGAIL ADAMS</a>.
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id="frm3924">
+<recipient first="Nathanael" last="Greene" type="individual"/>
+<p>
+<a href='/results.php?city=watbo' rel='city origin'>WATBO</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yesterday I received a letter from Major Call, at Smith s, in Goose Creek. By his account, he expected the enemy was out; but I have 
+heard from Haddrell's and Daniel's Island late yesterday, and no troops are out. Marquis Rockingham's death has made a change of ministers, 
+Lord Shelburn at the head, who is our most inveterate enemy, which I conceive will prolong the war ; however, I have certain intelligence that 
+steps are still taken to evacuate, and am very sanguine it will take place by the 15th of next month. If your cavalry will take post on 
+Goose Creek, it would secure my right, and I would have a better opportunity to shut up my left; they being so near in your front, would 
+prevent every necessary from being carried in town, and secure your position and mine; the communication would be so near each other, 
+that a reciprocal support would be had in three hours. I must beg pardon for this hint; I wish not to exceed the station I am in, and pay every deference to your judgment. Should the enemy attempt 
+me, I am determined not to quit this ground without I am forced. I have now thrice the number of men in the field that I had when Frazer 
+made his appearance, and I trust I can make my men stand their ground. I could wish a more frequent intercourse of intelligence could 
+be between us. At present I am acting without the materials from the Southward to form a judgment of my security. I have the honor to be, with great respect and esteem, 
+</p><p>
+Your obedient servant, 
+</p><p>
+[<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.]
+</p>
+</letter>

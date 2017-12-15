@@ -1,0 +1,21 @@
+<letter id="mbc7562">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a rel='month origin' value='5'>May</a> <a rel='day origin' value='25'>25</a>, <a href='/results.php?year=1861' rel="origin">1861</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C.]. We have come 
+back to South Carolina from the Montgomery Congress, stopping over at Mulberry. We came with 
+<a href='/results.php?tla=rmh' rel='acquaintance met'>R. M. T. Hunter</a> and Mr. Barnwell. Mr. Barnwell has excellent reasons for keeping cotton at home, but I forget 
+what they are. Generally, people take what he says, also 
+<a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter's</a> wisdom, as unanswerable. Not so Mr. Chesnut, who growls at both, much as he likes them. We also 
+had Tom Lang and his wife, and Doctor Boykin. Surely there never was a more congenial party. The younger men 
+had been in the South Carolina College while Mr. Barnwell 
+was President. Their love and respect for him were immeasurable and he benignly received it, smiling behind 
+those spectacles. 
+</p><p>
+Met John Darby at Atlanta and told him he was Surgeon of the Hampton Legion, which delighted him. He 
+had had adventures. With only a few moments on the platform to interchange confidences, he said he had remained a little too long in the Medical College in Philadelphia, where he was some kind of a professor, and they had 
+been within an ace of hanging him as a Southern spy. " Rope was ready," he sniggered. At Atlanta when he 
+unguardedly said he was fresh from Philadelphia, he barely escaped lynching, being taken for a Northern spy. Lively 
+life I am having among you, on both sides, he said, hurrying away. And I moaned, " Here was John Darby like to have been killed by both sides, and no time to tell me 
+the curious coincidences." What marvelous experiences a little war begins to produce. 
+</p>
+</letter>

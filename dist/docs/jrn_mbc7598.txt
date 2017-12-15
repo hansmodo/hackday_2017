@@ -1,0 +1,9 @@
+<letter id="mbc7598">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='31'>31st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Congress adjourns to-day. Jeff Davis ill. We go home on Monday if I am able to travel. Already I feel the dread stillness and torpor of our Sahara of a Sand Hill creeping into my veins. It chills the marrow 
+of my bones. I am reveling in the noise of city life. I know what is before me. Nothing more cheering than the 
+cry of the lone whippoorwill will break the silence at Sandy Hill, except as night draws near, when the screech-owl will 
+add his mournful note. 
+</p>
+</letter>

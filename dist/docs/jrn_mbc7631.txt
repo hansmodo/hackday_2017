@@ -1,0 +1,30 @@
+<letter id="mbc7631">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='29'>29th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. A grand smash, the news from New Orleans fatal to us. Met Mr. Weston. He wanted to know 
+where he could find a place of safety for two hundred negroes. I looked into his face to see if he were in earnest; 
+then to see if he were sane. There was a certain set of two hundred negroes that had grown to be a nuisance. Apparently all the white men of the family had felt bound to stay at home to take care of them. There are people 
+who still believe negroes property like Noah's neighbors, who insisted that the Deluge would only be a little shower 
+after all. 
+</p><p>
+These negroes, however^ were Plowden Weston's, a to tally different part of speech. He gave field-rifles to one 
+company and forty thousand dollars to another. He is away with our army at Corinth. So I said: " You may 
+rely upon Mr. Chesnut, who will assist you to his uttermost in finding a home for these people. Nothing belonging to 
+that patriotic gentleman shall come to grief if we have to take charge of them on our own place. Mr. Chesnut did 
+get a place for them, as I said he would. 
+</p><p>
+Had to go to the Governor's or they would think we had hoisted the black flag. Heard there we are going to 
+be beaten as Cortez beat the Mexicans by superior arms. Mexican bows and arrows made a poor showing in the face 
+of Spanish accoutrements. Our enemies have such superior weapons of war, we hardly any but what we capture from 
+them in the fray. The Saxons and the Normans were in the same plight. 
+</p><p>
+War seems a game of chess, but we have an unequal f number of pawns to begin with. We have knights, kings, 
+queens, bishops, and castles enough. But our skilful Generals, whenever they can not arrange the board to suit them 
+exactly, burn up everything and march away. We want them to save the country. They seem to think their whole 
+duty is to destroy ships and save the army. 
+</p><p>
+Mr. Robert Barnwell wrote that he had to hang his head for South Carolina. We had not furnished our quota 
+of the new levy, five thousand men. To-day Colonel Chesnut published his statement to show that we have sent thir 
+teen thousand, instead of the mere number required of us ; so Mr. Barnwell can hold up his head again. 
+</p>
+</letter>

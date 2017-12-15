@@ -1,0 +1,27 @@
+<letter id="jhc3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The honorable command given me lately by Congress, would have been very agreeable, if I had not 
+conceived the war to be near the close. You may remember, in the last conversation I had with your Excellency, I gave my reasons fully for declining any command in the army. 
+</p><p>
+It is no small mortification to me, that, by not entering early into the service, I lost the opportunity 
+of sharing the honors which many officers have gained by serving under your command. 
+</p><p>
+The civilities I received from you, whilst I remained in your family at camp, will ever be remembered 
+with gratitude ; and if our affairs should again take 
+an unfortunate turn, be assured you have not a friend 
+more ready than I shall be to share your dangers. 
+</p><p>
+I most sincerely wish you may live to see the 
+liberties of your country established upon the broadest foundation ; which I know has ever been your only object, from the beginning of this contest. I 
+am, clear Sir, with the greatest esteem, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhc" rel="me">JOHN CADWALADER</a>. 
+</p>
+</letter>

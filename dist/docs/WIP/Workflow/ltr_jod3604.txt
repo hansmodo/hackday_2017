@@ -1,0 +1,29 @@
+<letter id="jod3604">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='9'>9</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE Senate assembled yesterday at eleven, twenty- 
+five members present. The new senators were 
+sworn, and a committee waited on the President, who 
+immediately sent a message with the treaty, which 
+was read, together with part of a volume of negotiations which accompanied it. Mr. Butler and Mr. Green arrived last night, as I hear, so that we shall 
+be very full. 
+</p><p>
+I can form no conjecture of the time when the Sen 
+ate will adjourn. The President and lady, and Miss 
+Nelly, make many kind inquiries concerning you and 
+Mrs. Smith, &c, &c. 
+</p><p>
+Your curiosity, I doubt not, is all alive. But 
+mum mum mum. 
+</p><p>
+Enclosed is a mysterious poem for your amusement. 
+</p><p>
+Yours, as ever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

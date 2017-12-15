@@ -1,0 +1,48 @@
+<letter id="laf3707">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+There is no fighting here, unless you have a naval 
+superiority, or an army mounted upon race-horses. 
+Phillips's plan against <a href='/results.php?city=richmond' rel='city'>Richmond</a> has been defeated. 
+He was going towards <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, and I thought it 
+would be enough for me to oppose him at some principal points in this State. But now it appears I shall 
+have business to transact with two armies, and this 
+is rather too much. By letters from North Carolina 
+I find that Lord Cornwallis, who, I had been assured, 
+had sailed for <a href='/results.php?city=charleston' rel='city'>Charleston</a>, is advancing towards <a href='/results.php?city=halifax' rel='city'>Halifax</a>. In consequence of letters from the same quarter, 
+General Phillips has altered his plan, and returned to 
+a place called Brandon, on the south side of James 
+River, where he landed the night before last. Our 
+detachment is under march towards the <a href='/results.php?city=halifax' rel='city'>Halifax</a> road. 
+His command of the water enabled him to land where 
+1 could not reach him. The bridge at Petersburg is 
+destroyed; and unless he acts with an uncommon degree of folly, he will be at <a href='/results.php?city=halifax' rel='city'>Halifax</a> before we are. 
+Each of these armies is more than double the superior to me. we have no boats for militia, and less 
+arms. I will try to do for the best, and hope to deserve your approbation. 
+</p><p>
+Nothing can abstract my sight from the supplies 
+and reenforcements destined to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>'s army, while I am going to get beaten by both armies, 
+or each of them separately. The Baron remains at 
+<a href='/results.php?city=richmond' rel='city'>Richmond</a>, where he hurries the collection of recruits, 
+and every other requisite. I have forbidden every 
+department to give me any thing that may be thought 
+useful to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> ; and should a battle be expected (an event which I will try to keep off), no 
+consideration will prevent our sending to Carolina 
+eight hundred recruits, who, I hope, may be equipped 
+in a fortnight. When <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> becomes equal 
+to offensive operations, this quarter will be relieved. 
+I have wrote to Wayne to hasten his march ; but, unless I am very hard pushed, I shall request him to 
+proceed southward. The militia has been ordered out, 
+but are now unarmed, and not yet used to this business. <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, from whom I have as yet no 
+letters, was, on the 2Gth, before Camden, but did not 
+think himself equal to the storming of the works. 
+</p><p>
+Most respectfully, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

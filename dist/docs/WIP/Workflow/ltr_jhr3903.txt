@@ -1,0 +1,17 @@
+<letter id="jhr3903">
+<recipient first="PAT." last="TONYN." type="individual"/>
+<p>
+<a href='/results.php?city=st. augustine' rel='city origin'>ST. AUGUSTINE</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR : A sense of duty and humanity for the people at large, induces 
+me to transmit to you the enclosed Proclamation and intelligence for 
+their information, and I doubt not in justice to them, you will make as 
+public as possible. 
+</p><p>
+I am, sir, your most obedient and humble servant, 
+</p><p>
+PAT. TONYN. 
+</p><p>
+JOHN RUTLEDGE, ESQ. 
+</p>
+</letter>

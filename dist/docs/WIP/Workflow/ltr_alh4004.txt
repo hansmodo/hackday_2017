@@ -1,0 +1,39 @@
+<letter id="alh4004">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="12">December</a> 	<a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Your favours of the 26th November and 10th inst. have 
+duly come to hand. I am ashamed that the former has 
+remained so long unacknowledged; though I am persuaded 
+my friends would readily excuse my delinquencies, could 
+they appreciate my situation. 'Tis not the load of proper 
+official business that alone engrosses me, though this would 
+be enough to occupy any man. 'Tis not the extra attentions I am obliged to pay to the course of legislative manoeuvres, that alone adds to my burthen and perplexity. 
+'Tis the malicious intrigues to stab me in the dark, against 
+which 1 am too often obliged to guard myself, that distract 
+and harass me to a point, which, rendering my situation 
+scarcely tolerable, interferes with objects to which friendship and inclination would prompt me. 
+</p><p>
+I have not, however, been unmindful of the subject of 
+your letters. Mr. Kino- will tell you the state the business 
+was in. Nothing material has happened since. The representation will probably produce some effect, though not 
+as great as ought to be expected. Some changes for the 
+better, I trust, will take place. 
+</p><p>
+The success of the vice-president is as great a source of 
+satisfaction, as that of Mr. Clinton would have been of mortification and pain to me. Willingly, however, would I 
+relinquish my share of the command to the anti-federalists, 
+if I thought they were to be trusted. But I have so many 
+proofs of the contrary, as to make me dread the experiment 
+of their preponderance. 
+</p><p>
+Very respectfully and affectionately, dear sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">A. Hamilton</a>. 
+</p>
+</letter>

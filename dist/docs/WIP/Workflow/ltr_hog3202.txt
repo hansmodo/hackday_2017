@@ -1,0 +1,34 @@
+<letter id="hog3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=danbury' rel='city origin'>Danbury</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am this moment honored with the receipt of your Excellency's letter of to-day's date. 
+</p><p>
+I am sorry for the disgrace we have suffered in 
+the Jerseys; but imagine that the enemy take ad 
+vantage of the supine ness that constantly seizes our people, when they have been long unmolested. This 
+is an evil, that even the best officers cannot remedy. 
+<a href='/results.php?tla=alm' rel=''>General McDougall</a>'s division will be put upon 
+the march immediately, as your Excellency has commanded. 
+</p><p>
+Your Excellency will excuse me when I say, I like 
+not the divided state of your army. The enemy are 
+upon the qui-vive ; they have the advantages of a 
+river, to navigate upon each of our flanks. To divide is to conquer, in politics. I hope it may not, with 
+regard to us, prove so in the war. 
+</p><p>
+I hope Lord Stirling and General Maxwell will answer all your Excellency's expectations in the Jerseys ; they certainly are best acquainted with that 
+country. 
+</p><p>
+Inclosed is a letter I have this moment received 
+from Major Tallmadge. Your Excellency will please 
+to order Colonel Pettit to supply the necessary articles. I am, Sir, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

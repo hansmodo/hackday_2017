@@ -1,0 +1,29 @@
+<letter id="jhm3917">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, Ashley River, <a rel="month origin" value="7">July</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I was not less surprised than concerned on receipt of your letter to 
+day, to find you at Wasmasaw, instead of being on the other side of Santee. Mr. Singleton, who was the express that carried the letter 
+for you, deserves to be hanged. Pray, find him out, and have him 
+confined, for he shall certainly answer for this infamous piece of negligence. Had you received the letter on Sunday morning, which was 
+the time you ought to have got it, <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> might, in all probability, 
+have been saved; but it must now, beyond all doubt, be lost. The last 
+of the British troops, 170 in number, did not quit Charlestown until 
+yesterday afternoon; you could, therefore, have been a full days march 
+ahead of them, besides, your then position being so much nearer the 
+scene of action than that of the enemy s. On the contrary, they will 
+now have a days march of you, consequently the fall of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> 
+must inevitably follow, and which must be a dreadful stroke to us. 
+The whole of the land forces said to be employed on this expedition is 
+about 700. If any thing can be done to save the place, or any part of 
+the stores, I am sure your utmost endeavors I can depend on. I am 
+convinced the opportunity is lost. Pray, let me hear from you as soon 
+as anything is done, and what is the fate of the place. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

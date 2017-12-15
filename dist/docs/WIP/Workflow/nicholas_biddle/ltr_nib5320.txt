@@ -1,0 +1,49 @@
+<letter id="nib5320">
+<recipient first="B" last="Leigh" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> Augt. <a rel='day origin' value='24'>24</a>. <a href='/results.php?year=1837' rel="origin">1837</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I had last evening the pleasure of receiving your letter of the 21st inst. and immediately hasten to perform the 
+sacred duty of defending the character of an honest man from the reptiles who avenge themselves for his superiority while 
+living, by crawling over his dead body. I think we shall be perfectly successful in presenting the following results. 
+</p><p>
+The argument in the case of McCullock &amp; the State of Maryland began, according to your statement on the 22d of 
+Feb'y <a href='/results.php?year=1819'>1819</a>, &amp; the decision of the court was pronounced on the 17th of March <a href='/results.php?year=1819'>1819</a>. 
+</p><p>
+Now of the 17 shares owned by the Judge Marshall on the 
+1st of Jan'y . <a href='/results.php?year=1819'>1819</a>, 12 were transferred on the 8th of Feb'y. 
+<a href='/results.php?year=1819'>1819</a>, under a power given by Judge Marshall on the 5th of 
+Feb'y. <a href='/results.php?year=1819'>1819</a>. 
+</p><p>
+For the remaining 5 he gave a power to transfer them on 
+the 21st of Jan'y . <a href='/results.php?year=1819'>1819</a>, though the transfer was not actually 
+made on the Books until the 26 th of March <a href='/results.php?year=1819'>1819</a>. 
+</p><p>
+So that in point of fact he was ostensibly the owner of five 
+shares at the time of the decision. 
+</p><p>
+Finding this I sent for Mr Cope, one of the Director's of 
+the Bank of the U.S. and nephew of the Mr Thomas V. Cope 
+named in the power of Atty. &amp; requested him to examine 
+the books of the House &amp; endeavored to find the evidences of 
+what I have no doubt was the fact, that Judge Marshall sold 
+the Stock at the time of giving the power of Attorney on the 
+21st of January, and that the purchaser neglected to send it 
+on till March to be transferred. 
+</p><p>
+I have kept my letter open in order to give the result of Mr Cope's enquiries, but as the period is so remote he has not 
+been able to complete his examination, &amp; promises to let me 
+know further tomorrow. He thinks however that he has ascertained that this stock was sent to the House by some per 
+son in Virg a with other parcels of stock to be transferred, &amp; 
+that the probility is that the correspondent in Virg a had purchased these five shares &amp; paid for them. 
+</p><p>
+I will postpone till tomorrow therefore the further examination, &amp; in the meantime send inclosed a certificate from 
+the Transfer Office &amp; certified copies of the powers of Attorney on file. It may be well to add, that in the power of Att y 
+of the 21st of Jany. <a href='/results.php?year=1819'>1819</a>, there is a blank for the name of the 
+Att'y and that the blank is filled up with the name of Thomas P Cope in the handwriting of Th 03 P Cope himself, whence I 
+infer that the power was given in blank by Judge Marshall 
+with the certificate &amp; sent to Mr Th os P Cope by his correspondent in Virg a . . . 
+</p>
+</letter>

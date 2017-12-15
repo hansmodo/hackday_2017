@@ -1,0 +1,13 @@
+<letter id="aab2612">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=richmond" rel="city origin">Richmond</a>, <a rel="month origin" value="8">August</a> <a rel="day origin" value="27">27th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+DEAR SIR : Mr. Luckett and I have an unsettled account to a considerable amount. He holds a bill indorsed 
+by you. If you can devise means to procure him any aid at this moment, it would gratify me much. 
+</p><p>
+Your faithful and obedient, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

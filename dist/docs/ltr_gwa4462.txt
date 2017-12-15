@@ -1,0 +1,28 @@
+<letter id="gwa4462">
+<recipient first="Benjamin" last="Tallmadge" type="individual"/>
+<p>
+TO MAJOR BENJAMIN TALLMADGE. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Fully impressed with the idea of the utility of early, regular, and accurate communication of the kind in contemplation, I shall make no difficulty in acceding to the 
+proposal contained in your private letter from Newport. But at the same time that I am engaging in behalf of the United States a liberal reward for the services of the 
+C s, of whose fidelity and ability I entertain a high opinion, it is certainly but reasonable, from patriotism 
+and every other principle, that their exertions should be proportionably great, to subserve essentially the interest 
+of the public. All the interior and minute arrangements of the correspondence I request that you will settle 
+with them as expeditiously and advantageously as may be, and especially that you will urge, in very forcible 
+terms, the necessity of having the communication as circumstantial, frequent, and expeditious as possible. 
+</p><p>
+The great objects of information you are very well acquainted with ; such as arrivals, embarkations, preparations for movements, alterations of positions, situations 
+of posts, fortifications, garrisons, strength or weakness of each, distribution and strength of corps, and, in general, every thing which can be interesting and important for us to know. 
+</p><p>
+Besides these, you are also sensible there are many things upon a smaller scale, which are necessary to be reported, and that whatever intelligence is communicated ought to be, not in general terms, but in detail, 
+and with the greatest precision. At present I am anxious to know (lor the reports have been very nunicroiis, 
+vague, and uncertain), whether another cniharkalion is 
+preparing, ani-l, it" so, to what amount, and where destined ; what the present force of the enemy is, particularly on Long Island, in <a href='/results.php?city=new york' rel='city'>New York</a>, and at Kingsbridge ; what corps are at the latter place, how strong, 
+and where posted exactly ; and, indeed, what the situation, prospects, and designs of the enemy are, so far 
+as they can be penetrated. I am, &,c. 
+</p>
+</letter>

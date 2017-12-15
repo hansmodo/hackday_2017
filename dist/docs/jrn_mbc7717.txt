@@ -1,0 +1,9 @@
+<letter id="mbc7717">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Old Mrs. Chesnut is dead. A saint is gone and James Chesnut is broken-hearted. He adored his mother. I gave $375 for my mourning, which consists of a black alpaca dress and a crape veil. With bonnet, gloves, and all it eame to $500. Before the blockade such things as I have would not have been thought "fit for a chamber-maid. 
+</p><p>
+Everybody is in trouble. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> says paper money has depreciated so much in value that they can not live 
+within their income ; so they are going to dispense with their carriage and horses. 
+</p>
+</letter>

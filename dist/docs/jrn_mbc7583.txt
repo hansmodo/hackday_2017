@@ -1,0 +1,17 @@
+<letter id="mbc7583">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Prince Jerome has gone to Washington. Now the Yankees so far are as little trained as we are ; raw 
+troops are they as yet. Suppose France takes the other side and we have to meet disciplined and armed men, soldiers 
+who understand war, Frenchmen, with all the elan we 
+boast of. 
+</p><p>
+Ransom Calhoun, Willie Preston, and Doctor Nott's boys are here. These foolish, rash, hare-brained Southern 
+lads have been within an ace of a fight with a Maryland company for their camping grounds. It is much too Irish 
+to be so ready to fight anybody, friend or foe. Men are thrilling with fiery ardor. The red-hot Southern martial 
+spirit is in the air. These young men, however, were all educated abroad. And it is French or German ideas that 
+they are filled with. The Marylanders were as rash and reckless as the others, and had their coat-tails ready for 
+anybody to tread on, Donny brook Fair fashion. One would think there were Yankees enough and to spare for any killing to be done. It began about picketing their horses. But these quarrelsome young soldiers have lovely manners. 
+They are so sweet-tempered when seen here among us at the Arlington. 
+</p>
+</letter>

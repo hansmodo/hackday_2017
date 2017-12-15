@@ -1,0 +1,22 @@
+<letter id="sid5039">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='7'>7th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+In consequence of my letter of the 24th ult. I had the honor of receiving the order of Congress of the 26th, directing me to attend on the 29th, at three o'clock in the afternoon, that day being assigned for my being heard ; I was 
+at the same time favored with extracts from Mr Izard's letters. On the 29th, I was served with an order of 
+Congress, which postponed my being heard to some future time. On the od instant an extract of a letter from the 
+honorable Arthur Lee, dated Paris, June 1st, <a href='/results.php?year=1778'>1778</a>, was given me by order of Congress. I have for some time past 
+waited with the greatest impatience for an opportunity of being heard before that honorable body, confident that my 
+peculiar situation will excuse my impatience. I must, without repeating what I have already had the honor of writing 
+to you, once more urge for as early an audience as the important business before Congress will admit of. 
+</p><p>
+I have the honor to be, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

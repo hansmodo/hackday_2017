@@ -1,0 +1,21 @@
+<letter id="usg7052">
+<recipient first="Robert" last="Lee" type="individual"/>
+<p>
+[<a href='/results.php?city=headquarters armies of the united states' rel='city origin'>HEAD-QUARTERS ARMIES OF THE UNITED STATES</a>]
+</p><p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1865' rel="origin">1865</a>. 
+GENERAL R. E. LEE 
+</p><p>
+Commanding Confederate States Army : 
+</p><p>
+GENERAL, Your note of last evening in reply to mine of the same date, asking the conditions on which I will accept surrender 
+of the Army of Northern Virginia, is just received. In reply I would say that, peace being my great desire, there is but one condition I would insist upon, namely, that the men and officers 
+surrendered shall be disqualified for taking up arms again against the government of the United States until properly exchanged. I 
+will meet you, or will designate officers to meet any officers you might name for the same purpose, at any point agreeable to you, 
+for the purpose of arranging definitely the terms upon which the surrender of the Army of Northern Virginia will be received. 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Lieutenant- General.
+</p>
+</letter>

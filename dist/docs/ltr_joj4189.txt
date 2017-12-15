@@ -1,0 +1,85 @@
+<letter id="joj4189">
+<recipient first="Richard" last="Peters" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, Westchester County, ) 
+</p><p>
+<a rel='day origin' value='11'>11th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1815' rel="origin">1815</a>.
+</p><p>
+Dear Sir, 
+</p><p>
+On reading your interesting letter of the 19th January, 
+I observed, with particular pleasure, from the manner and 
+matter of it, that, notwithstanding the winter of life, and 
+snow falling on your head, you endure like an evergreen. 
+</p><p>
+Your impression that " we should, ere long, have peace" 
+has been verified. If I remember right, you had heretofore an impression that Spain, although her case was apparently desperate, would get safe through her danger ; 
+and so it came to pass. Events having justified both these 
+impressions or opinions, I wish you may have another, viz. 
+that the peace will terminate the delusion which caused the 
+war. Several considerations incline me to expect that the 
+peace will diminish it, and particularly these : 
+</p><p>
+Unless discontents should arise between France and 
+Britain, French influence will not soon be very active in 
+America ; and, consequently, will not administer much fuel 
+to renew and feed a flame against England. The peace 
+will deprive the delusion of the sustenance it derived from 
+the patronage which the war create I. 
+</p><p>
+The abandonment of the professed objects of the war, 
+and that without compensation either in fact or expectation — the manifest incapacity and profusion with which the 
+war has been conducted — the attempts to force supplies of 
+men and money by conscription, &c. — and the immense 
+debt incurred and to be paid, without any value received — 
+all tend to withdraw confidence and good-will from our 
+political projectors ; nor can the continuance and operation 
+of war-taxes be congenial with the feelings of a people who, 
+if pagans, would dedicate more temples to Plutus than to 
+Minerva. 
+</p><p>
+These, and the like facts and considerations, will doubtless have the most weight with that portion of the community who have been misled, but who really mean well. 
+They will probably have some effect also on the more considerate of the others. As to the position, that " the people 
+always mean well," or, in other words, that they always 
+mean to say and to do what they believe to be right and 
+just, — it may be popular, but it cannot be true. The word 
+])coj)lc, you know, applies to all the individual inhabitants 
+of a country, collectively considered. That portion of 
+them who individually mean well, never was, nor until the 
+millennium will be, considerable. We have not heard of 
+any country, in which the great mass of the inhabitants 
+individually and habitually adhere to the dictates of 
+their consciences. We know how well demagogues and 
+pharisaical patriots mean. Having much of the wisdom of 
+this world, and little of that of the other, they will, like 
+their great predecessor Absalom, always mean and act 
+accordingly. 
+</p><p>
+Besides, <a href='/results.php?city=providence' rel='city'>Providence</a> sometimes chastises nations with 
+physical epidemics, and sometimes (by " choosing their 
+delusions") with moral epidemics, and after a while removes 
+them. This encourages hope ; for if we have arrived at 
+or near the pessimum of this evil, the melius cannot be far 
+distant. 
+</p><p>
+Accept my thanks for the book you was so kind as to 
+send me. I have found some good things in it, and shall 
+doubtless find more. Many of our citizens, who are more 
+than mere farmers, have of late years improved our agriculture. Would not a good American edition of Columella 
+be acceptable to them ? It gratifies curiosity, by showing 
+the state of agriculture at a remote period ; and, on several 
+topics, affords information which will be useful at any period 
+</p><p>
+I am glad you escaped and recovered so well from the 
+accident you mention. Kentucky racers, both literal and 
+figurative, will, it seems, have their capers. It would be 
+no loss to the public, if some of them were at the plou^li 
+Seek for " some honest, sober beast, that full softly treads," 
+and will not mar your meditations. 
+Adieu, my dear sir. 
+</p><p>
+Yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

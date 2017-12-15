@@ -1,0 +1,120 @@
+<letter id="laf3711">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=malvan hill' rel='city origin'>Malvan Hill</a>, <a rel='day origin' value='20'>20</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+This letter is not by any means directed to the 
+Commander-in-chief, but to my most intimate and longcherished friend. I will lay before you my circumstances and my wishes. Certain I am you will do 
+whatever you can for me, that is consistent with your 
+public duty. 
+</p><p>
+When I went to the southward, you know I had 
+some private objections. But I became sensible of 
+the necessity there was for the detachment to go, 
+and I knew that, had I returned, there was nobody 
+that could lead them on against their inclinations. 
+My entering this State was happily marked by a 
+service to the capital. Virginia became the grand 
+object of the enemy, as it was the point to which the 
+Ministry tended. I had the honor to command an 
+army, and oppose Lord Cornwallis. When incomparably inferior to him, fortune was pleased to preserve 
+us ; when equal in numbers, though not in kind of 
+troops, we have also been pretty lucky. Cornwallis 
+had the disgrace of a retreat, and this State being 
+recovered, Government is properly reestablished. The enemy are under the protection of their works at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>. 
+</p><p>
+It appears an embarkation is taking place, probably 
+destined to <a href='/results.php?city=new york' rel='city'>New York</a>. The war in this State would 
+then become a plundering one, and great manoeuvres 
+be out of the question. A prudent officer would do 
+our business here, and the Baron is so to the utmost. 
+would it be possible, my dear General, that in case 
+a part of the British troops go to <a href='/results.php?city=new york' rel='city'>New York</a>, I may 
+be allowed to join the combined armies ? I know the 
+command of a separate army ought not to be quitted. 
+But, besides the services I may render in the cooperation, some arrangements, which I leave to your 
+goodness for me to think of, may put me in a very 
+brilliant station. 
+</p><p>
+M. de Choisy, I am told, is very unhappy to be left 
+behind. Perhaps these French troops will be replaced 
+by militia, which requires a general officer; perhaps 
+a corps of observation in the Jerseys will be given 
+to another. The militia requires a Major-General, as 
+it will be very numerous. Does not <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> 
+take command of the Pennsylvania line, and will not 
+this line be forwarded to the southward, rather than 
+the New England light infantry ? So that, my dear 
+General, I hope something may be found for me in 
+the Continental part of the army; the more so, as it 
+seems it will form one of the divisions of the combined army under your command. 
+</p><p>
+I have calculated that nothing very material would 
+happen before September. By that time your forces 
+will be collected, clothed, and arranged ; a succour 
+from the West Indies may arrive ; you will then decide if the upper part of the Island, Long Island, 
+Staten Island, or <a href='/results.php?city=new york' rel='city'>New York</a> Island, is to be in our 
+possession. This letter goes to-day by a faithful servant. It will arrive on the 29th at camp. Your 
+answer might he with me so that I may leave on the 
+10th, and arrive at head-quarters about the 20th. 
+This matter I have not mentioned to any body, and 
+wish it may rest between you and me. Lord Cornwallis is every day inquiring about my going to the 
+Grand Army, which he says must be soon the case. 
+This induces me to think they believe you are in 
+earnest in your preparations. 
+</p><p>
+The command of this army has been a great matter for me. You may end this campaign of mine in 
+the most brilliant manner, by the command I may, 
+with some arrangements, get in the combined army. 
+The services I may render, with respect to the cooperation, may be a very good reason, and my coming unexpectedly, unless I have many senior officers 
+in the way, may entitle me to a great command. 
+Should not a great part of the operating army in 
+this quarter go to <a href='/results.php?city=new york' rel='city'>New York</a>, I would not trouble 
+you with my wishes to return to head-quarters. But 
+do not, I pray, believe I have the least notion of 
+calculating upon commands, though in my personal 
+circumstances they become peculiarly important to 
+me. If I may be of the least use to you, it will 
+make me happy to serve as a volunteer Aid-de-camp 
+to you. 
+</p><p>
+Since writing the inclosed, my dear General, an 
+officer of Tarleton's legion, who has been taken, was 
+brought to my quarters. He had much conversation 
+with my Aids-de-camp, and being an unguarded young 
+man, spoke very freely. He says Lord Cornwallis 
+and Colonel Tarleton are certainly going to New 
+York. He adds, the light infantry, and a regiment 
+of horse, do certainly embark for the same place. 
+Preference is given to such troops as were the most fatigued in their manoeuvres through Virginia. He 
+thinks the guards are to remain here ; does not know 
+the disposition of any other troops. I thought this 
+was worth mentioning to you. Would to God this 
+embarkation could be intercepted !
+</p><p>
+I have this day seen the order of battle. It appears to me <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> is not comprehended 
+in it. The Jersey troops, not being there, are, I presume, destined to a diversion with the New Jersey 
+militia. New England, or the whole body of the 
+militia, will perhaps furnish some general employment, so that I hope I may be put in, at all events. 
+I should be with you, and of course should be very 
+happy. 
+</p><p>
+Should the enemy remain quiet in this State, the 
+Baron might do very well. But if the siege of New 
+York does not succeed, and there is no place, I imagine you will march here in force. Adieu, my dear 
+General. You will not forget this letter is entirely 
+private, and by no means directed to the Commander-in-chief With every sentiment of respect, and the 
+most tender affection, I have the honor to be, my 
+dear General, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p><p>
+P. S. In case there is no appearance of a move 
+of the enemy, and no propriety in our going toward 
+<a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, I intend reconnoitring the grounds about 
+<a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a>, where, if I am made certain nothing 
+will happen in my absence, I may meet your letter. 
+</p>
+</letter>

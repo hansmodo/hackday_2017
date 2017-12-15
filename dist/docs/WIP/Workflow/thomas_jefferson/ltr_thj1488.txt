@@ -1,0 +1,136 @@
+<letter id='thj1488'>
+<recipient first='T' last='Hopkinson' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, January 3, <a href="/results.php?year=1786">1786</a>.
+</p><p>
+Dear Sir,
+</p><p>
+I wrote you last on the 25th of September. Since that I have received
+yours of October the 25th, enclosing a duplicate of the last invented
+tongue for the harpsichord. The letter enclosing another of them, and
+accompanied by newspapers, which you mention in that of October the
+25th, has never come to hand. I will embrace the first opportunity of
+sending you the crayons. Perhaps they may come with this, which I think
+to deliver to <a href='/results.php?tla=wib' rel='colleague met'>Mr. Bingham</a>, who leaves us on Saturday, for London. If, on
+consulting him, I find the conveyance from London uncertain, you shall
+receive them by a Mr. Barrett, who goes from hence for <a href="/results.php?city=New York" rel="city">New York</a>, next
+month. You have not authorized me to try to avail you of the new tongue.
+Indeed, the ill success of my endeavors with the last does not promise
+much with this. However, I shall try. Houdon only stopped a moment, to
+deliver me your letter, so that I have not yet had an opportunity of
+asking his opinion of the improvement. I am glad you are pleased with
+his work. He is among the foremost, or, perhaps, the foremost artist in
+the world.
+</p><p>
+Turning to your "Encyclopédie, Arts et Metiers", tome 3, part 1, page
+393, you will find mentioned an instrument, invented by a Monsieur Renaudin, for determining the true time of the musical movements, largo,
+adagio, &c. I went to see it. He showed me his first invention; the
+price of the machine was twenty-five guineas: then his second, which
+he had been able to make for about half that sum. Both of these had
+a mainspring and a balance-wheel, for their mover and regulator. The
+strokes are made by a small hammer. He then showed me his last, which is
+moved by a weight and regulated by a pendulum, and which cost only-two
+guineas and a half. It presents, in front, a dial-plate like that of
+a clock, on which are arranged, in a circle, the words "largo, adagio,
+andante, allegro, presto". The circle is moreover divided into fifty-two
+equal degrees. "Largo" is at 1, "adagio" at 11, "andante" at 22,
+"allegro" at 36, and "presto" at 46. Turning the index to any one of
+these, the pendulum (which is a string, with a ball hanging to it)
+shortens or lengthens, so that one of its vibrations gives you a crochet
+for that movement. This instrument has been examined by the academy of
+music here, who were so well satisfied of its utility, that they have
+ordered all music which shall be printed here, in future, to have the
+movements numbered in correspondence with this plexi-chronometer. I need
+not tell you that the numbers between two movements, as between 22 and
+36, give the quicker or slower degrees of the movements, such as the
+quick "andante", or moderate "allegro". The instrument is useful, but
+still it may be greatly simplified. I got him to make me one, and having
+fixed a pendulum vibrating seconds, I tried by that the vibrations of
+his pendulum, according to the several movements. I find the pendulum
+regulated to Largo
+</p><p>
+Every one, therefore, may make a chronometer adapted to his instrument.
+</p><p>
+For a harpsichord, the following occurs to me:
+</p><p>
+In the wall of your chamber, over the instrument, drive five little
+brads, as, 1, 2, 3, 4, 5, in the following manner. Take a string with
+a bob to it, of such length, as, that hung on No. 1, it shall vibrate
+fifty-two times in a minute. Then proceed by trial to drive No. 2, at
+such a distance, that drawing the loop of the string to that, the part
+remaining between 1 and the bob, shall vibrate sixty times in a minute.
+Fix the third for seventy vibrations, &c.; the cord always hanging over
+No. 1, as the centre of vibration. A person playing on the violin may
+fix this on his music-stand. A pendulum thrown into vibration will
+continue in motion long enough to give you the time of your piece. I
+have been thus particular, on the supposition that you would fix one of
+these simple things for yourself.
+</p><p>
+You have heard often of the metal called platina, to be found only in
+South America. It is insusceptible of rust, as gold and silver are, none
+of the acids affecting it, excepting the "aqua regia". It also admits
+of as perfect a polish as the metal hitherto used for the specula of
+telescopes. These two properties had suggested to the Spaniards the
+substitution of it for that use. But the mines being closed up by the
+government, it is difficult to get the metal. The experiment has been
+lately tried here by the Abbe Rochon (whom I formerly mentioned to
+Mr. Rittenhouse, as having discovered that lenses of certain natural
+crystals have two different and uncombined magnifying powers), and he
+thinks the polish as high as that of the metal heretofore used, and
+that it will never be injured by the air, a touch of the finger, &c. I
+examined it in a dull day, which did not admit a fair judgment of the
+strength of its reflection.
+</p><p>
+Good qualities are sometimes misfortunes. I will prove it from your
+own experience. You are punctual; and almost the only one of my
+correspondents on whom I can firmly rely, for the execution of
+commissions which combine a little trouble with more attention. I am
+very sorry however that I have three commissions to charge you with,
+which will give you more than a little trouble. Two of them are for
+Monsieur de Buffon. Many, many years ago, Cadwallader Golden wrote a
+very small pamphlet on the subjects of attraction and impulsion, a copy
+of which he sent to Monsieur de Buffon. He was so charmed with it, that
+he put it into the hands of a friend to translate, who lost it. It has
+ever since weighed on his mind, and he has made repeated trials to have
+it found in England. But in vain. He applied to me. I am in hopes, if
+you will write a line to the booksellers of <a href="/results.php?city=Philadelphia" rel="city">Philadelphia</a> to rummage
+their shops, that some of them may find it. Or, perhaps, some of the
+careful old people of Pennsylvania or New Jersey may have preserved a
+copy. In the King's cabinet of Natural History, of which Monsieur de Buffon has the superintendence, I observed that they had neither our
+grouse nor our pheasant. These, I know, may be bought in the market of
+<a href="/results.php?city=Philadelphia" rel="city">Philadelphia</a>, on any day while they are in season. Pray buy the male and
+female of each, and employ some apothecary's boys to prepare them, and
+pack them. Methods may be seen in the preliminary discourse to the first
+volume of Birds, in the "Encyclopédie", or in the Natural History of
+Buffon, where he describes the King's cabinet. And this done, you will
+be so good as to send them to me. The third commission is more distant.
+It is to precure me two or three hundred paccan nuts from the western
+country. I expect they can always be got at Pittsburgh and am in hopes,
+that by yourself or your friends, some attentive person there may be
+engaged to send them to you. They should come as fresh as possible,
+and come best, I believe, in a box of sand. Of this, Barham could best
+advise you. I imagine vessels are always coming from <a href="/results.php?city=Philadelphia" rel="city">Philadelphia</a> to
+France. If there be a choice of ports, Havre would be the best. I must
+beg you to direct them to the care of the American consul or agent at
+the port, to be sent by the Diligence or Fourgon. A thousand apologies
+would not suffice for this trouble, if I meant to pay you in apologies
+only. But I sincerely ask, and will punctually execute, the appointment
+of your "chargé des affaires" in Europe generally. From the smallest
+to the highest commission, I will execute with zeal and punctually, in
+buying, or doing any thing you wish, on this side the water. And you may
+judge from the preceding specimen, that I shall not be behind hand
+in the trouble I shall impose on you. Make a note of all the expenses
+attending my commissions, and favor me with it every now and then, and
+I will replace them. My daughter is well, and retains an affectionate
+remembrance of her ancient patroness, your mother, as well as of your
+lady and family. She joins me in wishing to them, and to Mr. and Mrs. Rittenhouse and family, every happiness. Accept, yourself, assurances of
+the esteem with which I am, Dear Sir,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p><p>
+
+P.S. What is become of the Lunarium for the King?
+</p>
+</letter>

@@ -1,0 +1,100 @@
+<letter id='mad1574'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, June 6th, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+DEAR SIR, The day fixed for the meeting of the Convention 
+was the 14th ultimo. On the 25th, and not before seven States 
+were assembled, <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> was placed, una voce, in 
+the chair. The secretaryship was given to Major Jackson. 
+The members present are: from Massachusetts; Mr. Gerry, Mr. 
+Gorham, <a href='/results.php?tla=ruk' rel='co-worker met'>Mr. King</a>, Mr. Strong. From Connecticut; Mr. Sherman, Doctor S. Johnson, Mr. Ellsworth. From <a href="/results.php?city=new york" rel="city">New York</a>; 
+Judge Yates, Mr. Lansing, <a href='/results.php?tla=alh' rel='colleague'>Mr. Hamilton</a>. New Jersey; Governor Livingston, Judge Brearley, Mr. Patterson, Attorney 
+General; [Mr. Houston and Mr. Clarke are absent members.] 
+From Pennsylvania; <a href='/results.php?tla=ben' rel='colleague'>Dr. Franklin</a>, <a href='/results.php?tla=rom' rel='co-worker'>Mr. Morris</a>, Mr. Wilson, 
+Mr. Fitzsimmons, Mr. G. Clymer, <a href='/results.php?tla=thm' rel=''>General Mifflin</a>, <a href='/results.php?tla=gom' rel='co-worker'>Mr. Gouverneur Morris</a>, Mr. Ingersoll. From Delaware; Mr. John Dickenson, Mr. Reed, Mr. Bedford, Mr. Broome, Mr. Bassett. From 
+Maryland; Major Jenifer only. Mr. McHenry, Mr. Daniel 
+Carroll, Mr. John Mercer, Mr. Luther Martin, are absent 
+members. The three last have supplied the resignations of 
+Mr. Stone, Mr. Carroll of Carrolton, and Mr. T. Johnson, as 
+I have understood the case. From Virginia; <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, Governor Randolph, Mr. Blair, Col. Mason, Doctor 
+McClurg, J. Madison. Mr. Wythe left us yesterday, being 
+called home by the serv.us declension of his lady's health. 
+From North Carolina; Col. Martin, late Governor, Doctor 
+Williamson, Mr. Spaight, Col. Davy; Col. Blount is another 
+member, but is detained by indisposition at <a href="/results.php?city=new york" rel="city">New York</a>. From 
+South Carolina; Mr. John Rutledge, <a href='/results.php?tla=ccp' rel='colleague'>General Pinckney</a>, Mr. 
+Charles Pinckney, Major Pierce Butler; Mr. Laurens is in 
+the Commission from that State, but will be kept away by the 
+want of health. From Georgia; Col. Few, Major Pierce, formerly of <a href="/results.php?city=williamsburg" rel="city">WILLIAMSBURG</a>, and aid to <a href='/results.php?tla=nag' rel=''>General Greene</a>, Mr. Houston. Mr. Baldwin will be added to them in a few days. 
+Welton and Pendleton are also in the deputation. New 
+Hampshire has appointed Deputies, but they are not expected, 
+the State treasury being empty, it is said, and a substitution of 
+private resources being inconvenient or impracticable. I mention this circumstance to take off the appearance of backwardness, which that State is not in the least chargeable with, if we 
+are rightly informed of her disposition. Rhode Island has not 
+yet acceded to the measure. As their Legislature meet very 
+frequently, and can at any time be got together in a week, it is possible that caprice, if no other motive, may yet produce a 
+unanimity of the States in this experiment. 
+</p><p>
+In furnishing you with this list of names, I have exhausted 
+all the means which I can make use of for gratifying your 
+curiosity. It was thought expedient, in order to secure unbiassed discussion within doors, and to prevent misconceptions 
+and misconstructions without, to establish some rules of caution, 
+which will for no short time restrain even a confidential communication of our proceedings. The names of the members 
+will satisfy you that the States have been serv.us in this business. The attendance of <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> is a proof of the 
+light in which he regards it. The whole community is big 
+with expectation, and there can be no doubt but that the result 
+will in some way or other have a powerful eifect on our 
+destiny. 
+</p><p>
+<a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>' book, which has been in your hands, of course 
+has excited a good deal of attention. An edition has come out 
+here, and another is in the press at N. York. It will probably 
+be much read, particularly in the Eastern States, and contribute, 
+with other circumstances, to revive the predelictions of this 
+country for the British Constitution. Men of learning find 
+nothing new in it; men of taste many things to criticise; and 
+men without either, not a few things which they will not understand. It will, nevertheless, be read and praised, and become 
+a powerful engine in forming the public opinion. The name 
+and character of the author, with the critical situation of our 
+affairs, naturally account for such an effect. The book also has 
+merit, and I wish many of the remarks in it which are unfriendly to republicanism may not receive fresh weight from 
+the operations of our governments. 
+</p><p>
+I learn from Virginia that the appetite for paper money 
+grows stronger every day. <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a> is an avowed patron 
+of the scheme, and will not fail, I think, to carry it through, 
+unless the County [Prince Edward] which he is to represent 
+shall bind him hand and foot by instructions. I am told that 
+this is in contemplation. He is also said to be unfriendly to an 
+acceleration of Justice. There is good reason to believe that 
+he is hostile to the object of the Convention, and that he wishes 
+either a partition or total dissolution of the Confederacy. 
+</p><p>
+I sent you a few days ago, by a vessel going to France, a box 
+with peccan nuts planted in it. Mr. John Vaughan was so 
+good as to make arrangements with the captain, both for their 
+preserv.ion during the voyage and the conveyance of them 
+afterwards. I had before sent you, via England, a few nuts 
+sealed up in a letter. 
+</p><p>
+Mr. Wythe gave me favorable accounts of your nephew in 
+<a href="/results.php?city=williamsburg" rel="city">WILLIAMSBURG</a> ; and from the President of Hampden Sidney, 
+who was here a few days ago, I received information equally 
+pleasing of your younger nephew. 
+</p><p>
+I must beg you to communicate my affectionate respects to 
+our friend Mazzei, and to let him know that I have taken every 
+step for securing his claim on Dorman which I judged most 
+likely to succeed. There is little doubt that Congress will 
+allow him more than he owes Mr. Mazzei, and I have got from 
+him such a draught on the Treasury board as I think will ensure 
+him the chance of that fund. Dorman is at present in Virginia, 
+where he has also some claims and expectations, but they are 
+not in a transferable situation. I intended to have written to 
+Mazzei, and must beg his pardon for not doing it. It is really 
+out of my power at this time. 
+</p><p>
+Adieu. Yours affectionately. 
+</p>
+</letter>

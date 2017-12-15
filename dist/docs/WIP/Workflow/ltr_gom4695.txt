@@ -1,0 +1,269 @@
+<letter id="gom4695">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='6'>6th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>, 
+</p><p>
+Dear Sir, 
+</p><p>
+My last was of the 21st of January. I am still without any 
+advices from you since your letters by Captain Culver, which 
+I attribute to the interruptions, to which all communication 
+with this country is exposed, and which for that, among many 
+other reasons, I much lament. Amid the political storms 
+which vex this hemisphere, the opinion of the United States is 
+the polar star, which should guide my course, but which is to 
+tally concealed from my view. 
+</p><p>
+Hoskins, whose imprisonment I mentioned in my last, has 
+been liberated. I mentioned also that there had been some 
+feeble attempts to adopt lenient measures, and substitute a 
+government of law to the present system ; but hinted, at the 
+same time, my apprehension that they would prove unsuccessful. You will see by the late decree that this apprehension 
+was well founded, and that entire reliance is placed on severity and the resulting fear. This may perhaps succeed, 
+but is exposed to a double danger. First, it facilitates the intrigues and the operations of the foreign enemy, by exciting 
+attachment to the former, and aversion to the present government ; and, secondly, it breaks the minds of the people, and 
+prepares them for an abject submission to an usurper, should 
+any such arise in the course of successful war, either civil or 
+foreign. 
+</p><p>
+I have mentioned Mr Paine's confinement. Major Jackson, 
+who, by the bye, has not given me a letter from you, which he 
+says was merely introductory, but left it with the Comite de Surete Generate as a kind of letter of credence, Major Jack 
+son, relying on his great influence with the leaders here, stepped 
+forward to get Mr Paine out of gaol, and, with several other 
+Americans, has presented a petition lo that effect, which was 
+referred to that Committee and the Comite de Saint Public. 
+This last, I understand, slighted the application as totally 
+irregular ; and some time afterwards Mr Paine wrote me a 
+note, desiring I would claim him as an American, which I accordingly did, though contrary to my judgment, for reasons 
+mentioned in my last. The Minister's letter to me of the first Ventose, of which I enclose a copy, contains the answer to my 
+reclamation. I sent a copy to Mr Paine, who prepared a long 
+answer, and sent it to me by an Englishman, whom I do not know. 
+</p><p>
+I told him, as Mr Paine's friend, that my present opinion 
+was similar to that of the Minister, but I might, perhaps, see occasion to change it, and in that case, if Mr Paine wished it, I 
+would go on with the claim, but that it would be well for him to 
+consider the result, that if the government meant to release him 
+they had already a sufficient ground ; but if not, I could only 
+push them to bring on his trial for the crimes imputed to him ; 
+seeing that, whether he be considered as a Frenchman, or as 
+an American, he must be amenable to the tribunals of France 
+for his conduct while he was a Frenchman, and he may aee in 
+the fate of the Brissotins that to which he is exposed. I have 
+heard no more of the affair since ; but it is not impossible that 
+he may force on a decision, which, as far as I can judge, 
+would be fatal to him ; for, in the best of times, he had a larger share of every other sense than of common sense, and lately 
+the intemperate use of ardent spirits has, I am told, consider 
+ably impaired the small stock, which he originally possess 
+ed. 
+</p><p>
+The plan communicated to you of a requisition on all bankers, merchants, and others, to furnish bills for their funds 
+abroad, and receive payment in Assignats at par, has totally 
+failed, as might have been supposed. It was the boy in the 
+fable who killed the goose which laid golden eggs. As a succedaneum, they have obliged the same people to execute joint 
+and several obligations (billets solidaires) payable to the bearer for fifty millions of livres, say a forced loan of two millions 
+sterling. These are to be negotiated in foreign countries, and 
+the nation agrees to take them up again hereafter. What is 
+somewhat extraordinary is, that a few of the monied men 
+seem to believe in the success of this measure ; but I own I 
+can scarcely conceive of it, for if foreigners believe in the ultimate success of the Republic, and in the integrity of her future 
+government, the intervention of private credit would be unnecessary ; and, if not, it must be useless ; because, should 
+the Republic be overturned, the plea of duress, by the individuals who have signed, must defeat all hope of recovery ; and 
+because, if the Republic succeedirig, should be deficient in her 
+integrity, the individuals would be of course covered by law 
+against all judicial pursuit. Add to this, that there is a kind 
+of absurdity in signing such obligations, by which the richest 
+man binds himself for four times as much as he is worth. On 
+this pin, however, is suspended, for the present, all hope of 
+facing numerous and pressing engagements for indispensable 
+supplies from abroad. 
+</p><p>
+I told you in former letters, that I apprehended a great 
+scarcity of food for the present, or rather the coming campaign, should the Allied Powers persist in their hostility. 
+</p><p>
+They do persist, though the King of Prussia, taking advantage of circumstances, insists on being paid for the blood of 
+his subjects. Food is already very scarce. Flesh is hardly 
+to be obtained in Paris, and the drought of last summer reduced the crop of garden produce so low, that it is now nearly exhausted, and no great addition to be expected for three 
+long months. 
+</p><p>
+You, who know the abundance of former times, will per 
+haps form a better judgment by price than by description. 
+Take therefore, as a sample, cabbages twenty-four sous, and 
+carrots eight sous a piece, and other things in proportion ; 
+sea fish are reduced in quantity, by reason of the war and 
+the total want of flesh on the sea coast, to a degree incredible. 
+For instance, the wealthiest families in Rouen, Havre, &ic. 
+are obliged for many succeeding days to content themselves 
+with two or three pounds of very bad salt pork, half a pound 
+of bread each, and such few vegetables as they can procure. 
+The distant departments have many of them been at short allowance for three months past ; others for a shorter period ; 
+and Paris has been supplied as long as possible. But the re 
+sources for flesh being at an end, the bulk of the inhabitants 
+must soon come to bread alone. Now supposing a very 
+doubtful fact, that the magazines of corn are sufficient for 
+common times, and that no difficulty be experienced in the 
+manufacturing and transportation, yet, as the consumption of 
+that article must be increased by the want of all others, very 
+serious evil is to be apprehended. As I write, I recollect 
+some other articles of price, which during my late residence in 
+Paris I heard mentioned. Eggs ten sous each, and salted 
+herrings the same price. These last were the only things, 
+which the poor could get the day before I left town, viz. the 
+first of March, and these bad. Pulse is at thirty sous a 
+quart. 
+</p><p>
+The enemy is collecting himself for an immense effort on 
+the northern frontier. The troops of the Republic have long 
+been assembling in the same quarter. Will the supplies be 
+sufficient for the army and for the capital ? That is a question of serious magnitude. If Paris runs resty, the revolution 
+is done. If the army disbands, the game is equally over. 
+And such events have taken place since the government 
+adopted terror for its maxim and support, that if once that 
+terror were, by superior force, to receive a counter direction 
+the Ancien Regime, or any other Regime, would, I think, be 
+submitted to without the slightest struggle. 
+</p><p>
+The Vendee, so often and so totally destroyed in reports 
+made to the Convention, seems still to exist, and to wait for 
+the meditated descent from Great Britain, to break out with 
+more violence than ever. If the royalists should again collect 
+an army in that quarter, I believe it will become on both sides 
+a war of extirpation. Torrents of blood have been already 
+shed there, and, if the accounts from thence be not greatly exaggerated, another campaign like the last would convert the 
+whole country into a desert. Barrere, in assigning at the bar 
+of the Convention the causes of the present scarcity, said, that 
+the Vendee, which used to furnish Paris market weekly with 
+six hundred large beeves, now wants provisions ! 
+</p><p>
+I have often had occasion to mention the embargo laid at 
+Bordeaux, and the sufferings of our countrymen consequent 
+upon it. I have also mentioned the arrival of a deputation 
+from that port to solicit the business in Paris. The day pre 
+ceding their arrival the Minister told me, that everything 
+should be settled to my satisfaction in two or three days. The 
+deputation, to whom I communicated this intelligence, seemed 
+very apprehensive lest their claims for damages should be referred to persons on the spot, which I own appeared to me 
+both fair and natural; but they assigned reasons against it, 
+which were satisfactory to themselves, and as they were determined to have everything adjusted in their own way, and 
+were well convinced that their representations must have the 
+desired effect; as they seemed, moreover, to be filled with 
+suspicions of Mr Fenwick, which seemed to me ill founded, 
+and therefore very liable to adopt them in respect to any other 
+of the public servants, I thought it best to leave the business to 
+their own management. I asked them, therefore, what they 
+wished me to do, after having shown them what had already 
+been done. They hesitated a little, as is usual when men 
+have not thought of any course of procedure before they be 
+gin to act. They desired an introduction to the Minister, 
+which I immediately gave, and they went to him next day, 
+but came back much out of humor. They afterwards presented a petition to the Convention, which was referred to the Comite de Salut Public, and there the affair seems to have 
+ended, for all their urgency to that Committee has not got 
+them one inch forward. 
+</p><p>
+I apprehend that they may have injured their own claim, by 
+interfering unnecessarily in other matters; one instance of 
+which I shall presently have occasion to mention. They have 
+at length called on me to make new demands, declaring their 
+intention to abandon the property of their vessels. I expected 
+that they would have gone back, but find that they determine 
+to remain still longer in Paris, which may, I fear, prove detrimental. 
+</p><p>
+However, on the twenty-seventh of last month, the day after I received their letter, I wrote to the Minister on the subject. I send herewith a copy of my letter, with one of the 
+same date respecting the vessels and cargoes brought in by 
+French frigates, contrary not only to our own treaty, but to 
+every principle of the law of nations. These captures create 
+great confusion, must produce much damage to mercantile 
+men, and are a source of endless and well founded complaint. 
+Every post brings me piles of letters about it from all quarters, 
+and I see no remedy. You have a copy of the Minister's answer to my letter, holding out the hope of a speedy decision; 
+but it may be very long before it can be obtained. And, in 
+the mean time, if I would give way to the clamors of the injured parties, I ought to make demands very like a declaration of 
+war. 
+</p><p>
+What am I to do in such cases ? It is impossible for me to guess the intentions of government, and indeed, Sir, the 
+responsibility is great and distressing. Our countrymen here 
+find, that it is the easiest thing in the world to carry any point 
+with the Committees, until they have tried. In the mean time, 
+I am exposed to their clamors in this country, and most 
+probably to their censures in my own, for not performing 
+impossibilities. In order to complete the business, nothing 
+more is necessary, than that the rulers of this Republic, 
+wearied with my complaints, should apply for my recall, in 
+order to get rid of a troublesome fellow. I think it is very 
+likely to happen, if it be not already done. I beg your par 
+don, Sir, for saying so much of myself, but it is a troublesome 
+thing to navigate in the dark between Scylla and Charybdis, 
+without chart or compass. 
+</p><p>
+I send you enclosed the copy of a letter I received on the 
+fifth of last month from a number of Americans here, (including therein some of the Bordeaux deputation,) with a copy 
+of my answer of the sixth. I sent copies of both to the 
+Minister of Foreign Affairs, and called on him shortly after to 
+mention several things, some of which I have already noticed. 
+Among them was the long depending affair of the Laurens, at Havre, and the decrees made in her case violating our treaty. 
+I took occasion then to mention again, what I had said in 
+answer to the letter from my countrymen, viz. that I was in 
+hourly expectation of instructions respecting those decrees. I 
+told him that, until they arrived, I should forbear any formal 
+application ; but, under the existing circumstances, I would in 
+a friendly manner take leave to express some single idea ; that, 
+if the government meant to abide by the treaty, they had 
+better anticipate the arrival of those instructions, and by a 
+voluntary step preserve an air of dignity and good faith. But 
+if, on the contrary, they meant to persist in the violation, then 
+it would be well to consider the events likely to take place, 
+and to provide for them in season. He felt much obliged by 
+this mode of treating the affair, and told me that the thing was 
+already before the Committee in the case of the Laurens, and that he would endeavor to procure a speedy and satisfactory decision. 
+</p><p>
+You will find herein the report made by Jean Bon St 
+Andre, which is fully confirmatory of the treaty. Some little 
+matters (errors) of form have impeded the execution of the final 
+decision, and the communication which he is to make to me ; 
+but I thought it a proper moment to bring forward the case of 
+the Enterprise, which is the subject of the above mentioned 
+letter from Ingraham and others to me. I, therefore, having 
+previously concerted measures with the Minister, prepared a 
+short petition from Captain Ingraham to the Comite de Salut 
+Public, as an appeal . from the decision of the Executive 
+Council, and sent it to the Minister, who forwarded it to the 
+Committee, and intends to support before them the principles 
+of the petition, and labor for a reversal of the judgment. 
+</p><p>
+I send you enclosed the copy of my letter to the Minister of 
+the 22d of last month, respecting the imprisonment of our 
+Vice Consul at Havre, and of his answer. I shall pursue this 
+business to obtain his liberation. Poor CofTyn is still con 
+fined. 
+</p><p>
+While on the subject of violations of personal liberty, it is 
+proper to communicate a step, which late circumstances induced me to take. I have already hinted at a little dispute I had 
+with the Comite de Surete Generale. It arose about the ar 
+rest of a person in my house. Particular reasons prevented 
+me from pushing the matter to a serious issue then. I shall 
+perhaps, take occasion to communicate them hereafter, when I 
+am sure of my conveyance. The Committee were made sensible that they had done wrong, and that was all which I 
+thought necessary. 
+</p><p>
+They have since (though not towards me) gone greater 
+lengths, by arresting the Charge d AfFaires of Malta. This rendered it proper to make a more pointed animadversion on their 
+conduct, and produced the enclosed pieces of the 27th of 
+February. The Minister's answer of the eleventh Ventose is 
+also enclosed, and I find by the gazettes, that on the report of 
+the Comite de Salut Public a decree has been passed in the 
+premises, of which I have not yet received communication 
+from the Minister. 
+</p><p>
+The Comite de Salut Public and the Comite de Surete Generale are not, I am told, on the best terms together, and will 
+probably come to something more overt than words ere long. 
+It is of little importance under what forms parties or factions 
+may present themselves ; their real origin is in the political 
+form of the society ; and if anything prevents their rage, it 
+must be the situation of Foreign Affairs. It is supposed that 
+the approaching famine will be the signal for hostilities between 
+the contending parties ; but it would seem not over prudent 
+in any man, or set of men, to aim at power under present circumstances. I am, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

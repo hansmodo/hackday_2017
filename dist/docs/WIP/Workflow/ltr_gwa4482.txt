@@ -1,0 +1,15 @@
+<letter id="gwa4482">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The present conveyance is sudden and unexpected. I have only time, therefore, to acknowledge the receipt of your favors of the 29th ultimo, and to assure you, that I felt a most sensible pleasure when I heard of 
+your acceptance of the late appointment of Congress to regulate the finances of this country. My hand and heart shall Ix- with you; and, as far as my assistance can go, coinnianil il. We have, I am persuaded, but 
+one object in view, the public good ; to effect which, I will aid your endeavours to the extent of my abilities, and with all the powers I am vested with. I 
+shall be happy in meeting you, and would have written to you more fully at this time, if the bearer was not wailing. I could not, however, refrain from embracing 
+the first opportunity that offered, of expressing the pleasure I felt at hearing from yourself, that you had entered upon the duties of your office, and to assure 
+you with how much truth and sincerity, I am, &c. 
+</p>
+</letter>

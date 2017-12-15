@@ -1,0 +1,59 @@
+<letter id="gom4518">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='24'>24th</a>, <a href='/results.php?year=1783' rel="origin">1783</a>.  
+</p><p>
+Dear Sir, 
+</p><p>
+The British employ themselves about the evacuation of New York, but that business goes on slowly. I am however 
+informed from tolerable authority, that they will be gone by the 
+beginning of November. If, as you suppose, the British Ministry imagine that we cannot retaliate their restrictions, they 
+are deceived, for their conduct will itself give Congress a power, which they might not otherwise be possessed of. Indeed, 
+my friend, nothing can do us so much good, as to convince the 
+Eastern and Southern States how necessary it is to give proper force to the federal government, and nothing will so soon 
+operate that conviction as foreign efforts to restrain the navigation of the one, and the commerce of the other. 
+</p><p>
+But for my own part, I have no desire to retaliate commercial restrictions. It is my fixed opinion, that a nation can by 
+such restrictions do nothing more than injure herself, nor is an 
+injury the less so because it affects mope the remote members, 
+than it does the head of an empire. The sovereign may collect and ought to have revenue from all his dominions, which 
+are in condition to afford it, but he acts weakly, as well as 
+wickedly , if he cramps one part of the community, that he may 
+draw more easily the blood and juices from another part. 
+The late prohibition to trade with the British Islands, unless in 
+British bottoms, can do us no harm, and can do them no 
+good. Our produce they must and will have, and if they 
+employ half a million in carrying on the navigation at a great 
+expense, which we should have performed at a less expense 
+for two hundred thousand, our two hundred thousand will be 
+left for other operations, even to speculate on their produce 
+and our own, so as to make them pay the speculator a profit on every gallon of rum they sell, and every barrel of flour they 
+buy in our ports. By making the subsistence of their people 
+in the Islands more expensive, they aid the efforts of rival nations to furnish the commodities of their Islands to others, and 
+even to their own subjects. This kind of policy is so bad, that 
+I am persuaded the British Ministers cannot seriously intend 
+the prohibition, although I am equally convinced, that a regard 
+to the national prejudices renders it unavoidable at present. 
+I do not, therefore, think we should labor to undo what is 
+done, but leave things a while to their own course. And as to 
+a treaty of commerce, I think the best way is to make no 
+treaty for some time to come, and if we tell them that we 
+will make no treaty, they will be much more desirous of it than we ought to be. 
+</p><p>
+<a href='/results.php?tla=jod' rel='colleague met'>Mr Adams</a> seems to be in opinion with you, as to the necessity of sending a Minister to England, as indeed he does on 
+some other points. He will, I suppose, be the man, for sundry 
+reasons, which I might assign, but he will have serious cause 
+to repent of the appointment under present circumstances. 
+Nothing would have more unfavorable effects, than to send a 
+Minister, who should feel himself attached or opposed to any of 
+the parties, by which that nation is rent asunder. We should 
+hold them in equal indifference of sentiment, with equal appearance of confidence, paying to the Ins a respect due to 
+their places, but which neither Ins or Outs are, or can be, entitled to on the score of their merit and virtue, at least from us. 
+As we may not easily find a man capable of this conduct, perhaps the best Minister is no Minister, for the want of one will 
+show, that we are not precipitate in a desire of close connexion, and that, however the old mercantile habits may have revived commercial intercourse, the government has a proper 
+jealousy and caution. This circumstance, also, must work favorably on our politics with other powers, and give weight 
+and dignity lo the Ministers we do send. I am, &.c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

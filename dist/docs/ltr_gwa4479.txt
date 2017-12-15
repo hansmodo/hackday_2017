@@ -1,0 +1,27 @@
+<letter id="gwa4479">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='31'>31</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+Your conduct upon every occasion meets my approbation, but in none more than in your refusing to hold a 
+correspondence with Arnold. By an account, which I have just received from <a href='/results.php?city=new york' rel='city'>New York</a>, General Robertson goes to succeed General Phillips. You may have something to apprehend Ironi his age and experience, 
+but not much from his activity. In a letter, which I 
+wrote to <a href='/results.php?tla=frs' rel='co-worker met'>Baron Steuben</a> on the 16th instant, I desired 
+him to inform you, as I did not know at that time 
+where you might be, that I had good reason to believe 
+a detachment of between fifteen hundred and two 
+thousand men had sailed from <a href='/results.php?city=new york' rel='city'>New York</a> a few days 
+before. I now have it confirmed, and I think you may 
+either look for them in the Chesapeake or further southward. 
+</p><p>
+Your determination to avoid an engagement, with 
+your present force, is certainly judicious. I hope the 
+Pennsylvanians have begun their march before this 
+time, but I have no information of it. <a href='/results.php?tla=atw' rel='co-worker'>General Wayne</a> 
+has been pressed, both by Congress and the Board 
+of War, to make as much expedition as possible, and 
+extraordinary powers are given to enable him to procure provisions. I am, with very sincere regard, &,c.t 
+</p>
+</letter>

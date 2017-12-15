@@ -1,0 +1,69 @@
+<letter id="bel3210">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+Since my last, the enemy have, very unexpectedly, 
+brought over the ships mentioned in the inclosed 
+paper. It has been thought there was not water 
+enough for a sixty-four gun ship. Before they came 
+into the harbour, it was determined to form a line of battle across the channel, with our ships, to act in 
+conjunction with Fort Moultrie ; but afterwards, as the 
+enemy were so vastly superior to our force, it was 
+thought best to remove our ships up to the town in 
+Cooper River, and land their heavy cannon and men. 
+We are endeavouring to obstruct the channel from the town to Shute's Folly. If we should succeed, great 
+good will result from the measure, as thereby we 
+shall prevent the enemy from running up that river, 
+and cutting off our communication with the country 
+on the east. 
+</p><p>
+The enemy are extending their works on Ashley 
+River, from the mouth of Wappoo, with a design to 
+cover their stores, which they can land near the first 
+work, at the mouth of the creek, and remove them a 
+mile or two across land to the head of another creek, 
+which empties into the Ashley, where they have a 
+work also, which is opposite a good landing on this 
+side. I think they will throw their troops across 
+above, take post at this landing, and then transport 
+their stores, which will save them a very long land 
+carriage. 
+</p><p>
+I lament, most sincerely, that, from the want of a 
+sufficient power, we cannot oppose their passing this 
+river, which might easily be effected, and oblige the 
+enemy to take a circuit of forty miles. General Woodford is not yet arrived. By his letter of the 
+6th instant, he informs me that his troops would 
+leave Petersburg the day after. His numbers, by 
+some means or other, are greatly reduced. By his 
+return, he has only seven hundred and thirty-seven 
+fit for action. 
+</p><p>
+General Scott informs me that he is coming on 
+without the remainder of his troops. Want of clothing 
+is the cause. A few of them have been persuaded to 
+take care of General Woodford's baggage. Many of 
+the North Carolina militia, whose times have expired, 
+leave us to-day. They cannot be persuaded to re 
+main longer, though the enemy are in our neighbourhood. 
+</p><p>
+General Mclntosh received, a few days since, a re 
+solve of Congress, founded on a letter from the Governor of Georgia, and one from the Speaker of the 
+Assembly of that State, purporting that he had lost 
+the confidence of the people; in which resolve he is 
+suspended from acting in the Southern department. 
+I have not only to lament the loss of so good an officer, but that Congress have so suddenly come into a resolution, which must wound the feelings of an 
+old servant of the United States, and who, by the 
+war, is reduced from a state of great affluence to 
+that but a little removed from beggary. He has the 
+command of the country militia of this State, now in garrison. I have the honor to be, my dear General, 
+with the highest esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

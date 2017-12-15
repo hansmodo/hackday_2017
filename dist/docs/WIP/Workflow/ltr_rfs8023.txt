@@ -1,0 +1,30 @@
+<letter id="rfs8023">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+UNITED STATES FRIGATE CONGRESS, 
+HARBOUR OF <a href='/results.php?city=san francisco' rel='city origin'>San Francisco</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+SIR : On my arrival here with the Congress and Savannah in pursuit of the Walla-Walla Indians, I was glad to find that their 
+numbers had been greatly exaggerated and that they were friendly-disposed. 
+</p><p>
+I have a message from the chief stating that he was friendly and would come down to see me. I will send the Savannah on her 
+cruise to-morrow, and the Portsmouth in a few days, and will follow myself in the Congress as soon as I can, (if not sooner superseded 
+by Commodore Biddle,) to carry out my views in regard to Mexico, with which I have not thought it necessary or expedient yet to acquaint the Department. 
+</p><p>
+Our new government goes on well. I am arranging for a weekly mail from one end of the territory to the other : it will not, 
+I think, cost over three or four thousand dollars per annum, which will be less expensive than the necessary expenses to keep one properly informed in regard to every part of the territory. 
+</p><p>
+If any chance is given, I have no doubt an effort will be made by the Mexicans to recover the territory. Troops are ready to come 
+from Mexico ; but, if they are not seen on their way, I ll make them fight their first battle at Acapulco, or between that and the city of Mexico. 
+</p><p>
+I have not, it is true, a great force; but their enthusiasm and impetuosity must make up the want of numbers. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, frc. 
+</p><p>
+To the Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D.C. 
+</p><p>
+</letter>

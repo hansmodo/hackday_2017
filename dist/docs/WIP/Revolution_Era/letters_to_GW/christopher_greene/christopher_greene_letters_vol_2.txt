@@ -1,0 +1,111 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.eA8XPk on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--chg
+--DOC-AUTHOR-FIRST--Christopher
+--DOC-AUTHOR-LAST--Greene
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="chg3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Fort at <a href='/results.php?city=red bank' rel='city origin'>Red Bank</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+MAY IT PLEASE YOUR EXCELLENCY, 
+</p><p>
+I arrived here on Saturday last with my regiment. 
+They were much fatigued with the march, as I forced 
+thirty-five miles one day. They are now in high 
+spirits, and go to their duty with the greatest cheerfulness. The inclosed return shows our strength. I 
+have found it necessary to contract the fort, but it is too large for our numbers, as we have very little to expect from the militia. 
+</p><p>
+I saw General Newcomb last evening. He informs 
+me that the small number now on duty expect to 
+return home in a day or two ; those that relieve them 
+expect to be relieved in three days. The General 
+thinks your Excellency's intentions were, for the 
+militia only to help complete the fort ; after that, to 
+fall on the rear of the enemy, in case of an attack. 
+Should we be attacked, they must be so scattered as 
+to be able to give us little or no assistance. 
+</p><p>
+The strength of the navy, and of <a href='/results.php?city=fort mifflin' rel='city'>Fort Mifflin</a>, your Excellency will have by the express who bears this, 
+from the officers commanding them. They are certainly very weak for so important a post. I have 
+already, and shall still give them all the assistance 
+in my power. Could your Excellency give us the 
+assistance of Colonel Angell's regiment, I doubt not 
+this post would be secure, without dependence on 
+militia. If they are to be relieved in the manner I 
+understand they are, it is my opinion they will do 
+us no service. General Newcomb gives very little 
+encouragement of any to supply the place of those 
+that are going off the ground. Could we be reenforced, we probably might frustrate the enemy's designs in three batteries they are erecting against 
+<a href='/results.php?city=fort mifflin' rel='city'>Fort Mifflin</a>, and so near as to do much injury when 
+opened. 
+</p><p>
+I find it necessary, for the security of the post, to 
+keep my men all on fatigue daily. This I doubt will 
+cause them to be less spirited in action, if I should 
+be under the necessity to continue it, which must be 
+the case, unless I am reenforced. The post I have in 
+charge I am determined to defend, with the small 
+number I command, to the last extremity ; yet I 
+doubt my number is much too small to answer your Excellency's expectations. I am, with the greatest 
+respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=chg" rel="me">CHRISTOPHER GREENE</a>. 
+</p>
+</letter><letter id="chg3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=red bank' rel='city origin'>Red Bank</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>; 4 o clock, P. M. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency, I dare say, has been informed of 
+the evacuation of <a href='/results.php?city=fort mifflin' rel='city'>Fort Mifflin</a>, and the gallant defence there made by Major Thayer. The evacuation 
+of that fort, the removal of our navy, the movements 
+of the British fleet, and our own situation at present, 
+have put it wholly out of my power to answer those 
+important purposes for which your Excellency was pleased to order me to this command. 
+</p><p>
+Our fleet here are now moving as fast as possible 
+to Timber Creek. The river is so open to the enemy's shipping, that topsail and other vessels are now 
+passing between Mud Island and Province Island to 
+the Schuylkill, unmolested. Fort Mercer is tolerably secure against a storm only. A bomb-proof magazine is nearly finished; no other security in the 
+fort against shells. A strong breastwork partly finished on the bank, takes up a considerable part of 
+the floor of the fort; and the magazine takes up so 
+much, that the remainder of the floor is insufficient 
+to spring tents on for more than one third of the garrison. 
+</p><p>
+The proposal for building a bomb-proof under the 
+bank is now at an end, since <a href='/results.php?city=fort mifflin' rel='city'>Fort Mifflin</a> is lost. 
+The communication to Red Bank, by water, is nearly 
+intercepted; and, should a party of the enemy in 
+vest this fort by land, our whole supply would be 
+cut off; and, should they erect bomb-batteries on the 
+land side, they would be able to throw shells to 
+us on all sides; from all of which I conclude, that 
+an army investing us, sufficient to keep the field, 
+will reduce the garrison, and make the survivors 
+prisoners, as we could have no retreat. 
+</p><p>
+Thus, having given your Excellency what appears 
+to me, with the unanimous voice of all the Field Officers of the garrison, a true state of our circum 
+stances, and observations thereon, I wait your Excellency's particular commands and directions, for an 
+invariable rule for me to pursue ; for which purpose 
+Major Ward will wait on your Excellency, to whom 
+I refer for a more particular account of matters here. 
+</p><p>
+With every sentiment of respect and esteem, I am, 
+Your Excellency's humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=chg" rel="me">CHRISTOPHER GREENE</a>. 
+</p>
+</letter>

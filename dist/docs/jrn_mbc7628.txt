@@ -1,0 +1,14 @@
+<letter id="mbc7628">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. On April 23, 1840, I was married, aged seventeen ; consequently on the 31st of March, 1862, I was 
+thirty-nine. I saw a wedding to-day from my window, which opens on Trinity Church. Nanna Shand married a 
+Doctor Wilson. Then, a beautiful bevy of girls rushed into my room. Such a flutter and a chatter. Well, thank 
+Heaven for a wedding. It is a charming relief from the dismal litany tff-trnr~tlaily songT" 
+</p><p>
+A letter today from our octogenarian at Mulberry. His nephew, Jack Deas, had two horses shot under him ; the 
+old Colonel has his growl, " That's enough for glory, and no hurt after all." He ends, however, with his never-failing refrain : We can't fight all the world ; two and two only make four; it can't make a thousand; numbers will not lie. 
+He says he has lost half a million already in railroad bonds, bank stock, Western notes of hand, not to speak of negroes 
+to be freed, and lands to be confiscated, for he takes the gloomiest views of all things. 
+</p>
+</letter>

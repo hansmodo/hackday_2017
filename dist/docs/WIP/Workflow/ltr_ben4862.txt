@@ -1,0 +1,82 @@
+<letter id="ben4862">
+<recipient first="Georgiana" last="Shipley" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='26'>26</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR Miss, 
+</p><p>
+I LAMENT with you most sincerely the unfortunate end of 
+poor MUNGO. Few squirrels were better accomplished; 
+for he had had a good education, had travelled far, and seen 
+much of the world. As he had the honour of being, for his 
+virtues, your favourite, he should not go, like common skuggs, 
+without an elegy or an epitaph. Let us give him one in the 
+monumental style and measure, which, being neither prose 
+nor verse, is perhaps the properest for grief; since to use 
+common language would look as if we were not affected, and 
+to make rhymes would seem trifling in sorrow. 
+</p><p>
+EPITAPH. 
+</p><p>
+Alas! poor MUNGO! 
+Happy wert thou, hadst thou known 
+</p><p>
+Thy own felicity. 
+Remote from the fierce bald eagle, 
+</p><p>
+Tyrant of thy native woods, 
+</p><p>
+Thou hadst nought to fear from his piercing talons, 
+Nor from the murdering gun 
+Of the thoughtless sportsman. 
+</p><p>
+Safe in thy wired castle, 
+</p><p>
+GRIMALKIN never could annoy thee. 
+</p><p>
+Daily wert thou fed with the choicest viands, 
+</p><p>
+By the fair hand of an indulgent mistress ; 
+</p><p>
+But, discontented, 
+</p><p>
+Thou wouldst have more freedom. 
+</p><p>
+Too soon, alas ! didst thou obtain it ; 
+</p><p>
+And wandering, 
+Thou art fallen by the fangs of wanton, cruel RANGER! 
+</p><p>
+Learn hence, 
+</p><p>
+Ye who blindly seek more liberty, 
+</p><p>
+Whether subjects, sons, squirrels or daughters, 
+</p><p>
+That apparent restraint may be real protection ; 
+</p><p>
+Yielding peace and plenty 
+</p><p>
+With security. 
+</p><p>
+You see, my dear Miss, how much more decent and proper 
+this broken style is, than if we were to say, by way of epitaph, 
+</p><p>
+Here SKUGG 
+Lies snug, 
+As a bug 
+In a rug. 
+</p><p>
+and yet, perhaps, there are people in the world of so little 
+feeling as to think that this would be a good-enough epitaph 
+for poor Mungo. 
+</p><p>
+If you wish it, I shall procure another to succeed him; 
+but perhaps you will now choose some other amusement. 
+</p><p>
+Remember me affectionately to all the good family, and 
+believe me ever, 
+</p><p>
+Your affectionate friend, B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id="nib5262">
+<recipient first="Thomas" last="Cadwalader" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec'r</a>. <a rel='day origin' value='24'>24</a>. <a href='/results.php?year=1831' rel="origin">1831</a> 
+</p><p>
+Saturday night 
+</p><p>
+My dear General, 
+</p><p>
+The mail which should have arrived this morning did 
+not reach us till night, so that I have just received your favor of the 22 d inst which is very interesting. On this whole matter 
+I have heard much &amp; thought more since you left us. I of course abstain from forming any definite opinion, but I will mention to you exactly my present state of mind. It is this. 
+If <a href='/results.php?tla=gmd' rel='colleague'>Mr. McDuffie</a> could insure a reference to the Committee of Ways &amp; Means, &amp; a favorable report of that Committee, I 
+would not hesitate to try it, if I could rely on a majority of one only in each house. Once fairly launched by the Com ee 
+</p><p>
+1 think we could succeed by a larger vote but this you 
+know better than I do. I have not said this to anybody except 
+yourself but all my reflections tend that way. With your 
+letter comes a second from <a href='/results.php?tla=web' rel='colleague'>Mr Webster</a> renewing with in 
+creased conviction his opinion expressed in the most decided 
+manner of the expediency of it. 
+</p>
+</letter>

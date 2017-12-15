@@ -1,0 +1,22 @@
+<letter id="mbc7610">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='7'>7th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mrs. Middleton was dolorous indeed. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> had warned the planters about Combahee, etc., that they must take care of themselves now ; he could not do it. Confederate soldiers had committed some outrages on the 
+plantations and officers had punished them promptly. She poured contempt upon Yancey's letter to Lord Russell. 
+It was the letter of a shopkeeper, not in the style of a states man at all. 
+</p><p>
+We called to see Mary McDuffie. She asked Mary Preston what Doctor Boykin had said of her husband as we came 
+along in the train. She heard it was something very complimentary. Mary P. tried to remember, and to repeat it 
+all, to the joy of the other Mary, who liked to hear nice things about her husband. 
+</p><p>
+Mary was amazed to hear of the list of applicants for promotion. One delicate-minded person accompanied his 
+demand for advancement by a request for a written description of the Manassas battle ; he had heard Colonel Chesnut 
+give such a brilliant account of it in Governor Cobb's room. 
+</p><p>
+The Merrimac business has come like a gleam of lightning illumining a dark scene. Our sky is black and lowering. 
+</p><p>
+The Judge saw his little daughter at my window and he came up. He was very smooth and kind. It was really 
+a delightful visit ; not a disagreeable word was spoken. He abused no one whatever, for he never once spoke of any one 
+but himself, and himself he praised without stint. He did not look at me once, though he spoke very kindly to me. 
+</p>
+</letter>

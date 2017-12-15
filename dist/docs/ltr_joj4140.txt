@@ -1,0 +1,80 @@
+<letter id="joj4140">
+<recipient first="" last="Grenville" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='1'>1st</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+My Lord, 
+</p><p>
+The great questions which have agitated this country 
+since my arrival, may now, I think, be considered as determined. I will therefore no longer postpone thanking your 
+lordship for the letter which you did me the honour to 
+write on the 11th May last, respecting which I shall omit 
+saying any thing further by this opportunity. 
+</p><p>
+The treaty will go into operation, and be supported by a 
+great majority of the people; a majority comprising the 
+greater part of the men most distinguished by talents, 
+worth, and weight. Strenuous endeavours were made and 
+persisted in, to mislead the people by all the various means 
+which art, unrestrained by principle, very readily devises. 
+The English and Irish emigrants joined the opposition ; and 
+what seems more singular is, that the French republicans 
+and French refugees, so far forgot their animosities as to 
+concur in resisting the restoration of good-will between 
+Great Britain and the United States. 
+</p><p>
+Anxious that the present current of public opinion in 
+favour of a paciiic and conciliatory system, may not be 
+checked by fresh obstacles, permit me, my lord, to submit 
+to your consideration the prudence, as well as justice of 
+strong measures, to prevent, as far as possible, those very 
+exceptionable impressments, and other severities, which too 
+often occur. They may give occasion, and I am persuaded 
+will continue to give occasion to more clamour than facts 
+will justify ; but it is certainly true that much just cause for 
+complaint does exist, and that there are persons here who 
+would rejoice if there was much more. There is reason to 
+believe, that certain individuals in the British service have 
+been irritated, by the improper things said and published in 
+this country, to indiscreet acts of resentment ; not considering, and probably not suspecting, that they were said and 
+published for the purpose of provocation. It is to be wished, 
+that they had recollected that these things were not said 
+and published by our government, nor by those who desire 
+to promote, and who do promote peace and harmony with 
+Great Britain ; nor by those who are actuated by zeal for 
+the honour and interest of their own country. 
+</p><p>
+We have aimed at, and laboured for the restoration of 
+mutual justice and mutual good-will between our countries. 
+The greatest difficulties are surmounted, and perseverance, 
+with prudence and temper on both sides, will ensure success. Would not orders to discharge all impressed Americans, and enjoining a just and friendly conduct towards the 
+people of this country, cherish their confidence, and manifest 
+that disposition to conciliation, which repeated instances of 
+violence and severity enable designing men (and with great 
+appearance of reason) to draw into question ? Would not 
+friendly assurances on these points to our government, tend 
+greatly to impress the public with still more favourable 
+opinions of the propriety and policy of their measures ; and 
+consequently diminish the credit and influence of those who 
+seize every occasion of impeaching their wisdom and your 
+sincerity ? These men have, indeed, for the present missed 
+their object, but they have not abandoned their designs. I 
+mean the leaders, not the rank and file of the party. Among 
+the latter are many misled, honest men, who, as they become undeceived, will act with propriety. 
+</p><p>
+Pardon, my lord, the liberty I take in these observations. 
+I write freely because I confide fully in your candour, and 
+because I flatter myself that you confide in mine. I have 
+not leisure, at this moment, to be more particular. This 
+letter will soon be followed by others. 
+</p><p>
+With great and sincere esteem and regard, I have the 
+honour to be, my lord, 
+</p><p>
+Your lordship's most obedient 
+</p><p>
+And humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="aba1705">
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href="http://www.familytales.org/results.php?city=braintree" rel="city">Braintree</a>, 19 August, <a href="http://www.familytales.org/results.php?year=1774">1774</a>. 
+</p><p>
+THE great distance between us makes the time appear very long to me. It seems already a month 
+since you left me. The great anxiety I feel for my 
+country, for you, and for our family, renders the day 
+tedious, and the night unpleasant. The rocks and 
+quicksands appear upon every side. What course 
+you can or will take is all wrapped in the bosom of 
+futurity. Uncertainty and expectation leave the 
+mind great scope. Did ever any kingdom or state/ 
+regain its liberty, when once it was invaded, with 
+out bloodshed? I cannot think of it without horror. 
+Yet we are told, that all the misfortunes of Sparta 
+were occasioned by their too great solicitude for 
+present tranquillity, and, from an excessive love of 
+peace, they neglected the means of making it sure 
+and lasting. They ought to have reflected, says Polybius, that, " as there is nothing more desirable or 
+advantageous than peace, when founded in justice 
+and honor, so there is nothing more shameful, and 
+at the same time more pernicious, when attained by 
+bad measures, and purchased at the price of liberty." I have received a most charming letter from 
+our friend Mrs. Warren. She desires me to tell you that her best wishes attend you through your journey, both as a friend and a patriot, hopes you will have no uncommon difficulties to surmount, or hostile 
+movements to impede you, but, if the Locrians 
+should interrupt you, she hopes that you will beware, 
+that no future annals may say you chose an ambitious Philip for your leader, who subverted the noble 
+order of the American Amphictyons, and built up a monarchy on the ruins of the happy institution. 
+</p><p>
+I have taken a very great fondness for reading 
+Rollin's Ancient History since you left me. I am 
+determined to go through with it, if possible, in these 
+my days of solitude. I find great pleasure and entertainment from it, and I have persuaded Johnny to 
+read me a page or two every day, and hope he will, 
+from his desire to oblige me, entertain a fondness for 
+it. We have had a charming rain, which lasted 
+twelve hours, and has greatly revived the dying fruits of the earth. 
+</p><p>
+I want much to hear from you. I long impatiently 
+to have you upon the stage of action. The first of 
+September, or the month of September, perhaps, may 
+be of as much importance to Great Britain, as the Ides 
+of March were to Caesar. I wish you every public, 
+as well as private blessing, and that wisdom which is 
+profitable both for instruction and edification, to conduct you in this difficult day. The little flock remember papa, and kindly wish to see him ; so does your most affectionate 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=aba" rel="me">ABIGAIL ADAMS</a>. 
+</p>
+</letter>

@@ -1,0 +1,28 @@
+<letter id="mbc7737">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. All in a muddle, and yet the news, confused as it is, seems good from all quarters. There is a row in New Orleans. Memphis has been retaken; 2,000 prisoners have been captured at Petersburg, and a Yankee raid on Macon has come to grief. 
+</p><p>
+At Mrs. Izard's met a clever Mrs. Calhoun. Mrs. Calhoun is a violent partizan of Dick Taylor; says Taylor 
+does the work and Kirby Smith gets the credit for it. Mrs. Calhoun described the behavior of some acquaintance of 
+theirs at Shreveport, one of that kind whose faith removes mountains. Her love for and confidence in the Confederate 
+army were supreme. Why not She knew so many of the men who composed that dauntless band. When her husband told her New Orleans had surrendered to a foe whom she despised, she did not believe a word of it. He told her 
+to " pack up his traps, as it was time for him to leave Shreveport." She then determined to run down to the 
+levee and see for herself, only to find the Yankee gunboats having it all their own way. She made a painful exhibition 
+of herself. First, she fell on her knees and prayed; then she got up and danced with rage; then she raved and 
+dashed herself on the ground in a fit. There was patriotism 
+run mad for you ! As I did not know the poor soul, Mrs. Calhoun's fine acting was somewhat lost on me, but the 
+others enjoyed it. 
+</p><p>
+Old Edward Johnston has been sent to Atlanta against his will, and Archer has been made major-general and, contrary to his earnest request, ordered not to his beloved Texans but to the Army of the Potomac. 
+</p><p>
+Mr. C. F. Hampton deplores the untimely end of McPherson. He was so kind to Mr. Hampton at Vicksburg 
+last winter, and drank General Hampton's health then and there. Mr. Hampton has asked Brewster, if the report of his 
+death prove a mistake, and General McPherson is a prisoner, that every kindness and attention be shown to him. 
+General McPherson said at his own table at Vicksburg that General Hampton was the ablest general on our side. 
+</p><p>
+<a href='/results.php?tla=usg' rel=''>Grant</a> can hold his own as well as <a href='/results.php?tla=wts' rel=''>Sherman</a>. <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> has a heavy handful in the new Suwarrow. He has worse odds 
+than any one else, for when <a href='/results.php?tla=usg' rel=''>Grant</a> has ten thousand slain, he has only to order another ten thousand, and they are 
+there, ready to step out to the front. They are like the leaves of Vallambrosa. 
+</p>
+</letter>

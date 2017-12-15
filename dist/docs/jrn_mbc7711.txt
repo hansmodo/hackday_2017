@@ -1,0 +1,9 @@
+<letter id="mbc7711">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. The enemy has been reenforced and is on us again. Met Wade Hampton, who told me my husband was to join him with some volunteer troops ; so I hurried home. Such a cavalcade rode up to luncheon! Captain Smith Lee and Preston Hampton, the handsomest, the 
+oldest and the youngest of the party. This was at the Prestons . Smith Lee walked home with me; alarm-bells ringing; horsemen galloping; wagons rattling. Dr. H. stopped us to say Beast Butler was on us with sixteen thousand 
+men. How scared the Doctor looked ! And, after all, it was 
+only a notice to the militia to turn out and drill. 
+</p>
+</letter>

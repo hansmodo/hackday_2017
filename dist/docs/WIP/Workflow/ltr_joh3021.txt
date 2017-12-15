@@ -1,0 +1,40 @@
+<letter id="joh3021">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor of transmitting such resolves of 
+Congress as have passed since my last, which are 
+either relative to your department, or necessary for 
+your information. The Congress have authorized you 
+to proceed in the exchange of prisoners, agreeably to 
+the cartel at present existing, or such other regulation. as you may think proper to make in the matter, provided the enemy will relax in their treatment 
+of <a href='/results.php?tla=chl' rel='colleague'>General Lee</a>, and acknowledge him. to be a prisoner of Avar, and as such entitled to be exchanged. 
+</p><p>
+I congratulate you on the arrival of a vessel at 
+this port, from France, with eleven thousand stand of 
+arms in good order, and, I am informed, fit for immediate use. She has brought likewise fifteen hundred gun-locks, and a large quantity of flints. Six 
+thousand eight hundred of the arms are public property. The balance, which belong to individuals, the 
+Congress have empowered the Secret Committee to 
+purchase immediately. I have wrote to <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> 
+to repair to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, agreeably to the inclosed resolve. 
+</p><p>
+<a href='/results.php?tla=gec' rel='colleague'>Colonel Clinton</a> was yesterday appointed a Brigadier-General, in consequence of a very warm recommendation from the Convention of <a href='/results.php?city=new york' rel='city'>New York</a>. As 
+he is an officer of established good character, and is 
+now engaged in obstructing the river, his station at 
+the Highlands will be more convenient, and highly 
+agreeable to the Convention of <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+Your favor, by <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, was duly received, 
+and a Committee appointed to confer with him, the 
+result of which shall be immediately transmitted. I 
+have the honor to be, with the most perfect esteem 
+and respect, Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

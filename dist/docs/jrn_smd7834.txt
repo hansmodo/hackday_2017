@@ -1,0 +1,19 @@
+<letter id="smd7834">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a rel="month origin" value="6">June</a> <a rel='day origin' value='30'>30th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>] [<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana]
+</p><p>
+As a specimen of the humanity of General Butler, let me record a threat of his uttered with all the force 
+and meaning language can convey, and certainly enough to strike terror in the hearts of frail women, 
+since all these men believe him fully equal to carry it into execution ; some even believe it will be done. 
+In speaking to Mr. Solomon Benjamin of foreign intervention in our favor, he said, "Let England or 
+France try it, and I'll be - - if I don't arm every negro in the South, and make them cut the throat of 
+every man, woman, and child in it! I'll make them lay the whole country waste with fire and sword, 
+and leave it desolate!" Draw me a finer picture of Coward, Brute, or Bully than that one sentence 
+portrays! O men of the North! you do your noble hearts wrong in sending such ruffians among us as 
+the representatives of a great people! Was ever a more brutal thought uttered in a more brutal way? 
+Mother, like many another, is crazy to go away from here, even to <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>; but like the rest, will be 
+obliged to stand and await her fate. I don't believe Butler would dare execute his threat, for at the first 
+attempt, thousands, who are passive now, would cut the brutal heart from his inhuman breast. 
+</p><p>
+</letter>

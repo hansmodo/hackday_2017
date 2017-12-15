@@ -1,0 +1,201 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.be2SjG on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--gec
+--DOC-AUTHOR-FIRST--George
+--DOC-AUTHOR-LAST--Clinton
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="gec3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort montgomery' rel='city origin'>Fort Montgomery</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received your favor of the 12th instant yesterday, 
+at this place ; previous to which, about nine o clock 
+Saturday morning, the signal at Fort Constitution being  given, and the masters of two sloops, which about 
+the same time came to, opposite my house, having 
+informed me that the enemy had attacked <a href='/results.php?city=new york' rel='city'>New York</a> 
+the evening before, and that they judged, by the report of the cannon, that their shipping had passed by, 
+and were up the river as far as King's Bridge, I 
+thought it my duty to put the neighbouring militia in motion and accordingly issued orders to three regiments, one immediately to march into these works, 
+another into Fort Constitution, and the third to rendezvous at Newburg, on the bank of the river, about 
+nine miles above Fort Constitution, with orders to march and reenforce that garrison, upon the next signal given. 
+</p><p>
+At the same time I issued orders to all the regiments in my brigade, to stand ready to march on a moment's warning, and despatched expresses to all 
+owners of sloops and boats twenty miles up the west side of the river, to haul them off so as to prevent their grounding ; that as many of them as were necessary might be ready to carry down the militia to 
+the forts. The residue I ordered down to Fort Constitution, as I believe by drawing a chain of them across the narrowest part of the river, and fixing 
+them properly to be set on fire, should the enemy's shipping attempt passing by, they would answer a most valuable purpose. Early in the afternoon of 
+that day, I marched into Fort Constitution with about 
+forty of my neighbours, and in the evening came to 
+this fort, being nearer the enemy and better situated 
+to discover their motions. Yesterday evening I was 
+joined by Colonel Woodhull, with between two and 
+three hundred of his regiment; this morning early, 
+by Lieutenant-Colonel McClaghry, with upwards of 
+five hundred of his ; and I hourly expect parts of 
+two other regiments. When these join me, I will 
+draft, out of the four, six hundred men, and employ 
+them as your Excellency has directed. I have ordered 
+the Colonels I have called in, to leave the frontier 
+companies at home to protect the country against 
+the Indians, should they be troublesome, and as many 
+men out of each company as will be sufficient to 
+guard against any attempts that might be made by 
+internal enemies. 
+</p><p>
+The men turn out of their harvest fields, to defend 
+their country, with surprising alacrity. The absence 
+of so many of them, however, at this time, when their 
+harvests are perishing for want of the sickle, will 
+greatly distress the country. I could wish, therefore, 
+a less number might answer the purpose. I would 
+fain hope the enemy mean, by their shipping in our 
+bays, at present only to cut off the communication 
+between the country and city, and prevent our obstructing the channel. Many of the militia may be called in in eight hours ; some in a much less time, 
+should there be occasion for them. 
+</p><p>
+Since writing the above, I received a letter from 
+Colonel Hay, of Haverstraw, a copy of which is in 
+closed. I will send a small party down there this 
+evening, or in the morning, but don t believe I shall 
+be able to continue them long, as the militia here 
+will think hard to be carried there. The bearer, Mr. Boyd, who is well acquainted with this country, the 
+fortifications here, and may be confided in, will be 
+able to give your Excellency any further information. 
+</p><p>
+I am, with great esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p><p>
+P. S. I should be glad to know whether it is best to keep the sloops, &c., ordered down to Fort 
+Constitution, there, as it may be attended with considerable expense, which, however, if they can be 
+made to answer a good purpose, ought not, in my opinion, to be regarded. 
+</p>
+</letter><letter id="gec3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort montgomery' rel='city origin'>Fort Montgomery</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="7">July</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+When I had the pleasure of seeing your Excellency at Ramapo, I mentioned that the terms, for 
+which the two militia regiments stationed at this 
+post were engaged in service, expired the last of 
+this month, at which time, unless a re enforcement is 
+sent here by <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, the whole strength we 
+shall have, at this important station, will be Colonel Dubois's regiment, two companies of artillery, and a 
+detachment of about one hundred and fifty Continental troops under Lieutenant-Colonel Meigs. 
+</p><p>
+I have this day wrote to <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> on the subject, that he may so order matters as to furnish a 
+reinforcement to this garrison, if he shall judge it expedient. 
+</p><p>
+I have had a second call to attend at Kingston, 
+and take the oath of office in consequence of my 
+late appointment ; and as the new Legislature of this 
+State are to meet on the 1st of August, it will be 
+necessary that I shall leave this, so as to be there a 
+day or two previous to their meeting. 
+</p><p>
+This I have also mentioned to <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, 
+and requested leave of absence for an unlimited 
+time, as the affairs of Government render it uncertain whether I shall be able, during the present campaign, to return to the command of this post. 
+</p><p>
+It is with a degree of pain that I am under a 
+necessity of asking permission, at this time, to quit 
+the service, especially as the designs of the enemy 
+are not fully known ; and should the business of my 
+new appointment admit of it, I will most cheerfully 
+return to the army, until the fate of the present 
+campaign is determined. I am, with much esteem, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort montgomery' rel='city origin'>Fort Montgomery</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="8">August</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Immediately on the receipt of your Excellency's 
+letter, directing from one thousand to fifteen hundred 
+of the militia of this and the State of Connecticut, 
+to reenforce this garrison and the army under <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, I issued orders for drawing out eight 
+hundred and ten, including non-commissioned officers, 
+from this State, for the above purposes. Since which 
+I have been induced, from the situation of our affairs 
+to the northward, in addition to the above numbers, 
+to order out five hundred of the militia from the northern parts of Ulster and Duchess counties, one 
+thousand from the county of <a href='/results.php?city=albany' rel='city'>Albany</a>, and five hundred from the county of Try on, to reenforce the 
+army under the command of <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, and 
+to continue in service until the first day of November next, unless your Excellency shall think proper 
+to dismiss them before. Those from the two former 
+counties, I have reason to believe, are by this time 
+on their march, but I have not yet been advised 
+what success they have experienced in getting the 
+proportion allotted for the other counties. I fear, not 
+so good as could be wished. The people in that 
+quarter consider the Western frontier equally liable 
+to the invasions of the enemy, and, influenced by 
+this consideration, are unwilling to leave their families exposed, and join our army. As the enemy 
+advance, many of the best of the inhabitants are 
+employed in moving off their families and effects. 
+Indeed, I have always observed that the militia of 
+any part of the country most in danger, are, for the 
+above reasons, least forward in opposing an enemy. 
+Some, too, decline acting under those circumstances, 
+from unworthy principles. 
+</p><p>
+Your Excellency's letter of the 1st instant, dated 
+at Chester, I received in Kingston, on Wednesday 
+last, and thereupon ordered four regiments of militia 
+to this place, three to join <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> at Peeks-kill, and one to occupy the post at the mouth of the 
+Clove. The last of those ordered here arrived yesterday, and I learn from <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, that those 
+designed for him are also arrived at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. All 
+the remainder of the militia of the State are under 
+marching orders. 
+</p><p>
+I never knew the militia come out with greater 
+alacrity ; but as many of them yet have great part 
+of their harvests in the field; I fear it will be difficult to detain them long, unless the enemy make 
+some movements that indicate a design of coming 
+this way suddenly, and so obvious as to be believed 
+by the militia. I cannot but express my surprise 
+that no reinforcements, as I have heard, have yet 
+arrived to our northern army from the eastward. 
+The want of confidence in the General Officers to 
+the northward, is the specious reason. To me it appears a very weak one. The mutilated and distressed 
+condition of this State renders our utmost exertions 
+to oppose the common enemy, in appearance but 
+little, better than one half of it being out of our possession. Common gratitude to a sister State, as well 
+as duty to the Continent at large, conspire in calling 
+on our eastern neighbours to step forth on this occasion, and more especially as they only are in a situation totally to destroy <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>'s army, by 
+intercepting his supplies, and even cutting off his retreat to the Lakes. 
+</p><p>
+The detachment of eight hundred and ten for this 
+garrison and <a href='/results.php?city=peekskill' rel='city'>Peekskill</a> is not yet completed, owing 
+to the body of the militia being so suddenly called 
+out, but will be effected immediately on their return 
+home ; till which time I will endeavour to detain an 
+equal number of them here. 
+</p><p>
+I have not yet received the late resolves of congress for recruiting the army, alluded to in your Excellency's letter of the 4th instant. As soon as they 
+come to hand, I will do every thing in my power 
+to render them effectual, and forward the requested 
+information. I am, with much esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

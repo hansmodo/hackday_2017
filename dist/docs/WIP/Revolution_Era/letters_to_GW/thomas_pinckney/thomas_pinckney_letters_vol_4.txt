@@ -1,0 +1,34 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.S3Era4 on line 295
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--top
+--DOC-AUTHOR-FIRST--Thomas
+--DOC-AUTHOR-LAST--Pinckney
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="top4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In a letter, which I have lately received from the 
+Secretary of State, I am desired to make such arrangements as may be necessary, previous to a mission which you have prepared for me as Envoy Extraordinary to the Court of Spain. Although, from a 
+knowledge of the extent of your unavoidable correspondence, and of the value of your moments, I 
+have generally avoided addressing you directly, yet, 
+while I officially express my readiness to undertake 
+a business in which you think I may be of utility, I 
+cannot refrain from thus assuring you, that I trust I 
+feel the full import of the kindness and delicacy of 
+this proceeding, as it personally concerns myself; and 
+I beg leave to add the expression of the true respect 
+and grateful attachment, with which I am, &c., 
+</p><p>
+<a href="/results.php?tla=top" rel="me">Thomas Pinckney</a>. 
+</p>
+</letter>

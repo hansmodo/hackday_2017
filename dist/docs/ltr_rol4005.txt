@@ -1,0 +1,61 @@
+<letter id="rol4005">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear John, 
+</p><p>
+The quiet, which in my last I mentioned to have prevailed 
+here, still continues with very few interruptions. Though 
+the imprudence of the tories has, in some instances, given 
+disgust to the warm whigs, particularly in a contest for the 
+government of the church corporation, to the exclusion of 
+those out of the lines, and in appointing Mr. Moore rector, 
+in order to fill the church, a few days before we came in. 
+The Legislature have interposed, and the government of the 
+church is transferred to the whigs. 
+</p><p>
+Our parties are, first, the tories, who still hope for power, 
+under the idea that the remembrance of the past should be 
+lost, though they daily keep it up by their avowed attachment to Great Britain. Secondly, the violent whigs, who 
+are for expelling all tories from the State, in hopes, by that 
+means, to preserve the power in their own hands. The 
+third are those who wish to suppress all violences, to soften 
+the rigour of the laws against the royalists, and not to banish 
+them from that social intercourse which may, by degrees, 
+obliterate the remembrance of past misdeeds ; but who, at 
+the same time, are not willing to shock the feelings of the 
+virtuous citizens, that have at every expense and hazard 
+fulfilled their duty, by at once destroying all distinction 
+between them and the royalists, and giving the reins into 
+the hands of the latter ; but who, at the same time, wish that 
+this distinction should rather be found in the sentiments of the 
+people, than marked out by the laws. You will judge to 
+which of these parties the disqualifications contained in our 
+election bill has given the representation, when I tell you that the members for this city and county are Lamb, Harper, Sears, Van Zandt, Mallone, Rutgers, Hughes, Stag, 
+and Willet. I must, however, do all parties the justice to 
+say, that they profess the highest respect for the laws, and 
+that, if we except one or two persons, they have, as yet, by 
+no act contradicted that profession. 
+</p><p>
+We are very angry here with Great Britain, on account 
+of her West India restrictions (from which, by-the-bye, they 
+suffer greatly), and are fulminating resolutions to prohibit 
+all intercourse with her, which I think will probably be the 
+case ere long. 
+</p><p>
+Thus have I given you a sketch of our politics, which 
+will only be interesting to you if, as I sincerely hope, you 
+mean to return soon to us. 
+</p><p>
+Politics has extended this letter to such an unreasonable 
+length, that I dare not hazard a subject nearer my heart 
+than either, but must, at this time, confine all its dictates to 
+simple assurances of the firm and tender affection with 
+which I am, and ever shall be, 
+</p><p>
+Dear John, your friend, 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston.</a> 
+</p>
+</letter>

@@ -1,0 +1,45 @@
+<letter id='wbi8000'>
+<recipient first='Robert' last='Stockton' type='individual'/>
+<p>
+<a href='/results.php?city=sonoma' rel='city origin'>Sonoma</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1846' rel="origin">1846</a>.<br>
+Our Present Headquarters. 
+</p><p>
+Dear Sir: I beg leave to inform you by express, of a change in the political affairs of Sonoma, and the Sacramento valley; which has taken 
+place within the last week. With the circumstances which led to this change you are doubtless acquainted, viz. : the hostility of the Spaniards to 
+the American emigrants. About forty days since a proclamation was issued by the Spaniards, ordering all foreigners to leave the country, and 
+forbidding them to take any of their property with them, at the same time threatening them with extermination should they presume to remain in 
+the country. The immigration to the States was gone; the company for Oregon had left us. There was now no alternative but to die silently, 
+and singly by the hands of our enemies or fly to meet the foe. Information had reached the upper end of Sacramento valley (where I resided) that two 
+hundred Spaniards were on their way up the valley for the purpose of destroying our wheat, burning our houses, and driving off our cattle. 
+Aroused by appearances so shocking, a very few of us resolved to meet our enemy (being encouraged by the known presence of <a href="/results.php?tla=jhf" rel="">Captain Fremont's</a> 
+command in the valley) and dispose of our difficulties in the best possible manner. The two hundred Spaniards proved to be a band of horses (about 
+two hundred) guarded by a Spanish officer and fifteen men, being driven up the valley as far as <a href="/results.php?tla=jas" rel="">Captain Sutter's</a>, thence across the river for the lower 
+settlements, for the declared and express purpose of being mounted by soldiers and sent back to enforce said proclamation. In self-defence, those 
+few men (viz., twelve) seized the moment and pursued those horses, captured their guard and drove the horses to the neighborhood of <a href="/results.php?tla=jhf" rel="">Captain Fremont's</a> 
+camp. Still writhing under the dreadful necessity above alluded to, we pursued our way night and day, adding to our number a few true hearts to 
+the number of thirty-four men, until the dawn of the morning of the 14th inst., when we charged upon the Fortress of General Guadaloupe Vallejo, and 
+captured eighteen prisoners (among whom were three of the highest officers in the Californian Government and all the military officers who reside in 
+Sonoma) eight field-pieces, two hundred stand of arms, a great quantity of cannon, canister, and grape-shot, and a little less than one hundred pounds 
+of powder ( quite too little to sustain us against an attack by the use of cannon). By the articles of capitulation it was contemplated we were to be 
+provisioned by the generosity of our captured general, while we can keep possession or while opposition renders possession necessary. By another 
+arrangement of cannon and field-pieces, we have strengthened our position and continue to hold it, under the authority of twenty-four well-armed men 
+and (as we have good right to believe) the will of the people. The Alcalde we discharged under a new appointment, the soldiers were set at liberty, 
+and the said officers were escorted by ten armed men to an asylum under 
+the generous protection of <a href="/results.php?tla=jhf" rel="">Captain Fremont</a>. This day we proclaim California a Republic, and our pledge of honor that private property shall be 
+protected. With this, as we hear from various parts of the country, the Spaniards are not only satisfied, but pleased. We are situated three or 
+four miles north of the north end of the bay, and are liable to be attacked by an enemy from beyond the bay but would repel any that should be made 
+by the use of small arms. We have not powder to work our cannon, and therefore, with our small force, could not long resist the operations of cannon against us 
+</p><p>
+Destined as we are to certain destruction should we prove unsuccessful, we have the honor to be your Fellow Countrymen, and whether we conquer 
+or perish we are resolved to approve ourselves not unworthy the kindly regards of those who "build to the honor and glory of the American flag" 
+</p><p>
+It is our object and earnest desire to embrace the first opportunity to unite our adopted and rescued country, to the country of our early home. 
+</p><p>
+With every consideration and by the will of the people, I have the honor to be, etc. 
+</p><p>
+<a href="/results.php?tla=wbi" rel="me">Wm. B. Ide</a>,<br>
+Commander-in-Chief at the Fortress of Sonoma. 
+</p><p>
+To Commodore Stockton, of the U. S. Navy. 
+</p>
+</letter>

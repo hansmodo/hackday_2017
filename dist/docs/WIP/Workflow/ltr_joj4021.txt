@@ -1,0 +1,79 @@
+<letter id="joj4021">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Accept my thanks for the long and friendly letter of the 
+14th inst. which I have had the pleasure of receiving from 
+you. It was, for many reasons, grateful to me. I value 
+the esteem and regard of the wise and virtuous ; and bad 
+wished to know the particulars of transactions respecting 
+which only vague and unsatisfactory reports had come to 
+my knowledge. Delicacy forbade my breaking the subject 
+to you when here. I was sure of your politeness, but not 
+certain of more than a usual degree of confidence. The 
+latter has now become manifest, and permit me to assure 
+you it shall be mutual. The impression attempted to be 
+made has not taken. It passed without a single remark. 
+Your friends thought it merited nothing but silence and 
+neglect. The same reason induced me to take no notice 
+of it in my answer. 
+</p><p>
+I have perused the several papers with which you 
+favoured me. The delicacy, candour, and temper diffused 
+through your letters form a strong contrast to the evasions 
+and design observable in some others. Gratitude ought to 
+have attached a certain gentleman to the friend who raised 
+him ; a spurious ambition, however, has, it seems, made 
+him your enemy. This is not uncommon. To the dishonour of human nature, the history of mankind has many 
+pages filled with similar instances ; and we have little reason to expect that the annals of the present or future times 
+will present us with fewer characters of this class. On the 
+contrary, there is reason to expect that they will multiply in 
+the course of this revolution. Seasons of general heat, 
+tumult, and fermentation favour the production and growth 
+of some great virtues, and of many great and little vices. 
+Which will predominate, is a question which events not 
+yet produced nor now to be discerned can alone determine. 
+What parties and factions will arise, to what objects be 
+directed, what sacrifices they will require, and who will be 
+the victims, are matters beyond the sphere of human prescience. New modes of government, not generally understood, nor in certain instances approved — want of moderation and information in the people — want of abilities and 
+rectitude in some of their rulers — a wide field open for the 
+operations of ambition — men raised from low degrees to 
+high stations, and rendered giddy by elevation and the 
+extent of their views — a revolution in private property 
+and in national attachments — laws dictated by the spirit of 
+the times, not the spirit of justice and liberal policy — latitude in principles as well as commerce — suspension of education — fluctuations in manners, and public counsels, and 
+moral obligations — indifference to religion, &c. &c, are 
+circumstances that portend evils which much prudence, 
+vigour, and circumspection are necessary to prevent or 
+control. To me, there appears reason to expect a long 
+storm and difficult navigation. Calm repose and the sweets 
+of undisturbed retirement appear more distant than a peace 
+with Britain. It gives me pleasure, however, to reflect that 
+the period is approaching when we shall become citizens of 
+a better-ordered state ; and the spending a few troublesome 
+years of our eternity in doing good to this and future generations is not to be avoided nor regretted. Things will 
+come right, and these States will be great and flourishing. 
+The dissolution of our government threw us into a political 
+chaos. Time, wisdom, and perseverance will reduce it 
+into form, and give it strength, order, and harmony. In 
+this work you are, to speak in the style of one of your professions, a master-builder ; and God grant that you may 
+long continue a free and accepted mason. 
+</p><p>
+Thus, my dear sir, I have indulged myself in thinking loud 
+in your hearing ; it would be an Hibernicism to say in your 
+sight, though in one sense true ; it is more than probable I 
+shall frequently do the like. Your letter shall be my 
+apology, and the pleasure resulting from the converse of 
+those we esteem, the motive. 
+</p><p>
+I am, dear sir, 
+With perfect esteem and regard, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

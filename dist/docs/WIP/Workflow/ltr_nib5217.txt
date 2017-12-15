@@ -1,0 +1,20 @@
+<letter id="nib5217">
+<recipient first="James" last="Crommelieu" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="5">May</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1827' rel="origin">1827</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+. . . With a view to secure the best talents in its service &amp; to reward the meritorious officers, the rule of the Bank 
+is that whenever any vacancy occurs it is rilled by promotion, &amp; the person last introduced takes his place at the foot 
+of the list, &amp; is gradually advanced if found deserving. The 
+salary of the Officers on their first entrance into the Bank is 
+seven hundred dollars ($700) a year. A comparatively small 
+compensation, but as it is known to lead to more lucrative 
+situations, it is sufficient to attract to the service of the Bank 
+a great number of applicants of respectability. When a vacancy takes place a selection is made from these by a ballot 
+at the Board in which I of course participate as one of the 
+members merely. At present there is no vacancy. It is impossible however to say how soon there may be one and if you 
+think it desirable after what I have stated to come into the Bank I would recommend this course. . . . 
+</p>
+</letter>

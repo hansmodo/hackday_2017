@@ -1,0 +1,18 @@
+<letter id="nag3900">
+<recipient first="John" last="Laurens" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have just received the enclosed note from Mrs. McQueen, and have been talking with . It appears the enemy have it in contemplation to attack us in our divided state; they must inevitably ruin us. 
+You will join the army, therefore, without loss of time. I wish it was possible for Gen. Marion to take a position near Monk's Corner, that he 
+might join us in cases of necessity. Please to write to him on the subject. Let me hear from you to-night. I did not know until this morning that you had Major Moses command with you. I thought 
+they had joined the line. 
+</p><p>
+Yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

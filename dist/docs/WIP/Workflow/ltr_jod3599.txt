@@ -1,0 +1,23 @@
+<letter id="jod3599">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='1'>1</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I WISH you a happy new year, and a repetition of 
+happy new years as long as time shall endure ; not 
+here below, because I shall want you in another 
+country, better than this. 
+What do you say ? Shall I keep a national thanks 
+giving with you ? I hope, before that day, we shall 
+have good news from all our family, though we can 
+not be all together. 
+</p><p>
+Compliments of the season to L., and all my 
+good friends. Don t forget my farm next time you 
+write. I hope to find a letter at the Senate chamber. 
+</p><p>
+Adieu. 
+</p>
+</letter>

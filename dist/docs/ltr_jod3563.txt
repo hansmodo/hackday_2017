@@ -1,0 +1,37 @@
+<letter id="jod3563">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel="day origin" value='14'>14</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE received yours of the 5th. If you think it 
+best, leave Thomas at college, but I pray you to 
+come on with Charles, as soon as possible. As to the 
+place, let my brother plough and plant as he will, 
+as much as he will. He may send me my half of 
+the butter, cheese, &c., here. As to money to bear 
+your expenses, you must, if you can, borrow of some 
+friend, enough to bring you here. If you cannot 
+borrow enough, you must sell horses, oxen, sheep, 
+cows, any thing at any rate rather than not come on. 
+If no one will take the place, leave it to the birds of 
+the air and beasts of the field, but at all events break 
+up that establishment and that household. As to 
+Daniel, he has a wife and cannot leave her ; besides, 
+he makes great wages where he is ; but if you have 
+a mind to bring Daniel, you may. We can do with 
+out him. 
+</p><p>
+I have as many difficulties here, as you can have, 
+public and private ; but my life from my cradle has 
+been a series of difficulties, and that series will continue to the grave. I hope Briesler will come, but if 
+he cannot, we can do without him. I have taken Moustier's house, on the North River, a mile out of 
+town. There is room enough and accommodations 
+of all sorts, but no furniture. 
+</p><p>
+I am, &c., tenderly, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>. 
+</p>
+</letter>

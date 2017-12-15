@@ -1,0 +1,26 @@
+<letter id="joj4050">
+<recipient first="Juliana" last="Penn" type="individual"/>
+<p>   	 
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="12">Dec</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+I shall always be exceedingly happy, my lady in every opportunity of confirming the favourable opinion with which your ladyship and the amiable friend to whom I 
+believe you allude, have been impressed. The misfortunes incident to war are always to be regretted, and humanity will not cease to sympathize with those on either side, who, without deserving, have experienced its rigours. 
+</p><p>
+It gives me pleasure to inform your ladyship, that according to the preliminaries agreed to between Great Britain and America, Congress will recommend in a very benevolent manner to the reconsideration of the different States, 
+the measures they have taken against certain individuals. The nature of our government rendered every other mode 
+of revising those cases improper ; and as some persons might have much, others little, and many no reason to complain, ft was the most eligible and obvious mode of ascertaining the merits of each ; there is also reason to expect 
+that whatever undue degrees of severity may have been infused into our laws by a merciless war, and a strong 
+sense of injuries, will yield to the influence of those gentler emotions, which the mild and cheerful season of peace and tranquillity must naturally excite. 
+</p><p>
+Your ladyship will, therefore, see the necessity as well as propriety of applying after the war, to the Legislature of Pennsylvania, for a reconsideration of the act respecting 
+your family. For my part, I believe that justice will be done to all ; and I hope that clemency and reconciliation will be refused only to the faithless and the cruel. The 
+same magnanimity which has distinguished the conduct of America in times of danger and distress, will doubtless enable her to receive prosperity with dignity and gratitude, 
+and to use it with moderation and philanthropy. I have the honour to be, with perfect respect,
+</p><p> 
+Your ladyship's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

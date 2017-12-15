@@ -1,0 +1,15 @@
+<letter id="mbc7611">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Second year of Confederate independence. I write daily for my own diversion. These memoires 
+pour servir may at some future day afford facts about these times and prove useful to more important people than 
+I am. I do not wish to do any harm or to hurt any one. If any scandalous stories creep in they can easily be burned. 
+It is hard, in such a hurry as things are now, to separate the wheat from the chaff. Now that I have made my protest and written down my wishes, I can scribble on with a free will and free conscience. 
+</p><p>
+Congress at the North is down on us. They talk largely of hanging slave-owners. They say they hold Port Royal, 
+as we did when we took it originally from the aborigines, who fled before us; so we are to be exterminated and improved, a I Indienne, from the face of the earth. 
+</p><p>
+Medea, when asked: " Country, wealth, husband, children, all are gone; and now what remains? " answered: 
+: Medea remains." " There is a time in most men's lives when they resemble Job, sitting among the ashes and drinking in the full bitterness of complicated misfortune." 
+</p>
+</letter>

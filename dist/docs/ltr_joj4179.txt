@@ -1,0 +1,37 @@
+<letter id="joj4179">
+<recipient first="Calvin" last="Chapin" type="individual"/>
+<p>
+to the rev. calvin chapin. 
+</p><p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="12">Dec</a>, <a href='/results.php?year=1812' rel="origin">1812</a>. 
+</p><p>
+Rev. Sir, 
+</p><p>
+I received by the last mail your letter of the 19th September, containing a copy of " An act to incorporate the 
+American Board of Commissioners for Foreign Missions," 
+and an abstract from their minutes, purporting, that at a meeting of the board in September last, I had been elected a member of it. 
+</p><p>
+Such institutions become the religion we profess, and the 
+blessings we enjoy. Be pleased to assure the board that I 
+am very sensible of the honour they have done me; and 
+that I wish it was as much in my power, as it is in my 
+inclination, to attend their meetings and take an active part 
+in the business committed to them. For several years my 
+health has been declining, and my age, as well as the nature 
+of my complaints, do not permit me to expect the restoration of it. 
+</p><p>
+Reflecting that they who consent to accept a place or 
+office do impliedly engage to perform the duties of it, I 
+think it right to declare my inability to perform those in 
+question. If, therefore, any active services should be expected from me, I hope and request that the board will 
+consider themselves at liberty to give to this declaration 
+, the effect of a resignation, and proceed to elect another in 
+my stead. 
+</p><p>
+I am, reverend sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

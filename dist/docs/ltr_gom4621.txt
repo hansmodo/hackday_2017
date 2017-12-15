@@ -1,0 +1,58 @@
+<letter id="gom4621">
+<recipient first="William" last="Short" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="9">September</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Yours of the fourth instant arrived yesterday afternoon, and 
+I write now, that I may be in time for the post tomorrow. I 
+believe the delay of my letter was not in this city. As the 
+six millions are, I suppose, paid, it is not necessary to dilate 
+on that subject. 
+</p><p>
+In regard to the extent of my powers, I will explain to you my ideas thereon. At first I supposed that the management of 
+what relates to our debt was in some sort a needful appendage to this mission. Mr Jefferson's letter committing to me expressly an incidental negotiation, respecting a small part of it, 
+undeceived me. Counting however on your concurrence in 
+such measures as might appear proper, I should have gone on 
+to prepare with the Minister a plan for the final liquidation of 
+this object, could I have prevailed on him to attend to it. I 
+have since had occasion, when I treated with the Commissaries 
+of the treasury, to examine a little more minutely into my powers, so far as they relate to the debt, and I found that the management of it was committed entirely, and of course exclusively to you. Whether the knowledge they must have acquired 
+before the present moment, that nothing final is done, joined 
+to the idea that you are in Spain, will induce them to address 
+their orders to me, I know not ; and you will, I trust, excuse 
+me for adding that I hope not. 
+</p><p>
+Of all things I wish to steer clear of pecuniary transactions, 
+because they involve a species of responsibility which is most 
+irksome, and expose the agent to the chance of being called 
+by every calumniator, to answer at the bar of public opinion. 
+</p><p>
+You tell me, in the very moment you express an apprehension as to the validity of transactions with the present government, that you would be glad that I should take up certain of 
+our obligations, &tc. &c. On this head I must observe to you, 
+that the informations you have received and communicated to 
+me respecting the state of the account, and the objections made 
+by the Secretary of the Treasury, prove beyond a possibility of 
+doubt, that our government do not mean or wish that I should 
+meddle therein. I have not received a line from the Secretary of the Treasury of any kind. 
+</p><p>
+To return however to your wish. You will doubtless see 
+with me, that our obligations do not constitute, but only evidence 
+our debt. To possess ourselves of them, therefore, otherwise 
+than by due payment, would not cancel or alter the debt. 
+And from the moment you impeach the right of the present 
+government to receive the money, you invalidate any transactions respecting it which they may make. This observation I 
+make for your consideration ; it cannot in any wise affect my 
+conduct, because I am for the reasons already mentioned quite 
+unauthorised, and indeed indirectly prohibited from acting in 
+that behalf. 
+</p><p>
+Among the many scenes of bloodshed, which have of late 
+been exhibited, you will lament the fate of the Duke de la 
+Rochefoucault, killed in the presence of his aged mother. I 
+am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

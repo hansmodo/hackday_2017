@@ -1,0 +1,54 @@
+<letter id="rhl3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+The resolves of Congress, that you will receive by 
+this messenger, you may be assured are not intended, 
+by any means, to obstruct your views a single moment. 
+If your judgment should incline you to think that 
+the troops had better march to head-quarters as quick 
+as possible, you have only to order it, and it will 
+give pleasure to every good man here. The business 
+of speedily reenforcing you will not be obstructed, 
+but accelerated ; because they now enter the city, 
+where every day's stay is thirty days injury to the 
+great purpose of strengthening your hands ; and 
+should the enemy destine here, something like a military collection may produce a greater resort. If you 
+will indulge my conjecture, I think they cannot purpose coming here, because the water securities against 
+such a plan are really formidable, and the situation 
+of the land, where the water obstructions are fixed, is 
+such that great delay, and probable ruin, forbids the 
+enterprise, as they cannot so fix land batteries as to 
+remove the strong vessels that protect the chevaiix-de-frisCy added to the numerous fire-rafts and fire-ships 
+that, in a narrow water, with strong current, may destroy their fleet. 
+</p><p>
+Your army, Sir, feeble as it is, and the North River, are more tempting objects, because they are not 
+strong, and because the defeat of the one and the acquisition of the other, would avail our enemies greatly. 
+</p><p>
+My wishes are, Sir, and I think they correspond 
+with the true interests of America, that you should 
+quickly be possessed of a strong army ; that your 
+powers might be such as to gratify your wishes of 
+crushing our enemies, before an addition of strength 
+to them may render the business more difficult and 
+uncertain. I think I well know your situation, and, 
+from your excellent disposition, I know your feelings; 
+and I do most ardently wish to make the former 
+good, and to render the latter agreeable ; and there 
+fore whenever I can know either from yourself, all 
+the powers I possess shall be exerted to accomplish 
+both. The troops of Maryland are now under inoculation, and so are about one thousand Virginians from 
+<a href='/results.php?city=baltimore' rel='city'>Baltimore</a> to Wilmington inclusive. Here, we sup 
+pose, may be near one thousand of all kinds, who, 
+by the new plan of encampment, will be in tents as 
+quickly as the physicians can discharge them, or the 
+officers collect them from this attractive scene of debauch and amusement. With every hearty wish for 
+your health and prosperity, I remain, dear Sir, 
+Most affectionately yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter>

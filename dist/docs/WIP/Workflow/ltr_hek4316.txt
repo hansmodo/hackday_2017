@@ -1,0 +1,22 @@
+<letter id="hek4316">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='28'>28</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+My dear Sir,
+</p><p> 
+I cannot refrain from trespassing on your time, by expressing to you the perfect satisfaction, which the 
+people of New England possess, by the operations of the General Government. The unanimity of the Legislature of this State was such, as to overbear all 
+dispositions of a disorganizing nature. Had the Legislature conceived it proper, or Constitutional, they 
+would have expressed their approbation in the highest degree. But they conceived this would be a two-edged sword. <a href='/results.php?tla=jod' rel='colleague met'>Mr. Adams</a>, the Governor, may console himself with his good intentions, but he has no 
+credit for them in the opinion of the wise and enlightened part of his countrymen. 
+</p><p>
+The whole country, from Maryland to New Hampshire inclusively, may be considered as a phalanx of good order and attachment to the administration of 
+the General Government. A conviction of the existence of this disposition, and the most cordial affection to you, must afford you sensations of satisfaction 
+which are inexpressible, especially after the gloomy threatenings of anarchy, which prevailed but in too many places the last summer. May this satisfaction never be clouded for a moment ! 
+</p><p>
+I am, with perfect attachment, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

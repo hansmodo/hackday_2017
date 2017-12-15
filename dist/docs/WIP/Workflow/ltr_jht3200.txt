@@ -1,0 +1,44 @@
+<letter id="jht3200">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, <a rel="day origin" value="29">29</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+I suppose your Excellency is not wholly unacquainted with the character of Mr. David Bushnell, 
+the bearer. He has had a liberal education, and discovers a genius capable of great improvement, in mathematical ; philosophic, and mechanical literature. His 
+inventions for annoying the enemy's shipping are new 
+and ingenious, and, I trust, founded on such principles 
+as would insure success. The vigilance practised in 
+guarding the shipping has, I suppose, been the only 
+means of preventing such execution as would have 
+been attended with very alarming and beneficial con 
+sequences. He has, with persevering and indefatigable industry, pursued the object with very little 
+prospect of any other reward than that of serving 
+his country. 
+</p><p>
+Misfortune and accident have prevented the execution of this design ; but there is reason to believe 
+the explosion of one of his machines, taken on board 
+one of the enemy's ships some time since, has greatly 
+alarmed their marine, and made them very cautious 
+in their approaches to any of the neighbouring shores. 
+</p><p>
+It is a pity that so promising a genius should 
+not be encouraged. I understand an establishment of 
+miners and sappers is forming under, your Excellency's direction, and would therefore take the liberty 
+to propose to your Excellency, whether a person of 
+his particular genius might not be very useful in 
+that department. 
+</p><p>
+If you should not have filled, and cannot probably 
+fill, the officers with gentlemen of greater merit and 
+genius, permit me to recommend Mr. Bushnell to the 
+office of Captain in that service, which, from his abilities, genius, and integrity, I should judge him capable to execute with honor and advantage. The Council 
+of this State, now convened, join with me in this re 
+commendation. I am, with very high respect and esteem, your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

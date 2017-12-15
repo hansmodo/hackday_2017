@@ -1,0 +1,38 @@
+<letter id="gom4683">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='20'>20th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I intend to despatch Captain Culver tomorrow morning, and 
+shall give into his charge a box containing three dies of medals, 
+and three boxes containing each one pair of dies. Whether 
+he will be able to take them to you is uncertain, owing to 
+trifling circumstances. I have not yet got the passports for 
+them ; and he tells me, that his vessel is in the basin at Havre,, 
+consequently must come out at the present full tides, or stay a 
+long time; so that, if I have not the passport in the morning, I 
+will take the chance of sending it after him. 
+</p><p>
+It appears that the French army has forced the Prince de 
+Cobourg to raise the siege of Maubeuge ; but he has crossed 
+the Sambre in good order, and perhaps we may soon hear of 
+him again. Be that as it may, the French have experienced 
+a complete defeat in Alsace. The lines of the Lauter have 
+been forced, and they have lost everything. A great part 
+of the army is cut to pieces, and the rest is we know not 
+where. 
+</p><p>
+I have been told that a plot for delivering up Strasbourg has 
+been discovered, and that a great majority of the inhabitants 
+are concerned in it. Also that serious apprehensions are yet 
+entertained for the fate of that city. The advanced period of 
+the season is, however, favorable to the party which is on the 
+defensive in that quarter. November generally brings foul 
+weather there ; so that the assailants must, I think, look out for 
+winter quarters instead of pushing into the country. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

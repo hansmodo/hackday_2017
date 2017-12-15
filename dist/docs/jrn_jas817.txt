@@ -1,0 +1,8 @@
+<letter id="jas817">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel="month origin" value="10">October</a> <a rel='day origin' value='21'>21st</a>. [<a href='/results.php?year=1846' rel='origin'>1846</a>]
+</p><p>
+Received Bandas (Proclamations) and Orders of Governor Pio Pico and <a href="/results.php?tla=jsc" rel="">Genl. Castro</a>. This was on account rumors was circulating that war had been declared between the U. States and Mexico. On the 23d a Meeting was held of the Emigrants at the Fort (Thursday). After the Proclamations had been translated to the Meeting, they adjourned over until Monday next.
+</p>
+</letter>

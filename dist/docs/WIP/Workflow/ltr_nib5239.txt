@@ -1,0 +1,24 @@
+<letter id="nib5239">
+<recipient first="George" last="Hoffman" type="individual"/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Washington</a> <a rel="month origin" value="11">Nov'r</a>. <a rel='day origin' value='22'>22nd</a> <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+Dear Sir 
+</p><p>
+. . . The best feelings are entertained toward the bank 
+by those whose opinions are most valuable and most useful. 
+I am very desirous of making &amp; for that purpose, am particularly solicitious to avoid giving, at the present moment, 
+any occasion for the revival of a jealousy which has been recently and deeply felt, in regard to the apparent exclusion or 
+omission from the Local Boards of persons favorable to the 
+present administration. My stay in <a href='/results.php?city=baltimore' rel='city'>Baltimore</a> was too short 
+to allow me to consult with you on the subject, but <a href='/results.php?tla=roc' rel='colleague friend'>Mr. Colt</a> 
+mentioned the names of five gentlemen who were to be 
+nominated and all of whom, it appeared, were in opposition 
+to the present administration so that out of the whole 13, 
+there are only two gentlemen who are in political harmony 
+with the administration. You know, my dear Sir, how entirely indifferent I am to what are called politics &amp; how unwilling I am to introduce things of that kind into the affairs of the Bank. At the same time, it is proper in itself, as 
+well as highly expedient, not to give unnecessary offence &amp; not to do anything which might have the appearance 
+of partiality. I am afraid that this great disproportion, tho 
+entirely accidental, may be the ground of objection &amp; reproach. . . . 
+</p>
+</letter>

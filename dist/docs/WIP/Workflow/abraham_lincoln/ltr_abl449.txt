@@ -1,0 +1,26 @@
+<letter id='abl449'>
+<recipient first='David' last='Hunter' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>,<br/>
+June 30, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+MAJOR-GENERAL HUNTER.
+</p><p>
+MY DEAR GENERAL:--I have just received your letter of the 25th of June.
+</p><p>
+I assure you, and you may feel authorized in stating, that the recent
+change of commanders in the Department of the South was made for no
+reasons which convey any imputation upon your known energy,
+efficiency, and patriotism; but for causes which seemed sufficient,
+while they were in no degree incompatible with the respect and esteem
+in which I have always held you as a man and an officer.
+</p><p>
+I cannot, by giving my consent to a publication of whose details I
+know nothing, assume the responsibility of whatever you may write.
+In this matter your own sense of military propriety must be your
+guide, and the regulations of the service your rule of conduct.
+</p><p>
+I am very truly your friend,<br/>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</p>
+</letter>

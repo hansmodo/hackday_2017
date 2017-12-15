@@ -1,0 +1,30 @@
+<letter id="nib5283">
+<recipient first="J" last="Barbour" type="individual"/>
+<p>
+(private) <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="4">April</a> <a rel='day origin' value='16'>16th</a> . <a href='/results.php?year=1833' rel="origin">1833</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+... The fact is that the real sin of the Bank in the 
+eyes of the Executive is, that it is refractory &amp; unmanageable. When these people first came into power on a current of 
+overwhelming popularity, to which they thought every thing 
+should yield, they considered the Bank a part of the spoil, 
+and one of their first efforts was to possess themselves of the 
+institution for the benefit of their partizans. We saw all that 
+would follow from the slightest concession and deter 
+mined, since there must be War, to begin it in the frontiers 
+by letting them know that they were to have nothing to 
+do with the Bank. From that time they resolved, that as\ 
+they could not bend it they would break it. This is the whole \ 
+secret of the opposition to the institution. I know this so well ) 
+that I feel myself a much more profound Jurist than all the \ 
+lawyers and all the statesmen of Virginia put together, for in / 
+half an hour, I can remove all the constitutional scruples in the 
+District of Columbia. Half a dozen Presidencies a dozen 
+Cashierships fifty Clerkships a hundred Directorships 
+to worthy friends who have no character and no money. 
+Why, there is more matter for deep reflection in such a sentence than in any twenty of Tacitus or Montesquieu. It 
+would outweigh the best argument of your Madisons &amp; Randolphs &amp; Watkins Leigh s. But that sentence, short and easy 
+as it seems, shall never be written or said: and so we must go on to the end of the chapter, and the charter. . . . 
+</p>
+</letter>

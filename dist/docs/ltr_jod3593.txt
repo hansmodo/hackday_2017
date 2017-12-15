@@ -1,0 +1,28 @@
+<letter id="jod3593">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='15'>15</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+MY vote, I believe, will never be again given for an 
+adjournment of Congress to an earlier day than that 
+which is designated by the constitution, because I 
+find that gentlemen cannot conveniently leave their 
+plantations and professions in season to be here sooner. 
+A fortnight has been already lost and we have no certainty of making a Senate on Monday. 
+</p><p>
+By the papers that wrap Dumouriez's Memoirs, you 
+will see the drooping state of a silly and wicked rebellion. Lee, assisted by Hamilton perhaps, appears with dignity, moderation and decision. The 
+triumph of Smith, Ames, and Dexter, is very exhila 
+rating to the friends of peace, and equally mortifying 
+to the unblushing advocates of confusion. 
+</p><p>
+I am more conveniently quartered than I ever was 
+before, since my family left this town. 
+</p><p>
+My love and duty, &c., 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

@@ -1,0 +1,37 @@
+<letter id="jhm3900">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received your letter of the and , and I now enclose you a copy of a letter from Governor Burke, which explains what Ganey 
+has been for some time past complaining of. I hope you will pay 
+particular attention to Gov. Burke's requisition, that none of the disaffected of his State may be suffered to harbor with Ganey and his party; 
+and it would be well to apprize him that if, when driven out of North 
+Carolina, they are sheltered by any of his party in this State, it will be 
+deemed an infraction of the truce, and consequently the North Carolinians will have a right to enter th e neutral ground, and apprehend 
+the fellows wherever they are found. If it can be clearly proved that 
+the truce has been violated on their part, how far it might be advisable 
+for you to co-operate with the North Carolinians, and by one decisive 
+blow crush this infamous banditti, I must leave with you to determine. 
+As to the proposal you make respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself having fully considered that matter, have given 
+you our opinion thereon, which I suppose you have received ere this. 
+But should there be any great difficulty in carrying our determination into 
+execution, I have no objection to adopting the mode you now propose, 
+if <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> approves of it, except that part " to recruit Maham's 
+corps to one hundred and twenty men/ as the time of service of the 
+men will expire in July, therefore, it would not be worth while to incur 
+the expense. I am very glad you have got some negroes for the recruiting service. I wish Col. Grimke would continue to furnish you with 
+them, and not wait for my orders, which I can give him hereafter, when 
+I know the quantity delivered to you. The orders you have lately received from me renders it unnecessary to say anything now respecting 
+Mr. Philip Porcher. 
+</p><p>
+Since writing the above, I have seen <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, and he approves 
+of <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps being continued as infantry, agreeable to your proposal. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

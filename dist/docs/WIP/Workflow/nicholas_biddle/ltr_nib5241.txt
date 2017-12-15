@@ -1,0 +1,16 @@
+<letter id="nib5241">
+<recipient first="George" last="Hoffman" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec'r</a>. <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+My Dear Sir 
+</p><p>
+I had this morning the pleasure of receiving your favor of the 14th . You may readily imagine my surprize at 
+seeing the remarks in the message after all I had mentioned to you in <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. But it is better to try to repair it than to 
+regret it and I am not sure whether it may not on the whole do good by satisfying the country of the usefulness of the 
+institution &amp; spreading a very salutary dread of the monster whom it is proposed to substitute for it. The consolations on 
+the present occasion are, that this is a measure emanating exclusively from the President in person, being the remains 
+of old notions of constitutionality, 1 that it is not a Cabinet measure nor a party measure ; that the whole foundation of the 
+reproach of the want of a sound currency is so notoriously the very reverse of the fact; and that it has produced in all quarters the most decided disapprobation. .... 
+</p>
+</letter>

@@ -1,0 +1,108 @@
+<letter id="nag3713">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=guilford' rel='city origin'>Camp, Guilford Court-House</a>, <a rel='day origin' value='9'>9</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Since I wrote your Excellency by Major Giles, 
+Lord Cornwallis has been constantly in pursuit of the 
+light infantry and the prisoners, and is now between 
+the Shallow Ford, upon the Yadkin and Salem, one 
+of the Moravian towns ; and still pushing into the 
+country with great rapidity. The moment I was informed of the movements of Lord Cornwallis, I put 
+the army in motion on Pedee, and left it under the 
+command of Brigadier-General linger, and set out to 
+join the light infantry, in order to collect the militia, 
+and embarrass the enemy till we could effect a junction of our forces. 
+</p><p>
+General Morgan, after the defeat of Tarleton, had 
+very judiciously made forced marches up into the 
+country, and happily crossed the Catawba the evening before a great rain, which prevented the enemy 
+from following him for several days, during which 
+time the prisoners were got over the Yadkin, and on 
+their march for Dan River, which I hope they have 
+passed, and are in Virginia. 
+</p><p>
+On my arrival at the light infantry camp, I found 
+them at Sherald's Ford, on the Catawba. The enemy were a little lower down the river, at Mc Cowen's forces and the river still so high that they could not 
+cross. We made the best disposition we could to 
+stop them, when the river should fall. But the fords 
+were so numerous, and our forces so small, that we 
+could not effect it. General Davidson, who had great 
+influence among the Muhlenberg and Roan militia, 
+had made use of all the arguments in his power to 
+get the militia into the field, but without effect. 
+They had been so much in service, and their families 
+so distressed, that they were loath to leave home, 
+even on the most pressing occasion. 
+</p><p>
+The enemy crossed at McCowen's Ford, where General Davidson was posted with the greatest part of 
+the militia, who fled at the first discharge. The enemy made good their landing, and the militia retreated. A place of rendezvous was appointed for the militia to collect at, who were posted at the different 
+fords up and down the river above thirty miles. Part 
+of them halted about seven miles short of the place 
+of rendezvous, and were overtaken by Tarleton, and 
+dispersed. I waited that night at the place appointed for the militia to collect at, until morning ; but 
+not a man appeared. The light infantry continued 
+their march to Salisbury, and crossed the Yadkin. 
+But before we got over all the baggage and stores, 
+the enemy were at our heels. A pretty smart skirmish happened between a party of our riflemen and 
+the advance of the enemy near the ford. We had 
+secured all the boats, and the river was so high that 
+the enemy could not follow us. 
+</p><p>
+Heavy rains, deep creeks, bad roads, poor horses, 
+and broken harness, as well as delays for want of 
+provisions, prevented our forming a junction as early 
+as I expected; and, fearing that the river might fall 
+so as to be fordable, I ordered the army to file off to this place, where part of them arrived last evening; the rest I hope will be in this night. The enemy, finding they conld not cross the Trading Ford, 
+marched up to the Shallow Ford, where they passed 
+the night before last, and are within twenty-five or 
+thirty miles of this place. 
+</p><p>
+As soon as I arrived at the light infantry camp, I 
+wrote letters to all the militia officers over the mountains, and in the upper country, to embody their 
+men and join the army as early as possible. But 
+very few have joined us, and those principally without arms or ammunition. We have no provisions but 
+what we receive from our daily collections. Under 
+these circumstances, I called a Council, who unanimously advised to avoid an- action, and to retire beyond the Roanoke immediately. A copy of the proceedings I have the honor to inclose, 
+</p><p>
+I had previously ordered all the stores and heavy 
+baggage to be removed to Prince Edward CourtHouse ; and informed Governor Nash of our situation. 
+I have formed a light army, composed of the cavalry 
+of the first and third regiments, and the legion, 
+amounting to two hundred and forty; a detachment 
+of two hundred and eighty infantry, under Lieutenant-Colonel Howard ; the infantry of Lieutenant-Colonel Lee's legion, and sixty Virginia riflemen ; making in the whole seven hundred men, who will be 
+ordered, with the militia, to harass the enemy in their 
+advance, check their progress, and, if possible, give 
+us an opportunity to retire without a general action. 
+</p><p>
+The force under Lord Cornwallis, consists of between twenty-five hundred and three thousand troops, 
+including near three hundred dragoons, and their 
+mounted infantry. They have destroyed their wagons, 
+and are completely equipped as light infantry. 
+I have the honor to inclose a copy of a letter 
+from Lieutenant-Colonel Lee, extracts of two letters 
+from <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>, and a copy of a letter from a 
+well-informed gentleman, respecting the operations at 
+Wilmington. General Morgan is so unveil that he 
+has left the army. The enemy, since the action of 
+the 17th ultimo, have pursued him upwards of two 
+hundred miles. He was obliged to leave the wounded, the arms, wagons, and carriages of the artillery, 
+taken in the action; but I hope they have not fallen 
+into the hands of the enemy. 
+</p><p>
+I have ordered <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a> to cross the Santee River, and General Sumpter to collect the militia in 
+the upper part of South Carolina. <a href='/results.php?tla=anp' rel='colleague met'>General Pickens</a> 
+has orders to take command of the men in arms in 
+the rear of the enemy. I have wrote <a href='/results.php?tla=pah' rel='colleague'>Mr. Henry</a>, 
+the late Governor of Virginia, to collect, if possible, 
+fourteen or fifteen hundred volunteers, to aid us, 
+should the enemy attempt to pursue us beyond the 
+Dan River. I had the satisfaction to receive your 
+Excellency's despatches of the 27th of December, and 
+the 2d and 9th of January, a few days since. I 
+have the honor to be, with sentiments of the highest 
+esteem and respect, yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

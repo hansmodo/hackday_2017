@@ -1,0 +1,67 @@
+<letter id="ben4807">
+<recipient first="William" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1771' rel="origin">1771</a>. 
+</p><p>
+DEAR SON, 
+</p><p>
+It is long since I have heard from you. The last Packet 
+brought me no Letter, and there are two Packets now due. 
+It is supposed that the long easterly Winds have kept them 
+back. We have had a severe and tedious Winter here. 
+There is not yet the smallest Appearance of Spring. Not 
+a Bud has push'd out, nor a Blade of Grass. The Turnips 
+that us'd to feed the Cattle have been destroy'd by the Frost. 
+The Hay in most Parts of the Country is gone, and the Cattle 
+perishing for Want, the Lambs dying by thousands, thro' 
+Cold and scanty Nourishment. Tuesday last I went to dine 
+at our Friend Sir Matthew Featherstone's thro a heavy 
+Storm of Snow. His Windows you know look into the Park. 
+Towards Evening I observed the Snow still lying over all the Park, for the Ground was before too cold to thaw it, being 
+itself frozen & Ice in the Canal. You cannot imagine a more 
+winterlike Prospect! Sir M. and Lady F. always enquire 
+kindly of your Welfare: As do Mr. and Mrs. Sargent. 
+</p><p>
+Sir John Pringle has heard from Mr. Bowman of your kindness to that gent n , and desires I would present his particular 
+Acknowledgments for the Attention you have paid to his Recommendation. The Ohio Affair seems now near a Conclusion. And if the present Ministry stand a little longer, I 
+think it will be compleated to our Satisfaction. <a href='/results.php?tla=thw' rel='friend met co-worker'>Mr. Wharton</a> 
+has been indefatigable, and I think scarce any one I know 
+besides would have been equal to the Task, so difficult it is 
+to get Business forward here, in which some Party Purpose 
+is not to be served: But he is among them, eternally, & 
+leaves no Stone unturn'd. I would, however, advise you not 
+to say anything of our Prospect of Success, till the Event 
+appears, for many things happen between the Cup & the Lip. 
+</p><p>
+I have attended several Times this Winter upon your 
+Acts of Assembly. The Board are not favourably disposed 
+towards your Insolvent Acts, pretending to doubt whether 
+distant Creditors, particularly such as reside in England, may 
+not sometimes be injured by them. I have had a good deal 
+of Conversation with Mr. Jackson about them, who remarks 
+that whatever Care the Assembly may, according to my Representation of their Practice, take in examining into the Cases 
+to prevent Injustice, yet upon the Face of the Acts nothing of that Care appears. The Preambles only say that such 
+& such Persons have petitioned & set forth the Hardship 
+of their Imprisonment, but not a Word of the Assembly's 
+having enquired into the Allegations contained in such Petitions and found them true, not a Word of the general Consent 
+of the principal Creditors, or of any publick Notice given of 
+the Debtor's Intention to apply for such an Act; all which 
+he thinks should appear in the Preambles, and then those 
+Acts would be subject to less Objection and Difficulty in 
+getting them through the Offices here. I would have you 
+communicate this to the Speaker of the Assembly, with my 
+best Respects. I doubt some of those Acts will be repeal'd. 
+Nothing has been done, or is now likely to be done by the 
+Parliament in American Affairs: The House of Commons 
+& the City of London are got into a violent Controversy, 
+that seems at present to engross the publick Attention, and 
+the Session cannot continue much longer. 
+</p><p>
+By this Ship I send the Picture that you left with Meyer. 
+He has never yet finished the Miniatures. The other Pictures I send with it are for my own House, but this you may 
+</p><p>
+take to yours. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,186 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--joh
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Hancock
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="joh3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+It is with the highest pleasure I comply with the 
+order of Congress, in conveying to you the inclosed 
+resolve, expressing the thanks of that body to you 
+for the wise and well-concerted attack upon the enemy, near Germantown, on the 4th instant, and also 
+to the officers and soldiers for their brave exertions 
+on that occasion; and I must request you will communicate to them the distinguished mark of the approbation of their country. 
+</p><p>
+It is indeed true, that the best designs and boldest efforts may sometimes fail of success, through 
+unforeseen incidents, yet is it a source of satisfaction 
+to reflect, in such instances, that every thing has 
+been done to insure success, that human wisdom 
+could devise. Something must still be left to fortune. 
+It is not in mortals to command success. But permit 
+me to say, Sir, you have done more on this occasion ; 
+you have deserved it. 
+</p><p>
+Wishing, with the utmost sincerity, that your great 
+and virtuous exertions in the cause of freedom and 
+your country may be crowned with victory, I have 
+the honor to be, with perfect esteem and respect. Sir, 
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The absolute necessity of cutting off all supplies 
+and intelligence from the enemy, in and near the 
+city of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and thereby preventing any 
+intercourse between them and the disaffected in the 
+State of Pennsylvania and elsewhere, has induced 
+the Congress to adopt the inclosed resolves, in hopes, 
+if possible, to put an effectual stop to a practice so 
+extremely dangerous to the cause of America. They 
+have, for this end, authorized you to sentence, by 
+court-martial, any person convicted of either of the 
+above-mentioned offense, or of acting as a guide or pilot, to suffer death, or such other punishment 
+as may be thought adequate, provided he is taken 
+within thirty miles of any town in Pennsylvania, Jersey, or Delaware, that is in possession of the enemy. 
+They have also recommended to the good people of 
+this and the other States to be vigilant in apprehending and securing all such persons as may be 
+caught in the violation of the inclosed resolves, to 
+which I beg leave to refer your attention. 
+</p><p>
+Your favor of the 5th instant was duly received, 
+and immediately laid before Congress. I have the 
+honor to be, with the greatest respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have nothing in charge from Congress, at this 
+time, but to transmit the inclosed resolves, and to re 
+quest your attention to them. 
+</p><p>
+The information that the enemy have, at different 
+times, compelled our troops, who are prisoners with 
+them, to labor, and that a number are at this time 
+actually engaged in throwing up some works at and 
+near Kensington, is of such a nature that Congress 
+think it incumbent on them to inquire into the truth 
+of it. They have, therefore, directed that a flag be 
+immediately despatched to General Howe, to know 
+whether there is any foundation for the report; and 
+I am to request you will send a flag for this purpose 
+as soon as you conveniently can. M. Le Balme having desired leave of Congress to resign his commission as Inspector of the cavalry, they have accordingly complied with his request. I have the honor 
+to be, with the utmost respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>.
+</p><p>
+SIR, 
+</p><p>
+It is now above two years since I have had the 
+honor of presiding in Congress ; and I should esteem 
+myself happy to have it in my power to render further service to my country in that department ; but 
+the decline of health, occasioned by so long and unremitting an application to the duties of my office, 
+both in Congress and out of Congress, joined to the 
+situation of my own private affairs, has, at length, 
+taught me to think of retiring for two or three months ; and I have determined to take my leave 
+the ensuing week, and set out immediately for <a href='/results.php?city=boston' rel='city'>Boston</a> after this express returns. 
+</p><p>
+As the Congress will doubtless proceed to appoint a successor in my stead, on him, therefore, will devolve the business of the chair. It will fall within 
+the line of his duty to keep up that connection and 
+correspondence with you, which has heretofore been 
+mine; and I sincerely hope he may do it, as well as 
+discharge every other duty incident to the office, 
+with more advantage than I have done. Upon the 
+review, however, of the intercourse that has subsisted 
+between us, I cannot avoid saying, that I feel a 
+great degree of pleasure in having, to the utmost of 
+my power, endeavoured to execute the business committed to my care, and in a particular manner with 
+regard to the army under your command. I flatter 
+myself my conduct, in this instance, will meet with 
+your approbation. The politeness and attention I have 
+ever experienced from you, in the course of our correspondence, will always be a source of the most pleasing satisfaction to me. 
+</p><p>
+As it is probable I shall meet with some difficulty 
+in crossing the North River, and shall run a considerable risk in passing through some Tory towns 
+on the east side, I must ask the favor of you to 
+give me authority to order a few light-horse from 
+thence, to escort me through that part of the country. I apprehend I may safely go from hence to the 
+North River, though I should be happy in having 
+your opinion, and as to the best route. 
+</p><p>
+On my arrival in <a href='/results.php?city=boston' rel='city'>Boston</a>, I shall think myself happy to be favored with any commands from you; and 
+should any thing of a public nature occur, I will do 
+myself the honor of letting you hear from me. 
+</p><p>
+With the most sincere wishes that you may soon 
+triumph over the enemies of America, and meet with 
+every public and private prosperity, and with the ut 
+most respect, I am, Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>.
+</p>
+</letter><letter id="joh3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, Pennsylvania, <a rel="day origin" value="25">25</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I was duly honored with your favor of the 22d. 
+and am much obliged by the expressions of politeness 
+and friendship which it contains. A few months re 
+laxation will, I hope, restore my health and constitution, and enable me still to contribute my feeble 
+efforts, in some mode or other, to the advancement of 
+the cause of freedom in America, If I should not 
+return to Congress, it will be the height of my inclination, as it will also be in my power, to render 
+some service to the general interest in my own native 
+country. 
+</p><p>
+As I propose setting out on Monday, and shall go 
+through <a href='/results.php?city=Bethlehem' rel='city'>Bethlehem</a>, I must request that the escort of 
+horse you so politely offered to attend me, may meet 
+me there. Should I reach <a href='/results.php?city=Bethlehem' rel='city'>Bethlehem</a> before them, I 
+shall wait their arrival. In the present critical state 
+of our affairs, I believe I should decline setting out 
+for a few days ; but, having wrote to Mrs. Hancock 
+to meet me at some distance from <a href='/results.php?city=boston' rel='city'>Boston</a>, I am 
+under a necessity of beginning my journey on Monday morning. I am, dear Sir, with great esteem and 
+regard, 
+</p><p>
+Your most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

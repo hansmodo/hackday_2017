@@ -1,0 +1,8 @@
+<letter id="mbc7802">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Dr. Boykin and John Witherspoon were talking of a nation in mourning, of blood poured out like 
+rain on the battle-fields for what? " Never let me hear that the blood of the brave has been shed in vain! No; 
+it sends a cry down through all time." 
+</p>
+</letter>

@@ -1,0 +1,29 @@
+<letter id='mad1649'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="http://www.familytales.org/results.php?city=new york" rel="city">New York</a>, May 17, <a href="http://www.familytales.org/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, Your favor of the 3d instant was not received 
+till two days ago. It is not certain, however, that the post 
+office is chargeable with the delay, the date of its receipt, 
+stamped at <a href="http://www.familytales.org/results.php?city=fredericksburg" rel="city">Fredericksburg</a>, being the 6th of the month. 
+</p><p>
+The. progress of our revenue system continues to be slow. 
+The bill rating the duties is still with the Senate. It is said 
+that many alterations will be proposed, consisting of reductions 
+chiefly. It is said, also, that the proposition for putting Great 
+Britain on the same footing with our Allies in all respects, 
+prior to a treaty with her, will have a majority in that House, 
+and will undergo another agitation in the House of Representatives. It had before three trials in the latter, but it lost 
+ground in each, and finally was in a minority of 9 or 10 against 
+near 40. I think it an impolitic idea as it relates to our 
+foreign interest, and not less so, perhaps, as it relates to the 
+popular sentiment of America, particularly of Virginia, and 
+still more particularly of that part of it which is already most 
+dissatisfied with the new Government. 
+</p><p>
+I communicated your compliments to the President, who 
+received them with professions of his great esteem and regard 
+for you, and desired me to make the proper returns for them. 
+</p>
+</letter>

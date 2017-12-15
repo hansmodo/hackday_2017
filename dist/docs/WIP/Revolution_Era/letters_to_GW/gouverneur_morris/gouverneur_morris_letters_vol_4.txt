@@ -1,0 +1,926 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.tKPBDn on line 294
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--gom
+--DOC-AUTHOR-FIRST--Gouverneur
+--DOC-AUTHOR-LAST--Morris
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="gom4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='29'>29</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I had the pleasure to write to you a short letter on the od of last month. Monsieur de Lafayette is 
+since returned from his political campaign in Auvers-ne, crowned with success. He had to contend with prejudices, and the interests of his order, and 
+with the influence of the Queen and Princes (except the Duke of Orleans) ; but he was too able for his 
+opponents. He played the orator with as much eclat as ever he acted the soldier, and is at this moment 
+as much envied and hated as his heart could wish. He is also much beloved by the nation ; for he stands forward as one of the principal champions for her 
+rights. 
+</p><p>
+The elections are finished throughout this kingdom, 
+except in the capital ; and it appears, from the instructions given to the Representatives (called here les CaJiiers) that certain points are universally demanded, 
+which, when granted and secured, will render France perfectly free, as to the principles of the Constitution. 
+I say the principles, for one generation at least, will he required to render the practice familiar. We have, 
+I think, every reason to wish that the patriots may 
+be successfuL The generous wish that a free people 
+must have to disseminate freedom, the grateful emotion which rejoices in the happiness of a benefactor, 
+and a strong personal interest as well in the liberty 
+as in the power of this country, all conspire to make 
+us far from indifferent spectators. 
+</p><p>
+I say that we have an interest in the liberty of 
+France. The leaders here are our friends. Many of 
+them have imbibed their principles in America, and 
+all have been fired by our example. Their opponents 
+are by no means rejoiced at the success of our revolution, and many of them are disposed to form connections of the strictest kind with Great Britain. 
+The commercial treaty emanated from such dispositions; and, according to the usual course of those 
+events which are shaped by human wisdom, it will 
+probably produce the exact reverse of what was intended by the projectors. The spirit of this nation 
+is at present high, and M. Necker is very popular ; 
+but if he continues long in the administration, it will 
+be somewhat wonderful. His enemies are numerous, 
+able, and inveterate. His supporters are indifferent 
+as to his fate, and will protect him no longer than 
+while he can aid in establishing a Constitution. But, 
+when once that great business is accomplished, he will be left to stand on his own ground. The Court 
+wish to get rid of him, and unless he shows himself very strong in the States-General, they will gratify their wishes. His ability as a Minister will be much 
+contested in that Assembly; but with what success, time only can determine. 
+</p><p>
+The materials for a revolution in this country are 
+very indifferent. Everybody agrees that there is an 
+utter prostration of morals ; but this general position 
+can never convey to an American mind the degree 
+of depravity. It is not by any figure of rhetoric, or 
+force of language, that the idea can be communicated. 
+A hundred anecdotes, and a hundred thousand examples, are required to show the extreme rottenness 
+of every member. There are men and women who are 
+greatly and eminently virtuous. I have the pleasure 
+to number many in my own acquaintance. But they 
+stand forward from a background deeply and darkly 
+shaded. It is, however, from such crumbling matter 
+that the great edifice of freedom is to be erected 
+here. Perhaps, like the stratum of rock, which is 
+spread under the whole surface of their country, it 
+may harden when exposed to the air; but it seems 
+quite as likely that it will fall and crush the builders. 
+I own to you that I am not without such apprehensions, for there is one fatal principle which pervades all ranks. It is, a perfect indifference to the 
+violation of engagements. Inconstancy is so mingled 
+in the blood, marrow, and very essence of this people, that when a man of high rank and importance 
+laughs to-day at what he seriously asserted yesterday, 
+it is considered as in the natural order of things. 
+Consistency is a phenomenon. Judge, then, what 
+would be the value of an association, should such a 
+thing be proposed, and even adopted. The great 
+mass of the common people have no religion but their 
+priests, no law but their superiors, no morals but 
+their interest. These are the creatures who, led by drunken curates, are now in the high road a la aberte, 
+and the first use they make of it is to form insurrections everywhere for the want of bread. We have 
+had a little riot here yesterday and the day before, 
+and I am told that some men have been killed; but 
+the affair was so distant from the quarter in which I 
+reside, that I know nothing of the particulars. 
+</p><p>
+I am almost at the bottom of my paper, without mentioning what I at first intended. Six days ago I got from the maker your watch, with two copper 
+keys, and one golden one, and a box containing a spare spring and glasses, all which I have delivered 
+to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, who takes charge of them for you. 
+I am, &c., <a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter><letter id="gom4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=dieppe' rel='city origin'>Dieppe</a>, 	<a rel='day origin' value='31'>31</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I had the honor to write to you on the twenty-ninth of April last. I shall not trouble you with a 
+recital of events, which <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a> has, I know, 
+communicated to the office of Foreign Affairs. But 
+being now here on my way to London, and finding 
+a vessel bound directly to <a href='/results.php?city=new york' rel='city'>New York</a>, I take the opportunity to send some tables, which contain the political, military, pecuniary, and commercial state of 
+this country. I believe them to be tolerably authentic as far as they go. 
+</p><p>
+I will also communicate a matter, which <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a> was not yet informed of, and which I could not tell him, because I was forbidden to mention it 
+to any person here. You know, I dare say, that the Count de Moustier has his con^e. His successor will 
+be Colonel Ternant, — at first, in the character of Charge des Affaires, and when M. de Moustier is otherwise placed, it is highly probable that Ternant may 
+be made Minister ; but that will depend on the situation of the Court at the time, so that there I only 
+state probability. As to the other, you may rely on it, because my intelligence I know to be good. The important trait in this appointment is, that he is named as a person who will be agreeable to us. 
+</p><p>
+You may rely, also, on what I am about to mention, but which I pray you not to disclose. It is 
+known to very few in this country, and may, perhaps, as it ought, he huried in oblivion. The King 
+has actually formed the design of going off to Spain. 
+Whether the measure set on foot to dissuade him 
+will have, as I hope, the desired effect, time only can 
+discover. His fears govern him absolutely, and they 
+have of late been most strongly excited. He is a 
+well-meaning man, but extremely weak ; and probably 
+these circumstances will in every event secure him 
+from personal injury. An able man would not have 
+fallen into his situation ; but I think that no ability 
+can now extricate him. He must float along the current of events, being absolutely and entirely a cipher. If, however, he should fly, it would not be 
+easy to predict the consequences; for this country is 
+at present as near to anarchy as society can approach 
+without dissolution. There are some able men in the 
+National Assembly; yet the best heads among them 
+would not be injured by experience, and unfortunately 
+there are great numbers who, with much imagination, have little knowledge, judgment, or reflection. 
+You may consider the revolution as complete ; that is 
+to say, the authority of the King and of the nobility 
+is completely subdued. Yet I tremble for the Constitution. They have all that romantic spirit, and all 
+those romantic ideas of government, which, happily 
+for America, we were cured of before it was too late. 
+They are advancing rapidly. But I must check myself, or my reflections will occupy too much space 
+both for you and for me. 
+</p><p>
+One of the last persons I saw in Paris was M. de Lafayette. He had promised to trust me with a letter for you; but he must be excused, for he is as 
+busy as a man can be. Not long since, speaking to 
+him on his own subject, I told him some hints I had 
+given, tending to make him Governor of the Isle of 
+France, which, you know, includes Paris. He declared 
+that the command of the military in that city only, 
+was the utmost of his wishes ; that he was satiated 
+with power ; he had his sovereign, during the late 
+procession to Paris, completely within his authority ; 
+he had marched him where he pleased ; measured out 
+the degree of applause he should receive as he pleased ; and, if he pleased, could have detained him prisoner. All this is strictly true. He commanded on 
+that day at least eighty thousand men, who, during 
+the King's progress through them to the Hotel de Ville, shouted Vive la Nation, and only on his return cried Vive le Roi. 
+</p><p>
+I do not know whether vou will he informed of 
+the critical situation in which things were placed, 
+just before the last Ministry were turned out and 
+the old one restored. My authority is very good, 
+but yet I will not vouch for the truth. It was resolved to reduce Paris by flimine, to take two hundred of the States-General prisoners, to dissolve that 
+Assembly, and to govern in the old-fashioned way. 
+All this, you will say, was madness, and therefore improbable. But was it not equally mad to drive away 
+Necker, and change the Ministry at the time and in 
+the manner, which were chosen for that purpose ? 
+The men, weak enough for the one, were certainly 
+mad enough for the other. Two German regiments, 
+which were to be employed, were regaled by the 
+Queen in the Orangerie at Versailles. They received 
+promises and largesses, and were prevailed on to 
+shout Vive la Reiue, Vive le Comte iV Artois, Vive la 
+Diichcsse de Polignac. Afterwards, their music played 
+for hours under her Majesty's window. The Mareschal de Broglio endeavoured, at the same time, to 
+conciliate the artillery. But it was at length discovered, that, though the troops would shout and sing, 
+yet they would not fight against their countrymen. 
+All which might have been known long ago. At the 
+moment when their intrigue was carrying on by the 
+Court, the Gardes dii Corps and Gardes Frangaises 
+combined to defend the members of the National Assembly. I pass over those facts, which you cannot 
+but know, to mention, in one word, that the whole 
+army of France have declared for liberty; and that 
+one reason why his Majesty has not taken the steps 
+above mentioned, is, that he does not know a single 
+regiment that would obey him. 
+</p><p>
+Adieu, my dear Sir. I write this letter in much 
+hurry, and after much fatigue. Excuse in it everything inaccurate or inelegant, and pardon it, on the 
+score of that sincere and affectionate respect, with 
+which I am, &c., 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='22'>22</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Yesterday I went to dine with the Count de Montmorin,'-' and expressed to him my wish that France 
+might seize the present moment to establish a liberal 
+system of commercial policy for her Colonies. I observed, that her interest was deeply at stake, because 
+America could always dispose of the Islands, and 
+would naturally wish to see them in possession of 
+that power, under whose government they would be 
+most advantageous to her; that nothing could tend so 
+much to make the United States desirous of an alliance with Britain, as to exclude them from a free 
+trade AYith the French Colonies ; that, if the metropolis wishes to preserve the affection of her distant 
+subjects, and to derive from them the greatest commercial benefit, she ought to suffer them to draw 
+their subsistence from that quarter where thej can 
+obtain it most cheaply. He assured me, that he was 
+fully of my opinion ; said that our position rendered 
+it proper to make in our favor an exception from 
+their general system respecting other nations, and 
+that he hoped, within a fortnight, something might 
+be done. But he lamented, as he had done before, 
+that they have no Chief Minister, and consequently 
+no fixed plan nor principles. I shall see him again 
+before I depart, and also Monsieur de la Luzerne, 
+within whose department this matter regularly lies. He is an adherent to the exclusive system, which is unfortunate. 
+</p><p>
+In the National Assembly, also, there is a considerable difficulty. Among the most violent of the 
+violent party, are some Representatives of cities on 
+the western coasts of this kingdom, where the chief 
+commerce is with the Islands; and those who wish 
+for the closest union with America, do not wish to 
+offend these gentlemen, and therefore are desirous of 
+waving the matter at present. For my own [part], I 
+am very desirous that the business should be put in 
+train, at least. If successful, so much the better; but 
+at any rate, it will give an alarm on the other side 
+of the Channel. If either of these rival nations sets 
+the example, the other will soon follow ; and although 
+it is not very clear, that the actings and doings of the 
+AssemlUe Nationale in general will long endure, yet 
+whatever they grant to us in this particular business, 
+those who come after them will be fearful of retracting. Under these impressions, for a long time past, 
+I have been endeavouring to smooth the way towards 
+our object ; and I believe in the success. I am, &c., 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='22'>22</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir. 
+</p><p>
+In another letter of this date, I have mentioned a 
+part of yesterday's conversation with the Count de 
+Montmorin. That part of it, which I am now to communicate, is for yourself alone. As Monsieur de Lafayette had asked me some days ago, who should be 
+sent to replace the Comte de Moustier, and upon 
+my answering with great indifference, that it might 
+be whom he pleased, had asked my opinion of Colonel Ternant, I told the Count de Montmorin this circumstance ; to which he replied, that he had communicated his intention to Monsieur de Lafayette some 
+time since, in consequence of the intimacy which has 
+long subsisted between them. I asked him, if he 
+would permit me to mention it to you. The idea 
+gave him pleasure, and he told me that he should 
+consider it as a very great kindness, and particularly 
+if through the same channel he could learn whether 
+that appointment would be agreeable to you. This 
+is, you know, a compliment which the most respectable 
+Courts on this side of the Atlantic usually pay to 
+each other. It is not without use, and on the present 
+occasion is not a mere compliment, because Monsieur de Montmorin is sincerely desirous of cultivating a 
+good understanding with the United States. 
+</p><p>
+It is not impossible that he may retreat from his 
+present office ; but he will, I think, in that case be 
+appointed Governor to the children of France, and 
+his opinions, while about the Court, will have weight, 
+for many reasons ; amongst others, because they deserve it. In talking over the deplorable situation to 
+which this kingdom is reduced, I told him that I 
+saw no means of establishing peace at home, but by 
+making war abroad. He replied that he thought with 
+me, in part; namely, that an offensive war might be 
+useful. But that he thought a defensive war must 
+prove ruinous ; that this last seemed the more likely 
+to happen; and that in either case the state of the 
+finances was alarming. I observed, that ability in that 
+department might restore it, even during a war ; that 
+nothins: could revive credit without the reestablishment of executive authority; and that nothing could 
+effect that reestablishment but a general sense of the 
+necessity. Upon this, he lamented the want of a 
+Chief Minister, who might embrace the great whole 
+of public business. He owns himself unequal to the 
+task, and too indolent into the bargain. 
+</p><p>
+Our friend Lafayette burns with desire to be at the 
+head of an army in Flanders, and drive the Stadtholder into a ditch. He acts now a splendid, but 
+dangerous part. Unluckily, he has given in to measures, as to the Constitution, which he does not heartily approve, and he heartily approves many things 
+which experience will demonstrate to be injurious. 
+While all is in confusion here, the revolt of Austrian 
+Flanders, and the troubles excited in Poland by the 
+agency of Prussia, give every reason to suppose that 
+the King of Sweden will be vigorously supported ; 
+so that provided the Turk has but a sufficient share 
+of obstinacy to bear a little more beating, the scale, 
+according to human probabilities, must turn against 
+Austria and Prussia, who are the allies of France. 
+Great Britain is, as j^et, no otherwise engaged than 
+as an eventual party ; and, according to the best 
+opinion which my judgment can form, upon the information I have been able to obtain, the Premier of 
+that country can, to use the words of Mr. Addison, 
+"ride in the whirlwind and direct the storm." A person, however, on whose knowledge I have some reliance, assures me that Mr. Pitt, engrossed by borough 
+politics and ignorant of Continental affairs, takes no 
+part in them, but wdiat he is absolutely forced into; 
+and I am inclined to believe that there is some truth 
+in that assertion. Accept I pray the assurances of 
+that sincere esteem, with which I am yours, &c. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel='day origin' value='7'>7</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+I arrived in this city on Saturday evening, the 27th of March, and called the next morning on the 
+Duke of Leeds, Minister of Foreign Affairs. He was not at home. I therefore wrote to him a note, a copy whereof is inclosed, as also liis answer, received 
+that evening. On Monday, the 29th, I waited upon 
+him at Whitehall, and, after the usual compliments, 
+presented your letter, telling him that it would explain the nature of my business. Having read it, he 
+said, with much warmth and gladness in his appearance, " I am very happy, <a href='/results.php?tla=rom' rel='colleague friend met'>Mr. Morris</a>, to see this letter, and under the President's own hand. I assure 
+you it is very much my wish to cultivate a friendly 
+and commercial intercourse between the two countries; 
+and more, I can answer for that of his Majesty's 
+servants, that they are of the same opinion." " I am 
+happy, my Lord, to find that such sentiments prevail ; 
+for we are too near neighbours not to be either 
+good friends or dangerous enemies." " You are perfectly right. Sir ; and certainly it is to be desired, as 
+well for our mutual interests as for the peace and 
+happiness of mankind, that we should be upon the 
+best footing." 
+</p><p>
+I assured him of our sincere disposition to be upon 
+good terms, and then proceeded to mention those 
+points in the treaty of peace which remained to be 
+performed. And first, I observed that, by the Constitution of the United States, which he had certainly 
+read, all obstacles to the recovery of British debts 
+are removed ; and that if any doubts could have remained, they are now done away by the organization 
+of a Federal Court, which has cognizance of causes 
+arising under the treaty. He said, he was happy to 
+receive this information; that he had been of opinion, 
+and had written to <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a>, that the articles ought 
+to be performed in the order in which they stood in 
+the treaty. Not choosing to enter into any discussion of his conduct in relation to <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a>, I told 
+his Grace that I had one rule or principle for public 
+and private life, in conformity to which I had always 
+entertained the idea that it would consist most with 
+the dignity of the United States, first, to perform all 
+their stipulations, and then to require such performance from others ; and that, in effect, if each party 
+were on mutual covenants to suspend its compliance, 
+expecting that of the other, all treaties would be illusory. He agreed in this sentiment. Upon which I 
+added, that the United States had now placed themselves in the situation just mentioned. 
+</p><p>
+And here I took occasion to observe, that the 
+Southern States, which had been much blamed in 
+this country for obstructing the recovery of British 
+debts, were not liable to all the severity of censure 
+which had been thrown upon them ; that, their negroes having been taken or seduced away, and the 
+payment for those negroes having been stumlated by 
+treaty, they had formed a reliance on such payment 
+for the discharge of debts contracted with British 
+merchants, both previously and subsequently to the 
+war ; that the suspension of this resource had occasioned a deficiency of means, so that their conduct 
+had been dictated by an overruling necessity. 
+</p><p>
+Returning then to the main business, I observed, that as we had now fully performed our part, it was proper to mention that two articles remained to be fulfilled by them, namely, that which related to the 
+posts, and that regarding a compensation for the negroes ; unless, indeed, they had sent out orders respecting the former, subsequent to the writing of 
+your letter ; and I took the liberty to consider that 
+as a very probable circumstance. He now became a little embarrassed, and told me that he could not exactly say how that matter stood. That as to the 
+affair of the negroes, he had long wished to have it brought up, and to have something done, but something or other had always interfered. He then changed the conversation ; but I brought it back, and he 
+changed it again. Hence it was apparent that he could go no farther than general professions and assurances. 
+</p><p>
+I then told him that there w^as a little circumstance, which had operated very disagreeably upon 
+the feelings of America. Here he interrupted me. 
+" I know what you are going to say ; our not sending a Minister. I wished to send you one ; but then 
+I wished to have a man every way equal to the task, 
+a man of abilities, and one agreeable to the people 
+of America. But it w^as difficult. It is a great way 
+off, and many object on that score." I expressed my 
+persuasion, that this country could not want men well 
+qualified for every office ; and he again changed the 
+conversation. Wherefore, as it was not worth while 
+to discuss the winds and the weather, I observed that 
+he might probably choose to consider the matter a 
+little, and to read again the treaty, and compare it 
+with the American Constitution. He said that he 
+should, and wished me to leave your letter, which he 
+would have copied, and return it to me. I did so, 
+telling him that I should be very glad to have a 
+speedy answer; and he promised that I should. 
+</p><p>
+Thus, Sir, this matter was begun. But nine days 
+have since elapsed, and I have heard nothing farther 
+from the Duke of Leeds. It is true that Easter holidays have intervened, and that public business is, in 
+general, suspended during that period. I shall give 
+them sufficient time to show whether they are as well disposed as he has declared, and then give him 
+a hint. Before I saw him, I communicated to the French Ambassador, in confidence, that you had directed ihg to call for a performance of the treaty. He 
+told me at once that they would not give up the posts. Perhaps he may he right. I thought it host 
+to make such communication; because the thing itself cannot remain a secret j an^ by mentioning it to him, we are enabled to say with truth, that, in every 
+step relating to the treaty of peace, we have acted confidentially in regard to our ally. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel='day origin' value='1'>1</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+Herewith I have the honor to transmit a duplicate 
+of my last letter, of the 13th of April Not having 
+heard from the Duke of Leeds, I wrote him a note 
+on the 19th. To this I received no reply; wherefore, 
+on the 29th, I addressed him again by a letter, of 
+which a copy is inclosed. This was delivered at his 
+office, Whitehall, between eleven and twelve in the 
+morning of the 29th ; and at half past ten in the 
+evening the letters were sent to me. You will observe that his letter is dated the 28th, and of course 
+takes no notice of that to which it is in fact the answer; but the style and general complexion, as 
+well as the circumstances attending the delivery of it, clearly show that it was not written until the evening of the 29th. 
+</p><p>
+I might, in reply, have made some strictures upon 
+the information that I was in Holland, &c., &c. I 
+might also have contrasted the expressions of good 
+faith with the conduct of the Administration, and have 
+observed upon the idea that the United States were 
+bound in the most solemn manner, while, from the 
+subsequent parts of his letter, it would seem that 
+Great Britain is not bound at all, or at most but 
+loosely. There is also a confusion of language, which 
+resembles the stammering of one who endeavours to 
+excuse a misdeed, which he resolves to commit. Thus, 
+on the supposition that completion of the treaty by 
+us is impossible, he insists that we shall complete it, 
+or make compensation. The expressions in the last 
+clause are, if possible, more vague than all the rest. 
+and the reply might have been proportionately more 
+pointed. 
+</p><p>
+My letter of yesterday contains nothing of what is 
+just stated, although perhaps it ought to have noticed 
+some parts. I must rely on your kindness, Sir, both 
+to interpret favorably what I have done, and to excuse my omissions. I thought it best to heap coals 
+of fire on their heads, and thereby either bring them 
+into our views, or put them most eminently in the 
+wrong. It was, moreover, my wish to draw forth 
+specific propositions, because these will admit of discussion, or else, if manifestly unjust, they may not 
+only be repelled, but they will serve to show a predetermined breach of faith by them, which will justify whatever conduct we may afterwards find it proper to adopt. If, as is not improbable, they should 
+give us no answer, or one so vague as to mean nothing, I shall pursue, according to circumstances, my 
+object of compelling them to speak plainly, or refuse 
+absolutely. 
+</p><p>
+It seems pretty clear, that they wish to evade a 
+commercial treaty, but not peremptorily to reject it; 
+and, therefore, I have construed into rejection his 
+Grace's abstruse language, leaving him the option to 
+give it a different interpretation. I do not expect 
+that he will, though he may perhaps write an explanatory comment, more unintelligible than the text. 
+</p><p>
+I have some reason to believe, that the present 
+Administration intend to keep the posts and withhold 
+payment for the negroes. If so, they will color their 
+breach of faith by the best pretexts in their power. 
+I incline to think, also, that they consider a treaty 
+of commerce with America as being absolutely unnecessary, and that they are persuaded they shall 
+derive all the benefit from our trade, without treaty. 
+It is true that we might lay them under restrictions 
+in our ports; hut they believe that an attempt of 
+that sort would be considered by one part of America 
+as calculated by the other for private emolument, 
+and not for the general good. The merchants here 
+look on it as almost impossible for us to do without 
+them; and it must be acknowledged that past experience, and the present situation of neighbouring countries, go far to justify that opinion. Whether the 
+Ministers shall act according to their own ideas, or 
+consult mercantile people, they will equally, I think, 
+repel advances from us ; and, therefore, it seems more 
+prudent to lay the foundations of future advantage, 
+than attempt to grasp at present benefit. I will not 
+pretend to suggest any measures for the adoption of 
+Congress, whose wisdom and whose sense of national 
+honor will certainly lead them to act properly, when 
+the proper moment shall present itself It will naturally strike every mind, that while the Legislature of 
+this country continues to invest the Executive authority with great power respecting the American commerce, the Administration here will have advantages 
+in treaty, which can only be balanced by similar confidence, on the part of Congress, in the Executive of 
+America. 
+</p><p>
+But very much will, I think, depend upon the situation of France. If appearances there should change, 
+and so much vigor be infused into the Government 
+as would enable it to call forth the national efforts 
+in support of their interest and honor, a great revolution would be produced in the opinions here. From 
+the conduct of the aristocratic hierarchy in the Low 
+Countries, who are instigated and supported by Prussia, I have long been thoroughly convinced that the 
+alternative of war, or the most ignominious terms of 
+peace, would be proposed to the Imperial Courts. 
+Counting upon the absolute nullity of France, and 
+supposing that this country can at any moment intimidate that into abject submission, Prussia and Poland will, I think, join themselves to Turkey and 
+Sweden against Russia and Austria, which are both 
+exhausted, and one of them dismembered. Probably 
+the war will be commenced before this letter reaches 
+your hands ; and then Britain and Holland are to be 
+the umpires, or rather dictators, of peace. 
+</p><p>
+I have taken the liberty to touch thus far upon 
+the general system of European politics, as it may 
+tend to show that, for the present. Great Britain will 
+rather keep things in suspense with us, being herself 
+in a state of suspense as to others. I will not go 
+into conjectures about the events which will take 
+place upon the Continent. They will, I believe, as 
+is usual, disappoint the projectors ; but, be that as it 
+may, our affairs can derive no advantages now from 
+what shall happen hereafter. I presume that a dissolution of Parliament will take place shortly, although many of the best informed people think, or 
+at least say they think, otherwise. But it is clear 
+to my mind, that the Administration will wish to 
+have before them a prospect of seven years' stability 
+to their system, be that what it may; and they will 
+not, at the moment of a general election, expose 
+themselves to criticism by any act of doubtful construction. This forms with them an additional reason 
+for being evasive in regard to us. Perhaps there 
+never was a moment in which this country felt herself greater, and consequently it is the most unfavorable moment to obtain advantageous terms from her 
+in any bargain. But this appearance is extremely fallacious. Their revenue is not yet equal to their expenditure. Money is indeed poured in upon them from 
+all quarters, because of the distracted situation of affairs among their neighbours ; and hence their stocks 
+have risen greatly since the peace, so that they can 
+borrow at an interest of four per cent. But, supposing they should not be obliged to engage in the war, 
+still there are two events, either of which would 
+overturn the fabric of their prosperity. If France 
+establishes a solid system of finance, then capitalists 
+will prefer five per cent, with her to four per cent, 
+from Britain ; for, all other things being equal, there 
+is no shadow of comparison between the resources of 
+the two countries. If France commits a bankruptcy, 
+the disorders consequent thereon will doubtless be 
+violent; but, the storm once passed, she would be 
+able to make greater exertions, by her annual resources, than Britain could compass by every possible anticipation of credit. There is a middle situation, between sinking and swimming, in which the 
+French finances may flounder on for some time to 
+come, but even this state of wretchedness will produce rather evil than good to Great Britain ; for she 
+has already reaped all the harvest which could be 
+gathered from the distress of her neighbours, and 
+must necessarily lose the benefits of the famous commercial treaty, in proportion as the resources of her customer are cut off. 
+</p><p>
+Under the various contingencies which present 
+themselves to my contemplation, and there are many 
+which I will not trouble you with the perusal of, it 
+appears clearly, that the favorable moment for us to 
+treat is not yet come. It is indeed the moment for 
+this country, and they seem determined to let it pass 
+away. I must again entreat your indulgence. Sir, for 
+this long and desultory letter. Accept, I pray you, the assurances of that respect with which I have the 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4306">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='22'>22</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1791' rel="origin">1791</a>, 
+</p><p>
+My dear Sir, 
+</p><p>
+Yours of the 21st of June, is at length safely arrived. Poor Lafayette ! Your letter for him must remain with me some time. His enemies here are as 
+virulent as ever, and I can give you no better proof than this. Among the King's papers was found nothing of what his enemies wished and expected, except his correspondence with M. de Lafayette, which 
+breathes, from beginning to end, the purest sentiments of freedom. It is therefore kept secret, while he 
+stands accused of designs, in conjunction with the dethroned monarch, to enslave his country. 
+</p><p>
+The foot, respecting this correspondence, is communicated to me by a person to whom it w^as related 
+confidentially by one of the parties who examined it. 
+You will have seen, in my letters to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, a 
+proposition made by Mr. Short respecting M. de Lafayette, with my reply. I had very good reason to 
+apprehend that our interference, at that time, would have been injurious to him; hut I hope that a moment will soon offer, in which something may be 
+done for his relief. In reading my correspondence 
+with Mr. Short, you must consider that I wrote to 
+the French and Austrian Government, as each would 
+take the liberty to read my letters. 
+</p><p>
+You will have seen, also, that, in my letters to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, I hint at the dangers attending a residence 
+in this city. Some of the sanguinary events which 
+have taken place, and which were partial executions 
+of great plans, will point to a natural interpretation 
+thereof; but these were not what I contemplated. 
+Should we ever meet, I will entertain you with the 
+recital of many things which it would be improper 
+to commit to paper, at least for the present. You 
+will have seen that the King is accused of high 
+crimes and misdemeanours ; but I verily believe that 
+he wished sincerely for this nation the enjoyment of 
+the utmost degree of liberty which their situation 
+and circumstances will permit. He wished for a good 
+Constitution ; but, unfortunately, he had not the means 
+to obtain it, or, if he had, he was thwarted by those 
+about him. What may be his Me, God only knows; 
+but history informs us, that the passage of dethroned 
+monarchs is short from the prison to the grave. 
+</p><p>
+I have mentioned to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, repeatedly, my 
+wish to have positive instructions and orders for my 
+government. I need not tell you. Sir, how agreeable 
+this would be to me, and what a load it would take 
+from my mind. At the same time, I am fully sensible 
+that it may be inconvenient to give me such orders. 
+The United States may wish to temporize, and see 
+how things are likely to end ; and in such case, leaving me at large, with the right reserved to avow or 
+disavow me according to circumstances and events, is 
+for the Government an eligible position. My part in 
+the play, is not quite so eligible ; but, although I wish 
+the Senate to be sensible of this, I am far from wishing that any precipitate step be taken to relieve me 
+from it, for I know how contemptible is every private consideration, when compared with the public 
+interests. One step, however, seems natural; namely, 
+to say that, before any new letters of credence are 
+given, it will be proper to know to whom they are 
+to be directed, because the Convention, a mere temporary body, is to be succeeded by some fixed form, 
+and it may be a long time before any such form 
+will be adopted. 
+</p><p>
+<a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, from the materials in his possession, 
+will be able to give you an accurate account of the 
+military events. I discover three capital errors in 
+the conduct of the Duke of Brunswick. First, his 
+proclamation arrogated rights, which, on no construction, could belong to him or his employers, and contained threats which no circumstances could warrant, 
+and which, in no supposable success, could be executed. They tended, however, to unite the nation in 
+opposing him, seeing that no hope remained for those 
+who had taken any part in the revolution ; and the 
+conduct observed towards Monsieur de Lafayette and 
+his companions, was a severe comment on the cruelty 
+of the rest. Thus, in the same moment, he wounded 
+the pride, insulted the feelings, and alarmed the fears 
+of all France. And, by his thundering menaces to 
+protect the royal family, he plunged them into the 
+situation from which he meant to extricate them. 
+</p><p>
+The second error was, not to dash at Paris the instant he received the news of the affair of the tenth. 
+He should then have advanced at all hazards, and if, 
+in so doing, he had declared to the several Generals 
+and armies, that he expected their assistance to restore their dethroned Prince and violated Constitution, I am persuaded that he would have met with as 
+much support as opposition. I learn, within these two 
+days, that the Delegates of Lorraine and Alsace had 
+so little hope, or rather were so thoroughly persuaded 
+that those Provinces would join the enemy, that they 
+made unusual haste to come forward, lest they should 
+be apprehended. Great activity, in that moment, 
+would have done wonders ; but then he was not 
+ready. 
+</p><p>
+The third great error was, that, after waiting so 
+long, he came forward at all, this season. By menacing the frontiers with great and increasing force, vast 
+numbers of the militia would have been drawn to the 
+utmost verge of the French territory. The difficulty 
+of subsisting them there would have been extreme. 
+By taking strong and good positions, his troops would 
+have been preserved in full vigor, and the French, 
+wasted by disease, tired of inaction, and stimulated 
+by their natural impatience and impetuosity of temper, would have forced their Generals to attack, even 
+if they had the prudence to be quiet. The consequence of such attack, excepting always the will of 
+God, must have been a complete victory on his part, 
+and then it would have been next to impossible for 
+them to escape. Then the towns would have surrendered, believing the business to be over, and he might 
+have come as far forward this autumn as the needful 
+transportation of stores would permit. Next spring 
+France would have found it almost impossible to subsist the armies needful for the defence in that part 
+of the country which is most defensible, and, of consequence, her enemy would have reached the point 
+from which lie lately retreated, without the smallest difficulty. 
+</p><p>
+The appearances are so vague and contradictory, 
+that I cannot pretend to tell you whether the alliance will or will not be preserved for the next campaign. If I were to hazard conjectures on the present state of things, it might cast suspicions where I 
+have not sufficient ground, and therefore I will bury 
+them in my own bosom, lest accident should put this 
+letter into improper hands. France has a strong ally 
+in the feelings of those nations who are subject to 
+despotism ; but, for that very reason, she has a mortal 
+enemy in every Prince. If, as is very possible, the 
+league should hold firm till next spring, it will then 
+have gained considerable auxiliaries, and I am very 
+much mistaken if this nation will make as great efforts as those she is now making. The character of 
+nations must be taken into consideration in all political questions, and that of France has ever been an 
+enthusiastic inconstancy. They soon get tired of a 
+thing. They adopt without examination, and reject 
+without sufficient cause. They are now agog with 
+their republic, and may perhaps adopt some form of 
+Government with a huzza ; but that they will adopt 
+a good form, or, having adopted, adhere to it, is what 
+I do not believe. There is a great body of Royalists 
+in the country, who do not now declare themselves, 
+because it would be certain death ; but a favorable 
+occasion would bring them out of their holes. 
+</p><p>
+The Mictions here are violent, and among those who 
+administer the Government there is not, I am told, 
+that degree of character which lays hold of the esteem and respect of mankind, but rather the contrary. 
+In their opponents, there is a nervous temper, which 
+sticks at nothing; and, if I see rightly, there is in 
+the current of their affairs, a strong eddy or counter 
+tide, which may change materially both men and tidings. Yet let what will happen, I think it hardly 
+possible that they should blunder as much as the 
+emigrants ; and I am prone to believe that, in war 
+and politics, the folly of our adversaries constitutes 
+our greatest force. The future prospect, therefore, is 
+involved in mist and darkness. 
+</p><p>
+There is but one sovereign in Europe, the Empress 
+of Russia, who is not, in the scale of talents, considerably below par. The Emperor, who, it is said, is consumptive and cannot live long, is now much influenced 
+by Manfredi, a statesman of the Italian school, who 
+takes insincerity for wisdom. The Prussian Cabinet 
+is far from strong. Leuchesini, an able man, is said 
+to be rising in influence there ; but there is such a 
+mixture of lust and folly in the Chief, that no one 
+man can keep things steady. The alliance with Vienna is disagreeable to the Prussians, and particularly 
+to the inhabitants of Berlin, which may have some 
+influence in destroying it ; and his Majesty has given 
+three strong proofs, since his accession, that he is by 
+no means nice on the subject of public faith. The 
+invasion of Brabant will, I am persuaded, alarm both 
+Britain and Holland; but whether they wUl confine 
+themselves to court intrigue, or come into the field, 
+is doubtful. 
+</p><p>
+Thus you will perceive, Sir, that nothing can be 
+predicted, with tolerable certainty, respecting the affairs of this country, either internal or external, at 
+the present moment. I am, &c., 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4307">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I have received yours of the 20th of October, 
+which was very long on its way. You will find that events have blackened more and more in this country. The present prospects are dreadful. It is not 
+so much, perhaps, the external force, great as that may be ; for there are always means of defence in so vast a nation. The exhausted state of resources might 
+also be borne with, if not remedied. But the disorganized state of the Government appears to be irremediable. The venality is such, that if there be no 
+traitors, it is because the enemy have not common 
+sense. Without the aid of venality, there are not 
+a few who, from mistaken zeal, and from ignorance, 
+contribute to the success of those powers who are 
+leagued against France. Many, also, under the garb 
+of patriotism, conceal their attachment to the former 
+Government. In short, the fabric of the present system is erected on a quagmire. The new Constitution 
+has not yet made its appearance, but it is easy to 
+conjecture what it will not be. In the mean time I 
+learn, that the Ministers of War and Marine declare 
+it impossible for them to go on. How all this will 
+end, God only knows ; but I fear it will end badly. 
+</p><p>
+I will not speak of my own situation; you will 
+judge that it is far from pleasant. I could be popular, but that would be wrong. The different parties 
+pass away like the shadows in a magic lantern, and 
+to be well with any one of them, would, in a short 
+period, become the cause of unquenchable hatred with 
+the others. 
+Happy, happy America ; governed by reason, by 
+law, by the man whom she loves, whom she almost 
+adores ! It is the pride of my life to consider that 
+man as my friend, and I hope long to be honored 
+with that title. God bless you, my dear Sir, and 
+keep and preserve you ! Your cool and steady temper 
+is now of infinite consequence to our country. As 
+soon as I can see the way open to any thing decisive, 
+I shall inform you of it. At present I weary myself 
+with unavailing reflection, meditation, and conjecture. 
+A partition seems the most probable event at present. 
+Adieu. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='25'>25</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My DEAR Sir, 
+</p><p>
+I have just received yours of the 25th of March. Not having had time to read the gazettes, which are 
+but just (and hut in part) arrived, I cannot from them derive the information you allude to; but my 
+first glance at them shows what I am sorry to see ; and from thence I am induced to quote a sound maxim from an excellent book; — "A house divided against itself cannot stand." 
+</p><p>
+As to your re-acceptance, Sir, you know my sentiments, which, on that, as on some other subjects, are, 
+I think, unchangeable. It will be time enough for you to have a successor, when it shall please God to 
+call you from this world's theatre. If such successor is then able to fill the President's chair, it will be 
+matter of surprise to those who can form a competent idea of the office ; but, during your life, I consider the thing as utterly impossible. And do not 
+imagine, my dear Sir, that you can retire, though you may resign. You will, in such case, become the 
+man of the opposition. However your good sense may differ from their madness, and your virtue from their 
+villany, depend on it, they will cite you as being of their sentiment. If you are silent, you assent ; and 
+if you speak, you are committed. In the mean time, your poor successor is obliged to struggle under all 
+the weight of your reputation, as well as that of the office. And he must be a strong man, who can carry 
+either; of course, a very rash man, who would attempt to take up both. 
+</p><p>
+I am very happy to find, that the determination 
+to maintain a strict neutrality is so common in America. I shall not dwell on that topic, because my 
+several letters to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a> contain enough of it 
+to weary your patience. By the by, I am mortified 
+more than I can tell you, at the delay my letters 
+experience in their passage. I task my mind, to its 
+utmost bent, to discover those events which are most 
+likely to happen, in order that (so far at least as my 
+judgment can be relied on) you may be duly prepared ; and, after all, you hear of the event before 
+my almanac comes out. This is provoking, and would 
+be much more so, did I not find, from experience, 
+that the things I wish are done as well, and perhaps 
+better, than if my conjectures had reached you. 
+</p><p>
+I trust that, long ere this, you will have received 
+what I had the honor to write on the 28th of December, 5th and 10th of January, and 14th of February. 
+You will have seen that, in the end of last month and 
+beginning of this, the long-expected insurrection took 
+place, by which a new set of men are brought into 
+power. Should the present society be able to establish themselves, I think M. Genet will have a successor ; and if, the revolution completed, things return 
+to the point from whence they started, I am sure M. 
+Genet will have a successor. As to those who rule, or rather the few by whom they are directed, you may depend that they have just ideas of the value 
+of popular opinion. They are not, however, in a condition to act according to knowledge; and, should 
+they be able to reach a harbour, there will be quite 
+as much of good luck as of good management in it. 
+At any rate, a part of the crew will be thrown overboard. It is my opinion that the members of the 
+Convention lately arrested will do nothing, for the 
+greater part of them have only parole energy; and 
+if I were called on by any cogent motive to act, it 
+should be in conformity to that idea. In my letter 
+to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, of this day, I tell him that I shall implicitly obey his orders ; but this is in reply to the broad hint, that my embarrassments may have 
+arisen from inattention to the principles of free government. You may rely, Sir, that I shall be cautious to commit the United States as little as possible to future contingencies. In my last letter I 
+gave you my idea of pojoulariti/. 
+</p><p>
+I have never thought that three parties could conveniently exist in any one country; and therefore it 
+seems to me that one of those, into which they who 
+call themselves democrats are divided, must join the 
+royalists. I do not inquire what negotiations are 
+carried on to that effect ; for I have no desire to 
+meddle with such affairs, directly or indirectly, and 
+should be very sorry to have the appearance of siding with any one party or faction whatever, being 
+convinced that I can best do the business of the 
+United States by keeping aloof from them all. 
+</p><p>
+Those who command the royal or Christian army, 
+as they call themselves, on the Loire, are good officers. Their enemies have, in my mind, passed the 
+highest eulogium on them, in saying that the soldiers 
+are brought to such a pitch of folly and madness, as 
+to rush on, armed only with clubs, and possess themselves of the artillery, to whose fire they were exposed. As far as I have been able to learn, they profess themselves the friends of order and justice, and 
+act conformably to such professions, protecting both 
+persons and property wherever they arrive, and paying for whatever they take. Hence it happens, that 
+their dominion is constantly extending itself; and if 
+they should get possession of Nantes, which seems to 
+be their present object, they will be truly formidable, 
+because then, by means of the Loire, a passage will 
+be opened into the heart of the kingdom for as 
+many troops as foreign powers may choose to send 
+thither ; or, if they should prefer fighting the battle 
+with Frenchmen, they need only furnish money and 
+warlike stores, and they would have as many men 
+as they please, and the most fertile part of France 
+to subsist in. 
+</p><p>
+Farewell, my dear Sir. May God bless and keep 
+you, not merely for your sake, and still less for that 
+of your friends, but for the general good of our 
+country ! 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter><letter id="gom4309">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='19'>19</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I had hopes, until last evening, that the persons, 
+who are to go out as Commissioners from hence, 
+would have embarked with Captain Culver; but circumstances have delayed the appointment. The plan 
+which was in agitation, and which will probably be 
+carried into effect, is to send over three or four Commissioners, one of whom will be charged with Letters 
+of Credence, but instructed to conform to the directions of the Board. It is probable that the new Minister, immediately on being presented, will ask you 
+to aid in securing the person and papers of the old 
+one. My public despatch of this day contains a remote hint to lead the investigation of the Secretary 
+of State. I did not choose to be more particular, because you can both give and take the informations 
+you think proper. 
+</p><p>
+I have favored, or rather excited the idea of this 
+procedure, for the following reasons. First, such a 
+public act will place in a contemptible light the faction connected with M. Genet. Secondly, the seizure 
+of his papers, by exposing his connections with prime 
+movers, will give a lesson to others. And thirdly, the 
+Commissioners who exercise this high-handed authority will, on reflection, feel the necessity of respecting 
+your Government, lest they should meet a similar 
+fate. Having alarmed their apprehensions, as to the 
+effect which M. Genet's imprudence might produce, 
+and knowing the public and private views of the parties, I have insinuated the advantage which might result from an early declaration on the part of the new 
+Minister, that, as France has announced her determination not to meddle with the interior affairs of other 
+nations, so he can know only the Government of America. In unison with this idea, I told the Minister 
+that I had observed an overruling influence in their 
+affairs, which seemed to come from the other side of 
+the Channel, and at the same time had traced the 
+intention to excite a seditious spirit in America ; 
+that it was impossible to be on a friendly footing 
+with such persons ; but that at present a different 
+spirit seemed to prevail. This declaration produced 
+the effect I intended. The Minister has himself the 
+wish to go out to America as Plenipotentiary, and 
+M. Otto, his principal Secretary, having the same 
+wish, they will, I believe, endeavour, while they stay, 
+to put things in good train here. 
+</p><p>
+It may be an important judicial question, how far 
+the Minister is protected by the law of nations, after 
+the arrival of his successor. In my opinion, the same 
+principles, which exempt him from the municipal law, 
+subject him to the will of his sovereign, and, of 
+course, the aid given to the new Minister is not an 
+act of the judiciary but of the Executive^ performed as 
+an ally and friend, and is merely discretionary. I find 
+that this Commission will endeavour to get hold of 
+the debt from America to France by anticipation. If 
+no other reasons militated against the advance, the 
+advantage of a pledge to satisfy damages which our 
+citizens may sustain during the present violence, is 
+considerable, and will not, I presume, be overlooked. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

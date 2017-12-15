@@ -1,0 +1,27 @@
+<letter id="cdl3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I inclose to your Excellency a letter for <a href='/results.php?tla=cdt' rel='colleague'>M. De Ternay</a>, in which you will see what measures I have 
+taken to fulfil the intentions, which you imparted to 
+me on the 27th instant. I beg you will seal this 
+packet, and send it to his address by the first opportunity. 
+</p><p>
+Congress have put under your orders the frigates, 
+in directing them to come into the Delaware. You 
+will be able to judge, after your arrangements with 
+the <a href='/results.php?tla=cdt' rel='colleague'>Chevalier De Ternay</a>, whether these vessels, or 
+one of them, may not accomplish the commission desired Their cruise may then be useful to the commerce of the United States. I know not whether <a href='/results.php?tla=cdt' rel='colleague'>M. De Ternay</a> will communicate to them any signals, by means of wMcli they may approach the coast without 
+danger. Your Excellency may be able, should you 
+think it necessary, to suggest it to him. 
+</p><p>
+I have the honor to he, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

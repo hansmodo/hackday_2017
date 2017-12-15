@@ -1,0 +1,65 @@
+<letter id="jsu3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I was duly honored with your Excellency's favor of the 4th of February, and omitted writing since upon 
+a supposition that you had gone to Rhode Island. I 
+am happy to find your Excellency entertains the same 
+sentiments of the virtues and abilities of Colonel 
+Hamilton, as I have ever done myself After I wrote your Excellency, I found the eyes of Congress turned on <a href='/results.php?tla=rom' rel='colleague'>Robert Morris</a>, of this city, as Financier. I did 
+not therefore nominate <a href='/results.php?tla=alh' rel='colleague'>Colonel Hamilton</a>, as I foresaw 
+it would be but a vain attempt. I shall this day 
+nominate him as Secretary of Foreign Affairs, in 
+which, I think, I shall meet. the approbation of most 
+of the States. 
+</p><p>
+The choice of a Minister of "War is postponed to 
+the first of October. This was a manoeuvre of Samuel 
+Adams and others from the north, fearing that, as I 
+was in nomination, the choice would fall on me, who, 
+having apostatized from the true New England faith, 
+'by sometimes voting with the Southern States, am 
+not eligible. They were not, however, acquainted with 
+all the circumstances. I was nominated against my 
+will, and, if chosen, should not have accepted. <a href='/results.php?tla=alm' rel='colleague'>General McDougall</a> is appointed Minister of Marine. The 
+plans of finance and all other matters go on so slowly, that I tremble at the consequences. I am mortified at the useless harangues, which consume our time 
+to no purpose. I am now endeavouring to obtain an 
+adjournment of Congress, and for leaving a Committee 
+to transact the business, as the only way of having 
+the public business done with propriety and despatch. 
+I fully agree with your Excellency, that Congress 
+ought to have more power; but I also think that the 
+old members should be in Heaven, or at home, before 
+this takes place. 
+</p><p>
+The traffic carried on with the enemy is alarming, 
+as it not only serves to furnish them with necessaries, 
+but tends to reconcile our citizens to the idea of renewing their connection with Great Britain, and of 
+course disaffects them to our government. 
+</p><p>
+Since <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>'s letter of the 15th of February, we have received advices from <a href='/results.php?tla=thj' rel='colleague'>Governor Jefferson</a>, and divers others, that Cornwallis is retreating, that 
+<a href='/results.php?tla=nag' rel='colleague'>General Greene</a> crossed the river in pursuit of him 
+the 21st, and that the militia had collected all round 
+him. I hope it is not a manoeuvre to bring <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> to an action. 
+</p><p>
+I have been settling my accounts with the TreasuryBoard, and find I stand charged with money received 
+at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, to pay the bounty to the New Hampshire recruits in <a href='/results.php?year=1776'>1776</a>. All my papers were lost at 
+<a href='/results.php?city=new york' rel='city'>New York</a>, and I can remember little of the matter. 
+This I am sure of, that I never received any public 
+money, but what I immediately applied to the use 
+intended. Perhaps Colonel Harrison has some papers 
+which will settle the matter. I also am charged with 
+the money paid for the troops engaged at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, 
+in December, <a href='/results.php?year=1776'>1776</a>. I remember the whole of this 
+was settled at <a href='/results.php?city=morristown' rel='city'>Morristown</a> about two months after, and 
+I received a receipt in full, which is in New Hampshire. Perhaps your papers may save me the trouble 
+of sending for it. I have the honor to be. 
+</p><p>
+With the highest esteem, dear General, yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">John Sullivan</a>. 
+</p>
+</letter>

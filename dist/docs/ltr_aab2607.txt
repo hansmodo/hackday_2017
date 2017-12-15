@@ -1,0 +1,19 @@
+<letter id="aab2607">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=richmond" rel="city origin">Richmond</a>, <a rel="month origin" value="5">May</a> <a rel="day origin" value="21">21st</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. : 
+</p><p>
+I have barely time, by the opportunity of Mr. Tyrrell, to assure you and Mrs. Blennerhassett of my devoted 
+attachment and regard, and to express my sympathy for all the vexations you have encountered. Mr. Tyrrell will 
+tell you of all the strange things which are passing here. Of the bills, the first which you indorsed has been paid 
+by <a href="/results.php?tla=joa" rel="met kin">Mr. Alston</a>. The $10,000 indorsed at <a href="/results.php?city=lexington" rel="city">Lexington</a> are 
+in the hands of an agent with whom I am in negociation at this place. That which was left with Mr. Luckett has 
+not, to my knowledge, been negociated. Within a few months after my release from this place, I may hope to 
+be in cash for all these and some other purposes. 
+</p><p>
+May God preserve you and yours in health and spirits. 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p>
+</letter>

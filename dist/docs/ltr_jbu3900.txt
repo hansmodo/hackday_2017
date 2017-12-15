@@ -1,0 +1,18 @@
+<letter id="jbu3900">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a href='/results.php?city=ashley hill' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I am directed by <a href='/results.php?tla=nag' rel='colleague met'>Major-General Greene</a> to request you will be 
+pleased to furnish fifty men as an escort to some wagons with clothing, 
+waiting at Laurens Ferry for the purpose. The General desires you 
+will, as early as possible, furnish him with a return of the men you 
+have, specifying the number, how they are armed, and how many days 
+it will take you to join this army, after your receive this order. 
+I am, with respect, your most obdt. humble servant, 
+</p><p>
+<a href="/results.php?tla=jbu" rel="me">J. BURNET</a>, Aide-de-Camp. 
+</p>
+</letter>

@@ -1,0 +1,20 @@
+<letter id="mbc7619">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. He who runs may read. Conscription 
+means that we are in a tight place. This war was a volunteer business. To-morrow conscription begins the dernier ressort. The President has remodeled his Cabinet, leaving Bragg for North Carolina. His War Minister is Randolph, 
+of Virginia. A Union man par excellence, Watts, of Alabama, is Attorney-General. And now, too late by one year, 
+when all the mechanics are in the army, Mallory begins to telegraph Captain Ingraham to build ships at any expense. 
+We are locked in and can not get the requisites for naval architecture/ says a magniloquent person. 
+</p><p>
+Henry Frost says all hands wink at cotton going out. 
+Why not send it out and buy ships ? Every now and then 
+there is a holocaust of cotton burning," says the magniloquent. Conscription has waked the Rip Van Winkles. The 
+streets of Columbia were never so crowded with men. To fight and to be made to fight are different things. 
+</p><p>
+To my small wits, whenever people were persistent, 
+united, and rose in their might, no general, however great, 
+succeeded in subjugating them. Have we not swamps, forests, rivers, mountains every natural barrier? The Carthaginians begged for peace because they were a luxurious people and could not endure the hardship of war, though the enemy suffered as sharply as they did! " Factions among themselves is the rock on which we split. Now for 
+the great soul who is to rise up and lead us. Why tarry his footsteps ? 
+</p>
+</letter>

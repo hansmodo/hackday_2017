@@ -1,0 +1,15 @@
+<letter id="sid5067">
+<recipient first="Samuel" last="Huntington" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=Williamsburgh' rel='city origin'>Williamsburgh</a>, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+When I did myself the honor of writing you on the 16th of November last, the order of Congress in my favor on the continental treasurer for ten thousand five hundred 
+dollars being mislaid, was not enclosed. I now take the liberty to enclose it, and have the honor to be, with the most sincere respect and attachment, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

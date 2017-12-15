@@ -1,0 +1,85 @@
+<letter id="ben4787">
+<recipient first="Samuel" last="Rhoads" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='26'>26</a>, <a href='/results.php?year=1770' rel="origin">1770</a> 
+</p><p>
+DEAR FRIEND, 
+</p><p>
+It is a long time since I had the Pleasure of hearing from 
+you directly. M rs . Franklin has indeed now and then acquainted me of your Welfare, which I am always glad to hear 
+of. It is, I fear, partly, if not altogether, my Fault that our 
+Correspondence has not been regularly continued. One 
+thing only I am sure of; that it has been from no want of 
+Regard on either side, but rather from too much Business and 
+Avocations of various kinds, and my having little of Importance to communicate. 
+</p><p>
+One of our good Citizens, M r Hillegas, anxious for the 
+future Safety of our Town, wrote to me some time since, 
+desiring I would enquire concerning the Covering of Houses 
+here with Copper. I sent him the best Information I could 
+then obtain; but have since received the enclos'd from an 
+ingenious friend, M r Wooller, who is what they call here a Civil 
+Engineer. I should be glad you would peruse it, think of 
+the matter a little, and give me your Sentiments of it. When 
+you have done with the Paper, please to give it to M r Hillegas. 
+I am told by Lord Despencer, who has covered a long Piazza 
+or Gallery with Copper, that the Expence is charged in this 
+Account too high; for his cost but i/io per foot, all Charges 
+included. I suppose his Copper must have been thinner. 
+And indeed it is so strong a Metal, that I think it may well 
+be used very thin. 
+</p><p>
+It appears to me of great Importance to build our DwellingHouses, if we can, in a Manner more secure from Danger 
+by Fire. We scarce ever hear of a Fire in Paris. When I 
+was there, I took particular Notice of the Construction of 
+their Houses ; and I did not see how one of them could well 
+be burnt. The Roofs are Slate or Tile ; the Walls are Stone ; 
+the Rooms generally lin'd with Stucco or Plaister instead of 
+Wainscot ; the Floors of Stucco, or of sixsquare Tiles painted 
+brown; or of Flag Stone, or Marble; if any Floor were of 
+Wood, it was Oak Wood, which is not so inflammable as 
+Pine. Carpets prevent the Coldness of Stone or Brick Floors 
+offending the Feet in Winter, and the Noise of Treading on 
+such Floors overhead, is less inconvenient than on Boards. 
+</p><p>
+The Stairs too, at Paris, are either Stone or Brick with only 
+a Wooden Edge or Corner for the Step ; so that on the Whole, 
+tho' the Parisians commonly burn Wood in their Chimneys, 
+a more dangerous kind of Fuel than that used here, yet 
+their Houses escape extreamly well, as there is little in a 
+Room that can be consumed by Fire, except the Furniture. 
+Whereas in London, perhaps scarce a Year passes in which 
+half a Million of Property and many Lives are not lost by this 
+destructive Element. Of late indeed they begin here to leave 
+off Wainscotting their Rooms, and instead of it cover the Walls 
+with Stucco, often form'd into Pannels like Wainscot, which, 
+being painted, is very strong and warm: Stone Staircases 
+too, with Iron Rails, grow more and more into Fashion here : 
+But Stone Steps cannot in some Circumstances, be fixed; 
+and there methinks Oak is safer than Pine ; and I assure you 
+that in many genteel Houses here, both old & new, the Stairs 
+and Floors are Oak, and look extreamly well. Perhaps solid 
+Oak for the Steps would be still safer than Boards ; and two 
+Steps might be cut diagonally out of one Piece. 
+</p><p>
+Excuse my talking to you on a Subject with which you 
+must be so much better acquainted than I am. It is partly 
+to make out a Letter for renewing our Correspondence, and 
+partly in hope that by turning your Attention to the Point, 
+some Methods of greater Security in our future Building may 
+be thought of & promoted by you, whose Judgment I know 
+has deservedly great Weight with our Fellow- Citizens. For 
+tho' our Town has not hitherto suffered very greatly by Fire, 
+yet I am apprehensive, that some time or other, by a Concurrence of unlucky Circumstances, such as dry Weather, 
+hard Frost, & high Winds, a Fire then happening may 
+suddenly spread far and wide over our Cedar Roofs, and 
+do us immense Mischief. If you favour me with a Line, 
+let me know how good M Rhoads does, and every one of 
+your Children; and how it fares with my dear old Friend 
+M rs Paschal. With sincere Esteem, I am 
+</p><p>
+Yours most affectionately, 
+</p><p>
+B. FRANKLIN 
+</p>
+</letter>

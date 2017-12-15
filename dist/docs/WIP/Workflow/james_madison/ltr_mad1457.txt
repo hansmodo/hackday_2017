@@ -1,0 +1,102 @@
+<letter id='mad1457'>
+<recipient first='William' last='Bradford' type='individual'/>
+<p>
+TO MR. WILLIAM BRADFORD, Jun. 
+</p><p>
+January the 24th, <a href="/results.php?year=1774">1774</a>. 
+</p><p>
+MY WORTHY FRIEND, Yours of the 25th of last month came 
+into my hands a few days past. It gave singular pleasure, not 
+only because of the kindness expressed in it, but because I had 
+reason to apprehend the letter you received last from me had 
+miscarried, and I should fail in procuring the intelligence I 
+wanted before the trip I designed in the spring. 
+</p><p>
+I congratulate you on your heroic proceedings in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> with regard to the tea. I wish <a href="/results.php?city=boston" rel="city">Boston</a> may conduct 
+matters with as much discretion as they seem to do with boldness. They seem to have great trials and difficulties by reason 
+of the obduracy and ministerialism of their G-overnor. However, political contests are necessary sometimes, as well as 
+military, to afford exercise and practice, and to instruct in the 
+art of defending liberty and property. I verily believe the 
+frequent assaults that have been made on America (<a href="/results.php?city=boston" rel="city">Boston</a> 
+especially) will in the end prove of real advantage. 
+</p><p>
+If the Church of England had been the established and 
+general religion in all the northern colonies as it has been 
+among us here, and uninterrupted tranquillity had prevailed 
+throughout the continent, it is clear to me that slavery and 
+subjection might and would have been gradually insinuated 
+among us. Union of religious sentiments begets a surprising 
+confidence, and ecclesiastical establishments tend to great ignorance and corruption; all of which facilitate the execution of 
+mischievous projects. 
+</p><p>
+But away with politics ! Let me address you as a student 
+and philosopher, and not as a patriot, now. I am pleased that 
+you are going to converse with the Edwards and Henrys and 
+Charleses, &c., &c., who have swayed the British sceptre, though 
+I believe you will find some of them dirty and unprofitable 
+companions, unless you will glean instruction from their follies, 
+and fall more in love with liberty by beholding such detestable 
+pictures of tyranny and cruelty. 
+</p><p>
+I was afraid you would not easily have loosened your affections from the belles lettres. A delicate taste and warm imagination like yours must find it hard to give up such refined and 
+exquisite enjoyments for the coarse and dry study of the law. 
+It is like leaving a pleasant flourishing field for a barren deserv. 
+perhaps I should not say barren either, because the law does 
+bear fruit, but it is sour fruit, that must be gathered and 
+pressed and distilled before it can bring pleasure or profit. I 
+perceive I have made a very awkward comparison; but I got 
+the thought by the end, and had gone too far to quit it before I 
+perceived that it was too much entangled in my brain to run it 
+through; and so you must forgive it. I myself used to have 
+too great a hankering after those amusing studies. Poetry, 
+wit, and criticism, romances, plays, &c., captivated me much; 
+but I began to discover that they deserv.but a small portion 
+of a mortal's time, and that something more substantial, more 
+durable, and more profitable, befits a riper age. It would be 
+exceedingly improper for a laboring man to have nothing but 
+flowers in his garden, or to determine to eat nothing but sweetmeats and confections. Equally absurd would it be for a 
+scholar and a man of business to make up his whole library 
+with books of fancy, and feed his mind with nothing but such 
+luscious performances. 
+</p><p>
+When you have an opportunity and write to Mr. Brackenridge, pray tell him I often think of him, and long to see him, 
+and am resolved to do so in the spring. George Luckey was 
+with me at Christmas, and we talked so much about old affairs 
+and old friends, that I have a most insatiable desire to see you 
+all. Luckey will accompany me, and we are to set off on the 
+10th of April, if no disaster befalls either of us. 
+</p><p>
+I want again to breathe your free air. I expect it will mend 
+my constitution and confirm my principles. I have indeed as 
+good an atmosphere at home as the climate will allow; but have 
+nothing to brag of as to the state and liberty of my country. 
+Poverty and luxury prevail among all sorts; pride, ignorance, 
+and knavery among the priesthood, and vice and wickedness 
+among the laity. This is bad enough, but it is not the worst I 
+have to tell you. That diabolical, hell-conceived principle of 
+persecution rages among some; and to their eternal infamy, the 
+clergy can furnish their quota of imps for such business. This 
+vexes me the worst of anything whatever. There are at this 
+time in the adjacent country not less than five or six wellmeaning men in close jail for publishing their religious sentiments, which in the main are very orthodox. I have neither 
+patience to hear, talk, or think of anything relative to this 
+matter; for I have squabbled and scolded, abused and ridiculed, 
+so long about it to little purpose, that I am without common 
+patience. So I must beg you to pity me, and pray for liberty 
+of conscience to all. 
+</p><p>
+I expect to hear from you once more before I see you, if time 
+will admit; and want to know when the synod meets, and 
+where; what the exchange is at, and as much about my friends 
+and other matters as yon can [tell,] and think worthy of notice. 
+Till I see you, 
+</p><p>
+Adieu ! 
+</p><p>
+N. B. Our correspondence is too far advanced to require 
+apology for bad writing and blots. 
+</p><p>
+Your letter to Mr. Wallace is yet in my hands, and shall be 
+forwarded to you as soon as possible. I hear nothing from him 
+by letter or fame. 
+</p>
+</letter>

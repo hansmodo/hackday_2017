@@ -1,0 +1,43 @@
+<letter id="joj4102">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am not sure that the new government will be found to 
+rest on principles sufficiently stable to produce a uniform 
+adherence to what justice, dignity, and liberal policy may 
+require ; for however proper such conduct may be, none 
+but great minds will always deem it expedient. Men in 
+general are guided more by conveniences than by principles ; this idea accompanies all my reflections on the new 
+constitution, and induced me to remark to our late Convention at <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a>, that some of the most unpopular and 
+strong parts of it appeared to me to be the most unexceptionable. Government without liberty is a curse ; but 
+on the other hand, liberty without government is far from 
+being a blessing. 
+</p><p>
+The opponents in this State to the constitution decrease 
+and grow temperate. Many of them seem to look forward 
+to another Convention, rather as a measure that will justify 
+their opposition, than produce all the effects they pretended 
+to expect from it. I wish that measure may be adopted 
+with a good grace, and without delay or hesitation. So 
+many good reasons can be assigned for postponing the 
+session of such a Convention for three or four years, that I 
+really believe the great majority of its advocates would be 
+satisfied with that delay ; after which I think we should not 
+have much danger to apprehend from it, especially if the 
+new government should in the mean time recommend itself 
+to the people by the wisdom of their proceedings, which I 
+flatter myself will be the case. The division of the 
+powers of government into three departments, is a great 
+and valuable point gained, and will give the people the best 
+opportunity of bringing the question whether they can 
+govern themselves to a decision in their favour. 
+</p><p>
+I remain, dear sir, 
+Your faithful friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

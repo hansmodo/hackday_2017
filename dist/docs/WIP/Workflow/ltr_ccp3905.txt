@@ -1,0 +1,99 @@
+<letter id="ccp3905">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a rel="month origin" value="2">February</a> 	<a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+HONORED MADAM : 
+</p><p>
+I embrace with pleasure an opportunity of complying with the request, 
+you made me when I left Santee, of transmitting such intelligence as I 
+thought worthy your notice, though the presence of our active officers 
+(General Moultrie and Col. Pinckney) renders the subject somewhat 
+barren. My cousin and the General returned to town on Tuesday by 
+desire of <a href='/results.php?tla=bel' rel='colleague'>Gen. Lincoln</a>, who was of opinion that unless the assembly 
+took some effectual measures to oblige the militia to do their duty, and 
+placed them under the same articles as those from North Carolina, our 
+situation would soon be discouraging, even to those who had voluntarily 
+resigned their lives and fortunes, in our defence, though at a great distance from danger and who were merely actuated upon this occasion by 
+a love to their country. They opened the matter very fully; related 
+several facts of which we were ignorant; were exceedingly warm; and 
+roused the spirit as well as the indignation of the House so much at the 
+conduct of their fellow-citizens, that notwithstanding they had, some 
+little time before, reprobated the idea of subjecting the militia to martial law, yet an Ordinance being prepared and brought in for that 
+purpose passed both Houses without opposition. The reluctance of our 
+militia to continue at Purysburgh longer than the 1st of March, frustrated one of the best laid schemes, that our affairs have yet given Gen. 
+Lincoln an opportunity of concerting. A detachment of the enemy 
+having taken possession of <a href='/results.php?city=augusta' rel='city'>Augusta</a>, Gen. Ash was immediately detached 
+to reinforce Gen. Williamson; these corps when joined consisted of 
+between two and three thousand men. Gen. Moultrie was ordered to 
+march with his division, consisting of 1,600 Continentals and some 
+regiments of militia; and had he occupied the post to which he was 
+ordered and was then proceeding to, the enemy would have been completely surrounded and either obliged to hazard a battle on the disadvantageous terms of three to one or have surrendered themselves prisoners of war but after marching six or eight miles up the river for this 
+purpose, he received an order from <a href='/results.php?tla=bel' rel='colleague'>Gen. Lincoln</a> to return to his former 
+post; but I am happy in acquainting you that our officers pledge 
+themselves, that they will, with the assistance of only a small part 
+of our militia, free Georgia from the present invasion ; indeed, the 
+enemy themselves confess that they have erred in not marching immediately to Charlestown, after the rout at <a href='/results.php?city=savannah' rel='city'>Savannah</a>; and the late precipitate retreat from <a href='/results.php?city=augusta' rel='city'>Augusta</a>, where they left their Hospital, with a letter 
+recommending their sick and wounded to the care and humanity of 
+Gen. Williamson, convinces me that they either mean to evacuate 
+Georgia very soon, or to confine themselves to <a href='/results.php?city=savannah' rel='city'>Savannah</a> and its 
+environs but it is u matter of doubt with me, whether they will be 
+even able to maintain their post there, as I am informed that the reinforcement which G. M. carries with him, will enable our forces to 
+act offensively. Lincoln is anxious and uneasy at being obliged from 
+the enemy's superiority, or at least equality of numbers, to remain so 
+long inactive, and will assuredly take the first opportunity of paying 
+them a visit. The long expected express from the northward arrived on 
+Monday. Messrs. <a href='/results.php?tla=jol' rel='colleague'>Laurens</a> and <a href='/results.php?tla=wid' rel='colleague'>Drayton</a> acquaint us that it is impossible to spare any Continental troops, as a secret expedition now on the 
+carpet, will demand their whole force. They say that Congress in con 
+sequence of our application, have granted us every assistance in their 
+power, and refer the Governor to the President's letter on that subject, 
+which has not yet come to hand. As to a further aid from North Carolina, they have agreed to send us 2,000 more men immediately. We 
+have now upwards of 3,000 of their men with us; and I esteem this last 
+augmentation, as the highest possible mark of their affection for us and 
+as the most convincing proof of their zeal for the glorious cause in which 
+they are engaged ; they have been so willing and ready upon all occa 
+sions to afford us all the assistance in their power, that I shall ever love a North Carolinian, and join with Gen. Moultrie in confessing that they 
+have been the salvation of this country. 
+</p><p>
+I expect <a href='/results.php?tla=peh' rel='colleague'>Col. Horry</a> will be in town in a few days, as he was on Friday last elected Colonel of a Regiment of light dragoons, which are to 
+be immediately raised for the public service. Maharn is Major there 
+was an opposition in favor of Major Huger, but by no means a serious 
+one, as the Colonel carried it by a majority of 44; Huger will soon be 
+promoted in the Continental service as a Commission arrived yesterday 
+appointing Col. Huger, a Brigadier General. 
+</p><p>
+There is almost a total stagnation of every kind of business; and we 
+daily expect a Proclamation from the Governor and Council for stopping 
+the Courts of Justice and prohibiting all commercial proceedings what 
+soever until the removal of the enemy from Georgia. The people of 
+this country were scarcely roused to a sense of their danger, till within 
+this fortnight, but I believe I may now venture to assert that Carolina, 
+will in a short time (comparatively speaking) be as tenacious of her 
+freedom and as forward in defending her liberties as any State on the 
+continent, though, from her internal disputes and natural weakness, 
+she may not be able to bring as many men into the field. Our town, 
+once the seat of pleasure and amusement, is now dull and insipid; a 
+sameness prevails through every thing, and the duty of the remaining 
+militia is full as fatiguing as that of the regulars. We have very few 
+men left here, notwithstanding which they are daily reducing us, and 
+should a fleet and army appear at our bar, God knows what we should 
+do. If the enemy should prove unable to penetrate into this State, and 
+I can get leave (for no one is suffered to leave the town without it under 
+a heavy fine) I purpose paying you a visit at Santee for a few days. I 
+am fond of variety, and changing the scene now and then is I think 
+very agreeable. I hope the little bantling and my friend Daniel are 
+well. Should the weather continue good, my uncle and family will be 
+at Santee on Thursday. I shall expect an answer from you by your next 
+express, and you may depend upon my writing you as often as I can find 
+a conveyance for a letter. My compliments to Miss Howarth and our 
+Santee friends (in which my mother joins me). Conclude me 
+Your affectionate nephew, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p><p>
+P. S. Mr. Bee being elected Lieutenant-General, and E. Rutledge 
+refusing to go to Congress, Mr. Lowndes and <a href='/results.php?tla=wid' rel='colleague'>William Henry Drayton</a> 
+(who carried it against Daniel Huger by one vote) were elected in their 
+room. 
+</p>
+</letter>

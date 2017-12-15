@@ -1,0 +1,38 @@
+<letter id='ahg8000'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+<a href='/results.php?city=san francisco' rel='city origin'>Yerba Buena</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: Herewith I have the honor to enclose a Requisition for supplies, 
+made upon me by <a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a>, of United States Topographical Engineers, who is in command of a party of some fifty men, engaged upon an important Scientific Expedition. 
+</p><p>
+You will perceive that <a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> states "his party to be nearly destitute, and under the unfriendly feeling of the Government of this country, 
+in the existing position of affairs, he is unable to obtain supplies; and, in any case, only at very exorbitant prices." From the above-mentioned circumstances, I am induced to enclose this requisition, and respectfully request 
+you to supply the same or such parts of it as you may be able to spare; being fully assured it will afford you great pleasure to render assistance to a 
+different arm of the Service, engaged upon a laborious and dangerous expedition, exposed to every kind of danger and the greatest hardships men 
+can endure; oftentimes living upon horseflesh, and at times without any provisions whatever. 
+</p><p>
+<a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> is also in want of funds for the purchase of animals, as, upon leaving for the United States, it will be necessary for him to purchase 
+more horses, his present supply being travel-worn and almost unfit for the saddle. 
+</p><p>
+The exorbitant rate at which the Government Bills are exchanged induce me to beg you to supply <a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> with fifteen hundred dollars 
+($1500), if the same can be furnished without injury to your own particular service; for which he will give the necessary receipts or bills upon the 
+Department. For these supplies and any others he may receive, <a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> will make due settlement upon his arrival at Headquarters, Washton City. 
+</p><p>
+<a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> is now encamped on the Sacramento, at the mouth of the Feather River, where he awaits my return with such provisions as I may be able to obtain. 
+</p><p>
+Hoping you will be able to make the supply, I will only add that, in the event of the party receiving from you the assistance requested, you may be 
+assured the same will not only be highly appreciated by the President and Departments, confer an obligation upon <a href="/results.php?tla=jhf" rel="colleague met">Capt. Fremont</a> and myself, but 
+will receive the heartfelt thanks of a party of some of the bravest and most determined men, who are happy in suffering privations while serving their country with a zeal and fidelity unsurpassed by any other. 
+</p><p>
+I am, sir, very respectfully, your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=ahg" rel="me">Archie H. Gillespie</a>, 
+</p><p>
+1st Lieut. U. S. M. Corps, and Special and Confidential<br>
+Agent for California. 
+</p><p>
+To Jno. B. Montgomery, Esq., Commanding U. S. Ship Portsmouth,<br>
+Sausalito, Bay of San Francisco. 
+</p>
+</letter>

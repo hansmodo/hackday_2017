@@ -1,0 +1,49 @@
+<letter id="jht3011">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="8">August</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have received your two favors of the 24th and 
+25th of July last. I have put Colonel Ward's regiment under marching orders, to proceed without loss 
+of time, whatever way Congress shall direct. The 
+troops from this State, destined to the northward, 
+are marched to Bennington, and from thence to 
+Skenesborough. At the request of <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> 
+for one thousand felling axes, I have sent eight hundred, ground and with helves, to go the same route. 
+They went from hence the 29th last. The residue will go with clothing, preparing for that army, next Monday. I thought it not best to wait for orders, 
+as we were very well assured of their necessity. 
+</p><p>
+Notwithstanding our enemies are so numerous and powerful, and have hired mercenaries into their service, yet, knowing our cause righteous, and trusting 
+Heaven will support and defend us, I do not greatly dread what they can do against us. Our internal 
+malignants may be permitted to do many injurious 
+and insidious things. They are, therefore, to be 
+watched with care and diligence, to prevent such 
+hypocritical and designing men carrying on and perpetrating their wicked purposes. No doubt there are 
+many such, the persons and characters unknown to 
+me ; and not convenient to mention in a letter the 
+notices given me of any. 
+</p><p>
+Last week I sent circular letters addressed to the 
+civil authority, Selectmen, Committees of Inspection, 
+and Military Officers, in all the towns in this State, 
+to promote and facilitate the filling the several battalions ordered to be raised here, and to send them 
+forward to the places of their destination. Recruiting  officers for the companies not filled are necessary, and I conclude are left for the purpose. The 
+people have, in some measure, got through the hurry 
+of harvest, &c. Hope that they will now cheerfully 
+enlist and go on. 
+</p><p>
+Colonel Dyer and Richard Law, Esq., are directed 
+to repair to <a href='/results.php?city=new york' rel='city'>New York</a> to confer with your Excellency on every subject needful for our direction, and 
+for your information. You know our readiness to 
+afford every assistance for our common defence. I 
+am, with great esteem and regard, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p><p>
+P. S. Qthy 8 o clock, A. M. Just received your two favors of the 1st instant. Orders are gone to Colonel Elmore, and express to carry those to Colonel Ward expected in soon. The orders are ready. 
+</p>
+</letter>

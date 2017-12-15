@@ -1,0 +1,48 @@
+<letter id="gwa4557">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=mount vernon' rel='city origin'>Mount Vernon</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+The sole object of the enclosed letter was to evince to you, 
+that, notwithstanding your recall, you held the same place in 
+my estimation that you did before it happened. I expected to 
+have got the letter into Colonel Monroe s hands, before the vessel in which he sailed, had left Patapsco river ; but a fresh 
+fair wind coming up, prevented its reaching him. 
+</p><p>
+Since my arrival at this place, I have been favored with your 
+private letter of the 12th of March, enclosing the duplicate of 
+the 5th of February. For both I thank you. To common 
+accidents, or to the interception of letters for purposes that 
+may be guessed, are to be ascribed those disappointments of 
+which you complain ; for I am almost certain, that information 
+of what was going forward in this country was regularly transmitted to you ; possibly, and probably, not by duplicates, 
+which ought to have been the case, for the greater certainty of getting it to you. 
+</p><p>
+The uncertainty, when letters are not entrusted to confidential persons, or sent by special messengers, of their coming to 
+hand, will restrain me from going into detail at this time. I 
+shall only add, therefore, to the acknowledgment of the receipt of the above letters, that I am entirely ignorant of the 
+source from whence, or the foundation on which, Major Jackson has erected the fabrics of your recall, and of your successor. Neither directly nor indirectly could he have derived them 
+from me, for the best of all reasons, viz. that not until some 
+considerable time after M. Fauchet had arrived in this country, did I entertain an idea of the former, or contemplate the 
+latter; for until then, I had supposed you stood well with the 
+persons in power. Sure I am, nothing short of evidence 
+to the contrary, with the request that accompanied it, would 
+have induced the measure. To Major Jackson I have never 
+written a line since he left this country, nor received one from him. 
+</p><p>
+The prospective you have drawn is not very pleasing ; but it serves to make one more anxious for a nearer view. 
+</p><p>
+The affairs of this country cannot go amiss. There are so many watchful guardians of them, and such infallible guides, 
+that one is at no loss for a director at every turn. But of these matters I shall say little ; if you are disposed to re 
+turn to it, I will leave you to judge of them from your own observation. My primary objects, and to which I have steadily 
+adhered, have been to preserve the country in peace if I can, and to be prepared for war if I cannot ; to effect the first, 
+upon terms consistent with the respect which is due to our selves, and with honor, justice, and good faith to all the world. 
+</p><p>
+<a href='/results.php?tla=joj' rel='co-worker met friend'>Mr Jay</a>, and not <a href='/results.php?tla=thj' rel='colleague met'>Mr Jefferson</a>, as has been suggested to you, embarked as Envoy Extraordinary for England, about the 
+middle of May.. If he succeeds, well ; if he does not, why, knowing the worst, we must take measures accordingly. I am yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter>

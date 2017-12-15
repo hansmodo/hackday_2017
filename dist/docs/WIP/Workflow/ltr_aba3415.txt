@@ -1,0 +1,105 @@
+<letter id="aba3415">
+<recipient first="John Quincy" last="Adams" type="individual"/>
+<p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1785" rel="origin">1785</a>. Grosvenor Square. 
+</p><p>
+MY DEAR SON, 
+</p><p>
+Yesterday, being Sunday, I went with your father 
+to the Foundling Church, Dr. Price, whom we 
+usually attend, being absent a few weeks in the 
+country. When I returned from church, I went 
+into my closet and took up my pen, with an intention of writing to you ; but I really felt so triste at 
+not having heard of your arrival, that I could not 
+compose myself sufficiently to write to you ; so I 
+scribbled to your brothers. By the time I had finished my letters, I was called to tea. Mr. Brown, 
+the painter, came in and spent part of the evening. 
+I read a sermon in Barrow upon the government of 
+the tongue, and went to bed with one of my old impressions, that letters were near at hand. 
+</p><p>
+This morning went below to breakfast ; the urn 
+was brought up boiling ; the chocolate ready upon 
+the table ; enter Mr. Spiller, the butler, who, by the 
+way, is a very spruce body, and after very respectfully bowing with his hands full, " Mr. Church's 
+compliments to you, Sir, and has brought you this 
+packet, but could not wait upon you to-day, as he 
+was obliged to go out of town." Up we all jumped ; 
+your sister seized hold of a letter, and cried " My 
+brother, my brother ! " We were not long opening 
+and perusing, and " I am so glad," and " I am so glad," was repeated from one to another. Mamma 
+did not fail remarking her old impression. The 
+chocolate grew cold, the top of the tea-pot was forgotten, and the bread and butter went down uneaten. 
+Yet nobody felt the loss of breakfast. So near akin 
+are joy and grief, that the effect is often similar. 
+</p><p>
+Our countrymen have most essentially injured 
+themselves by running here in shoals after the 
+peace, and obtaining a credit which they cannot 
+support. They have so shackled and hampered 
+themselves, that they cannot extricate themselves. 
+Merchants, who have given credit, are now suffering, and that naturally creates ill-will and hard 
+words. His Majesty and the ministry show every 
+personal respect and civility which we have any 
+right to expect. The Marquis de la Fayette writes, 
+that he had always heard his Majesty was a great 
+dissembler, but he never was so thoroughly convinced of it as by the reception given to the American Minister. I wish their conduct with regard to 
+our country was of a piece with that which they 
+have shown to its representative. The Marquis of 
+Carmarthen and Mr. Pitt appear to possess the 
+most liberal ideas with respect to us, of any part of 
+the ministry. With regard to the negroes, they are 
+full and clear that they ought to be paid for ; but, as 
+to the posts, they say the relinquishment of them 
+must depend upon certain other matters, which you 
+know they were not at liberty to explain in private 
+conversation ; but it is no doubt they mean to keep 
+them as a security for the payment of the debts, 
+and as a rod over our heads. They think we are 
+as little able to go to war as they are. The budget 
+has not yet been officially opened. A generous 
+treaty has been tendered them, upon which they 
+are now pondering and brewing. The fate of the 
+Irish propositions has thrown weight into the American scale ; bat there are so many bones of contention between us, that snarling spirits will foment 
+into rage, and cool ones kindle by repeated irritation. It is astonishing, that this nation catch at 
+every straw which swims, and delude themselves 
+with the bubble that we are weary of our independence, and wish to return under their government 
+again. They are more actuated by these ideas in 
+their whole system toward us, than by any generous 
+plans, which would become them as able statesmen 
+and a great nation. They think to effect their plans 
+by prohibitory acts and heavy duties. A late act 
+has passed, prohibiting the exportation of any tools 
+of any kind. They say they can injure us much 
+more than we can them, and they seem determined 
+to try the experiment. Those, who look beyond the 
+present moment, foresee the consequences, that this 
+nation will never leave us until they drive us into 
+power and greatness that will finally shake this 
+kino-dom. We must struggle hard first, and find 
+many difficulties to encounter, but we may be a 
+great and a powerful nation if we will. Industry 
+and frugality, wisdom and virtue, must make us so. 
+I think America is taking steps towards a reform, 
+and I know her capable of whatever she undertakes. 
+I hope you will never lose sight of her interests ; 
+but make her welfare your study, and spend those 
+hours, which others devote to cards and folly, in investigating the great principles by which nations 
+have risen to glory and eminence ; for your country 
+will one day call for your services, either in the 
+cabinet or field. Qualify yourself to do honor to 
+her. 
+</p><p>
+You will probably hear, before this reaches you, 
+of the extraordinary affair respecting the Cardinal 
+Rohan. It is said that his confinement is in consequence of his making use of the Queen's name to 
+get a diamond necklace of immense value into his 
+hands. Others say it is in consequence of some reflections cast upon the character of the Queen ; others 
+suppose that the real fact is not known. I send you 
+one newspaper account of the matter, and have not 
+room to add more than that I am 
+</p><p>
+Your affectionate mother, 
+</p><p>
+A. A. 
+</p>
+</letter>

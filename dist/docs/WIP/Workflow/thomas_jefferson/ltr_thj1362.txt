@@ -1,0 +1,31 @@
+<letter id='thj1362'>
+<recipient first='Edward' last='Stevens' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, September 15, <a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+I beg leave to trouble you with a private letter, on a little matter
+of my own, having no acquaintance at camp, with whom I can take that,
+liberty. Among the wagons impressed, for the use of your militia, were
+two of mine. One of these, I know is safe, having been on its way from
+hence to Hillsborough, at the time of the late engagement. The other,
+I have reason to believe, was on the field. A wagon-master, who says
+he was near it, informs me the brigade quarter-master cut out one of
+my best horses, and made his escape on him, and that he saw my wagoner
+loosening his own horse to come off, but the enemy's horse were then
+coming up, and he knows nothing further. He was a negro man, named
+Phill, lame in one arm and leg. If you will do me the favor to inquire
+what is become of him, what horses are saved, and to send them to me,
+I shall be much obliged to you. The horses were not public property, as
+they were only impressed and not sold. Perhaps your certificate of what
+is lost, may be necessary for me. The wagon-master told me, that the
+public money was in my wagon, a circumstance, which, perhaps, may aid
+your inquiries. After apologizing for the trouble, I beg leave to assure
+you, that I am, with great sincerity,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

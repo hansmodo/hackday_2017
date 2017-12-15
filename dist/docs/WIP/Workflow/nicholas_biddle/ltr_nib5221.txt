@@ -1,0 +1,28 @@
+<letter id="nib5221">
+<recipient first="George" last="McDurrie" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec'r</a>. <a rel='day origin' value='26'>26</a>. <a href='/results.php?year=1827' rel="origin">1827</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+Whilst the resolution of <a href='/results.php?tla=jab' rel=''>Mr Barbour</a> was under consideration I forbore to intrude on you with any observation in 
+regard to it, because I was aware that I could add nothing 
+either to your knowledge of the subject or your disposition to 
+do it ample justice. The decision of the question leaves me at 
+liberty to enjoy the pleasure which I cannot refrain from indulging of expressing the high gratification felt through 
+out the community at the great promptness &amp; ability which 
+have distinguished your course on this occasion. They who 
+are directly interested in the result have naturally strong 
+sentiments of gratification to one who has averted from them 
+a great calamity; but there is a more numerous &amp; impartial 
+class of spectators of public affairs who are delighted in recognizing among our public men, enlarged &amp; statesmanlike 
+views of the great interests of the country, unbiased by local 
+&amp; sectional prejudices. To such of these you have given unmingled satisfaction and you have added largely to the 
+number of your fellow citizens who will watch your advancement with the most friendly solicitude. I know that you do 
+not require the stimulous of applause to do your full duty 
+to the country; but no public man need be indifferent to pub 
+lic gratitude if it be earned by public services, and this 
+you may well receive, because it is well deserved. I tell You 
+that no one has been more sensible of the value of this exertion of your abilities not merely to the institution but to the country than 
+</p>
+</letter>

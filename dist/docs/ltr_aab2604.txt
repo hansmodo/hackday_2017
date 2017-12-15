@@ -1,0 +1,26 @@
+<letter id="aab2604">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=lexington" rel="city origin">Lexington</a>, <a rel="month origin" value="11">Nov.</a> <a rel="day origin" value="6">6th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+Yesterday, Mr. Jos. Davis, the district attorney of the United States, made an application to the federal court at 
+Frankfort, for a warrant to apprehend me for treasonable practice, or on some suspicion thereof. The charge is 
+not well-defined by my informant, but the substance is, " a design to attack the Spanish dominions, and thereby 
+endanger the peace of the United States." How this charge was supported, I have not heard ; but absurd and 
+ridiculous as it may appear, the judge has taken time until this day to consider if he should refuse to grant the 
+warrant. He must expect a tornado of abuse from the W. World and some other papers. It is also probable, 
+that villains enough may have been found to encounter all the perjuries which may be thought necessary to gratify malice. These things taken together, it is fair to infer, as probable, that the warrant will be granted. Unfortunately this being a proceeding on suspicion, and 
+previous to any inquiry by a grand jury, no immediate trial can be had, and the object undoubtedly is to give a 
+sort of sanction to the charge by this measure, in order to influence public opinion. You perceive, my dear sir, 
+that this step will embarrass me in my project of the Washita settlement. I pray, however, that you will have 
+no solicitude about me ; and it will afford me the highest gratification, if my friends should feel as little anxiety for 
+the result as will be felt by your faithful and affectionate, 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p><p>
+p. s. You perceive that this event will deprive me of the pleasure of seeing you at your <own house. I should 
+not have disturbed your repose with this relation, had I not known that it would come to you with exaggerations through an hundred channels. A. B. 
+</p>
+</letter>

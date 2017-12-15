@@ -1,0 +1,8 @@
+<letter id="mbc7740">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='9'>September</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. My pink silk dress I have sold for $600, to be paid for in installments, two hundred a month 
+for three months. And I sell my eggs and butter from home for two hundred dollars a month. Does it not sound well 
+four hundred dollars a month regularly. But in what? In Confederate money. Helas! 
+</p>
+</letter>

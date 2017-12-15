@@ -1,0 +1,18 @@
+<letter id="usg7056">
+<recipient first="Henry" last="Halleck" type="individual"/>
+<p>
+</p><p>
+[General Grant reported on the <a rel='day origin' value='11'>11th</a>, <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a>, <a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a> ] 
+</p><p>
+MAJOR-GENERAL H. W. HALLECK, 
+</p><p>
+General-in- Chief : 
+</p><p>
+I expect to get off from Chattanooga by Monday next a force to drive <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> out of East Tennessee. It has been impossible 
+heretofore to subsist the troops necessary for this work. 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General.
+</p>
+</letter>

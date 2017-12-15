@@ -1,0 +1,28 @@
+<letter id="nic3001">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIB, 
+</p><p>
+I am favored with your Excellency's letter of the 
+26th instant. Having just before the receipt of it had 
+accounts "by a private hand of the sailing of a number 
+of men-of-war and transports from <a href='/results.php?city=boston' rel='city'>Boston</a>, which I conjectured were designed to supply the enemy with fresh 
+provisions, I immediately sent the intelligence to Block 
+Island, together with a quantity of powder, ball, and 
+flints, to enable them to defend their property, and give 
+them assurances of further assistance if necessary. 
+</p><p>
+We have no account of this fleet from any part of 
+our coast; so that I think it probable they were destined to the eastward. 
+</p><p>
+I desire your Excellency to oblige me with a return 
+of the army ; and when any thing of importance occurs, 
+I shall esteem an early communication of it a favor. I 
+am, with great truth and regard, Sir, your Excellency's 
+Most humble and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

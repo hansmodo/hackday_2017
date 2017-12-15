@@ -1,0 +1,15 @@
+<letter id="mbc7709">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='26'>26th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. We went to see Mrs. Breckinridge, who is here with her husband. Then we paid our respects 
+to <a href='/results.php?tla=mnc' rel='acquaintance met'>Mrs. Lee</a>. Her room was like an industrial school : every body so busy. Her daughters were all there plying their 
+needles, with several other ladies. <a href='/results.php?tla=mnc' rel='acquaintance met'>Mrs. Lee</a> showed us a 
+beautiful sword, recently sent to the General by some Marylanders, now in Paris. On the blade was engraved, Aide 
+ioi et Dieu't aidera." When we came out someone said, "Did you see how the Lees spend their time ? What a rebuke to the taffy parties! " 
+</p><p>
+Another maimed hero is engaged to be married. Sally Hampton has accepted John Haskell. There is a story that 
+he reported for duty after his arm was shot off ; suppose in the fury of the battle he did not feel the pain. 
+</p><p>
+General Breckinridge once asked, "What's the name of the fellow who has gone to Europe for <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> leg ? : Dr. Darby." " Suppose it is shipwrecked? " "No matter; half a dozen are ordered. Mrs. Preston raised her hands "No wonder the General says they talk of him as if he were a centipede ; his leg is in everybody's mouth." 
+</p>
+</letter>

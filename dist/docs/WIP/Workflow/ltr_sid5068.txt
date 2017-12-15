@@ -1,0 +1,48 @@
+<letter id="sid5068">
+<recipient first="Samuel" last="Huntington" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='10'>10th</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+On my arriving in France, I applied to Mr Johnson to appoint a time for examining my accounts and vouchers, 
+which I told him would soon be ready. He informed me, that he had determined not to accept the appointment, and 
+that he had informed Congress of his resolution sometime before. Though this was a severe disappointment to me, 
+yet I flattered myself that Congress would not delay the naming some other to the office, and in this hope I came to 
+Paris in August last, and entered on the adjustment of my accounts, which have been for many months ready for settlement, yet, to my extreme mortification, I cannot get them closed for want of an auditor, or person empowered by Congress to examine them. 
+</p><p>
+I pray Congress would candidly review the circumstances I have been under, from my leaving France in 
+April, <a href='/results.php?year=1778'>1778</a>, to this time. After having to that time faithfully and successfully served them, I was, in obedience 
+to their orders, obliged to make a voyage to America, and to wait their pleasure in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> for more than a year, 
+unable to obtain their decision on my conduct, though it was almost daily solicited by me ; the only objection made 
+was, that my accounts remained unsettled ; as soon as Congress appointed an auditor to examine them, I set out on 
+my voyage to Europe, regardless of danger or expense, fondly hoping that at last I should be able to close my 
+accounts, and to receive the balance due to me, but what 
+was infinitely more important, to vindicate my injured character. The expenses of my voyage were great, and during 
+ten months' attendance here, they have been still greater, and though there is evidently a large balance in my favor, 
+I have been refused money for my support. I have never 
+asked of Congress anything but common justice, in the payment of my just demands, out of which, I have now been 
+kept for three years. My necessities would long since have justified my seizing on the public property here to the 
+amount of the money due to me, but I have been withheld from doing it on account of my regard for the credit of my 
+country, and have rather chosen to be obliged to strangers for money for my support. And to what purpose is it for 
+me to leave France, and return with my accounts and vouchers unaudited. It is equally useless to transmit 
+them in that state. My enemies represented me as a defaulter, grown rich out of the public monies in my hands, 
+and prejudiced the minds of Congress so strongly against me, that all my efforts in America to obtain even a hearing 
+were vain and ineffectual. My present situation, as well as the state of my accounts, give the lie to every assertion 
+or insinuation of the kind, yet T am still left to suffer under the calumny in America, and to be obliged to strangers for 
+money for my support in Europe. I will not trust myself further on the subject, lest something escape me which may 
+offend, without my intending it. 
+</p><p>
+I hope Congress will impartially review my case in every 
+stage of it, and that they will not force me to appeal to the laws of a foreign nation, or to the tribunal of the public in 
+Europe, for the recovery of my right, and for justice to my character, which the great and first law of nature will oblige 
+me to do, unless immediately relieved by those who owe me, and more who owe to their own character, and to that 
+of their country, the justice which I demand. I have the honor to be. 
+</p><p>
+With great esteem and respect, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

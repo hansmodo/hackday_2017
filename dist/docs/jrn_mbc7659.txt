@@ -1,0 +1,19 @@
+<letter id="mbc7659">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. At McMahan's our small colonel, Paul Hayne's son, came into my room. To amuse the child I 
+gave him a photograph album to look over. You have <a href='/results.php?tla=abl' rel=''>Lincoln</a> in your book ! said he. "I am astonished at you. 
+I hate him! " And he placed the book on the floor and struck <a href='/results.php?tla=abl' rel=''>Old Abe</a> in the face with his fist. 
+</p><p>
+An Englishman told me <a href='/results.php?tla=abl' rel=''>Lincoln</a> has said that had he known such a war would follow his election he never would 
+have set foot in Washington, nor have been inaugurated. He had never dreamed of this awful fratricidal bloodshed. 
+That does not seem like the true John Brown spirit. I was very glad to hear it to hear something from the President of the United States which was not merely a vulgar joke, and usually a joke so vulgar that you were ashamed to 
+laugh, funny though it was. They say <a href='/results.php?tla=wls' rel=''>Seward</a> has gone to England and his wily tongue will turn all hearts against us. 
+</p><p>
+Browne told us there was a son of the Duke of Somerset in Richmond. He laughed his fill at our ragged, dirty 
+soldiers, but he stopped his laughing when he saw them under fire. Our men strip the Yankee dead of their shoes, 
+but will not touch the shoes of a comrade. Poor fellows, they are nearly barefoot. 
+</p><p>
+Alex has come. I saw him ride up about dusk and go into the graveyard. I shut up my windows on that side. Poor fellow! 
+</p>
+</letter>

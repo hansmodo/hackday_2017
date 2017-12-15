@@ -1,0 +1,23 @@
+<letter id='jds8000'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+Flag-Ship Savannah, <a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : Since I wrote you last evening, I have determined to hoist the flag of the United States at this place to-morrow, as I would prefer being sacrificed for doing too much than too little 
+</p><p>
+If you consider that you have sufficient force, or if <a href="/results.php?tla=jhf" rel="colleague">Fremont</a> will join you, you will hoist the flag of the United States at Yerba Buena, or at any other proper place, and take possession, in the name of the United States, of the fort, and that portion of the country. 
+</p><p>
+I am very anxious to know if <a href="/results.php?tla=jhf" rel="colleague">Captain Fremont</a> will co-operate with us. <a href="/results.php?tla=tol" rel="colleague">Mr. Larkin</a> is writing to him by the launch, and you will please put him in possession of this letter as soon 
+as possible. I have no time to write more at present. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jds" rel="me">John D. Sloat</a>, 
+</p><p>
+Commander-in-Chief, etc. 
+</p><p>
+Commander J. B. Montgomery, 
+</p><p>
+U. S. Ship Portsmouth, San Francisco.. 
+</p>
+</letter>

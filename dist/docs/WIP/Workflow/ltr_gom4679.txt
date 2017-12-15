@@ -1,0 +1,53 @@
+<letter id="gom4679">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+You will see by the official correspondence, that your orders are complied with, and that your intentions are fulfilled. 
+Permit me on this occasion to remark, that had the people of 
+America been well informed of the state of things on this side 
+of the Atlantic, no one would have dared to adopt the conduct 
+which M. Genet has pursued. In reading the few gazettes 
+which have reached me, I am surprised to see so little sound 
+intelligence. 
+</p><p>
+The present government is evidently a despotism both in 
+principle and practice. The Convention now consists of only a part of those, who were chosen to frame a constitution. 
+These, after putting under arrest their fellows, claim all power, 
+and have delegated the greater part of it to a Committee of 
+Safety. You will observe, that one of the ordinary measures 
+of government is to send out Commissioners with unlimited 
+authority. They are invested with power to remove officers 
+chosen by the people, and put others in their places. This 
+power, as well as that of imprisoning on suspicion, is liberally 
+exercised. The revolutionary tribunal established here to 
+judge on general principles, gives unbounded scope to will. 
+It is an emphatical phrase in fashion among the patriots, that 
+terror is the order of the day. Some years have elapsed since 
+Montesquieu wrote, that the principle of arbitrary governments is fear. 
+</p><p>
+The Queen was executed the day before yesterday. In 
+sulted during her trial, and reviled in her last moments, she 
+behaved with dignity throughout. This execution will, I 
+think, give to future hostilities a deeper dye, and unite more 
+intimately the allied powers. It will silence the opposition of 
+those, who would not listen to the dismemberment of this 
+country, and, therefore it may be concluded that the blow by 
+which she died was directed from a distance. 
+But whatever may be the lot of France in remote futurity, 
+and putting aside the military events, it seems evident that she 
+must soon be governed by a single despot. Whether she will 
+pass to that point through the medium of a triumvirate, or 
+other small body of men, seems as yet undetermined. I think 
+it most probable that she will. A great and awful crisis seems 
+to be near at hand. A blow is, I am told, meditated which 
+will shroud in grief and horror a guilty land. Already the 
+prisons are surcharged with persons, who consider themselves 
+victims. Nature recoils, and I yet hope that these ideas are 
+circulated only to inspire fear. I am, &c. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

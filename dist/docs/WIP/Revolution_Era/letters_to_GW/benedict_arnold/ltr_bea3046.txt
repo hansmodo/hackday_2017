@@ -1,0 +1,47 @@
+<letter id="3046">
+<p>
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 10 o clock, P. M. ; 22 June, <a href='/results.php?year=1778'>1778</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Your Excellency's favor of the 21st, respecting the 
+militia, I received at three o'clock this evening, and 
+immediately had as many inhabitants collected at the 
+Coffee-House as I could notify. Fifty volunteers have 
+engaged to go with General Cadwalader, who this 
+minute informs me he expects to collect a consider 
+able number more in the morning, in the city. I 
+cannot flatter myself with procuring many in the 
+vicinity. These are unarmed. Search is making for 
+all the arms in the city. I have ventured to order 
+Colonel Jackson to march at three o'clock to-morrow 
+morning, with the troops under his command. These, 
+with the volunteers, and four hundred men now in 
+the enemy's rear, will make a formidable body. Their 
+places are supplied by Colonel Proctor's regiment, who 
+will do garrison duty until a sufficient number of days, on account of the zeal of some members for sealing the letters 
+up, and sending them back, without reading, in consequence of some 
+harsh expressions against the King of France. However, it was over 
+ruled, as you will see, and a more proper method, in my opinion, taken. 
+What will be their next steps, time only will discover. In the packet 
+to Congress were inclosed a great number of letters to the separate 
+members. Some from Governor Johnstone to such of the members as 
+he was acquainted with, and others from other persons in England, who 
+had any acquaintance with them." 
+convalescents can arrive from <a href='/results.php?city=valley forge' rel='city'>Valley Forge</a> ; for which 
+purpose I intend giving an order, which, I trust, will 
+meet your Excellency's approbation. 
+</p><p>
+One hundred and odd deserters from the enemy 
+have arrived in town this day. The whole number 
+is little short of three hundred, and great numbers, I 
+am informed, are scattered through the Jerseys. 
+</p><p>
+Your Excellency's favor of yesterday, by the Indians, was delivered to me this evening. Particular attention shall be paid to the contents. I am, with 
+the greatest respect and esteem, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+BENEDICT ARNOLD. 
+</p>
+</letter>

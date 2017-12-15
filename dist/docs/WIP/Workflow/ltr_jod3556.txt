@@ -1,0 +1,49 @@
+<letter id="jod3556">
+<recipient first="Abigail" last="Adams"/>
+<p>
+The <a href='/results.php?city=hague' rel='city origin'>Hague</a>, 	<a rel="day origin" value='26'>26</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YOUR letter of the 23d Has made me the happiest 
+man upon earth. I am twenty years younger than I 
+was yesterday. It is a cruel mortification to me that 
+I cannot go to meet you in <a href='/results.php?city=london' rel='city'>London</a>, but there are a 
+variety of reasons decisive against it, which I wilt 
+communicate to you here. Meantime I send you a 
+son who is the greatest traveller of his age, and with 
+out partiality, I think, as promising and manly a 
+youth as is in the whole world. He will purchase a 
+coach, in which we four must travel to Paris. Let it 
+be large and strong, with an imperial and accommodations for travelling. I wish you to see the <a href='/results.php?city=hague' rel='city'>Hague</a> 
+before you go to France. The season is beautiful 
+both here and in England. The journey here will be 
+pleasant, excepting an hour or two of sea-sickness between Harwich and Helvoetsluys. You may come 
+conveniently with your two children and your maid 
+in the coach, and your man may ride on horseback 
+or in the stage coach. 
+</p><p>
+I can give you no counsel about clothes. Mr. Puller will furnish the money you want upon your order 
+or receipt. Expenses I know, will be high, but they 
+must be borne, and as to clothes for yourself and 
+daughter, I beg you to do what is proper, let the expense be what it may. Every hour to me will be a 
+day, but don t you hurry or fatigue or disquiet your 
+self upon the journey. Be careful of your health. 
+After spending a week or two here, you will have to 
+set out with me to France, but there are no seas between, a good road, a fine season, and we will make 
+moderate journeys, and see the curiosities of several 
+cities in our way ; Utrecht, Breda, Antwerp, Brussels, 
+&c. &c. It is trie first time in Europe that I looked 
+forward to a journey with pleasure. Now, I promise 
+myself a great deal. I think it lucky that I am to 
+go to Paris, where you will have an opportunity to 
+see that city ; to acquire its language, &c. It will be 
+more agreeable to you to be there than here, perhaps, 
+for some time. For my own part, I think myself 
+made for this world. 
+</p><p>
+Yours, with more ardor than ever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

@@ -1,0 +1,61 @@
+<letter id='thj1388'>
+<recipient first='Samuel' last='Huntington' type='individual'/>
+<p>
+TO HIS EXCELLENCY THE PRESIDENT OF CONGRESS.
+</p><p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, March 21, <a href="/results.php?year=1781">1781</a>.
+</p><p>
+Sir,
+</p><p>
+The enclosed letter will inform you of the arrival of a British fleet in
+Chesapeake bay.
+</p><p>
+The extreme negligence of our stationed expresses is no doubt the cause
+why, as yet, no authentic account has reached us of a general action,
+which happened on the 15th instant, about a mile and a half from
+Guilford Court House, between <a href='/results.php?tla=nag' rel=''>General Greene</a> and Lord Cornwallis.
+Captain Singleton, an intelligent officer of Harrison's artillery, who
+was in the action, has this moment arrived here, and gives the general
+information that both parties were prepared and desirous for action;
+the enemy were supposed about twenty-five hundred strong, our army about
+four thousand. That after a very warm and general engagement, of about
+an hour and a half, we retreated about a mile and a half from the field,
+in good order, having, as he supposed, between two and three hundred
+killed and wounded, the enemy between five and seven hundred killed and
+wounded: that we lost four pieces of artillery: that the militia, as
+well as regulars, behaved exceedingly well: that <a href='/results.php?tla=nag' rel=''>General Greene</a>, he
+believes, would have renewed the action the next day, had it not proved
+rainy, and would renew it as soon as possible, as he supposes: that the
+whole of his troops, both regulars and militia, were in high spirits and
+wishing a second engagement: that the loss has fallen pretty equally on
+the militia and regulars: that General Stevens received a ball through
+the thigh.
+</p><p>
+Major Anderson, of Maryland, was killed, and Captain Barrett, of
+<a href="/results.php?tla=gwa" rel="co-worker met">General Washington's</a> cavalry; Captain Fauntleroy, of the same cavalry, was shot
+through the thigh, and left in the field.
+</p><p>
+Captain Singleton, having left the camp the day after the battle, does,
+not speak from particular returns, none such having been then made. I
+must inform your Excellency from him, till more regular applications can
+reach you, that they are in extreme want of lead, cartridge-paper, and
+thread. I think it improper, however it might urge an instantaneous
+supply, to repeat to you his statement of the extent of their stock of
+these articles. In a former letter, I mentioned to you the failure of
+the vein of our lead mines, which has left the army here in a state of
+equal distress and danger.
+</p><p>
+I have the honor to be, with very high respect and esteem,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p><p>
+
+P. S. Look-out boats have been ordered from the sea-board of the eastern
+shore, to apprise the Commander of the French fleet, on its approach, of
+the British being in the Chesapeake. T. J.
+</p>
+</letter>

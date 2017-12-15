@@ -1,0 +1,210 @@
+<letter id="nag3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, near <a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's favor of the 21st came to hand 
+the evening of the 25th. 
+</p><p>
+In my last I communicated to your Excellency the 
+departure of the <a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a> with his fleet, for 
+<a href='/results.php?city=boston' rel='city'>Boston</a>. This disagreeable event has, as I apprehend, 
+ruined all our operations. It struck such a panic 
+among the militia and volunteers, that they began to 
+desert by shoals. The fleet no sooner set sail, than 
+they began to be alarmed for their safety. This mis 
+fortune damped the hopes of our army, and gave 
+new spirits to that of the enemy. 
+</p><p>
+We had a very respectable force, as to numbers ; 
+between eight and nine thousand, rank and file, upon 
+the ground ; but of these we attempted to select a 
+particular corps to possess ourselves of the enemy's lines, partly by force, and partly by stratagem; but 
+w r e could not make up the necessary number that 
+was thought sufficient to warrant the attempt, which 
+was five thousand, including the Continental and 
+State troops. This body was to consist of men, who 
+had been in actual service before, not less than nine months. However, the men were not to be had, and, 
+if they could have been found, there was more against 
+it than for it. <a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a> was to have opened 
+the passage by landing within the enemy's lines, and 
+getting possession of a redoubt at the head of Easton's beach. If we had failed in the attempt, the 
+whole party must have fallen a sacrifice, for their 
+situation would have been such that there was no 
+possibility of getting off. 
+</p><p>
+I shall inclose your Excellency a plan of the enemy's works, and of their strength, from the best ac 
+counts we are able to get. They have never been 
+out of their lines since the siege began, till, night be 
+fore last, Colonel Bruce came out with one hundred 
+and fifty men, to take off a small picket of ours, 
+posted at the neck of Easton's beach. He partly succeeded in the attempt, by the carelessness of the old 
+guard. He came over after dark, and lay in ambush, 
+that when the new guard went down to take their 
+post, the enemy came upon their backs before they 
+discovered them, it being very dark. We lost twenty-four privates and two subalterns. Ten of the picket got off. 
+</p><p>
+Our strength is now reduced from nine thousand 
+to between four and five thousand. All our heavy 
+cannon on garrison carriages, and heavy and superfluous stores of every kind, are removed to the main, 
+and to the north end of the Island, where we intend 
+to intrench and attempt to hold it, and wait the 
+chance of events. <a href='/results.php?tla=joh' rel='colleague'>General Hancock</a> is gone to <a href='/results.php?city=boston' rel='city'>Boston</a> to forward the repairs of the fleet, and to prepare the mind of the Count for a speedy return. 
+How far he will succeed, I cannot pretend to say. I 
+think it a matter of some doubt yet, whether the 
+enemy will reenforce, or take off this garrison. If 
+they expect a superior fleet from Europe, they will 
+reenforce ; but, if not, they will remove the garrison. 
+</p><p>
+Your Excellency may rest assured, that I have done every thing in my power to cultivate and promote a 
+good understanding, both with the Count and the 
+Marquis, and flatter myself that I am upon very good terms with them both. The Marquis's great thirst 
+for glory, and national attachment, often run him into 
+errors. However, he did every thing to prevail on 
+the Admiral to cooperate with us, that man could 
+do. People censure the Admiral with great freedom, 
+and many are imprudent enough to reproach the 
+nation through the Admiral. <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> very 
+imprudently issued something like a censure in general orders. Indeed, it was an absolute censure. It 
+opened the mouths of the army in very clamorous 
+strains. The General was obliged to explain it away 
+in a few days. The fermentation seems to be now 
+subsiding, and all things appear as if they would go 
+smoothly on. The Marquis is going to <a href='/results.php?city=boston' rel='city'>Boston</a>, also, 
+to hasten the Count's return, and, if possible, to get 
+the Erench troops to join the land forces here, which 
+will more effectually interest the Count in the success 
+of the expedition. 
+</p><p>
+Five sail of British ships have got into <a href='/results.php?city=newport' rel='city'>Newport</a> 
+within two days past. We have heard nor seen no 
+thing of the fleet of transports your Excellency mentioned, in your letter to <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> of the 
+23d. If they arrive with a large reenforcement, our expedition is at an end, unless it is by way of 
+blockade, and that will depend upon the French 
+fleet's being superior to that of the British, 
+<a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> has done every thing that could 
+be expected, and had the fleet cooperated with us as 
+was at first intended, and agreeably to the original 
+plan of the expedition, we must have been successful. 
+I wish it was in my power to confirm <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a>'s prediction of the 17th, but I cannot flatter my 
+self with such an agreeable issue. I am sensible he 
+is in common very sanguine, but his expectations 
+were not ill-founded in the present case. We had 
+every reason to hope for success, from our numbers, 
+and from the enemy's fears. Indeed, General Pigot 
+was heard to say, the garrison must fall, unless they 
+were speedily relieved by a British fleet. If we could 
+have made a landing upon the south part of the 
+town, two days would have put us in complete possession of it. Nothing was wanting to effect this, but 
+the cooperation of the fleet and French forces. The 
+disappointment is vexatious and truly mortifying. 
+The garrison was so important, and the reduction so 
+certain, that I cannot with patience think of the 
+event. The French ship that was missing has got 
+into <a href='/results.php?city=boston' rel='city'>Boston</a>. The rest of the fleet have not got there 
+yet, or at least we have no accounts of their arrival. 
+</p><p>
+We are very anxious to learn the condition of Lord 
+Howe's fleet. The French seventy-four that has got 
+into <a href='/results.php?city=boston' rel='city'>Boston</a> had an engagement with a British sixty-four. The Captain and Lieutenant of the former were 
+both wounded; one lost a leg, the other an arm. 
+</p><p>
+Our troops are in pretty good health, and well furnished with provisions, and every thing necessary for 
+carrying on the expedition. 
+</p><p>
+Our approaches were pushed on with great spirit, 
+while we had any hopes of the fleet cooperating with 
+us ; but the people lost all relish for digging, after 
+that. 
+People are very anxious to hear the issue of General Lee's trial. Various are the conjectures ; but 
+everybody agrees he is not acquitted. 
+</p><p>
+August olst. Camp Tiverton. I wrote the foregoing, and intended to have sent it by the express 
+that went off in the morning, but while I was writing, I was informed the express was gone; and the 
+change of situation and round of events that have 
+since taken place, have prevented my forwarding 
+what I had wrote, as matters seemed to be coming 
+to a crisis. 
+</p><p>
+On the evening of the 29th, the army fell back to 
+the north end of the Island. The next morning, the 
+enemy advanced upon us in two columns upon the 
+east and west road. Our light troops, commanded by 
+Colonel Livingston and <a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a>, attacked the 
+heads of the columns about seven o'clock in the morning, but were beat back they were reinforced with a regiment upon each road. The enemy still proved 
+too strong. <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> formed the army in order of battle, and resolved to wait their approach 
+upon the ground we were encamped on, and sent 
+orders to the light troops to fall back. The enemy 
+came up and formed upon Quaker Hill, a very strong 
+piece of ground, within about one mile and a quarter 
+of our line. We were well posted, with strong works 
+in our rear, and a strong redoubt in front, partly 
+upon the right of the line. 
+</p><p>
+In this position a warm cannonade commenced, and 
+lasted for several hours, with continual skirmishes in 
+front of both lines. About two o'clock the enemy 
+began to advance in force upon our right, as if they 
+intended to dislodge us from the advanced redoubt. 
+I had the command of the right wing. After advancing four regiments, and finding the enemy still gaining ground, I advanced with two more regiments of 
+regular troops, and a brigade of militia, and at the 
+same time <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> ordered Colonel Livings 
+ton, with the light troops under his command, to ad 
+vance. We soon put the enemy to the rout, and I 
+had the pleasure to see them run in worse disorder 
+than they did at the battle of Monniouth. Our troops 
+behaved with great spirit; and the brigade of militia, 
+under the command of General Lovell, advanced with 
+great resolution and in good order, and stood the fire 
+of the enemy with great firmness. Lieutenant-Colonel 
+Livingston, Colonel Jackson, and Colonel Henry B. 
+Livingston, did themselves great honor in the transactions of the day; but it's not in my power to do 
+justice to <a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a>, who acted both the General and the partisan. His command of regular troops 
+was small, but he did every thing possible to be 
+done by their numbers. He had two most excellent 
+officers with him, Lieutenant-Colonel Henry and Major Talbot, 
+</p><p>
+The enemy fell back to their strong ground, and 
+the day terminated with a cannonade and skirmishes. 
+Both armies continued in their position all day yesterday, cannonading each other every now and then. 
+Last night we effected a very good retreat, without 
+the loss of men or stores. 
+</p><p>
+We have not collected an account of the killed and 
+wounded, but we judge our loss amounts to between 
+two and three hundred, and that of the enemy, to 
+much more. 
+</p><p>
+We are going to be posted all round the shores 
+as a guard upon them, and in that state to wait for 
+the return of the fleet, which, by the by, I think will 
+not be in a hurry. 
+It is reported that Lord Howe arrived last night 
+with his fleet and the re enforcement mentioned in 
+your Excellency's letter to <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a>. If the 
+report is true, we got off the island in very good 
+season. 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague'>Marquis</a> went to <a href='/results.php?city=boston' rel='city'>Boston</a> the day before the 
+action, and did not return until last night, just as we 
+were leaving the Island. He went to wait upon the 
+Admiral, to learn his further intentions, and to get 
+him to return again and complete the expedition, if 
+possible. 
+</p><p>
+I observe your Excellency thinks the enemy design 
+to evacuate <a href='/results.php?city=new york' rel='city'>New York</a>. If they should, I think they 
+will <a href='/results.php?city=newport' rel='city'>Newport</a> also; but I am persuaded they will do 
+neither for the present. 
+</p><p>
+I would write your Excellency a more particular account of the battle and retreat, but I imagine <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> and <a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a> have done it already, and I am myself very much unwell. I have had 
+no sleep for three nights and days, being severely 
+afflicted with the asthma. I am, with great respect, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

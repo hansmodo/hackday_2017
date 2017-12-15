@@ -1,0 +1,77 @@
+<letter id="nag3729">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=ponpon' rel='city origin'>Ponpon</a>, 	<a rel='day origin' value='9'>9</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I wrote your Excellency the 8th of February, since 
+which I am without your favors. In my last, I informed you that I had written to <a href='/results.php?tla=cdr' rel='colleague'>Count Rochambeau</a> 
+for reenforcements. Inclosed is his answer. I am 
+persuaded he must have mistaken your intentions. I 
+find nothing is to be expected from that quarter. I 
+am sorry the legion was put in motion, as it may 
+raise the enemy's apprehensions, and bring upon us 
+reenforcements, which might not have been otherwise 
+sent, at least so soon. 
+</p><p>
+Your Excellency will see by the King's speech, and 
+other measures taking in Great Britain, the enemy 
+are determined to prosecute the war and from the 
+Dean of Gloucester's plan of pacification, and other 
+Parliamentary debates, there can hardly be a doubt 
+of the operations being principally to the southward. 
+You will also see, by the returns inclosed, how incompetent our force is to any great operation. The 
+country is naturally weak, and greatly reduced by the 
+ravages of intestine disputes between the Whigs and 
+Tories. We are remote from support and supplies of 
+every kind; no large bodies of militia can be hastily 
+called together here, nor can supplies of any kind be 
+had but with the greatest difficulty. We have three 
+hundred men now without arms, and twice that number so naked as to be unfit for any duty, but in 
+cases of desperation. Not a rag of clothing has arrived to us this winter. Indeed, our prospects are 
+really deplorable. It is true we get meat and rice, 
+but no rum or spirits. Men and officers without pay, 
+in this situation, cannot be kept in temper long. I 
+will not trouble you with a detail of all our difficulties. They would be too troublesome to enumerate; 
+but I cannot but apprehend for a country so badly 
+supported, and naturally so weak and helpless. I 
+persuaded the Legislature to raise black regiments, 
+but could not prevail; not because they objected to 
+the expense (for they give a most enormous bounty 
+for white men, and pay in slaves), but from an apprehension of the consequences. 
+</p><p>
+It has always been my opinion that, if we could 
+support the extremes of the Confederation, the middle 
+States would always support themselves. Upon this 
+principle, I have ever been anxious to get a force to 
+the southward, so formidable as to discourage the enemy from attempting their reduction. There is no 
+way to effect this, but to render their subjection so 
+difficult and expensive as to make the value less 
+than the trouble and expense. All the Southern 
+States look to you for support. I will do all I can, 
+and you know me too well to suppose I shall shrink 
+at small difficulties. But how feeble are the best 
+intentions, and how vain an obstinate perseverance 
+against a very unequal force ! 
+</p><p>
+The enemy have been out lately, in considerable 
+force, in St. Thomas's. They routed <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>'s 
+command, and killed, took, and wounded, upwards of 
+twenty men. They have not ventured out on our 
+side, although the Assembly have been sitting within 
+thirty miles of town, and the enemy a much greater 
+force than we have, which induces me to believe they 
+have orders not to risk a general action. <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a> has burnt all the enemy's forage, close under 
+their noses at <a href='/results.php?city=savannah' rel='city'>Savannah</a>. I am improving every moment in disciplining and managing the troops, that 
+they may be in the best condition for whatever may 
+happen. But, alas ! we no sooner get our men tolerably well acquainted with their duty, than their 
+term of service expires, and they leave us, and often 
+without others to supply their places. I am, with 
+great respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

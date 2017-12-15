@@ -13,7 +13,7 @@ let store = {};
 
 //data store methods.
 function setFolders(data){
-  //console.log("Folders.set:",data);
+  console.log("Folders.set:",data);
   if(Array.isArray(data)){
     //ensure 'Public' folder at top of list.
     let fldrIdx = data.findIndex((item) => {
@@ -179,7 +179,7 @@ function setFolderValidState(e){
 * find the Public folder and set it as the currently selected in Model.
 */
 function setPublicFolderAsSelected(folders){
-  //console.log("setPublicFolderAsSelected");
+  console.log("setPublicFolderAsSelected");
   let pubIdx = folders.findIndex((item) => {
     return item.name==='Public' && item.is_public;
   });
@@ -188,7 +188,6 @@ function setPublicFolderAsSelected(folders){
 
 //subscribe to custom events
 PubSub.subscribe('user:folders:set', setPublicFolderAsSelected);
-//PubSub.subscribe('user:folders:set', renderFolders);
 
 export {
   fetchLibraryFolders as fetch,

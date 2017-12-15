@@ -1,0 +1,25 @@
+<letter id='mad1596'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 11, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, The newspaper enclosed, with the letter which follows, comprises the information brought me by the mail of yesterday: 
+</p><p>
+"<a href="/results.php?city=boston" rel="city">Boston</a>, Feb 3. 
+</p><p>
+"I enclose a newspaper containing the propositions communicated by Mr. Hancock to the Convention on Thursday last. 
+Mr. Samuel Adams, who, contrary to his own sentiments, has 
+been hitherto silent in Convention, has given his public and explicit approbation of Mr. Hancock's propositions. We flatter 
+ourselves that the weight of these two characters will ensure 
+our success, but the event is not absolutely certain. Yesterday 
+a committee was appointed, on the motion of a doubtful character, to consider the propositions of Mr. Hancock, and to report 
+to-morrow afternoon. We have a majority of federalists on 
+this committee, and flatter ourselves the result will be favorable. 
+</p><p>
+"P. S. We shall probably decide on thursday or friday next, 
+when our numbers will amount to about 363." 
+</p><p>
+With greatest esteem and attachment, I am, D'r Sir, your obt 
+and affect serv. 
+</p>
+</letter>

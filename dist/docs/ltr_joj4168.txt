@@ -1,0 +1,114 @@
+<letter id="joj4168">
+<recipient first="Richard" last="Peters" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='24'>24th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1809' rel="origin">1809</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Soon after receiving your letter of the 18th of September 
+last, I was called to <a href='/results.php?city=albany' rel='city'>Albany</a> by the death of the only remaining child of my daughter, whose grief for the loss of her 
+son and of her husband was still fresh and severe. 
+</p><p>
+I returned on the 3d of November with a pain on my 
+side, which the doctor ascribed to an obstruction in the 
+liver. The complaint increased, and kept me in close confinement during the winter and spring. It reduced me to 
+such a state of debility, that I have as yet regained only 
+sufficient strength to ride two or three miles at a time. I 
+am better, but not well, and it is uncertain whether I ever 
+shall be ; such mementoes are useful, though unpleasant, and 
+therefore I ought to make the best of them. 
+</p><p>
+Your remarks relative to plaster will induce me, if I live, 
+to extend the application of it to' the various objects you 
+mention. I directed it to be freely used in the garden this 
+spring, and am pleased with the results. The effect of 
+plaster on vegetation is to me a mystery ; if it acts only by 
+attracting water, why does the ground (as some say) grow 
+tired of it, and require a supply of common manure to 
+renew the efficacy of it. Often-repeated experiments, and 
+long continued observation, naturally lead to important discoveries ; but the very limited duration of human life rarely 
+allows sufficient time for the talents and perseverance of 
+any individual to arrive at their "ne plus." Here the antediluvians had the advantage of us, and many of them doubtless made the most of it. Hence it may be presumed that 
+they carried many of the useful arts, as well as those which 
+belong to the departments of vice, to a higher degree of 
+perfection than they are at present. To me it does not 
+appear improbable, that the celebrated works of remote 
+antiquity, were not a little indebted to information which 
+passed through the flood. 
+</p><p>
+National interest unites, with other considerations, in 
+drawing our attention to agriculture. I think it has greatly 
+improved in our country since the revolution, and there is 
+reason to believe that the " resuscitation" you are attempting would be generally useful. I wish it may be effected, 
+but unless a number of gentlemen, well qualified for the 
+purpose, will heartily and diligently unite with you, I fear 
+your endeavours will not be so successful as they are commendable. 
+</p><p>
+You are right in supposing that we are much of an age. 
+In December next, I shall have lived sixty-four years — a 
+long course of years when to come — a dream when past. 
+But whether life is, or is not composed of " such stuff as 
+dreams are made of," it is a valuable gift, and is capable of 
+many enjoyments, to be found by all who rationally seek 
+and use them. Among the enjoyments which men derive 
+from each other, those which arise from such social intercourse as you allude to, certainly are to be placed in the 
+first class. This class, however, like the first class of almost 
+every species of good, has more items in theory than in 
+actual experience. 
+</p><p>
+I think with you that the Spaniards deserve credit for 
+the spirit they have exhibited. There are fine points in 
+their character. In a conversation respecting them, with 
+the late Abbe Mably, he said, " Monsieur, ils sont plus 
+hommes que nous." This was a great deal for a Frenchman to say. I sincerely wish them success, but my expectations of it have not been sanguine. Their hatred of 
+France, and their attachment to their religion, &c, may 
+continue to stimulate their indignation and their valour; 
+but it does not appear to me that their opposition has been, 
+or probably will be, so managed as to prove effectual. As 
+yet, there has been no display of civil or military talents 
+equal to the occasion; we may guess, but we cannot 
+prophecy. 
+</p><p>
+Perilous times have descended upon all Europe, and Bonaparte seems to be the Nebuchadnezzar of the day. Divines 
+say, that in prophetic language nations are called seas. 
+According to that language, Europe is a tempestuous and 
+a raging ocean ; and who can tell which of the governments 
+afloat upon it will escape destruction or disaster ? Some 
+dark clouds from that tempest have reached, and lately 
+obscured, our political sky ; nor has it again become quite 
+serene and clear. This country, as well as others, will 
+experience deep distress ; but I do not believe that you or 
+I will live to see it. From transitory and ordinary evils 
+we cannot expect to be exempt. We may suffer from rash 
+experiments, from the pressure of fraternal embraces or 
+resentments, from the machinations of demagogues, and 
+gradually from the corruption incident to the love of money, 
+&c; but, for my own part, I do not apprehend any thing 
+like the speedy approach of an " overturn." You have had 
+a democratic tornado at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. It did but little 
+harm ; perhaps it did some good. I found it gave you 
+something to do ; and I found also, as I expected, that you 
+did it. Too many in your State, as in this, love pure 
+democracy dearly. They seem not to consider that pure 
+democracy, like pure rum, easily produces intoxication, and 
+with it a thousand mad pranks and fooleries. Ebriety, 
+whether moral or physical, is dillicult to cure ; and the more 
+so, as such patients cannot easily be convinced of the value 
+and the necessity of temperance and regimen. 
+</p><p>
+I observe that I have written a long letter. Feeling a 
+little fatigued, I must forego the pleasure of adding much 
+to it. It is pleasant to think loud in safe company, and I 
+sometimes allow myself that indulgence in writing. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Yours affectionately, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p><p>
+P.S. A frost in this month has injured the leaves of this 
+spring's shoots of my peach trees. Beans, cucumbers, &c. 
+have also suffered by it. 
+</p>
+</letter>

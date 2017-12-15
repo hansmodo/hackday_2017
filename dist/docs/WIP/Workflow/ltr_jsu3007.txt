@@ -1,0 +1,58 @@
+<letter id="jsu3007">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="3">March</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I have called on <a href='/results.php?tla=alm' rel='colleague'>General McDougall</a>, and informed 
+him, confidentially, of the state of our army. He says 
+there are about six hundred Continental troops here, 
+with two Massachusetts militia regiments. He is of 
+opinion, that the Continental troops here should be 
+sent forward, and that this State should garrison this 
+post, for which purpose he will call on <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a>, and 
+consult with him upon the most effectual measures to 
+bring it about. 
+</p><p>
+Dear General, since I left the army I have been 
+informed that <a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a> is to take the command at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> the ensuing campaign. Though 
+I never wish to complain, I cannot help the disagree 
+able feelings, so common to mankind, when they find 
+themselves slighted and neglected. When I had completed the disagreeable retreat from Canada, I was 
+with circumstances of indignity. Since which, 
+and before, every Major-General, except myself, has 
+had the honor of commanding posts, separated from 
+the main army. <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> has commanded at 
+New r York and <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> at Ticonderoga and <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> in the Jerseys, when the army was at <a href='/results.php?city=new york' rel='city'>New York</a>; General 
+Spencer at Rhode Island ; and <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> the 
+forces in this State. I have never yet been thought 
+worthy to intrust with the command of a separate 
+post. I have felt those things most sensibly, and 
+wish to know, to what it is owing. If it be to my 
+want of prudence, resolution, or whatever other cause, 
+I wish to know it, that I may rid the Continent of 
+an officer who is unworthy to trust with command. 
+</p><p>
+I once had the command in Canada by an act of 
+<a href='/results.php?city=providence' rel='city'>Providence</a> ; and even malice itself cannot censure my 
+conduct. I was soon deprived of the command, and 
+rewarded with disgrace for saving the army and 
+stores in that country. I know that <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> will 
+become an important object with the enemy. They 
+must try for it, and therefore he that has the command there will have the post of honor. I do there 
+fore humbly claim it as my right, and as the first 
+separate post intrusted to my care; and cannot think 
+of the command being given to a younger officer, 
+without conceiving myself a second time treated with 
+neglect, which I well know my conduct has not deserved. 
+</p><p>
+I wish your Excellency to forward me a line by 
+the post upon this subject, which will be gratefully 
+acknowledged by 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

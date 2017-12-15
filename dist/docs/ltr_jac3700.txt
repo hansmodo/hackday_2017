@@ -1,0 +1,79 @@
+<letter id="jac3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have been honored with your Excellency's favors 
+of the 28th ultimo, and 5th and 10th instant. I am at Schoharie, whose place I have supplied by a company of levies. Hazen's regiment I have ordered 
+to Caghnawaga, about twenty-five miles above Schenectady, on the Mohawk River, leaving one company 
+at Schenectady, for the purpose of forwarding stores 
+up the river. Colonel Willett, with such of the levies 
+as are not otherwise disposed of, will be stationed at 
+the Rapid and Fort Plane, about half way between 
+Caghnawaga and the German Flats. I flatter myself 
+this disposition will meet your Excellency's approbation, especially when you consider the very extensive 
+line of communication which is to be supported, and 
+the very many avenues through which we are exposed to attacks from the enemy in small parties. 
+</p><p>
+From a variety of accounts, received through different channels, I am informed the enemy's force at 
+Crown Point is near two thousand, though I cannot 
+persuade myself that they are near so strong. A 
+party of our Indians, I hear, have returned, and 
+brought in two prisoners, who have not yet arrived 
+in town, by whom I may possibly obtain some intelligence which may be depended on, and which, when 
+received, shall be transmitted to head-quarters. From 
+the complexion of Hazen's regiment, and their disposition to mutiny, I could have wished they had not 
+been sent up. They have been necessarily detained 
+a few days in this city; and the numerous disaffected 
+tribes, which swarm here, have so far inflamed their 
+minds that they are already become almost ungovernable. They have declared they will not march without money. Two of the principals, who had been 
+confined, were forcibly released by their fellows last 
+night, and the most disorderly conduct ensued. We 
+have, however, apprehended them this morning, and 
+a Court-Martial is now sitting to determine their fate. With respect to provisions, I hope we shall be able 
+to procure the necessary supplies of flour, but beef 
+we are entirely destitute of I have directed Mr. 
+Gamble to proceed to the eastward, and forward on, 
+without loss of time, such quantities as he may be 
+able to procure, either from Mr. Phelps, or Springfield, 
+or both, agreeably to your Excellency's instruction. 
+I have been so particularly attentive to the issues of 
+provisions in this quarter, that shortly after my arrival here I ordered no returns to be answered unless 
+countersigned by me, which I find has been productive of the best consequences. I could wish some 
+direct line of conduct was pointed out, specifying 
+who are the proper objects of public bounty, and 
+who not; for, though the wives and children of the 
+soldiers, as well as the Canada refugees, swell the 
+provision returns to a very considerable amount, yet 
+when we consider that the former cannot receive the 
+reward either of their own or their husbands' labor, 
+and the sacrifice which many of the latter have made 
+by their voluntary exile, it appears an act of cruelty 
+to deny them a scanty pittance. 
+</p><p>
+For the protection of the surviving part of this 
+devoted State, I could wish the troops now here 
+could be permitted to remain until absolute and immediate necessity calls for their services with the 
+army. Their stations are compact, and in seven days 
+of favorable weather they could be landed at West 
+Point. There are now in the ground the most promising crops, and the face of the country affords a 
+most flattering prospect. Prudence and policy, as 
+well as dear-bought experience, evidently dictate the 
+necessity of endeavouring to preserve it. I must 
+here beg leave to plead your Excellency's promise, 
+and request that, when offensive operations commence against the enemy, I may not be forgotten among 
+those who are ambitious of devoting themselves and 
+their services to the good of their country. I have 
+the honor to be, 
+</p><p>
+With the greatest respect, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jac" rel="me">James Clinton</a>. 
+</p><p>
+P. S. June ISt/i. This day Hazen's regiment marched in good order for their station. The prisoners 
+alluded to have arrived, the examination of whom I 
+have the honor to inclose. 
+</p>
+</letter>

@@ -1,0 +1,33 @@
+<letter id='dol1412'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1412'>
+<recipient first='Anna' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, August 2, <a href="/results.php?year=1832">1832</a>. 
+</p><p>
+BELOVED SISTER <a href="/results.php?tla=apc" rel="sibling met">Anna</a>, Mrs. Mason has just written to me to say you are a 
+little better, and those dear daughters of yours, Mary and Dolly, whom I shall ever 
+feel are my own children, have often consoled me by their letters since you were 
+unable to write. Your husband and boys too have written frequently, all in that 
+affectionate feeling towards you which manifested their deep love ; and although 
+my heart is sad within me, because I cannot see or assist you in your long and painful sickness, yet am I very thankful to the Almighty for his favors in bestowing such 
+devoted friends as have surrounded your pillow. 
+</p><p>
+My dear husband is recovering, I hope, slowly, though still confined to his bed. 
+He speaks of you to me every day with all the partiality and love of a tender 
+brother, and ardently hopes that we may be long spared to each other. 
+</p><p>
+Mrs. Clay and her husband did not call to see me as we expected. They understood that <a href="/results.php?tla=anj" rel="friend met">General Jackson</a> was at <a href="/results.php?city=montpelier" rel="city">Montpelier</a> and passed on to Governor Barbour's. 
+The next day Mr. Clay came for a few hours, but did not meet the President here. 
+I regretted much not seeing Mrs. Clay, as she would have talked to me of you. 
+</p><p>
+Do, dear sister, strive to get well and strong for my sake and your children's ; 
+what should we do without you ! As soon as my eyes are well I will write to dear 
+Mrs. B. In the mean time offer her my love and thanks for all her goodness to you. 
+</p><p>
+Adieu, my dear, ever and always, 
+</p><p>
+Your loving sister, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY P. MADISON.</a>. 
+</p></letter></letter>

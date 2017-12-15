@@ -1,0 +1,101 @@
+<letter id="rfs8031">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+<a href='/results.php?city=san diego' rel='city origin'>SAN DIEGO</a>, HEAD-QUARTERS OF, &c. &c., 
+<a rel="month origin" value="11">November</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+SIR : By the celebrated Mexican armed brig Malek Adhel, which was captured and taken out of the harbour of Mazatlan by the boats of the United States 
+ship Warren, I have the honour to send this despatch for you as far as Mazatlan, and to say that several other vessels perhaps thirteen or fourteen have been 
+captured by the Cyane and Warren, official reports of which, however, have not yet reached me ; but I have reason to hope and believe that every vessel by 
+which our commerce in this ocean could probably be interrupted has been captured by Commander Hull, in the Warren, or Commander Dupont, in the Cyane. 
+</p><p>
+Those officers deserve praise for the manner in which they have blockaded and watched the Mexican coast during the most inclement season of the year. 
+</p><p>
+The enclosed letters, from No. 1 to 4, will acquaint you with the position of the squadron and the affairs of this territory, as well as with my intentions in regard to the further prosecution of the war up to the 30th September, when 
+the intelligence reached me that all the Mexican officers in the territory, with the exception of one or two, had violated their oaths, and again taken up arms 
+against the United States, with which insurrection, and the consequent alteration of all my preconcerted plans, it will be the further object of this despatch to make you acquainted. 
+</p><p>
+The war in California being, as I supposed, at an end, and having ordered the other ships of the squadron to the coast of Mexico, there to await my arrival, I was about to transfer the government of California to other hands, and to sail 
+as soon as possible in the Congress for Acapulco, where I expected to land and lend our aid to the war in that part of Mexico, when I was informed by express that the Mexican officers had violated their oaths and commenced anew the war 
+by a midnight attack on the party of fifty men left at Ciudad de los Angeles. 
+</p><p>
+The enclosed proclamation, No. 5, signed by Jose Ma Flores, a captain in the Mexican army, and on parole, will give you some idea of the disposition of those depraved men. 
+</p><p>
+At this time <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a> had gone to the Sacramento to enlist men for me to take to Acapulco. I immediately sent to him to come to San Francisco, with 
+as many men and saddles as he could get to embark in the ship Sterling, that we might by prompt action surprise the enemy at Santa Barbara, only three 
+days march from De los Angeles ; while I would go directly to San Pedro and march to the city, where I would certainly be able to calculate within a day or two the time I would receive his co-operation. 
+</p><p>
+While the necessary preparations were making to carry out this plan of surprise and at once to put down tne insurrection, I ordered the Savannah (then 
+under sailing orders for the coast of Mexico) to go immediately to San Pedro, and afford all the aid in her power to our little garrison at the city. 
+</p><p>
+I left San Francisco in company with the Sterling ; but, having crossed the bar before her, I hove to till she came out, and then I steered with a fair wind 
+down along the coast. On our way we spoke the ship Barnstable from Monterey with despatches from the commanding officer there, stating that Monterey 
+would probably be attacked, and that he required immediate reinforcement. I went immediately to Monterey, leaving the Sterling with a fair wind on her way to Santa Barbara. 
+</p><p>
+I arrived the next day at Monterey, and landed two officers, Messrs. Baldwin and Johnston, with fifty men and three pieces of artillery ; and, having fortified 
+the town against any probable force in California, I left for San Pedro, looking into Santa Barbara, as I passed, to see how the Sterling made out ; but she had 
+not arrived, although she ought to have been there several days previous. 
+</p><p>
+I passed on to San Pedro, where I found the Savannah. Captain Mervine, commander of the Savannah, informed me that on his arrival there he found on board of the ship Vandalia the party of volunteers who had been besieged at the 
+Pueblo, and to whose assistance he had been despatched, but who had been permitted by treaty to retire with their arms on board of this vessel ; that about 
+two weeks before my arrival he had landed with his men and the above-mentioned volunteers, and marched for the city ; that he met a body of mounted 
+men with a field-piece, with whom he had an engagement ; that he had not taken any artillery with him, and they had driven him back to his ship, with 
+the loss of four men killed and some wounded; and that he had remained on board since that time waiting for me. 
+</p><p>
+He says that his officers and men behaved well; that they made several efforts to take the field-piece from the enemy, but they could not overtake it. 
+In truth, nothing short of a locomotive engine can catch those well-mounted fellows. 
+</p><p>
+I did not like this proceeding or its probable consequences ; but I have no more to say about it at present. Elated by this transient success, which the enemy, with his usual want of veracity, magnified into a great victory, they 
+collected in large bodies on all the adjacent hills, and would not permit a hoof except their own horses to be within fifty miles of San Pedro. 
+</p><p>
+I had, however, agreed to land there, to be in readiness to co-operate with the 
+forces under <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a> expected from Santa Barbara; and therefore determined to do so in the face of their boasting insolence, and there again to 
+hoist the glorious stars in the presence of their horse-covered hills. 
+</p><p>
+Orders were accordingly given to prepare to land the troops in the morning, and a party of the volunteers, as you will see by a general order here enclosed 
+and marked No. 6, were ordered to land before daylight, to cover the general landing, which was to be made up a very steep bank and in the face of the enemy. 
+</p><p>
+The volunteers failed to land in time, in consequence of a fancied force of the enemy. Not so with the sailors and marines, who were ready in the boats 
+alongside of the two ships, and whom, as soon as I discovered that the volunteers had not succeeded, I ordered to land. The boats of the Savannah were under 
+the immediate command of Captain Mervine ; those of the Congress under the immediate command of Lieutenant-Commandant Livingston, and performed the service in a most gallant manner, being myself present. 
+</p><p>
+On our approach to the shore, the enemy fired a few muskets without harm and tied ; we took possession, and once more hoisted our flag at San Pedro. 
+General order, marked No. 7, will show you how I estimated the conduct of the troops at the time. 
+</p><p>
+The troops remained encamped at that place for several days before the insurgents, who covered the adjacent hills, and until both officers and men had 
+become almost worn out by chasing and skirmishing with and watching them, and until I had given up all hope of the co-operation of <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a>. Besides, the enemy had driven off every animal, man and beast, from that section of the country, and it was not possible, by any means in our power, to carry provisions for our march to the city. 
+</p><p>
+I resolved, therefore, to embark the troops, and waste no more time there, but to go down South, and, if possible, to get animals somewhere along the coast 
+before the enemy could know or prevent it, and to mount my own men and march to the city by the Southern route. 
+</p><p>
+I left the Savannah to look out for <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a>, and, taking the volunteers on board of the Congress, proceeded down the coast as far as San Diego, where Lieutenant Minor was in command. 
+</p><p>
+Two days after my arrival at San Diego, the Malek Adhel arrived from Monterey, with despatches from <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a>, in which he says: We met 
+the Vandalia with information of the occurrences below. Mr. Howard represented that the enemy had driven off all the horses and cattle, so that it would 
+be impossible to obtain either for transportation or supplies. Under the circumstances, and in virtue of the discretionary authority you have given me, I judged 
+it of paramount necessity to haul up immediately for this port, with the intention to send for all the men who could be raised in the North and for the band 
+of horses which I had left on the Cosumne. In the mean time we should be able to check the insurrection here, and procure horses and supplies, so as to be in 
+readiness to march to the southward immediately on the arrival of our reinforcements. 7 
+</p><p>
+On the receipt of this letter, having arranged with Lieutenant Minor to send a vessel down the coast for horses and cattle, I returned to San Pedro, and sent 
+the Savannah back to Monterey, to facilitate, as far as I could, the preparations of <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a>. 
+</p><p>
+On my return at San Diego, I found that the expedition South had been successful, that the party had obtained about sixty useful horses, two hundred head of cattle, and five hundred sheep. 
+</p><p>
+On the afternoon of our arrival, the enemy, irritated, I suppose, by the loss of his animals, came down in considerable force and made an attack ; they were, 
+however, soon driven back, with the loss of two men and horses killed, and four wounded. Those skirmishes or running fights are of almost daily occurrence ; 
+since we have been here we have lost, as yet, but one man killed and one wounded. 
+</p><p>
+One hundred more horses will enable me to mount some of my own men, and, before long, I expect to be a general of dragoons, as well as commodore, governor, and commander-in-chief. 
+</p><p>
+I have been thus particular in this despatch, that you may see that all that unflinching labour and perseverance on my part, and inflexible patriotism and 
+courage on the part of my officers and men, could do to suppress this rebellion, has been done, and that, although we may still be for some time annoyed by 
+those daily skirmishes, yet the rebels cannot, in all probability, much longer avert the doom that awaits them. Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON. 
+</p><p>
+To the Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D. C. 
+</p><p>
+</letter>

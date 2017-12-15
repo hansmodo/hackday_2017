@@ -1,0 +1,29 @@
+<letter id="wih3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780'>1780</a>, 
+</p><p>
+Dear General, 
+</p><p>
+Nothing of any considerable consequence has happened since I had the honor last to write you. The 
+French troops are landed, and encamped in a fine 
+situation, to the south-east of the town, and extend 
+nearly across the Island. The troops make a good 
+appearance. The legion, under the command of the 
+<a href='/results.php?tla=cdl' rel='colleague met'>Duke De Lauzun</a> (the officer who took Senegal the 
+last year), is as fine a corps as ever I saw. It is 
+about six hundred strong. The officers express, the 
+highest satisfaction at the treatment they meet with. 
+The markets are become very good, and great regularity is preserved. In short, in every respect, I may 
+say, hitherto every thing appears agreeable and satisfactory. 
+</p><p>
+I have this moment received a letter from a gentleman in <a href='/results.php?city=boston' rel='city'>Boston</a>, advising that a vessel is just sent 
+into that port, which was one of a fleet of thirty-six sail from Ireland for <a href='/results.php?city=new york' rel='city'>New York</a>. I have given information of it to the General and Admiral, and, I apprehend, some of the fleet will go out on a cruise. The 
+Hermione has been cruising for these three or four 
+days. 1 have the honor to he, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter>

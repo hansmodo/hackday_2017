@@ -1,0 +1,23 @@
+<letter id="mbc7714">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Mrs. Preston's story. As we walked home, she told me she had just been to see a lady she had known 
+more than twenty years before. She had met her in this wise: One of the chambermaids of the St. Charles Hotel 
+(New Orleans) told Mrs. Preston's nurse it was when Mary Preston was a baby that up among the servants in 
+the garret there was a sick lady and her children. The maid was sure she was a lady, and thought she was hiding from 
+somebody. Mrs. Preston went up, knew the lady, had her brought down into comfortable rooms, and nursed her 
+until she recovered from her delirium and fever. She had run away, indeed, and was hiding herself and her children 
+from a worthless husband. Now, she has one son in a Yankee prison, one mortally wounded, and the last of them 
+dying there under her eyes of consumption. This last had married here in Richmond, not wisely, and too soon, for he 
+was a mere boy; his pay as a private was eleven dollars a month, and his wife's family charged him three hundred 
+dollars a month for her board; so he had to work double tides, do odd jobs by night and by day, and it killed him by 
+exposure to cold in this bitter climate to which his constitution was unadapted. 
+</p><p>
+They had been in Vicksburg during the siege, and during the bombardment sought refuge in a cave. The roar of 
+the cannon ceasing, they came out gladly for a breath of 
+fresh air. At the moment when they emerged, a bomb burst there, among them, so to speak, struck the son already 
+wounded, and smashed off the arm of a beautiful little grandchild not three years old. There was this poor little 
+girl with her touchingly lovely face, and her arm gone. This mutilated little martyr, Mrs. Preston said, was really to her 
+the crowning touch of the woman's affliction. Mrs. Preston put up her hand, "Her baby face haunts me". 
+</p>
+</letter>

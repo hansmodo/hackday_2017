@@ -1,0 +1,43 @@
+<letter id="nag4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, 	<a rel='day origin' value='8'>8</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+When I wrote you last, I did not expect to address you from this place again ; but Colonel Carrington has detained me upwards of a week, to complete 
+the business of his department. On Thursday next 
+we set off, by land, for the northward. 
+The Assembly of this State have rejected the impost act recommended by Congress. Had your circuLar, letter been printed a fortnight earlier, I am 
+persuaded it would have brought them into the measure. On once reading in the House, it produced an 
+alteration of sentiment of more then one quarter of 
+the members. The force and affection, with which it 
+was written, made every one seem to embrace it with 
+avidity. You were admired before ; you are little less 
+than adored now. The recommendation of Congress 
+had but a feeble influence until it was supported by 
+yours. Although the State did not come into the 
+plan recommended by Congress, they have laid a tax 
+of five per cent., under the authority of the State, to 
+be solely for the Continental use. This I attribute 
+entirely to your letter. Its effects have been astonishing. 
+</p><p>
+I see, by the papers, the Northern army does not 
+choose to be furloughed. The people here begin to 
+be alarmed at it. I hope every thing will terminate 
+both for the honor of the army and satisfaction of 
+the people, notwithstanding. There have been several little mobs and riots lately in this town, owing 
+to the indiscretion of some of the British merchants, 
+and to the violence of temper and private views of 
+some of the Whig interest. Tranquillity now prevails, 
+and there is little probability of any further disturbances. I hope to be at <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> in about 
+three weeks ; but, from all I can learn of the northern affairs, there is little probability of my having 
+the pleasure of meeting your Excellency there. Present me, respectfully, to Mrs. Washington, if with 
+you, and to all the firmily. I am, with esteem and 
+affection. 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

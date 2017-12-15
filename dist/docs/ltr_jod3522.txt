@@ -1,0 +1,42 @@
+<letter id="jod3522">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+IT is now a year, within a day or two, of my departure from home. It is in vain for me to think of writing of what is passed. The character and situation 
+in which I am here, and the situation of public affairs 
+absolutely forbid my writing freely. I must be excused. So many vessels are taken, and there are so 
+many persons indiscreet, and so many others inquisitive, that I may not write. God knows how much I 
+suffer for want of writing to you. It used to be a cordial to my spirits. 
+</p><p>
+Thus much I can say with perfect sincerity, that I 
+have found nothing to disgust me, or in any manner 
+disturb me, in the French nation. My evils here 
+arise altogether from Americans. If I would have 
+enlisted myself under the banner of either party, I 
+might have filled America, I doubt not, with panegyrics 
+of me from one party, and curses and slanders from 
+another. I have endeavored to be hitherto impartial, 
+to search for nothing but the truth, and to love no 
+body and nothing but the public good, at least not 
+more than the public good. I have hoped that animosities might be softened, and the still small voice 
+of reason heard more, and the boisterous roar of pas 
+sions and prejudices less. But the publication of a 
+certain addressto the people has destroyed all such 
+hopes. Nothing remains now, but the fearful looking 
+for of the fiery indignation of the monster party, 
+here. 
+</p><p>
+My consolation is that the partisans are no more than 
+</p><p>
+" bubbles on the sea of matter borne, 
+They rise, they break, and to that sea return." 
+</p><p>
+The people of America, I know, stand like Mount 
+Atlas, but these altercations occasion a great deal of 
+unhappiness for the present, and they prolong the war. 
+Those must answer for it who are guilty. I am not. 
+</p>
+</letter>

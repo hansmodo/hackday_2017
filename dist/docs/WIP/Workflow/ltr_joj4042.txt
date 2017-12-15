@@ -1,0 +1,107 @@
+<letter id="joj4042">
+<recipient first="William" last="Bingham" type="individual"/>
+<p>   	 
+<a href='/results.php?city=st ildefonso' rel='city origin'>St. Ildefonso</a>, <a rel='day origin' value='8'>8th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Among other letters brought by Major Franks, I had the 
+pleasure of receiving one from you, dated in July last. 
+From the few of mine that have reached you, it appears 
+they have been very unfortunate, and with many others, 
+have probably perished in the ocean. 
+</p><p>
+I am therefore to repeat my congratulations on the happiness you derive from the most delicate of all connexions 
+with one of the most lovely of her sex. As I am always 
+pleased to find those happy who I think deserve to be so, it 
+gave me very sensible satisfaction to hear that you had 
+both made so judicious a choice, notwithstanding the vi ii 
+which that sweet fascinating passion often draws over our 
+eyes and understanding. Be pleased to present my compliments and best wishes to Mrs. Bingham, and to add and 
+accept those of Mrs. Jay. who never speaks of Martinico 
+without expressing how much we are indebted to you for 
+the agreeable manner in which we passed the time we 
+staid there. 
+</p><p>
+Your representation of the state of our affairs is flattering, and affords reason to hope that the enemy will soon 
+cease to deceive themselves and others by groundless expectations of conquest. 
+</p><p>
+Peace and the negotiations for it are the prevailing topics 
+of conversation here, and perhaps in America also. I 
+hope, however, that our countrymen will not suffer themselves to be too much influenced by prospects, which may 
+prove no less delusive than they are pleasing. To prepare 
+vigorously for war is the only sure way of preparing for a 
+speedy and valuable peace. 
+</p><p>
+The Duke de Crillon is in possession of every part of 
+Minorca, except Fort St. Philip, which, unless pressed by 
+want of provisions or ammunition, will not, I suspect, soon 
+or easilv change masters. 
+</p><p>
+I should mention some other public intelligence ; but 
+before this letter can possibly come to your hands, as Major 
+Franks will go from hence to Paris, it will cease to be new 
+in America. 
+</p><p>
+It is natural for you to expect that my letters should now and then contain some traits of this country, its manners, government, and principal characters. With respect 
+to the three first, I make it a rule to be perfectly silent in 
+all my letters. The latter is a very delicate subject, and 
+men should be well acquainted with a character before 
+they attempt to describe it. Much injustice is often done 
+by taking reports as facts, and forming opinions of men 
+from the suggestions which may arise from envy or interested partialities. Though not very old, I have lived too 
+long to credit all I hear ; and having been deceived by fair 
+as well as unpromising appearances, they have ceased to 
+decide my judgment of men. 
+</p><p>
+Whenever you write to me, which I hope will be often, 
+recollect that your letters will, in nine instances out of ten, 
+be inspected before they reach me ; write nothing, therefore, 
+that you would wish concealed. But as this necessary 
+caution may sometimes restrain you from communicating 
+what you may think interesting for me to know, I cannot 
+omit this opportunity of giving you a cipher, viz. Entick's 
+New Spelling Dictionary, printed at London in <a href='/results.php?year=1777'>1777</a>, which 
+you will easily find at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; I bought mine at 
+Bell's book-store. Add twenty to the number of the page, 
+and ten to that of the word you use. Distinguish the first 
+column by a dot over the first figure, and the second 
+column by a dot over the second figure. For instance, the 
+word duration is the first word in the first column of the 
+139th page, and must be thus written, 159 11. Again, the 
+word beauty is the tenth word in the second column of the 
+60th page, and must be thus written, 80 20. But as it may 
+often happen that you may want to write names or words 
+which you will not find in the dictionary, use the following 
+alphabet in such cases : 
+</p><p>
+a b c d e f g h i j k 1 m n o p q r s t u v w x y z 
+n m 1 k i h f i e d c b a 1 y v x t u r p w s z o y 
+The design of this alphabet is obvious ; use n for a, m 
+for b, &c. 
+</p><p>
+I must now remark that you will have it in your power 
+to give me advices of such matters as, though often interesting, I am seldom favoured with by any of my correspondents. I mean the state of parties, the views of leading individuals, and such intelligence respecting our friends 
+and others, as though I might wish to know, ought not to 
+be public, and can only be safely communicated in cipher. 
+</p><p>
+Send your letters for me, under cover, to His Excellency 
+the Count de Montmorin, the Ambassador of His Most 
+Christian Majesty at this court. 
+</p><p>
+I fear you will find a correspondence of this kind a little 
+troublesome, but I know your industry, talents, and disposition to oblige, and therefore, though my letters mav not 
+always afford an adequate compensation, I flatter myself 
+you will not decline it, especially as you may be assured of 
+the utmost prudence and secrecy on my part. 
+</p><p>
+Be pleased to remember us to all our friends in your 
+circle. With sincere regard and attachment, 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

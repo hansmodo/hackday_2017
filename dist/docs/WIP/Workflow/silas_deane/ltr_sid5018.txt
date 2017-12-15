@@ -1,0 +1,33 @@
+<letter id="sid5018">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+I have recommended several officers to your service, but none with greater pleasure, scarce any one with so much 
+confidence of his answering great and valuable purposes, as the bearer, Colonel Conway, a native of Ireland, advanced 
+in the service by his merit. His views are to establish himself and his growing family in America ; consequently he 
+becomes our countryman and engages on the most certain principles. This gentleman has seen much service; his 
+principal department has been that of training and disciplining troops, and preparing for action ; and from his abilities as well 
+as from his long experience, he is considered as one of the most skilful disciplinarians in France. Such an officer must be, I conceive, of very great service, and his generously confiding in the honorable Congress for such rank and 
+appointments as they shall confer, entitles him still more to our immediate attention and notice. I have assured him 
+of the most favorable reception, and am confident he will receive the same. 
+</p><p>
+Colonel Conway takes with him some young officers of his own training, who know well the English language, and may 
+be of immediate service in the same important department of discipline. As Colonel Conway has been long in service, 
+(though in prime of life) I am confident you will not think it right he should rank under those who have served under him 
+in this kingdom, which will not be the case if he fills the place 
+of an Adjutant, or Brigadier General, for which, I am well assured, he is every way well qualified. I have advanced him 
+as per receipt enclosed towards his expenses and appointments or wages, and told him he may rely on your granting 
+him one of the above ranks in the Continental forces. Should the honorable Congress have a new body of troops 
+to form in any part of the Continent, this gentleman might take the direction of them to very great advantage, and may, 
+I presume, be equally so in the station you may appoint him ill the main army. 
+</p><p>
+I have the honor to be, &;c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

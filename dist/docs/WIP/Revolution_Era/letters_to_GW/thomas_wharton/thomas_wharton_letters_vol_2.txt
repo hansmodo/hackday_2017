@@ -1,0 +1,213 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.dnljIz on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--thw
+--DOC-AUTHOR-FIRST--Thomas
+--DOC-AUTHOR-LAST--Wharton
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="thw3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+In Council, <a href='/results.php?city=lancaster' rel='city origin'>Lancaster</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I had the honor of receiving your favor of the 
+17th instant, which was immediately laid before the 
+Council. 
+</p><p>
+In consequence of this application we have ordered 
+out two classes of militia, offering an exemption from 
+their fines to such delinquents of the former classes 
+as can be prevailed upon to join them, and have invited all, of every class, to turn out as volunteers. 
+The Lieutenants have orders, if they do not find 
+these two classes turn out generally, to order to 
+camp the next two succeeding classes. To encourage 
+the people to exert themselves with alacrity, we 
+have published an address, offering every motive we 
+could suggest, to stimulate our constituents to their 
+duty. What numbers may be drawn forth into service, in consequence of these measures, we cannot 
+possibly ascertain with precision; but believe they 
+will be more than we can possibly arm. If you 
+should think proper to encourage our calling forth 
+unarmed men, under the prospect of their finding 
+arms at camp, we will endeavour to do more; but, 
+from the view your letter presents of the want of that 
+necessary article with you, we think it unnecessary 
+to take further measures, at present, to draw forth a 
+multitude of people who cannot afford any service. 
+</p><p>
+The other important subject, mentioned in your letter, of taking measures for completing our Continental battalions, I shall communicate to the Legislature as soon as they meet. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thw" rel="me">THOMAS WHARTON, JR</a>. 
+</p>
+</letter><letter id="thw3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+In Council, <a href='/results.php?city=lancaster' rel='city origin'>Lancaster</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+The inclosed recommendation of the Honorable 
+House of General Assembly of this State, founded on a recommendation of Congress, has been repeatedly 
+under consideration. As we are persuaded that, how 
+ever it may be in other States, we cannot reasonably 
+expect, in this State, where property is in general 
+very equally divided, that farmers will exert them 
+selves to enlist their neighbours children in the service, or even the laborers, whom they feel them 
+selves in great want of, the Council can devise no 
+means by which we can hope so effectually and expeditiously to raise our quota of troops, as by the 
+officers of the battalions. If this measure shall meet 
+your Excellency's approbation, we request, that you 
+</p><p>
+" Business for some time past has not been despatched in Congress with 
+that degree of celerity, nor, possibly, in some instances, accuracy, which 
+the peculiar exigency of these infant States demands ; not owing to 
+negligence and inattention of the few members, who now faithfully devote 
+their time, and drudge in the service of their country, but to a deficiency 
+of numbers necessary for the discharge of the very important matters 
+which every new day brings forth. There are, at present, no more than 
+twenty-one members on the floor. Of these, three are ordered on a 
+Committee to General <a href='/results.php?city=washington' rel='city'>Washington</a>'s camp, and one to visit the hospitals ; 
+and, of late, from some unaccountable delinquencies, Congress, in order 
+to guard against a total dispersion of the army, have been obliged to act 
+personally, by several of its members, Quartermaster-General, Clothier-General, Commissary-General, and, as your Excellency will conclude from 
+the intimation just now dropped, Director of Hospitals; and I might, with 
+strict propriety, add two or three et ceteras. 
+</p><p>
+" I have taken the liberty of being so full on this head, in order to 
+show your Excellency the necessity for hastening a more ample representation from the State of <a href='/results.php?city=new york' rel='city'>New York</a>, as well as to apologize for any 
+unavoidable delay on the part of Congress ; and I have been urged more 
+particularly to do so, from a hint which Mr. Lewis gave me this evening, of his intention to leave us in a few days." 
+will please to select two out of each for this purpose, and give them orders to repair to the several 
+counties, as soon as may be, on this important service. 
+</p><p>
+A sum of money will be deposited in the hands 
+of the County Lieutenant, or other suitable person, to 
+pay the bounty of one hundred dollars ordered by the 
+Assembly, over and beside the bounty given by Congress, to each able-bodied recruit, who shall enter any 
+of the battalions belonging to the quota of this State, 
+for three years, or during the war. The words of 
+the recommendation are, of the "twelve battalions," 
+but we understand it to have been intended to all the 
+battalions. 
+</p><p>
+The Council had, some time since, set on foot a 
+collection of coarse woollens, blankets, shoes, &c., to 
+be sent in the common fund in the hands of the 
+Clothier-General. Very lately, Congress, departing 
+from their former system, resolved that each State 
+do endeavour to supply the present nessities of its 
+troops. Agreeably to this, the Council immediately 
+proceeded to bring a large quantity of woollens, 
+which was concealed or neglected in Buck's county, 
+to the supply of the distressed soldiers. The tailors 
+have made considerable progress in making them up. 
+They calculate that they will produce near one thou 
+sand coats and waistcoats for privates, and a .few 
+breeches. These goods seem not so fit for officers, 
+except some surtouts would be thought acceptable. 
+Your Excellency's direction concerning the distribution 
+will be useful, as the Council are satisfied that you 
+wish the most pressing necessity to be first relieved. 
+</p><p>
+The Assembly, in the exigence of our army at this 
+inclement season, have gone into the most vigorous 
+mode of relief, but a mode that cannot be continued 
+nor renewed, consistent with trade and manufacture. 
+They have invested two Commissioners, in each county, 
+with power to seize and take all necessaries suitable 
+to the purpose, in whatever hands they may be 
+found ; and they have appointed Colonel Francis 
+Johnston to receive and distribute the clothing as 
+ordered by the Council. By this means it may be 
+expected that great additions may be made to the 
+clothing already made up and making. 
+</p><p>
+The officers, whose wants it is believed are very 
+pressing, will be in some measure relieved ; but it 
+cannot be expected that powers, of this extraordinary 
+nature, can be exerted to procure any other goods 
+than warmth and decency require. Lieutenant Peter 
+son, of the eighth Pennsylvania battalion, applied to 
+the Council for clothing for himself and several officers. At the foot hereof we transcribe, from his application, a specimen of their wants. 
+</p><p>
+The call upon the State was thought to be for 
+covering for the naked part of the army ; and as no 
+idea that fine ruffled shirts, laced hats, or even fine ones of beaver, silken stockings, or fine scarlet cloth, 
+came under this description, no provision for these 
+has been made, nor can be expected. Your Excellency can best judge whether any precaution may be 
+necessary to prevent such officers, as intend shortly 
+to resign, from obtaining a supply of the clothing 
+expected to be delivered out. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thw" rel="me">THOMAS WHARTON, JR</a>. 
+</p>
+</letter><letter id="thw3202">
+<recipient first="George" last="Washington" type="individual"/>\n
+<p>
+In Council, <a href='/results.php?city=lancaster' rel='city origin'>Lancaster</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+In answer to your Excellency's letter of the 7th 
+instant, I beg leave to inclose to you extracts of a 
+letter to his Excellency the President of Congress, 
+from this Council, and of a representation from the 
+Council and the General Assembly to Congress, by 
+which your Excellency will see that attention has 
+been given to the supplying of the army with wagons, and what is the opinion of the Council respecting the difficulties attending this business. 
+</p><p>
+There is not any State on this Continent which 
+has been so oppressed with Continental business as 
+this has been, from the beginning of the present controversy to this hour. Its exertions have been so 
+zealous and unremitting, that no time has been lost 
+in inquiries after groundless charges of neglect made against it, which have been generally calculated to 
+excuse indolent or improvident officers, or to disgrace 
+the government established in it. The amazingly 
+difficult task, which your Excellency has to perform, 
+while you are embarrassed with perpetual applications 
+and complaints of officers, who are not fully acquainted with their duty, must too forcibly convince you 
+how near to an impossibility it is to conduct very 
+extensive business without the subordinate officers discharging, in some sort, their duty ; and it is from the 
+example of your Excellency alone, that it is believed 
+to be possible to conduct the affairs of a large army, 
+under the difficulties which you have had to contend 
+with. Equal abilities or success in attempts of this 
+kind are not to be expected in many instances. And 
+this Council must acknowledge that they are not 
+equal to the task imposed on them, if it is under 
+stood to be their duty to furnish every Deputy Quarter-master with four or five wagons, whenever they 
+are wanted, and to give equal attention to every other 
+department of the State and army. This, indeed, 
+seems to be expected of them; for there is, at present, 
+an absolute dependence on the Council to supply the 
+common rations of the soldiery now in the borough. 
+An earnest desire to serve the general cause, and a 
+zealous attachment to its interest, are the only motives which could possibly induce the Council to undertake such business in any extremity. 
+</p><p>
+The unparalleled patience and magnanimity with 
+which the army, under your Excellency's command, 
+have endured the hardships attending their situation, 
+unsupplied as they have been through an uncommonly 
+severe winter, is an honor which posterity will con 
+sider as more illustrious than could have been derived to them by a victory obtained by any sudden and 
+vigorous exertion. The latter often depends on some 
+circumstance trifling in itself, while the former is derived from a determined perseverance through the 
+greatest difficulties, which virtue and a truly patriotic 
+spirit only can inspire. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thw" rel="me">THOMAS WHARTON, JR</a>. 
+</p>
+</letter>

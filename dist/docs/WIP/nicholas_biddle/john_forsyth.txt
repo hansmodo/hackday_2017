@@ -1,0 +1,26 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--jof
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Forsyth
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jof5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+private Washington Nov 29 <a href='/results.php?year=1838'>1838</a> 
+
+My dear Sir 
+
+The Message has received its last touches before your letter of the 27th reached my hands. I cannot therefore 
+avail myself of your suggestions. But I must not suffer you to suppose I would have done so, had they been received 
+in season. The times do not permit any specially favorable notice of Texas. You will find however nothing of unkindness in the simple statement of our relations with the Republick. Admitting, what I do not believe, that you are entirely 
+correct in the other topick the Sub-Treasury, as I know that Mr V.B. s opinions have undergone no change I could 
+not advise him to omit taking notice of the Subject in the message. Under present circumstances such pressure would 
+betray a want of firmness &amp; consistency which no danger of consequences politically or personal should tempt any one to betray. . . . 
+
+</p>
+</letter>

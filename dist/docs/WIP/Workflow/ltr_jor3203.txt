@@ -1,0 +1,193 @@
+<letter id="jor3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="6">June</a> <a rel="day origin" value="5">5</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your kind and truly obliging favor, of the 28th 
+ultimo, came safely to hand, and, the oftener I pe 
+ruse it, the more fully sensible I am of the justice 
+and importance of its contents. I do not know by 
+what means the expected assistance from France has 
+been procured; but it will certainly give a complex 
+ion to the alliance in future, according to the reception it meets with here. I should be very apprehensive, from the different state of improvement of the 
+two countries, and perverseness of human nature, 
+which often leads us to expect more than can be obtained, and be chagrined at the disappointment, that, 
+with all possible attention and care, difficulties will 
+arise, and that it will greatly add to the burden laid 
+upon you. But, if they should want necessaries, when 
+the country abounds in them, we shall justly forfeit 
+any pretensions to respect and friendship, and be 
+come contemptible, not only to them, but to the 
+world, and even to ourselves. Our difficulties lie 
+with the rich, and not with the poor. While the war was conducted with emissions, the aid of the former 
+was not wanted; that of the latter was to be had, 
+and may be had now, upon the same terms, that is, 
+giving them a support for their labors; but to fight 
+and starve, or work and starve, are equally impracticable. 
+</p><p>
+In my opinion we have, in some degree, miscalculated the abilities of the country, and entirely the 
+disposition of the people to bear taxes in the necessary extent. The country, not immediately the seat 
+of either army, is richer than when the war began; 
+but the long disuse of taxes, and their natural unpalatableness, have embarrassed the business exceedingly; and Tories, grumbling Whigs, and party, have 
+all thrown in their aid to increase the discontent. 
+These circumstances, which it was impossible to fore 
+see in their full extent, made a foreign loan a matter of great importance, and even of indispensable necessity; and, if any thing has been omitted to obtain it, which we may yet retrieve, I should hope no 
+time will be lost. 
+</p><p>
+The failure of the Eastern States to supply beef 
+will be attended with some disagreeable effects here ; 
+for all the money we had, or expected soon, has 
+been furnished to procure this article, and, of course, 
+our means of procuring flour proportionably diminished. The State made an effort, on this account, 
+which no other has equalled, as they mortgaged an estate, belonging to the public, in the neighbourhood 
+of this city, for the special purpose of supplying the 
+army, leaving the taxes for the general use of the 
+United States. But this money, though secure in 
+every other event than that of our failing in the 
+contest, and drawing an interest, has met with embarrassments and opposition, partly from interested 
+and partly from other motives, which have very much 
+delayed the supplies. We have, at length, got in 
+motion, and, I hope, shall be able to get a supply of 
+flour for the summer ; but the shock paper money 
+has received, subjects all our resources to the ca 
+price of interested or perverse individuals, more than 
+is consistent with our safety or honor. 
+</p><p>
+The address of the Committee, accompanied with a 
+letter from yourself, came at a seasonable moment, 
+just as the House of Assembly was about to rise. 
+They immediately passed a law for raising two men 
+out of every company of militia, which I had endeavoured, but in vain, to effect last spring. This 
+will produce about one thousand men from the whole 
+State, about six hundred of which will go to fill 
+up the ranks of the Continental army. The remainder we must endeavour to throw upon the fron 
+tiers, or some of our oldest and most established 
+counties are in danger of becoming a frontier. In 
+short, there is no pacifying them without a body of 
+troops, though experience has long decided how in 
+adequate a defensive war is for support against the 
+Indians. 
+</p><p>
+The representation of the distress for want of meat, 
+produced an immediate exertion, of which I hope the 
+benefit must be felt by this time. It is true, many 
+of the cattle are not fit for slaughter, but they are 
+the best we have. It was thought best to continue 
+this business, at least for some weeks, in order to 
+have a stock in possession, and of consequence they 
+will be continued for some time; proceeding to camp 
+upon this principle, that, if you have none better, 
+these must serve, and if you have, the season of the 
+year will admit their being kept till they are better. 
+</p><p>
+We had proceeded thus far, and there seemed to 
+be a very good disposition in all to advance the necessary measures, with as much expedition as deliberative bodies usually do, or are capable of. The 
+vesting extraordinary powers in the Executive was 
+not so well relished, and it was too delicate a subject to be much pressed by me, especially as there 
+appeared some reluctance on this point; and, it is 
+probable, the House would have adjourned without 
+touching upon it, had it not been so forcibly urged 
+in your private letter. I was extremely embarrassed ; 
+I did not see any chance of its being done, but by 
+letting them know that it was deemed by you a 
+matter not of mere importance, but of indispensable necessity. This was done in a manner the most 
+guarded and confidential, and had the desired effect, 
+as they have vested the Executive with the power 
+to declare martial law, so far as they shall deem necessary? ftftd which gives us a power of doing what 
+may be necessary, without attending to the ordinary 
+forms of law. I have the pleasure to observe, the 
+measure is generally satisfactory; and as we shall endeavour to exercise it with prudence and moderation, 
+I hope it may be productive of the good effects expected from it. 
+</p><p>
+The loss of <a href='/results.php?city=charleston' rel='city'>Charleston</a>, with its garrison, and stores, 
+which I think a very probable event, notwithstanding 
+the sanguine hopes of some, and doubts of others, 
+will, it must be presumed, rouse us from the insensibility with which we have hitherto carried on the 
+war since <a href='/results.php?year=1777'>1777</a>. And yet the scene is so distant, 
+and the danger apparently remote, that I am not 
+certain of this effect. The arrival of a few vessels 
+from Statia, or capture of as many, seems to be an 
+event more interesting, than an advantage gained or 
+lost by the enemy, however considerable. And our country friends find their patriotism abate, as their 
+interests are affected by duties or taxes. I am inclined to think some stroke of adverse fortune necessary, and that lasting good may flow from it ; for, 
+pretend what we may, the country is so much re 
+moved from the distress of the war, and really has 
+the three requisites of war, men, provisions, and iron, 
+if not in abundance, in sufficiency for all our wants, 
+our only difficulty is to draw them forth. And for 
+this, two things are essentially necessary; namely, 
+union among the States, generally and particularly. 
+The parties in Congress have weakened the influence and lessened the weight of that body, and the 
+internal divisions have had the like effect on the Governments ; so that every measure, however necessary 
+for the general good, has been timid, feeble, and languid, each fearing to give his adversary some advantage ; while the disaffected and mercenary have raised 
+their heads, with an astonishing degree of insolence, 
+to the great discouragement of the Whigs, especially 
+in the middling and lower classes of life, who, having 
+been distressed by their attachment to our cause, and 
+their minds neither feeling, nor perhaps capable of 
+feeling, what is called liberality of spirit towards an 
+enemy, have been mortified to find themselves no 
+way distinguished, but by their sufferings. It is clear that the Royal cause, both in this State and Mary, 
+land, derives great advantage from the division of 
+the Whigs ; for, in the rage and discontent of party, 
+auxiliaries are so acceptable, that we are not apt 
+to scrutinize their motives and principles too narrowly. Upon these considerations, I have ever thought 
+it a most necessary duty to sacrifice, as far as I am 
+capable, any smaller resentments, and, far from declining the paths of peace, to seek them. I have 
+made more advances than one. The exposing my 
+life to save that of my principal enemies, when they 
+would otherwise have fallen a collective sacrifice to 
+their own imprudence and to popular resentment, 
+though an act of duty in my station, might have 
+been evaded on many plausible pretexts. But it 
+seems to be the allotment of <a href='/results.php?city=providence' rel='city'>Providence</a>, that, in this 
+respect, I am to be unhappy. 
+</p><p>
+Conceiving it a proper time to write, and make a 
+great and general effort for our national safety and 
+honor, a few days before I was favored with your sentiments on this subject, waiving all sorts of punctilio, I made a direct overture. I can only say, it 
+was not accepted ; but it was of so explicit and unequivocal a nature, as to leave no farther ground, unless time and a change of circumstances should produce it. I am, however, happy to find, that I have 
+met your opinion in this respect, and beg you to 
+believe, not only that I was sincere on that occasion, 
+but that, as the public good and your ease appear connected in some degree with it, I shall embrace 
+any favorable opportunity to renew it. 
+</p><p>
+I feel, exceedingly feel, for the peculiarity of your situation, my dear Sir, and also fear that your health 
+may suffer in the conflict. But when I consider what 
+just conceptions you have of the importance of the 
+prize for which we contend, the progress already, and 
+the abounding affection and confidence of the country, I cannot but believe you may draw great consolation and support, that the present difficulties will 
+lay a foundation for some system of solid supply, 
+and a just consideration of the army, which has been 
+too generally viewed through a very mistaken medium. For myself, I shall only add, that the same 
+motives which led me to leave domestic enjoyments 
+and lucrative ease, in <a href='/results.php?year=1775'>1775</a>, and partake your early 
+exertions, now strengthened by more knowledge and 
+warmer attachment, will induce me to strain every 
+nerve, and run every risk, to promote the public service, as the most acceptable testimony I can give 
+you of the truth of these professions. And if there 
+is any particular case or occasion, which, from want 
+of knowledge or information, I may be likely to 
+overlook, I shall esteem it a particular favor to be 
+honored with a few lines, to which I shall pay the 
+most special and animated attention. 
+I think it very happy, that Major Lee's corps is 
+in the vicinity of this place; as, in case of emergency, they may be wanted to execute measures which, 
+though necessary, are unpalatable, and often ill executed, where the feelings of acquaintance and personal friendship operate against the public measures. 
+They are in exceeding good quarters, on the best terms with the inhabitants, and, I presume, must be 
+far too late to render any assistance to our friends 
+in the south. 
+</p><p>
+Mrs. Heed, who is pretty well recovered, returns 
+her respectful regards and thanks to Mrs. Washing 
+ton and yourself for your polite attention, in which I 
+beg leave to include mine; and am, with the most 
+unfeigned respect and esteem, dear Sir, 
+</p><p>
+Your obliged and most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jor" rel="me">JOSEPH REED</a>. 
+</p>
+</letter>

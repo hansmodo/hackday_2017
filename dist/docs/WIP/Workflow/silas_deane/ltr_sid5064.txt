@@ -1,0 +1,17 @@
+<letter id="sid5064">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I do myself the honor of enclosing a memorial, which I Beg of you to lay before Congress as early as may be, 
+and I flatter myself it will be taken under their consideration as soon as is consistent with the other important affairs before them. 
+</p><p>
+I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

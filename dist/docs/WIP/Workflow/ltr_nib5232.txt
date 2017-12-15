@@ -1,0 +1,64 @@
+<letter id="nib5232">
+<recipient first="John" last="Mclean" type="individual"/>
+<p>
+Bank of the U. States. 
+</p><p>
+<a rel="month origin" value="1">Jan'y</a> . u, <a href='/results.php?year=1829' rel="origin">1829</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+I thank you very sincerely for your favor of the 5th 
+inst. with its inclosures. . . . 
+</p><p>
+On the general question, I concur entirely in your views, 
+which are, in fact, those which prevail in the administration 
+of the Bank. Our theory is, that the Bank should studiously 
+abstain from all interference in politics, &amp; there is not an 
+officer of the Institution who does not know that his stand 
+ing &amp; his place too, depend on his strict observance of this 
+principle. 1 believe also that they have hitherto been faithful 
+to it. I have never heard of any suspicion even, that any 
+officer of the Bank has intermeddled with politics, except on 
+one occasion, and that suspicion, I am satisfied after inquiry, 
+was without foundation. 
+</p><p>
+In regard to Directors, the first considerations undoubtedly are, integrity, independence &amp; knowledge of business. 
+</p><p>
+No man should be excluded, no man should be sought, 
+merely on account of his political sentiments. Nevertheless, 
+in a community where broad political distinctions prevail, 
+we must not be insensible to them, we must not reject, 
+nor even seem to reject, any denomination of politicians, &amp; 
+where we have the means of selecting persons equally competent from all parties, their political opinions ought not to be 
+overlooked. Still, however, in choosing Directors, who borrow themselves &amp; who lend to others, the funds belonging to the 
+Gov. and to the Stockholders, their personal independence, 
+&amp; their fitness for that particular duty must be the primary 
+inquiry their political preferences only a secondary concern. 
+The great hazard of any system of equal division of parties 
+at a Board is, that it almost inevitably forces upon you in 
+competent or inferior persons, in order to adjust the numerical balance of Directors. For instance, the Board at Nashville naturally consists of the political friends of <a href='/results.php?tla=anj' rel='adversary'>General Jackson</a> that at <a href='/results.php?city=boston' rel='city'>Boston</a>, of the friends of <a href='/results.php?tla=jqa' rel=''>Mr Adams</a> (tho , 
+such is the fate of politicians, I am not so sure of that now) 
+and this is not from any principle of political selection or exclusion, but because the best agents for managing monied 
+concerns, happened to be on that side just as the best 
+lawyer or the best merchant of these places, would probably be in favor of their respective candidates but if, 
+with a view to redress this inequality, we were to introduce incompetent persons, the Bank might sustain serious injury. 
+</p><p>
+In the Branches we naturally look to the confidential officers of the Bank (the Cashier who is appointed by the Parent 
+Board, and the President of the Branch) to nominate suitable 
+persons to fill the vacancies as they occur by rotation, and if, after inquiring from other independent sources, we see no 
+reason to distrust their judgment, we generally lean to their nomination. This is the safest general practice, because if we 
+at a distance place in the Direction gentlemen without know 
+ing their precise pecuniary situation, we may introduce individuals who have already borrowed too much, or wish to 
+borrow too much, or who have needy friends whose claims they may urge successfully while sitting at the Board, when 
+they might otherwise be resisted. In regard to the Branches in Kentucky, they have met with enormous losses not less 
+perhaps than $600,000 and a great portion of this not on business loans, the legitimate object of Banking, but on accomodation paper which should never have found its way 
+into the Branches. This melancholy experience has induced us to give a more commercial &amp; business-like character to 
+their transactions, and they have naturally fallen into the hands of business men, who have managed their affairs very 
+well. These Branches were never in so sound &amp; prosperous a state as at this moment never did business so usefully 
+to the community &amp; so profitably to the Bank. Being perfectly satisfied with their progress, &amp; perceiving that the set 
+of gentlemen in the Direction are nearly the same who have been there for four or five years, I have not examined their 
+relation to the political parties which have grown up principally since they were first introduced into the Boards. I was 
+not even aware, until I received your letter, of any political preponderance either way, in the Directions of the Branches, 
+nor did I suppose it possible that they would abuse their trusts to any political object. ... 
+</p>
+</letter>

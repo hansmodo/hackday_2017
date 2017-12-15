@@ -1,0 +1,294 @@
+<letter id="gom4601">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, February 	<a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I wrote to you on the twenty-seventh of December, but there 
+were many things which I did not write, and some of them I 
+will now communicate. At the close of the session of the first 
+National Assembly, a coalition was brought about between the 
+Jacobins and the Quatre-vingt-neufs. It is proper to explain 
+these terms. The Jacobins, so called from their meeting at a 
+convent or church of that name, were then the violent party. 
+The others, who took their name from a club instituted in the 
+year <a href='/results.php?year=1789'>1789</a>, were those who termed themselves moderate men, 
+friends to order, &c. &c. The death of Mirabeau, (who was 
+beyond all controversy one of the most unprincipled scoundrels 
+that ever lived,) left a great chasm in the latter party. He 
+was then sold to the court, and meant to bring back absolute 
+authority. 
+</p><p>
+The chiefs of the Jacobins were violent, for two reasons. 
+First, that the Quatre-vingt-neufs would not join with them 
+seriously and heartily, wherefore not being able to make head 
+alone, they were obliged to use the populace, and therefore to 
+sacrifice to the populace. Secondly, that the objects of their 
+desire were much greater, though more remote, than those of the 
+other party ; for these last had never sought in the revolution 
+anything else, than to place themselves comfortably, whereas 
+the Jacobins did really at first desire to establish a free constitution, in the expectation that sooner or later they should be 
+at the head of it. 
+</p><p>
+The Aristocrats, you will observe, were reduced to insignificancy before the others divided. That, you know, is a 
+thing of course. You will remember, that the first Assembly 
+had decreed that their members could neither hold any office 
+under the crown, nor yet be chosen to represent the people. 
+These decrees were partly the fruit of opposition between the 
+two parties, and partly the result of suspicions, which they had 
+both excited amongst the well meaning members of the Assembly. The first decree was of Jacobin parentage, to disappoint 
+their enemies, who were upon the point of succeeding to office. 
+The second decree was carried against the secret inclinations 
+of both. But the consequence was, that each was seriously 
+disappointed ; and as the constitution was clearly unable to 
+support itself, they began to perceive that its ruin might involve 
+their own, and therefore they formed a coalition, in which 
+each determined to make use of the other for its own purposes. 
+</p><p>
+But you will say perhaps, that both together would be of little use ; and this is true in a degree ; for if the constitution 
+had been a practicable thing, those alone who were in power 
+under it could have any real authority. But that was not the 
+case, and therefore the plan of the Allies was to induce a be 
+lief in the court, that they alone had sufficient popularity in the 
+nation to preserve the monarchical authority against the republican party, and on the other hand to convince the Assembly, 
+that (having in their hands the royal authority) all favor, offices, 
+and grants must come through them. Thus they constituted 
+themselves, if I may be allowed the expression, the government brokers of the nation. 
+</p><p>
+I have mentioned the republican party. This naturally 
+grew up out of the old Jacobin sect ; for when the chiefs, finding that all was nearly ruined by the want of authority, had 
+set themselves seriously at work to correct their own errors, 
+many of their disciples, who believed what their apostles had 
+preached, and many who saw in the establishment of order the 
+loss of their consequence, determined to throw off all submission to crowned heads, as being unworthy of a free people. 
+Add to this the number of { moody beggars starving for a 
+time of pell-mell havock and confusion. 
+</p><p>
+It was this coalition, which prevented the King from accepting the constitution in a manly manner, pointing out its capital 
+faults, marking the probable consequences, calling on them to 
+reconsider it, and declaring that his submission to their decisions arose from his belief, that it was the only means to avoid 
+the horrors of civil war. They saw that this conduct would 
+render them responsible, and although it was the most likely 
+means of obtaining a good constitution at a future day, and would 
+have bound the King down to the principles he should then ad 
+vance, yet they opposed, because such good constitution would 
+be established, not only without, but even against them, and 
+would of course deprive them of those objects which they were 
+in pursuit of. The King contended strongly for that kind of 
+acceptance, which I have just mentioned, but he was borne 
+down, being threatened with popular commotions fatal to him self and his family, and with that civil war which he most wished to avoid, as the necessary result of such fatal commotions. 
+</p><p>
+Shortly after his acceptance it became necessary to appoint 
+another minister of Foreign Affairs, Monsieur de Montmorin 
+having insisted so strongly on retiring that the King could not 
+longer, with any propriety, ask him to stay. The state of the 
+ministry was then as follows. Monsieur Duport, the Keeper of 
+the Seals, a creature of and sworn adherent to the Triumvirate ; 
+which Triumvirate is another Duport, Barnave, and Alexander 
+Lameth, being the chiefs of the old Jacobins. I say the old 
+Jacobins, for the present Jacobins are the republican party. 
+This Keeper of the Seals constantly communicated every 
+thing that passed in council to his coadjutors. The Minister of 
+the Interior, Monsieur Delessart, was a wavering creature, one 
+of those of whom Shakspeare says that they renege, affirm, and 
+turn their halcyon beaks with every gale and vary of their 
+masters. He had been one of M. Necker's underlings, was 
+brought forward by him, and had connected himself with the 
+Triumvirate, M. Necker's enemies, as being the strongest party, 
+but still kept up a good understanding with the others. 
+</p><p>
+Duportail, the Minister at War, of whom I formerly spoke to 
+you when he was appointed, and foretold the conduct he would 
+pursue towards his creator, <a href='/results.php?tla=laf' rel='colleague met'>Monsieur De Lafayette</a>, was also 
+completely subservient to the Triumvirate. But at that time he 
+was so much embroiled with the Assembly, that his speedy resignation seemed unavoidable. Monsieur Bertrand de Molleville 
+had just been appointed to the Marine, an office which Monsieur 
+de Bougainville had refused to accept. He was pushed to it by 
+the Quatre-vingt-neufs, whom he despised, and told the King 
+that he would not be member of a ministry, many of whom he 
+knew to be unfaithful to him. Monsieur Bertrand was brought 
+forward by the same influence, but he is really attached to the 
+crown, wishes ardently to obtain a good constitution for his 
+country, is an intelligent, sensible, and laborious man, formerly 
+of the robe, and the particular friend of Monsieur de Montmorin. 
+</p><p>
+I mentioned to you formerly that Monsieur de Choiseul had 
+refused the office of Foreign Affairs. While it was in question who should be appointed to succeed Monsieur de Montmorin, 
+the King of his own head named the Count de Moustier, and 
+wrote him a letter on the subject, which de Moustier has since 
+shown to me. He had the prudence to write from Berlin to 
+decline accepting, until after he should be in Paris. When he 
+arrived in that city the King told him that he could not give 
+him the office, because he was considered as an Aristocrat. 
+You will observe that the coalition had been at work to get rid 
+of him, and here I must make a digression. The plan was 
+that as soon as circumstances would permit, a Minister at War 
+should be appointed, faithful to the King, and then Bougainville take the Marine, Bertrand be appointed Keeper of the 
+Seals, and Delessart either kept in or turned out, as he should 
+behave. This plan was not known to the coalition at all, but 
+they well knew that if de Moustier got into place, it would be 
+a step towards the destruction of their influence and authority. They therefore assured the King, that they could not answer for consequences, threatened him with popular commotions, with opposition in the Assembly, and the like, so that at 
+last he gave up his nomination and explained the matter to de Moustier. A long interregnum ensued in that office, and as 
+Monsieur de Montmorin absolutely refused to continue any longer, the Portefeuille was given to Monsieur Delessart, and 
+after some time the Count de Segur was appointed. 
+</p><p>
+He accepted in the belief of two things, in both of which he 
+was mistaken. One, that he had the confidence of the King 
+and Queen ; but he had never taken the right way to obtain 
+either their confidence, or that of others. The second article 
+of his creed was, that the Triumvirate (his patrons) commanded a majority in the Assembly. He was undeceived as to the 
+latter point immediately, and therefore threw up the office and 
+went out of town. Under these circumstances Monsieur de 
+Narbonne tried hard to obtain that place, and, as I have mentioned his name, and that of Monsieur de Choiseul, I will in 
+this place mention that of the Abbe de Perigord, afterwards 
+Bishop of Autun. These three are young men of high family, men of wit and men of pleasure ; the two former were 
+men of fortune, but had spent it. They were intimates ; all 
+three had run the career of ambition together to retrieve 
+their affairs. On the score of morals neither of them is 
+exemplary. The Bishop is particularly blamed on that head, 
+for the variety and publicity of his amours, for gambling, and 
+above all for stock-jobbing during the ministry of Monsieur de Calonne, with whom he was on the best terms, and therefore 
+had opportunities which his enemies say he made no small use 
+of. However I do not believe in this, and I think that except 
+his gallantries, and a mode of thinking rather too liberal for a 
+churchman, the charges are unduly aggravated. 
+</p><p>
+It was by the Bishop's intrigues principally, that Monsieur 
+de Choiseul was formerly nominated to the office of Foreign 
+Affairs, but he preferred staying at Constantinople till he 
+could see which way things would settle, and to that effect he 
+prevailed on the Vizier, or rather the Rei-s Effendi, to write that 
+he thought it much for the interest of France, that he should 
+stay for three years longer in that city. In the beginning of 
+the revolution, Narbonne, a great Jlnti-neckerist, was not a 
+little opposed to it, and there was afterwards some coldness 
+between him and the Bishop, partly on political accounts, and 
+partly because he (in common with the rest of the world) 
+believed the Bishop to be too well with his mistress. This 
+coldness was however at length removed by the interference 
+of their common friend, and the Bishop labored hard to get 
+his friend de Narbonne appointed to the office of Foreign 
+Affairs, but the King would not agree to it. M. Delessart 
+was therefore appointed, he being very glad to get rid of the 
+department of the Interior, where he had everything to apprehend from want of power, want of order, and want of 
+bread. The next step was to bring Monsieur de Narbonne 
+forward to fill the place of Monsieur Duportail, and to this 
+M. Delessart gave his hearty assistance by way of compensating for the disappointment in the other department. Finally the Interior, or Home Department, was filled by a Monsieur 
+Cahier de Gerville, of whom I know very little ; nor is it 
+necessary that I should. 
+This ministry stands then divided as follows. The Keeper 
+of Seals and M. Delessart are attached, or supposed to be so, 
+to the Lameth faction, Monsieur de Narbonne and Monsieur 
+Bertrand are supposed to be attached to the Quatre-vingtneufs, and M. de Gerville rather leaning to the latter. This 
+ministry, extremely disjointed in itself, and strongly opposed 
+by the Assembly, possesses on the whole but a moderate share 
+of talents, for though Count de Narbonne is a man of wit, and a 
+very pleasant lively fellow, he is by no means a man of 
+business ; and though M. Bertrand has talents, yet according 
+to the old proverb, one swallow never makes a summer. 
+</p><p>
+Such as it is, every one of them is convinced that the constitution is good for nothing ; and unfortunately they are. many 
+of them so indiscreet as to disclose that opinion,. when at the 
+same time they declare their determination to support and execute it, which is in fact the only rational mode, which now 
+remains, of pointing out its defects. It is unnecessary to tell 
+you, that some members of the National Assembly are in the 
+pay of England, for that you will easily suppose. Brissotde Warville is said to be one of them, and indeed, (whether from 
+corrupt or other motives I know not,) his conduct tends to injure his own country, and benefit that of their ancient foes in a 
+very eminent degree. 
+</p><p>
+The situation of their finances is such, that every considerate 
+person sees the impossibility of going on in the present way ; 
+and as a change of system, after so many pompous declamations, is not a little dangerous among a people so wild and ungoverned, it has appeared to them that a war would furnish 
+some plausible pretext for measures of a very decisive nature, 
+in which state necessity will be urged in the teeth of policy, 
+humanity, and justice. Others consider war as the means of 
+obtaining for the government the eventual command of disciplined military force, which may be used to restore order, in 
+other words to bring back despotism ; and then they expect 
+that the King will give the nation a constitution, which they 
+have neither the wisdom to form nor the virtue to adopt for 
+themselves. Others again suppose that in case of a war there 
+will be such a leaning from the King towards his brothers, from 
+the Queen towards the Emperor, from the nobility (the very 
+few) who remain towards the mass of their brethren, who have 
+left the kingdom, that the bad success natural to arise from 
+the opposition of undisciplined mobs to regular armies, may be 
+easily imputed to treasonable counsels, and the people be prevailed on to banish them altogether, and set up a federal re 
+public. Lastly, the Aristocrats burning with the lust of vengeance, most of them poor, and all of them proud, hope that, 
+supported by foreign armies, they shall be able to return 
+victorious and re-establish that species of despotism most suited 
+to their own cupidity.
+</p><p>
+It happens, therefore, that the whole nation, though with different views, are desirous of war, for it is proper in such general statement to take in the spirit of the country, which has ever 
+been warlike. I have told you long ago, that the Emperor is 
+by no means an enterprising or warlike prince. I must now, 
+in confirmation of that, inform you that in the famous conference at Pilnitz he was taken in by the King of Prussia, for he 
+came prepared to higgle about the nature and extent of the 
+succor to be given and forces to be employed ; but the King 
+cut the matter short by telling him, that the difference in the 
+extent of their respective dominions, and a variety of other 
+circumstances, would justify him in demanding greater efforts 
+on the part of the Emperor, but that he would meet him on 
+ground of perfect equality. In consequence of this the Emperor was obliged to accede, but he did so in the view and the 
+wish to do nothing. 
+</p><p>
+When therefore the King accepted the constitution, he chose 
+to consider that as a reason why foreign Princes should not 
+interfere. The King cf Prussia, however, gave to the King personal assurances of his good will, and brotherly attachment, and 
+of this offered substantial proofs. The King's true interest 
+(and he thinks so) seems to consist in preserving the peace, 
+and leaving the Assembly to act as they may think proper, which will demonstrate the necessity of restoring in a great degree the 
+royal authority. The faction opposed to him are very sensible 
+of this, which forms an additional reason for driving everything 
+to extremity ; and therefore with a view to destroy every root 
+and fibre of ancient systems, they have imagined to court the 
+alliance of Great Britain and of Prussia. In consequence, the 
+Bishop d Autun has been sent to England, and if my information be good, is authorised to propose the cession of the Islands 
+of France and Bourbon and the island of Tobago, as the price 
+of an alliance against the Emperor. 
+</p><p>
+This has a direct tendency to break the family compact with 
+Spain, which has long been courted by Britain ; for it is evi 
+dent, that this country will not embark in a contest which is to 
+do France any good, and therefore the game of Mr Pitt is as 
+clear as the sun, and suits exactly his temper and disposition. 
+He has only to receive the offers made, and send copies to 
+Vienna and Madrid, by way of supporting his negotiations, particularly with the latter. He can offer them also the guarantee 
+of their dominions and rights against us, and by this means we 
+should find ourselves all at once surrounded by hostile nations. 
+The minister of the Marine opposed violently in council this 
+mission, stated the consequences, and obtained some useful restrictions. M. de Warville proposed in the Diplomatic Commit 
+tee the cession of Dunkirk and Calais to England, as pledges 
+of the fidelity of France to the engagements she might take. 
+You will judge from this specimen of the wisdom and virtue 
+of the faction to which he belongs, and I am sure the integrity of your heart will frown with indignant contempt when 
+I tell you, that among the chiefs of that faction are men, who 
+owe their all to the personal bounty of the King. 
+</p><p>
+This mission of the Bishop d Autun has produced something 
+like a schism in the coalition. The party of Lameth and Barnave are strongly opposed to it. Monsieur Delessart, who 
+had adopted the scheme on the representation of the Bishop 
+(with whom it originated) and his friends, abandoned it on the 
+representation of the others, and two days before I left Paris 
+an express was sent to assure the Emperor, that notwithstanding appearances they meant him no harm. In effect they 
+were again going to endeavor at an alliance of the nation with 
+him, upon a plan which was set on foot about three months 
+ago by those, who afterwards fell into the plan of an alliance 
+with Britain. You may judge from hence how much dependence is to be placed on these new fangled statesmen. The 
+King and Queen are wounded to the soul by these rash measures. They have, I believe, given all needful assurances to 
+the Emperor and King of Spain. A confidential person has 
+desired me to assure you on their behalf, that they are very 
+far from wishing to change the system of French politics and 
+abandon their old allies, and therefore if any advantage is taken of the present advances to Britain, that you will consider 
+them as originating merely in the madness of the moment ; and 
+not as proceeding from them, or as meeting with their approbation, but the contrary. I shall send this letter in such a way, as 
+promises the greatest safety, and I must entreat you, my dear 
+Sir, to destroy it for fear of accidents ; you will feel how important it is to them, that this communication be not disclosed. It 
+is merely personal from them to you, and expressive of sentiments which can have no action until they have some authority. 
+</p><p>
+It is time to close this too long letter, whose object is to possess you of that interior machinery by which outward movements are directed. Believe always, I pray, in the sincerity of 
+those sentiments with which I am yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,38 @@
+<letter id="jod3654">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='23'>23</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1799' rel="origin">1799</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I WENT last night to the ball, where the company suffered more by the cold, which was excessive, than I ever 
+knew any company suffer in my life. The dancers 
+only were comfortable. I came home and went into 
+a warm bed and had a fine perspiration, occasioned, 
+I believe, by my drinking three glasses of Madeira 
+wine at supper, and. two more after I came home, 
+which has relieved me from all cold and I feel very 
+well this morning. The company, owing to the 
+weather, was not large. 
+</p><p>
+I am very anxious to hear from you, having no letter since the 10th. Your sickness last summer, fall, 
+and winter, has been to me the severest trial I ever 
+endured. Not that I am at this moment without 
+other trials enough for one man. I may adopt the 
+words of a celebrated statesman, whom, however, I 
+should not wish to resemble in many things : " And 
+now, good judge," says he, " let me ask you whether 
+you believe that my situation in the world is perfectly as I could wish it ; whether you imagine that I 
+meet with no shock from my superiors, no perverseness from my equals, no impertinence from my inferiors ? If you fancy me in such a state of bliss 
+you are wide from the mark." 
+</p><p>
+I have planned out so much work for myself that 
+I shall not be able to go eastward till some time after 
+the rising of Congress. But every day will seem 
+long. I am, my dearest friend, 
+</p><p>
+Yours forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

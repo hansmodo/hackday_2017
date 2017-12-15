@@ -1,0 +1,62 @@
+<letter id="joj4115">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='23'>23d</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My letter of this date to Mr. Randolph contains an exact 
+account of the present state of the affairs of my mission 
+here. I shall be disappointed if no good should result. 
+As yet, the minister stands entirely uncommitted. From 
+some light circumstances, I incline to believe that our mercantile injuries will be redressed ; but how or how far, I 
+cannot conjecture. My next conference will doubtless 
+place things in more particular and in clearer points of 
+view. 
+</p><p>
+Dr. Gordon has information, winch he relies upon, that 
+the posts will not be surrendered, and he authorizes me to 
+tell you so in confidence. His information dors not make so 
+strong an impression upon my mind as it docs on his; it 
+merits attention, but, in my opinion, is not conclusive. 
+</p><p>
+The observations I have hitherto made induce me to believe that the war with France is popular, and that a war 
+with us would be unpopular. The word Jacobin is here a 
+term of reproach, and used as such among the common 
+people. They who wish the reform of this government, 
+do, I apprehend, wish a certain degree of success to the 
+present French cause, not because they like it, but because 
+they think such success would promote their favourite objects. I often hear gentlemen converse on these subjects, 
+but I think it prudent to be reserved ; as to their internal 
+parties and divisions, I make it a rule to remain silent. 
+</p><p>
+Your administration is greatly commended. The idea 
+entertained by some, of applying private debts to compensate public injuries, alarms and disgusts, and impairs credit. 
+I am anxious to have it in my power to communicate something decisive. As yet, I am entirely satisfied with the 
+minister. 
+</p><p>
+I ought to add, that Mr. Pinckney's conduct relative to 
+me corresponds with my ideas of delicacy and propriety. 
+</p><p>
+With perfect respect, esteem, and attachment, 
+</p><p>
+I am, dear sir, 
+Your obliged and obedient servant, 
+</p><p>
+John J a v. 
+</p><p>
+P. S. The enclosed copies of a note of the l!>th inst. 
+from <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a>, and my answer, afford indications of 
+his present temper, that will not escape you. It is always 
+useful to communicate such papers, but seldom useful to 
+publish them. Publications, unnecessarily and frequently 
+made, must naturally increase reserve and circumspection 
+to such a degree as, in a great measure, to exclude the advantages of confidence and conversation, and to confine 
+negotiation to the slow and, wary mode of written communications, written too under the impression and expectation 
+of publication, 
+</p><p>
+Your affectionate servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

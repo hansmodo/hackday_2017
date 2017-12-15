@@ -1,0 +1,543 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.dIR6dG on line 294
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--edp
+--DOC-AUTHOR-FIRST--Edmund
+--DOC-AUTHOR-LAST--Randolph
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="edr4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Sir, 
+</p><p>
+Inclosed I return to you the papers which accompanied your favor of the 25th ultimo. It did not 
+reach me until yesterday morning, when I submitted 
+the whole to the Assembly. But the approach of 
+the session to an end, forbids them to take up new 
+business. The day after to-morrow is fixed for their 
+departure, and much of what is now before them 
+must be left incomplete. I am therefore desired, by 
+the Speaker of the Delegates, to send the papers to 
+you, and to assure you that the Assembly are fully 
+sensible of your readiness to embrace every opportunity to improve the manufactures of our country. 
+You know, Sir, that the Executive cannot give an 
+establishment, or even aid, to M. de la Yallee, without the approbation of the Legislature. 
+</p><p>
+Although I was compelled, by duty, to lay before 
+the Council your answer to my notification of your 
+appointment to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I was happy to find 
+them concurring with me in the propriety of entreating you not to decide on a refusal immediately. 
+Perhaps the obstacles now in view may he removed 
+before Mayj and the nomination of a successor, if 
+necessary at all, will be as effectually made some 
+time hence as now. Perhaps, too (and indeed I fear 
+the event), every other consideration may seem of. 
+little weight, wheu compared with the crisis which 
+may then hang over the United States. I hope, 
+therefore, that you will excuse me for holding up 
+your letter for the present, and waiting until time 
+shall disclose the result of the commotions now prevailing. I have the honor to be, Sir, 
+</p><p>
+With the most perfect esteem and respect, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+The delay which has hitherto occurred in transmitting to you the inclosed proceedings, will be ascribed, 
+I hope, to its true causes; one of which will be 
+found in my last letter, and the other, in the daily expectation of Mr. Ross's visit to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, in 
+pursuance of our resolution of the 8th of December, 
+<a href='/results.php?year=1785'>1785</a>. You may possibly be surprised, that a work, 
+which has already expended a considerable sum of 
+money, should be delineated in so few words as the 
+copies now sent contain. But I beg leave to inform 
+you, that we have detailed, in the execution, almost 
+the whole of the resolutions. 
+</p><p>
+For example ; we have procured the ascertainment 
+of a precise point to which the navigation is to be 
+extended. Crow's Ferry being now established as 
+such. We are authorized to borrow money at six 
+per cent., and to extend the number of shares. Inexperienced as we were, we yet conceived that our 
+duty called for an examination of the ground between <a href='/results.php?city=richmond' rel='city'>Richmond</a> and Westham. The difficulties seemed greater than we at first apprehended. As soon 
+as the report is prepared by a more skilful hand 
+than we affect to be, it shall be forwarded to you. 
+</p><p>
+The old books of subscriptions are not complete, as 
+I supposed when I wrote to you last. Seven shares 
+are still unoccupied, of which we shall reserve the 
+five which you wished for yourself It was impossible to engage any other labor than that of blacks; 
+and this necessity has obliged us to bring the laborers into actual service earlier, perhaps, than we 
+should have done in the present state of our imperfect knowledge of canals. But the subscribers would 
+have been dissatisfied, had we not begun in the 
+course of this year ; and negroes, you know. Sir, 
+must be hired in January at farthest. 
+</p><p>
+Concerning our progress in this great business, our 
+plans, and future expectations, we beg you to inquire 
+of James Harris, our Manager, who will deliver this 
+letter. He is a quaker, of good character as a man, 
+and a mechanic, formed by nature for the management of water, when applied to mills. He has added 
+nothing to his natural turn by the view of any great 
+works. We therefore request, if you see no impropriety, that you would give him such a passport to 
+the Potomac works, as will enable him to get a 
+thorough insight into what is there projected. You 
+perceive that Mr. Ross was originally intended to be 
+sent to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> for this purpose ; but he has 
+been, for a length of time, under a severe disease, 
+and is not yet restored. The office of subordinate 
+Manager, mentioned in one of the resolutions, does 
+not exist ; it being swallowed up in that of Mr. Harris. It is not improbable that Mr. Harris may 
+continue his journey to the Susquehanna Canal. If 
+so, we shall thank you to furnish him with a certificate of being employed by the James River Company, in any manner which may appear most likely 
+to introduce him into an acquaintance with those of 
+that scheme who may be most intelligent. 
+</p><p>
+Thus, my dear Su, I have written to you, at the 
+desire of my brethren in office, a tedious account of 
+our operations. Permit me, therefore, to return to 
+the contemplation of private friendship, and to assure 
+you that I am always, 
+</p><p>
+With the greatest respect and esteem, yours, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Sir, 
+</p><p>
+By the inclosed act, you will readily discover that 
+the Assembly are alarmed at the storms which threaten the United States. What our enemies have foretold, seems to be hastening to its accomplishment ; 
+and cannot be frustrated but by an instantaneous, 
+zealous, and steady union among the friends of the 
+Federal Government. To you I need not press our 
+present dangers. The inefficiency of Congress you 
+have often felt in your official character ; the increasing languor of our associated Republics you hourly 
+see ; and a dissolution would be, I know, to you a 
+source of the deepest mortification. 
+</p><p>
+I freely, then, entreat you to accept the unanimous 
+appointment of the General Assembly to the Convention at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. For the gloomy prospect still 
+admits one ray of hope ; that those who began, carried on, and consummated the revolution, can yet 
+rescue America from the impending ruin. 
+</p><p>
+I have the honor. Sir, to be, with the sincerest 
+esteem and respect, yours, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+When I had the honor of writing to you last, the amendments had, I believe, been under consideration in a Committee of the Whole, and ten were adopted, 
+and the two last rejected. Upon the report being made to the House, and without a debate of any consequence, the whole twelve were ratified. They are 
+now with the Senate, who were yesterday employed about them. That body will attempt to postpone them ; for a majority is unfriendly to the Government. 
+But an effort will be made against this destructive measure. 
+</p><p>
+In the House of Delegates, it was yesterday moved to declare the remainder of the amendments, proposed 
+by our Convention, essential to the rights and liberties of the people. An amendment was offered, saying that, in pursuance of the wnll of the people, as 
+expressed by our Convention, the General Assembly 
+ouoht to uro'e Congress to a recomideration of them. 
+The amendment was carried by the Speaker giving a 
+casting vote. This shows the strength of the parties; 
+and that, in the House of Delegates, the anti-federal 
+force has diminished much since the last year. A 
+representation is to be prepared, and the inclosed 
+speaks the temper which we wish to exhibit in it. 
+Whether we shall succeed in our attempt to carry 
+such a remonstrance through, is with me very doubtful. It will be pushed, because it seems to discountenance any future importunities for amendments, 
+which, in my opinion, is now a very important point. 
+I should have been sanguine in my belief of carrying the representation through, in its present form, 
+if the friends would have joined the enemies of the 
+Constitution, in suspending the ratification of the 
+eleventh amendment, which is exceptionable to me, 
+in giving a handle to say, that Congress have endeavoured to administer an opiate, by an alteration, 
+which is merely plausible. 
+</p><p>
+The twelfth amendment does not appear to me to 
+have any real effect, unless it be to excite a dispute 
+between the United States and every particular State, 
+as to what is delegated. It accords pretty nearly 
+with what our Convention proposed; but, being once 
+adopted, it may produce new matter for the cavils 
+of the designing. I am, dear Sir, your 
+</p><p>
+Obliged and affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p><p>
+P. S. I shall do myself the honor of replying to 
+your official letter, as soon as the Assembly rises. 
+</p>
+</letter><letter id="edr4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+By the papers, which I have now the honor of returning to you, a "wish seems to be expressed that the President should recommend to Congress a digest 
+of federal law, the appointment of one person only to such a service, and the selection of the author of those papers for that work. 
+</p><p>
+Whether, at a future day, when Congress shall appear to have neglected or slumbered over the subject, it may be expedient to rekindle their attention 
+by a special recommendation, I pretend not to foresee. But, at present, it may be affirmed, that the House of Representatives possess, in the four last 
+paragraphs of the notes to the Report on the Judicial System, an unequivocal suggestion of this very point. I therefore take the liberty of referring you to them. 
+</p><p>
+The suggestion, indeed, having come from a quarter which affects no title to the deference of that body, would undoubtedly be enforced by the solicitude of the Executive. But I have greatly erred, if 
+I do not discover one characteristic of its conduct to be, not to throw any weight of personal or official character into measures, when no crisis demands it. 
+If, then, the judicial system shall ever be revised, a federal code will stand prominent to view. If the judicial system shall not be revised, the federal code 
+itself, as speaking more feebly to the particular interests and feelings of the House, can hardly expect 
+to be more kindly treated. In the midst of the agitations, which have been or will be produced by deliberations on the war, the excise, the fisheries, the 
+manufactures, the trade with Great Britain, the regulations of a mint, the militia, and many other topics of an animating cast, it will probably be asked, what 
+peculiar and immediate urgency has the President remarked for inviting Congress to this abstract inquiry? 
+Is there any danger of the two branches of the Legislature forgetting it, if it be important ? Especially 
+as it is their direct duty to originate proposals for establishing or amending any system of laws. 
+</p><p>
+If, with a recommendation to this effect, another 
+should be united, that a single person should execute 
+the work, some uncommon sensations of surprise may 
+be created. To qualify that single person, he ought 
+to be accurately versed in the legislation and jurisprudence of every State. Nay, I am not certain that 
+he ought not to know the very prejudices of each 
+State. For it will not be enough to draw a line of 
+partition between the Federal and State Governments, 
+without having some regard to the temper of the 
+latter. The necessary information can be contributed 
+only by a number of able men, differently situated in 
+the United States. These men can be found, and 
+perhaps their reluctance may be overcome, and they 
+may be induced to divide the Herculean task among 
+them. But, even with a division of the responsibility, 
+they ought to be diffident. 
+</p><p>
+Should it, however, be thought advisable, that the 
+project should be now favored by a special communication from the President, and that a single person 
+should be preferred, I certainly shall add nothing 
+concerning any gentleman who may be so happy as 
+to enjoy the highly-valuable endowments requisite for 
+the fulfilment of the trust. But may it not be seriously apprehended, that the employment of a Judge 
+in such a business, will excite a jealousy among those 
+of his associates, who will not acknowledge their inferiority? Will it not warp him in all his decisions 
+to those interpretations which he may have given of 
+the Constitution? May he not rather lean in his 
+judgments more to what he recollects to have been 
+his intention in drawing a law, than obey the settled 
+rules of construction? And who can say, let him be 
+a Judge or Tvliat he will, that the glossary or comment, which he alone shall furnish, may not, insensibly, and contrary to his own honest mind, be tinctured with party views? 
+</p><p>
+Upon the whole, although I believe that the digest, 
+will sooner or later be attempted, yet am I sure that 
+the Legislature will not cordially patronize it, until 
+its necessity shall be more obvious. I intended to 
+have waited on you personally with this letter j but 
+having been detained in Court during the whole 
+week, I was unable to do so. 
+</p><p>
+I have the honor to be. Sir, with a sincere, and 
+affectionate attachment and respect, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have revolved, with great attention, the matter 
+of the letter which you yesterday did me the honor 
+of confiding to my perusal. Convulsed as we are, I 
+cannot but believe that there is scarcely a man in 
+the Government, whom party will not, sooner or later, 
+destine for an attack. A communication, therefore 
+which seems even to be tinctured with particular objects, will naturally excite caution. I hope, however, 
+that I shall not be understood to insinuate the most 
+distant suspicion of that affectionate attachment which 
+is professed ; for I am truly persuaded of it. I mean 
+no more than that kind of caution which would prevent you from heartily acceding to, or rejecting, propositions so delicate in themselves. 
+</p><p>
+What is due to the French nation up to the close 
+of <a href='/results.php?year=1792'>1792</a>, ought, if practicable, to be paid to the existing authorities of France. This can never be questioned as to its validity or propriety, let the shape 
+of their Government be what it will ; nor can it give 
+just umbrage to any member of the hostile Confederacy. But, as this sum is probably far below the wishes of the French Minister, it will be asked 
+whether the large advance of three million tournois can be made ; and, if it can, ought it to be made ? 
+</p><p>
+You informed me, Sir, that the ability of the treasury to accomplish this, depended upon the success 
+of a bill now on its passage through the Legislature. 
+Of course the United States are not yet in a capacity of advancing, unless the other advice be followed, 
+of scrutinizing the Treasury Department, and thence 
+discovering funds ; or of instituting a new loan. The 
+former is in a train of being executed, and could not 
+now be quickened. Should the Executive at this moment originate a similar investigation, it might look 
+like something more than a neutrality between the 
+parties. Possibly, at a future day, when the result of 
+the Congressional inquiry shall be known, if it should 
+not be satisfactory to you, you may deem it expedient to impart the nature of the information referred 
+to in the letter to the Secretary of the Treasury. In 
+the mean time, While Congress are still in motion on 
+the subject of finance, I presume that the proposed 
+alternative of a loan must be suspended. 
+</p><p>
+Let me next suppose, that money adequate to the 
+advance was now in hand. Even the situation of 
+France, with respect to other powers, is serious and 
+important. A voluntary payment of what is not yet 
+due, carries with it causes of jealousy. On the opposite side, threatened famine will, if not attempted 
+to be averted, rouse the zealous partisans of French 
+politics in America. Perhaps, too, it may deserve 
+consideration, how far the opportunity of forming a 
+close connection with the French republic may be 
+lost or weakened by refusing to gratify it, and how 
+far it may spread a favorable impression of the Federal Administration throughout the United States. 
+Again ; should the advance be approved, the allied 
+nations can well be told, if they remonstrate, that the 
+danger of a famine was a leading motive. Should it 
+be disapproved, the French will be conscious that they 
+have no right to demand it, and that money cannot 
+be furnished in republics at will, or in the same profusion as in monarchies. Upon the whole, I should be 
+inclined to the advance, if it was easily within our 
+reach. But I see no reason, nor a state of things 
+sufficiently ripe, for deciding the question at this moment. 
+</p><p>
+I take the liberty, therefore, of suggesting, whether Mr. Ternaut may not be informed that the balance, 
+up to the end of <a href='/results.php?year=1792'>1792</a>, shall be paid, and that a definitive' answer, as to the residue of the requisition, 
+will be given as soon as the fiscal arrangements of Congress shall be finished. Then, and not till then, will you be possessed of the facts, necessary in such 
+a case ; then, and not till then, will you be able to avoid the appearance of sheltering one officer, or of countenancing his adversary. Mr. Ternant cannot but 
+acquiesce in the fitness of the measure ; and it will be seen, by the gentleman who wrote the letter, that while you will not precipitate yourself into the steps 
+recommended, you have marked out, in your own mind, a day, reasonably distant, for again calling the subject into view. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4306">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I do myself the honor of presenting to you some of those views, which the very delicate affair of the 
+removal affords, and the result of a provisional inquiry which I set on foot. 
+</p><p>
+1. The charges have come in an ambiguous form, 
+half private, half public \ and it must be uncertain, 
+until the arrival of the new Minister from France, to 
+what extent those charges are to be pressed. To 
+seize so imperfect an opportunity for dismission, might 
+argue an eagerness to get rid of the officer ; and, 
+before such a stroke is given to the reputation of 
+any man, ought he not to be heard ? 
+</p><p>
+2. I understand, however, that a middle ground 
+has been recommended ; by exchanging the gentleman in question for another diplomatic resident. At 
+first sight, this expedient has the advantage of being 
+conciliatory, although, even in this particular, it may 
+possibly fail. But what will be the reason given out 
+to the world for such an alteration ? I here take it 
+for granted, that if, on any such occasion, the Cabinet 
+can conceal the genuine motive, on this it will be 
+notorious. It will be known in France, and throughout the United States, that the disgust of the French 
+Ministry at the hostility of our officer's politics was 
+the leading cause of the decisive step. The people 
+of the United States will immediately say, that he 
+is not only protected in his misconduct, but that a 
+partiality is discovered for his ideas on government, 
+against which they are eminently inveterate, from 
+their real sympathy with the revolution of France. 
+Again; it will be difficult to satisfy the people of 
+France, that it was consistent with an affectionate 
+regard for their welfare, to send a Minister thus prejudiced against them, whom they assert to be "dangerous from his talents," to the Court of London, 
+which has now probably become an avowed enemy 
+to them. 
+</p><p>
+3. I doubt, therefore, exceedingly, whether any determination ought yet to be made ; especially as, during the recess of the Senate, you may remove, if you 
+think proper. But I can scarcely doubt on the impropriety of the substitute proposed, considered relatively to the present time, although after circumstances may perhaps require these sentiments to be 
+revised. 
+</p><p>
+4. Supposing the ultimate possibility of a dismission, I have labored, provisionally, to bring about the 
+other arrangement. But I find this to be impracticable ; the one gentleman being immovable in the 
+resolution which he expressed to you the other day, 
+and the other gentleman being very explicit, that it 
+is absolutely inadmissible, in his mind, to enter into 
+the Administration under either of the aspects contemplated, or, indeed, under any other. 
+</p><p>
+I have the honor, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4307">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+I do myself the honor of inclosing to you a certificate from Judge Wilson, of my having qualified as 
+Secretary of State. A duplicate is deposited among 
+the files of the office. 
+</p><p>
+I must entreat you. Sir, to receive my very affectionate acknowledgments for the various instances of 
+your confidence, and to be assured that, let the consequence be what it may, in this office no consideration of party shall ever influence me. Nothing shall 
+relax my attention or warp my probity; and it shall 
+be my unremitted study to become an accurate master of this new and important business. At the commencement of my duties, I have thought it advisable to write to the Secretaries of the Treasury and 
+of War, and to the President of the Bank of the 
+United States, the letters of which the inclosed are 
+copies. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have examined all <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a>'s ministerial correspondence ; and, after the impression which I had received from others, whom I supposed to be conversant 
+with it, I am really astonished to find so little of what is exceptionable, and so much of what the most 
+violent would call patriotic. The parts to be withheld, will probably be of these denominations ; — 1, what the conduct of the rulers in France, which, if returned to that country, might expose him to danger ; 3, 
+the authors of some interesting information, who, if known, would be infallibly denounced. He speaks 
+indeed of his Court, a phrase which he might as well have let alone. I shall do myself the honor of waiting on you in the morning ; and I write now, only to 
+give you an outline of the true state of the business. I have the honor. Sir, to be, with the highest respect.
+</p><p> 
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4309">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+I conclude, from what you observed yesterday, that, 
+in the nomination of an Envoy Extraordinary to London, you prefer some statement more special than is 
+customary in nominations. I beg leave, therefore, to 
+present to you a short review of the subject, that 
+you may determine whether the occurrences in the 
+Legislature are ripe for such a statement. 
+</p><p>
+I believe that I was among the first, if not the 
+first, who suggested this mission to your consideration, and I am still its advocate. I was induced to 
+think favorably of the measure, — 1. Because the representations made by our Minister in Ordinary, seemed to rest on the British files among the business, 
+which, if ever entered upon, would be entered upon 
+at extreme leisure. 2. Because the recent accumulation of injuries called for pointed notice. 3. Because the merchants and insurers would suspect an 
+inattention in Government, if their interests were left 
+to the routine and delays of common affairs, and 
+would, on the other hand, be highly gratified by the 
+movement. 4. Because the British nation, without 
+whose affections the British Minister can do nothing 
+of importance in war, ought to be retained, by the 
+strongest demonstrations, in the persuasion that we 
+mean peaceable negotiation, rather than war. And 
+5. Because a distinguished character, sent fresh from 
+the feelings of the United States, would with more 
+confidence assert, and with more certainty impress. 
+</p><p>
+I confess that two remarks, which came from yourself, had for some time employed my thoughts. 
+These related to the sensations which might be excited in <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a>, and to those which may be 
+excited in the people of our country. To wound unnecessarily a valuable and meritorious officer, as <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a> is, may be affirmed to be a public mischief But this will not be the case, I hope. He 
+will admit, that on great occasions, such missions are 
+often instituted; that they are never interpreted by 
+the diplomatic world as a disparagement of the Minister Resident ; and that a step of so much eclat will 
+rouse the British Court from their profound slumber 
+over our various applications. He may, moreover, receive such declarations of continuing confidence, as to 
+calm little possible inquietudes. 
+</p><p>
+The same kind of considerations will satisfy the 
+animadversions of our citizens. For if a man, the 
+most conspicuous for talents and character, were now 
+the stationary representative of the United States at 
+London, the efficacy of a solemn and special mission 
+may still, upon the foregoing principles, be easily 
+conceived. And yet, the difference between one grade 
+and another is not so powerful as of itself to secure 
+a difference of reception to our demands. The Envoy 
+will be impotent, if he is to carry with him only the 
+language of rhetoric or of menaces, without the power of revenge. To fulfil the purpose of his creation, he 
+must show that the United States can and will vindicate their rights. But measures of this kind depend on Congress alone, and from them we have the 
+embargo alone. They are employed in discussions 
+leading to these objects. To nominate an Envoy immediately, or until you see the nature and extent of 
+the preparations, may perhaps be to nominate a useless officer; and if, by such a nomination, it is proposed to give a direction to the views and deliberations of Congress, may it not be better to send a 
+message to them, urging them to adopt the preparatory steps, than to run the risk of appointing a gentleman, who, if our state of imbecility is to remain, 
+cannot, except from personal qualities, have more influence than <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a>? It would be unusual, 
+too, to expect, by an act done to the Senate in its 
+Executive capacity, that its influence should extend 
+to the other House in its Legislative. 
+</p><p>
+I believe, indeed, that to postpone the nomination, 
+will be attended with two advantages. The one is, 
+that after Congress shall have given nerve to our 
+affairs, the propriety of the mission will no longer be 
+questionable ; nor will it require those arguments, 
+which, in the present state of things, will not be sufficiently apparent. The other is, that the person nominated will then be able to decide, whether he 
+would choose to be the missionary, after certain acts 
+of Congress. For example, it might accord with the 
+opinions of some gentlemen to go, with an act of 
+sequestration in their hands. 
+</p><p>
+Notwithstanding the suspension of the nomination, 
+you may perhaps approve of mentioning, in the mean 
+time, your intention eventually to the person whom 
+you contemplate. I must request your instruction, 
+whether I am to prepare the message to the Senate 
+immediately. 
+</p><p>
+I have the honor, Sir, to he, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter><letter id="edr4310">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 11 o'clock, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+SiR; 
+</p><p>
+I was honored by your private letter of the 6th instant, about half an hour ago ; and immediately delivered to Mrs. Washington the one addressed to her. 
+</p><p>
+Mr. Butler and Mr. Brown, of the Senate, called to learn the intelligence from Europe. I considered their title to read the despatches as being no better 
+than that of other men; and I told them, verbally, only what I have told others. With the former gentleman some discussion arose how far the Senate 
+might call for the papers relative to the negotiation ; but he did not, however, apply the remark to himself as an individual. I cut the matter short, by 
+observing that he knew my opinion to be that the President was bound, in duty, and possessed the right, to withhold whatsoever he thought improper to be 
+communicated. I could not help asking, at the same time, whether the example of Mr. Edwards, which I mentioned to you in a late letter, did not prove 
+that Senators could disclose secrets as well as other folks. 
+</p><p>
+There is nothing so little talked of as the yellow fever. I believe that I am almost the only inquirer after it; and those to whom I address myself, seem 
+to take time to recollect themselves, as if the subject was a perfect stranger to their memory. <a href='/results.php?tla=hek' rel='met co-worker colleague'>General Knox</a> is with me ; and we shall have ready, for the 
+express of Monday, the analysis of an address to Congress. Mrs. Washington and family were well this morning. 
+</p><p>
+I have the honor to he, Sir, with the highest respect and affectionate attachment, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

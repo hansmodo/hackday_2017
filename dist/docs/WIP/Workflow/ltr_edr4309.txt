@@ -1,0 +1,85 @@
+<letter id="edr4309">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+I conclude, from what you observed yesterday, that, 
+in the nomination of an Envoy Extraordinary to London, you prefer some statement more special than is 
+customary in nominations. I beg leave, therefore, to 
+present to you a short review of the subject, that 
+you may determine whether the occurrences in the 
+Legislature are ripe for such a statement. 
+</p><p>
+I believe that I was among the first, if not the 
+first, who suggested this mission to your consideration, and I am still its advocate. I was induced to 
+think favorably of the measure, — 1. Because the representations made by our Minister in Ordinary, seemed to rest on the British files among the business, 
+which, if ever entered upon, would be entered upon 
+at extreme leisure. 2. Because the recent accumulation of injuries called for pointed notice. 3. Because the merchants and insurers would suspect an 
+inattention in Government, if their interests were left 
+to the routine and delays of common affairs, and 
+would, on the other hand, be highly gratified by the 
+movement. 4. Because the British nation, without 
+whose affections the British Minister can do nothing 
+of importance in war, ought to be retained, by the 
+strongest demonstrations, in the persuasion that we 
+mean peaceable negotiation, rather than war. And 
+5. Because a distinguished character, sent fresh from 
+the feelings of the United States, would with more 
+confidence assert, and with more certainty impress. 
+</p><p>
+I confess that two remarks, which came from yourself, had for some time employed my thoughts. 
+These related to the sensations which might be excited in <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a>, and to those which may be 
+excited in the people of our country. To wound unnecessarily a valuable and meritorious officer, as <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a> is, may be affirmed to be a public mischief But this will not be the case, I hope. He 
+will admit, that on great occasions, such missions are 
+often instituted; that they are never interpreted by 
+the diplomatic world as a disparagement of the Minister Resident ; and that a step of so much eclat will 
+rouse the British Court from their profound slumber 
+over our various applications. He may, moreover, receive such declarations of continuing confidence, as to 
+calm little possible inquietudes. 
+</p><p>
+The same kind of considerations will satisfy the 
+animadversions of our citizens. For if a man, the 
+most conspicuous for talents and character, were now 
+the stationary representative of the United States at 
+London, the efficacy of a solemn and special mission 
+may still, upon the foregoing principles, be easily 
+conceived. And yet, the difference between one grade 
+and another is not so powerful as of itself to secure 
+a difference of reception to our demands. The Envoy 
+will be impotent, if he is to carry with him only the 
+language of rhetoric or of menaces, without the power of revenge. To fulfil the purpose of his creation, he 
+must show that the United States can and will vindicate their rights. But measures of this kind depend on Congress alone, and from them we have the 
+embargo alone. They are employed in discussions 
+leading to these objects. To nominate an Envoy immediately, or until you see the nature and extent of 
+the preparations, may perhaps be to nominate a useless officer; and if, by such a nomination, it is proposed to give a direction to the views and deliberations of Congress, may it not be better to send a 
+message to them, urging them to adopt the preparatory steps, than to run the risk of appointing a gentleman, who, if our state of imbecility is to remain, 
+cannot, except from personal qualities, have more influence than <a href='/results.php?tla=ccp' rel=''>Mr. Pinckney</a>? It would be unusual, 
+too, to expect, by an act done to the Senate in its 
+Executive capacity, that its influence should extend 
+to the other House in its Legislative. 
+</p><p>
+I believe, indeed, that to postpone the nomination, 
+will be attended with two advantages. The one is, 
+that after Congress shall have given nerve to our 
+affairs, the propriety of the mission will no longer be 
+questionable ; nor will it require those arguments, 
+which, in the present state of things, will not be sufficiently apparent. The other is, that the person nominated will then be able to decide, whether he 
+would choose to be the missionary, after certain acts 
+of Congress. For example, it might accord with the 
+opinions of some gentlemen to go, with an act of 
+sequestration in their hands. 
+</p><p>
+Notwithstanding the suspension of the nomination, 
+you may perhaps approve of mentioning, in the mean 
+time, your intention eventually to the person whom 
+you contemplate. I must request your instruction, 
+whether I am to prepare the message to the Senate 
+immediately. 
+</p><p>
+I have the honor, Sir, to he, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

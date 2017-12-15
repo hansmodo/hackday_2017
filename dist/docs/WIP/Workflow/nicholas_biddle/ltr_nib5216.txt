@@ -1,0 +1,17 @@
+<letter id="nib5216">
+<recipient first="John" last="Boyd" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="11">Nov</a> 	<a rel='day origin' value='23'>23d</a> <a href='/results.php?year=1826' rel="origin">1826</a> 
+</p><p>
+My Dear Sir, 
+</p><p>
+I have had the pleasure of receiving your letter of 
+the 18th inst which revived a great many agreeable recollections. In regard to the establishment of a Branch at Port 
+land nothing is as yet decided but should it take place the policy of the Bank has been in the appointment of confidential Officers to live at a distance and to execute such 
+important trusts to take in preference Officers brought up in the Bank under our own eye whose character &amp; conduct 
+are known to us and afford the best guarantee of their capacity to carry into effect the system of the Bank with which 
+they are familiar. I have long been satisfied that this is the true policy of the Bank and I think it will be pursued in case 
+a Branch is established at Portland. The observation applies of course only to the Cashier. The other Officers are appointed 
+by the Directors of the Branch. This is all that I can say at present and although it would be more agreeable to me personally to offer to your nephew more favorable prospects yet this candid explanation is due to you. 
+</p>
+</letter>

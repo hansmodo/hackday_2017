@@ -1,0 +1,106 @@
+<letter id="joj4045">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Some of my letters to you have, I find, miscarried by the 
+capture of the vessels that were carrying them : and there 
+is reason to suspect that two others were stopped here, as 
+the letters enclosing them did not reach the persons at the 
+seaports to whom they were directed. 
+</p><p>
+I have heretofore mentioned the receipt of the picture 
+you was so kind as to send me, by Mr. Ridley, and the 
+arrival of your sons. I don't know the fate of that letter, 
+and that uncertainty induces me to repeat my thanks for 
+the one, and my congratulations on the other. The estimation in which I hold your friendship, and the marks I have 
+received of it, interest me in every thing which concerns 
+you and yours, and be assured that no opportunity of giving 
+higher proofs of it shall be omitted. 
+</p><p>
+Mrs. Jay's time is much employed in nursing and amusing herself with her little girl. She is writing to Mrs. 
+Morris. We are cheerful, and not unhappy, though distant 
+from our friends, and deprived of the pleasures which result from that free and unreserved conversation which can 
+only be indulged in the company of safe companions, or in 
+a country like ours. 
+</p><p>
+We remove next week to Aranjuez, where I expect again 
+to spend some agreeable weeks. It is a charming place, 
+containing a tract of several miles in circumference, and 
+divided into gardens, meadows, parks, cultivated grounds, 
+and wilds, full of fine trees, fine roads, and fine walks, and 
+watered by a slow winding river, which, if more clear, would 
+be very beautiful. But still, my friend, it is not America. 
+A genius of a different character from that which presides 
+at your hills and gardens reigns over these. Soldiers, with 
+fixed bayonets, present themselves at various stations in 
+these peaceful retreats; and though none but inoffensive citizens are near, yet horsemen with drawn swords, guarding one or other of the royal family in their little excursions 
+to take the air daily, renew and impress ideas of subjection. 
+Power unlimited, and distrust misplaced, thus exacting 
+homage and imposing awe, occasion uneasy reflections, and 
+alloy the pleasing sensations which nature, smiling in such 
+delightful scenes, never fails to excite. Were I a Spaniard, 
+these decorated seats would appear to me like the temporary enchantments of some despotic magician, who, by reextending his wand, could at pleasure command them to 
+vanish, and be succeeded by galleys and prisons. 
+</p><p>
+Nothing is more true, than that all things figure by comparison. This elegant seat being surrounded by exclusive 
+wastes, appears like a blessed and fortunate island in a 
+dreary ocean. The contrast heightens its charms, and 
+every traveller arrives with a mind predisposed to admire 
+and enjoy them ; but as the first impression wears away, 
+and he begins to recollect the more happy, though less 
+magnificent abodes in his own country, the attractions and 
+allurements of this insensibly diminish. I have more than 
+once experienced this, and though not difficult to please or 
+be contented, vet I confess that I find little here that resembles, and nothing that can compensate for the free air, the 
+free conversation, the equal liberty, and the other numerous 
+blessings which God and nature, and laws of our making, 
+have given and secured to our happier country. I would 
+not be understood to insinuate, that good society and agreeable companions are wanting here. They may, perhaps, 
+abound more in some other parts of the world, but they are 
+also to be found here, though an unsocial kind of policy 
+requires unceasing attention to the most austere rules of 
+caution and prudence. The little that I have seen and 
+observed of this people, induces me to think that (except 
+the generality of those who compose the highest and lowest 
+orders), they possess many qualities which are praiseworthy ; and that two or three long and wise reigns would 
+make them a very powerful, and an amiable nation. But 
+as I have not had sufficient opportunities of mixing with, 
+and personally knowing many of them, time and further 
+information may either confirm or alter this opinion. The 
+evident suspense and indecision of the court respecting us, 
+has kept many at a distance, with whom I should otherwise 
+have been on a very familiar footing, and some of them 
+have been so candid as to tell me so. This is a kind of 
+prudence winch naturally grows out of a jealous and absolute government, under which the people have, for many 
+generations, been habituated to that kind of dependence, 
+which constrains every class to watch and respect the 
+opinions and inclinations of their superiors in power. The 
+prosperous tide of our affairs, however, has for some time 
+past run so strong, that I think many of our obstacles here 
+must soon give way. Shyness will then cease, and I shall 
+not afterward find it difficult to be received into more of 
+their houses, and that in the only manner I ever wish to be 
+received into any — I mean, at the front door, by direct invitation from the masters of them, and without the precursory 
+good offices of upper servants and unimportant favourites, 
+whom I never can submit to court. Until this period arrives, I shall continue to cultivate the few acquaintances I 
+have, and without giving offence to any, endeavour to 
+increase their number, whenever it may be done with propriety and to advantage ; but I shall, as heretofore, avoid 
+embarrassing and intruding upon those who, in the mean 
+time, may think it necessary to be reserved. Self-respect 
+joins with prudence in pointing out this line of conduct; and 
+as I have no enemies of my own making, I am persuaded 
+that instead of losing, I shall eventually be a gainer, by adheriag to it, especially as those who may have been led to 
+ascribe this conduct to improper motives, will then immediately find themselves undeceived. 
+Be pleased to present our compliments and best wishes 
+to Mrs. Morris, and our friends with you. 
+</p><p>
+I am, dear sir, with sincere regard, 
+</p><p>
+Your affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

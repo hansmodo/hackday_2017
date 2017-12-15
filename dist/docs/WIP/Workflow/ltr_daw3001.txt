@@ -1,0 +1,59 @@
+<letter id="daw3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>Montreal</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I herewith inclose a letter just received from <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a>, and take this opportunity most heartily to condole with you for the loss of the brave and 
+most amiable <a href='/results.php?tla=rim' rel='colleague'>General Montgomery</a>, and the other brave officers and soldiers who fell with him, and for 
+the failure of success in the unfortunate attack upon Quebec, the particulars of which you will doubtless have received before this reaches you. 
+</p><p>
+I should have gone down, immediately upon hearing  of the defeat, to the camp before Quebec, but 
+the necessity of securing this place and the country 
+round in our interest, induced all the officers, and our 
+friends here, to request me not to leave this place 
+till we should have a reenforcement from the Colonies. When they arrive, I expect to proceed on 
+with them. We have many enemies in this province, particularly among the clergy, who are using 
+every artifice to excite the Canadians to take up 
+arms against us ; but I hope to be able to prevent 
+any thing of the kind. I have called in many of 
+the commissions given by Governor Carleton, and 
+have given out new ones under the Congress, and 
+expect soon to have them spread through the country, which I expect, .and indeed I perceive already, 
+that it answers very salutary purposes. After receiving new commissions, they look upon themselves 
+as bound, and, unless we succeed, they will all be 
+treated as traitors. I allow each parish to choose 
+their own captains, a circumstance which pleases 
+them much, and there have been but few instances 
+that they have not chosen a zealous friend to our 
+cause. The taking of Quebec must be a matter of 
+the greatest consequence to the Colonies, but at 
+present we are very ill provided for it. The place 
+is strong. I believe they are determined to defend 
+it to the last extremity. We have but about four 
+tons of powder in the Province. We have, I believe, 
+a sufficiency of small cannon, none larger than 
+twelve-pounders, except two brass twenty-fours, which are at St. John s. We have expectations of having shot and shells cast at Three Rivers. 
+</p><p>
+In my opinion it will not only be necessary to 
+forward men and powder from the Colonies, but 
+also a number of heavy cannon, such as thirty-two 
+pounders and one thirteen-inch mortar, if no more, 
+and some small ones, if to be had. I understand 
+that the large mortar from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, with a number of pieces of cannon, are gone to your camp. It 
+is of the greatest importance that whatever is sent 
+from the Colonies should be here by the middle of 
+March at furthest, for, after that time, the gentle 
+men here inform me, it will be impossible to transport any thing from this place to Quebec, on account of the river being filled with ice, and the 
+water, of consequence, overflows the flat country. 
+Therefore, if any of our wants can be supplied from 
+your camp, I could wish that whatever is sent may 
+be forwarded as expeditiously as possible. I am, Sir, 
+with the greatest esteem and respect, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">DAVID WOOSTER</a>. 
+</p>
+</letter>

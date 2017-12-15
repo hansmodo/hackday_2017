@@ -1,0 +1,84 @@
+<letter id="sid5061">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+In my letter of Monday last, I mentioned my intention to leave town in the course of the week. I am now waiting for no other purpose, but to know if Congress will take 
+notice of the requests I have so often troubled them with. The circumstances under which I left France, in obedience to their orders, and with a view of promoting their service 
+in the greatest and most essential manner (it is well known) rendered it impossible (o have the accounts of the commissioners and my own, connected immediately with theirs, 
+settled and closed, so that the vouchers could be procured and brought out with me. But a few days past between 
+the knowledge of my recall, and of my actual setting out on my return. 
+</p><p>
+One condition of sending out the Toulon fleet, and of my embarking in it was, that the most profound secrecy 
+should be observed, and the greatest despatch made. The king's ministers did not think fit to communicate this secret 
+to my colleague, Mr Lee, nor did they leave me at liberty 
+to do it ; I had as little grounds for confidence in that gentleman, as the ministers had, and it is evident from their 
+letters and declarations that they never had any. Yet such is my peculiar situation, that I find myself blamed and 
+censured by many in Congress as well as out, for not having performed an impossibility, and am represented as 
+a defaulter, and as having misapplied or embezzled the public monies, at once to prevent my future usefulness to my country, and to the ruin of my private fortune and 
+character. Thus situated, I can but appeal once more to the justice of Congress, and remind them that I brought with me and delivered them, it is now more than seven 
+months since, an account from under the banker's hands, of all the monies received and paid out by him, and to whom paid; that in my letter of the 12th of October, I 
+explained to Congress for what purposes those payments were made, and in my answers to Mr Lee's objections to these contracts, that I proved him to have been acquainted 
+with them, and that he signed himself the orders for the money, for the greater part of them. I am informed, by several honorable gentlemen in Congress, that many of the 
+members, from their absence at the time, or from their taking their seats since the delivering in of that account and my letter of the 12th of October, are to this moment 
+uninformed of either. This obliges me to refer to them at this time, and though I have not the vouchers to support 
+every article, yet I will cheerfully put my reputation as a merchant, as an honest man, and as a frugal servant of the 
+public, on the examination of those accounts, the circumstances under which they were taken, at the same time to be considered. 
+</p><p>
+That account commences in February, <a href='/results.php?year=1777'>1777</a>, and ends the 27th day of March, <a href='/results.php?year=1778'>1778</a>, three days before my leaving 
+Paris. It will show, that the whole amount of the monies received by the commissioners, was 3,753,250 livres, and 
+their expenditures 4,046,988 livres, 7 sols, and by the general state of the account delivered the 12th of October, it appears for what those expenditures were made. After 
+deducting the sums paid for large contracts for supplies, &c. which are particularised, there will be left 219,250 
+livres, I sol, 11 deniers, equal to £<a href='/results.php?year=9044'>9044</a>. 8. 7 1-2 sterling, for the commissioners' expenses, for almost fifteen months, 
+and for small purchases, and for a variety of services not possible to be particularised, without the accounts at large. I might with safety rest this whole sum on the score of the 
+commissioners' expenses for this space of time, and support it on Mr Lee's letter to Congress, in which he says, that Mr Adams and himself were fully convinced, that they could 
+not live at Paris under £<a href='/results.php?year=3000'>3000</a> sterling, (or about 70,000 livres) each annually. Had the commissioners expended 
+at that rate, from February, <a href='/results.php?year=1777'>1777</a>, to March, <a href='/results.php?year=1778'>1778</a>, the 
+whole of the sum would be no more than a sufficiency to supply their expenses ; but this was not the case. The commissioners, in the whole, received out of it the sum of I 1 5,480 
+livres, 5 sols, 6 deniers, for their expenses and private disbursements, as will appear by the account enclosed ; of 
+this, <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a> received 27,841 livres, Mr Lee 52,039 livres, 5 sols, 9 deniers, and myself 35,600 livres. It is 
+true, at the same time, that Mr Lee had in his hands the whole of the money received from Spain, which he disposed of without the interference of the other commissioners. 
+</p><p>
+I appeal to the honorable gentlemen in Congress, then present, and perfectly well acquainted with our mode and 
+style of living, to inform Congress on which of the commissioners the greatest expense of providing for and entertaining the Americans, who visited them at Paris, or who escaped 
+from prison in England, and applied for relief, fell. I lay this general state before Congress, to convince them how very far I was from being prodigal of the public monies, 
+and that the accounts delivered, general as they are, are sufficient to exculpate me from every charge of peculation or extravagance. My future reputation and fortune depend 
+much on my mercantile character in these transactions, and I rely on the justice of Congress to prevent its being any longer undeservedly sported with, vilified and abused. 
+</p><p>
+Under the load of calumny and abuse I have for some 
+months sustained, I have had this consolation, that the services I had rendered my country had been long since sensibly felt by her, and that they would one day be acknowledged, but when returning to the character of a private citizen in the mercantile line, I cannot sit down easy under 
+imputations injurious to my private character. 
+</p><p>
+I have long since requested to have these accounts examined into, on the spot, where only a full and minute 
+investigation can be made, and that they should be settled as justice required. I now repeat my request, and that 
+previous thereto, the accounts laid before Congress be examined, from which alone it will appear, if there be any 
+ground even for suspicion, and that I may be permitted to 
+obviate, if in my power here, any objections that may be 
+made. The mode in which the monies were received, for 
+the commissioners' use at Paris, the source from whence 
+they came, with other circumstances relative, are such that 
+I have not thought it consistent with the interest, the policy, 
+or even the delicacy of Congress, or others, to lay the case 
+at large before my countrymen, though I found myself 
+injured in their opinion, by the abuse constantly thrown out 
+against me in the papers, and from my silence on the subject. I have ever been, and still remain confident, that a 
+general examination of the accounts, even in the state they 
+are, must prove satisfactory to Congress, and that a minute 
+investigation will show me to have merited their approbation, and not their censure. My first duty is, to satisfy 
+Congress, in whose determinations the public will undoubtedly acquiesce, and to them therefore I have constantly 
+made my application on this subject. 
+</p><p>
+I will make no apology for troubling them so long at this 
+time, my situation is, I trust, a sufficient one. I have only 
+to add, that having delayed to leave the town beyond the 
+time I proposed in my last, I hope for an early answer, 
+and have the honor to be, with the utmost respect and 
+attachment, &.c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

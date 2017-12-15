@@ -1,0 +1,36 @@
+<letter id="smd7889">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="9">September</a> <a rel='day origin' value='26'>26th</a>, Friday. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+My mark finds me at <a href='/results.php?city=linwood' rel='city'>Linwood</a>, though I had not the slightest idea that it would. Wonder where 
+twenty pages beyond will find me? At home, I hope and pray, though I am as happy here as I could possibly be in any place on earth. 
+</p><p>
+Stirring news from our armies comes pouring in. Sunday, Colonel Breaux told me of <a href='/results.php?tla=jew' rel=''>Wool's</a> defeat, 
+and the great number of prisoners, cannon, and the large supplies of stores and ammunition that we had captured. Then Tuesday we heard of three great 
+battles in Maryland, the third one still continuing; but no particulars of any of them. Yesterday came 
+tidings of our having recrossed the Potomac, and to-day we hear that <a href='/results.php?tla=gbm' rel=''>McClellan's</a> army has been cut 
+to pieces; but whether it is the same old fight or a new one, I cannot as yet learn ; for reliable information is not easily obtained in America at this period. 
+</p><p>
+Did I ever record how little truth there was in any of that last <a href='/results.php?city=clinton' rel='city'>Clinton</a> news? It speaks for itself, 
+though. Not a boat lay at <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>; Camp Moore was not even threatened; Ponchatoula Station was burned, but the one battery was retaken by our men the same night. 
+</p><p>
+But still these false reports cannot equal the Yankees . Take, for instance, the report of the Captain of the Essex. I give General Carter as my 
+authority. The Captain reports having been fired on by a battery of thirty-six large guns, at Port Hudson, some weeks ago, when he opened fire and 
+silenced them, one after the other, from the first to the last. Not a shot from the "rebel" batteries 
+reached them, and not a casualty on their side occurred. But the loss of the Confederates must 
+have been awful. He came within I forget how many yards from the shore, and there was not a 
+live man to be seen. He did not mention if there were any dead ones ! Now for the other side. There 
+were but four guns mounted there at the time. Shot and shell from those four certainly reached some 
+thing, for one was seen to enter a porthole, from whence issued frightful shrieks soon after, and it is 
+well known that the Essex is so badly injured by "something" as to be in a sinking condition, and 
+only kept afloat by a gunboat lashed on either side. If she is uninjured, why did she not return and burn 
+Natchez as she announced? In leaving Port Hudson, where "not a live man was to be seen" (nor a dead 
+one to be found), she stopped at Mr. Babin's, just below Dr. Nolan's, where she remained the rest of 
+the day. After she left, being curious to discover the reason of her short stay, Mr. Babin walked to the 
+place where she had been, and discovered sixteen fresh graves on the bank. If they buried them as 
+they did at <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a> and <a href='/results.php?city=vicksburg' rel='city'>Vicksburg</a>, four in a 
+grave, how many would they be? But granting there were but sixteen, would that prove the veracity of the Captain? Poor man! Perhaps he is 
+related to Pope, and cannot help himself. 
+</p><p>
+</letter>

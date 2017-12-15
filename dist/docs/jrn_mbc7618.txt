@@ -1,0 +1,31 @@
+<letter id="mbc7618">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. My war archon is beset for commissions, 
+and somebody says for every one given, you make one ingrate and a thousand enemies. 
+</p><p>
+As I entered Miss Mary Stark's I whispered: " He has promised to vote for Louis. What radiant faces. To 
+my friend, Miss Mary said, " Your son-in-law, what is he doing for his country? " " He is a tax collector." Then 
+spoke up the stout old girl : Look at my cheek ; it is red with blushing for you. A great, hale, hearty young man ! 
+Fie on him ! fie on him ! for shame ! Tell his wife ; run him out of the house with a broomstick; send him down to the 
+coast at least." Fancy my cheeks. I could not raise my eyes to the poor lady, so mercilessly assaulted. My face 
+was as hot with compassion as the outspoken Miss Mary pretended hers to be with vicarious mortification. 
+</p><p>
+Went to see sweet and saintly Mrs. Bartow. She read us a letter from Mississippi not so bad: " More men 
+there than the enemy suspected, and torpedoes to blow up the wretches when they came." Next to see Mrs. Izard. 
+She had with her a relative just from the North. This lady had asked <a href='/results.php?tla=wls' rel=''>Seward</a> for passports, and he told her to " hold 
+on a while ; the road to South Carolina will soon be open to all, open and safe." To-day Mrs. Arthur Hayne heard 
+from her daughter that Richmond is to be given up. Mrs. Buell is her daughter. 
+</p><p>
+Met Mr. Chesnut, who said : New Madrid has been given up. I do not know any more than the dead where 
+New Madrid is. It is bad, all the same, this giving up. I can't stand it. The hemming-in process is nearly complete. 
+The ring of fire is almost unbroken." 
+</p><p>
+Mr. Chesnut's negroes offered to fight for him if he would arm them. He pretended to believe them. He says 
+one man can not do it. The whole country must agree to it. He would trust such as he would select, and he would give 
+so many acres of land and his freedom to each one as he enlisted. 
+</p><p>
+Mrs. Albert Rhett came for an office for her son John. I told her Mr. Chesnut would never propose a kinsman for 
+office, but if any one else would bring him forward he would vote for him certainly, as he is so eminently fit for position. Now he is a private. 
+</p>
+</letter>

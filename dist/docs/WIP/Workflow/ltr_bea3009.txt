@@ -1,0 +1,61 @@
+<letter id="bea3009">
+<recipient first="Richard" last="Montgomery"/>
+<p>
+<a href='/results.php?city=st marie' rel='city origin'>St. Marie</a>, 21-2 leagues from Point Levy, 
+</p><p>
+<a rel="day origin" value="8">8</a> <a rel="month origin" value="11">November</a>, <a href="http://www.familytales.org/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your favor of the 29th ultimo, I received at ten o clock this 
+morning, which gave me much pleasure. I heartily congratulate 
+you on your success thus far. I think you have had great reason 
+to be apprehensive for me, the time I mentioned to <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> being so long since elapsed. I was not then apprised, or 
+indeed apprehensive, of one half the difficulties we had to encounter, of which I cannot at present give you a particular detail. I 
+can only say we have hauled our bateaux up over falls, up rapid 
+streams, over carrying-places, and marched through morasses, thick woods, and over mountains, about three hundred and twenty 
+miles, many of which we had to pass several times to bring over 
+our baggage. These difficulties the soldiers have, with the greatest fortitude, surmounted ; and about two thirds of the detachment 
+are happily arrived here, and -within two days march, most of 
+them in good health and high spirits. The other part, with Colonel Enos, returned from Dead River, contrary to my expectation, he having orders to send back only the sick, and those that could not be furnished with provisions. 
+</p><p>
+I wrote to <a href='/results.php?tla=pjs' rel='co-worker met'>General Schuyler</a> the 10th of October (by an Indian I thought trusty), inclosed to my friend in Quebec ; and, as 
+I have had no answer from either, and he pretends to have been 
+taken sick at <a href='/results.php?city=quebec' rel='city'>Quebec</a>, I make no doubt he has betrayed his trust ; 
+which I am confirmed in, as I find they have been some time 
+apprised of our coming in Quebec, and have destroyed all the 
+canoes at <a href='/results.php?city=point levy' rel='city'>Point Levy</a>, to prevent our passing. This difficulty 
+will be obviated by birch canoes, as we have about twenty of 
+them, with forty savages, who have joined us, and profess great 
+friendship, as well as the Canadians, by whom we have been 
+very friendly received, and who will be able to furnish us with 
+a number of canoes. 
+</p><p>
+I am informed, by the French, there are two frigates and several small armed vessels lying before <a href='/results.php?city=quebec' rel='city'>Quebec</a>, and a large ship or 
+two, lately arrived from <a href='/results.php?city=boston' rel='city'>Boston</a>. However, I propose crossing 
+the St. Lawrence as soon as possible, and, if any opportunity 
+offers of attacking Quebec with success, I shall embrace it ; other 
+wise, I shall endeavour to join your army at <a href='/results.php?city=montreal' rel='city'>Montreal</a>. I shall, 
+as often as in my power, advise you of my proceedings, and beg 
+the favor of hearing from you by every opportunity. 
+</p><p>
+The inclosed letter to his Excellency <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, I 
+beg the favor of your forwarding by express. 
+</p><p>
+I am, very respectfully, dear Sir, your most obedient, humble 
+servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p><p>
+P. S. Since writing the above, I have seen a friend from 
+Quebec, who informs me a frigate of twenty-six guns, and two 
+transports, with one hundred and fifty recruits, arrived from St. John's, Newfoundland, last Sunday, which, with the inhabitants 
+who have been compelled to take up arms, amount to about three 
+hundred men ; that the French and English inhabitants in General are on our side, and that the city is short of provisions. I 
+shall endeavour to cut off their communication with the country, and make no doubt, if no more recruits arrive, to bring 
+them to terms soon, or at least keep them in close quarters 
+until your arrival here, which I await with impatience ; but, if 
+St. John's should not have surrendered, and you can possibly 
+spare a regiment this way, I think the city must of course fall into our hands. 
+</p>
+</letter>

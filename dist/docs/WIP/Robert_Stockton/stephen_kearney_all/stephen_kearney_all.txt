@@ -1,0 +1,117 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--8020
+--LETTER-TLA--swk
+--DOC-AUTHOR-FIRST--Stephen
+--DOC-AUTHOR-LAST--Kearney
+--DOC-SOURCE--A sketch of the life of Com. Robert F. Stockton, 1856, Derby & Jackson, New York
+--LETTER-OWNER-EMAIL--hans.brough@yahoo.com
+</meta>
+
+<letter id="swk8020">
+<recipient first="Robert" last="Stockton" type="individual"/>
+<p>
+HEAD-QUARTERS, ARMY OF THE WEST,<br> 
+<a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I am informed that you are now engaged in organizing a civil government and appointing officers for it in this territory. 
+As this duty has been specially assigned to myself, by orders of the President of the United States, conveyed in letters to me from the 
+Secretary of War, of June 3, 8, and 18, 1846, the original of which I gave to you on the 12th, and which you returned to me on 
+the 18th, and copies of which I furnished you with on the 26th December, I have to ask if you have any authority from the 
+President, from the Secretary of the Navy, or from any other channel of the President, to form such government and make such appointments. 
+</p><p>
+If you have such authority, and will show it to me or furnish me with a certified copy of it, I will cheerfully acquiesce in what 
+you are doing. If you have not such authority, I then demand that you cease all further proceedings relating to the formation of 
+a civil government for this territory, as I cannot recognise in you any right in assuming to perform duties confided to me by the President. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, 
+</p><p>
+Brigadier- General United States Army. 
+</p><p>
+COMMODORE R. F. STOCKTON, 
+</p><p>
+Acting Governor of California. 
+</p><p>
+</letter><letter id="swk8021">
+<recipient first="Robert" last="Stockton" type="individual"/>
+</p><p>
+HEAD-QUARTERS, ARMY OF THE WEST, 
+<a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : In my communication to you of yesterday's date I stated that I had learned that you were engaged in organizing a civil 
+government for California. I referred you to the President's instructions to me (the original of which you have seen, and copies 
+of which I furnished you) to perform that duty, and I added that if you had any authority from the President, or any of his organs, 
+for what you were doing, I would cheerfully acquiesce, and, if you had not such authority, I demanded that you would cease further proceedings in the matter. 
+</p><p>
+Your reply of the same date refers me to a conversation held at San Diego, and adds that you cannot do any thing or desist from 
+doing any thing or alter any thing on your (my) demand. As, in consequence of the defeat of the enemy on the 8th and 9th instants, 
+by the troops under my command, and the capitulation entered into on the 13th instant by <a href='/results.php?tla=jhf' rel='co-worker'>Lieutenant-Colonel Fremont</a> with the 
+leaders of the Californians, in which the people under arms and in the field agree to disperse and remain quiet and peaceable, the 
+country may now, for the first time, be considered as conquered and taken possession of by us ; and, as I am prepared to carry out 
+the President's instructions to me, which you oppose, I must, for the purpose of preventing a collision between us and possibly a 
+civil war in consequence of it, remain silent for the present, leaving with you the great responsibility of doing that for which you have 
+no authority, and preventing me from complying with the President's orders. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, 
+Brigadier-G-eneral U. S. A. 
+</p><p>
+COMMODORE R. F. STOCKTON, U. S. N., 
+Acting Governor of California. 
+</p><p>
+</letter><letter id="swk8022">
+<recipient first="Robert" last="Stockton" type="individual"/>
+</p><p>
+HEAD-QUARTERS, ARMY OF THE WEST, 
+<a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I have to inform you that I intend to withdraw to-morrow from this place, with the small party which escorted me to this country. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, 
+Brigadier-General. 
+</p><p>
+COMMODORE K. F. STOCKTON, V. S. N., 
+Acting Governor of California. 
+</p><p>
+</letter><letter id="swk8023">
+<recipient first="Robert" last="Stockton" type="individual"/>
+</p><p>
+HEAD-QUARTERS, ARMY OF THE WEST, 
+<a href='/results.php?city=ciudad de los angeles' rel='city origin'>Ciudad De Los Angeles</a>, U. C., <a rel="month origin" value="1">January</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I fear, from the armistice which I this morning saw, signed by <a href='/results.php?tla=jhf' rel='co-worker'>Lieutenant-Colonel Fremont</a>, and sent to me by you, that our countrymen under 
+<a href='/results.php?tla=jhf' rel='co-worker'>Colonel Fremont</a> are entirely ignorant of our being here ; that they are embarrassed in their movements. And I further fear that, unless something is done 
+at once to inform them of the true state of affairs here, they may capitulate and retire to the upper country. 
+</p><p>
+To avoid so serious an evil, I advise and offer to take one-half of this command, from 250 to 300 men, and march at once to form a junction with Lieutenant-<a href='/results.php?tla=jhf' rel='co-worker'>Colonel Fremont</a>. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, Brig. -General. 
+</p><p>
+COMMODORE R. F. STOCKTON, 
+</p><p>
+Governor of California, commanding U. S. Forces. 
+</p>
+</letter><letter id="swk8024">
+<recipient first="John" last="Fremont" type="individual"/>
+</p><p>
+<a href='/results.php?city=los angeles' rel='city origin'>Puebla De Los Angeles</a>, 
+</p><p>
+<a rel="month origin" value="1">January</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. Tuesday, 6 p.m. 
+</p><p>
+DEAR FREMONT : I am here in possession of this place, with sailors and marines. We met and defeated the whole force of the Californians the 8th and 9th. They 
+have not now to exceed three hundred men concentrated. Avoid charging them, and come to me at this place. 
+</p><p>
+Acknowledge the hour of receipt of this, and when I may expect you. Regards to Russell. Yours, 
+</p><p>
+S. W. KEARNEY, Brigadier- General. 
+</p><p>
+LIEUTENANT-COLONEL FREMONT.
+</p>
+</letter>

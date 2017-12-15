@@ -1,0 +1,135 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.262x0q on line 296
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--ruk
+--DOC-AUTHOR-FIRST--Rufus
+--DOC-AUTHOR-LAST--King
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="ruk4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have had the honor to receive your letter of the 
+25th of August; and Dr. Nicholl, upon advice I have 
+asked, has been so obliging as to give me information 
+respecting the manner in which the order of the Court 
+of Chancery should be published. In a day or two, 
+I will procure its insertion in the proper newspaper. 
+Some little attention will be requisite to avoid, as far 
+as practicable, the great expense which commonly attends this kind of publication. The newspapers containing the notification shall be transmitted to you, 
+agreeably to your directions. 
+</p><p>
+It is extremely difficult to form a satisfactory 
+opinion respecting the probability of peace. I meet 
+with few persons who appear to have much confidence 
+in the success of Lord Malmesbury. The declaration 
+of war by Spain, at a moment when England appeared to be making serious efforts to conclude a 
+general peace, strengthens the belief of many that 
+France prefers still to continue the war. All the internal movements of this Government that are visible, 
+indicate a determination to prosecute the war with 
+vigor. The funding of the floating debt earlier than 
+usual, and at the commencement of the negotiation 
+with France, when its influence upon the stocks is 
+such as a measure so direct for the restoration of 
+peace is calculated to produce, the augmentation of 
+the militia by the addition of sixty thousand men, 
+and the means employed to recruit the regular army, if peace is near, would seem to be improvideat and 
+unwise ; but, if the war continues, twelve millions will 
+have been funded on advantageous terms. The Government will have removed an important obstacle to 
+the further use of their credit, and, by an increase 
+of the internal strength of the nation, placed at their 
+disposal the regular forces to be employed abroad. 
+</p><p>
+France will bend all her energies against that commerce in which England finds such immense resources 
+to prosecute the war, not by attacking her navy, not 
+by attempting the threatened invasion, but by compelling the neighbouring nations to exclude the commerce of England from the great and profitable markets of Europe. England, in turn, will endeavour to 
+balance the account by conquering or emancipating 
+the Colonies of Spain and France, thereby opening 
+new and extensive markets in another quarter of the 
+globe. Should the war unfortunately still go on, the 
+meditated expedition against Canada by the Mississippi may possibly be undertaken. I think it much 
+less probable, since the evacuation of our frontier 
+posts by the British forces. Though I cannot seriously 
+believe that such an expedition will be attempted, 
+still it may be the part of prudence to consider it as 
+possible, in order to guard against its mischiefs. 
+</p><p>
+Spain enumerates, among the injuries received from 
+Great Britain, the treaty concluded with us and 
+France was satisfied neither with that treaty, nor 
+with the subsequent one, that was concluded at a 
+fortunate moment between us and Spain. Both may 
+have been dissatisfied from motives connected with 
+the project of an expedition through the Mississippi. 
+</p><p>
+With perfect respect I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=ruk" rel="me">Rufus King</a>. 
+</p>
+</letter><letter id="ruk4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel='day origin' value='6'>6</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have had the honor to receive your letter of the 
+22d of December. Count Rumford being in Bavaria, 
+I have requested the Minister of that country at this 
+Court to forward your letter to the Count with his next 
+despatch. I have delivered to Mr. Fulton the letter for 
+him, and, as soon as Sir John Sinclair returns to town, 
+I will also deliver the letter addressed to him. I have 
+before sent two copies of the Gazette, containing the 
+publication of the Chancery order that you inclosed 
+to me for that purpose. By this opportunity I transmit a third. 
+</p><p>
+Our affairs here, relative to the execution of the treaty, are in a good train. Some delays and difficulties have existed, but they exist no longer, and 
+the Commissioners are going on in a satisfactory manner. In the conferences that I have had "uith this 
+Government, upon these and other topics, I have 
+found them candid and impartial, in as great a degree as I had expected. Several important points, 
+not settled by the treaty, still remain open, and both 
+time and patience are requisite, even now, to form a 
+safe opinion, how far we shall in the end, be able to 
+agree. I think I am not deceived in supposing, that 
+a sincere and general desire exists in this country to 
+live in harmony and friendship with us. This disposition is, however, fettered and enfeebled by prejudices, and opinions connected with the national commerce and marine, which make the Government slow 
+and cautious in every step which has a reference to 
+these important concerns. 
+</p><p>
+Some uneasiness has been manifest here for some 
+few weeks past, concerning the situation of the British territories in the East Indies. It is not very 
+easy to obtain good information upon this subject, 
+but there is reason to believe, that much disaffection 
+exists among the native troops in the Company's service. The establishment is understood to be twenty 
+thousand Europeans, and sixty thousand native or 
+black troops. Whatever the origin of these discontents may have been (and they are supposed to be 
+of several years' standing), they have lately risen to 
+such a pitch, that the Local Government of India has 
+been compelled first to temporize, and then, as is 
+commonly the consequence, to submit to measures 
+they were unable to prevent. Lord Cornwallis is 
+suddenly to be sent to Bengal, and with such extensive powers as, it is hoped, will enable him to restore 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> tranquillity. What may be his success, my want of 
+accurate information forbids me to conjecture. 
+</p><p>
+From the continent, as a balance to the glory acquired by the Arch Duke, we have just received the accounts of the astonishing victories lately gained by 
+Bonaparte in Lombardy. The immediate consequences must be the fall of ^lantua, and the easy subjugation of the South of Italy. 
+</p><p>
+Whether these victories, or any recent information from America, have had any influence with the Directory, respecting the situation of <a href='/results.php?tla=ccp' rel=''>General Pinckney</a>, 
+remains to be ascertained ; but I have this morning been informed, by letters from Paris, that, on the 28th 
+ultimo, the General was ordered by the Directory to leave Paris, and that he intended to depart on the 31st for Amsterdam. 
+</p><p>
+With perfect respect, &c., 
+</p><p>
+<a href="/results.php?tla=ruk" rel="me">Rufus King</a>. 
+</p>
+</letter>

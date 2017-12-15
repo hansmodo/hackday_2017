@@ -1,0 +1,27 @@
+<letter id="hnb2410">
+<recipient first="Margaret" last="Blennerhassett" type="individual"/>
+<p>
+NINE MILES ABOVE <a href="/results.php?city=natchez" rel="city origin">Natchez</a>, Sunday, <a rel="month origin" value="2">Feb</a>. <a rel="day origin" value="8">8th</a>, 6, P. M. [<a href="/results.php?year=1808" rel="origin">1808</a>]
+</p><p>
+To secure the success of the two objects of my present journey; namely, the conveyance to you of what property I could bring away from the Ohio, and the enjoyment of a few months' repose with you, I have deter mined not to yield to the hopes or fears with which I 
+have approached you, by leaving my boats until Harding, to whom I have written, may advise me to venture my appearance on shore. 
+</p><p>
+Uncertain whether Dr. Shaw or my other enemies are yet apprised of my having failed to make my personal 
+appearance at <a href="/results.php?city=chillicothe" rel="city">Chillicothe</a>, on the 4th of last month, and ignorant how far they may speculate upon whatever news they may have received from that quarter since that period, I am resolved to continue afloat, that I may, at a 
+moment's warning, start with my light keel-boat, and be, in about four hours, beyond the line, about sixty miles 
+below <a href="/results.php?city=natchez" rel="city">Natchez</a>, whither you can follow with your family 
+and effects by my flat-boat, under the care of my friend Mr. Weaver, who has traveled with me. 
+</p><p>
+If this arrangement takes place, I shall want one of your black men, in lieu of whom I shall leave a boy; and you will also forward to me, or bring with you, 
+such letters from Grand Pre*, as can be obtained from Minor, Yidal and Mr. Dunbar. 
+</p><p>
+You may now privately make your way to my boat, under the guidance of Mr. Weaver or Honest Moses; one of whom will deliver you this letter. You must 
+not mention my arrival to the boys or servants until I see them, or shall have left the shore. 
+</p><p>
+Heaven grant that I may happily embrace you in health and spirits. 
+</p><p>
+From your husband, <a href="/results.php?tla=hnb" rel="me">HAR. BLENNERHASSETT</a>. 
+</p><p>
+P. S. I refer you to Moses for all intelligence you may desire upon small matters. 
+</p>
+</letter>

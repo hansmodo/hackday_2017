@@ -1,0 +1,42 @@
+<letter id="gom4505">
+<recipient name="President of the Council of Safety" type="position"/>
+<p>
+[<a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel='day origin' value='17'>17</a>, <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1777' rel="origin">1777</a>.]
+</p><p>
+[To the President of the Council of Safety]
+</p><p>
+Sir, 
+</p><p>
+I left Fort Edward with <a href='/results.php?tla=pjs' rel='met colleague'>General Schuyler</a> at noon, and 
+shall return thither some time tomorrow morning. Fort 
+George was destroyed yesterday afternoon, previous to which 
+the provisions, stores, and batteaux, were removed, and this 
+morning about ten o'clock the last of them passed us about 
+three miles to the northward of Fort Edward, at which place 
+all the troops from the Lake are arrived, and they, together 
+with some others, form an advanced post towards Fort George. 
+About twelve hundred, perhaps more, are somewhat farther 
+advanced upon the road to Fort Anne. 
+</p><p>
+The enemy have not yet made any motion that we know of, nor indeed can they make any of consequence, until they 
+shall have procured carriages, and then they may find it rather 
+difficult to come this way, if proper care be taken to prevent 
+them from procuring forage. For this purpose I shall give it 
+as my opinion to the General, whenever he asks it, to break 
+up all the settlements. upon our northern frontier, to drive off 
+the cattle, secure or destroy the forage, and also to destroy the 
+sawmills. These measures, harsh as they may seem, are I 
+am confident absolutely necessary. They ought undoubtedly to be taken with prudence, and temperately carried into 
+execution : but I will venture to say, that if we lay it down as 
+a maxim, never to contend for ground but in the last necessity, 
+and to leave nothing but a wilderness to the enemy, their progress must be impeded by obstacles, which it is not in human 
+nature to surmount ; and then, unless we have, with our usual 
+good nature, built posts for their defence, they must at the approach of winter retire to the place, from whence they first set 
+out. The militia from the eastward come in by degrees, and 
+I expect we shall soon be in force to carry on the petite guerre 
+to advantage, provided always <a href='/results.php?tla=jhb' rel='adversary'>Burgoyne</a> attempts to annoy us, 
+for it is pretty clear that we cannot get at him. I am, &,c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

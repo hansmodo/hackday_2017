@@ -1,0 +1,35 @@
+<letter id="ben4764">
+<recipient name="Committee of Merchants in Philadelphia" type="group"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+GENTLEMEN, 
+</p><p>
+I received yours of the i8th of April, enclosing copies of 
+the articles of your agreements with respect to importation, 
+and of your letter to the merchants here. The letter was published, and universally spoken well of, as a well written, sensible, manly, and spirited performance; and I believe the 
+publication has been of service to our cause. You are in my 
+opinion perfectly right in your supposition, that "the redress of American grievances likely to be proposed by the 
+ministry will at first only be partial; and that it is intended 
+to retain some of the revenue duties, in order to establish a 
+right of Parliament to tax the colonies." But I hope, that, 
+by persisting steadily in the measure you have so laudably 
+entered into, you will, if backed by the general honest resolution of the people to buy British goods of no others, but to 
+manufacture for themselves, or use colony manufactures 
+only, be the means, under God, of recovering and establishing the freedom of our country entire, and of handing it down 
+complete to posterity. 
+</p><p>
+And in the mean time the country will be enriched by its 
+industry and frugality. These virtues will become habitual. 
+Farms will be more improved, better stocked, and rendered 
+more productive by the money that used to be spent in superfluities. Our artificers of every kind will be enabled to carry 
+on their business to more advantage; gold and silver will 
+become more plenty among us, and trade will revive, after 
+things shall be well settled, and become better and safer 
+than it has lately been ; for an industrious, frugal people are 
+best able to buy, and pay best for what they purchase. With 
+great regard, I have the honour to be, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

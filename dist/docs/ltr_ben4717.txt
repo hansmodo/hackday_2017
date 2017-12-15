@@ -1,0 +1,63 @@
+<letter id="ben4717">
+<recipient first="Joseph" last="Galloway" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I duly received your favours of August 22, September 20, 
+and October 8, and within these few days one of February 14, 
+recommending Mr. Morgan Edwards and his affair of the 
+Rhode Island College, which I shall endeavour to promote, 
+deeming the institution one of the most catholic and generous 
+of the kind. 
+</p><p>
+I am inclined to think with you that the small sum you have issued to discharge the public debts only will not be materially 
+affected in its credit for want of the legal tender, considering 
+especially the present extreme want of money in the province. 
+You appear to me to point out the true cause of the General distress, viz. the late luxurious mode of living introduced by 
+a too great plenty of cash. It is indeed amazing to consider, 
+that we had a quantity sufficient before the war began, and 
+that the war added immensely to that quantity, by the sums 
+spent among us by the crown, and the paper struck and issued 
+in the province ; and now in so few years all the money spent 
+by the crown is gone away, and has carried with it all the gold 
+and silver we had before, leaving us bare and empty, and at 
+the same time more in debt to England than ever we were ! 
+But I am inclined to think, that the mere making more money 
+will not mend our circumstances, if we do not return to that 
+industry and frugality, which were the fundamental causes of 
+our former prosperity. I shall nevertheless do my utmost 
+this winter to obtain the repeal of the act restraining the legal 
+tender, if our friends the merchants think it practicable, and 
+will heartily espouse the cause ; and, in truth, they have full 
+as much interest in the event as we have. 
+</p><p>
+The present ministry, it is now thought, are likely to continue at least till a new Parliament ; so that our apprehensions 
+of a change, and that Mr. Grenville would come in again, seem 
+over for the present. He behaves as if a little out of his head 
+on the article of America, which he brings into every debate 
+without rhyme or reason, when the matter has not the least 
+connection with it; thus at the beginning of this session on 
+the debate upon the King's speech, he tired everybody, even 
+his friends, with a long harangue about and against America, 
+of which there was not a word in the speech. Last Friday he 
+</p><p>
+produced in the House a late <a href='/results.php?city=boston' rel='city'>Boston</a> Gazette, which he said 
+denied the legislative authority of Parliament, was treasonable, rebellious, &c., and moved it might be read, and that 
+the House would take cognizance of it, but it being moved on 
+the other hand that Mr. G's motion should be postponed to 
+that day six months, it was carried without a division: and 
+as it is known that this Parliament will expire before that 
+time, it was equivalent to a total rejection of the motion. 
+The Duke of B. too, it seems, moved in vain for a consideration of this paper in the House of Lords. These are favourable symptoms of the present disposition of Parliament 
+towards America, which I hope no conduct of the Americans 
+will give just cause of altering. 
+</p><p>
+Be so good as to present my best respects to the House, and 
+believe me with sincere esteem and regard, dear Sir, your 
+affectionate friend and most obedient servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

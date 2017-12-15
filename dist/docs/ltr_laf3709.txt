@@ -1,0 +1,76 @@
+<letter id="laf3709">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+My official letter, a copy of which I send to Congress, will let you know the situation of affairs in 
+this quarter. I ardently wish my conduct may meet 
+with your approbation. Had I followed the first impulse of my temper, I would have risked something 
+more. But I have been guarding against my own 
+warmth; and this consideration, that a general defeat, 
+which, with such a proportion of militia, must be expected, would involve This State and our affairs in 
+ruin, has rendered me extremely cautious in my 
+movements. Indeed, I am more embarrassed to move, 
+more crippled in my projects, than we have been in 
+the Northern States. 
+</p><p>
+Had the Pennsylvanians arrived before Lord Cornwallis, I was determined to attack the enemy, and 
+have no doubt but what we should have been successful. Their unaccountable delay cannot be too 
+much lamented, and will make an immense difference 
+in the fate of this campaign. Should they have arrived time enough to support me in the reception of 
+Lord Cornwallis's first stroke, I should still have 
+thought it well enough ; but, from an answer of <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a>, received this day, and dated the 19th, 
+I am afraid that at this moment they have hardly 
+left Yorktown.-' 
+</p><p>
+Public stores and private property being removed 
+from <a href='/results.php?city=richmond' rel='city'>Richmond</a>, this place is a less important object. 
+I do not believe it would be prudent to expose the 
+troops for the sake of a few houses, most of which 
+are empty. But I am wavering between two inconveniences. Were I to fight a battle, I should be cut 
+to pieces, the militia dispersed, and the arms lost. 
+Were I to decline fighting, the country would think 
+herself given up. I am, therefore, determined to skirmish, but not to engage too far; and particularly to 
+take care against their immense and excellent body 
+of horse, which the militia fear as they would so 
+many wild beasts. 
+</p><p>
+A letter from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> to General Sumner 
+is dated May 5th, seven miles below Camden. The 
+Baron is going to him with some recruits, and will 
+get some more in North Carolina. When the Pennsylvanians come, I am only to keep them a few days, 
+which I will improve as well as I can. Cavalry is 
+very necessary to us. I wish Lauzun's legion could 
+come. I am sure he will like to serve with me; and as <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> gave me command of the troops 
+in this State, Lauzun might remain with me in Virginia ; if not, Sheldon's dragoons might he sent. As 
+to Mojlan, I do not believe he will be ready before a long time. 
+</p><p>
+Were I any ways equal to the enemy, I should be 
+extremely happy in my present command ; but I am 
+not strong enough even to get beaten. Government, 
+in this State, has no energy, and laws have no force. 
+But I hope this Assembly will put matters upon a 
+better footing. I had a great deal of trouble to put 
+the departments in a tolerable train. Our expenses 
+were enormous ; and yet we can get nothing. Arrangements, for the present, seem to put on a better 
+face, but for this superiority of the enemy, who will 
+chase us wherever they please. They can overrun 
+the country ; and, until the Pennsylvanians arrive, we 
+are next to nothing in point of opposition to so large 
+a force. This country begins to be as familiar to me 
+as Tappan and Bergen. Our soldiers are hitherto 
+very healthy, and I have turned doctor to regulate 
+their diet. Adieu, my dear General. Let me hear 
+sometimes from you. Your letters are a great happiness to your affectionate friend, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p><p>
+P. S. As I am for the present fixed in the command of the troops in this State, I beg it as a great 
+favor that you will please to send me Colonel Gouvion. Should a junction be made with <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, 
+he will act as my Aid-de-camp. My respects, if you 
+please, to Mrs. Washington, and compliments to the 
+family. 
+</p>
+</letter>

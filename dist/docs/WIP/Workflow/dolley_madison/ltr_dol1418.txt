@@ -1,0 +1,29 @@
+<letter id='dol1418'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1418'>
+<recipient first='Dolly' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, May 11, <a href="/results.php?year=1835">1835</a>. 
+</p><p>
+DEAREST DOLLY, Payne met a friend (Mr. H.) of yours yesterday at Orange 
+Court House, and brought him home to dinner, with his two cousins. We were 
+much pleased with his society, as well as the account he gave of you and Mary. He 
+told me of your pleasant party, and how much he admired and regarded you both, 
+but not half as much about you as I want to know ; indeed, how could he, when my love for you makes me wish to trace your 
+every word and deed throughout the year. He gave me your letter, and told us about 
+all the great personages now with you ; but what was my grief to receive only one 
+music-box ! the box I prized the one you and Mary gave me was missing ! I will hope, however, that it was left with you, 
+and I shall still hear it in these deep shades. 
+</p><p>
+Your inquiries after your uncle, and how we pass our time, can be more accurately 
+answered. My days are devoted to nursing and comforting my sick patient, who 
+walks only from the bed in which he break fasts to another, in the little room in which 
+you left him ; he is a little better, but not well enough to get into a carriage to drive 
+to the Springs, which I fondly hoped he might do. I expect Mrs. Randolph, Septimia, and two Misses Jefferson Randolph 
+to-morrow, to pass a few days. My love to Dolly and Richard, and accept my apology for this scrawl. 
+</p><p>
+Your own and always, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY P. MADISON.</a>. 
+</p>
+</letter></letter>

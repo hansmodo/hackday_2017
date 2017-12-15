@@ -1,0 +1,67 @@
+<letter id='thj1423'>
+<recipient first='' last='De Castries' type='individual'/>
+<p>
+TO M. DE CASTRIES.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, August 3,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+The enclosed copy of a letter from Captain John Paul Jones, on the
+subject on which your Excellency did me the honor to write me, on
+the day of July, will inform you that there is still occasion to be
+troublesome to you. A Mr. Puchilburg, a merchant of L'Orient, who seems
+to have kept himself unknown till money was to be received, now presents
+powers to receive it, signed by the American officers and crews:
+and this produces a hesitation in the person to whom your order was
+directed. Congress, however, having substituted Captain Jones, as agent,
+to solicit and receive this money, he having given them security to
+forward it, when received, to their treasury, to be thence distributed
+to the claimants, and having at a considerable expense of time, trouble,
+and money, attended it to a conclusion, are circumstances of weight,
+against which Mr. Puchilburg seems to have nothing to oppose, but a
+nomination by individuals of the crew, under which he has declined
+to act, and permitted the business to be done by another without
+contradiction from him. Against him, too, it is urged that he fomented
+the sedition which took place among them, that he obtained this
+nomination from them while their minds were under ferment; and that he
+has given no security for the faithful payment of the money to those
+entitled to it.
+</p><p>
+I will add to these, one more circumstance which appears to render it
+impossible that he should execute this trust. It is now several years
+since the right to this money arose. The persons in whom it originally
+vested, were probably from different States in America. Many of them
+must be now dead; and their rights passed on to their representatives.
+But who are their representatives? The laws of some States prefer one
+degree of relations, those of others prefer another, there being no
+uniformity among the States on this point. Mr. Puchilberg, therefore,
+should know which of the parties are dead; in what order the laws of
+their respective States call their relations to the succession; and,
+in every case, which of those orders are actually in existence, and
+entitled to the share of the deceased. With the Atlantic ocean between
+the principals and their substitute, your Excellency will perceive what
+an inexhaustible source of difficulties, of chicanery, and delay, this
+might furnish to a person who should find an interest in keeping this
+money, as long as possible, in his own hands. Whereas, if it be lodged
+in the treasury of Congress, they, by an easy reference to the tribunals
+of the different States, can have every one's portion immediately
+rendered to himself, if living; and if dead, to such of his relations as
+the laws of his particular State prefer, and as shall be found actually
+living. I the rather urge this course, as I foresee that it will
+relieve your Excellency from numberless appeals which these people will
+continually be making from the decisions of Mr. Puchilberg; appeals
+likely to perpetuate that trouble of which you have already had
+too much, and to which I am sorry to be obliged to add, by asking a
+peremptory order for the execution of what you were before pleased to
+decide, on this subject.
+</p><p>
+I have the honor to be, with sentiments of the most perfect respect,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

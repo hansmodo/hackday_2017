@@ -1,0 +1,23 @@
+<letter id="isp3213">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=red hook' rel='city origin'>Red Hook</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+By the inclosed copies, the originals of which were taken yesterday, on their passage to <a href='/results.php?city=new york' rel='city'>New York</a>, your Excellency will be able 
+to form some judgment of the enemy's intentions, and what is 
+best to be done, as far as circumstances will admit. Would it 
+not answer a very valuable purpose to get the guns out of the 
+row-galley that is scuttled in Esopus Creek, as they may be turned to the annoyance of the enemy, and prevent their getting 
+possession of them? If your Excellency has no capital objection to the measure, I could wish that it might be carried into execution as soon as possible. 
+</p><p>
+I have this morning written to <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> for some heavy cannon on travelling carriages, with fixed ammunition, and Continental troops, which if I receive, I expect to be able to oblige 
+them to retire below the chevaux-de-frise. Whenever the cannon arrive, you shall be advised" previous to any operation, in order 
+that we may act in conjunction as much as circumstances will permit. I am, with great regard, your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p>
+</letter>

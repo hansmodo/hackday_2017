@@ -1,0 +1,30 @@
+<letter id="mbc7574">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='11'>11th</a> [<a href='/results.php?city=fauquier white sulphur springs' rel='city origin'>Fauquier White Sulphur Springs</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. We did hear cannon to-day. The woman who slandered <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> republican court, of which we 
+are honorable members, by saying they well, were not young ; that they wore gaudy colors, and dressed badly I 
+took an inventory to-day as to her, charms. She is darkly, deeply, beautifully freckled; she wears a wig which is 
+kept in place by a tiara of mock jewels ; she has the fattest of arms and wears black bead bracelets. 
+</p><p>
+The one who is under a cloud,, shadowed as a Yankee spy, has confirmed our worst suspicions. She exhibited unholy joy, as she reported seven hundred sick soldiers in the hospital at Culpeper, and that <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> had sent a 
+flag of truce to Washington. 
+</p><p>
+What a night we had ! Maria had seen suspicious persons hovering about all day, and Mrs. Preston a ladder 
+which could easily be placed so as to reach our rooms. Mary Hammy saw lights glancing about among the trees, 
+and we all heard guns. So we sat up. Consequently, I am writing in bed to-day. A letter from my husband saying, 
+in particular : " Our orders are to move on, the date, July 10th. " Here we are still and no more prospect of movement now than when I last wrote to you. It is true, how 
+ever, that the enemy is advancing slowly in our front, and we are preparing to receive him. He comes in great force, 
+being more than three times our number." 
+</p><p>
+The spy, so-called, gave us a parting shot : said <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> had arrested her brother in order that he might take a 
+fine horse which the aforesaid brother was riding. Why? <a href='/results.php?tla=pgb' rel='met'>Beauregard</a>, at a moment's notice, could have any horse in 
+South Carolina, or Louisiana, for that matter. This man was arrested and sent to Richmond, and will be acquitted 
+as they always are," said Brewster. " They send them first to Richmond to see and hear everything there; then 
+they acquit them, and send them out of the country by way of Norfolk to see everything there. But, after all, what 
+does it matter They have no need for spies : our newspapers keep no secrets hid. The thoughts of our hearts are all 
+revealed. Everything with us is open and aboveboard. 
+</p><p>
+" At Bethel the Yankees fired too high. Every daily paper is jeering them about it yet. They ll fire low enough 
+next time, but no newspaper man will be there to get the benefit of their improved practise, alas! " 
+</p>
+</letter>

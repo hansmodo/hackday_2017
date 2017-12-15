@@ -1,0 +1,35 @@
+<letter id="jod3640">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='4'>4</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HOPE you will not communicate to any body the 
+hints I give you about our prospects ; but they appear 
+every day worse and worse. House rent at twenty- 
+seven hundred dollars a year, fifteen hundred dollars 
+for a carriage, one thousand for one pair of horses, 
+all the glasses, ornaments, kitchen furniture, the best 
+chairs, settees, plateaus, &c., all to purchase, all the 
+china, delph or wedgewood, glass and crockery of 
+every sort to purchase, and not a farthing probably 
+will the House of Representatives allow, though the 
+Senate have voted a small addition. All the linen 
+besides. I shall not pretend to keep more than one 
+pair of horses for a carriage, and one for a saddle. 
+Secretaries, servants, wood, charities which are demanded as rights, and the million dittoes present such 
+a prospect as is enough to disgust any one. Yet not 
+one word must we say. 
+</p><p>
+We cannot go back. We must stand our ground 
+as long as we can. Dispose of our places with the 
+help of our friend Dr. Tufts, as well as you can. 
+We are impatient for news, but that is always so at 
+this season. 
+</p><p>
+I am tenderly your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

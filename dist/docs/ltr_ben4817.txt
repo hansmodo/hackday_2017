@@ -1,0 +1,40 @@
+<letter id="ben4817">
+<recipient first="John" last="Bartram" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1771' rel="origin">1771</a>. 
+</p><p>
+MY GOOD AND DEAR OLD FRIEND, 
+</p><p>
+I received your kind letter of April 2Qth, wherein you complain of your friends here not writing to you. I had written a 
+letter to you on the 2oth of the same month, which I hope is 
+long since come to hand ; but I confess I ought to have written 
+sooner, to acknowledge the receipt of the box of seeds, whereby 
+I was much obliged. As to your pension, there is not, I believe, the least reason for you to apprehend its being stopped. 
+I know not who receives it for you here, or I should quicken 
+them in writing to you. But there is no instance in this King's 
+reign of taking away a pension once granted, unless for some 
+great offence. Young is in no esteem here as far as I can learn. 
+</p><p>
+I wish your daughter success with her silkworms. I am 
+persuaded nothing is wanting in our country for the produce 
+of silk, but skill; which will be obtained by persevering till 
+we are instructed by experience. 
+</p><p>
+You take notice of the failing of your eyesight. Perhaps 
+you have not spectacles that suit you, and it is not easy there 
+to provide one's self. People too, when they go to a shop for 
+glasses, seldom give themselves time to choose with care; 
+and, if their eyes are not rightly suited, they are injured. 
+Therefore I send you a complete set, from number one to 
+thirteen, that you may try them at your ease; and, having 
+pitched on such as suit you best at present, reserve those of 
+higher numbers for future use, as your eyes grow still older; 
+and with the lower numbers, which are for younger people, 
+you may oblige some other friends. My love to good Mrs. 
+Bartram and your children. I am, as ever, your faithful 
+friend and servant, B. FRANKLIN. 
+</p><p>
+P. S. On inquiry, I find your pension continues, and will 
+be regularly paid, as it becomes due, to the person you empower to receive it for you. 
+</p>
+</letter>

@@ -1,0 +1,37 @@
+<letter id='thj1480'>
+<recipient first='David' last='Humphreys' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, December 4,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+I enclose you a letter from Gatteaux, observing that there will be
+an anachronism, if, in making a medal to commemorate the victory of
+Saratoga, he puts on <a href='/results.php?tla=hog' rel='co-worker met'>General Gates</a> the insignia of the Cincinnati, which
+did not exist at that date. I wrote him, in answer, that I thought so
+too, but that you had the direction of the business; that you were now
+in London; that I would write to you, and probably should have an answer
+within a fortnight; and that, in the mean time, he could be employed on
+other parts of the die. I supposed you might not have observed on the
+print of <a href='/results.php?tla=hog' rel='co-worker met'>General Gates</a>, the insignia of the Cincinnati, or did not mean
+that that particular should be copied. Another reason against it strikes
+me. Congress have studiously avoided giving to the public their sense of
+this institution. Should medals be prepared, to be presented from them
+to certain officers, and bearing on them the insignia of the order, as
+the presenting them would involve an approbation of the institution, a
+previous question would be forced on them, whether they would present
+these medals. I am of opinion it would be very disagreeable to them to
+be placed under the necessity of making this declaration. Be so good as
+to let me know your wishes on this subject by the first post.
+</p><p>
+<a href='/results.php?tla=wis' rel='co-worker met'>Mr. Short</a> has been sick ever since you left us. Nothing new has occurred
+here, since your departure. I imagine you have American news. If so,
+pray give us some. Present me affectionately to <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> and the
+ladies, and to Colonel Smith; and be assured of the esteem with which I
+am, Dear Sir,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

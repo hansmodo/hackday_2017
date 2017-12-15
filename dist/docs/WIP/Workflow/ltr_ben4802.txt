@@ -1,0 +1,27 @@
+<letter id="ben4802">
+<recipient first="Cadwallader" last="Evans" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1771' rel="origin">1771</a>. 
+</p><p>
+DEAR DOCTOR, 
+</p><p>
+I have not now before me your letter, which came with the 
+sample of silk, having put it into the hands of Mr. Walpole 
+with the sample, who has promised me full and particular 
+answers to all your queries, after the silk has been thoroughly 
+examined. In the mean time he tells me, the best sort appears to him to be worth in itself twenty-seven or twenty eight shillings a pound, and will fetch that price when some 
+imperfections in the reeling it are remedied. He tells me 
+farther, that the best eggs are to be had from Valencia in 
+Spain, whence he will procure some for you against the next 
+year ; the worms from those eggs being the strongest, healthiest, and producing the finest silk of any others; and he 
+thinks you should get some reelers from Italy, which he would 
+likewise undertake to do for you if desired. He is one of 
+the most opulent and noble-spirited merchants of this kingdom. 
+</p><p>
+I shall write to you fully by Osborne, with all the information I can procure. In the mean time, please to present my 
+respects to the gentlemen concerned in the affair, and assure 
+them of my best services. I am, my dear friend, yours affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

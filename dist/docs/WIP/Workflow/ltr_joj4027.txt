@@ -1,0 +1,41 @@
+<letter id="joj4027">
+<recipient first="T" last="MatLack" type="individual"/>
+<p>   	 
+<a href='/results.php?city=st ildefonso' rel='city origin'>St. Ildefonso</a>, <a rel='day origin' value='17'>17th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+Accept my thanks for your favour of the 21st April, 
+which was delivered to me the 27th August. Knowledge 
+is essential to the duration of liberty, and Pennsylvania is 
+wise in making them both the objects of public care. I 
+have read your oration with pleasure. The subject is a 
+fine one, the field large, and you have interspersed it with 
+useful remarks and entertaining reflections. I put it into 
+the hands of the Count D'Estaing and the French ambassador. Thev both said civil things of it. 
+</p><p>
+The society have done me much honour by placing me 
+on the list of their members. I shall endeavour to evince 
+the sense I have of it, bv now and then sending them whatever I may find here worth their attention. 
+</p><p>
+I congratulate you on the glorious spirit spreading from 
+your city through America. Your bank is the subject of 
+much conversation and encomium, and the patriotism of 
+the ladies renders them very celebrated. Such marks of 
+union and public spirit are worth a victory. To be respectable abroad, we must be respectable at home, and the 
+best way to gain friends is to be formidable to our enemies. 
+But you know these things as well as I do, and I am persuaded your endeavours will not be wanting to place our 
+country in both these points of light. Dr. Foulke may 
+rely on my omitting no opportunity of being useful to him ; 
+we must take care of young Americans. Much depends 
+on the rising generation, and no pains should be spared to 
+render them equal to the task that devolves upon them. 
+</p><p>
+Be assured that it will give me pleasure to continue this 
+correspondence, and that I am, sir, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

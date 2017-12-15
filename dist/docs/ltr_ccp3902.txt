@@ -1,0 +1,24 @@
+<letter id="ccp3902">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+HONORED MADAM: 
+</p><p>
+The enemy has not thought fit to make any attack upon us yet. 
+They employed themselves yesterday in landing some men on LongIsland (a small creek parts it from Sullivan's Island), but whether it 
+was meant as a feint, or whether they were to make a descent on Sullivan's Island in the rear, while the shipping batter it in front, I cannot 
+determine. In either case they will be handsomely received. I, have 
+just heard that a battalion of Virginia Riflemen are arrived in town; 
+so that we are now very strong. We were unlucky enough yesterday 
+to have a small sloop, which was bringing us powder from Eustatia, run 
+aground near Stone Inlet. She was pursued by several of the men-of-war's barges, and rather than that they should make prize of her, the 
+captain blew her up. The explosion was great ; perhaps you heard it at 
+Sandy Hill. With my love to Harriet and Dan and my compliments 
+to Mrs. Elliott and the company at Sandy Hill, I remain 
+</p><p>
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter>

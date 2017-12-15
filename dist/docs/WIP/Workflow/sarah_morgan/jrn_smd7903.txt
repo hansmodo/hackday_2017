@@ -1,0 +1,36 @@
+<letter id="smd7903">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Friday, <a rel="month origin" value="10">October</a> <a rel='day origin' value='24'>24th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+A letter from Jimmy, the first we have received since <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> fell. It was dated the 10th inst., 
+and he spoke of being on the eve of running the blockade, and going to Liverpool "to represent our 
+unfortunate navy," as he says, though I am at loss to imagine what he can mean. He speaks of a kind 
+friend, a Mr. George Trenholm, whose kindness has been perfectly extraordinary. He has befriended him in every way. 
+</p><p>
+Charlie has just come by the railroad, bringing other letters from him, to mother and Lilly. In mother's is his last good-bye on the 12th. Again 
+Mr. Trenholm is the theme. I could not help crying over my dear little brother's manly, affectionate letter. He says he is sure God will still care for him, 
+He has raised him up friends wherever he has been. He says he lost all his clothing in going to Charles 
+ton. There, among other kind people, he met this 
+gentleman, who carried him to his house, where he 
+has kept him ever since, treating him like his son, 
+and forced him to accept a magnificent outfit as a 
+present from him. He procured the appointment 
+which sends Jimmy abroad (I wish Jimmy had been 
+more explicit concerning it ; we hardly know what it 
+is, or how long it will keep him). The money he 
+received to pay Jimmy's passage (received from the 
+Government) he in turn obliged Jimmy to accept, 
+as he sails in one of Mr. Trenholm's steamers; and 
+not satisfied with that, gives him carte blanche on his 
+house in England, to be filled up with any amount 
+he chooses to name. 
+</p><p>
+Mother went back to <a href='/results.php?city=clinton' rel='city'>Clinton</a> with Charlie that evening, to my great distress; for she hates that odious place as much as I. 
+</p><p>
+I know the life will kill her if it lasts six months longer. How happy I would be, if it were not for the 
+thought of her uncomfortable position there! Lilly agrees with me that, once out of it, she never wishes 
+to see the vile place again. Margret says that when the Lord had finished all the world and all the people, 
+he had some scraps left, and just thought he'd "batch up" <a href='/results.php?city=clinton' rel='city'>Clinton</a> with them. Perhaps she is right. 
+</p><p>
+</letter>

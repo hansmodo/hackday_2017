@@ -1,0 +1,133 @@
+<letter id='thj1431'>
+<recipient first='John' last='Jay' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, August 14, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+I was honored, on the 22nd ultimo, with the receipt of your letter
+of June the 15th; and delivered the letter therein enclosed, from the
+President of Congress to the King. I took an opportunity of asking the
+Count de Vergennes, whether the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier Luzerne</a> proposed to return to
+America. He answered me that he did; and that he was here, for a
+time only, to arrange his private affairs. Of course, this stopped my
+proceeding further in compliance with the hint in your letter. I knew
+that the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier Luzerne</a> still retained the character of minister
+to Congress, which occasioned my premising the question I did. But,
+notwithstanding the answer, which indeed was the only one the Count de Vergennes could give me, I believe it is not expected that the Chevalier
+will return to America: that he is waiting an appointment here, to some
+of their embassies, or some other promotion, and in the mean time, as a
+favor, is permitted to retain his former character. Knowing the esteem
+borne him in America, I did not suppose it would be wished, that I
+should add any thing which might occasion an injury to him; and the
+rather, as I presumed that, at this time, there did not exist the same
+reason for wishing the arrival of a minister in America, which perhaps
+existed there at the date of your letter. Count Adhemar is just arrived
+from London, on account of a paralytic disease with which he has been
+struck. It does not seem improbable, that his place will be supplied,
+and perhaps by the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a>.
+</p><p>
+A French vessel has lately refused the salute to a British armed vessel
+in the channel. The "Chargé des Affaires" of Great Britain at this court
+(their ambassador having gone to London a few days ago) made this the
+subject of a conference with the Count de Vergennes, on Tuesday last.
+He told me that the Count explained the transaction as the act of
+the individual master of the French vessel, not founded in any public
+orders. His earnestness, and his endeavors to find terms sufficiently
+soft to express the Count's explanation, had no tendency to lessen any
+doubts I might have entertained on this subject. I think it possible the
+refusal may have been by order: nor can I believe that Great Britain is
+in a condition to resent it, if it was so. In this case, we shall see it
+repeated by France and her example will then be soon followed by other
+nations. The news-writers bring together this circumstance with
+the departure of the French ambassador from London, and the English
+ambassador from <a href="/results.php?city=Paris" rel="city">Paris</a>, the manoeuvring of the French fleet just off the
+channel, the collecting some English vessels of war in the channel, the
+failure of a commercial treaty between the two countries, and a severe
+"Arrêt" here against English manufacturers, as foreboding war. It is
+possible that the fleet of manoeuvre, the refusal of the salute, and the
+English fleet of observation, may have a connexion with one another. But
+I am persuaded the other facts are totally independent of these, and
+of one another, and are accidentally brought together in point of time.
+Neither nation is in a condition to go to war: Great Britain, indeed,
+the least so of the two. The latter power, or rather its monarch, as
+Elector of Hanover, has lately confederated with the King of Prussia and
+others of the Germanic body, evidently in opposition to the Emperor's
+designs on Bavaria. An alliance, too, between the Empress of Russia
+and the Republic of Venice, seems to have had him in view, as he had
+meditated some exchange of territory with that republic. This desertion
+of the powers heretofore thought friendly to him, seems to leave no
+issue for his ambition, but on the side of Turkey. His demarkation
+with that country is still unsettled. His difference with the Dutch
+is certainly agreed. The articles are not yet made public; perhaps not
+quite adjusted. Upon the whole, we may count on another year's peace in
+Europe, and that our friends will not, within that time, be brought into
+any embarrassments, which might encourage Great Britain to be difficult
+in settling the points still unsettled between us.
+</p><p>
+You have, doubtless, seen in the papers, that this court was sending
+two vessels into the south sea, under the conduct of a Captain Peyrouse.
+They give out, that the object is merely for the improvement of our
+knowledge of the geography of that part of the globe. And certain it is,
+that they carry men of eminence in different branches of science.
+Their loading, however, as detailed in conversations, and some other
+circumstances, appeared to me to indicate some other design: perhaps
+that of colonizing on the western coast of America; or, it may be, only
+to establish one or more factories there, for the fur-trade. Perhaps
+we may be little interested in either of these objects. But we are
+interested in another, that is, to know whether they are perfectly
+weaned from the desire of possessing continental colonies in America.
+Events might arise, which would render it very desirable for Congress
+to be satisfied they have no such wish. If they would desire a colony on
+the western side of America, I should not be quite satisfied that they
+would refuse one which should offer itself on the eastern side. Captain
+Paul Jones being at L'Orient, within a day's journey of Brest, where
+Captain Peyrouse's vessels lay, I desired him, if he could not satisfy
+himself at L'Orient of the nature of this equipment, to go to Brest for
+that purpose: conducting himself so as to excite no suspicion that we
+attended at all to this expedition. His discretion can be relied on,
+and his expenses for so short a journey will be a trifling price for
+satisfaction on this point. I hope, therefore, that my undertaking
+that the expenses of his journey shall be reimbursed him, will not be
+disapproved.
+</p><p>
+A gentleman lately arrived from <a href="/results.php?city=New York" rel="city">New York</a> tells me, he thinks it will be
+satisfactory to Congress, to be informed of the effect produced here by
+the insult of Longchamps on Monsieur de Marbois. Soon after my arrival
+in France last summer, it was the matter of a conversation between the
+Count de Vergennes and myself. I explained to him the effect of the
+judgment against Longchamps. He did not say that it was satisfactory,
+but neither did he say a word from which I could collect that it was not
+so. The conversation was not official, because foreign to the character
+in which I then was. He has never mentioned a word on the subject to me
+since, and it was not for me to introduce it at any time. I have never
+once heard it mentioned in conversation, by any person of this country,
+and have no reason to suppose that there remains any uneasiness on the
+subject. I have indeed been told, that they had sent orders to make
+a formal demand of Longchamps from Congress, and had immediately
+countermanded these orders. You know whether this be true. If it be, I
+should suspect the first orders to have been surprised from them by some
+exaggeration, and that the latter was a correction of their error,
+in the moment of further reflection. Upon the whole, there certainly
+appears to me no reason to urge the State, in which the fact happened,
+to any violation of their laws, nor to set a precedent which might
+hereafter be used in cases more interesting to us than the late one.
+</p><p>
+In a late conversation with the Count de Vergennes, he asked me if the
+condition of our finances was improving. He did not make an application
+of the question to the arrearages of their interest, though perhaps
+he meant that I should apply it. I told him the impost still found
+obstacles, and explained to him the effects which I hoped from our land
+office. Your letter of the 15th of April did not come to hand till
+the 27th ultimo. I enclose a letter from Mr. Dumas to the President of
+Congress, and accompany the present with the Leyden Gazette and Gazette
+of France, from the date last sent you to the present time. I have the
+honor to be, with high esteem, Sir,
+</p><p>
+your most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

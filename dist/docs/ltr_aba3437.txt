@@ -1,0 +1,71 @@
+<letter id="aba3437">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1791" rel="origin">1791</a>. 
+</p><p>
+MY DEAR MRS. SMITH, 
+</p><p>
+I received, by Mr. King, your letter of December 
+30th. I am uneasy if I do not hear from you once 
+a week, though you have not any thing more to tell 
+me than that you and your little ones are well. I 
+think you do perfectly right in refusing to go into 
+public during the absence of Colonel Smith. The 
+society of a few friends is that from which most 
+pleasure and satisfaction are to be derived. Under 
+the wing of parents, no notice would be taken of 
+your going into public, or mixing in any amusement ; but the eyes of the world are always placed 
+upon those whose situation may possibly subject 
+them to censure, and even the friendly attentions of 
+one's acquaintance are liable to be misconstrued, so 
+that a lady cannot possibly be too circumspect. I 
+do not mention this to you through apprehension 
+of your erring, but only as approving your determination. 
+</p><p>
+I should spend a very dissipated winter, if I were 
+to accept of one half the invitations I receive, particularly to the routes, or tea and cards. Even 
+Saturday evening is not excepted, and I refused an 
+invitation of that kind for this evening. I have been 
+to one assembly. The dancing was very good ; the 
+company of the best kind. The President and 
+Madam, the Vice-President and Madam, Ministers of 
+State, and their Madams, &c. ; but the room despicable ; the etiquette, it was difficult to say where it 
+was to be found. Indeed, it was not <a href='/results.php?city=new york' rel='city'>New York</a> ; 
+but you must not report this from me. The managers have been very polite to me and my family. I 
+have been to one play, and here again we have been 
+treated with much politeness. The actors came and 
+informed us that a box was prepared for us. The 
+Vice-President thanked them for their civility, and 
+told them that he would attend whenever the President did. And last Wednesday we were all there. 
+The house is equal to most of the theatres we meet 
+with out of France. It is very neat, and prettily 
+fitted up ; the actors did their best ; " The School 
+for Scandal '' was the play. I missed the divine Farren ; but upon the whole it was very well performed. On Tuesday next I go to a dance at Mr. Chew's, and on Friday sup at Mr. Clymer's ; so you 
+see I am likely to be amused. 
+</p><p>
+We have had very severe weather for several 
+weeks ; I think the coldest I have known since my 
+return from abroad. The climate of Old England 
+for me ; people do not grow old half so fast there ; 
+two-thirds of the year here, we must freeze or melt. 
+Public affairs go on so smoothly here, that we 
+scarcely know that Congress are sitting ; North Carolina a little delirious, and Virginia trying to give 
+law. They make some subject for conversation ; 
+but, after all, the bluster will scarcely produce a 
+mouse. 
+</p><p>
+Present me kindly to your mamma and sisters. 
+How I long to send for you all, as in days past ; my 
+dear little boys, too. As to John, we grow every 
+day fonder of him. He has spent an hour this 
+afternoon in driving his grandpapa round the room 
+with a willow stick. I hope to see you in April. 
+Congress will adjourn in March, and it is thought 
+will not meet again till December. 
+</p><p>
+Good night, my dear. Heaven's blessings alight 
+on you and yours, 
+</p><p>
+A. Adams. 
+</p>
+</letter>

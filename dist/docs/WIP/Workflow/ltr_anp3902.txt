@@ -1,0 +1,24 @@
+<letter id="anp3902">
+<recipient first="John" last="Irvine" type="individual"/>
+<p>
+<a rel="month origin" value="3">March</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+SIR: 
+</p><p>
+On receipt of this immediately march, with twenty-five men of your 
+company, to Ninety-Six, and join <a href='/results.php?tla=jaw' rel='colleague'>Col. Williams</a>, in order to guard the 
+prisoners while on trial. You will receive orders from <a href='/results.php?tla=jaw' rel='colleague'>Col. Williams</a> 
+when you arrive at Ninety-Six. Binborough is to supply you with pro 
+visions while on duty. You will have Lieut. Joseph Wardlaw and 
+any others of your company that were prisoners with the Tories, and 
+can be any evidence against any of them. Elijah and Samuel Moore, 
+that were with me at the battle of Kettle Creek, I am well informed 
+have some horses and two rifle guns that were taken at that battle, and 
+as that property belongs to the people in general, you will order them, 
+without loss of time, to bring those effects to me, or they may depend 
+on being prosecuted for the same. 
+</p><p>
+I am, sir, your humble servant, 
+</p><p>
+<a href="/results.php?tla=anp" rel="me">ANDREW PICKENS</a>.  
+</p>
+</letter>

@@ -1,0 +1,57 @@
+<letter id="joj4118">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='5'>5th</a> <a rel="month origin" value="8">Aug.</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am this moment returned from a long conference with 
+<a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a>. Our prospects become more and more 
+promising as we advance in the business. The compensation cases are described in the answer, and the amount of 
+damages will, I have reason to hope, be referred to the decision of commissioners mutually to be appointed by the two 
+governments, and the money paid without delay on their 
+certificates, and the business finished as speedily as may be 
+possible. The question of admitting our vessels into the 
+islands, under certain limitations, is under consideration, and 
+will soon be decided. A treaty of commerce is on the 
+carpet. All other things being agreed, the posts will be included. They contend that the article about the negroes 
+does not extend to those who came in on their proclamation, to whom (being vested with the property in them by 
+the rights of war) they gave freedom ; but only to those who 
+were, bona fide, the property of Americans when the war 
+ceased. They will, I think, insist that British debts, so far 
+as injured by lawful impediments, should be repaired by 
+the United States, by decision of mutual commissioners. 
+These things have passed in conversation, but no commitments on either side — and not to be of any official weight 
+or use whatever. 
+</p><p>
+The king observed to me the other day, " Well, sir, I 
+imagine you begin to see that your mission will probably be successful." — " I am happy, may it please your majesty, to find that you entertain that idea." — " Well, but 
+don't you perceive that it is like to be so ?" — " There are 
+some recent circumstances (the answer to my representation, &c.) which induce me to flatter myself that it will be 
+so." He nodded with a smile, signifying that it was to 
+those circumstances that he alluded. The conversation 
+then turned to indifferent topics : this was at the drawingroom. 
+</p><p>
+I have never been more unceasingly employed than I 
+have been for some time past, and still am. I hope for good, 
+but God only knows. The Wm. Penn sails in the morning. 
+I write these few lines in haste, to let you see that the business is going on as fast as can reasonably be expected ; and 
+that it is very important that peace and quiet should be 
+preserved for the present. On hearing, last night, that one 
+of our Indiamen had been carried into <a href='/results.php?city=halifax' rel='city'>Halifax</a>, I mentioned 
+it to <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a>. He will write immediately by the 
+packet on the subject. Indeed, I believe that they are endeavouring to restore a proper conduct towards us everyv/irre, but it will take some time before the effect can be 
+visible. I write all this to you in confidence, and for your 
+private satisfaction. I have not time to explain my reasons, 
+but they are cogent. "I could fill some sheets with interesting communications, if I had leisure ; but other matters 
+press, and must not be postponed, for " there is a tide in 
+human affairs," of which every moment is precious. Whatever may be the issue, nothing in my power to ensure success shall be neglected or delayed. 
+</p><p>
+With sincere respect, esteem, and attachment, 
+</p><p>
+I am, dear sir, 
+Your obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

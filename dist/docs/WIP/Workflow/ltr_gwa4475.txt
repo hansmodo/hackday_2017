@@ -1,0 +1,77 @@
+<letter id="gwa4475">
+<recipient first="Meshech" last="Weare" type="individual"/>
+<p>
+TO MESHECH WEARE, PRESIDENT OF NEW HAMPSHIRE. 
+</p><p>
+<a href='/results.php?city=weathersfield' rel='city origin'>Weathersfield</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+In consequence of a conference held between the <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> and myself at this place, the French army will march, as soon as circumstances will 
+admit, and form a junction with the American army upon the North River. The accomplishment of the 
+object, which we have in contemplation, is of the utmost importance to America, and will, in all probability 
+be attained, unless there should be a failure on our part In the number of men, which will be required for 
+the operation, or the enemy should withdraw a considerable part of their force from the southward. It is in 
+our own power, by proper exertions, to prevent the former; and, should the latter take place, we shall be amply repaid our expenses, by liberating the southern States, 
+where we have found by experience we are vulnerable. 
+</p><p>
+Upon the calculations, that I have been able in concert with some of the most experienced French and 
+American officers to form, the operation in view will 
+require, in addition to the French army, all the Continental  battalions from New Hampshire to New Jersey 
+inclusive to be completed to their full establishment. 
+You must be sensible, that the measures taken for that 
+purpose, in consequence of the last requisition of Congress, have been very far from answering the end ; as 
+few recruits, comparatively speaking, have yet been 
+sent forward, and of those, many have been discharged 
+on account of their inability. You must also take into 
+consideration, that a number of those men, who were 
+returned when the requisition was made, have since 
+been taken off by the various casualties incident to an 
+army ; I estimate about one sixth of the whole number, and therefore provision must at this time be made 
+to replace them. 
+</p><p>
+From what has been premised, you will perceive, 
+without my urging further reasons, the necessity I am 
+under of calling upon you in the most earnest manner, 
+to devise means to send into the field without delay 
+the number of men, which has been already voted for 
+the completion of the battalions of your State, and the 
+further deficiency of one sixth just mentioned. The 
+term of three years, or for the war, would undoubtedly 
+be preferable to any shorter period ; but if they cannot be obtained on those conditions, necessity must 
+oblige us to take them for the campaign only, which 
+ought to be reckoned to the last day of December. I 
+should hope, that, by proper exertions in collecting and 
+sending forward the men that have been already raised, 
+and compelling by vigorous and decisive methods the 
+delinquent towns to furnish their quotas, the greater 
+part of the men may be collected by the 1st of July. 
+</p><p>
+Arguments surely cannot be wanting to impress the legislature with a due sense of the obligation, which they are under, of furnishing the means now called for. 
+The enemy, counting upon our want of ability, or upon our want of energy, have, by repeated detachments to the southward, reduced themselves in <a href='/results.php?city=new york' rel='city'>New York</a> to a 
+situation, which invites us to take advantage of it ; and, should the lucky moment be lost, it is to be feared that they will, after subduing the southern States, raise 
+a force in them sufficient to hold them, and return again to the northward with such a number of men, as will render <a href='/results.php?city=new york' rel='city'>New York</a> secure against any force, which 
+we can at this time raise or maintain. Our allies in this country expect and depend upon being supported by us in the attempt, which we are about to make, and 
+those in Europe will be astonished, should we neglect the favorable opportunity, which is now offered. 
+</p><p>
+As it is probable, that some militia, in addition to the full complement of Continental troops, may be necessary to support communications and for other purposes, 
+you will be pleased to direct four hundred men to be held in readiness to march within one week after I 
+shall call for them, to serve three months after they 
+have joined the army. And I would take the liberty 
+of requesting, that the executive may be vested with 
+full powers, during the recess, to comply with any further requisition I may make for men, provisions, or 
+the means of transportation, which last may be most 
+essential in the course of our operations, should it become necessary to bring provisions or stores from a 
+distance. 
+</p><p>
+I shall be glad to be favored with an answer as soon 
+as possible, with an assurance of what I may depend 
+upon ; that, if I do not clearly see a prospect of being 
+supported, I may turn my views to a defensive instead 
+of an offensive plan, and save the States and our allies 
+the expense, which would be needlessly incurred by 
+any but an ample and effectual preparation. 
+</p><p>
+I have the honor to be, &c. 
+</p>
+</letter>

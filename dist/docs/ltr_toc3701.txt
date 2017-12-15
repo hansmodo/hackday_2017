@@ -1,0 +1,220 @@
+<letter id="toc3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+State of Yermont, <a href='/results.php?city=arlington' rel='city origin'>Arlington</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+The peculiar situation and circumstances, "with which 
+this State for several years last past has been attended, induce me to address your Excellency on a subject, which nearly concerns her interest, and may 
+have its influence on the common cause of the States 
+of America. 
+</p><p>
+Placing the highest confidence in your Excellency's 
+patriotism in the cause of liberty, and disposition to 
+do Cfual right and justice to every part of America, 
+who have by arms supported their rights against the 
+lawless power of Great Britain, I herein transmit the 
+measures by which this State has conducted her policy for the security of her frontiers ; and, as the design and end of it were set on foot, and have ever 
+since been prosecuted, on an honorable principle (as 
+the consequences will fully evince), I do it with full 
+confidence that your Excellency will not improve it 
+to the disadvantage of this truly patriotic, suffering 
+State; although the substance has already been communicated by Captain Ezra Heacock, employed by 
+Major-<a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a>, by your Excellency's particular 
+direction, and who arrived here with the resolutions 
+of Congress of the 7th day of August last, which appeared in some measure favorable to this State. 
+</p><p>
+I then disclosed to Mm the measures this State 
+had adopted for her security, which, I make no doubt, 
+have by him been delivered to your Excellency ; and 
+though I do not hesitate that you are well satisfied 
+of the real attachment of the Government of this 
+State to the common cause, I esteem it nevertheless 
+my duty to this State, and the common cause at 
+large, to lay before your Excellency, in writing, the 
+heretofore critical situation of this State, and the 
+management of its policy, that it may operate in your 
+Excellency's mind as a barrier against the clamorous 
+aspersions of its numerous, and in many instances 
+potent adversaries. 
+</p><p>
+It is the misfortune of this State to join on the Province of <a href='/results.php?city=quebec' rel='city'>Quebec</a> and the waters of the Lake Chaplain, 
+which affords an easy passage for the enemy to make 
+a descent, with a formidable army, on its frontiers, 
+and into the neighbourhood of the several States of 
+<a href='/results.php?city=new york' rel='city'>New York</a>, New Hampshire, and Massachusetts, who 
+have severally laid claims in part, or in whole, to this 
+State, and who have used every art which they could 
+devise to divide her citizens, to set Congress against 
+her, and finally to overturn the Government, and 
+share its territory among them. The repeated applications of this State to the Congress of the United 
+States to be admitted into the Federal Union with 
+them, upon the liberal principles of paying a just 
+proportion of the expenses of the war with Great Britain, have been rejected, and resolutions passed e:v 
+parte tending to create schisms in the State, and 
+thereby embarrass its efforts in raising men and money 
+for the defence of her frontiers, and discountenancing 
+the very existence of the State. Every article belonging to the United States, even to pickaxes and 
+spades, has been, by Continental Commissaries, ordered out of tills State, at a time when she was erecting 
+a line of forts on her frontiers. At the same time, 
+the State of <a href='/results.php?city=new york' rel='city'>New York</a> evacuated the post of Skeneshorough, for the avowed purpose of exposing this 
+State to the ravages of the common enemy. 
+</p><p>
+The British officers in <a href='/results.php?city=new york' rel='city'>New York</a>, being acquainted 
+with the public disputes between this and the claiming States, and between Congress and this State, 
+made overtures to General Allen in a letter, projecting that Vermont should be a Colony under the Crown 
+of England, endeavouring, at the same time, to draw 
+the people of Vermont into their interest. The same 
+day General Allen received this letter (which was in 
+August, <a href='/results.php?year=1780'>1780</a>), he laid it before me and my Council, 
+who, under the critical circumstances of the State, 
+advised that no answer, either oral or written, should 
+be returned, and that the letter should be safely deposited till further consideration, to which General Allen consented. A few months after, he received a 
+second letter from the enemy, and the same Council 
+advised that General Allen should send both letters 
+to Congress, inclosed in a letter under his signature ; 
+which he did, in hopes that Congress would admit 
+Vermont into the Union ; but they had not the desired effect. 
+</p><p>
+In the fall of the year, <a href='/results.php?year=1780'>1780</a>, the British made a 
+descent up the Lake Champlain, and captured the 
+Forts George and Anne, and appeared in force on the 
+Lake. This occasioned the militia of this State, most 
+generally, to go forth to defend it. Thus the militia 
+were encamped against the enemy near six weeks, 
+when General Allen received a flag from them, with 
+an answer to my letter dated the preceding July to 
+General Haldimand, on the subject of an exchange 
+of prisoners. This flag delivered a letter to General Allen from the Commanding Officer of the enemy, 
+who were then at Crown Point, with proposals for a truce with the State of Vermont, during the negotiating the exchange of prisoners. General Allen sent 
+back a flag of his to the Commanding Officer of the 
+British, agreeing to the truce, provided he would extend the same to the frontier posts of the State of 
+<a href='/results.php?city=new york' rel='city'>New York</a>; which was complied with, and a truce 
+took place, which lasted about three weeks. It was 
+chiefly owing to the military prowess of the militia of 
+this State, and the including the State of <a href='/results.php?city=new york' rel='city'>New York</a> 
+in the truce, that <a href='/results.php?city=albany' rel='city'>Albany</a> and Schenectady did not 
+fall a sacrifice to the ambition of the enemy that campaign. 
+</p><p>
+Previous to the retiring of the enemy into winter quarters, Colonel Allen and Major Fay were commissioned to negotiate the proposed exchange of prisoners. They proceeded so far as to treat with the British Commissioners on the subject of their mission, 
+during which time they were interchangeably entertained with politics, which they treated in an affable 
+manner, as I have been told. But no cartel was 
+settled, and the campaign ended without the effusion 
+of blood. 
+</p><p>
+The Cabinet Council, in the course of the succeeding winter, finding that the enemy in Canada were 
+about seven thousand strong, and that Vermont must 
+needs be their object the ensuing campaign, circular 
+letters were therefore sent from the Supreme Executive Authority of this State, to the claiming States 
+before mentioned, demanding of them to relinquish 
+their claims to this State, and inviting them to join 
+in a solid Union and Confederation against the common enemy. Letters were also sent to your Excellency, and to the States of Connecticul and Rhode 
+Island. Each of these letters stated the extreme circumstances of this State, and implored their aid and 
+alliance, giving them withal to understand, that it 
+was out of the power of this State to lay in magazines, and support a body of men, sufficient to defend 
+this State against the force of the enemy. But to 
+those letters there has been no manner of answer returned. 
+</p><p>
+From all which it appeared, that this State was 
+devoted to destruction by the sword of the common 
+enemy. It appeared to be the more unjustifiable, that 
+the State of Vermont should be thus forsook, inasmuch as her citizens struck the first offensive blow 
+against British usurpation, by putting the Continent 
+in possession of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and more than two hundred pieces of cannon ; with Crown Point, St. John's, 
+and all Lake Champlain; their exertions in defeating 
+General Carleton in his attempts to raise the siege 
+of St. John's ; their assisting in penetrating Canada ; 
+their valor in the battles of Hubbardton, <a href='/results.php?city=bennington' rel='city'>Bennington</a>, 
+and at the Landing, near <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>; assisting in 
+the capture of <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> ; and by being the 
+principal barrier against the power of the enemy in 
+Canada ever since. 
+</p><p>
+That the citizens of this State have by nature an 
+equal right to liberty and independency, with the 
+citizens of America in general, cannot be disputed. 
+And that they have merited it from the United States, 
+by their exertions with them in bringing about the 
+present glorious Revolution, is as evident a truth as 
+any other, which respects the acquired right of any 
+community. 
+</p><p>
+Generosity, merit, and gratitude, all conspire in 
+vindicating the independence of Vermont. But notwithstanding the arguments, which have been exhibited in sundry pamphlets in favor of Vermont, and 
+which have been abundantly satisfactory to the impartial part of mankind, it has been in the power of 
+her external enemies to deprive her of union, confederation, or any equal advantage, in defending themselves against the common enemy. 
+</p><p>
+The winter was thus spent in fruitless attempts to 
+form alliances, but no advantages were procured in favor of this State, except that Massachusetts withdrew 
+her claim, on condition that the United States would 
+concede the independence of Vermont ; but that, if 
+they would not, they would have their snack at 
+the south end of its territory. Still <a href='/results.php?city=new york' rel='city'>New York</a> and 
+New Hampshire were strenuously opposed to the independence of Vermont ; and every stratagem in their 
+power, to divide and subdivide her citizens, were exerted, imagining that their influence in Congress, and 
+the certain destruction, as they supposed, of the inhabitants of this State by the common enemy, could 
+not fail of finally accomplishing their wishes. 
+</p><p>
+In this juncture of affairs, the Cabinet of Vermont 
+projected the extension of their claim of jurisdiction 
+upon the States of New Hampshire and <a href='/results.php?city=new york' rel='city'>New York</a>, 
+as well to quiet some of their own internal divisions 
+occasioned by the machinations of those two governments, as to make them experience the evils of 
+intestine broils, and strengthen this State against 
+insult. The Legislature, accordingly, extended their 
+jurisdiction to the eastward of Connecticut River to 
+the old Mason line, and to the westward to Hudson's 
+River; but, in the Articles of Union, referred the determination of The boundary lines of Vermont, and 
+the respective claiming States, to the final decision 
+of Congress, or such other tribunal as might be mutually agreed on by the contending Governments. These were the principal political movements of the 
+last winter. 
+</p><p>
+The last campaign opening with a gloomy aspect 
+to discerning citizens of this State, being destitute of 
+adequate resources, and without any alliance, and 
+from its local situation to Canada, obliged to encounter the whole force of that Province, or give up its 
+claim to independence and run away, — Vermont, being thus driven to desperation by the injustice of 
+those, who should have been her friends, was obliged 
+to adopt policy in the room of power. And, on the 
+1st day of May last, Colonel Ira Allen was sent to 
+Canada to further negotiate the business of the exchange of prisoners, who agreed on a time, place, and 
+other particulars relating to the exchange. While he 
+was transacting that business, he was treated with 
+great politeness, and entertained with political matters, 
+which necessity obliged him to humor, in that easy 
+manner that might serve the interest of this State in 
+its extreme critical situation, and that its consequences 
+might not be injurious to the United States. The 
+plan succeeded ; the frontiers of this State were not 
+invaded ; and Lord George Germain's letter wrought 
+upon Congress, and procured that from them, which 
+the public virtue of this people could not. 
+</p><p>
+In the month of July last. Major Joseph Fay was 
+sent to the British shipping, on Lake Champlain, who 
+completed an exchange of a number of prisoners, who 
+were delivered at <a href='/results.php?city=skenesborough' rel='city'>Skenesborough</a> in September last: 
+at which time and place Colonel Allen and Major 
+Fay had a conference with the British Commissioners. 
+And no damage, as yet, had accrued to this or the 
+United States from this quarter. And, in the month 
+of October last, the enemy appeared in force at Crown 
+Point and <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> ; but were manoeuvred out of their expedition, and are returned into winter-quarters in Canada, with great safety ; that it might be 
+fulfilled which was spoken by the prophet, "I will 
+put my hook in their nose, and turn them back by 
+the way which they came, and they shall not come 
+into this city (alias, Vermont), saith the Lord." 
+</p><p>
+It remains that I congratulate your Excellency, and 
+participate with you in the joy of your capturing the 
+haughty Cornwallis and his army ; and assure your 
+Excellency that there are no gentlemen in America 
+who enjoy the glorious victor}'' more than the gentlemen of this State, and him who has the honor to 
+subscribe himself your Excellency's devoted and 
+</p><p>
+Most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=toc" rel="me">Thomas Chittenden</a>. 
+</p>
+</letter>

@@ -1,0 +1,113 @@
+<letter id="gom4592">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="3">March</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am to acknowledge the receipt of yours of the seventeenth of December, which reached me several days ago, but no good opportunity then presented itself to convey a reply. The 
+idea you formed of the British cabinet was, I am persuaded, perfectly just. This government has lately taken some steps, 
+which cannot but be advantageous to their rivals, for T am persuaded that the late duress laying a heavy duty on oil, giving 
+a great preference of duty on tobacco imported in French 
+ships, and declaring that none but those built in France shall 
+be reputed French bottoms, will excite much ill humor in 
+America. Those who rule here seem to think, that because 
+the old government was sometimes wrong, everything contrary 
+to what they did must be right ; like Jack in the Tale of the 
+Tub, who tore his coat to pieces in pulling off the fringe, points, 
+and trimmings that Peter had put on. Or like the Old Congress in its young days, which rejected the offer of valuable 
+contracts, and employed a host of commissaries and quarter 
+masters, because Great Britain dealt with contractors. 
+</p><p>
+In the debate on this subject one of the Lameths gave it as 
+his opinion, that America was not in a situation to be either 
+sought or feared for some time to come. This, which is not 
+however the sentiment of the party, occasioned some hints in 
+the close of the observations I sent to M. de Montmorin, and 
+of which a copy has been transmitted to Mr Jefferson. I 
+hope that the Congress will not act precipitately in consequence 
+of these decrees, for I believe that proper representations in a 
+proper moment will produce a change, and really, in the pre 
+sent effervescence, very few acts of the Assembly can be considered as deliberate movements of national will. 
+</p><p>
+Congress has commenced its third session. Our affairs assume 
+a good aspect. Public credit is high, and stocks have arisen amazingly. Except the disturbances occasioned by a few hostile Indians on 
+our western frontier (instigated thereto, I am persuaded, by the British 
+traders,) and some remains of the old leven, the wheels of government 
+move without interruption, and gather strength as they move. The 
+numbers of our people, so far as they can be ascertained by the present 
+state of the census, will not fall short, it is said, of five millions ; some 
+think more. Whilst this will on the one hand astonish Europe, it 
+may on the other add consequence to the union of these Stales. 
+There still continue to be three parties here. The Enrages, 
+long since known by the name of Jacobins, have lost much in 
+the public opinion, so that they are less powerful in the Assembly than they were ; but their Committees of Correspondence, 
+(called Societes Patriotiques) spread all over the kingdom, have 
+given them a deep, strong hold of the people. On the other 
+hand, the numerous reforms, some of them unnecessary and all 
+either harsh, precipitate, or extreme, have thrown into the aristocratic party a great number of discontented. The military, who 
+as such look up to the sovereign, are somewhat less factious than 
+they were, but they are rather a mob than an army, and must, I 
+think, fall either to the Aristocratic or Jacobin side of the question. 
+</p><p>
+The middle men are in a whimsical situation. In the Sen 
+ate they follow the Jacobin counsels, rather than appear connected with the other party. The same principle of shame-faced-ness operates on great occasions out of doors ; but as the Aristocrats have been forced down by a torrent of opinion from the 
+heights of their absurd pretensions, and as the middle men begin 
+to be alarmed at the extremities to which they have been hurried, these two parties might come together, if it were not for 
+personal animosities among the leaders. This middle party 
+would be the strongest, if the nation were virtuous ; but, alas, 
+this is not the case, and therefore I think it will only serve as a 
+stepping stone for those, who may find it convenient to change 
+sides. 
+</p><p>
+In the midst however of all these confusions, what with confiscating the church property, selling the domains, curtailing 
+pensions, and destroying offices, but especially by that great liquidater of public debts, a paper currency, this nation is working its way to a new state of active energy, which will I think 
+be displayed as soon as a vigorous government shall establish 
+itself. The intervening confusions will probably call forth men 
+of talents to form such government and to exert its powers. 
+</p><p>
+In a letter I had the honor to write on the twenty-second of 
+November, I mentioned a treaty made between the Baltic powers. I do not know whether I drew this idea from information 
+or conjecture, but it was in my mind and still continues there. 
+While in England waiting at Whitehall for the Duke of Leeds, 
+who was accidentally prevented from keeping his appointment, 
+I had a long conversation with Mr Burgess, who seemed desirous of convincing me, that he was an efficient man in the office of Foreign Affairs. I asked him whether such treaty existed, insinuating that he must certainly be informed of every 
+movement in that, as in every other quarter. He assured me 
+positively that it did not ; but that assurance did not alter my 
+opinion. Indeed the object of my question was to discover, 
+whether they were at all upon terms with Sweden, and from 
+what afterwards passed, I am persuaded that they are not. I 
+must add that my inquiries here have been answered in the 
+same way, but yet I believe that such a treaty exists. He 
+spoke a good deal of the convention with Spain, and I declared 
+freely my opinion, which being favorable to the administration, 
+drew from him in support of it a history of the negotiation. It 
+ended (as he said) in this remarkable manner. The Count de 
+Florida Blanca, upon hearing of the revolt of the French Marine, 
+told the British Ambassador ; You insist on the terms to which 
+I am now about to agree, not because they are just, but be 
+cause I am compelled to it. If France would assist us I would 
+never submit ; but we are not able singly to cope with you, and 
+therefore you must do as you please. You will judge, my 
+dear Sir, how long such a treaty is likely to last. 
+</p><p>
+I am delighted with the account you give me of our public 
+affairs. There can be no doubt that a publication of the census, and a clear state of our finances, will impress a sense of 
+our importance on the statesmen of Europe. We are now get 
+ting forward in the right way, not by little skirmishing advantages 
+of political manoeuvres, but in a solid column of well formed national strength. Like Father Mason's aristocratic screw, which 
+you doubtless remember, at every turn we shall now gain and 
+hold what we get. It is no evil that you should have a little of 
+the old leven. I have always considered an opposition in free 
+governments as a kind of outward conscience, which prevents 
+the administration from doing many things through inadvertence, 
+which they might repent of. By these means both men and 
+measures are sifted, and the necessity of appearing as well as of 
+being right confirms and consolidates the good opinion of society. I expect and am indeed certain, that this good opinion 
+will live with you during life, and follow weeping to your grave. 
+I know you will continue to deserve it, and I hope you may long 
+live to vex your enemies by serving your country. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

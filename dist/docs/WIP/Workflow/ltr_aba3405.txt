@@ -1,0 +1,94 @@
+<letter id="aba3405">
+<recipient first="John" last="Shaw" type="individual"/>
+<a href='/results.php?city=auteuil' rel='city origin'>Auteuil</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1785" rel="origin">1785</a>. 
+</p><p>
+I find, Sir, what I never doubted, that you are 
+a gentleman of your word. I thank you for the 
+agreeable proof which you have given me of it ; 
+and, that I may not be wanting in punctuality, I have 
+taken my pen to discharge the debt which I acknowledge is due to you. 
+</p><p>
+Amongst the public edifices which are worthy 
+of notice in this country, are several churches. 
+I went, a few days since, to see three of the most 
+celebrated in Paris. They are prodigious masses 
+of stone buildings, and so surrounded by houses 
+which are seven stories high, that the sun seldom 
+enlightens them. I found them so cold and damp, 
+that I could only give them a very hasty and transient survey. The architecture, the sculpture, the 
+paintings, are beautiful indeed, and each of them 
+would employ my pen for several pages, when the 
+weather will permit me to take a more accurate 
+and critical inspection of them. These churches 
+are open every day, and at all times of the clay ; so 
+that you never enter them without finding priests 
+upon their knees, half a dozen at a time, and more 
+at the hours of confession. All kinds of people and 
+of all ages go in without ceremony, and regardless of 
+each other ; fall upon their knees, ci'oss themselves, 
+say their Pater-nosters and Ave -Marias silently 
+and go out again without being noticed or even 
+seen by the priests, whom I found always kneeling 
+with their faces towards the altar. Round these 
+churches, (for they have not pews and galleries as 
+with us, chairs alone being made use of,) there are 
+little boxes or closets about as large as a sentry-box, 
+in which is a small grated window, which communicates with another closet of the same kind. One of 
+them holds the person who is confessing, and the 
+other the confessor, who places his ear at this window, hears the crime, absolves the transgressor, and 
+very often makes an assignation for a repetition of 
+the same crime, or perhaps a new one. T do not 
+think this a breach of charity ; for can we suppose, 
+that, of the many thousands whom the religion of 
+the country obliges to celibacy, one quarter part of 
+the number can find its influence sufficiently powerful to conquer those passions which nature has implanted in man, when the gratification of them will 
+cost them only a few livres in confession ? 
+</p><p>
+I was at the Church of St. Roch about ten o'clock 
+in the morning, and, whilst I was there, about three 
+hundred little boys came in from some charity seminary which belongs to that church. They had books 
+in their hands. They followed each other in regular order, and fell upon their knees in rows like 
+soldiers in rank and file. There might have 
+been fifty other persons in the church at their 
+devotion. Every thing was silent and solemn 
+throughout this vast edifice. I was walking with a 
+slow pace round it, when, all at once, the drear 
+silence which reigned was suddenly broken by all 
+these boys at one instant chanting with loud voices, 
+which made the dome ring, and me start, for I had 
+no apprehension of any sound. I have never been 
+to any of these churches upon a Sunday. When the 
+weather is warmer, I design it. But their churches 
+seem rather calculated to damp devotion than excite it. I took such a cold there as I have not had 
+since I have been in France. I have been several 
+times to the chapel of the Dutch ambassador, and 
+should go oftener if I could comprehend the discourses, which are all in French. I believe the 
+American embassy is the only one to which chaplains are not allowed. Do Congress think that their 
+ministers have no need of grace ? or that religion 
+is not a necessary article for them ? Sunday will 
+not feel so to me whilst I continue in this country. 
+It is high holiday for all France. 
+</p><p>
+We had a visit the other day from no less a personage than Abbe Thayer, in his habit, who has become a convert. His visit was to me, I suppose, for 
+he was a perfect stranger to <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>. He told 
+us that he had spent a year at Rome, that he belonged to a seminary of St. Sulpice in Paris, that he 
+never, knew what religion was, until his conversion, 
+and that he designed to return to America in a year 
+or two, to see if he could not convert his friends and 
+acquaintance. After talking some time in this style, 
+he began to question <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> if he believed the 
+Bible, and to rail at Luther and Calvin; upon which 
+<a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> took him up pretty short, and told him 
+that he was not going to make a father confessor of 
+him, that his religion was a matter that he did not 
+look upon himself accountable for to any one but 
+his Maker, and that he did not choose to hear either 
+Luther or Calvin treated in such a manner. Mr. 
+Abbe took his leave after some time, without any 
+invitation to repeat his visit. 
+</p><p>
+I am very truly yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

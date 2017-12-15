@@ -1,0 +1,18 @@
+<letter id="nib5314">
+<recipient first="Edward" last="Biddle" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a><a rel="month origin" value="3">March</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1837' rel="origin">1837</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+... I have made up my mind to two things which\ 
+I give to you as elements in your calculations I st That it 
+is not our interest to prop people who must fall and there 
+fore I shall not be inclined to advance a dollar further for / 
+any body unless under very peculiar circumstances, and 2. / 
+That the Treasury Circular will not be immediately repealed. 
+Such at least is the present intension of the Chief who is al 
+ready discovered to be weak &amp; vacillating. How this will affect 
+your money market you can best judge . . . 
+</p>
+</letter>

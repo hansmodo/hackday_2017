@@ -1,0 +1,39 @@
+<letter id="bea3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Yesterday, I had the honor to receive your Excellency's letter of the 7th, and am very happy to hear 
+such favorable accounts from the southward. I hope our affairs in that quarter will soon wear a more 
+pleasing aspect than ever. 
+</p><p>
+Colonel Sheldon complains to me that his horses 
+are much worn down ; and the inhabitants of Westchester complain, that the country is not sufficiently 
+guarded against the enemy. I have, therefore, sent 
+Colonel Hay fifty men from <a href='/results.php?city=west point' rel='city'>West Point</a>, as more eligible than taking them from the lines. Mr. Stephens 
+informs me that there are one hundred hogsheads of 
+rum at Springfield, but that teams cannot be procured to bring it on. 
+</p><p>
+I came here this morning, in order to establish 
+signals, to be observed in case the enemy came up 
+the river ; to give some directions respecting the 
+guard-boats ; and to have a beacon fixed upon the 
+mountain, about five miles south of King's Ferry, 
+which will be necessary to alarm the country. The 
+one fixed there formerly has been destroyed. 
+</p><p>
+There are some cannon at <a href='/results.php?city=west point' rel='city'>West Point</a>, which are 
+of little service, except for signal-guns. " I propose 
+sending two of them to Colonel Gouvion, for that 
+purpose, if agreeable to your Excellency. A supply 
+of cattle, for some, days, had arrived at <a href='/results.php?city=west point' rel='city'>West Point</a> 
+before I left it. I am informed that considerable 
+numbers have been crossed at King's Ferry. I am 
+in hopes the army will be better supplied in future. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">Benedict Arnold</a>.
+</p>
+</letter>

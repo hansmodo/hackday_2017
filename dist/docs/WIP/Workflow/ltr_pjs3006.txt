@@ -1,0 +1,210 @@
+<letter id="pjs3006">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The day after I did myself the honor to write your Excellency from <a href='/results.php?city=albany' rel='city'>Albany</a>, I set out for this place and arrived here on the 30th ultimo, much 
+indisposed with a bilious fever. Next day I followed <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a>, whom I overtook on the 4th instant at the Isle-la-Motte, he having "been 
+detained by adverse winds and rainy weather. On 
+that day we moved on to Isle-aux-Noix, twelve miles 
+south of St. John's. On the 5th I drew a Declaration, (but was so ill that it is not such as I could 
+wish, a copy of which you have inclosed,) which I 
+sent into Canada by Major Brown and Mr. Allen; 
+and as we judged that going to St. John's, weak as 
+we were, (our numbers not exceeding one thousand, 
+and the little artillery we had not come up,) might 
+have a good effect on the Canadians and encourage them to join us, we resolved upon the measure, 
+and landed our baggage and provisions, except for 
+four days, and early on the 6th embarked, and, with 
+out any obstructions, proceeded towards St. John's. 
+When we arrived in sight of it, and at the distance 
+of about two miles, the enemy began to cannonade, 
+but did us no damage. We approached half a mile 
+nearer and then landed without opposition, in a close, 
+deep swamp, which extended to very near the fort. 
+Here we formed, and marched in the best order 
+we could towards the fort, to reconnoitre. Major 
+Hobby, of Waterbury s, with a detachment flanked 
+the left wing, and was something advanced before 
+the main body, when he was attacked, in crossing a 
+deep muddy brook, by a party of Indians, from 
+whom he received a heavy fire; but our men pushing  on, they soon gave way and left us the ground. 
+In the rencounter we had a sergeant, a corporal, 
+and three privates killed, and one missing ; eight privates wounded, three of whom died the ensuing 
+night; Major Hobby shot through the thigh, Captain 
+Mead through the shoulder, and Lieutenant Brown in the hand. These gentlemen are all out of danger. Night coming on, and the swamp being almost 
+impassable, we drew our men together, and east up a 
+small intrenchment to defend ourselves in case of an 
+attack in the night. In the evening a gentleman, 
+Mr. (whose name I can only mention to your Excellency, not having even ventured it to the Congress, and therefore beg you to erase the scored part of the letter after persual,) came to me and 
+| gave me the following account; "That there were 
+no regular troops in Canada, but the twenty-sixth 
+regiment; that all these, except fifty at Montreal, 
+were at St. John's and Chamblee ; that there were 
+then at St. John's about one hundred Indians, and 
+that there was a considerable body with Colonel 
+Johnson; that the fortifications were complete and 
+strong, and plentifully furnished with cannon; that 
+the vessel was launched, and had one mast in and 
+the other ready to raise; that she would be ready 
+to sail in three or four days, and is to carry six 
+teen guns; that he does not believe that our army 
+will be joined by one Canadian; that they wish 
+to be neuter on the occasion, but if we should 
+penetrate into Canada, it would not displease them, 
+provided their persons and properties were safe, and 
+w r e paid them in gold and silver for what we had ; 
+that in the situation we were in he judged it 
+would be imprudent to attack St. John's, and advised us to send some parties amongst the inhabit 
+ants, and the remainder of the army to retire to 
+the Isle-aux-Noix, from whence we might have an 
+intercourse with Laprairie. He told me that in 
+the afternoon's engagement five Indians were killed 
+and four badly wounded, besides several others the 
+condition of whose wounds he did not know, and Captain Tyce, of Johnstown, who was "badly wounded in the belly." 
+</p><p>
+On the 7th, in the morning, (having "been undisturbed through the night excepting by a few shells, 
+which did no other damage than slightly wounding  Lieutenant Mills,) I called a council of war 
+of all the field officers present, to whom I communicated the information I had received, and in 
+close a copy of their opinion, which, being perfectly consonant to my own, I immediately ordered the troops to embark, and we retired. 
+</p><p>
+On my return to Isle-aux-Noix I immediately 
+began to fortify the place, and to throw a boom 
+across the channel, until my artillery should come 
+up. On the 9th I received a letter from Canada, 
+without signature, but which I knew to be writ 
+ten by Mr. James Livingston (copy inclosed). As 
+I had through other channels a collaboration of 
+the intelligence contained in the former part of his 
+letter, I resolved, as I had not yet iny artillery, 
+to detach five hundred men into Canada, and gave 
+orders on the 9th for their embarkation on the 10th, 
+with an additional number of about three hundred, 
+to cover their landing and bring back the boats. 
+(Copy of my instructions to the commanding officer 
+inclosed.) 
+</p><p>
+For the event of this intended expedition, see the paper which was drawn and delivered me by 
+one of the party, and, from what I can learn, is just. 
+</p><p>
+This body returned on Monday, the 11th. On 
+Tuesday, the 12th, I found I had upwards of six 
+hundred sick, Waterbury's regiment being reduced 
+to less than five hundred. <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> (for 
+I was too ill to leave my bed) perceived, however, with pleasure, that the men were unable to 
+bear the reproach of their late unbecoming behaviour ; and, taking advantage of this happy return 
+to a sense of their duty, on the 13th I issued the orders contained in the paper Number Six. The 14th proved rainy, and retarded the embarkation of the cannon. On this day Colonel Allen 
+arrived and made the report, Number Seven; and I 
+found myself so much better that I had hopes of 
+moving with the army, but by ten at night my 
+disorder reattacked me with double violence, and 
+every fair prospect of a speedy recovery vanished. 
+Great part of the 15th rainy, the embarkation 
+much retarded by it. On the same day I received 
+the letter of which Number Eight is a copy. On 
+the 16th I was put into a covered boat, and left 
+Isle-aux-Noix ; and as it rained part of the day, I 
+do not suppose that <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> could 
+move until the 17th, which proved fair. 
+</p><p>
+The mode of the intended attack on St. John's, 
+as judged best both by <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> and 
+myself was as follows; to land as near the fort 
+as we did the first time we went down ; the two 
+row-galleys carrying a twelve-pounder each, and well 
+manned; the sloop and schooner and ten bateaux 
+with picked men, to lay in the river, ready to 
+attack the enemy's schooner (which is complete and 
+carries sixteen guns) in case she should attempt 
+to destroy our boats, or get to the southward of 
+them, and thereby effectually cut off all communication between this place and the army. After 
+this naval arrangement (which will take three hundred and fifty men), five hundred men to be sent 
+as a corps of observation to intercept any succours 
+between St. John's and Chamblee, and to keep as 
+near the former as possible; two hundred men at 
+the proposed landing to cover the boats and secure 
+a retreat for the men in the vessels and boats, 
+should the enemy's vessel [intercept them] ; the remainder of the army to invest the place, make the 
+approaches, and erect the batteries. 
+</p><p>
+You will perceive, by Number Five, that some of 
+the enemy's boats fired on our people. Captain 
+Douglas, who commands one of our armed boats, 
+pointed and fired a twelve-pounder, loaded with ball 
+and grape-shot, at them, and we have accounts that 
+about thirty of the unfriendly Canadians were killed 
+or drowned. In the first engagement, on the 7th, 
+we killed them six Indians, two Caghnawagas, as 
+many Mohawks, (Daniel, and Williani, a bastard 
+son of Sir William Johnson s,) one Connasadago, 
+and one Huron; and w j e are informed, by a Caghnawaga and Huron whom I left at Isle-aux-Noix, 
+that not an Indian remained at St. John's, and 
+which I believe to be true. Four deputies, who 
+were sent by the Six Nations, and left Isle-aux-Noix 
+on the 10th, to request the Canadian Indians to remain neuter, were not returned when I left Isle-aux-Noix. I have taken the liberty to desire General 
+Montgomery to make a present, in the name of the 
+Congress, to the Canadian Indians, if he should 
+think it necessary. 
+</p><p>
+Since the affair of the 10th, the army at Isle-aux-Noix, which then consisted of thirteen hundred and 
+ninety-four effectives, all ranks included, has been 
+reinforced by Captain Livingston's company of New 
+Yorkers, nearly complete; on the 16th, by Colonel 
+Warner, whom I met, an hour after my departure 
+with one hundred and seventy Green Mountain Boys 
+(being the first that have appeared of that boasted corps) ; he left this with about fifty more, "but they 
+mutinied, and the remainder are at Crown Point. 
+Captain Allen's company, of the same corps, arrived 
+here last night, every man of which was raised in 
+Connecticut. About one hundred men of Colonel 
+Bedel's, from New Hampshire, (his corps was to 
+have been up a fortnight before, the remainder, one 
+hundred and fifty of that body, were yet to come) 
+joined, the 16th, at night; and I suppose the artillery company, under Captain Lamb, will join them 
+to-day. These last were indispensably necessary, as 
+we had none that knew r any thing of the matter; so 
+that the whole reinforcement consists of about four 
+hundred. Yesterday I sent off sixty of Easton s, and 
+one hundred and forty more are just embarking; 
+this is the whole of that corps. About one hundred 
+and twenty-five, of the first <a href='/results.php?city=new york' rel='city'>New York</a> battalion, will 
+embark early to-morrow, together with the company 
+of Green Mountain Boys, consisting of about seventy. 
+</p><p>
+Two hundred and sixty, of the third <a href='/results.php?city=new york' rel='city'>New York</a> battalion, remain here, which I will forward on as 
+soon as I can procure craft, which is building slowly, as most of the carpenters are gone home sick. 
+</p><p>
+Your Excellency's letter, of the 8th instant, I received yesterday. I am happy to learn that the 
+troops under the command of <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a></a> were to march so soon. I hope our people will commit 
+no depredations in Canada; all possible care will be taken of it; but yet I have many fears on that 
+score, as they stole thirty-two sheep at Isle-aux-Noix, contrary to the most pointed orders. 
+</p><p>
+Be assured, Sir, that I shall not fail of giving you 
+the most early intelligence of every occurrence worthy your attention. 
+</p><p>
+I find myself much better, as the fever has left 
+me, and hope soon to return where I ought and 
+wish to be, unless a "barbarous relapse should dash 
+this cup of hope from my lips. 
+</p><p>
+The number of sick is incredible, and I have 
+very little assistance to afford them. I wish I could 
+make you a return of the army under my command; but I cannot get one; a great deal of foul 
+play is carrying on. 
+</p><p>
+I am indebted to General Lee and <a href='/results.php?tla=jor' rel='colleague met'><a href='/results.php?tla=jor' rel='colleague met'>Colonel Reed</a></a> 
+for a letter, but I am too feeble to write. Be 
+pleased to assure them of my respect, and be so 
+good as to make my compliments acceptable to all 
+the gentlemen of your suite. I am, dear Sir, your 
+Excellency's 
+</p><p>
+Most obedient and most 
+</p><p>
+Humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

@@ -1,0 +1,24 @@
+<letter id="mbc7642">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='6'>6th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Paul Hayne, the poet, has taken rooms here. My husband came and offered to buy me a pair of horses. 
+He says I need more exercise in the open air. "Come, now, are you providing me with the means of a rapid retreat? " 
+said I. "I am pretty badly equipped for marching. " 
+</p><p>
+<a href='/results.php?tla=rog' rel=''>Mrs. Rose Greenhow</a> is in Richmond. One-half of the 
+ungrateful Confederates say <a href='/results.php?tla=wls' rel=''>Seward</a> sent her. My husband says the Confederacy owes her a debt it can never pay. 
+She warned them at Manassas, and so they got <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> and his Paladins to appear upon the stage in the very nick 
+of time. In Washington they said Lord Napier left her a legacy to the British Legation, which accepted the gift, unlike the British nation, who would not accept Emma Hamilton and her daughter, Horatia, though they were willed to 
+the nation by Lord Nelson. 
+</p><p>
+Mem Cohen, fresh from the hospital where she went with a beautiful Jewish friend. Rachel, as we will call her 
+(be it her name or no) , was put to feed a very weak patient. Mem noticed what a handsome fellow he was and how quiet 
+and clean. She fancied by those tokens that he was a Gentleman. In performance of her duties, the lovely young 
+nurse leaned kindly over him and held the cup to his lips. When that ceremony was over and she had wiped his 
+mouth, to her horror she felt a pair of by no means weak arms around her neck and a kiss upon her lips, which she 
+thought strong, indeed. She did not say a word ; she made no complaint. She slipped away from the hospital, and 
+hereafter in her hospital work will minister at long range, no matter how weak and weary, sick and sore, the patient 
+may be. And, said Mem, "I thought he was a gentle man." " Well, a gentleman is a man, after all, and she 
+ought not to have put those red lips of hers so near.
+</p>
+</letter>

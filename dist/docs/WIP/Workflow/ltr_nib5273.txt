@@ -1,0 +1,21 @@
+<letter id="nib5273">
+<recipient first="Thomas" last="Cadwalader" type="individual"/>
+<p>
+<a rel="month origin" value="5">May</a> <a rel='day origin' value='30'>30</a>. <a href='/results.php?year=1832' rel="origin">1832</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On my arrival I began with a full and frank conversation with Mr. McLane on the subject of the Bank and at 
+his suggestion saw Mr. Livingston after which they conferred and I saw Mr. Livingston. 
+</p><p>
+The general purport of my communication was this. The investigation has given a new aspect to our affairs it disarms, or ought to disarm some of the hostility hitherto entertained toward it, and furnishes a new motive for pressing a 
+decision. Under these circumstances it would be very agreeable if the Executive would concur in promoting the object 
+which we would gladly attain by accepting such modifications as would be agreeable to the administration. I stated 
+moreover the extreme awkwardness of having such a measure before Congress while the Department to which it belonged 
+had no cognizance of it and my anxiety to cooperate with the Executive in modifying and perfecting the measure. I need 
+not detail peculiarity of their situation which makes them passive and all that I could learn from Mr. Livingston was 
+that the awkwardness was irretrievable and that it only remained to make the bill as unexceptionable as possible. 
+</p><p>
+We have then parted good friends. 
+</p>
+</letter>

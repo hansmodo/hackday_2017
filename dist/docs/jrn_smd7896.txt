@@ -1,0 +1,10 @@
+<letter id="smd7896">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="10">October</a> <a rel='day origin' value='6'>6th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+Last night, I actually drew from Gibbes the outlines of <a href='/results.php?tla=tjj' rel=''>Jackson's</a> campaign. He told me of some 
+heroic deeds of his fellow soldiers; but of his own, not a word. I have seen his name too often in the 
+papers, to believe that he has no deeds of his own to relate, if he only would. 
+</p><p>
+</letter>

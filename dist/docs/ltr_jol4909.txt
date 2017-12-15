@@ -1,0 +1,95 @@
+<letter id="jol4909">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="11">Novem.</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+Since I had the pleasure of writing to you by 
+Baron Frey, and the Chevalier du Portail, the siege 
+of Fort Mifflin has been continued with great vigour and the new batteries open'd by the enemy on the 
+10th have thrown their 24 and 32 pounders with 
+great success. A considerable breach was made on 
+the 11th in the masonry of the fort, many palisades 
+were level'd, the block houses almost ruin'd, several 
+cannon dismounted, and a valuable artillery officer 
+kill'd. In these circumstances the commanding officer Lieut. Col. Smith thought proper to consult with 
+Brigadier Gen'l Varnum who is stationed at Woodberry near Fort Mercer on Red Bank, upon the 
+propriety of evacuating the post. It was determined 
+that the superfluous cannon, provisions and artillery 
+stores should be removed and that a show of de 
+fence should be kept up as long as possible. The 
+commander in chief considering the importance of 
+this place, which if it should fall into the enemy's 
+hands would enable them to annoy our fleet and even 
+drive it from the defence of the chevaux de frise, at 
+first gave positive orders to maintain it at all events. 
+These, however, were changed for discretionary orders 
+in consequence of the great injury which the works 
+had sustained. On the night of the 11th the enemy's 
+fire interrupted the repairs of the fort. Three of their small vessels pass tl between Province Island and the fort to the mouth of the Sclmylkil. On the 
+12th there was a great firing and two eighteen 
+pounders dismounted. At night the enemy threw 
+shells and the garrison was alarmed by thirty of their 
+boats. On the 13th they open'd a new battery; our 
+block houses were destroyed ; each day there were a 
+few kill'd and wounded. The garrison exhausted by 
+watching labour and ill health have been relieved. 
+The enemy have not been tempted by the success of 
+their batteries to storm a small number of men who 
+maintained their ground in the ruins of the fort. 
+I certainly think it practicable by nocturnal labours 
+to complete a work which will bid defiance to storm, 
+and cover the garrison from their 32 pounders. The 
+engineer who is on the spot, Major Floury, a French 
+man, will do every thing that can be done. His zeal 
+and talents recommend him to public notice. To 
+night the enemy have renewed their tiring. 
+</p><p>
+13th. Nothing like a storm yet from the detachment on Province Island. They content themselves 
+with battering by day, and interrupting as much as they can our fatigue parties at night by firing from time to time in which the moonlight is serviceable to them. 
+</p><p>
+14th. Early this morning a floating battery armed with two heavy cannon was discover'd near the shore of Province Island. The new commandant at Fort 
+Mifflin thinks the post tenable in spite of the enemy's land and water batteries. The Engineer Fleury says if lie is supplied from Red Bank with fascines, 
+gabions, earth and fatigue-men, he will repair as much as possible each night the havoc made by day. 
+What he will principally aim at will be the construction of some flanked work (shaped according to circumstances) which in case the block houses sh'd be 
+irreparably lost, may enable the garrison to resist a storm. 
+</p><p>
+15. There has been firing in the course of the day 
+and some scatter'd guns in the evening. 
+</p><p>
+16. Every account given by persons of different sexes 
+and ages who have left <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> agrees in these 
+points, that the inhabitants are exceedingly distressed 
+for want of provision. Officers and soldiers humbled 
+by the unexpected resistance of the forts, begin to 
+express great anxiety on account of their present 
+situation that our unhappy prisoners are treated 
+with a barbarity which I think the Britons can only 
+venture to be guilty of, because they persuade them 
+selves the relation of it will not be believed in the 
+present refined age. 
+</p><p>
+Gentlemen return'd from reconnoitering on the 
+other side of Schuylkil say that the Continental flag 
+was flying at Fort Mifnin yesterday evening, that the 
+enemy by lightering a frigate of her guns had towed 
+her through a shallow channel between Hog Island 
+and Province Island. 
+</p><p>
+With this you will receive a <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> paper and a printed handbill which is one of a great number 
+lately found in a chest at East Town. The direction 
+of the chest is rubb'd off and there were no manuscripts within by which the owner could be discover d; 
+each handbill was inscribed with the address which 
+you see on this. Capt. Robinson calls for my letter. 
+</p><p>
+Adieu my dear Father. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I had closed my letter persuaded that Fort Mifflin was still ours, when an officer from Red Bank enter'd with Gen'l Yarnum's dispatches. The enemy's fire 
+yesterday was universal. Ships, batteries, land and water, one of the latter stationed near the fort threw 
+in hand grenades our brave garrison suffer'd considerably some of our best officers wounded and Gen'l Yarnum, I suppose, ordered the fort to be 
+evacuated last night. The fort has done infinitely more than was expected of it, and we must repair its loss. 
+</p>
+</letter>

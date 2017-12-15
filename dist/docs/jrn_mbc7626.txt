@@ -1,0 +1,23 @@
+<letter id="mbc7626">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mrs. Middleton : "How did you settle Molly's little difficulty with Mrs. McMahan, that piece of 
+her mind that Molly gave our landlady ? "Oh, paid our way out of it, of course, and I apologized for Molly ! 
+</p><p>
+Gladden, the hero of the Palmettos in Mexico, is killed. Shiloh has been a dreadful blow to us. Last winter Stephen, 
+my brother, had it in his power to do such a nice thing for Colonel Gladden. In the dark he heard his name, also that 
+he had to walk twenty-five miles in Alabama mud or go on an ammunition wagon. So he introduced himself as a 
+South Carolinian to Colonel Gladden, whom he knew only by reputation as colonel of the Palmetto regiment in the 
+Mexican war. And they drove him in his carriage comfort ably to where he wanted to go a night drive of fifty miles 
+for Stephen, for he had the return trip, too. I would rather live in Siberia, worse still, in Sahara, than live in a 
+country surrendered to Yankees. 
+</p><p>
+The Carolinian says the conscription bill passed by congress is fatal to our liberties as a people. Let us be a people 
+" certain and sure," as poor Tom B. said, and then talk of 
+rebelling against our home government. 
+</p><p>
+Sat up all night. Read Eothen straight through, our old Wiley and Putnam edition that we bought in London in 
+1845. How could I sleep? The power they are bringing to bear against our country is tremendous. Its weight may 
+be irresistible I dare not think of that, however. 
+</p>
+</letter>

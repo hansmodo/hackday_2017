@@ -1,0 +1,163 @@
+<letter id='thj1445'>
+<recipient first='David' last='Hartley' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, September 5, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+Your favor of April the 15th happened to be put into my hands at the
+same time with a large parcel of letters from America, which contained
+a variety of intelligence. It was then put where I usually place my
+unanswered letters; and I, from time to time, put off acknowledging
+the receipt of it, till I should be able to furnish you American
+intelligence worth communicating. A favorable opportunity, by a courier,
+of writing to you occurring this morning, what has been my astonishment
+and chagrin on reading your letter again, to find there was a case in
+it which required an immediate answer, but which, by the variety of
+matters, which happened to be presented to my mind, at the same time,
+had utterly escaped my recollection. I pray you to be assured, that
+nothing but this slip of memory would have prevented my immediate
+answer, and no other circumstance would have prevented its making such
+an impression on my mind, as that it could not have escaped. I hope
+you will therefore obliterate the imputation of want of respect, which,
+under actual appearances, must have arisen in your mind, but which
+would refer to an untrue cause the occasion of my silence. I am not
+sufficiently acquainted with the proceedings of the <a href="/results.php?city=New York" rel="city">New York</a> Assembly,
+to say, with certainty, in what predicament the lands of Mr. Upton may
+stand. But on conferring with <a href='/results.php?tla=dah' rel='acquaintance met colleague'>Colonel Humphreys</a>, who, being from the
+neighboring State, was more in the way of knowing what passed in New
+York, he thinks that the descriptions in their confiscation laws were
+such, as not to include a case of this nature. The first thing to be
+done by Mr. Upton is, to state his case to some intelligent lawyer
+of the country, that he may know with certainty whether they be
+confiscated, or not; and if not confiscated, to know what measures are
+necessary for completing and securing his grant. But if confiscated,
+there is then no other tribunal of redress but their General Assembly.
+If he is unacquainted there, I would advise him to apply to Colonel
+Hamilton, who was aid to <a href="/results.php?tla=gwa" rel="co-worker met">General Washington</a>, and is now very eminent at
+the bar, and much to be relied on. Your letter in his favor to <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a>
+will also procure him the benefit of his counsel.
+</p><p>
+With respect to America, I will rather give you a general view of
+its situation, than merely relate recent events. The impost is still
+unpassed by the two States of <a href="/results.php?city=New York" rel="city">New York</a> and Rhode Island: for the manner
+in which the latter has passed it does not appear to me to answer the
+principal object, of establishing a fund, which, by being subject to
+Congress alone, may give such credit to the certificates of public debt,
+as will make them negotiable. This matter, then, is still suspended.
+</p><p>
+Congress have lately purchased the Indian right to nearly the whole of
+the land lying in the new State, bounded by lake Erie, Pennsylvania, and
+the Ohio. The northwestern corner alone is reserved to the Delawares and
+Wyandots. I expect a purchase is also concluded with other tribes, for a
+considerable proportion of the State next to this, on the north side
+of the Ohio. They have passed an ordinance establishing a land-office,
+considerably improved, I think, on the plan, of which I had the honor of
+giving you a copy. The lands are to be offered for sale to the highest
+bidder. For this purpose, portions of them are to be proposed in each
+State, that each may have the means of purchase carried equally to their
+doors, and that the purchasers may be a proper mixture of the citizens
+from all the different States. But such lots as cannot be sold for a
+dollar an acre, are not to be parted with. They will receive as money
+the certificates of public debt. I flatter myself that this arrangement
+will very soon absorb the whole of these certificates, and thus rid
+us of our domestic debt, which is four fifths of our whole debt. Our
+foreign debt will be then a bagatelle.
+</p><p>
+I think it probable that Vermont will be made independent, as I am told
+the State of <a href="/results.php?city=New York" rel="city">New York</a> is likely to agree to it. Maine will probably in
+time be also permitted to separate from Massachusetts. As yet, they only
+begin to think of it. Whenever the people of Kentucky shall have agreed
+among themselves, my friends write me word, that Virginia will consent
+to their separation. They will constitute the new State on the south
+side of Ohio, joining Virginia. North Corolina, by an act of their
+Assembly, ceded to Congress all their lands westward of the Allegany.
+The people inhabiting that territory thereon declared themselves
+independent, called their State by the name of Franklin, and solicited
+Congress to be received into the Union. But before Congress met, North
+Carolina (for what reasons I could never learn) resumed their session.
+The people, however, persist; Congress recommend to the State to desist
+from their opposition, and I have no doubt they will do it. It will,
+therefore, result from the act of Congress laying off the western
+country into new States, that these States will come into the Union
+in the manner therein provided, and without any disputes as to their
+boundaries.
+</p><p>
+I am told that some hostile transaction by our people at the Natchez,
+against the Spaniards, has taken place. If it be a fact, Congress
+will certainly not protect them, but leave them to be chastised by the
+Spaniards, saving the right to the territory. A Spanish minister being
+now with Congress, and both parties interested in keeping the peace, I
+think, if such an event has happened, it will be easily arranged.
+</p><p>
+I told you when here, of the propositions made by Congress to the
+States, to be authorized to make certain regulations in their commerce;
+and, that from the disposition to strengthen the hands of Congress,
+which was then growing fast, I thought they would consent to it. Most of
+them did so, and I suppose all of them would have done it, if they have
+not actually done it, but that events proved a much more extensive power
+would be requisite. Congress have, therefore, desired to be invested
+with the whole regulation of their trade, and for ever; and to prevent
+all temptations to abuse the power, and all fears of it, they propose
+that whatever monies shall be levied on commerce, either for the purpose
+of revenue, or by way of forfeitures or penalty, shall go directly into
+the coffers of the State wherein it is levied, without being touched
+by Congress. From the present temper of the States, and the conviction
+which your country has carried home to their minds, that there is no
+other method of defeating the greedy attempts of other countries to
+trade with them on unequal terms, I think they will add an article for
+this purpose to their Confederation. But the present powers of Congress
+over the commerce of the States, under the Confederation, seem not at
+all understood by your ministry. They say that body has no power to
+enter into a treaty of commerce; why then make one? This is a mistake.
+By the sixth article of the Confederation, the States renounce,
+individually, all power to make any treaty, of whatever nature, with
+a foreign nation. By the ninth article, they give the power of making
+treaties wholly to Congress with two reservations only. 1. That no
+treaty of commerce shall be made, which shall restrain the legislatures
+from making foreigners pay the same imposts with their own people: nor
+2. from prohibiting the exportation or importation of any species of
+merchandise, which they might think proper. Were any treaty to be made
+which should violate either of these two reservations, it would be so
+far void. In the treaties, therefore, made with France, Holland, &c.
+this has been cautiously avoided. But are these treaties of no advantage
+to these nations? Besides the advantages expressly given by them, there
+results another, of great value. The commerce of those nations with
+the United States is thereby under the protection of Congress, and no
+particular State, acting by fits and starts, can harass the trade of
+France, Holland, &c. by such measures as several of them have practised
+against England, by loading her merchandise with partial imposts,
+refusing admittance to it altogether, excluding her merchants, &c. &c.
+For you will observe, that though, by the second reservation before
+mentioned, they can prohibit the importation of any species of
+merchandise, as, for instance, though they may prohibit the importation
+of wines in general, yet they cannot prohibit that of French wines in
+particular. Another advantage is, that the nations having treaties with
+Congress, can and do provide in such treaties for the admission of
+their consuls, a kind of officer very necessary for the regulation
+and protection of commerce. You know that a consul is the creature of
+treaty. No nation, without an agreement, can place an officer in another
+country, with any powers or jurisdiction whatever. But as the States
+have renounced the separate power of making treaties with foreign
+nations, they cannot separately receive a consul: and as Congress have,
+by the Confederation, no immediate jurisdiction over commerce, as
+they have only a power of bringing that jurisdiction into existence
+by entering into a treaty, till such treaty be entered into, Congress
+themselves cannot receive a consul. Till a treaty then, there exists no
+power in any part of our government, federal or particular, to admit
+a consul among us: and if it be true, as the papers say, that you have
+lately sent one over, he cannot be admitted by any power in existence
+to an exercise of any function. Nothing less than a new article, to be
+agreed to by all the States, would enable Congress, or the particular
+States, to receive him. You must not be surprised then, if he be not
+received.
+</p><p>
+I think I have by this time tired you with American politics, and will
+therefore only add assurances of the sincere regard and esteem, with
+which I have the honor to be, Dear Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

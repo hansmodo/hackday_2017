@@ -1,0 +1,24 @@
+<letter id='dol1376'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1376'>
+<recipient first='' last='Payne' type='individual'/>
+<p>
+TO MRS. JOHN PAYNE. 
+</p><p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, August 4, <a href="/results.php?year=1806">1805</a>. 
+</p><p>
+Expressions are wanting, my dearest mother, to convey to you my feelings ; I 
+have not been very well since hearing from poor Mary, and it seems to me I can 
+never feel as I have done. Dolly and Lucy both gone ! they are now angels, and 
+can never know evil or misery ; ought we not to console ourselves with this reflection? I trust my beloved mother, whose 
+trials have been so many, will exercise her fortitude, which is to preserve her for 
+those of us that are left. I wrote thee by the last post, and have written repeatedly 
+to John, but received only the inclosed letters. I shall now look out for vessels going to the Mediterranean, and write by 
+them to him ; thine for him, thee had better inclose to me. Payne is to follow us 
+in the stage on the 14th ; I am looking for a letter to cheer me with news of thy health. 
+</p><p>
+Ever thine, affectionately, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY</a>. 
+</p>
+</letter></letter>

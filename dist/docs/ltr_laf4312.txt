@@ -1,0 +1,80 @@
+<letter id="laf4312">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+I am fortunate in this opportunity to wish you a happy new j^ear, and to devote the first moments of 
+this day to the heartfelt pleasure to remind you, my beloved General, of your adoptive son and most affectionate, devoted friend. I beg you will present my 
+best respects to ]\Irs. Washington. Madame de Lafayette joins in the most tender compliments to you 
+and to her ; and I hope, my dear General, that you will be so kind as to mention me very affectionately to all the family and friends. 
+</p><p>
+It is needless for me to tell you, that I read the 
+new proposed Constitution with an unspeakable eagerness and attention. I have admired it, and find in 
+it a bold, large, and solid frame for the Confederation. 
+The election principles, with respect to the two Houses 
+of Congress, are most happily calculated. I am only 
+afraid of two things; — first, the want of a declaration 
+of rights ; secondly, the great powers and possible continuance of the President, who may one day or other 
+become a Stadtholder. Should my observations be 
+well founded, I still am easy on two accounts. The 
+first, that a bill of rights may be made, if wished by 
+the people, before they accept the Constitution. My 
+other comfort is, that you cannot refuse being elected 
+President ; and that, if you think the public vessel 
+can stir without those powers, you will be able to 
+lessen them, or propose measures respecting their permanence, which cannot fail to insure a greater perfection to the Constitution, and a new crop of glory 
+to yourself But^ in the name of America, of mankind at large, and your own fame, I "beseech you, 
+my dear General, not to deny your acceptance of 
+the office of President for the first years. You only 
+can settle that political machine ; and I foresee it will furnish an admirable chapter to your history. 
+</p><p>
+I am returned from the Provincial Assembly of 
+Auvergne, wherein I had the happiness to please the 
+people, and the misfortune to displease the Government 
+to a very high degree. The Ministry asked for an 
+increase of revenue. Our Province w^as among the 
+few who gave nothing, and she expressed herself in 
+a manner which has been taken very much amiss. 
+The internal situation of France is very extraordinary. The dispositions of the people, of which I gave 
+you a picture^ are working themselves into a great 
+degree of fermentation, but not without a mixture of 
+levity and love of ease. The Parliaments are every 
+day passing the boundaries of their Constitution, but 
+are sure to be approved by the nation, when, among 
+many irrational things, they have the good policy to 
+call for a General Assembly. Government see that 
+the power of the Crown is declining, and now want 
+to retrieve it by an ill-timed and dangerous severity. 
+For my part, I am heartily wishing for a Constitution 
+and bill of rights, and wish it may be effected with 
+as much tranquillity and mutual satisfaction as it is 
+possible. 
+</p><p>
+The Emperor has made a foolish attempt on Belgrade, but cannot fail to take it another time, and at 
+the entrance of the spring the two Imperial Courts 
+will open a vigorous and no doubt successful campaign against the Turks. They have been led into 
+a war by Great Britain; and should France take a 
+decisive part, it is more probable she will side with 
+Russia. But this Government will avoid to be committed in the affair, and perhaps will not be the better for it. The King of Prussia is now courting 
+France, and proposes, I think, to withdraw his regiments from Holland ; but this is a very insufficient, 
+and probably a very useless reparation. 
+</p><p>
+Inclosed, my dear General, are an arret of the 
+Council, and a letter to <a href='/results.php?tla=thj' rel='met co-worker'>Mr. Jefferson</a>, both of which, 
+after long negotiations, we have had the satisfaction 
+to obtain. I expected it might be finished before 
+my journey to Auvergne ; but new difficulties have 
+arisen, and <a href='/results.php?tla=thj' rel='met co-worker'>Mr. Jefferson</a> and myself have but lately 
+ended the business. I am more and more pleased 
+with <a href='/results.php?tla=thj' rel='met co-worker'>Mr. Jefferson</a>. His abilities, his virtues, his temper, every thing of him commands respect and attracts 
+affection. He enjoys universal regard, and does the 
+affairs of America to perfection. It is the happiest 
+choice that could be made. Adieu, my dear General. 
+With filial love and respect, I have the honor to be, 
+Your devoted and affectionate friend, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p>
+</letter>

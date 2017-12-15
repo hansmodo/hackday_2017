@@ -1,0 +1,372 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.qD1bQV on line 214
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--alh
+--DOC-AUTHOR-FIRST--Alexander
+--DOC-AUTHOR-LAST--Hamilton
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="alh3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=de peysters point' rel='city origin'>De Peyster's Point</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I imagine your Excellency has been informed that, 
+in consequence of the resolution of Congress for 
+granting commissions to Aids-de-camp appointed under the former establishment, I have obtained one of 
+Lieutenant-Colonel in the army of the United States, 
+bearing rank since the 1st of March <a href='/results.php?year=1777'>1777</a>. 
+</p><p>
+It is become necessary to me to apply to your 
+Excellency to know in what manner j'-ou foresee you 
+will be able to employ me in the ensuing campaign. 
+I am ready to enter into activity whenever you 
+think proper, though I am not anxious to do it till 
+the army take the field, as, before that period, I perceive no object. Unconnected as I am with any regiment, I can have no other command than in a 
+light corps, and I flatter myself my pretensions to 
+this are good. 
+</p><p>
+Your Excellency knows I have been in actual service since the beginning of <a href='/results.php?year=1776'>1776</a>. I began in the 
+line; and had I continued there, I ought, in justice, to 
+have been more advanced in rank than I now am. 
+I believe my conduct, in the different capacities in 
+which I have acted, has appeared to the officers of 
+the army in general such as to merit their confidence 
+and esteem; and I cannot suppose them to be so ungenerous as not to see me with pleasure put into a 
+situation still to exercise the disposition I have always had of being useful to the United States. 
+</p><p>
+I mention these things only to show that I do not 
+apprehend the same difficulties can exist in my case 
+(which is peculiar), that have opposed the appointment to commands, of some other officers not belono-ing to what is called the line. Though the light 
+infantry is chiefly formed, yet being detached to the 
+southward, I take it for granted there will be a vanguard by detachment formed for this army. I have 
+the honor to be, very respectfully, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter><letter id="alh3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=de peysters point' rel='city origin'>De Peyster's Point</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am extremely sorry to have embarrassed you 
+by my late application, and that you should think 
+there are insuperable obstacles to a compliance with 
+it. Having renounced my expectations, I have no 
+other inducement for troubling your Excellency with 
+a second letter, than to obviate the appearance of 
+having desired a thing inconsistent with the good of 
+the service, while I was acquainted with the circumstances which made it so. 
+</p><p>
+I was too interested a spectator of what happened 
+in the case of Major Macpherson, not to have remarked and not to recollect all the circumstances. 
+The opposition turned ostensibly on his being a Brevet Officer, yet having a command in a corps formed 
+entirely from one line. The propriety of his being 
+employed in a detachment from the army at large, 
+so far as I remember, was not disputed. In delicacy 
+to Major Macpherson, no personal objections were formally made ; but in reality they existed, and contributed to the discontent. It was thought a peculiar 
+hardship, that a gentleman who had for a long time 
+fought against us, and had not taken part with us 
+till a late period, and when our affairs had assumed 
+a more prosperous aspect, should he preferred in one 
+of the most honorary commands of the service. Your 
+Excellency must be convinced that I mention this in 
+no other view than to show the sentiments of the 
+officers at the time, and the whole grounds of the 
+opposition. My esteem for Major Macpherson, and 
+other reasons, make it impossible I can have a different intention. 
+</p><p>
+I know less of the motives of dissatisfaction in the 
+cases of Colonel Gimat and Major Gal van; but I have 
+understood that it is founded on their being appointed in the light corps for two successive campaigns. 
+</p><p>
+It would be uncandid in me not to acknowledge 
+that I believe a disposition to exclude Brevet Officers, in general, from command, has a great share in 
+the opposition in every instance, and that, so far, it 
+affects my case. But, at the same time, it appears 
+to me, this principle, alone, can never be productive 
+of more than momentary murmurs, when it is not 
+seconded by some plausible pretext. I also am convinced that the Pennsvlvania officers, for their own 
+sakes, repented the rash steps the} had taken, and, 
+on cool reflection, were happy in an opportunity 
+to relinquish their menaces of quitting a service to 
+which they were attached by habit, inclination, and 
+interest, as well as by patriotism. I believe, too, we 
+shall never have a similar instance in the army, unless the practice should be carried to excess. Major Galvan, I am told, will probably be relieved. Colonel Gimat will then be the only Brevet Officer remaining 
+in command. Your Excellency is the best judge of the proper limits ; and there can be no doubt that 
+the rights of particular officers ought to give place 
+to the general good and tranquillity of the service. 
+</p><p>
+I cannot forbear repeating that my case is peculiar, and dissimilar to all the former. It is distinguished by the circumstances I have before intimated. My early entrance into the service ; my 
+Laying made the campaign of <a href='/results.php?year=1776'>1776</a>, the most disagreeable of the war, at the head of a company of 
+artillery, and having been entitled, in that corps, to 
+a rank equal in degree, more ancient in date, than I 
+now possess ; my having made all the subsequent campaigns in the family of the Commander-in-chief, in a 
+constant course of laborious and important service; — 
+these are my pretensions, at this advanced period of 
+the war, to being employed in the only way which 
+my situation admits ; and I imagine they would have 
+been weighty in the minds of the officers in general. 
+I only urge them, a second time, as reasons which 
+will not suffer me to view the matter in the same 
+light with your Excellency, or to regard as impracticable my appointment in a light corps, should there 
+be one formed. I entreat they may be understood 
+in this sense only. I am incapable of wishing to 
+obtain any object by importunity. 
+</p><p>
+I assure your Excellency that I am too well persuaded of your candor, to attribute your refusal to 
+any other cause than an apprehension of inconveniences that may attend the appointment. I have the 
+honor to be, with perfect respect, Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p><p>
+P. S. I have used the term Brevet in the sense 
+your Excellency appears to have understood it, as signifying, in general, all officers not attached to any 
+established corps. Congress seem, however, to have 
+made a distinction ; they only give a kind of warrant to those whom they designate as Brevet Officers. 
+Mine is a regular commission. 
+</p>
+</letter><letter id="alh3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+[<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.] 
+</p><p>
+Sir, 
+</p><p>
+I need not observe to your Excellency, that respect for the opinion of Congress will not permit me 
+to be indifferent to the impressions they may receive 
+of my conduct. On this principle, though I do not 
+think the subject of the inclosed letter of sufficient 
+importance to request an official communication of it. 
+yet I should be happy it might in some way be 
+known to the members of that honorable body. 
+</p><p>
+Should they hereafter learn that, though retained on the list of their officers, I am not in the execution of 
+the duties of my station, I wish them to be sensible that it is not a diminution of zeal which induces me 
+voluntarily to withdraw my services, but that I only refrain from intruding them, when circumstances seem 
+to have made them either not necessary or not desired, and that I shall not receive emoluments without performing the conditions to which they were 
+annexed. I also wish them to be apprised upon what 
+footing my future continuance in the army is placed, 
+that they may judge how far it is expedient to permit it. I therefore take the liberty to request the 
+favor of your Excellency to impart the knowledge of 
+my situation in such manner as you think most convenient. I have the honor to be, with perfect respect, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter><letter id="alh3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your Excellency will, I am persuaded, readily admit the force of this sentiment, that though it is the 
+duty of a good citizen to devote his services to the 
+public, when it has occasion for them, he cannot, 
+with propriety or delicacy to himself, obtrude them, 
+when it either has, or appears to have, none. The 
+difficulties I experienced last campaign in obtaining a command, will not suffer me to make any further 
+application on that head. 
+</p><p>
+As I have many reasons to consider my being employed hereafter in a precarious light, the bare possibility of rendering an equivalent will not justify to 
+my scruples the receiving any future emoluments 
+from my commission. I therefore renounce, from this 
+time, all claim to the compensations attached to my 
+military station during the war, or after it. But I 
+have motives which will not permit me to resolve on 
+a total resignation. I sincerely hope a prosperous 
+train of affairs may continue to make it no inconvenience to decline the services of persons whose zeal, 
+in worse times, was found not altogether useless; but, 
+as the most promising appearances are often reversed 
+by unforeseen disasters, and as unfortunate events 
+may again make the same zeal of some value, I am 
+unwilling to put it out of my power to renew my 
+exertions in the common cause in the line in which 
+I have hitherto acted. I shall accordingly retain my 
+rank while I am permitted to do it, and take this 
+opportunity to declare, that I shall be at all times 
+[ready] to obey the call of the public, in any capacity, civil or military (consistent with what I owe to 
+myself), in which there may be a prospect of my 
+contributing to the final attainment of the object for 
+which I embarked in the service. I have the honor 
+to be, very respectfully. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter><letter id="alh3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel='day origin' value='22'>22</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Some time last fall, when I spoke to your Excellency about going to the southward, I explained to 
+you candidly my feelings with respect to military 
+reputation, and how much it was my object to act a 
+conspicuous part in some enterprise that might perhaps raise my character as a soldier above mediocrity. You were so good as to say you would be 
+glad to furnish me with an occasion. When the expedition to Staten Island was on foot, a favorable 
+one seemed to offer. There was a battalion without 
+a Field-Officer, the command of which I thought, as 
+it was accidental, might be given to me without inconvenience. I made an application for it through 
+the Marquis, who informed me of your refusal, on two 
+principles ; one, that giving me a whole battalion 
+might be a subject of dissatisfaction ; the other, that, 
+if an accident should happen to me in the present 
+state of your family, you would be embarrassed for 
+the necessary assistance. 
+</p><p>
+The project you now have in contemplation, affords 
+another opportunity. I have a variety of reasons 
+that press me to desire ardently to have it in my 
+power to improve it. I take the liberty to observe 
+that the command may now be proportioned to my 
+rank, and that the second objection ceases to operate, 
+as, during the period of establishing our winter-quarters, there will be a suspension of material business; 
+besides which, my peculiar situation will, in any case, 
+call me away from the army in a few days, and Mr. 
+Harrison may be expected back early next month. 
+</p><p>
+My command may consist of an hundred and fifty 
+or two hundred men, composed of fifty men of Major 
+Gibbs's corps, fifty from Colonel Meigs's regiment, 
+and fifty or an hundred more from the light infantry; Major Gibbs to be my Major. The hundred 
+men from here may move on Friday morning towards 
+, which will strengthen the appearances for 
+Staten Island, to form a junction on the other side 
+of the Passaic. 
+</p><p>
+I suggest this mode to avoid the complaints that 
+might arise from composing my party wholly of the 
+light infantry, which might give umbrage to the officers of that corps, who, on this plan, can have no 
+just subject for it. 
+</p><p>
+The primary idea may be, if circumstances permit, to attempt, with my detachment, Bayard's Hill. 
+Should we arrive early enough to undertake it, I 
+should prefer it to any thing else, both for the brilliancy of the attempt, in itself, and the decisive consequences of which its success would be productive. 
+If we arrive too late to make this eligible (as there 
+is reason to apprehend), my corps may form the van 
+of one of the other attacks; and Bayard's Hill will 
+be a pretext for my being employed in the affair, on 
+a supposition of my knowing the ground; which is 
+partly true. 
+</p><p>
+I flatter myself, also, that my military character 
+stands so well in the army as to reconcile the officers in general to the measure. All circumstances 
+considered, I venture to say, any exception which 
+might be taken would he unreasonable. 
+</p><p>
+I take this method of making the request, to avoid 
+the embarrassment of a personal explanation. I shall 
+only add, that, however much I have the matter at 
+heart, I wish your Excellency entirely to consult your 
+own inclination, and not, from a disposition to oblige 
+me, to do any thing that may be disagreeable to you. 
+It will, nevertheless, make me peculiarly happy if 
+your wishes correspond with mine. I have the honor 
+to be, very sincerely and respectfully. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter><letter id="alh3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+Flattering myself that your knowledge of me will 
+induce you to receive the observations I make, as 
+dictated by a regard to the public good, I take the 
+liberty to suggest to you my ideas on some matters 
+of delicacy and importance. I view the present juncture as a very interesting one. I need not observe 
+how far the temper and situation of the army may 
+make it so. The state of our finances was perhaps 
+never more critical. I am under injunctions, which 
+will not permit me to disclose some facts that would 
+at once demonstrate this position; but I think it probable you will be possessed of them through another 
+channel. It is, however, certain that there has scarcely 
+been a period of the revolution which called more for from the State of <a href='/results.php?city=new york' rel='city'>New York</a>, on the 25th of November, <a href='/results.php?year=1782'>1782</a>. 
+wisdom and decision in Congress. Unfortunately for 
+us, we are a body not governed by reason or foresight, but by circumstances. It is probable we shall 
+not take the proper measures; and, if we do not, a 
+few months may open an embarrassing scene. This 
+will be the case, whether we have peace or a continuance of the war. 
+</p><p>
+If the war continues, it would seem that the army 
+must, in June, subsist itself to defend the country. If 
+peace should take place, it will subsist itself to procure justice to itself. It appears to be a prevailing 
+opinion in the army, that the disposition to recompense their services will cease with the necessity for 
+them ; and that, if they once lay down their arms, 
+they part with the means of obtaining justice. It is 
+to be lamented that appearances afford too much 
+ground for their distrust. 
+</p><p>
+It becomes a serious inquiry, What is the true line 
+of policy ? The claims of the army, urged with moderation, but with firmness, may operate on those 
+weak minds which are influenced by their apprehensions more than by their judgments, so as to produce 
+a concurrence in the measures which the exigencies 
+of affairs demand. They may add weight to the applications of Congress to the several States. So far 
+a useful turn may be given to them. But the difficulty will be to keep a complaining and suffering 
+army within the bounds of moderation. 
+</p><p>
+This your Excellency's influence must effect. In 
+order to it, it will be advisable not to discountenance 
+their endeavour to procure redress, but rather, by the 
+intervention of confidential and prudent persons, to 
+take the direction of them. This, however, must not 
+appear; it is of moment to the public tranquillity 
+that your Excellency should preserve the confidence of the army without losing that of the people. This 
+will enable you, in case of extremity, to guide the 
+torrent, and to bring order, perhaps even good, out 
+of confusion. It is a part that requires address, but 
+it is one which your own situation as well as the 
+welfare of the community points out. 
+</p><p>
+I will not conceal from your Excellency a truth, 
+which it is necessary you should know. An idea is 
+propagated in the army, that delicacy, carried to an 
+extreme, prevents your espousing its interests with 
+sufficient warmth. The falsehood of this opinion no 
+one can be better acquainted with than myself; but 
+it is not the less mischievous for being false. Its 
+tendency is to impair that influence which you may 
+exert with advantage, should any commotions unhappily ensue, to moderate the pretensions of the army, 
+and make their conduct correspond with their duty. 
+</p><p>
+The great desideratum at present is the establishment of general funds, which alone can do justice to 
+the creditors of the United States (of whom the array 
+forms the most meritorious class), restore public credit, and supply the future wants of Government. 
+This is the object of all men of sense ; in this the 
+influence of the army, properly directed, may cooperate. 
+</p><p>
+The intimations I have thrown out will suffice to 
+give your Excellency a proper conception of my sentiments. You will judge of their reasonableness or 
+fallacy ; but I persuade myself you will do justice to 
+my motives. I have the honor to be, with great respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p><p>
+P. S. <a href='/results.php?tla=hek' rel='colleague'>General Knox</a> has the confidence of the army, and is a man of sense. I think he may be 
+safely made use of Situated as I am, your Excellency will feel the confidential nature of these observations. 
+</p>
+</letter>

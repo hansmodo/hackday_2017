@@ -1,0 +1,56 @@
+<letter id="hek4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Influenced by motives of delicacy, I have hitherto 
+forborne the pleasure, my dear Sir, of writing to you 
+since my return from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. I have been apprehensive, that the stages of the business of the 
+Convention might leak out, and be made an ill use 
+of by some people. I have therefore been anxious 
+that you should escape the possibility of imputation. 
+But, as the objects seem now to be brought to a 
+point, I take the liberty to indulge myself in communicating with you. 
+</p><p>
+Although I frankly confess that the existence of 
+the State Governments is an insuperable evil in a 
+national point of view, yet I do not well see how, in 
+this stage of the business, they could be annihilated ; 
+and perhaps, while they continue, the frame of Government could not, with propriety, be much higher 
+toned than the one proposed. It is so infinitely preferable to the present Constitution, and gives such a 
+bias to a proper line of conduct in future, that I 
+think all men, anxious for a National Government, 
+should zealouslv embrace it. 
+</p><p>
+The education, genius, and habits of men on this 
+Continent, are so various, even at this moment, and 
+of consequence their views of the same subject so 
+different, that I am satisfied with the result of the 
+Convention, although it is short of my wishes and of 
+my judgment. But, when I find men of the purest 
+intentions concur in embracing a system, which, on 
+the highest deliberation, seems to be the best which 
+can be obtained under present circumstances, I am 
+convinced of the propriety of its being strenuously 
+supported by all those who have wished for a National Republic of higher and more durable powers. 
+I am persuaded that the address of the Convention, 
+to accompany their propositions, will be couched in 
+the most persuasive terms. I feel anxious that there 
+should be the fullest representation in Congress, in 
+order that the propositions should receive their warmest concurrence and strongest impulse. 
+</p><p>
+Mrs. Knox and myself have recently sustained the 
+severe affliction of losing our youngest child, of about 
+eleven months old, who died on the 11th instant, of 
+a disease incident to children cutting their teeth in 
+the summer season. This is the third time that Mrs. 
+Knox has had her tenderest affections lacerated by 
+the rigid hand of death. Although her present grief 
+is sharp indeed, we hope it will be assuaged by the 
+lenient hand of time. I am, my dear Sir, 
+</p><p>
+With the most perfect respect and affection, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

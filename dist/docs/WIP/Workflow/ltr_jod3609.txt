@@ -1,0 +1,58 @@
+<letter id="jod3609">
+<recipient first="Abigail" last="Adams"/>
+<p>
+[<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>,] Monday morning, 
+</p><p>
+	<a rel="day origin" value='28'>28</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+I HAVE just received from the post office your letter of 
+the 20th by Briesler, who went to carry one for you. 
+I write by every post, i. e., by Monday's and Thurs 
+day's, which are the only ones on which mails are 
+made up for any place beyond <a href='/results.php?city=new york' rel='city'>New York</a>, and the only 
+ones on which letters arrive here from any place be 
+yond that city. 
+</p><p>
+Mrs. Adams, your new daughter, behaves prettily in 
+her new sphere. I dined with them one day, and 
+promised to take my lodgings with them the next 
+time. Mrs. Adams showed me an elegant bed, 
+which she politely said she had made up for me. As 
+to the details in which you say the ladies excel us, I 
+have not patience. I, who have the patience of Job, 
+have not patience to write letters in the style of Grandison and Lovelace. You would admire to see with 
+what serenity and intrepidity I commonly sit and hear. 
+Not all the froth can move my contempt, not all the 
+sedition stir my indignation, nor all the nonsense and 
+delirium excite my pity. If dignity consists in total 
+insensibility, I believe my countenance has it. B., 
+however, tells me he can always perceive when I 
+don t like any thing. It must be by reasoning from 
+what he knows to be my opinion. My countenance 
+shows nothing, for the most part. Sometimes I believe it may be legible enough. The reflections upon 
+peace, by Madame de Stael, are not here. 
+</p><p>
+The President and Presidentess always send their 
+regards to you. Madame invites you to come next 
+summer to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> and visit the federal city. 
+I am almost afraid to write it to you for fear it should 
+turn your head, and give you thoughts and hopes of 
+accepting the invitation. I told Madame la Presidente that, after the year <a href='/results.php?year=1800'>1800</a>, when Congress should sit at Washington, and that city became very great, I 
+thought it not impossible that you and your sister Cranch might seriously entertain such a project, for 
+the sake of making a visit to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> as well 
+as seeing Mrs. Cranch's grandchildren. 
+</p><p>
+Always write me how Mrs. Briesler and her children are. It makes the good man's countenance 
+shine so bright when I tell him of it, that I take a 
+great pleasure in reading these paragraphs to him. 
+My mother I am anxious to hear of. My duty to 
+her, and love, compliments, &c., &c., to whom you 
+please. 
+</p><p>
+Always yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

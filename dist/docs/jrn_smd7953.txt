@@ -1,0 +1,10 @@
+<letter id="smd7953">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> ], <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='17'>17th</a>. [<a href='/results.php?year=1863' rel='origin'>1863</a>]
+</p><p>
+I must write something somewhere, I don't care if dinner is ready, and Brother's "safe old Secesh" downstairs ! Lydia has another boy ! Letter has just 
+come, and I am demented about my new godchild ! There now! feel better! One more word it shall be called "Howell." 
+Dear, blessed little baby ! how I shall love it ! 
+</p><p>
+</letter>

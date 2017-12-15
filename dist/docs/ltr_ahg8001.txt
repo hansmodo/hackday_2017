@@ -1,0 +1,29 @@
+<letter id='ahg8001'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+<a href='/results.php?city=sausalito' rel='city origin'>Sausalito</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> has requested me to address you upon the subject of a surgeon being ordered to his command. The daily application of sick alone induces him to urge the necessity 
+of his having a medical officer ; and he hopes you will feel that he would not make the request, without being satisfied of your concurrence with the application solely with reference to the 
+return of Dr. Henderson to the ship. 
+</p><p>
+<a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> would address you himself, were he not so much occupied, and being away from his writing utensils, which are left at San Rafael. 
+</p><p>
+We move to San Rafael to-morrow morning. In the meantime we hope to learn your favorable decision as to the foregoing application. 
+</p><p>
+I have the honor to be, very respectfully, 
+</p><p>
+Your obedient servant, 
+(Signed) Archi. H. Gillespie, 
+</p><p>
+Lieut. U. S. Marine Corps, etc., etc. 
+To Captain J. B. Montgomery, 
+</p><p>
+Commanding U. S. Ship Portsmouth, Yerba Buena. 
+</p><p>
+P.S. — I write this in haste on board the Barque Moscow. 
+</p><p>
+Respectfully, 
+(Signed) <a href="/results.php?tla=ahg" rel="me">Archie H. Gillespie</a>.
+</p>
+</letter>

@@ -1,0 +1,96 @@
+<letter id="alh3408">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+DEAR SIR, 
+</p><p>
+<a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a>, who will have the honour of delivering 
+you this letter, is on his way to South Carolina, on a project which I think in the present situation of affairs there, is 
+a very good one, and deserves every kind of support and 
+encouragement. This is, to raise two, three, or four battalions of negroes, with the assistance of the government of 
+that state, by contributions from the owners, in proportion 
+to the number they possess. If you should think proper to 
+enter upon the subject with him, he will give you a detail of 
+his plan. He wishes to have it recommended by congress 
+to the state, and as an inducement, that they would engage 
+to take their battalions into continental pay. 
+</p><p>
+It appears to me, that an expedient of this kind in the characterised him, addressed the French government and their ambassador 
+here on the subject, urging the advantages which would result to both nations 
+from having a French military force in this country. This proposition was 
+immediately patronized and enforced by the family and connexions of the <a href='/results.php?tla=laf' rel='colleague friend met'>Marquis</a>, which were then in power and great influence in France, and adopted by 
+that government. I deem it a duty incumbent on me, and a tribute due to his 
+memory, that the knowledge of this fact should be recorded as an additional 
+evidence of bis pre-eminent services to his country." 
+present state of southern affairs, is the most rational that 
+can be adopted, and promises very important advantages. 
+Indeed, I hardly see how a sufficient force can be collected 
+in that quarter without it ; and the enemy's operations 
+there are growing infinitely serious and formidable. I have 
+not the least doubt that the negroes will make very excellent soldiers, with proper management ; and I w r ill venture 
+to pronounce that they cannot be put in better hands than 
+those of Mr. Laurens. He has all the zeal, intelligence, and 
+enterprise, and every other qualification requisite to succeed in such an undertaking. It is a maxim with some 
+great military judges, that with sensible officers, soldiers 
+can hardly be too stupid ; and on this principle it is thought 
+that the Russians would make the best soldiers in the world 
+if they were under other officers than their own. The 
+King of Prussia is among the number who maintains this 
+doctrine, and has a very emphatic saying on the occasion, 
+which I do not exactly recollect. I mention this because I 
+have frequently heard it objected to the scheme of embodying 
+negroes, that they are too stupid to make soldiers. This is 
+so far from appearing to me a valid objection, that I think 
+their want of cultivation, (for then- natural faculties are probably as good as ours,) joined to that habit of subordination 
+which they acquire from a life of servitude, will enable 
+them sooner to become soldiers than our white inhabitants. 
+Let officers be men of sense and sentiment, and the nearer 
+the soldiers approach to machines, perhaps the better. 
+</p><p>
+I foresee that this project will have to combat much opposition from prejudice and self-interest. The contempt we 
+have been taught to entertain for the blacks, makes us fancy many things that are founded neither in reason nor experience ; and an unwillingness to part with property of so 
+valuable a kind, will furnish a thousand arguments to show 
+the impracticability or pernicious tendency of a scheme 
+which requires such sacrifices. But it should be considered, that if we do not make use of them in this way, the enemy probably will, and that the best way to counteract the 
+temptations they will holdout, will be, to offer them ourselves. 
+An essential part of the plan is, to give them their freedom with their swords. This will secure their fidelity, animate 
+their courage, and, I believe, will have a good influence upon 
+those who remain, by opening a door to their emancipation. 
+This circumstance, I confess, has no small weight in inducing me to wish the success of the project ; for the dictates 
+of humanity and true policy equally interest me in favour 
+of this unfortunate class of men. 
+</p><p>
+When I am on the subject of southern affairs, you will 
+excuse the liberty I take in saying, that I do not think measures sufficiently vigorous are pursuing for our defence in 
+that quarter. Except the few regular troops of South 
+Carolina, we seem to be relying wholly on the militia 
+of that and the two neighbouring states. These will 
+soon grow impatient of service, and leave our affairs in a 
+miserable situation. No considerable force can be uniformly kept up by militia ; to say nothing of the many obvious and well-known inconveniences that attend this kind 
+of troops. I would beg leave to suggest, sir, that no time 
+ought to be lost in making a draft of militia to serve a 
+twelve-month, from the states of North and South Carolina and Virginia. But South Carolina, being very weak 
+in her population of whites, may be excused from the draft, 
+on condition of furnishing the black battalions. The two 
+others may furnish about three thousand five hundred men, 
+and be exempted, on that account, from sending any succours to this army. The states to the northward of Virginia 
+will be fully able to give competent supplies to the army 
+here, and it will require all the force and exertions of the 
+three states I have mentioned, to withstand the storm 
+which has arisen, and is increasing in the south. 
+</p><p>
+The troops drafted must be thrown into battalions, and 
+officered in the best manner we can. The supernumerary officers may be made use of as far as they will go. If 
+arms are wanted for their troops, and no better way of 
+supplying them is to be found, we should endeavour to levy 
+a contribution of arms upon the militia at large. Extraordinary exigencies demand extraordinary means. I fear 
+this southern business will become a very grave one. 
+With the truest respect and esteem, I am, sir, 
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">ALEX. HAMILTON</a>. 
+</p><p>
+Head Quarters, <a rel="month origin" value="3">March</a> <a rel="day origin" value="14">14</a>, <a href="/results.php?year=1779" rel="origin">1779</a>. 
+</p><p>
+His Excellency John Jay, President of Congress. 
+</p>
+</letter>

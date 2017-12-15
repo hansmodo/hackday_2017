@@ -1,0 +1,23 @@
+<letter id="rfs8027">
+<recipient name="Editor of the True American" type="position"/>
+</p><p>
+<a href='/results.php?city=princeton' rel='city origin'>PRINCETON</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1850' rel="origin">1850</a>. 
+</p><p>
+TO THE EDITOR OF THE TRUE AMERICAN : 
+</p><p>
+I notice in the papers of the day, have learned from letters, and heard in private circles, that my name is spoken of in connection 
+with the office of United States Senator for New Jersey. 
+</p><p>
+With gratitude to those of my fellow-citizens who have named me for that high office, I must nevertheless say, frankly and at once, that I decline it. 
+</p><p>
+However averse I may be to enter into questions of party politics, still, permit me to express the hope that the appointment of Senator 
+may be conferred on some one whose heart and hand and voice is pledged to the Union of the States at all hazards, and to the sup 
+port of the compromises of the Constitution and the execution of the laws with unfaltering fidelity. 
+</p><p>
+Survive who may, perish who will, the Union must be preserved. To this sentiment, for one, I set my hand and heart, and on its 
+maintenance I am now, as I ever have been, ready to pledge my life, my fortune, and my honour. The people of New Jersey have, 
+at the late election, adopted it and made it theirs, and every citizen everywhere, who loves his country and his race, will respond to it with enthusiasm. 
+</p><p>
+R. F. STOCKTON. 
+</p><p>
+</letter>

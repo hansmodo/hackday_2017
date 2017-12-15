@@ -1,0 +1,25 @@
+<letter id="rfs8025">
+<recipient first="Stephen" last="Kearney" type="individual"/>
+</p><p>
+HEAD-QUARTERS, <a href='/results.php?city=san diego' rel='city origin'>SAN DIEGO</a>, <a rel="month origin" value="12">December</a> [<a href='/results.php?year=1846' rel="origin">1846</a>] <a rel='day origin' value='3'>3</a>, 6 o clock P.M. 
+</p><p>
+SIR : I have this moment received your note of yesterday by Mr. Stokes, and have ordered <a href='/results.php?tla=ahg' rel='colleague met'>Captain Gillespie</a>, with a detachment of mounted riflemen and a field-piece, to proceed to your camp with out delay. 
+</p><p>
+<a href='/results.php?tla=ahg' rel='colleague met'>Captain Gillespie</a> is well informed in relation to the present state of things in California, and will give you all needful information. I need not, therefore, detain him by saying any thing on the subject. 
+</p><p>
+I will merely say that I have this evening received information, by two deserters from the rebel camp, of the arrival of an additional force in this neighbourhood of one hundred men, which, in 
+addition to the force previously here, makes their number about one hundred and fifty. 
+</p><p>
+I send with <a href='/results.php?tla=ahg' rel='colleague met'>Captain Gillespie</a>, as a guide, one of the deserters, that you may make inquiries of him, and, if you see fit, endeavour to surprise them. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commander-in-chief 
+</p><p>
+and Governor of the Territory of California. 
+</p><p>
+To BRIGADIER-GENERAL KEARNEY, 
+</p><p>
+United States Army. 
+</p><p>
+</letter>

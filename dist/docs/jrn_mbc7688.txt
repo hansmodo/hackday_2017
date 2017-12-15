@@ -1,0 +1,22 @@
+<letter id="mbc7688">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='9'>9th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Met Mrs. Wigfall. She wants me to take Halsey to Mrs. Randolph's theatricals. I am to get him up 
+as Sir Walter Raleigh. Now, General Breckinridge has come. I like him better than any of them. Morgan also is 
+here. These huge Kentuckians fill the town. Isabella says, 
+" They hold Morgan accountable for the loss of Chattanooga. " The follies of the wise, the weaknesses of the 
+great ! She shakes her head significantly when I begin to 
+tell why I like him so well. Last night General Buckner came for her to go with him and rehearse at the Carys for 
+Mrs. Randolph's charades. 
+</p><p>
+The President's man, Jim, that he believed in as we all believe in our own servants, " our own people," as we call 
+them, and Betsy, <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> maid, decamped last night. It is miraculous that they had the fortitude to resist the 
+temptation so long. At <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> the hired servants all have been birds of passage. First they were seen with gold 
+galore, and then they would fly to the Yankees, and I am sure they had nothing to tell. It is Yankee money wasted. 
+</p><p>
+I do not think it had ever crossed <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> brain that these two could leave her. She knew, however, that Betsy 
+had eighty dollars in gold and two thousand four hundred dollars in Confederate notes. 
+</p><p>
+Everybody who comes in brings a little bad news not much, in itself, but by cumulative process the effect is depressing, indeed. 
+</p>
+</letter>

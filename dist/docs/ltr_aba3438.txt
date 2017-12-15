@@ -1,0 +1,61 @@
+<letter id="aba3438">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1791" rel="origin">1791</a>. 
+</p><p>
+MY DEAR CHILD, 
+</p><p>
+You must not flatter yourself with the expectation 
+of hearing from Colonel Smith until the February 
+packet arrives. It is as soon as you ought to think of 
+it. You see by the papers, that a minister is in nomination from England, and, Mrs. C writes, will come out soon. Mrs. P , from whom I received 
+a letter, writes me by the last packet, that Mr. Friere 
+is certainly appointed from Portugal, and that he 
+only waits for the arrival of Count , his successor, in England, before he sails for America. Mrs. P likewise communicates the agreeable intelligence of Mr. P 's having forsaken the bottle, and 
+that the Countess B had another child, and was vastly happy, beloved by her dear Count, &c. ; all in the true style of Mrs. P . She desires to be kindly remembered to you and the Colonel. 
+</p><p>
+Present me kindly to all my <a href='/results.php?city=new york' rel='city'>New York</a> friends. 
+That I was attached to that place is most true, and I 
+shall always remember with pleasure the fifteen 
+months passed there ; but, if I had you and your family, I could be very well pleased here, for there is an 
+agreeable society and friendliness kept up with all 
+the principal families, who appear to live in great 
+harmony, and we meet at all the parties nearly the 
+same company. To-morrow the President dines 
+with us, the Governor, the Ministers of State, and 
+some Senators. Of all the ladies I have seen and 
+conversed with here, Mrs. Powell is the best informed. She is a friendly, affable, good woman, sprightly, full of conversation. There is a Mrs. Allen, 
+who is as well-bred a woman as I have seen in any 
+country, and has three daughters, who may be styled 
+the three Graces. 
+</p><p>
+My best respects to your good mamma and family. 
+</p><p>
+Tell Mrs. C I hope she makes a very obedient wife. I am sure she will be a good one. I think I 
+shall see you in April. Why do you say that you 
+feel alone in the world ? I used to think that I felt 
+so too ; but, when I lost my mother, and afterwards 
+my father, that " alone " appeared to me in a much 
+more formidable light. It was like cutting away 
+the main pillars of a building ; and, though no friend 
+can supply the absence of a good husband, yet, 
+whilst our parents live, we cannot feel unprotected. 
+To them we can apply for advice and direction, 
+sure that it will be given with affection and tenderness. We know not what we can do or bear, till 
+called to the trial. I have passed through many 
+painful ones, yet have enjoyed as much happiness 
+through life as usually falls to the lot of mortals ; 
+and, when my enjoyments have been damped, curtailed, or molested, it has not been owing to vice, 
+that great disturber of human happiness, but sometimes to folly, in myself or others, or the hand of 
+<a href='/results.php?city=providence' rel='city'>Providence</a>, which has seen fit to afflict me. I feel 
+grateful for the blessings which surround me, and 
+murmur not at those which are withheld. But my 
+pen runs on, and my lads, at whose table I write, 
+wonder what mamma can find to write about. 
+</p><p>
+Adieu. My love to the children. From your ever 
+affectionate 
+</p><p>
+A. Adams. 
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id='rfs8001'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+U. S. Frigate Congress, 
+Harbor of <a href='/results.php?city=san francisco' rel='city origin'>San Francisco</a>, <a rel="month origin" value="9">September</a> 	<a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+(Private) 
+</p><p>
+Sir : I am here, anxious to know what prospect there is of your being able to recruit my thousand men for a visit to Mexico. 
+</p><p>
+Let me know as soon as possible. Many serious arrangements will have to be made, all requiring more or less time, which, you know, in war is more precious than " rubies." 
+</p><p>
+Your faithful friend and obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=rfs" rel="me">R. F. Stockton</a>, 
+</p><p>
+Governor, etc. 
+</p><p>
+To Major Fremont, 
+</p><p>
+Military Commander of the Territory of California. 
+</p>
+</letter>

@@ -1,0 +1,22 @@
+<letter id='hst8000'>
+<recipient first='Robert' last='Stockton' type='individual'/>
+<p>
+Headquarters, <a href='/results.php?city=camp near san pasqual' rel='city origin'>Camp near San Pasqual</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : I have the honor to report to you that at early dawn this morning <a href="/results.php?tla=swk" rel="co-worker met">General Kearny</a>, with a detachment of the United States dragoons and <a href="/results.php?tla=ahg" rel="co-worker met">Captain Gillespie's</a> company of mounted riflemen, had an engagement with a very considerable Mexican force near this camp. 
+</p><p>
+We have about eighteen killed and fourteen or fifteen wounded ; several so severely that it may be impracticable to move them for several days. I have to suggest to you the propriety of 
+despatching, without delay, a considerable force to meet us on the route to San Diego, via the Soledad and San Bernardo, or to find us at this place ; also, that you will send up carts or some 
+other means of transporting our wounded to San Diego. We are without provisions, and in our present situation find it impracticable to obtain cattle from the ranches in the vicinity. 
+</p><p>
+<a href="/results.php?tla=swk" rel="co-worker met">General Kearny</a> is among the wounded, but it is hoped not dangerously ; Captains Monroe and Johnson, First Dragoons, killed ; Lieutenant Hammond, First Dragoons, dangerously 
+wounded. I am, sir, very respectfully, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=hst" rel="me">H. S. Turner</a>, 
+</p><p>
+Captain U. S. A., comdg.<br>
+Commodore R. F. Stockton, U. S. Navy, San Diego. 
+</p>
+</letter>

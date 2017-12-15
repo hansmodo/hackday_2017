@@ -1,0 +1,33 @@
+<letter id="ben4763">
+<recipient first="Mary" last="Stevenson" type="individual"/>
+<p>
+Tuesday Morn,  [<a href='/results.php?city=london' rel='city origin'>London</a>], <a rel="month origin" value="6">June</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+DEAR POLLEY, 
+</p><p>
+Agreable to your Orders, delivered to me very punctually 
+by Temple, I return you enclosed Voltaire's Verses. The 
+Translation I think full as good as the Original. Remember 
+that I am to have them again. 
+</p><p>
+I take this Opportunity to send you, also, a late Paper, containing a melancholy Account of the Distresses of some Seamen. You will observe in it the Advantages they received 
+from wearing their Clothes constantly wet with Salt Water, 
+under the total Want of fresh Water to drink. You may 
+remember I recommended this Practice many years ago. 
+Do you know Dr. Len, and did you communicate it to him? 
+I fancy his Name is wrong spelt in this Paper, and that it 
+should be Lind, having seen in the Review some Extracts 
+from a book on Sea- Diseases, published within these 2 or 3 
+Years, by one Dr. Lind ; 2 but I have not seen the Book, 
+and know not whether such a Passage be in it. 
+</p><p>
+I need not point out to you an Observation in favour of 
+our Doctrine, that you will make on reading this Paper, 
+that, having little to eat y these poor People in wet Clothes Day 
+and Night caught no Cold. 
+</p><p>
+My respects to your Aunt, and love to all that love you. 
+</p><p>
+Yours affectionately, B FRANKLIN _ 
+</p>
+</letter>

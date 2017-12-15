@@ -1,0 +1,100 @@
+<letter id="gom4681">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My last will accompany this, and I enclose herein the co 
+pies of letters from the Minister of Foreign Affairs of the tenth, 
+fourteenth, and seventeenth instants, and also copies of mine to 
+him of the 11th, 12th, and 13th, and also one just written. 
+</p><p>
+By his letter of the tenth, you will see the determination to 
+act decisively. In a subsequent conversation he assured me, 
+that Genet should be punished. I replied that the United 
+States had only ordered me to ask his recall, and I could go no 
+farther. The idea is to send over a Commission of three or 
+four persons; and to authorise that board to send him over a prisoner. I kept the advice boat here a week, in order to em 
+bark the Commissioners on board of her. But although the 
+instructions are all ready, there remains some little embarrassment about the appointment of one of the persons. This 
+prevents them from being ready ; and, as it appears to me 
+very important that you should have early advice, I cannot 
+by any longer delay risk the near approach of winter on the 
+American coast. 
+</p><p>
+It is probable that the successor of M. Genet may ask the 
+interposition of our government in the discussions likely to 
+arise. I have given assurances to the extent of what our laws 
+and constitution may authorise. You will be able to measure 
+better than I can that extent, and, at any rate, this hint will be 
+kept secret, for that is, as you will readily see, of the utmost 
+importance. 
+</p><p>
+In M. Deforgues letter of the fourteenth, and the decree 
+which accompanied it, you will see the reasons assigned for 
+violating the treaty. You will see, also, that it was not from 
+the difficulty of refuting them, that I declined entering into 
+the controversy. In effect, he had acknowledged and lamented to me the impropriety of the decree, but, unable to prevail 
+over a greater influence for the repeal of it, he is driven to 
+the necessity of excusing a step, which it is not possible to 
+justify. There is no use in arguing with those who are alrea 
+dy convinced ; and, where no good is expected, some evil 
+may follow. I have, therefore, only stated the question on its 
+true ground, and leave to you in America to insist on a rigid 
+performance of the treaty, or slide back to the equal state of 
+unfettered neutrality. Your orders will, of course, be given 
+to me according to the determination, which the President 
+shall take, and until then I hold the matter open. 
+</p><p>
+We have constantly the news of victory, but the public is 
+incredulous. Lately orders were expedited to attack in every quarter; and as this is a measure originating with the 
+government, those who pretend to judge of intelligence be 
+forehand, say, that it must be favorable. There is, at any 
+rate, the resource of concealing it, and although it would, at 
+first sight, appear next to impossible that, in a country flooded 
+with gazettes, there should he no note of long and bloody 
+battles, yet the severity of the decrees against those who discourage the exertions of the Republic, and the greater severity 
+with which all such decrees are executed, awe the boldest 
+printers, and hush even the whispers of private information. 
+You must not be surprised, therefore, to find in the Dutch 
+and English gazettes the account of actions, which are passed 
+over in silence by those I send you. 
+</p><p>
+It is unfortunate that you are thus disabled from comparing 
+different accounts, and forced to judge from partial recital, 
+The best remaining resource is to contrast the ministerial and 
+opposition prints. Among the persons best informed, it seems 
+to be doubtful, whether the Allies will push on towards the city, 
+or wear away the national resources by warring on the frontiers. The former would have consisted better with a determination to restore the monarchy, and the latter seems to indicate a projected dismemberment. 
+</p><p>
+In the mean time, the expense of blood and treasure to this 
+country is inconceivable. Already artisans and laborers of every kind are extremely rare. The price of mechanics is risen 
+to twelve livres, that of common hands to five livres, and this, 
+notwithstanding the regulation of subsistence to something very near the ancient standard. Manufactures are becoming 
+very dear, and the attempt to limit prices, though enforced by 
+the dreadful guillotine, cannot but produce the reverse of what 
+it is intended for. 
+</p><p>
+The ensuing winter, unless some important changes take place, 
+must be productive of scenes most melancholy and distress 
+ing. If the enemy possesses himself of the strong holds along 
+the northern frontier, he will undoubtedly ravage Picardy with 
+his immense cavalry during the winter season, and thus destroy 
+one great granary. The resources of Barbary, Sicily, and 
+Italy are already cut oft from the south. The Vendee is in 
+train to become a desert. The army of the Republic lays it 
+waste with fire and sword. I will not endeavor to paint the 
+various wretchedness, which has been described to me as existing in that quarter. If the war continue another year, the 
+wishes of those who meditate the ruin of France will be so far 
+accomplished, that many years of peace will not be able to re 
+store her wealth and population. This will, I think, be a misfortune to the United States, and in all possible events the 
+present turmoil of Europe will furnish terrible examples to the 
+present age, and to a distant posterity. I am ; &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p><p>
+P. S. I have paid four hundred and forty livres for packing up the statue of <a href='/results.php?tla=gwa' rel='co-worker'>General Washington</a>. Is this to be charged to the United States ? Or will you receive it for me from 
+the State of Virginia ? 
+</p>
+</letter>

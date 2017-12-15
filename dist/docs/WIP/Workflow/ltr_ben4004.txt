@@ -1,0 +1,41 @@
+<letter id="ben4004">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="month origin" value="9">Sept.</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received a letter from a very respectable person 
+in America, containing the following words, viz : — 
+" It is confidently reported, propagated, and believed by 
+some among us, that the Court of France was at bottom 
+against our obtaining the fishery and territory, in that great 
+extent in which both are secured to us by the treaty ; that 
+our minister at that court favoured, or did not oppose, this 
+design against us ; and that it was entirely owing to the 
+firmness, sagacity, and disinterestedness of <a href='/results.php?tla=jod' rel='colleague met'>Mr. Adams</a>, 
+with whom <a href='/results.php?tla=joj' rel='colleague met'>Mr. Jay</a> united, that we have obtained those 
+important advantages." 
+</p><p>
+It is not my purpose to dispute any share of the honour 
+of that treaty, which the friends of my colleagues may be 
+disposed to give them ; but having now spent fifty years of 
+my life in public offices and trusts, and having still one ambition left, that of carrying the character of fidelity, at least, 
+to the grave with me, I cannot allow that I was behind any 
+of them in zeal and faithfulness. I therefore think that I 
+ought not to suffer an accusation, which falls little short of 
+treason to my country, to pass without notice, when the 
+means of effectual vindication arc at hand. You, sir, was 
+a witness of my conduct in that allair. To you and my 
+other colleagues I appeal, by sending to each a similar letter 
+with this ; and I have no doubt of your readiness to do a 
+brother-commissioner justice, by certificates that will entirely destroy the effect of that accusation. I have the 
+honour to be, with much esteem, 
+</p><p>
+Sir, your most obedient, 
+</p><p>
+And most humble servant, 
+</p><p>
+<a href="/results.php?tla=ben" rel="me">B. Franklin</a>. 
+</p>
+</letter>

@@ -1,0 +1,35 @@
+<letter id="ben4745">
+<recipient first="David" last="Hall" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">Aug</a> <a rel='day origin' value='9'>9</a>. <a href='/results.php?year=1768' rel="origin">1768</a> 
+</p><p>
+DEAR M' HALL. 
+</p><p>
+I receiv'd yours of June 20. &. 22. I have wrote my Mind 
+fully to you in former Letters relating to the Stamp Act; 
+so that I have but little to add, except what you desire to know 
+about the 2/ on Advertisements. It is undoubtedly to be 
+paid every Time the Advertisement is inserted. As to the 
+Paper sent over, I did it for the best, having at that time 
+Expectations given me that we might have had it stampt 
+there; in which case you would have had great Advantage 
+of the other Printers, since if they were not provided with 
+such Paper, they must have either printed but a half sheet 
+common Demi, or paid for two Stamps on each Sheet. The 
+Plan was afterward altered notwithstanding all I could do, 
+it being alledged that Scotland & every Colony would expect 
+the same Indulgence if it was granted to us. The Papers 
+must not be sent back again : But I hope you will excuse 
+what I did in Good will, tho' it happened wrong The 
+Molds I still think you should have, as you see that Paper 
+from hence is much dearer than we can make it, with all 
+Charge of Carriage, but that I hope to get off. 
+</p><p>
+I would not have you by any means drop the Newspaper, 
+as I am sure it will soon recover any present Loss, and may 
+be carried on to advantage, if you steadily proceed as I propos'd in former Letters. I am 
+</p><p>
+Yours affectionately 
+</p><p>
+B. FRANKLIN 
+</p>
+</letter>

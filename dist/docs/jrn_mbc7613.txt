@@ -1,0 +1,21 @@
+<letter id="mbc7613">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. In the naval battle the other day we had twenty-five guns in all. The enemy had fifty-four in the 
+Cumberland, forty- four in the St. Lawrence, besides a fleet of gunboats, filled with rifled cannon. Why not? They 
+can have as many as they please. No pent-up Utica contracts their powers "; the whole boundless world being 
+theirs to recruit in. Ours is only this one little spot of ground the blockade, or stockade, which hems us in with 
+only the sky open to us, and for all that, how tender-footed and cautious they are as they draw near. 
+</p><p>
+An anonymous letter purports to answer Colonel Chesnut's address to South Carolinians now in the army of the 
+Potomac. The man says, All that bosh is no good. He knows lots of people whose fathers were notorious Tories 
+in our war for independence and made fortunes by selling their country. Their sons have the best places, and they 
+are cowards and traitors still. Names are given, of course. 
+</p><p>
+Floyd and Pillow J are suspended from their commands because of Fort Donelson. The people of Tennessee demand a like fate for Albert Sidney Johnston. They say he is stupid. Can human folly go further than this Tennessee madness ? 
+</p><p>
+I did Mrs. Blank a kindness. I told the women when her name came up that she was childless now, but that she 
+had lost three children. I hated to leave her all alone. Women have such a contempt for a childless wife. Now, 
+they will be all sympathy and goodness. I took away her reproach among women. 
+</p>
+</letter>

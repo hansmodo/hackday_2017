@@ -1,0 +1,58 @@
+<letter id="gec3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have received your letter of the 23d instant, 
+inclosing one to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, which I immediately forwarded to him. I am sensible that, however 
+distressing the situation of our western frontier may 
+be, your Excellency has taken every method to afford it security that is in your power, consistent 
+with the general good of the service. I would not 
+wish, therefore, that any representation of mine should 
+occasion a diminution of your present force ; and, as 
+Colonel Graham's regiment is composed of men who 
+are intimately acquainted with every part of the 
+country between the enemy's lines and yours, and 
+may be of peculiar service where they now are, I 
+would beg leave to submit to your Excellency's further consideration, whether it would not be most advisable to continue it with you at present; in which 
+case, I will endeavour to call out a larger proportion 
+of the militia for the defence of the frontiers. This, 
+I think, the militia ought cheerfully to submit to, as, 
+if they were not required for that service, it would 
+be but reasonable that they should march to reenforce the army under your Excellency's immediate 
+command. 
+</p><p>
+I have already ordered out one fourth part of the 
+militia of Orange and Ulster to the western frontier 
+of those counties, who will amount to near six hundred men, and have directed them to take their stations so as to secure the most important passes leading into the settlements. If they do this, and are 
+vigilant, I trust that part of the country will experience a degree of safety. In addition to this, I have 
+issued positive orders to Brigadier-General Ten Broeck, 
+and the commanding officers of the several regiments 
+in Tryon county, to detach one fourth of their militia 
+(such regiments as may be necessary for the safety 
+of the northern frontier excepted) for the protection 
+of the western frontier in that quarter, and to act 
+under and assist Colonel Butler in any offensive operations which may be thought necessary to be carried on by him against the enemy. 
+</p><p>
+Colonel Butler (whose march, on receiving the intelligence I lately transmitted to your Excellency, I 
+wished to be hastened) was this morning at New 
+Windsor, and will proceed directly to <a href='/results.php?city=albany' rel='city'>Albany</a>, and 
+from thence to Schoharie or Cherry Valley, as General Stark (whose department he will then be in) 
+shall direct; and, if joined by Alden's regiment, and 
+the detachment of militia which I have ordered out, 
+they will form a pretty respectable force in that 
+quarter. In the mean time, if I should receive any 
+new intelligence that may render its augmentation 
+necessary, it shall immediately be communicated to 
+your Excellency. I propose, if nothing extraordinary 
+happens to prevent it, to do myself the pleasure of 
+waiting on your Excellency next week. I am, with 
+the highest esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

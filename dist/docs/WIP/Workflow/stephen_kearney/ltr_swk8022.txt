@@ -1,0 +1,17 @@
+<letter id="swk8022">
+<recipient first="Robert" last="Stockton" type="individual"/>
+</p><p>
+HEAD-QUARTERS, ARMY OF THE WEST, 
+<a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I have to inform you that I intend to withdraw to-morrow from this place, with the small party which escorted me to this country. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, 
+Brigadier-General. 
+</p><p>
+COMMODORE K. F. STOCKTON, V. S. N., 
+Acting Governor of California. 
+</p><p>
+</letter>

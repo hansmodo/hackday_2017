@@ -1,0 +1,21 @@
+<letter id="sid5001">
+<recipient first="" last="Vergennes" type="individual"/>
+<p>
+TO COUNT VERGENNES. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="8">August</a> 	<a rel='day origin' value='22'>22nd</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Sir, 
+</p><p>
+I was this morning informed of the arrival of Mr Arthur Lee, and that he would be in Paris tomorrow. This was 
+surprising to me, as I knew of no particular affair that might call him here, and considering the extreme jealousy of the 
+British Ministry at this time, and that Mr Lee was the agent of the United Colonies in Great Britain, and known to be 
+such, I could wish, unless he had received some particular intelligence from the United Colonies, that he had suspended 
+his visit, as I know not otherwise how he can serve me or my affairs, now (with the most grateful sense I mention it) 
+in as favorable a course as the situation of the times will admit. 
+</p><p>
+I have the honor to be, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

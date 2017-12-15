@@ -1,0 +1,32 @@
+<letter id="mbc7600">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='9'>September</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mr. Miles says he is not going anywhere at all, not even home. He is to sit here permanently chair 
+man of a committee to overhaul camps, commissariats, etc., etc. 
+</p><p>
+We exchanged our ideas of Mr. Mason, in which we agreed perfectly. In the first place, he has a noble presence really a handsome man; is a manly old Virginian, straightforward, brave, truthful, clever, the very beau-ideal 
+of an independent, high-spirited F. F. V. If the English value a genuine man they will have one here. In every particular he is the exact opposite of Talleyrand. He has some peculiarities. He had never an ache or a pain him 
+self ; his physique is perfect, and he loudly declares that he hates to see persons ill ; seems to him an unpardonable weakness. 
+</p><p>
+It began to grow late. Many people had come to say 
+good-by to me. I had fever as usual to-day, but in the excitement of this crowd of friends the invalid forgot fever. 
+Mr. Chesnut held up his watch to me warningly and intimated " it was late, indeed, for one who has to travel to 
+morrow. " So, as the Yankees say after every defeat, I retired in good order. 
+</p><p>
+Not quite, for I forgot handkerchief and fan. Gonzales rushed after and met me at the foot of the stairs. In 
+his foreign, pathetic, polite, high-bred way, he bowed low and said he had made an excuse for the fan, for he had a 
+present to make me, and then, though " startled and amazed, I paused and on the stranger gazed. Alas ! I am 
+a woman approaching forty, and the offering proved to be a bottle of cherry bounce. Nothing could have been more 
+opportune, and with a little ice, etc., will help, I am sure, to save my life on that dreadful journey home. 
+</p><p>
+No discouragement now felt at the North. They take 
+our forts and are satisfied for a while. Then the English are strictly neutral. Like the woman who saw her husband 
+fight the bear, It was the first fight she ever saw when she did not care who whipped. 
+</p><p>
+<a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> was very kind about it all. He told Mr. Ches-nut to go home and have an eye to all the State defenses, 
+etc., and that he would give him any position he asked for if he still wished to continue in the army. Now, this would 
+be all that heart could wish, but Mr. Chesnut will never ask for anything. What will he ask for? That's the rub. I 
+am certain of very few things in life now, but this is one I am certain of: Mr. Chesnut will never ask mortal man 
+for any promotion for himself or for one of his own family. 
+</p>
+</letter>

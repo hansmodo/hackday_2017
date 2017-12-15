@@ -1,0 +1,27 @@
+<letter id='mad1732'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+September 15, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+DEAR SIR, Since I parted from you I have had several letters from <a href="/results.php?tla=thj" rel="friend colleague met">Mr. Jefferson</a>, in which all the facts involving Genet 
+are detailed. His conduct has been that of a madman. He is abandoned even by his votaries in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>. Hutchison 
+declares that he has ruined the Republican interest in that place. I wish I could forward the details I have received, but 
+they are too confidential to be hazarded by the casual conveyance to which this is destined. They ought, however, to have 
+no other effect on the steps to be pursued than to caution against founding any of them on the presumed inculpability of Genet. 
+As he has put himself on such unjustifiable ground, perhaps it is fortunate that he has done it in so flagrant a manner. It will 
+be the more easily believed here that he has acted against the sense of his constituents, and the latter will be the less likely 
+to support him in his errors. I find that the Anglicans and Monocrats, from <a href="/results.php?city=boston" rel="city">Boston</a> to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, are betrayed by the 
+occasion into the most palpable discovery of their real views. They already lose sight of the Agent, and direct their hostilities immediately against France. This will do good, if proper use 
+be made of it. You will see by the late papers that Great Britain has made war on our commerce, by intercepting uncontraband articles bound to unblockaded ports, and taking them 
+to herself at her own price. This must bring on a crisis with us unless the order be revoked on our demand, of which there is not the least probability. I understand that the malignant 
+fever in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> is raging still with great violence, and all the inhabitants who can are flying from it in every direction. 
+The mortality at first was in the ratio of 3 out of 4. It had been reduced to 1 out of 3. <a href="/results.php?tla=thj" rel="friend co-worker met">Mr. Jefferson</a> is in raptures with 
+the performance of our friend in Caroline. He means to have it appear about two weeks before the meeting of Congress. This will not coincide with the plan of the Author, who wished 
+its publication to be in time for the meeting of the State Legislature. Think of this, and let me know your ideas. 
+</p><p>
+On my return home I found a letter from Mr. Jones, which I enclose, as the shortest [way?] of making you acquainted with 
+what he wishes. With all due respect to Mrs. Monroe, 
+</p><p>
+I am, yours affectionately. 
+</p>
+</letter>

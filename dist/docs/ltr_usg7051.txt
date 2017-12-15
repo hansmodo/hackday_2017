@@ -1,0 +1,22 @@
+<letter id="usg7051">
+<recipient first="Robert" last="Lee" type="individual"/>
+<p>
+<a href='/results.php?city=headquarters armies of the united states' rel='city origin'>HEAD-QUARTERS ARMIES OF THE UNITED STATES</a>, 
+</p><p>
+5P.M., <a rel='month origin' value='4'>April</a>, <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1865' rel="origin">1865</a>. 
+</p><p>
+GENERAL R. E. LEE
+</p><p>
+Commanding Confederate States Army : 
+</p><p>
+GENERAL, The results of the last week must convince you of the hopelessness of further resistance on the part of the Army 
+of Northern Virginia in this struggle. I feel that it is so, and regard it as my duty to shift from myself the responsibility of any 
+further effusion of blood by asking of you the surrender of that portion of the Confederate army known as the Army of Northern Virginia. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Lieutenant- General, Commanding Armies of the United States.
+</p>
+</letter>

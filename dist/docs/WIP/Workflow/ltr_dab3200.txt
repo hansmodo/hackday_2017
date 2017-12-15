@@ -1,0 +1,86 @@
+<letter id="dab3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pittsburgh' rel='city origin'>Pittsburg</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I am honored with your favor of the 18th ultimo. 
+The honorable notice you have been pleased to take 
+of my little expedition, fills my mind with the warmest gratitude, and I hope to merit your future esteem. 
+</p><p>
+It is some time since I inclosed to the honorable 
+Board of War a return of the troops under my command, and of the articles of clothing necessary for the 
+respective corps, to render them tolerably comfortable 
+during the ensuing winter. The troops have received a small supply of money, and I expect they will 
+be contented, until more can be procured from the 
+treasury. 
+</p><p>
+An expedition against Detroit, in the winter season, 
+will doubtless put us in possession of the enemy's 
+shipping, and, of course, give us the command of 
+Lake Erie. Winter expeditions are generally attended 
+with great loss of horses and cattle, except where 
+large magazines of forage are laid in, and can be 
+transported. But the British garrison and shipping 
+will be a full compensation for every loss of that 
+kind, and, indeed, every difficulty we can meet in the 
+obtaining it, as it will likewise secure the future 
+tranquillity of this frontier. 
+</p><p>
+I will endeavour to, have every thing in perfect readiness, and procure the best intelligence that circumstances will admit. I believe a considerable number 
+of Indians will join me ; but I have little expectation 
+of supplies, except from the French settlement in the 
+vicinity of that post ; and, as the British yearly cause 
+the inhabitants to thresh out the grain, and sell to 
+them for the purpose of filling their magazines, little 
+dependence can be placed on receiving supplies from 
+them ; and the Indians, on the Biver St. Lawrence, 
+subsist chiefly on animal food. I have frequently 
+applied to the Board of War for supplies and trinkets 
+for the Indians, but fear it is not in their power to 
+procure them. I will, however, renew my application. 
+It is with great pleasure I hear of the destination 
+of his Excellency <a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a>, and I have a happy 
+presage that he will have the most ample success. 
+</p><p>
+I herewith remit a return of the cannon and military stores belonging to these garrisons, and an estimate of the cannon and military stores necessary for 
+the intended expedition, to the best of my judgment. 
+My best intelligence, at present, is, that the enemy 
+have erected a very strong work, near to the old fort, 
+and on the only commanding eminence, behind the 
+soldiers gardens ; that the garrison consists of three hundred regulars (some say more), and about the 
+same number of militia ; some of the latter description, 
+it is said, will join our troops on their arrival in that 
+neighbourhood. The Wyandots, Tawas, Chippewas, and 
+Pottawattomies, live in the vicinity of Detroit, and 
+many of them are, without doubt, under British influence. 
+</p><p>
+If the expedition cannot be prosecuted before the month of February, it will then be too late, on ac 
+count of the high floods to which the intermediate 
+country is subjected. Should it prove impracticable 
+to carry on the expedition against Detroit, the troops 
+under my command, with some volunteers, in my 
+opinion, might be advantageously employed on an expedition against the Shawanese, on the Miami River, 
+and from thence against the enemy's post at Natchez, 
+with very little or no additional expense, and return 
+early in the spring to march against Detroit. For I 
+apprehend no danger to this frontier during the winter season, and the troops will be healthier, if continued in action, than in these garrisons. 
+</p><p>
+A couple of French gentlemen, of good address, 
+would be very serviceable in this district, and especially on an expedition. I shall be happy to hear from you, and receive further instructions. I have 
+the honor to be, with the highest sentiments of respect and esteem, your Excellency's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">DANIEL BRODHEAD</a>. 
+</p><p>
+P. S. I am this moment informed that two thou 
+sand Indians, who were driven from their towns, are 
+in great distress, and live on the pittance afforded 
+them by the enemy at Niagara. This intelligence 
+is from Sandusky, and may be relied on. They in 
+form the other Indians that they are afraid to hunt, 
+on account of the Americans. 
+</p>
+</letter>

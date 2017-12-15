@@ -1,0 +1,18 @@
+<letter id="mbc7623">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Dr. Trezevant, attending Mr. Chesnut, who 
+was ill, came and found his patient gone ; he could not stand 
+the news of that last battle. He got up and dressed, weak 
+as he was, and went forth to hear what he could for him 
+self. The doctor was angry with me for permitting this, 
+and more angry with him for such folly. I made him listen 
+to the distinction between feminine folly and virulent vagaries and nonsense. He said : He will certainly be salivated after all that calomel out in this damp weather. 
+</p><p>
+To-day, the ladies in their landaus were bitterly attacked by the morning paper for lolling back in their silks and 
+satins, with tall footmen in livery, driving up and down the streets while the poor soldiers wives were on the side 
+walks. It is the old story of rich and poor ! My little barouche is not here, nor has James Chesnut any of his horses 
+here, but then I drive every day with Mrs. McCord and Mrs. Preston, either of whose turnouts fills the bill. The 
+Governor's carriage, horses, servants, etc., are splendid just what they should be. Why not 
+</p>
+</letter>

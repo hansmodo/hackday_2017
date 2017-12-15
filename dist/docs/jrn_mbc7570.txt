@@ -1,0 +1,39 @@
+<letter id="mbc7570">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Russell abuses us in his letters. People here care a great deal for what Russell says, because he represents the London Times, and the Times reflects the sentiment of the English people. How we do cling to 
+the idea of an alliance with England or France ! Without France even Washington could not have done it. 
+</p><p>
+We drove to the camp to see the President present a flag to a Maryland regiment. Having lived on the battle 
+field (Kirkwood), near Camden, we have an immense respect for the Maryland line. When our militia in that 
+fight ran away, Colonel Howard and the Marylanders held their own against Rawdon, Cornwallis, and the rest, and 
+everywhere around are places named for a doughty captain killed in our defense Kirkwood, De Kalb, etc. The 
+last, however, was a Prussian count. A letter from my husband, written June 22d, has just reached me. He says: 
+</p><p>
+" We are very strongly posted, entrenched, and have 
+now at our command about 15,000 of the best troops in the 
+world. We have besides, two batteries of artillery, a regiment of cavalry, and daily expect a battalion of flying 
+artillery from Richmond. We have sent forward seven regiments of infantry and rifles toward Alexandria. Our out 
+posts have felt the enemy several times, and in every instance the enemy recoils. <a href='/results.php?tla=jpj' rel=''>General Johnston</a> has had several encounters the advancing columns of the two armies and with him, too, the enemy, although always superior 
+in numbers, are invariably driven back. 
+</p><p>
+" There is great deficiency in the matter of ammunition. <a href='/results.php?tla=jpj' rel=''>General Johnston's</a> command, in the very face of 
+overwhelming numbers, have only thirty rounds each. If they had been well provided in this respect, they could and 
+would have defeated Cadwallader and Paterson with great ease. I find the opinion prevails throughout the army that there is great imbecility and shameful neglect in the War Department. 
+</p><p>
+Unless the Republicans fall back, we must soon come together on both lines, and have a decided engagement. 
+But the opinion prevails here that <a href='/results.php?tla=abl' rel=''>Lincoln's</a> army will not meet us if they can avoid it. They have already fallen 
+back before a slight check from 400 of <a href='/results.php?tla=jpj' rel=''>Johnston's</a> men. They had 700 and were badly beaten. You have no idea 
+how dirty and irksome the camp life is. You would hardly know your best friend in camp guise. 
+</p><p>
+Noise of drums, tramp of marching regiments all day long; rattling of artillery wagons, bands of music, friends 
+from every quarter coming in. We ought to be miserable and anxious, and yet these are pleasant days. Perhaps we 
+are unnaturally exhilarated and excited. 
+</p><p>
+Heard some people in the drawing-room say: <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> ladies are not young, are not pretty, and I am one 
+of them. The truthfulness of the remark did not tend to alleviate its bitterness. We must put Maggie Howell and 
+Mary Hammy in the foreground, as youth and beauty are in request. At least they are young things bright spots 
+in a somber-tinted picture. The President does not forbid 
+our going, but he is very much averse to it. We are consequently frightened by our own audacity, but we are wilful women, and so we go. 
+</p>
+</letter>

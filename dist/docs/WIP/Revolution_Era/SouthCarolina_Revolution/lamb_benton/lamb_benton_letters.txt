@@ -1,0 +1,128 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.jvxnRZ on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--lab
+--DOC-AUTHOR-FIRST--Lamb
+--DOC-AUTHOR-LAST--Benton
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="lab3900">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a href='/results.php?city=st. davids' rel='city origin'>ST. DAVID'S</a>, Great Pee Dee, <a rel="month origin" value="8">August</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Though I have not the honor of a personal acquaintance with you, I 
+am now under the necessity of humbly addressing you in this manner in behalf of the parish and regiment I have the honor to represent and 
+command a people that have ever stood foremost among those, by their 
+inflexible attachment to their country; suffered many capital distresses, 
+nor did not despair of success in our greatest extremity. Although 
+we have so long been at such a distance from the enemy's lines, and 
+suffering every murder, plundering and cruelty, that could be perpetrated by a banditti of the most desperate villains and mulattoes, immediately bordering on our settlements, we have, on all occasions, turned 
+out, and kept in Gen. Marion's camp equal numbers with any in his 
+brigade. Part of those who were under a truce that have not surrendered, and many other villains in this part of the country, that still 
+continue their outrage, render the lives and property of the good citizens very unsafe; and this disorder, in all probability, must continue, 
+and the re-establishment of good order and civil law hindered, except 
+you, in your goodness, will indulge my regiment with a sufficient guard 
+to the gaol, as it is insufficient of its use ; with orders for supplies of 
+provisions for that and the poor inhabitants; an armed party to detect 
+and bring to punishment the refractory and disobedient, which my 
+warm desire for that purpose will induce me to engage to have punctually performed, with all due moderation, for the good of this country, 
+and agreeably to any instructions you may think proper to give me, 
+which I could do, and keep one-fourth on the field on common occasions, and on extraordinary emergencies with cheerfulness turn out one-half. My feelings will not let me omit mentioning to you some characters among them of Mr. Ganey's truce men, who have been received 
+by Gen. Marion as citizens, and are now doing military duty, and en 
+joying equal privileges with your best soldiers and citizens, who have 
+borne the burden and heat of the day. Such I mean as were meant to 
+be exempted by an Act of the late General Assembly at Jacksonborough 
+men who have burned, plundered, and in cold blood (after many of 
+our worthiest men had surrendered as prisoners of war) in the most 
+ignominious and cruel manner taken their lives, particularly Col. Abel Robb s, my worthy predecessor, and a gentleman formerly a member of 
+the Assembly, a Justice of the Peace, a good officer and a useful citizen, and capital loss to this part of the country; and the very villains 
+that perpetrated this wanton, horrid murder, burning and plundering, 
+are now, in the face of his distressed family and friends, received and 
+restored to equal privileges with the men who have suffered everything 
+by them that it was in their power and savage disposition to inflict. 
+I am, sir, your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=lab" rel="me">LAMB BENTON</a>, Lieut.- Col Com. Cheraw Militia. 
+</p><p>
+N. B. Your answer and instructions I shall hope to receive by the 
+bearer, Mr. Vinow, in regard to the above. I do not doubt but Gen. Marion will acquiesce to it, as I mentioned the matter to him not long 
+since, about provisions, men and ammunition. 
+</p><p>
+If you will be so kind as to furnish us with the militia laws, passed 
+by the last Assembly, it will be of singular service, and the people and 
+myself will be instructed. 
+</p>
+</letter><letter id="lab3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=st. davids' rel='city origin'>ST. DAVID'S</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.. 
+</p><p>
+SIR: 
+</p><p>
+Yours from Watbo of the 18th inst., I received, and in answer I 
+assure you, that I have constantly been, since my arrival at home, and 
+still am, using my utmost endeavors to send you the full one-third of 
+my regiment. The twenty men with which I had your permission to 
+guard the jail, have been constantly on hard duty, catching and bringing in the disobedient; so that, inclusive of what have been lately 
+ordered, and the guard will bring you, in addition to Major Thomas's 
+class, at least fifty men; and hope to have it in my power, about the 3d 
+of next month, to send you some more, as I expect by that time to have 
+another squad gathered. But, without this armed party to be constantly on duty, and monthly relieved, I cannot do anything, for the 
+district is so extensive, the duty so hard, and the distance to your camp 
+so far, that it can't be expected that the men who have just been discharged from your camp can perform that duty. This mode would 
+have been better executed if the Commanding Officer of my regiment 
+at home, when I was in the camp, had not have hindered every part of 
+my orders (that was in his power) for that purpose. There are but 
+fourteen of the twenty men mentioned that are at this time fit for duty, 
+six of whom I send with the party, and the others will come with the 
+next I have mentioned; though, 1 hope, you will send them back, as 
+the law cannot be enforced without them. The people are, at this time, 
+very sickly about home, as has appeared by the trials of a number of 
+men by a regimental court 1 lately ordered, and held four days, when 
+I used every lawful and reasonable method in my power to turn out the 
+men. There are several men. whom the guard will bring down, sentenced to some extraordinary duty, a list of whose names, and their 
+term of service, I will send to Major Thomas. 
+</p><p>
+I am, sir, with all due respect, your obdt. humble servant, 
+</p><p>
+<a href="/results.php?tla=lab" rel="me">LAMB BENTON</a>, Colonel 
+</p><p>
+N. B. If you permit me to continue the guard at the jail&gt; please 
+f,o ffive some instruction? about salt, &c.. for them, as it is scarce here. 
+</p>
+</letter><letter id="lab3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=st. davids' rel='city origin'>ST. DAVID'S</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours from Watbo I answered, ind expect it will be handed you 
+with this, as also yours from land's Ferry, of the 26th, is just come 
+to my hands. One-third of my regiment 1 have under orders to join 
+you, and expect with this will come in about fifty men, in addition to 
+Major Thomas division, and those that may remain behind I will send 
+with all possible expedition, so that if in my power the public service 
+may not be hindered. As to the men's being relieved monthly, it is so late 
+now that it will be impossible for me to get them in camp until near the 
+middle of the ensuing month. I am very sensible that it will make a 
+considerable confusion in the regiment, as the men do not look upon 
+themselves liable to go to camp yet, and the law will not oblige them until 
+each division does two months duty agreeably to law ; therefore, I must 
+beg to be excused in that particular, and I will send relief early in 
+October, when their tour will be out, according to law. 
+</p><p>
+I remain, with all due regard, your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=lab" rel="me">LAMB BENTON</a>, Lieut.- Col. Commandant. 
+</p><p>
+N. B. Excuse my paper, &c., which hindered me from writing more fully. L. B. 
+</p>
+</letter>

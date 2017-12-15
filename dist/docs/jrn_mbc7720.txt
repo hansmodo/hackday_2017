@@ -1,0 +1,17 @@
+<letter id="mbc7720">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Yesterday, we went to the Capitol grounds 
+to see our returned prisoners. We walked slowly up and down until Jeff Davis was called upon to speak. There I 
+stood, almost touching the bayonets when he left me. I looked straight into the prisoners faces, poor fellows. They 
+cheered with all their might, and I wept for sympathy, and enthusiasm. I was very deeply moved. These men were 
+so forlorn, so dried up, and shrunken, vrith such a strange look in some of their eyes ; others so restless and wild-looking ; others again placidly vacant, as if they had been dead to the world for years. A poor woman was too much for 
+me. She was searching for her son. He had been expected back. She said he was taken prisoner at Gettysburg. She 
+kept going in and out among them with a basket of provisions she had brought for him to eat. It was too pitiful. 
+She was utterly unconscious of the crowd. The anxious dread, expectation, hurry, and hope which led her on 
+showed in her face. 
+</p><p>
+A sister of <a href='/results.php?tla=mtl' rel=''>Mrs. Lincoln</a> is here. She brings the freshest scandals from Yankeeland. She says she rode with 
+Lovejoy. A friend of hers commands a black regiment. Two Southern horrors a black regiment and Lovejoy. 
+</p>
+</letter>

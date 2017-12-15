@@ -1,0 +1,43 @@
+<letter id="jde2401">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=london" rel="city origin">London</a>, <a rel="month origin" value="9">Sept.</a> <a rel="day origin" value="9">9th</a>, <a href="/results.php?year=1808" rel="origin">1808</a>.  
+</p><p>
+MY DEAR AND RESPECTED SIR : This makes my second letter to you since my arrival in this country. In my former, I acknowledged with gratitude and thanks the receipt of your dear and most welcome letter from Richmond. What trials, what misfortunes, have you not undergone, and your dear and worthy Mrs. Blennerhassett 
+too ! But, my friend, though great your misfortunes, what are they when compared to those which the generous and ill-fated Barry family have lately undergone ? I am really so overwhelmed with grief at the sad tidings I 
+have had within these few days of that family, that I can scarcely arrange my thoughts so as to be understood. 
+Only think of it, that poor Mrs. Barry, after the demise of her beloved husband in <a href="/results.php?city=new york" rel="city">New York</a>, hastened with her only remaining daughter to Madeira, in hopes of preserving her existence by a change of climate ; but, alas ! it was too late : she died soon after her arrival there ; and her poor mother, broken-hearted, is now left the last of her family. This melancholy and deplorable event has awakened all my woes. My dear friend, what is this life, after all ? 
+</p><p>
+From the trying afflictions you and your worthy Mrs. Blennerhassett have so lately experienced, I should not 
+thus obtrude my griefs upon you. But they are griefs produced by the sufferings of one of the best of families, and 
+who, with yours, most attract my regards of any in this world. Enough of this painful subject too painful to dwell upon. 
+</p><p>
+As I mentioned to you in my last letter, I perfectly agree with you in the sentiments you expressed to me 
+from <a href="/results.php?city=richmond" rel="city">Richmond</a>, and which I have long felt, I assure you. Yes, my friend, from what is past, and from what is gone, 
+never to be recalled again, I could most willingly estrange myself from this world to share a little content with you 
+in any corner or in any obscurity. 
+</p><p>
+I have already mentioned to you that I failed in my application to this government. They will not even permit me to visit my native country. I, knowing the cause, am not surprised at it; for you must know they intercepted one of O'Connor's letters to me, about three years ago, in which he offered me a nattering rank to enter the 
+French service with him. This offer, though made to aid misfortune more than rebellion, has operated very seriously against me ; and, was it not for the precaution I took previous to my leaving the United States, I might now be 
+immured in the Tower. But, my dear friend, the disappointment does not now affect me; for, truly, I never cared so little as to independence in money matters as I do at this moment. 
+</p><p>
+Without adverting to the cause of my inquiry, I asked two or three gentlemen from about Cork as to the per 
+sons you have named, but could gain no satisfactory intelligence. Had I been permitted to have gone to Ireland, I should have gone every length in tracing that subject. As I feel extremely anxious to hear from you, 
+and of your estimable lady and children, I entreat you to write me as speedily as possible of your future plans, and 
+where we are yet to meet. 
+</p><p>
+As I can not express to you, my dearest friend, what I feel, I shall end this scrawl with best wishes and regards 
+to you, dear Mrs. Blennerhassett, and my young friend Dominick. 
+</p><p>
+Your most truly attached and distressed friend, 
+</p><p>
+<a href="/results.php?tla=jde" rel="me">J. DEVEREUX</a>. 
+</p><p>
+P. S. I do'nt mean to return to the United States immediately. There is no prospect I should think of 
+the embargo's being very soon raised, unless for a more active scene of operation; and, of course, if so, there 
+could he nothing to engage my attention particularly there; and by remaining here, I am more to myself 
+from the sight of the world. Hoping that you will not omit writing to me by the first opportunity, I am, again, 
+</p><p>
+Yours, most sincerely, J. D. 
+</p>
+</letter>

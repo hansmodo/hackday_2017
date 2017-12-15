@@ -1,0 +1,53 @@
+<letter id="alh3207">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=black point' rel='city origin'>Black Point</a>. <a rel="day origin" value="20">20</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+Inclosed I transmit your Excellency a letter from 
+<a href='/results.php?tla=cde' rel='colleague met'>Count D Estaing</a>. He has had the river sounded, and 
+finds he cannot enter. He will sail for Rhode Island 
+to-morrow evening ; in the mean time, he is making 
+demonstrations to deceive the enemy, and beget an 
+opinion that he intends to operate in this quarter. 
+He would sail immediately, but he waits the arrival, 
+or to hear, of a frigate which carried M. Gerard to 
+Delaware, and which he appointed to meet him at 
+Sandy Hook, so that he fears his sudden and unexpected departure, before she arrives, might cause her 
+to be lost. He will not, however, wait longer than 
+till to-morrow evening. We have agreed that five 
+cannon, fired briskly, shall be a signal of his arrival 
+by day, and the same number, with five sky-rockets,a signal by night. 
+</p><p>
+In communicating this to <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a>, the Count 
+wishes not a moment may be lost, and that he may 
+be directed to have persons stationed on the coast, 
+and intermediate expresses to facilitate the communication between them. Pilots will be a material article. He begs every thing may be forwarded as much 
+as possible, and as many troops collected as may be. 
+He would be glad if a detachment could march from 
+your army, or could be sent by water, for which purpose he would send covering ships and some vessels 
+he has taken by way of transports ; but he cannot 
+think of losing so much time as seems necessary. If 
+the water scheme could shorten it, it would be a 
+happy circumstance. He recommends it to your attention, and that you would take measures, if the end 
+can be better answered in this way, and meet him with information of the part he may have to act to 
+execute the plan. I perceive he can with difficulty 
+debark four thousand troops, but he will try to do it. 
+I am, Sir, 
+</p><p>
+Your most respectful and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p><p>
+P. S. I hope your Excellency will excuse my not 
+being myself the bearer of these particulars ; the end 
+may be answered by letter. Mr. Neville is anxious 
+to get on. I have just heard of despatches arrived 
+from you ; I don t know but they may contain some 
+thing new, which may make the Count wish a good 
+conveyance to return an answer. My stay till to 
+morrow morning may answer that end. I shall not 
+delay coming forward. 
+</p>
+</letter>

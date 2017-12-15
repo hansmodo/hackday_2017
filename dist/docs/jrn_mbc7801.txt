@@ -1,0 +1,32 @@
+<letter id="mbc7801">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='26'>26th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. I do not write often now, not for want of something to say, but from a loathing of all I see and hear, 
+and why dwell upon those things? 
+</p><p>
+Colonel Chesnut, poor old man, is worse grows more restless. He seems to be wild with " homesickness." He 
+wants to be at Mulberry. When there he can not see the mighty giants of the forest, the huge, old, wide-spreading 
+oaks, but he says he feels that he is there so soon as he hears the carriage rattling across the bridge at the Beaver Dam. 
+</p><p>
+I am reading French with Johnny anything to keep him quiet. We gave a dinner to his company, the small 
+remnant of them, at Mulberry house. About twenty idle negroes, trained servants, came without leave or license and 
+assisted. So there was no expense. They gave their time and labor for a good day's feeding. I think they love to be 
+at the old place. 
+</p><p>
+Then I went up to nurse Kate Withers. That lovely girl, barely eighteen, died of typhoid fever. Tanny wanted his 
+sweet little sister to have a dress for Mary Boykin's wedding, where she was to be one of the bridesmaids. So Tanny 
+took his horses, rode one, and led the other thirty miles in the broiling sun to Columbia, where he sold the led horse 
+and came back with a roll of Swiss muslin. As he entered the door, he saw Kate lying there dying. She died praying 
+that she might die. She was weary of earth and wanted to be at peace. I saw her die and saw her put in her coffin. 
+No words of mine can tell how unhappy I am. Six young soldiers, her friends, were her pall-bearers. As they 
+marched out with that burden sad were their faces. 
+</p><p>
+Princess Bright Eyes writes: " Our soldier boys returned, want us to continue our weekly dances." Another 
+maiden fair indites: " Here we have a Yankee garrison. We are told the officers find this the dullest place they were 
+ever in. They want the ladies to get up some amusement for them. They also want to get into society. 
+</p><p>
+From Isabella in Columbia: " General Hampton is home again. He looks crushed. How can he be otherwise ? 
+His beautiful home is in ruins, and ever present with him must be the memory of the death tragedy which closed for 
+ever the eyes of his glorious boy, Preston! Now! there strikes up a serenade to General Ames, the Yankee commander, by a military band, of course. . . . Your last letters have been of the meagerest. What is the matter ? 
+</p>
+</letter>

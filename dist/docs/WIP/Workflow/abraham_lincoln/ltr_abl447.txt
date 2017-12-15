@@ -1,0 +1,39 @@
+<letter id='abl447'>
+<recipient first='John' last='Schofield' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a><br>
+ June 22, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+GENERAL JOHN M. SCHOFIELD.
+</p><p>
+MY DEAR SIR:--Your despatch, asking in substance whether, in case
+Missouri shall adopt gradual emancipation, the General Government
+will protect slave owners in that species of property during the
+short time it shall be permitted by the State to exist within it, has
+been received. Desirous as I am that emancipation shall be adopted
+by Missouri, and believing as I do that gradual can be made better
+than immediate for both black and white, except when military
+necessity changes the case, my impulse is to say that such protection
+would be given.  I cannot know exactly what shape an act of
+emancipation may take.  If the period from the initiation to the
+final end should be comparatively short, and the act should prevent
+persons being sold during that period into more lasting slavery, the
+whole would be easier.  I do not wish to pledge the General
+Government to the affirmative support of even temporary slavery
+beyond what can be fairly claimed under the Constitution. I suppose,
+however, this is not desired, but that it is desired for the military
+force of the United States, while in Missouri, to not be used in
+subverting the temporarily reserved legal rights in slaves during the
+progress of emancipation. This I would desire also. I have very
+earnestly urged the slave States to adopt emancipation; and it ought
+to be, and is, an object with me not to overthrow or thwart what any
+of them may in good faith do to that end. You are therefore
+authorized to act in the spirit of this letter in conjunction with
+what may appear to be the military necessities of your department.
+Although this letter will become public at some time, it is not
+intended to be made so now.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

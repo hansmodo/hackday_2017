@@ -1,0 +1,32 @@
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a> City,<br>
+Sept. 27th, <a href="/results.php?year=1883">1883</a>.
+</p><p>
+MY DEAR CLARA:
+</p><p>
+On my return from the trip over the North Pacific Railroad to the
+Pacific Coast last Friday, I found your excellent and welcome letter,
+with enclosures. Your aunt was very much pleased with your letter and
+poetry as well as with your essay. They all do you great credit, and I
+think you can well sustain yourself as a writer with any young lady of
+your age in this or any other land.
+</p><p>
+My trip over the northern route to the Pacific about completes my
+personal observation of every part of our country. I was not prepared
+to see so rich a country or one so rapidly developing. Across the
+continent where but a few years ago the Indian held undisputed sway,
+there is now a continuous settlement, and every ten or fifteen miles a
+town or city, each with spires of the school house and the church. The
+soil for almost the entire distance is as fertile as that of Illinois.
+I saw your Aunt Jennie yesterday. She is quite well. All my family are
+well and join in love to you. I think neither your Aunt nor I will ever
+visit Europe again. We may, however, change our minds. But we are
+getting a little too old to enjoy travelling, and then we have such
+pleasant homes for both summer and winter.
+</p><p>
+Love to your father and mother.
+</p><p>
+Yours truly,
+</p>
+U.S. GRANT.
+

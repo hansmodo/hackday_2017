@@ -1,0 +1,35 @@
+<letter id="bea3029">
+<recipient first="John" last="Sullivan"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>Montreal</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="6">June</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I have complied with your orders, as for as in my power, 
+respecting the destination of the troops. I intended setting off 
+this day for Sorel, but have been much hindered by taking the 
+goods in town. Every possible obstacle has been thrown in 
+my way. However, I shall secure many articles much wanted 
+by the army. Yesterday, Colonel Dehaas, with his detachment, 
+set off for Sorel. Last night and this morning I have received 
+intelligence of four or five hundred savages and Canadians being  on the Island, with the intention of attacking our post at 
+La Chine ; and, as the garrison is so weak we can spare few 
+men from it, I have thought proper to order Colonel Dehaas 
+to return. I think it absolutely necessary some effectual methods should be taken with the savages immediately, or we 
+shall be obliged to keep up a large force here. I shall be continually harassed with them. This affair will prevent my joining  you at Sorel as soon as I could wish. It will not be in my power to take an account of the goods, and send them off, these three days. 
+</p><p>
+I believe the enemy below will not advance very suddenly. 
+I make no doubt you will have time to prepare for them, and 
+that we shall be reenforced in time to secure this part of the 
+country. I have ordered Colonel Bedel, his Major, and Captain Young, to Sorel for their trial. 
+</p><p>
+An express arrived here from Three Rivers yesterday. I 
+must refer you to General Thompson for the advice he brought. 
+We have only two pieces of cannon here, and no matrosses. 
+</p><p>
+With great esteem and affection, I am, dear General, 
+Your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

@@ -1,0 +1,44 @@
+<letter id="alh3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>; 
+Mr. Kennedy's House. 
+</p><p>
+Sm, 
+</p><p>
+I arrived at this place last night, and, unfortunately, find myself unable to proceed any further. Imagining I had got the better of my complaints, which 
+confined me at <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a>'s, and anxious to be about, attending to the march of the troops, the day 
+before yesterday I crossed the ferry, in order to fall 
+in with General Glover's brigade, which was on its 
+march from <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a> to <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>. I did not. 
+however, see it myself, but received a letter from 
+Colonel Shepherd, who commands the brigade, in 
+forming me he would be, last night, at <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>, and 
+this night at King's Ferry. Wagons, &c., are provided on the other side for his accommodation, so 
+that there need be no delay, but what is voluntary ; 
+and, I believe, Colonel Shepherd is as well disposed 
+as could be wished to hasten his march. General 
+Poor's brigade crossed the ferry the day before yesterday. Tw 7 o York regiments, Cortlandt's and Livings 
+ton's, are with them; they were unwilling to be sepa 
+rated from the brigade, and the brigade from them. 
+<a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> was unwilling to keep them with 
+him, and, if he had consented to do it, the regiments 
+to replace them would not join you within six days 
+as soon as these. 
+</p><p>
+The troops now remaining with <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> 
+will amount to about the number you intended, 
+though they are not exactly the same. He has detached Colonel Charles Webb's regiment to you. He 
+says the troops with him are not in a condition to 
+march, being destitute of shoes, stockings, and other 
+necessaries ; but, I believe, the true reasons of his 
+being unwilling to pursue the mode pointed out by 
+you were, his aversion to the York troops, and his 
+desire to retain General Parsons with him. I am, 
+with much respect and esteem, 
+</p><p>
+Y r our Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

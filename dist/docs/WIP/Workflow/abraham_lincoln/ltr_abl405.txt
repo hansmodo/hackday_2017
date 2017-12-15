@@ -1,0 +1,30 @@
+<letter id='abl405'>
+<recipient first='George' last='McClellan' type='individual'/>
+<p>
+WAR DEPARTMENT, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a> CITY, D.C., July 4, <a href="/results.php?year=1862">1862</a>.
+</p><p>
+MAJOR-GENERAL McCLELLAN:
+</p><p>
+I understand your position as stated in your letter and by General Marcy. To reinforce you so as to enable you to resume the offensive
+within a month, or even six weeks, is impossible. In addition to that arrived and now arriving from the Potomac (about 10,000 men, I
+suppose), and about 10,000 I hope you will have from <a href="/results.php?tla=aeb" rel="co-worker">Burnside</a> very
+soon, and about 5000 from Hunter a little later, I do not see how I can send you another man within a month. Under these circumstances
+the defensive for the present must be your only care. Save the army first, where you are, if you can; secondly, by removal, if you must.
+You, on the ground, must be the judge as to which you will attempt,
+and of the means for effecting it. I but give it as my opinion that
+with the aid of the gunboats and the reinforcements mentioned above
+you can hold your present position--provided, and so long as, you can
+keep the James River open below you. If you are not tolerably
+confident you can keep the James River open, you had better remove as
+soon as possible. I do not remember that you have expressed any
+apprehension as to the danger of having your communication cut on the
+river below you, yet I do not suppose it can have escaped your attention.
+</p><p>
+Yours very truly,
+</p><p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</p><p>
+P.S.--If at any time you feel able to take the offensive, you are not restrained from doing so.
+<p>
+A.L.
+</p></letter>

@@ -1,0 +1,32 @@
+<letter id="tip4966">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>MORRISTOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='26'>26th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> , 10 o clock, evening. 
+</p><p>
+After the enemy left the Jerseys, we had reason to 
+apprehend they intended to go to the eastward, or up the 
+North River. This induced us to march from Middle Brook 
+to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, thence to <a href='/results.php?city=pompton' rel='city'>Pompton</a>, thence within eighteen 
+miles of King's Ferry, and thence into Smith's Clove, in a 
+route that would carry us to New Windsor, where we should 
+have crossed the ferry to <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>. But, having advanced 
+a dozen miles into the Clove, we halted, having reason to 
+doubt, from the enemy's movements and the best intelligence we could obtain, whether they were bound up the 
+North River or to the eastward, or not. At length we had 
+such intelligence as induced the general officers to think 
+Howe intended for <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. This intelligence was 
+strengthened by a letter, written with Howe's own hand, to 
+<a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>, in which he says he is going to <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+But he sent it out by a man who had been confined by him 
+in the provost three weeks, and on whom he had no reason 
+to rely. In short, it was not doubted but he sent it 
+on purpose by such a messenger, that it might fall into 
+our hands. The messenger, at the first guard of ours he 
+met, delivered it up to the officer, and gave what other 
+information he could. We had, before the receipt of 
+Howe's letter, come back out of the Clove. We are now 
+got back to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, and shall proceed on towards 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; for the bulk of the enemy's ships have sailed 
+from <a href='/results.php?city=new york' rel='city'>New York</a>, and, it is supposed, for <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>.
+</p>
+</letter>

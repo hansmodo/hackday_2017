@@ -1,0 +1,110 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.g5NT8s on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--jhc
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Cadwalader
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jhc3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=bristol' rel='city origin'>Bristol</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+The river was so full of ice that it was impossible 
+to pass above Bristol, where I intended, and there 
+fore concluded to make an attempt at Dunks's Ferry. 
+As soon as it was dark, I sent down all the boats I 
+could muster, and marched down about eight o clock. 
+I embarked a few men to line the river, and prevent any person escaping to give intelligence to the 
+enemy ; and these were followed by a part of the 
+first battalion of militia, then two field-pieces, with 
+which I went over to see if it was practicable to 
+land them, and, upon examination, found it was impossible, the ice being very thick. Upon reporting 
+this to the field-officers, they were all of opinion 
+that it would not be proper to proceed without can 
+non. During this time the third battalion was land 
+ed. We concluded to withdraw the troops that had 
+passed, but could not effect it till near four o clock 
+this morning. The whole then were ordered to march 
+for Bristol. 
+</p><p>
+I imagine the badness of the night must have prevented you from passing, as you intended.! Our 
+men turned out cheerfully. We had about eighteen 
+hundred rank and file, including artillery. It will be 
+impossible for the enemy to pass the river till the 
+ice will bear. Would it not be proper to attempt to cross below, and join <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, who was to 
+go over from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> to-day, with five hundred 
+men, which number, added to the four hundred Jersey militia which Colonel Griffin left there, would 
+make a formidable body. This would cause a diver 
+sion, that would favor any attempt you may design in 
+future, and would expose their baggage and stores, 
+if they attempt to cross. It is impossible, in our 
+present situation, to cooperate with <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>. 
+The militia will be easier kept together by being in 
+motion. We shall have some service from Colonel 
+Hitchcock's brigade, whose time of enlistment will be 
+up in a few days. We have procured a considerable 
+number of shoes, stockings, and breeches for them. 
+They are in good spirits, and enlist very fast, I am, 
+Sir, with great respect, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhc" rel="me">JOHN CADWALADER</a>. 
+</p>
+</letter><letter id="jhc3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=burlington' rel='city origin'>Burlington</a>, 10 o clock, <a rel="day origin" value="27">27</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+As I did not hear from you this morning, and being  prepared to embark, I concluded you were still 
+on this side, and therefore embarked, and landed 
+about fifteen hundred men about two miles above 
+Bristol. After a considerable number were landed, 
+I had information from the Paymaster of Colonel Hitchcock's brigade, that you had crossed over from 
+<a href='/results.php?city=trenton' rel='city'>Trenton</a>. This defeated the scheme of joining your 
+army. We were much embarrassed which way to 
+proceed. I thought it most prudent to retreat; but 
+<a href='/results.php?tla=jor' rel='colleague'>Colonel Reed</a> was of opinion that we might safely 
+proceed to Burlington, and recommended it warmly, 
+lest it should have a bad effect on the militia, who 
+were twice disappointed. The landing in open day 
+light must have alarmed the enemy, and we might 
+have been cut off by all their force collected to this 
+place. We had intelligence, immediately afterward, 
+that the enemy had left the Black Horse and Mount Holley. Upon this we determined to proceed to Burlington. 
+</p><p>
+<a href='/results.php?tla=jor' rel='colleague'>Colonel Reed</a> and two other officers went on, from 
+one point to another, till they came to Bordentown, 
+where they found the coast clear. <a href='/results.php?tla=jor' rel='colleague'>Colonel Reed</a> and 
+Colonel Coxe are now there, and we shall march, at 
+four to-morrow morning, for that place. This information has induced me to proceed, though not quite 
+conformable to your orders, which I received on the 
+march this afternoon. If you should think proper to 
+cross over, it may be easily effected at the place 
+where we passed. A pursuit would keep up the panic. 
+</p><p>
+They went off with great precipitation, and pressed 
+all the wagons in their reach. I am told many of 
+them are gone to South Amboy. If we can drive 
+them from West Jersey, the success will raise an 
+army by next spring, and establish the credit of the 
+Continental money to support it. I shall write to-morrow, I hope, from <a href='/results.php?city=trenton' rel='city'>Trenton</a>. I am, Sir, 
+</p><p>
+Your most obedient, very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhc" rel="me">JOHN CADWALADER</a>. 
+</p><p>
+P. S. I have two six-pounders, brass, and two 
+three-pounders, iron. 
+</p>
+</letter>

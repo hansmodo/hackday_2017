@@ -1,0 +1,42 @@
+<letter id="ben4730">
+<recipient first="Joseph" last="Galloway" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I wrote to you very fully by Falconer, of February 17, and 
+have since received yours of January 21, together with one 
+from the Committee, and the messages which, as you will 
+see by my answer to the Committee, I communicated to Lord 
+Hillsborough. His Lordship read them deliberately, and 
+took notice that the message of the Assembly seemed to insinuate, that the governor had been tardy in bringing the 
+former murderers to justice, which gave me an opportunity 
+of explaining that matter to him; whereby he might also 
+understand why the Proprietor had not shown him the messages when he communicated the governor's letter concerning 
+the Indian uneasinesses, the law under his consideration for 
+removing them, the late murder, and his proclamation. I 
+shall wait on his Lordship again next Wednesday, on our 
+affairs, and show him moreover your letter with some other 
+papers. 
+</p><p>
+The old Parliament is gone, and its enemies now find themselves at liberty to abuse it. I inclose you a pamphlet, published the very hour of its prorogation. All the members are 
+now in their counties and boroughs among their drunken 
+electors; much confusion and disorder in many places, and 
+such profusion of money as never was known before on any 
+similar occasion. The first instance of bribery to be chosen 
+a member, taken notice of on the journals, is no longer ago 
+than Queen Elizabeth's time, when the being sent to Parliament was looked upon as a troublesome service, and therefore not sought after. It is said that such a one, "being a 
+simple man, and conceiving it might be of some advantage to 
+him, had given jour pounds to the mayor and corporation, 
+that they might choose him to serve them in Parliament." 
+</p><p>
+The price is monstrously risen since that time, for it is now 
+no less than four thousand pounds! It is thought, that near 
+two millions will be spent this election ; but those, who understand figures and act by computation, say the crown has two 
+millions a year in places and pensions to dispose of, and it is 
+well worth while to engage in such a seven years' lottery, 
+though all that have tickets should not get prizes. I am, my 
+dear friend, yours affectionately, B. FRANKLIN. 
+</p>
+</letter>

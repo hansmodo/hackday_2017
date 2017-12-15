@@ -1,0 +1,16 @@
+<letter id='abl409'>
+<recipient first='Thomas' last='Clay' type='individual'/>
+<p>
+WAR DEPARTMENT, October 8, <a href="/results.php?year=1862">1862</a>.
+</p><p>
+THOMAS H. CLAY, Cincinnati, Ohio:
+</p><p>
+You cannot have reflected seriously when you ask that I shall order General Morgan's command to Kentucky as a favor because they have
+marched from Cumberland Gap. The precedent established by it would evidently break up the whole army. Buell's old troops, now in
+pursuit of Bragg, have done more hard marching recently; and, in fact, if you include marching and fighting, there are scarcely any
+old troops east or west of the mountains that have not done as hard service. I sincerely wish war was an easier and pleasanter business
+than it is; but it does not admit of holidays. On Morgan's command, where it is now sent, as I understand, depends the question whether
+the enemy will get to the Ohio River in another place.
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

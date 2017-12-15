@@ -1,0 +1,202 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.yOPiKk on line 287
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--nag
+--DOC-AUTHOR-FIRST--Nathanael
+--DOC-AUTHOR-LAST--Greene
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="nag4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, 	<a rel='day origin' value='16'>16</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have been honored with your Excellency's despatches of the 18th of December and 29th of January. I am made happy by your full approbation 
+of my conduct, and the army under my command, 
+during the southern operations. The evacuation of 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a>, and the proposals of peace, are matters 
+highly interesting to this country, whose finances and 
+political arrangements are in the most deplorable situation. <a href='/results.php?city=charleston' rel='city'>Charleston</a> remains without a platform, or a 
+single cannon for its defence. The subsistence of the 
+troops, for some time after the evacuation of this 
+place, depended on military collections ; but, happily, 
+we have made a contract for their future subsistence. 
+On this subject I should feel easy, but for the critical situation the Financier writes me his department 
+is circumstanced. 
+</p><p>
+The States have rejected the five per cent, duty 
+act generally, and few pay any thing into the Continental Treasury any other -way. I wrote a letter to 
+this State on the subject a few days past, stating 
+some facts respecting the discontents prevailing in 
+the Northern army respecting pay, and what might 
+be expected in this to the southward. I thought it 
+my duty to warn the State of what I apprehended. 
+The impost act was rejected, notwithstanding, and 
+the Assembly offended. I will ever speak my sentiments, and act with candor. I wish to know the nature and extent of the discontent ]3revailing in the 
+northern troops. Matters are represented here in 
+dark colors. The report spreads among our troops, 
+and threatens a convulsion. I shall give you the 
+best information on the subject in my power ; but 
+these things often come to a crisis from accident and 
+indiscretion, before one expects it. I could wish to 
+be fully informed respecting the temper of the Northern army ; it would enable me to counteract many 
+aggravations here. 
+</p><p>
+I have communicated to the Assembly your orders 
+for marching the troops to the northward ; but I am 
+much at a loss how to act in the matter. Your Excellency seems to leave a latitude of discretion respecting the tranquillity of these States ; but your 
+comment upon a desultory and predatory war, appears 
+to be intended to limit m}' discretionary powers to 
+matters of serious invasion. We have none at present, 
+and yet there are parties continually making inroads 
+upon different sides of both Georgia and South Carolina, from St. Augustine. 
+</p><p>
+If I put the troops in motion, as you mention, it 
+leaves the Southern States a prey to every invader. 
+A small force, in their present distracted state, would 
+overrun the country, and <a href='/results.php?city=charleston' rel='city'>Charleston</a> may be repossessed, at any time, by a few frigates, with a regiment or two of inftmtiy. I would wish to follow 
+your intention. If I could conceive you had a clear 
+idea of the weakness and distress of this country, the 
+troops should march immediately ; hut the prospects 
+of peace, and the possibility of <a href='/results.php?city=new york' rel='city'>New York</a> being evacuated, if the war should continue, induce me to 
+wait until the arrival of the next despatches. In the 
+mean time, I shall have every preparation made for 
+their marching as soon as may be. The men are 
+well clothed, and pretty well disciplined. Some few 
+days before the arrival of your last letter, from an 
+appearance of an invasion upon Georgia, I put the 
+Virginia troops in motion for the protection of that 
+quarter ; and, as their numbers are small, and will be 
+of little consequence in the siege, I shall not march 
+them until your further orders. 
+</p><p>
+The people of this State are much prejudiced 
+against Congress and the Financier. Those who came 
+from the northward think they have been amazingly 
+neglected by both in their distresses. Their General disposition leads more to an independence of Congressional connection, than I could wish, or is for 
+their peace or welfare. This State has contributed 
+more than any other State, it is true, towards the 
+Continental expenses; but necessity obliged them. I 
+wish all the States could see how much the tranquillity of each depended upon giving effectual support 
+to Congress. I have the honor to be, with great 
+respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter><letter id="nag4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I beg leave to congratulate your Excellency upon 
+the returning smiles of peace, and the happy establishment of our independence. This important event 
+must be doubly welcome to you, who have so successfully conducted the war, through such a variety 
+of difficulties, to so happy a close. If universal respect, and the general affections of a grateful country, 
+can compensate for the many painful hours which 
+you have experienced in your country's cause, you 
+are richly rewarded. Every heart feels, and every 
+tongue confesses, the merit and importance of your 
+services. The polite attention, which I have experienced since I have had the honor to serve under 
+your command, claims my particular acknowledgments ; and I feel a singular satisfaction in having 
+preserved your confidence and esteem through the 
+whole progress of the war, notwithstanding man}'- jarring interests. 
+</p><p>
+This pleasing event has relieved me from a load 
+of anxiety on account of this country. I was much 
+perplexed about withdrawing the troops from these 
+States. 
+</p><p>
+I wished to comply fully with the spirit of your 
+orders on this subject, but was at a loss how, without involving us both in difficulties. Happily for us, 
+these are removed. I have sent an express-boat to 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, to get your final orders respecting the 
+troops, and to see if transports can be got to take 
+the army to the northward, as I am anxious to get 
+it away from here as early as possible. I hope this 
+may find you in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and that you will be 
+able to return me an answer in a few days. The 
+cavalry must march by land, unless the horses are 
+sold here. I suppose I shall have liberty to come to 
+the northward, as soon as I can make it convenient, 
+where I have many calls, both of a public and private nature. I have the honor to be, with great respect and esteem, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter><letter id="nag4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, 	<a rel='day origin' value='8'>8</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+When I wrote you last, I did not expect to address you from this place again ; but Colonel Carrington has detained me upwards of a week, to complete 
+the business of his department. On Thursday next 
+we set off, by land, for the northward. 
+The Assembly of this State have rejected the impost act recommended by Congress. Had your circuLar, letter been printed a fortnight earlier, I am 
+persuaded it would have brought them into the measure. On once reading in the House, it produced an 
+alteration of sentiment of more then one quarter of 
+the members. The force and affection, with which it 
+was written, made every one seem to embrace it with 
+avidity. You were admired before ; you are little less 
+than adored now. The recommendation of Congress 
+had but a feeble influence until it was supported by 
+yours. Although the State did not come into the 
+plan recommended by Congress, they have laid a tax 
+of five per cent., under the authority of the State, to 
+be solely for the Continental use. This I attribute 
+entirely to your letter. Its effects have been astonishing. 
+</p><p>
+I see, by the papers, the Northern army does not 
+choose to be furloughed. The people here begin to 
+be alarmed at it. I hope every thing will terminate 
+both for the honor of the army and satisfaction of 
+the people, notwithstanding. There have been several little mobs and riots lately in this town, owing 
+to the indiscretion of some of the British merchants, 
+and to the violence of temper and private views of 
+some of the Whig interest. Tranquillity now prevails, 
+and there is little probability of any further disturbances. I hope to be at <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> in about 
+three weeks ; but, from all I can learn of the northern affairs, there is little probability of my having 
+the pleasure of meeting your Excellency there. Present me, respectfully, to Mrs. Washington, if with 
+you, and to all the firmily. I am, with esteem and 
+affection. 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter><letter id="nag4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='3'>3</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I return your Excellency many thanks for your 
+polite letter, accompanying the resolution of Congress, 
+complimenting me with a couple of cannon. I am \ 
+not very certain where those cannon^ are, but I believe two are in Virginia, and three in South Carolina; and it is no less difficult for me to determine 
+where I would wish those sent which are made choice 
+of for me. If those in South Carolina should be fixed 
+upon, I would wish them to remain in <a href='/results.php?city=charleston' rel='city'>Charleston</a>. 
+But if those in Virginia should be appropriated for 
+this purpose, if agreeable, let them be sent to Newport. Should any thing happefi before this business 
+is executed, which should enable me to be more explicit on the subject, I shall take the earliest opportunity of signifying to your Excellency my further 
+wishes in the matter. I am, with the highest respect, 
+and greatest esteem. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

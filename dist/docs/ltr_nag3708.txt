@@ -1,0 +1,72 @@
+<letter id="nag3708">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='19'>19</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am happy in the opportunity of answering your 
+Excellency, that I am received and treated with all 
+the marks of respect and attention that I can wish. 
+Your letters have been of singular service ; and I am 
+exceedingly obliged to you for the warm manner in 
+which you recommended me to the notice of your 
+friends ; among whom, Mr. Carey has been very polite and obliging. 
+</p><p>
+Your weight and influence, both with Congress and 
+this State, in support of the southern operations, will 
+be exceedingly important and necessary to my success. 
+I must request, therefore, in the most earnest manner, 
+that your Excellency continue to animate both those 
+bodies, with your opinion and recommendations, to 
+such measures, and such exertions, as will be necessary to give due support to the Southern army, 
+without which, I am very apprehensive, the languor 
+that is too apt to seize all public bodies will lull 
+them into a state of false security, and the affairs in 
+the Southern department will and must go to ruin. 
+It has been my opinion for a long time; that personal influence must supply The defects of civil constitution; 
+but I have never been so fully convinced of it as on 
+this journey. I believe the vievss and wishes of the 
+great body of the people are entirely with us. But 
+remove the personal influence of a few, and they are a 
+lifeless and inanimate mass, without direction, or spirit 
+to employ the means they possess, for their own security. 
+</p><p>
+I cannnot contemplate my own situation without 
+the greatest degree of anxiety. I am far removed 
+from almost all my friends and connections, and have 
+to prosecute a war in a country, in the best state 
+attended with almost insurmountable difficulties, but 
+doubly so now, from the state of our finances and 
+the loss of public credit. How I shall be able to 
+support myself, under all these embarrassments, God 
+only knows ! My only consolation is, that if I fail, I 
+hope it will not be accompanied with an}'- peculiar 
+marks of personal disgrace. Censure and reproach ever 
+follow the unfortunate. This I expect, if I don't succeed ; and it is only in the degree, not in the entire 
+freedom, that I console myself The ruin of my family is what hangs most heavy upon my mind. My 
+fortune is small, and misfortune or disgrace to me 
+must be ruin to them. 
+</p><p>
+I beg your Excellency will do me the honor to 
+forward the inclosed letter to Mrs. Greene, by the 
+first safe conveyance, who is rendered exceedingly 
+unhappy at my going to the southward. 
+</p><p>
+Mr. Custis arrived in town yesterday, and says 
+Mrs. Washington is to set out for the army this day. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p><p>
+P. S. Colonel Scammell, perhaps, will be promoted 
+to the rank of Brigadier ; at least, it has been talked 
+of. Should this take place, a new Adjutant-General will be necessary J and I beg leave to suggest the 
+propriety of giving this appointment to <a href='/results.php?tla=alh' rel='colleague met'>Colonel Hamilton</a>. His services may not be less important to 
+your Excellency in your family business, if he only 
+employs a deputy extraordinary ; and I am persuaded 
+the appointment will be received with great gratitude, 
+as I am confident it is his wish, by what he said to 
+me before I left camp. 
+</p>
+</letter>

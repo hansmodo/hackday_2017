@@ -1,0 +1,21 @@
+<letter id="pjs3013">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+I wish I had no occasion to send my dear General this melancholy account. My amiable friend, the gallant Montgomery, is no more ; the brave Arnold is 
+wounded; and we have met with a severe check in an unsuccessful attempt on Quebec. May Heaven be graciously pleased that the misfortune may terminate 
+here ! I tremble for our people in Canada ; and no thing, my dear Sir, seems left to prevent the most fatal consequences, but an immediate reinforcement 
+that is nowhere to be had but from you; and the only route, that which I have pointed out in my letter to Congress, copy of which you have inclosed. 
+Nor do I think that a less number than I have mentioned will suffice. Should your Excellency think proper to send the troops, you will please to let me 
+know it by express, that I may send provisions to Onion River.
+</p><p>
+Congress has wrote to me on the subject of my request to retire. Our affairs are much worse than when I made the request. This is motive sufficient 
+for me to continue to serve my country in any way I can be thought most serviceable; but my utmost can be but little, weak and indisposed as I am. The 
+clothing is gone to <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>. 
+</p><p>
+I am your Excellency's most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

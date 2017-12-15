@@ -1,0 +1,27 @@
+<letter id="sid5034">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+I had the honor of receiving on the 4th of March last, in a letter from <a href="/results.php?tla=jal" rel="colleague">Mr Lovell</a>, (a copy of which I now enclose,) 
+the orders of Congress, announcing my recall, and directing my immediate return. 
+</p><p>
+This was the first and only intimation I ever received of the resolutions of Congress on the subject ; I immediately 
+complied with it, and left Paris the 1st of April, with hopes of arriving in season to give Congress that intelligence, 
+which in the order for my return, they express their want of. 
+</p><p>
+Unfortunately my passage has been much longer than I expected, and I but now begin to find myself recovering 
+from the fatigues of it ; yet my desire of giving Congress, as early as possible, an account of the state of their affairs 
+in Europe, when I left France, as well as the peculiar situation in which my recall has placed me personally, has induced me to address them through your Excellency, to 
+solicit for as early an audience as the important business in which they are engaged will admit of. 
+I have the honor to be, 
+</p><p>
+With the most sincere respect, &,c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

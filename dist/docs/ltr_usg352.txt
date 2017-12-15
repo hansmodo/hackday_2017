@@ -1,0 +1,58 @@
+<p>
+HOTEL BRISTOL<br>
+5 PLACE VENDÔME.
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>,<br>
+Oct. 25th, <a href="/results.php?year=1877">'77</a>.
+</p><p>
+MY DEAR MR. CORBIN:
+</p><p>
+Our trip has been a most agreeable one though the time seems long. I
+can scarcely realize that but little more than five months have passed
+since we sailed from Philadelphia. But we have received nothing but
+kindness wherever we have been. In England, as you may have seen, our
+reception has been as enthusiastic as anything in the States directly
+after the war. We are now in Paris for the first time. As yet I have
+seen but little of it, though enough to know that it is a most
+beautiful city. We shall probably remain here over a month, and then
+make a trip through Spain and Portugal, and up the Mediterranean, in a
+naval vessel, stopping at all points of interest on both sides. Mrs.
+Grant finds she has brought too much baggage with her and proposes to
+send two or three trunks back, clothing brought from the States, and
+wants to send them either to Jennie or Mrs. Sharp to keep until our
+return. If they are sent to you I will advise you when they are
+shipped.
+</p><p>
+We were disappointed in not getting to Copenhagen while Mary was there.
+But Switzerland was so agreeable, and there were so many points of
+interest to visit that I found it impossible to get there and return to
+Scotland at the time I had promised. It is now very doubtful whether we
+will not have to abandon the idea of going there altogether. That will
+depend however upon whether we remain over another year. This winter we
+propose to go up the Nile, and may keep on east and return by San
+Francisco. But if we return we will stop in Italy until the weather
+begins to get warm in the Spring and then go north through Austria,
+North Germany, Russia, Sweden, Norway and back by Denmark and Holland,
+spend the latter part of the summer again in Switzerland, and go east
+the following winter. Jesse will hardly go with us unless we go through
+this winter. He does not wish to leave another year before beginning
+the battle of life.
+</p><p>
+Give Mrs. Grant's, Jesse's and my love to Mother and Jennie, and Mary
+if she is with you.
+</p><p>
+I keep very little track of political matters at home, knowing from
+experience the trouble a "new hand at the bellows" has. I hope all will
+be smooth and satisfactory before my return. I have not yet experienced
+any discomfort from lack of employment after sixteen years of
+continuous care and responsibilities. I may however feel it when I once
+settle down, though I think not.
+</p><p>
+Very truly yours,
+</p>
+U.S. GRANT.
+
+<p>
+P.S. Direct letters to the care of Drexel, Harjes, & Co., Bankers,
+Paris, France.
+</p>

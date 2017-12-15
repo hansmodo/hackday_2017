@@ -1,0 +1,54 @@
+<letter id="ben4767">
+<recipient first="Mary" last="Stevenson" type="individual"/>
+<p>
+[<a href='/results.php?city=london' rel='city origin'>London</a>], Saturday Evening, <a rel="month origin" value="9">Sept'r</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+JUST come home from a Venison Feast, where I have drank more than a Philosopher ought, I find my dear Polly's chearful, chatty Letter, that exhilirates me more than all the Wine. 
+</p><p>
+Your good Mother says there is no Occasion for any Intercession of mine in your behalf. She is sensible that she is 
+more in fault than her Daughter. She received an affectionate, tender Letter from you, and she has not answered it, 
+tho' she intended to do it; but her Head, not her Heart, 
+has been bad, and unfitted her for Writing. She owns, that 
+she is not so good a Subject as you are, and that she is more 
+unwilling to pay Tribute to Cesar, and has less Objection 
+to Smuggling; but 'tis not, she says, mere Selfishness or 
+Avarice ; 'tis rather an honest Resentment at the Waste of 
+those Taxes in Pensions, Salaries, Perquisites, Contracts, 
+and other Emoluments for the Benefit of People she does 
+not love, and who do not deserve such Advantages, because I suppose because they are not of her Party. 
+</p><p>
+Present my Respects to your good Landlord and his Family. 
+I honour them for their conscientious Aversion to illicit 
+Trading. There are those in the World, who would not 
+wrong a Neighbour, but make no Scruple of cheating the 
+King. The Reverse, however, does not hold; for whoever 
+scruples cheating the King, will certainly not wrong his 
+Neighbour. 
+</p><p>
+You ought not to wish yourself an Enthusiast. They 
+have, indeed, their imaginary Satisfactions and Pleasures, 
+but these are often ballanc'd by imaginary Pains and Mortifications. You can continue to be a good Girl, and thereby 
+lay a solid Foundation for expected future Happiness, without 
+the Enthusiasm that may perhaps be necessary to some others. 
+As those Beings, who have a good sensible Instinct, have no 
+need of Reason, so those, who have Reason to regulate their 
+Actions, have no Occasion for Enthusiasm. However, there 
+are certain Circumstances in Life, sometimes, wherein 'tis 
+perhaps best not to hearken to Reason. For instance; possibly, if the Truth were known, I have Reason to be jealous 
+of this same insinuating, handsome young Physician; but, 
+as it flatters more my Vanity, and therefore gives me more 
+Pleasure, to suppose you were in Spirits on ace' of my safe 
+Return, I shall turn a deaf Ear to Reason in this Case, as 
+I have done with Success in twenty others. But I am sure 
+you will always give me Reason enough to continue ever your 
+</p><p>
+affectionate Friend, 
+</p><p>
+B. FRANKLIN. 
+</p><p>
+P. S. Our Love to Mrs. Tickell. We all long for your 
+Return. Your Dolly was well last Tuesday; the Girls 
+were there on a Visit to her; I mean at Bromley. Adieu. 
+No time now to give you any ace of my French Journey. 
+</p>
+</letter>

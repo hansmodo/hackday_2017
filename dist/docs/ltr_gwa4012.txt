@@ -1,0 +1,41 @@
+<letter id="gwa4012">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+[Private.] 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='31'>31st</a> <a rel="month origin" value="9">August</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+You will have learned from the public gazettes, and 
+through other more authentic channels, that all that rested 
+with me to do, to give ratification to the treaty between 
+this country and Great Britain, is already accomplished. 
+</p><p>
+<a href='/results.php?tla=top' rel='co-worker'>Mr. Pinckney's</a> absence from the court of London, the information and aids it was expected he would derive from 
+Mr. Short's presence at that of Madrid, the pecuniary situation of our affairs in Holland requiring the attention of <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> in that country, and the little knowledge we had of 
+the character and qualifications of Mr. Deas, have occasioned no little embarrassment in this business. However, a mode is adopted which, I hope, will be effectual. 
+</p><p>
+It has not been among the smallest of these embarrassments that the domineering spirit of Great Britain should 
+revive just at this crisis, and the outrageous and insulting conduct of some of her officers should combine therewith, to 
+play into the hands of the discontented, and sour the minds of those who are friends to peace, order, and friendship with all the world. But this by-the-bye. 
+</p><p>
+The object of this letter is to pray you to aid me with hints relative to those points which you conceive to be lit 
+subjects for the further friendly negotiations on the West India trade with Great Britain, agreeably to the recommendation of the Senate ; and which appear to have been 
+in contemplation by the concluding part of the treaty signed by yourself and <a href='/results.php?tla=wig' rel='colleague'>Lord Grenville</a>. 
+</p><p>
+I intended to have asked this favour of you at an earlier day ; but a coincidence of unexpected circumstances has 
+involved me in so much business and perplexity, that it has been delayed from time to time (since my arrival in this 
+city) until the present moment. But as nothing is now asked that you have not, I am sure, revolved over and 
+over again during your negotiation, and since the decision of the Senate thereon, T persuade myself it will require but 
+little time for the digest I ask ; and which I beg to receive as soon as you can make it convenient to give me, circumstances rendering it necessary for me to leave this place, if 
+possible, on Monday next, for Virginia, in order to bring back my family ; but instructions for the new negotiator must be prepared before I go. 
+</p><p>
+With great esteem and regard, 
+</p><p>
+I remain, my dear sir, 
+Your affectionate and obedient servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington<a/>. 
+</p>
+</letter>

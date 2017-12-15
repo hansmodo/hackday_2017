@@ -1,0 +1,141 @@
+<letter id="dah4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=rock landing' rel='city origin'>Rock Landing</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Since I had the honor of writing to you yesterday, 
+some things have happened, of which I conceive it 
+expedient to give information by this conveyance. 
+</p><p>
+On the evening of the 25th, McGillivray omitted 
+to comply with his positive promise, to write to us, 
+or come over the river, in order to explain the objections of the Chiefs to the project of the treaty 
+which we had proposed to them, and to propose alterations. Instead of removing, as he had intimated by 
+Galphin, two miles back, for the sake of pasture, we 
+were informed, in the forenoon yesterday, that he had 
+set out on his return to the nation, without even 
+deigning to send us any written or verbal message. It 
+is true, he permitted an Indian trader to inform us 
+(of his own motion) of this fact, and that he (McGillivray) would halt for that day, at Commissioners' 
+Creek, fifteen or eighteen miles distant. 
+</p><p>
+McGillivray's pretences for this movement homeward 
+(if rightly reported) are of the most frivolous and 
+unjustifiable nature. He is said to pretend to be dissatisfied, that, in a private conversation, I had questioned the powers of himself and those present, to 
+make a treaty that would be binding upon the whole 
+nation. The fact is far otherwise. When he spoke 
+of the invalidity of some of the treaties between 
+Georgia and the Creeks, because the latter were not 
+fully represented, I asked him how it was to be 
+proved, that their nation was fully represented at 
+this time. I lamented that the uncivilized state of 
+the nation would not perhaps admit of the same evidence to legalize proceedings, - which civilized nations 
+required, and inquired whether the White Lieutenant 
+(a very great Chief, not present) would agree to whatever should now be done. It is farther said, by the 
+Indian trader above mentioned, that McGillivray pretended I had told him that, upon making this treaty 
+with us, he must entirely break with the Spanish 
+Government. I told him, on the contrary, that, as far 
+as I could learn from him the nature of his connection with Spain, I did not suppose the proposed treaty to be incompatible with it ; that I would not wish 
+him to do any thing which should in the least injure his good faith ; but that, if a connection with us and 
+with Spain w\as incompatible, it was doubtless in his 
+option to decide which of the two powers he would 
+be connected with. 
+</p><p>
+These misrepresentations are not the only reprehensible things we have seen in his conduct. He 
+made a false pretext, " that the Indians were so much 
+alarmed for their personal safely that they dared not 
+trust themselves in our camp, and that two towns 
+w^ere on the point of going home, on the same account," in order that we might go over and make 
+our talk in their camp. And, indeed, he insists that, 
+though we were formerly, wdien connected with Britain, styled their father and older brother, yet we 
+are at present truly their younger brother. The falsehood of the pretext that the Indians were so much 
+alarmed for their safety that they dared not trust 
+themselves in our camp, was clearly evinced yesterday. About eleven o'clock, almost or quite all the 
+principal Chiefs of the Upper and Lower towns, with 
+a great number of individuals, came over to shake 
+hands with us, and to assure us, in a long talk, that 
+they were not at all offended with us ; that they desired peace very much ; that, though they could not conclude a  peace without McGillivray, their "beloved man, 
+who was sick, yet they had inculcated upon all 
+their people to abstain from all hostility and plundering, under threats of the severest punishment. In 
+short, they seemed to consider a peace as mutually 
+wished for, and in fact agreed upon, except in the forms. 
+</p><p>
+In answer, we gave them assurances that the 
+United States entertained the most just and friendly 
+dispositions towards them, and hoped that a treaty 
+might still be concluded before we separated finally. 
+We wished them to use their influence with McGillivray, that he would return and renew the negotiation. For which purpose we informed them we were 
+sending one more pressing message to McGillivray, by 
+<a href='/results.php?tla=anp' rel='met colleague'>General Pickens</a> and Mr. Few, who went, soon after, 
+to see him accordingly. Several of the Kings dined 
+with us, and remained until night, with the greatest 
+possible apparent good humor, and indications of a 
+sincere desire for peace. 
+</p><p>
+The White Bird King spoke first, in the name of 
+the whole. The Tallassee King, after dinner, made a 
+long, and, as well as we could understand from an 
+indifferent interpretation, a pathetic oration to all the 
+Kings, head men, and people, urging the necessity of 
+being in strict amity with the whites, as they prized 
+their existence and every thing dear to them. All 
+were greatly affected, and some shed tears. The only 
+great representative from the Seminoles, sent back, 
+after he left us, a confirmation of the same good dispositions, by the interpreter. Upon the whole, I 
+believe that no room for doubt was left in the mind 
+of any one present, that, if a peace shall not be concluded, the fault will rest with McGillivray alone, who holds up, in his conversations, as it best suits 
+his convenience, that he does every thing himself in 
+national affairs ; or, that he can do nothing without 
+humoring and consulting the Indians. It is a melancholy consideration, to reflect that a whole nation 
+must sometimes perish for the sins of one man. 
+</p><p>
+I shall defer closing this letter until the return of 
+<a href='/results.php?tla=anp' rel='met colleague'>General Pickens</a> and Mr. Few. While I feel a consciousness that our transactions will stand approved 
+in the eye of reason and justice, I apprehend that 
+we never can depend upon McGillivray for his firm 
+attachment to the interests of the United States. 
+And yet I believe he regards the interests of the 
+United States just as much as he does the interests 
+of the Creek nation. If I mistake not his character, 
+his own importance and pecuniary emolument are the 
+objects which will altogether influence his conduct. 
+It was held out, in discourse, yesterday, by John Galphin, a creature of McGillivray, that a pressing invitation has just been sent from the Spaniards, accompanied by a vast quantity of ammunition, for McGillivray to come and treat with them. I fancy that 
+he now wavers between Spain and America 3 for which 
+reason he wishes, in all likelihood, to postpone the 
+further negotiation with the latter until the spring. 
+It is, however, questionable whether he has ever had 
+a formal treaty with, or received a genuine commission from, the King of Spain. Probably his hopes 
+have been much elevated lately, insomuch as to induce him to believe that he can obtain better terms 
+for himself from the King than from us. 
+</p><p>
+<a href='/results.php?tla=anp' rel='met colleague'>General Pickens</a> and Mr. Few are just now returned, and report that they found McGillivray not 
+at the distance he was said to be, but on the other 
+side of the Ocmulgee. He would not give the terms 
+on which the Creeks would make peace, or come 
+back to renew the negotiations on the subject. He 
+objected only to three articles; — being under the protection of the United States; not having a port perfectly free from duties ; and the proposed boundary. 
+But his objection seemed to be of the least weight 
+with himself, against the last. They fully coincide 
+with me in opinion that he is determined to see 
+whether he cannot obtain more advantageous terms 
+from Spain than from the United States. 
+</p><p>
+The fact is also said by these gentlemen to be established, that a large quantity of arms and ammunition has lately arrived in the Creek nation, with a 
+friendly talk from the Governor of Pensacola. McGillivray wrote us a letter in very general terms, in 
+which he affected to consider our first draught of a 
+treaty as our ultimatum. This was both contrary to 
+his good sense, and to repeated positive assurances. 
+We shall write to him by an Indian trader, today, 
+very exiDlicitly ; and, after taking such forther measures to ascertain facts as may be in our power, we 
+shall commence our journey through North Carolina 
+to <a href='/results.php?city=new york' rel='city'>New York</a>. Thus the business seems to be terminated for the present ; though not according to our 
+wishes. With sentiments of the purest respect, I 
+have the honor to be, my dear General, 
+</p><p>
+Your most obliged and most humble servant, 
+</p><p>
+<a href="/results.php?tla=dah" rel="me">David Humphreys</a>. 
+</p>
+</letter>

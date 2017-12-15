@@ -1,0 +1,63 @@
+<letter id="cdl4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Sir, 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> has delivered to me 
+the letters of your Excellency, and I am extremely 
+flattered by this mark of your attention and of your 
+remembrance. I have executed your commissions near 
+his Majesty and the Royal Family, and the King is 
+concerned that your domestic affairs deprive him of 
+the satisfaction to see a man, whose talents and virtues have procured the happiness of his country, and 
+excited the admiration of all others. 
+</p><p>
+I thank you heartily for the news your Excellency has been pleased to give me of America. The 
+present excellent formation of Congress gives me 
+great hopes that the public debt will be secured, 
+and that all the other branches of administration will 
+take a more regular form. A nation, which has done 
+so great things as yours, during ten years, is expected to crown its achievements by acts of justice. 
+This qualification is so common in America, that I am 
+persuaded its voice will be heard in all your assemblies, and America will be at last as just in time of 
+peace, as it has been patient and brave during the war. 
+</p><p>
+Since my arrival in Europe, the different Cabinets 
+have been much agitated. The Emperor has produced 
+some pretensions against Holland, which are not yet 
+adjusted. He has likewise manifested a desire to 
+annex the Duchy of Bavaria to his dominions, and to 
+cede, by way of exchange, to the Elector the Austrian possessions in the Netherlands. This arrangement seems to displease very much the different military powers in Europe. Preparations of war are going on at Vienna, at Berlin, in Holland, and in 
+France. It is, however, very probable that the war 
+will not take place in the course of this year. But 
+a general flame is certainly very near to break out; 
+and though France and England be very far from 
+wishing for war, it will be very difficult to prevent 
+the troubles of Germany, if the Emperor does not, 
+of his own accord, give up his pretensions. The Imperial Court seems to be intimately united with that 
+of Russia ; two powers, rich in resources, and full of 
+ambition ; and as they are not happy enough to 
+have, like America, at their head a man who prefers 
+the welfare of mankind to his private advantage, 
+there are great apprehensions of a general war in 
+Europe. The events of it will be read by your Excellency, in your retreat, with a small degree of satisfaction; for you will observe that, far from giving 
+liberty to some nation, this war will only serve to 
+increase the miseries of several countries during many years. 
+</p><p>
+I am very thankful for the interest you are pleased to take in my fate, which is not yet decided. If 
+I was allowed to follow my own inclination, I should 
+wish to return to America, and to be happy with my 
+old friends ; but a consequence of my profession is to 
+accept of the destination which is prescribed to me. 
+Whatever it may be, I shall never forget the attention and friendship of your Excellency. I beg you 
+to continue in those sentiments, and to honor me 
+sometimes with your letters. With the most sincere 
+and respectful attachment and acknowledgment, I 
+have the honor to be. Sir, your Excellency's 
+Most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

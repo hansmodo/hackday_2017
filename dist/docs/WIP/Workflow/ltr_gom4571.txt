@@ -1,0 +1,44 @@
+<letter id="gom4571">
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="2">February</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+As soon as I can place objects here in due arrangement, I 
+shall proceed to Holland. Before I take there my last engagements, I wish most earnestly to be, through you, in such treaty 
+as to leave room, for I expect that those engagements will bind 
+me as to all future operations. From Holland I shall perhaps 
+be obliged to go to England. But I contemplate, in all cases, 
+a return to this capital, as speedily as possible ; and from hence 
+I wish to go to Madrid. You will calculate, however, that as 
+the most important scene acted for many years on the Euro 
+pean theatre will, in the next spring, be displayed at this place. 
+I, in common with all others, have a curiosity to see it. You 
+must also consider, that I have motives stronger than curiosity; 
+for until the States-General shall have decided on the important 
+objects for which they are convened, their government can 
+make no solid arrangements for anything. Of this be assured, 
+that if nothing happens very unexpected, I will see you in 
+Spain before I return to America. 
+</p><p>
+Lafayette is out of town. He is gone to Auvergne to get 
+himself elected, either for the Noblesse or the Tiers Etats. I 
+hope the former, for he would otherwise, in my opinion, be too 
+desperately estranged from those of his own class. As he did 
+not communicate to me his hesitation, I presume that he had 
+determined, for he made some important communications just 
+before his departure. Apropos a term which my Lord Chesterfield well observes we generally use to bring in what is not 
+at all to the purpose apropos then, I have here the strangest employment imaginable. A republican, and just as it were 
+emerged from that assembly, which has formed one of the most 
+republican of all republican constitutions, I preach incessantly 
+respect for the prince, attention to the rights of the nobility, and moderation, not only in the object, but also in the pursuit 
+of it. All this, you will say, is none of my business ; but I 
+consider France as the natural ally of my country, and of 
+course, that we are interested in her prosperity ; besides, to 
+say the truth, I love France, and, as I believe the king to be 
+an honest and good man, I sincerely wish him well, and the 
+more so, as I am persuaded that he earnestly desires the felicity of his people. I am, &ic. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

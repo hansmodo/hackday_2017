@@ -1,0 +1,71 @@
+<letter id="aba3460">
+<p>
+TO F. A. VANDERKEMP.
+<recipient first="F" last="Vanderkemp" type="individual"/>
+</p><p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1814" rel="origin">1814</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Ever since your letter to the President, of December last, I have had a great inclination to address a 
+letter to Mr. Vanderkemp ; and, being now confined 
+to my chamber, by an attack of the rheumatism, I 
+find a leisure hour to address my friend in his solitude. 
+</p><p>
+And in the first place, to put him perfectly at his 
+ease, I assure him that I make not any pretensions 
+to the character of a learned lady, and therefore, 
+according to his creed, I am entitled to his benevolence. I can say with Gay's hermit, 
+</p><p>
+" The little knowledge I have o-ained. 
+Is all from simple nature drained." 
+</p><p>
+I agree with Mr. Vanderkemp, that, in declaring 
+his opinion, he has expressed that of most gentlemen, the true cause of which I shall trace no farther 
+than that they consider a companion more desirable 
+than a rival. In reading the life of Madame de Stael, I learn that it was her superior talents and learning, 
+perhaps too ostentatiously displayed, which produced 
+that coldness, estrangement, and unhappiness, which 
+marred all her pleasure with the Baron de Stael, 
+soured every domestic enjoyment, and was the 
+occasion of that sarcastic question to her by the 
+Emperor Bonaparte. Upon some occasion, she had 
+solicited an interview with him, and recommended 
+to him some measure for him to pursue. He heard 
+her, but made her no other reply than this ; " Madam, who educates your children ? " 
+</p><p>
+I like your portrait of female excellence. Solomon has also drawn one in the character of a virtuous woman ; but, if a sound understanding had not 
+been united with virtuous habits and principles, is it 
+probable that he would have represented the heart of 
+her husband as safely trusting in her ? or that he 
+would have derived so much lustre from her character, as to be known in the gates, when he sat with 
+the elders of the land ? It is very certain, that a 
+well-informed woman, conscious of her nature and 
+dignity, is more capable of performing the relative 
+duties of life, and of ena-agins; and retaining; the 
+affections of a man of understanding, than one whose 
+intellectual endowments rise not above the common 
+level. 
+</p><p>
+There are so few women who may be really 
+called learned, that I do not wonder they are considered as black swans. It requires such talents and 
+such devotion of time and study, as to exclude the 
+performance of most of the domestic cares and duties which exclusively fall to the lot of most females 
+in this country. I believe nature has assigned to each 
+sex their particular duties and sphere of action, and 
+to act well their part, " there all the honor lies." 
+</p><p>
+Have you seen John Randolph's letter, and Mr. 
+Lloyd's reply ? 
+</p><p>
+Present me in friendly terms to Mrs. Vanderkemp. Tell her, I wish we were neighbours. I 
+should then have a pleasure which our residence in 
+the country deprives us of, that of the society and 
+converse of a gentleman of taste, science, and extensive information ; and, although much of his 
+learning might be above my comprehension, his benevolence, politeness, and urbanity would render it 
+grateful, and be in unison with the good-will and 
+friendship entertained for him by 
+</p><p>
+Aeigail Adams. 
+</p>
+</letter>

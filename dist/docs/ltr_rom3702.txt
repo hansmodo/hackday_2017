@@ -1,0 +1,110 @@
+<letter id="rom3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Office of Finance [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='26'>26</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I take this earliest opportunity of acknowledging 
+your Excellency's letter of the 25th, which I received 
+last evening, and in which you request me to have 
+ready my letters to the officers you are sending to 
+the Eastern States, so as that they ma}' go by the 
+next post. I would willingly comply with your Excellency's desire most literally, but I have rather 
+wished to transmit my sentiments to you, that you 
+may send them to the gentlemen, either in the whole 
+or in part, as you shall think proper, and with such 
+observations as may occur to you. 
+</p><p>
+Recruiting the army is certainly of importance, 
+and ought therefore to be urged upon the several 
+States ; but, should it be necessary to expend money 
+for that purpose, it must not be considered as a part 
+of the quota called for by Congress for the service 
+of the current year. I shall make an application on 
+this subject to Congress, and endeavour to have certain principles established, by which those States who 
+exert themselves to bring their quota of troops early 
+into the field may have full justice done them, and 
+those States which are negligent be charged in proportion to that negligence. I mention these things, 
+Sir, to obviate mistakes, which might be productive 
+of very evil consequences. You who, being on the 
+spot, and knowing my situation and arrangements, are 
+better informed than any person how necessary it is 
+that the money called for from the several States 
+be punctually paid, without any deduction whatever; 
+you are, I am sure, convinced, that if my measures 
+are obstructed, jour own designs must prove abortive. 
+And therefore you will, I am persuaded, take care to 
+prevent an application of those funds to the recruiting service, which are necessary to the support and 
+operation of those who are already enlisted. But as 
+it ma} obviate those doubts, which are too apt to 
+start in the minds of such gentlemen as compose the 
+respective Legislatures, I repeat to your Excellency 
+my assurance, that I will exert myself to have full 
+justice done to those States who may bring their 
+proportion of men into the field at an early period. 
+</p><p>
+Should you send officers who are now with the army, 
+I expect that they will be able to give full information, from what they have seen of the benefits which 
+result from the present mode of administration ; and 
+I am sure that you are fully convinced of the superior cheapness with which supplies are obtained from 
+what they were formerly. In order, then, that the army may be well and cheaply maintained, it is necessary that the States grant money. 
+</p><p>
+In considering the situation of the army, and comparing the wants with the means of satisfying them, 
+it became necessary for me to arrange those wants so 
+that the relief in my power might be properly extended. Feeding the army appeared to be an object 
+of the first necessity ; clothing them was almost, if 
+not altogether, as indispensable. After feeding and 
+clothing them, the equipment for service demands attention, under which head must be classed the arms, 
+ammunition, military stores, tents, camp equipage, and, 
+in short, the whole of the Quarter-master's department. 
+To the equipment for service succeeds the attention 
+which is to be paid to the sick and wounded, an object in which justice and humanity combine most forcibly together. The pay of the army must, of necessity, be placed last in this list j but though last, it is 
+by no means least, in my mode of contemplating it. 
+Your Excellency knows so well my solicitude on this 
+subject, that it is unnecessary to mention it here. 
+But I should ill deserve the high trust reposed in 
+me, if I permitted any consideration to divert me 
+from that line which reason points out as my duty 
+to walk in. 
+</p><p>
+The officers you may employ on the present occasion, will. I am sure, be men of good sense and candor. They will, therefore, judge properly of my reasonings, and give them their due weight to others. 
+I may, perhaps, have misarranged the wants of our 
+army ; but I think not. It is, however, proper to observe, that under the head of clothing I comprehend 
+those means for clothing the officers, which I have 
+now in contemplation, and had the honor of mentioning to your Excellency. If I am right in my ideas as to what is the proper mode of applying the public money, then every prudent officer will, instead of 
+urging the States to grant a little money for the purpose of paying them, urge the grant of so much as 
+will support and equip the army, and still leave a 
+sufficiency for the pay. To increase the means of 
+payment by retrenching every other expenditure, is 
+my constant object ; to increase the means of payment by grant of money, the States alone are competent to. I hope, therefore, that the gentlemen you 
+employ will join me in urging such grants, with all 
+their force and abilities. 
+</p><p>
+It is from the same conviction which you feel of 
+the advantages which must result to our country from 
+an early and vigorous campaign, that I have spent 
+money and stretched my credit to the utmost extent 
+which I dare, in order that you might take the field 
+at an early hour, and in a respectable manner. I 
+have confided in the States, and the consequences of 
+being deceived will be such that it is better you 
+should conceive than I describe them. If they do 
+not grant the sums called for by Congress, I cannot 
+give that aid to your operations which I know to be 
+indispensably necessary. But if they do grant me 
+those sums, I pledge myself to support you fully in 
+all your views; and you shall then have the pleasure 
+of seeing your brave troops as regularly paid as they 
+are now fed; — and then, knowing them to be well 
+appointed, and in all respects fit for service, you will 
+be enabled to accomplish those plans for the defence 
+and salvation of our country which lie nearest your 
+heart. That this may be speedily the case, is the 
+most fervent wish of your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">Robert Morris</a>. 
+</p>
+</letter>

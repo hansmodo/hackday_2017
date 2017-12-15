@@ -1,0 +1,34 @@
+<letter id="gwa4501">
+<recipient first="Henry" last="Knox" type="individual"/>
+<p>
+TO BRIGADIER-GENERAL KNOX, AT NEW WINDSOR. 
+</p><p>
+Head-Quarters, <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The arrangement you have made, for the periods 
+of transportation of the heavy stores from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+agrees perfectly with my ideas of the matter ; as I think 
+we must be certainly able to determine ultimately upon our plan of operations by the time they are to be 
+in motion. 
+</p><p>
+An enterprise, which I have long had in contemplation, will be executed in the course of this night, if 
+<a href='/results.php?tla=bel' rel='co-worker'>General Lincoln</a>, who commands the operating party, 
+finds the attack advisable upon reconnoitring the situation of the enemy, and he can do it by surprise. 
+The enterprise is against the posts upon the north 
+end of York Island. The remainder of the army 
+marched this morning towards Kingsbridge. Part of 
+the French troops were last night at Ridgebury, and 
+will be at Bedford this evening. They will, in the course of to-morrow, be at hand to support us, should 
+there be occasion. At the same time that the posts upon York Island are attempted, I have planned a surprise upon Delancey's corps at Morrisania, which is 
+to be executed by the <a href='/results.php?tla=cdl' rel='co-worker'>Duke De Lauzun</a> in conjunction with Slu'kK)n's regiment and Waterbury's State troops. 
+</p><p>
+Should we succeed in the attempt upon the posts, every effort will be made to hold them, and your assistance will be naturally necessary. I shall take the 
+speediest method of communicating the event to <a href='/results.php?tla=alm' rel='co-worker'>General McDougall</a> at <a href='/results.php?city=west point' rel='city'>West Point</a>, who will bring out the militia to our support. You may therefore take it for 
+granted, that we have succeeded, if you see or hear 
+the signals. You will in such case come immediately 
+down, leaving Colonel Stevens to put every thing in 
+readiness to follow. I am, &,c. 
+</p>
+</letter>

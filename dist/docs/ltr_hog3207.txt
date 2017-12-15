@@ -1,0 +1,23 @@
+<letter id="hog3207">
+<recipient first="Benjamin" last="Lincoln" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=behmus heights' rel='city origin'>Heights above Behmus</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+It is the opinion of all the Generals that I have consulted 
+with, that, in the present position and circumstances of <a href="/results.php?tla=jhb" rel="adversary">General Burgoyne's</a> army, considered with his apparent views, your army 
+ought to be posted at Stillwater, and that not one moment should 
+be lost in your marching them thither. Upon your arrival there, 
+you will take possession of the height upon the east side, and fix 
+five or six hundred men thereupon. The rest you will encamp 
+at the old station. <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a> has not left the smallest 
+article at any of the posts in the rear. This, I informed you of 
+in my last. You will march by the shortest route to Stillwater. 
+Provisions, &c., shall be provided for you there. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

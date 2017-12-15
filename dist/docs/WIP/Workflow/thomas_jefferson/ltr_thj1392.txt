@@ -1,0 +1,33 @@
+<letter id='thj1392'>
+<recipient first='Samuel' last='Huntington' type='individual'/>
+<p>
+TO HIS EXCELLENCY THE PRESIDENT OF CONGRESS.
+</p><p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, April 7, <a href="/results.php?year=1781">1781</a>.
+</p><p>
+Sir,
+</p><p>
+Hearing that our arms from Rhode Island have arrived at <a href="/results.php?city=Philadelphia" rel="city">Philadelphia</a>,
+I have begged the favor of our Delegates to send them on in wagons
+immediately, and, for the conveyance of my letter, have taken the
+liberty of setting the Continental line of expresses in motion, which I
+hope our distress for arms will justify, though the errand be not purely
+Continental.
+</p><p>
+I have nothing from <a href='/results.php?tla=nag' rel='co-worker'>General Greene</a> later than the 27th of March; our
+accounts from Portsmouth vary the reinforcements which came under
+General Phillips, from twenty-five hundred to three thousand. Arnold's
+strength before, was, I think, reduced to eleven hundred. They have made
+no movement yet. Their preparation of boats is considerable; whether
+they mean to go southwardly or up the river, no leading circumstance has
+yet decided.
+</p><p>
+I have the honor to be, with the highest respect,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>,
+</p>
+</letter>

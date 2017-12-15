@@ -1,0 +1,81 @@
+<letter id='mad1561'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, Feb. 21, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+DEAR SIR, Some little time before my arrival here, a quorum 
+of the States was made up, and <a href='/results.php?tla=arc' rel='contact'>General St. Clair</a> put in the 
+Chair. We have at present nine States on the ground, but shall 
+lose South Carolina to-day. Other States are daily expected. 
+What business of moment may be done by the present or a fuller 
+meeting is uncertain. 
+</p><p>
+The objects now depending and most immediately in prospect 
+are: 1. The Treaty of Peace. The Secretary of foreign Affairs 
+has very ably reported a view of the infractions on both sides, 
+his exposition of the contested articles, and the steps proper to 
+be taken by Congress. I find, what I was not before apprized 
+of, that more than one infraction on our part preceded even the 
+violation on the other side in the instance of the negroes. Some 
+of the reasoning on the subject of the debts would be rather 
+grating to Virginia. A full compliance with the Treaty according to judicial constructions, and as a ground for insisting on a 
+reciprocal compliance, is the proposition in which the Report 
+terminates. 2. A recommendation of the proposed Convention 
+in May. Congress have been much divided and embarrassed 
+on the question whether their taking an interest in the measure 
+would impede or promote it. On one side it has been urged 
+that some of the backward States have scruples against acceding to it without some constitutional sanction; on the other, 
+that other States will consider any interference of Congress as 
+proceeding from the same views which have hitherto excited 
+their jealousies. A vote of the Legislature here, entered into 
+yesterday, will give some relief in the case. They have instructed their delegates in Congress to move for the reconsideration in question. The vote was carried by a majority of one 
+only in the Senate, and there is room to suspect that the minority were actuated by a dislike to the substance, rather than by 
+any objection against the form of the business. A large majority 
+in the other Branch a few days ago put a definitive veto on the 
+Impost. 
+</p><p>
+It would seem as if the politics of this State are directed by 
+individual interests and plans, which might be incommoded by 
+the controul of an efficient federal Government. The four States 
+north of it are still to make their decision on the subject of the 
+Convention. I am told by one of the Massachusetts delegates 
+that the Legislature of that State, which is now sitting, will 
+certainly accede and appoint Deputies if Congress declare their 
+approbation of the measure. I have similar information that 
+Connecticut will probably come in, though it is said that the 
+interference of Congress will rather have a contrary tendency 
+there. It is expected that South Carolina will not fail to adopt 
+the plan, and that Georgia is equally well disposed. All the 
+intermediate States between the former and <a href="/results.php?city=new york" rel="city">New York</a> have 
+already appointed Deputies, except Maryland, which, it is said, 
+means to do it, and has entered into some vote which declares 
+as much. Nothing has yet been done by the new Congress with 
+regard to the Mississippi. 
+</p><p>
+Our latest information from Massachusetts gives hopes that 
+the meeting, or, as the Legislature there now style it, the Rebellion, is nearly extinct. If the measures, however, on foot for 
+disarming and disfranchising those concerned in it should be 
+carried into effect, a new crisis may be brought on. 
+</p><p>
+I have not been here long enough to gather the general sentiments of leading characters touching our affairs and prospects. 
+I am inclined to hope that they will gradually be concentered 
+in the plan of a thorough reform of the existing system. Those 
+who may lean towards a monarchical government, and who, I 
+suspect, are swayed by very indigested ideas, will of course 
+abandon an unattainable object whenever a prospect opens of 
+rendering the Republican form competent to its purposes. Those 
+who remain attached to the latter form must soon perceive that 
+it cannot be preserv. at all under any modification which does 
+not redress the ills experienced from our present establishments. Virginia is the only State which has made any provision for the late moderate but essential requisition of Congress, 
+and her provision is a partial one only. 
+</p><p>
+This would have been of earlier date, but I have waited for 
+more interesting subjects for it. I shall do myself the pleasure 
+of repeating the liberty of dropping you a few lines as often as 
+proper occasions arise, on no other condition, however, than 
+your waiving the trouble of regular answers or acknowledgements on your part. 
+</p><p>
+With the greatest respect and affection, I am, D'r Sir, your 
+obt friend and serv.
+</p>
+</letter>

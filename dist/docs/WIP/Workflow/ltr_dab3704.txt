@@ -1,0 +1,50 @@
+<letter id="dab3704">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the 4th of July, 
+and cannot avoid feeling most sensibly the neglect 
+or want of resources, to enable your Excellency, and 
+those who have the honor of commanding under you, 
+to act offensively against the enemy. I am happy, 
+however, to find that our good allies afford us aid, 
+and have a happy presage that, with the smiles of 
+divine <a href='/results.php?city=providence' rel='city'>Providence</a>, your Excellency will be enabled 
+to drive the enemy out of our country. 
+</p><p>
+The French inhabitants at Detroit are much in our 
+interest, and wish most heartily to see an American 
+force approaching. I really believe that twelve hundred well-appointed men would carry that place without great difficulty, and I wish for nothing more, 
+when circumstances will admit, than the honor of 
+making the attempt. The whole garrison, with sergeants to lead them, came to my quarters, a few 
+days ago, to represent that they had not received 
+any bread for five days together. Their conduct was 
+civil and respectful, and, upon being told that every 
+possible exertion was making to prevent their further 
+suffering, they retired in good order to their quarters. 
+</p><p>
+I make use of every fair method, and sometimes a little compulsion, to obtain a temporary supply. But, 
+with my best endeavours, I am very apprehensive Tve shall be great sufferers before your requisitions 
+are complied with. Both Gamble and Davis, who 
+were under sentence of death, and who well deserved 
+their fate, have been suffered to make their escape 
+out of the guard-house, although they were ironed 
+on hands and feet. I ordered the officers, who commanded the guards, under arrest for neglect of duty. 
+One of them is tried and acquitted; the other remains to be tried. Colonel Gibson was appointed 
+President of the General Court-Martial, ordered by 
+your Excellency, and the same court remains until 
+it is your pleasure to dissolve it. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. I have taken the liberty to inclose an extract from a letter I lately received from the Reverend Mr. Ileckewelder. Two Indians, who were sent 
+from the Moravian towns, with messages to Sandusky, 
+report that almost all the Wyandot party, consisting 
+of thirty old warriors, were killed and wounded by 
+the party sent to attack them. 
+</p>
+</letter>

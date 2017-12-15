@@ -1,0 +1,40 @@
+<letter id="joj4001">
+<recipient first="Alexander" last="McDougall" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Dear Colonel, 
+</p><p>
+Accept my thanks for your friendly letter of the 16th 
+instant, and its enclosures, which contain useful as well as 
+agreeable information. I am glad to see <a href='/results.php?city=new york' rel='city'>New York</a> doing 
+something in the naval way, and think the encouragement 
+given by your Convention to the manufacture of arms, 
+powder, saltpetre, and sea salt, does them honour. 
+</p><p>
+Many of the reasons you allege for delaying taxation are 
+weighty, and I confess did not occur to me. It is certainly 
+unreasonable to impose on the city, in its present circumstances, so great a share of the public expenses. 
+</p><p>
+The late election, so far as it respects yourself, has taken 
+a turn I did not expect, and am at a loss to account for, 
+except on the principle of your holding a military office, or 
+that mutability which from various causes often strongly 
+marks popular opinions of men and measures in times like 
+these. But whatever may have been the reason, I am persuaded that the zeal you have shown and the sacrifices you 
+have made in this great cause will always afford you the 
+most pleasing reflections, and will one day not only merit, 
+but receive the gratitude of your fellow-citizens. Posterity 
+you know always does justice. Let no circumstances of 
+this kind diminish your ardour ; but by persevering in a 
+firm, uniform course of conduct, silence detraction and 
+compel approbation. 
+</p><p>
+I am much obliged to you for your kind attention to my 
+house ; and be assured that I shall omit no opportunity of 
+evincing the esteem and sincerity with which I am 
+Your friend and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

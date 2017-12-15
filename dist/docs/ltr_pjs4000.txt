@@ -1,0 +1,93 @@
+<letter id="pjs4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel="month origin" value="11">November</a> 	<a rel='day origin' value='6'>6th</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+When I did myself the pleasure to write you on the 17th ult., I was not apprized of the enemy's progress up Hudson's 
+River, nor of the barbarous devastation they have been 
+guilty of committing at <a href='/results.php?city=kingston' rel='city'>Kingston</a>, and other places in the 
+vicinity. It is no consolation to me that I have so many 
+fellow-sufferers : I feel, however, a very sensible one, in 
+the fate which has attended <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>. 
+</p><p>
+Is it not probable that the enemy, in a future campaign, 
+will make another attempt to sail up Hudson River? If 
+they do, and at the same time attack the Eastern States, 
+will there not be a want of bread in those States 1 As in 
+that case little or none can be conveyed to that quarter, 
+would it not be prudent to form very considerable magazines of flour on the east side of the Green Mountains ? And 
+does it not appear necessary to throw such obstructions in 
+Hudson River, as to render it impracticable for shipping to 
+penetrate beyond the highlands 1 Perfectly to obstruct the 
+navigation of Hudson River is certainly a very arduous 
+task, but not attended with so many difficulties as may at 
+first view be imagined. And I am persuaded, that a spirited director, at the head of four hundred men, would 
+completely prepare every thing in the course of the winter, 
+so as to sink the works in the course of six weeks after the 
+ice shall have quitted the river. The British engineers and 
+officers confess, that if the works in the Lake, at Ticondel, had been completed, it would have been impossible to 
+have opened a passage in less than ten days, if they had 
+been possessed of every requisite for such a business, and 
+if not the least molestation had been given them. Very 
+early in the war I urged the necessity of securing Hudson 
+River ; I have repeated my wish more than once, and I 
+shall be extremely happy to see a business completely executed, on which I am persuaded much of the safety of the 
+United States in general, and this in particular, depends. 
+If I had any interest with the Senate and Assembly, I should 
+venture to address them on the subject ; but as I have not, 
+I must leave it to you, if yon are in sentiment with me on 
+the necessity of the work, to mention it to your friends in 
+both Houses. 
+</p><p>
+As I shall shortly be altogether out of public life, I am 
+earnestly engaged in building me a house at this place, that 
+I may be as far out of the noise and bustle of the great 
+world as possible. I am confident (provided we repel the 
+enemy), that I shall enjoy more true felicity in my retreat, 
+than ever w T as experienced by any man engaged in public 
+life. My hobby-horse has long been a country life ; I dismounted with reluctance, and now saddle him again with a 
+very considerable share of satisfaction (for the injurious 
+world has not been able to deprive me of the best source of 
+happiness, the approbation of my own heart), and hope to 
+canter him gently on to the end of the journey of life. 
+</p><p>
+When Congress will send for me to inquire into my conduct, I cannot even make a guess at. I have entreated that 
+it may be soon, and respectfully observed, that from my 
+past services I ought not to remain longer than needs must 
+be in the disagreeable situation in which I now stand. 
+</p><p>
+Where are you lodged — and where is your father's family ? Can I be of any service ? Some tory tenants of mine 
+have lost fine farms, either for grain or stock, between this 
+and <a href='/results.php?city=albany' rel='city'>Albany</a> ; two or three of them in good fence, with small 
+tenements on them. If these or any of them can be of any 
+use, I am sure they are much at your service. What further buildings are necessary may be cheaply and speedily 
+erected, as the frame of a whole house can be sawed, boards 
+and every other material procured at the cheapest rates. 
+I will not let any of these farms, except such as I am confident would not do for you, until I have the pleasure of hearing from you ; or rather, until I have had the happiness of 
+giving you a bed in the new house, which I began upon on 
+the 1st instant, and which will be under cover, and have 
+two rooms finished by the 15th instant, unless the weather 
+should prove remarkably wet : but observe that it is only a 
+frame house, sixty feet long, twenty-one broad, and two 
+stories high, filled in with brick. 
+</p><p>
+I hope pains will be taken to recruit our army ; we ought 
+not to grow negligent, and trust too much to our good fortune : there is danger in too much confidence, and I apprehend that Britain, like a desperate gamester whose affairs 
+are on the brink of ruin, will make a bold push to retrieve 
+the loss, if yet it is possible. 
+</p><p>
+Pray make my compliments to the governor, the chancellor, speaker, R. Yates, and such other of my friends as 
+are in your quarter. I do not mention Morris, because I 
+hear he is gone to relieve <a href='/results.php?tla=jad' rel='colleague'>Mr. Duane</a>. It is rather hard 
+upon the latter to be obliged to such a constant attendance. 
+Adieu : my best wishes attend you through life. 
+</p><p>
+I am, dear sir, with great esteem and affection, 
+</p><p>
+Your obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter>

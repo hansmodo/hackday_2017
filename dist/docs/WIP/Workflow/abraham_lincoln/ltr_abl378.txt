@@ -1,0 +1,17 @@
+<letter id='abl378'>
+<recipient first='George' last='Meade' type='individual'/>
+<p>
+EXECUTIVE MANSION, WASHINGTON,<br/>
+July 27, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+MAJOR-GENERAL MEADE:
+</p><p>
+I have not thrown General Hooker away; and therefore I would like to know whether it would be agreeable to you, all things considered, for
+him to take a corps under you, if he himself is willing to do so. Write me in perfect freedom, with the assurance that I will not
+subject you to any embarrassment by making your letter or its contents known to any one. I wish to know your wishes before I
+decide whether to break the subject to him. Do not lean a hair's breadth against your own feelings, or your judgment of the public service, on the idea of gratifying me.
+</p><p>
+Yours truly,
+</p>
+<p><a href="/results.php?tla=abl" rel="me">A. LINCOLN</a></p>
+</letter>

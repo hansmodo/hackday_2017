@@ -1,0 +1,24 @@
+<letter id="nag3920">
+<p>
+<recipient first="Francis" last="Marion" type="individual"/>
+</p><p>
+HEAD-QUARTERS, <a rel="month origin" value="5">May</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR: 
+</p><p>
+I wish you to take a position in the neighborhood of camp, that we 
+may join our force on the shortest notice, should the enemy attempt 
+anything against us. The North Carolina troops were discharged this 
+day; and it is highly probable that if the enemy attempt anything at 
+all, it will be to-morrow, and more especially if they get intelligence 
+that our force is collecting to a point. Col. Hammond is coining to 
+join us with a body of militia, and I wish you to take command of the 
+whole, and form a camp near to ours. If you will give orders for your 
+troops to march in the morning, and come forward, we will look out a 
+camp together; bring a small party of horse with you. 
+</p><p>
+I am, dear sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

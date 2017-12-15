@@ -1,0 +1,45 @@
+<letter id="jol4914">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, at the Gulf, 
+</p><p>
+	<a rel='day origin' value='15'>15th</a> <a rel="month origin" value="12">December</a> <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have barely time to thank you for your packet of 
+the 12th , and to express my great concern at the cause 
+of your confinement. The pain arising from your 
+malady must be aggravated by its happening at a time 
+when you have the most important public affairs on 
+your mind ; but I hope it will neither be so durable 
+nor so grievous as you seem to expect. Your own 
+philosophy and the assurance of the sympathy of your 
+friends will greatly mitigate the evil. I return two 
+of the letters which you sent me, for your perusal; 
+the others were from M w Laurens; the last dated gives 
+me a title to expect her arrival in Carolina in company with Mr Blake's family. 
+</p><p>
+The army cross'd the Schuylkil on the 13th and has 
+remained encamped on the heights on this side. Our 
+truly republican general has declared to his officers 
+that he will set the example of passing the winter in 
+a hut himself. The precise position is not as yet 
+fixed upon, in which our huts arc to be constructed ; 
+it will probably be determined this day; it must 
+be in such a situation as to admit of a bridge of communication over the Schuylkil for the protection of 
+the country we have just left; far enough from the 
+enemy not to be reached in a day's march, and properly interposed between the enemy and the most 
+valuable part of this country on this side Schuylkil. 
+With anxious prayers for your recovery, 
+</p><p>
+I am your most dutiful and affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+Berry received a hunting shirt and a check shirt. If there be any difficulty in getting him winter clothes I believe he can do without. 
+</p><p>
+The last plundering and foraging party of the enemy under L'd Cornwallis on this side Schuylkil have 
+gone beyond themselves in barbarous treatment of the inhabitants. 
+</p>
+</letter>

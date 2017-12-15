@@ -1,0 +1,58 @@
+<letter id="jol3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I should have done myself the honor of writing to 
+you earlier, "but postponed my intention in hopes of 
+obtaining satisfactory intelligence of the force and 
+designs of the enemy in this quarter. Although my 
+expectations are far from being answered, I must en 
+treat your Excellency's acceptance of what I have 
+been able to collect on those subjects, lest the expected siege prolong my silence beyond the proper 
+bounds. 
+</p><p>
+The day before yesterday, we had certain intelligence of the arrival of forty-five sail at North Edisto. 
+A debarkation immediately commenced on Shnmons's Island; and an advanced corps, it is said, of five 
+hundred, proceeded the following day to John's Is 
+land. The Vigilant and two galleys are at Port 
+Royal. Private accounts say that General Prevost is 
+left to command at <a href='/results.php?city=savannah' rel='city'>Savannah</a>; that his troops consist 
+of the Hessians and Loyalists that were there before, 
+reenforced by a corps of blacks and a detachment of 
+savages. It is generally reported that Sir Henry 
+Clinton commands the present expedition. It appears 
+to me to be the British policy to transfer the theatre of the war to this vulnerable part of the Continent ; and, should their Commander-in-chief be here. 
+I hope you will do him the honor to meet him. 
+The command of your winter-quarters might very 
+well be left to a Major-General, and the appearance 
+of your Excellency, in person, would produce such 
+effects as would decide the American contest. The 
+Carolinians, as usual, have been superior to foresight 
+and precaution. The delay of the enemy produced 
+no other effect than to increase their supineness, and 
+finally to introduce a disbelief of the enemy's intentions. But they begin to be roused. 
+</p><p>
+My father desires his most respectful compliments 
+to your Excellency and Mrs. Washington. He has 
+been detained here by M. Durumain's having taken 
+French leave. This gentleman, who commanded the 
+French frigate in this harbour, engaged to accommodate my father with a passage to France, but previously undertook a cruise in company with our American frigates. As soon, however, as he had passed 
+the bar, he made the best of his way for Europe. 
+A brace of two-deckers and a frigate are constantly 
+standing off-and-on our harbour; but my father is 
+determined, at all hards, to prosecute his voyage, 
+and fulfil his engagements to the public. 
+</p><p>
+I preferred a hasty letter to a total silence ; your Excellency will be so indulgent as to excuse me for 
+it, and assure Mrs. Washington of my respects. I 
+have the honor to be, with the greatest veneration 
+and attachment, 
+</p><p>
+Your Excellency's faithful Aid, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">JOHN LAURENS</a>. 
+</p>
+</letter>

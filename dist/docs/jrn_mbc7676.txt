@@ -1,0 +1,8 @@
+<letter id="mbc7676">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. My husband bought yesterday at the Commissary's one barrel of flour, one bushel of potatoes, 
+one peck of rice, five pounds of salt beef, and one peck of salt all for sixty dollars. In the street a barrel of flour 
+sells for one hundred and fifteen dollars. 
+</p>
+</letter>

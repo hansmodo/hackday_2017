@@ -1,0 +1,53 @@
+<letter id='jhf8010'>
+<recipient first='Archibald' last='Gillespie' type='individual'/>
+<p>
+<a href='/results.php?city=lassens rancho' rel='city origin'>Lassen's Rancho</a>, Sacramento River, <a rel="month origin" value="4">May</a> <a rel='day origin' value='25'>25</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : There is required for the support of the exploring party under my command, at present almost entirely destitute, the following amount of supplies with which I respectfully request that I may be furnished from the public stores. 
+</p><p>
+The unfriendly disposition of this Government in the present doubtful position of affairs, has made it very difficult for me to obtain provisions, in 
+any case only to be had at very exorbitant prices; and to obtain them from our Squadron would materially aid the surveys with which I am charged and very much expedite my return to the States. 
+</p>
+<ul>
+<li>
+Lead (American rifle) <span>.....</span> 300 lbs. 
+</li><li>
+Powder <span>.....</span> 1 keg. 
+</li><li>
+Percussion Caps <span>.....</span> 8000 
+</li><li>
+Russia Duck <span>.....</span> 25 yds. 
+</li><li>
+Flour <span>.....</span> 5 bbls. 
+</li><li>
+Sugar <span>.....</span> 600 lbs. 
+</li><li>
+Coffee, Tea 
+</li><li>
+Pork <span>.....</span> 1 bbl. 
+</li><li>
+Medicines (common cases, emetics, purges, fevers and agues, etc.) 
+</li><li>
+Soap <span>.....</span> 1 box. 
+</li><li>
+Salt <span>.....</span> 1 sack. 
+</li><li>
+Tobacco <span>.....</span> 300 lbs. 
+</li><li>
+Half-inch rope for tent  <span>.....</span> 30 Faths. 
+</li><li>
+Iron for Horseshoes 
+</li>
+</ul>
+
+<p>
+Very respectfully, sir, your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>,
+</p><p>
+Bt. Cap/. U. S. Topi. Engineers.<br>
+Lieutenant Archibald Gillespie, 
+</p><p>
+U. S. Marine Corps, Sacramento River. 
+</p>
+</letter>

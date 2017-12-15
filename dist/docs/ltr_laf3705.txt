@@ -1,0 +1,63 @@
+<letter id="laf3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=susquehanna ferry' rel='city origin'>Susquehanna Ferry</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Had your Excellency's answer to my letter of the 
+8th been forwarded with an equal celerity with your 
+favor of the 6th, I should have received it before this 
+time. But whatever change my new situation could 
+make in your Excellency's dispositions, I thought it 
+my duty in the meanwhile to obey the positive orders I had received. The troops are now crossing 
+the feny, and will, with all possible speed, proceed to 
+<a href='/results.php?city=richmond' rel='city'>Richmond</a>. 
+</p><p>
+By a letter just received from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, I 
+find that he is strongly of opinion that I must go to 
+the southward. His intention is to carry the seat of 
+war into South Carolina, thereby preventing a junction between Arnold and Cornwallis. He gives me 
+many excellent reasons to justify the movement. He 
+requests me to move to <a href='/results.php?city=richmond' rel='city'>Richmond</a> ; and this will, if 
+possible, increase my zeal to execute your Excellency's orders. <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>'s opinion is, that Lord 
+Cornwallis will fall down towards Wilmington. His 
+own project is, to carry the war into South Carolina. 
+Under these circumstances a corps of light infantry, 
+embarked at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> on board a light squadron, 
+might have been upon the seat of war in a very 
+short passage. I cannot help fearing, my dear General, that our campaign will take a defensive turn, 
+which is far from answering our first plans and expectations. 
+</p><p>
+Major Macpherson is with me as a volunteer. That 
+officer has most zealously employed himself, and has 
+been most dangerously exposed in the discovery of a 
+plot made to furnish the enemy with provisions. He 
+has managed this matter with infinite address, being 
+for two days and one night with six soldiers, who, as 
+well as himself, put on the air of British, and in 
+company with a spy who thought them to be the 
+enemy ; and, by a most violent gale of wind, crossed 
+the Bay in a small boat, by which means he was 
+made sensible that a trade of flour is carried on with 
+the enemy from the western shore of Maryland ; and 
+saved a magazine of eight hundred barrels of Continental flour, which would otherwise have fallen into 
+the hands of the enemy. In case we proceed southerly, perhaps it will be possible for <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> 
+to give Major Macpherson a command in some detachment; and I should be happy, if he was recommended to him by your Excellency. 
+</p><p>
+My determination being to go on with rapidity, 
+unless I am recalled, your Excellency may easily judge of my movements from the answer I shall probably receive in a few hours. Was I to assure your 
+Excellency, that this journey is perfectly agreeable 
+to the troops, I should not use that candor which 
+you have so many rights to expect. But their zeal 
+and discipline insure their readiness to obey. I shall 
+do my utmost to prevent desertion; and, unless I am 
+recalled, I shall proceed with celerity. But I beg 
+your Excellency to remember, that experience has 
+often taught us how much reduced has ever been 
+the number of our troops, from the time of their departure to that of their arrival at the Southern army. 
+With the highest and most affectionate respect, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

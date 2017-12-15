@@ -1,0 +1,13 @@
+<letter id="mbc7747">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='17'>17th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Although <a href='/results.php?tla=wts' rel=''>Sherman</a> took Atlanta, he does not mean to stay there, be it heaven or hell. Fire and 
+the sword are for us here; that is the word. And now I must begin my Columbia life anew and alone. It will be a short shrift. 
+</p><p>
+Captain Ogden came to dinner on Sunday and in the afternoon asked me to go with him to the Presbyterian 
+Church and hear Mr. Palmer. We went, and I felt very youthful, as the country people say; like a girl and her 
+beau. Ogden took me into a pew and my husband sat afar off. What a sermon ! The preacher stirred my blood. My 
+very flesh crept and tingled. A red-hot glow of patriotism passed through me. Such a sernlbn must strengthen the 
+hearts and the hands of many people. There was more exhortation to fight and die, a la Joshua, than meek Christianity. 
+</p>
+</letter>

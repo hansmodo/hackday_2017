@@ -1,0 +1,34 @@
+<letter id='thj1399'>
+<recipient first='Uriah' last='Forrest' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, Cul-de-Sac Tetebout,
+</p><p>
+October 20, <a href="/results.php?year=1784">1784</a>.
+</p><p>
+Sir,
+</p><p>
+I received yesterday your favor of the 8th instant, and this morning
+went to Auteuil and <a href="/results.php?city=Passy" rel="city">Passy</a>, to consult with <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> and <a href="/results.php?tla=ben" rel="co-worker met">Benjamin Franklin</a>
+on the subject of it. We conferred together, and think it is a case in
+which we could not interpose (were there as yet cause for interposition)
+without express instructions from Congress. It is, however, our private
+opinion, which we give as individuals, only, that Mr. McLanahan, while
+in England, is subject to the laws of England; that, therefore, he must
+employ counsel, and be guided in his defence by their advice. The law
+of nations and the treaty of peace, as making a part of the law of the
+land, will undoubtedly be under the consideration of the judges who
+pronounce on Mr. McLanahan's case; and we are willing to hope that, in
+their knowledge and integrity, he will find certain resources against
+injustice, and a reparation of all injury to which he may have been
+groundlessly exposed. A final and palpable failure on their part, which
+we have no reason to apprehend, might make the case proper for the
+consideration of Congress.
+</p><p>
+I have the honor to be, with sentiments of great respect and esteem, for
+Mr. McLanahan, as well as yourself.
+</p><p>
+Sir, your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

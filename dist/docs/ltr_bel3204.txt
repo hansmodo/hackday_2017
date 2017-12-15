@@ -1,0 +1,79 @@
+<letter id="bel3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=purysburg' rel='city origin'>Purysburg</a>, on the banks of the Savannah, thirty miles from its mouth, South Carolina; <a rel="month origin" value="1">January</a> <a rel="day origin" value="5">5</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+On the evening of the 25th ultimo, I received 
+information at <a href='/results.php?city=charleston' rel='city'>Charleston</a>, that the enemy had arrived, with upwards of twenty ships, at Tybee, near the mouth of the River <a href='/results.php?city=savannah' rel='city'>Savannah</a>, and in a harbour south of the river. The few troops at <a href='/results.php?city=charleston' rel='city'>Charleston</a> were 
+immediately put in motion, and marched for Georgia, 
+On my way, I met an express from General Howe, 
+who w^as in Georgia, informing that, on the morning 
+of the 29th, the enemy landed, in force, a little 
+below the town of <a href='/results.php?city=savannah' rel='city'>Savannah</a> ; and that he, with five 
+or six hundred men, occupied the heights in front of 
+it ; but, upon perceiving that the enemy had turned 
+his right, at some considerable distance, through a 
+swamp he thought impassable, ordered a retreat, 
+which he effected with part of the troops, though 
+the enemy, it is said, were twenty-five hundred or 
+three thousand strong. His loss, in men and officers, 
+I inclose. What stores were lost, I cannot yet learn; 
+among them were six field-pies. One of the field pies only was under the direction of Major-General 
+Howe. 
+</p><p>
+The General speaks well of his officers and men ; 
+and that more than they did, could not have been 
+expected. lie retreated over the <a href='/results.php?city=savannah' rel='city'>Savannah</a>. I met 
+him here, where we are collecting the troops. Our whole force at this place amounts to about fourteen 
+hundred. As soon as a body of men, equal to covering the State of Georgia, can be collected, we shall 
+recross the <a href='/results.php?city=savannah' rel='city'>Savannah</a>. It ought to be with a respect 
+able force, for the communication with this State is 
+frequently cut off by the <a href='/results.php?city=savannah' rel='city'>Savannah</a> overflowing its 
+banks, which renders the causeways impassable in 
+boats or otherwise. There are no strong grounds in 
+this country; many of the inhabitants of the State 
+are unfriendly; and, besides, the country abounds 
+with navigable rivers; all of which the enemy command, and through which they can, at any time, fall 
+in our rear. 
+</p><p>
+I have met with almost every disappointment since 
+I came into this department. After an encouragement to expect a force consisting of seven thousand 
+men, besides the militia of South Carolina and Georgia, I have now only fourteen hundred. I was as 
+sured that there were a great plenty of supplies 
+and military stores ; instead of which, there were no 
+field-pies, arms, tents, camp utensils, lead (and very 
+little powder), intrenching tools; and, in short, hardly 
+an article in the arsenal or Quartermaster-General's 
+store, under the direction of the Commanding Officer in this department. This deficiency of stores did not 
+arise from the neglect of the Commanding Officer, 
+but the want of a military chest. I forbear; the 
+subject is disagreeable ; for you to hear, will be 
+painful. 
+</p><p>
+I expected, before now, to have had the honor of 
+forwarding to your Excellency a return of the troops 
+here, but the distracted state of affairs still prevents it. 
+</p><p>
+I have daily the unhappiness to see families of 
+affluence fleeing before the enemy, reduced in a few 
+hours to a state of want. 
+</p><p>
+My wound, which was nearly closed when I left 
+camp, is opening again, and in a worse condition 
+than it was seven months ago ; but I flatter myself 
+nothing worse than some small exfoliations will take 
+place. I am, my dear General, with the highest sentiments of esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p><p>
+January Qth. Last evening I heard that the enemy were reenforced by troops from St. Augustine, 
+and now amounted to four thousand ; and that Colonel Campbell, the Commander of the British forces 
+in Georgia, had left <a href='/results.php?city=savannah' rel='city'>Savannah</a>, and marched, with his 
+main body, up the river, whether with a design to 
+cross and attack this post or not, is uncertain. 
+</p>
+</letter>

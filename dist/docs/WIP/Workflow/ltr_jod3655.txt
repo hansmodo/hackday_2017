@@ -1,0 +1,35 @@
+<letter id="jod3655">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, 	<a rel="day origin" value='25'>25</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1799' rel="origin">1799</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+I AM favored this morning with yours of the 22d. 
+This is accession day, you know. I shall always 
+consider it as a red letter day ; a fortunate day. I am happy to know that you are comfortably situated. 
+I am pretty well recovered of my cold, but it has reduced my flesh. James has found a beautiful pair 
+of black horses, a perfect match for ours, and is distracted to persuade me to buy them. One is six 
+years old, the other eight. I think with you that the 
+second week in November will be soon enough for 
+us to enter the city. I am looking out for Briesler now 
+every day. You alone might possibly live here with 
+me for a week ; but L. and B. could not be accommodated. You might all be well at Van Tilsburg's, 
+but I think it will not be worth your while to leave 
+your present situation. When Briesler comes on I 
+shall write you more particularly. 
+</p><p>
+The next winter will be the last we shall ever 
+spend in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. You will leave it early in 
+April if you are wise, and you will come no more to 
+the southward for one year and a half at least. You 
+will never think of going to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> upon uncertainties, or rather upon the certainty of leaving it 
+on the fourth of March, with five hundred and fifty 
+or six hundred miles to ride through the mud. An 
+election is approaching which will set us at liberty 
+from these uncomfortable journeys, I am, as for 
+thirty-five years I have been, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

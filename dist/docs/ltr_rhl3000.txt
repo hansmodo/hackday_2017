@@ -1,0 +1,65 @@
+<letter id="rhl3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+After the fatigue of many days, and of this in particular, I should not sit down, at eleven o clock at night, to write to a gentleman of whose goodness of heart I 
+A member of the Continental Congress from Virginia. 
+have less doubt than I have of yours ; but well knowing 
+that you will pardon what flows from good intentions, 
+I venture to say that my hopes are, you will find from 
+what the Congress has already done, and from what I 
+hope they will do to-morrow, that it has been a capital 
+object with us to make your arduous business as easy 
+to you as the nature of things will admit. The business 
+immediately before us being finished, the approaching 
+sickly season here, and the great importance of our 
+presence in the Virginia Convention, have determined a 
+recess of a month, it standing now, that the Congress 
+shall meet here again on the 5th of September. The 
+capital object of powder we have attended to as far as 
+we could by sending you the other day six tons, and 
+to-morrow we shall propose sending six or eight tons 
+more, which, with the supplies you may get from Connecticut, and such further ones from here as future 
+expected importations may furnish, will, I hope, enable 
+you to do all that this powerful article can in good 
+hands accomplish. 
+</p><p>
+We understand here, that batteries may be constructed at the entrance of the Bay of <a href='/results.php?city=boston' rel='city'>Boston</a>, so as 
+to prevent the egress and regress of any ships what 
+ever. If this be a fact, would it not, Sir, be a signal stroke to secure the fleet and army in and before 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, so as to compel a surrender at discretion? 
+While I write this I assure you my heart is elated 
+with the contemplation of so great an event; a decisive thing that would at once end the war, and vindicate the injured liberties of America. But your 
+judgment, and that of your brave associates, will 
+best determine the practicability of this business. 
+</p><p>
+I think we have taken the most effectual measures 
+to secure the friendship of the Indians all along our 
+extensive frontiers, and, by what we learn of the spirit of our Convention now sitting at <a href='/results.php?city=richmond' rel='city'>Richmond</a>, a spirit 
+prevails there very sufficient to secure us on that quarter. The particulars of their conduct I refer you to 
+Mr. Frazer for, who comes fresh from thence, and who goes to the camp a soldier of fortune. You know him 
+better than I do, and I am sure you will provide for him as he deserves. 
+</p><p>
+We are here as much in the dark about news from 
+England as you are, the London ships having been 
+detained long beyond the time they were expected. 
+The indistinct accounts we have, tell us of great confusion all over England, and a prodigious fall of the 
+stocks. I heartily wish it may be true, but if it is not 
+so now, I have no doubt of its shortly being the case. 
+</p><p>
+I will not detain you longer from more important 
+affairs, than to beg the favor of you, when your leisure 
+permits, to oblige me by a line by post, to let us know 
+how you go on. 
+</p><p>
+There is nothing I wish so much as your success, 
+happiness, and safe return to your family and country, 
+because I am with perfect sincerity, dear Sir, your 
+affectionate friend and countryman, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter>

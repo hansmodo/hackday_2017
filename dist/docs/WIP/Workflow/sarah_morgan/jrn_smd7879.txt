@@ -1,0 +1,28 @@
+<letter id="smd7879">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=clinton' rel='city origin'>Clinton</a>, Louisiana ], <a rel="month origin" value="9">September</a> <a rel='day origin' value='4'>4th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+I hear to-day that the Brunots have returned to <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, determined to await the grand finale 
+there. They, and two other families, alone remain. With these exceptions, and a few Dutch and Irish 
+who cannot leave, the town is perfectly deserted by all except the Confederate soldiers. I wish I was 
+with them ! If all chance of finding lodgings here is lost, and mother remains with Lilly, as she some 
+times seems more than half inclined, and Miriam goes to <a href='/results.php?city=linwood' rel='city'>Linwood</a>, as she frequently threatens, I 
+believe I will take a notion, too, and go to Mrs. Brunot! I would rather be there, in all the uncertainty, expecting to be shelled or burnt out every 
+hour, than here. Ouf! what a country! Next time I go shopping, I mean to ask some clerk, out of 
+curiosity, what they do sell in <a href='/results.php?city=clinton' rel='city'>Clinton</a>. The following is a list of a few of the articles that shopkeepers 
+actually laugh at you if you ask for: Glasses, flour, soap, starch, coffee, candles, matches, shoes, combs, 
+guitar-strings, bird-seed, in short, everything that I have heretofore considered as necessary to existence. If any one had told me I could have lived 
+off of cornbread, a few months ago, I would have been incredulous ; now I believe it, and return an inward grace for the blessing at every mouthful. I have 
+not tasted a piece of wheatbread since I left home, and shall hardly taste it again until the war is over. 
+</p><p>
+I do not like this small burg. It is very straggling and pretty, but I would rather not inhabit it. We 
+are as well known here as though we carried our cards on our faces, and it is peculiarly disagreeable 
+to me to overhear myself spoken about, by people I Don't know, as "There goes Miss Morgan," as that 
+young man, for instance, remarked this morning to a crowd, just as I passed. It is not polite, to say the least. 
+</p><p>
+Will Carter was here this morning and told me he saw Theodore Pinckney in the streets. I suppose he 
+is on his way home, and think he will be a little disappointed in not finding us at <a href='/results.php?city=linwood' rel='city'>Linwood</a> as he 
+expects, and still more so to hear he passed through the very town where we were staying, without knowing it. 
+</p><p>
+</letter>

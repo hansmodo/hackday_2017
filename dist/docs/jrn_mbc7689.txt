@@ -1,0 +1,12 @@
+<letter id="mbc7689">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. To-night there will be & great gathering of Kentuckians. Morgan gives them a dinner. The city of 
+Richmond entertains John Morgan. He is at free quarters. The girls dined here. Conny Gary came back for more 
+white feathers. Isabella had appropriated two sets and obstinately refused Constance Gary a single feather from 
+her pile. She said, sternly : " I have never been on the stage before, and I have a presentiment when my father hears of 
+this, I will never go again. I am to appear before the foot lights as an English dowager duchess, and I mean to rustle 
+in every feather, to wear all the lace and diamonds these two houses can compass " (mine and Mrs. Preston s). 
+She was jolly but firm, and Constance departed without any additional plumage for her Lady Teazle. 
+</p>
+</letter>

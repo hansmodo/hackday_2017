@@ -1,0 +1,16 @@
+<letter id="mbc7657">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Gunboat captured on the Santee. So much the worse for us. We do not want any more prisoners, and 
+next time they will send a fleet of boats, if one will not do. The Governor sent me Mr. Chesnut's telegram with a note 
+saying, " I regret the telegram does not come up to what we had hoped might be as to the entire destruction of <a href='/results.php?tla=gbm' rel=''>McClellan's</a> army. I think, however, the strength of the war with its ferocity may now be considered as broken." 
+</p><p>
+Table-talk to-day: This war was undertaken by us to shake off the yoke of foreign invaders. So we consider our 
+cause righteous. The Yankees, since the war has begun, have discovered it is to free the slaves that they are fighting. 
+So their cause is noble. They also expect to make the war pay. Yankees do not undertake anything that does not pay. 
+They think we belong to them. We have been good milk cows milked by the tariff, or skimmed. We let them have 
+all of our hard earnings. We bear the ban of slavery; they get the money. Cotton pays everybody who handles 
+it, sells it, manufactures it, but rarely pays the man who grows it. Second hand the Yankees received the wages of slavery. They grew rich. We grew poor. The receiver is as bad as the thief. That applies to us, too, for we received 
+the savages they stole from Africa and brought to us in their slave-ships. As with the Egyptians, so it shall be with us : if they let us go, it must be across a Red Sea but one made red by blood. 
+</p>
+</letter>

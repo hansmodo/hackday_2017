@@ -1,0 +1,45 @@
+<letter id="joj4033">
+<recipient first="Egbert" last="Benson" type="individual"/>
+<p>   	 
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Benson, 
+</p><p>
+Either some very singular fatality must have attended 
+the letters of my New-York friends to me, or they have 
+given mc abundant reason to complain of them as correspondents ; not one letter to me, dated in our State, has 
+reached me since I left America. 
+</p><p>
+I have written to you from Martinico, from Cadiz, and 
+from this place ; some of these letters, I have reason to think, 
+arrived safe, though several others have probably miscarried. 
+Your governor is largely in my debt, and so is <a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a>, whom I always thought a very punctual correspondent. How am I to account for this ? I cannot persuade myself that neglect is among the causes. Business 
+seldom continues a good excuse for a year together, and 
+indolence, often a real, is never an admissible one. 
+</p><p>
+The vulgar proverb, out of sight, out of mind, always 
+appeared to me in the light of a vulgar error, when applied 
+to old friends and companions. I hope I have not been 
+mistaken, especially as the contrary of that proposition is 
+true with respect to myself. I never loved or admired 
+America so much as since I left it, and my attachment to 
+my friends in it seems to have increased, in proportion as 
+distance of time and place separated me from them. The 
+remark that we seldom estimate blessings justly till we are 
+about to lose them for a time, or altogether, is, I believe, 
+frequently true, and perhaps that circumstance has tightened 
+the cords which bind me to my friends and country. I 
+could carry your recollection back to days that are past, 
+and entertain you with the shades of many departed 
+pleasures, in which we had been partakers. These shades 
+speak a language that I hope your heart understands as 
+well as mine, and I still flatter myself that their voice, 
+though not loud, will be sufficient to awaken a remembrance 
+of the sincere attachment and regard, with which I have 
+long been, and still am, 
+</p><p>
+Your affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

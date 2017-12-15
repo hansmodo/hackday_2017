@@ -1,0 +1,53 @@
+<letter id="jod3621">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='12'>12</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I DINED yesterday with <a href='/results.php?tla=aab' rel='colleague met'>Mr. Burr</a>, who lives here in 
+style. A number of members of the House, the 
+Speaker Mr. Dayton, among the rest. It seems to be 
+the general opinion that the House will express some 
+opinions unfavorable to the treaty ; but finally carry 
+it into effect. There is a good deal of apprehension 
+expressed for the Union in conversation. Some think 
+and say it cannot last. Such is the repugnance between the east and the west. 
+The death of my aunt H., for by that name it is 
+most natural for me to call her, is an event that was 
+every day to be expected, and as her days of usefulness and satisfaction were past, can be no cause of 
+rational grief to her nearest relations. It has not, 
+however, failed to revive the remembrance of the 
+scenes of my youth, of my father, my uncles, my 
+aunts, and my cousins, many of whom were gone 
+before her, and to affect me with many tender sentiments and serious reflections. Alas ! she was little 
+more than thirty years older than myself. I shall 
+never see her years. But why should I regret such 
+a prospect as that ? Although I am convinced that 
+human life is a happy and agreeable scene, a charming, delightful state, upon the whole, and although my 
+share of it has been chequered with perplexities, difficulties, dangers and distresses, which fall to the lot 
+of but few, yet it has been sweet and happy on the 
+whole, and calls for gratitude to my Maker and Pre 
+server. Yet every year, according to my opinions 
+and persuasions and expectations, brings me nearer 
+to a state of superior excellence and more unmixed 
+enjoyment, where I hope to meet all my relations and 
+other friends who may have done their duty in this. 
+There, my dearest friend, may we meet, and never 
+be again separated by any necessities to go to Eu 
+rope, or <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, or elsewhere. 
+</p><p>
+My duty to my mother, and congratulate her on 
+the recovery of her arm. I hope to see her again in 
+June. But the House of Representatives will keep 
+me here as long as possible. 
+Your amanuensis improves in her hand-writing. 
+She superscribes your letters elegantly. My love to 
+her. I am not sorry that John went to England. 
+He will have opportunities of improvement and gaining information there. 
+</p><p>
+I am 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

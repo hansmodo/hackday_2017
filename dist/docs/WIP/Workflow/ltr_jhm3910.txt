@@ -1,0 +1,24 @@
+<letter id="jhm3910">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+I observe in your orders to Col. Saunders, he is directed to draft the 
+Whole of his regiment. I omitted to inform you that I had directed no 
+draws should be made from the John's Island, Wadmelaw, Edisto and 
+Stono companies these companies being absolutely necessary to be 
+kept at certain points to prevent the commerce between the country 
+and Charlestown. I have, therefore, directed Col. Saunders to adhere 
+to my former orders respecting these companies, and that I would inform 
+you of the same. I suppose Col. Saunders has reported to you the 
+refractory spirit that still prevails in his regiment. Unless vigorous 
+measures are pursued to bring them to order, I am convinced they will 
+do no duty. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

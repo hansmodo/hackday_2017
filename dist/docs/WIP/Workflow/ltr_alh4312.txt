@@ -1,0 +1,113 @@
+<letter id="alh4312">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Treasury Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], 	<a rel='day origin' value='19'>19</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have carefully reflected on the application of Mr. Ternant, for an additional supply of money for the 
+use of the Colony of St. Domingo, on account of the 
+debt due to France, which I regard more and more 
+as presenting a subject extremely delicate and embarrassing. Two questions arise; first, as to the ability of the United States to furnish the money, which 
+is stated at about three hundred and twenty-six thousand dollars, in addition to the sum remaining of the 
+four hundred thousand dollars some time since promised; secondly, as to the propriety of doing it, on 
+political considerations. 
+</p><p>
+With regard to ability, I feel little doubt that it 
+will be in the power of the Treasury to furnish the 
+sum. Yet, circumstanced as we are, with the possibility of more extensive demands than at present exist, 
+for exigencies of a very serious nature, I think it 
+would not be desirable to be bound by a positive 
+stipulation for the entire amount. 
+</p><p>
+With regard to the propriety of the measure on 
+political considerations, more serious difficulties occur. 
+The late suspension of the King, which is officially 
+communicated, and the subsequent abolition of royalty 
+by the Convention, which the newspapers announce 
+with every appearance of authenticity, essentially 
+change, for the moment, the condition of France. 
+</p><p>
+If a restoration of the King should take place, I 
+am of opinion that no payment, which might be made 
+in the interval, would be deemed regular or obligatory. The admission of it to our credit would consequently be considered as matter of discretion, according to the opinion entertained of its merit and utility. 
+A payment to the newly constituted power, as a reimbursement in course, or in any manner which 
+would subject it to be used in support of the change, 
+would doubtless be rejected. 
+</p><p>
+An advance, however, to supply the urgent necessities of a part of the French empire, struggling under the misfortune of an insurrection, of the nature 
+of that which has for some time distressed, and now 
+exposes to the danger of total ruin by famine, the 
+Colony of St. Domingo, is of a different complexion. 
+Succours, furnished in such a situation, under due 
+limitations, would be so clearly an act of humanity 
+and friendship, of such evident utility to the French 
+empire, that no future Government could refuse to 
+allow a credit for them, without a disregard of moderation and equity. But the claim for such credit 
+would not be of a nature to be regularly and of 
+course valid; consequently would be liable to be disputed. 
+</p><p>
+The condition in which the Colony has lately placed 
+itself, by espousing the last change which has been 
+made in France, operates as a serious difficulty in the 
+case, and may be made a ground of objection to any 
+aid which may be given them. There is even a 
+question, whether there be now any organ of the 
+French nation, which can regularly ask the succour; 
+whether the commission to Mr. Ternant be not virtually superseded. It is also an objection (in the 
+view of regularity and validity) to the supply asked, 
+that the decree of the National Assembly, on which 
+it is founded, contemplated a negotiation between the 
+Executive power in France, and our Minister there. 
+The channel has not been pursued, and no substitute 
+has been provided. The business wants organization, 
+in every sense. 
+</p><p>
+From these premises I deduce, — that nothing can 
+be done without risk to the United States ; that, therefore, as little as possible ought to be done ; that whatever may be done, should be cautiously restricted to 
+the idea of preserving the Colony from destruction and famine; that, in all communications on the subject, care should be taken to put it on this footing, and 
+even to avoid the explicit recognition of any regular 
+authority in any person. Under these cautions and 
+restrictions, but not otherwise, I beg leave to submit 
+it as my opinion that succours ought to be granted, 
+notwithstanding the degree of risk which will attend 
+it; that they should be effected by occasional advances, without previous stipulation, and with only a 
+general assurance that the United States, disposed to 
+contribute by friendly offices to the preservation of 
+an important portion of the French Empire, and to 
+that of French citizens from the calamity of famine, 
+will endeavour, from time to time, as far as circumstances will permit, to afford means of sustenance. 
+</p><p>
+According to a statement of M. de la Forest, the 
+provisions desired to be shipped in the course of November would amount to eighty-three thousand eight 
+hundred dollars, including the total supply of fish 
+and oil. Towards this he computes the application 
+of fifty thousand dollars out of the remainder of the 
+four hundred thousand dollars heretofore promised, 
+which would leave a deficiency of thirty-three thousand eight hundred dollars. This sum, or, in round 
+numbers, forty thousand, can be engaged to be furnished ; and in December, if no future circumstances 
+forbid, a further sum can be engaged to be supplied, 
+payable at a future short period. It will be proper 
+that the most precise measures should be taken to 
+ascertain, from time to time, the investment of the 
+moneys supplied, in purchasing and forwarding provisions from this country to the Colony in question. 
+It has been heretofore understood that the balance of 
+the sum, some time since stipulated, was to be furnished ; which, accordingly, has been and is doing. 
+Engagements for supplies have been entered into 
+upon the basis of that stipulation; and payments to 
+as great, if not a greater amount, are becoming due, 
+in which the citizens of the United States are materially interested. 
+</p><p>
+The caution, which is deemed necessary, has reference not only to the safety of the United States in 
+a pecuniary respect, but to the consideration of avoiding a dangerous commitment, which may even prove 
+a source of misunderstanding between this country 
+and the future Government of the French nation. 
+From all that is hitherto known, there is no ground 
+to conclude that the governing power, by the last 
+advices, will be of long duration. I have the honor 
+to be, with the highest respect and truest attachment, 
+Sir, &c., 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>.
+</p>
+</letter>

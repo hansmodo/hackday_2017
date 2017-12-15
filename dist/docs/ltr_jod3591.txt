@@ -1,0 +1,42 @@
+<letter id="jod3591">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='26'>26</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I SHALL enclose with this some letters between Randolph and Hammond, which will show you how quarrelsome they are. Poor fellows ! They both desire 
+peace, but think themselves obliged to wrangle 
+for their countries. It is fashionable to charge wars 
+upon kings, but I think " le peuple souverain" is as 
+inflammable and as proud, and at the same time less 
+systematic, uniform, and united, so that it is not easy 
+for them to avoid wars. We have labored very hard 
+to preserve our tranquillity, but the peuple souverain 
+is continually committing some intemperance or in 
+discretion or other, tending to defeat all our precautions. If we are involved in a war, my head, heart 
+and hands shall be guiltless of the crime of provoking it. But it will be my duty to submit to the legal 
+voice and decree of my country. 
+</p><p>
+We have fine rains here for three days past, and I 
+hope you enjoy a similar blessing. I shall take leave 
+on Saturday, 31st of May, but cannot hope to get 
+home before the 10th or 12th of June. The journey 
+lies before me like a mountain. I am too old and too 
+feeble for these long journeys, dry sessions, and un 
+comfortable scenes. I am at an age when I ought to 
+be at home with my family. 
+I wish you an agreeable election. Who will be 
+Lieutenant Governor, Gill or Gerry ? I wrote to Dr. 
+Willard, sometime ago, a resignation of the chair of 
+the Academy of Arts and Sciences. It would be a 
+farce for rne to hold it any longer. My duty to my 
+mother. Tell my brother that I suppose he was for 
+war to make himself popular ; but I am very sorry to 
+find that warlike sentiments are popular in <a href='/results.php?city=quincy' rel='city'>Quincy</a>. 
+I am glad he is chosen, however, and hope he will 
+get our town back to the county of Suffolk. 
+</p><p>
+Adieu, my dearest friend, adieu. 
+</p>
+</letter>

@@ -1,0 +1,28 @@
+<letter id="bea3012">
+<recipient first="Hector" last="Cramahe"/>
+<p>
+Camp, before <a href='/results.php?city=quebec city' rel='city origin'>Quebec</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="11">November</a>, <a href="http://www.familytales.org/results.php?year=1775" rel="origin">1775</a>. 
+SIR, 
+</p><p>
+The unjust, cruel, and tyrannical acts of a venal British Parliament, tending to enslave the American Colonies, have obliged 
+them to appeal to God and the sword for redress. That Being, 
+in whose hands are all human events, has hitherto smiled on their virtuous efforts. And, as every artifice has been used to 
+make the innocent Canadians instruments of their cruelty, by instigating them against the Colonies, and oppressing them on their 
+refusing to enforce every oppressive mandate, the American congress, induced by motives of humanity, have, at their request, 
+sent <a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a> into Canada for their relief. To cooperate with him, I am ordered by his Excellency, General Washing ton, to take possession of the town of Quebec. 
+</p><p>
+I do, therefore, in the name of the United Colonies, demand 
+immediate surrender of the town, fortifications, &c., of Quebec, 
+to the forces of the United Colonies under my command ; forbid 
+ding you to injure any of the inhabitants of the town in their 
+persons or property, as you will answer the same at your peril. 
+On surrendering the town, the property of every individual shall 
+be secured to him ; but if I am obliged to carry the town by 
+storm, you may expect every severity practised on such occasions ; 
+and the merchants, who may now save their property, will probably be involved in the general ruin. 
+</p><p>
+I am, Sir, your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

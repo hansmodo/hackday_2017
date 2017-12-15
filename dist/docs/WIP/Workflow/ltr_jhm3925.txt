@@ -1,0 +1,51 @@
+<letter id="jhm3925">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 10th inst., came safe to hand yesterday. The mode I 
+have adopted in taking substitutes is to oblige all under fifty to furnish 
+two substitutes, and all above fifty one substitute, which is conforming 
+to the militia law as near as can be. All those who have surrendered 
+since the time limited by my invitation, I have parolled till the meeting 
+of the Legislature, to be dealt with as they think proper; a copy of the 
+parole I now enclose you. I am entirely of opinion with you, that a 
+body of good cavalry will be indispensably necessary to restore order 
+and good government in the different parts of the country, after the 
+enemy have quitted Charlestown; for there are a parcel of infamous 
+wretches whom the habit of plundering has taken such fast hold of, 
+that nothing but a military force will ever be able to subdue them, and 
+that force must be cavalry. But, unfortunately for this country, we 
+have not the means of procuring men to put such a corps on the respectable establishment, as it ought to be; however, as Maham's corps 
+at present sCauds, I flatter myself we shall be able to put it on a very 
+respectable footing as soon as we can get into the town. By the determination of the Council, the substitute money is all to be applied to 
+raise recruits for the Continental line of this State; therefore, any 
+application of it towards recruiting State troops would be improper. 
+You mention those who agree to find substitutes give twenty-five 
+guineas; they are to procure the substitutes, cost what they will ; at the 
+same time great caution should be used that they do not go beyond 
+thirty guineas, otherwise, it would ruin our recruiting service. I, there 
+fore, think the best way would be for them to pay the money into your 
+hands, and you to recruit the men, by which means you will be able to 
+prevent the service being injured by exorbitant bounties. I think the 
+State's share of seizures, that are made under my proclamation of the 
+14th of March last, cannot better be applied than to the purpose you 
+mention that is, recruiting Maham's corps, and which I very much 
+approve of; but, I could wish you to reserve as much out of the first 
+sales as will pay Harris for the wagon you purchased of him, for I can 
+with truth assure you, that 1 have no present means, or a prospect of 
+any, until we get into Charlestown, of satisfying this or any other 
+demand against the State, as the Council have declined their assent to 
+selling any more negroes until the enemy quit the State. I am glad to 
+find, by the surrender of the party you mention, that the Northern 
+parts of the State are now clear of the disaffected. I don t apprehend 
+any danger now from Fanning. Our printer has began to publish his 
+paper again, and I enclose you one of them. 
+</p><p>
+I am, sir, your obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

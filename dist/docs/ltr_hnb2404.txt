@@ -1,0 +1,42 @@
+<letter id="hnb2404">
+<recipient first="Margaret" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=washington" rel="city origin">Washington City</a>, <a rel="month origin" value="10">Oct.</a> <a rel="day origin" value="29">29th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+MY DEAR WIFE : To-morrow I set out from here for 
+<a href="/results.php?city=baltimore" rel="city">Baltimore</a>, in company with Luther Martin, who has 
+pledged himself to attend, on the part of <a href="/results.php?tla=aab" rel="met colleague">Col. Burr</a> and 
+myself, at the Circuit Court of the United States, to sit at <a href="/results.php?city=chillicothe" rel="city">Chillicothe</a>, on the 4th of January next, whether we shall personally appear or not, to see that all matters respecting us are properly conducted. It is probable I shall not 
+regard a non-compliance on the part of Government with, not a request, but a desire, I have expressed through Rodney, the United States Attorney General, 
+that they would dispense with my personal appearance until the ensuing term in September, through my wishes, in the mean time, to revisit my family and attend to my private affairs ; for the proceedings that should necessarily precede a forfeiture of the recognizance I have entered into can 
+not be gone through before January, 1809. The courts of the United States sitting in Ohio only twice a year, 
+namely, in the months of January and September, Harding can explain to you how two writs of scire facias must 
+be returned, in case of my absence from the district, before my recognizance becomes forfeited. So that my 
+present plan is to push for <a href="/results.php?city=natchez" rel="city">Natchez</a>, about the middle of 
+November, in company with Doctor Conimins, by way of the Ohio. Government, while they smart under the mortification arising from the issue of the proceedings at 
+<a href="/results.php?city=richmond" rel="city">Richmond</a>, seem determined to pursue <a href="/results.php?tla=aab" rel="met colleague">Burr</a> and myself until we cry mercy ; but the world shall first cry shame ! 
+This evening I shall receive Rodney's answer to my letter, probably negativing my demand, but that will not 
+affect my movements. My affairs will detain me about 
+ten days in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, after a stay of two in <a href="/results.php?city=baltimore" rel="city">Baltimore</a>. 
+I have strong expectations of putting my claims upon <a href="/results.php?tla=aab" rel="met colleague">Burr</a> and <a href="/results.php?tla=joa" rel="">Alston</a> on a desirable footing. 
+</p><p>
+As to news, you may inform those most interested, particularly our esteemed friend Mr. Hunt, there will be no 
+war with Britain, much less with Spain. This conclusion is not drawn merely from the President's message to Congress, but from better authority. Electioneering, secretly, is very active here on the part of Madison, Clinton and 
+Monroe, for the exclusion of<a href="/results.php?tla=thj" rel=""> Jefferson</a> from the next Presidency, while the efforts of others to obtain the Vice 
+Presidency, establish a schism in the present party in power which exhibits a warning type of the future destinies of 
+this country. Tyler left this for <a href="/results.php?city=baltimore" rel="city">Baltimore</a>, this morning. 
+I shall see him there and learn the manner in which he has obtained his discharge, which has been given him 
+only verbally, by Rodney. Duane, I expect, will soon take a decided part against<a href="/results.php?tla=thj" rel=""> Jefferson</a>, because he has not 
+been less awkward in tampering with letters that have passed through his hands. 
+</p><p>
+I hope you will keep up a rational confidence in my resources to preserve my health and spirits ; and I beseech 
+you to seek continually the utmost variety and change of scene, which I so well know the happy effects of upon 
+you, as the only means of restoring you to my eyes in the state I beseech God to grant I may find you. 
+</p><p>
+Luther Martin is certainly one of the most benevolent men alive. His heart is overflowing with the milk of 
+philanthropy, which his potations may sometimes coagulate, but will never acidify. 
+</p><p>
+Kiss my boys for me. Your sickness has diverted my reflections from them of late ; but our preserving Providence will restore us in its own time according to our 
+merits. <a href="/results.php?tla=hnb" rel="me">H. B.</a> 
+</p>
+</letter>

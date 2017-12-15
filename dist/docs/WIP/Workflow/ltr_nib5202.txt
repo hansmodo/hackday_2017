@@ -1,0 +1,19 @@
+<letter id="nib5202">
+<recipient first="James" last="Monroe" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="1">Jan'y</a>. <a rel='day origin' value='31'>31</a>. <a href='/results.php?year=1819' rel="origin">1819</a> 
+</p><p>
+My dear sir, 
+</p><p>
+I have received by this day's mail your letter of the 29th announcing your having nominated me one of the Directors of the Bank of the U.S. I need not say that I consider 
+this rememberance a proof of that uniform kindness &amp; friendship on your part which I value so highly, and as such I beg 
+you to accept my thanks for it. I have however little concern with Banks &amp; have hitherto declined sharing in the management of the institution when it was proposed to me by the 
+stockholders. Yet I am unwilling to avoid any duty by which you think I can be of service. 
+</p><p>
+The truth is, that with all its faults, the Bank is of vital importance to the finances of the gov. and an object of great 
+interest to the community. That it has been perverted to selfish purposes cannot be doubted that it may &amp; must 
+be renovated is equally certain. But they who undertake to reform abuses &amp; particularly of that description, must en 
+counter much hostility &amp; submit to much labor. To these, the hope of being useful can alone reconcile me and if I should 
+undertake the task I shall endeavor to persevere till the character of the institution is reestablished. 
+</p>
+</letter>

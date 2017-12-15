@@ -1,0 +1,36 @@
+<letter id="joj4067">
+<recipient first="Charles" last="Thompson" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have been here a month, and well only two days. I 
+came in quest of health, but " seek ami you shall find" does 
+not, it seems, always extend to that of the body. 
+</p><p>
+The parliament is sitting. The king's speech and its 
+echoes you will see in the papers. I have not had any 
+conversation on politics with either of the ministers. In 
+my opinion, no plan or system of conduct respecting America is yet decided upon by the cabinet, in which the jarring 
+principles of whig and tory still strive and ferment. The 
+latter persuade themselves that we shall not be able to act 
+as a nation, that our governments are too feeble to command 
+respect, and our credit too much abased to recover its 
+reputation, or merit confidence. I hope better things. We 
+are not without friends in tins country, but they have more 
+inclination than power to be friendly. We have also enemies, and bitter ones. If we act wisely and unitedly, we 
+have nothing to fear. It is in our power finally to make a 
+navigation act, and prevent British vessels carrying our productions ; provided we should execute it, we would find 
+it of as much value as many treaties of commerce. Let 
+us act, however, with temper ; it is more easy to make 
+sores than to heal them. But if Britain should adopt and 
+persist in a monopolizing system, let us retaliate fully and 
+firmly. This nation, like many others, is influenced more 
+by its feelings than reasonings. I am, dear sir, 
+</p><p>
+Your affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

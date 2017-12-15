@@ -1,0 +1,61 @@
+<letter id="nag3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Inclosed you have a copy of the letter, in answer 
+to mine to Congress, relative to cartridges. As soon 
+as the cartridges come up, they shall be forwarded. 
+Colonel Biddle has wrote to Amboy for ninety thousand that are at that post. 
+</p><p>
+We have collected all the wagons in our power, 
+and sent over. Our people have had extreme hard 
+duty ; the common guards, common fatigue, and the 
+extraordinary guards and extraordinary fatigue, for 
+the removal of the stores, and forwarding the provisions, have kept every man on duty. 
+</p><p>
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> requested a party of men to re-enforce them at Mount Washington. I sent between 
+two and three hundred of Colonel Durkee's regiment. 
+Please to inform me whether your Excellency approves thereof. 
+</p><p>
+We shall get a sufficient quantity of provisions 
+over to-day for the garrison at Fort Washington. 
+<a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a> thinks it not advisable to pull the 
+barracks down yet. lie has hopes of our army returning to that ground for winter-quarters. I think 
+this would be running too great a risk to leave them 
+standing in expectation of such an event. There being  several strong fortifications in and about King's 
+Bridge, if the enemy should throw in a thousand or 
+fifteen hundred men,, they could cut off our communication effectually; and, as the state of the barracks 
+is, they would find exceeding good cover for the 
+men. But if we were to take the barracks down, if 
+the boards were not removed, it would, in a great 
+measure, deprive them of that advantage. However, 
+I have not had it in my power to do either as yet. 
+</p><p>
+I have directed all the wagons that are on the 
+other side to be employed in picking up the scattered boards about the encampments. I believe, from 
+what I saw yesterday in riding over the grounds, 
+they will amount to several thousands. As soon as 
+we have got these together, I purpose to begin upon 
+the barracks. In the mean time, I should be glad 
+to know if your Excellency has any other orders to 
+give respecting the business. 
+</p><p>
+I have directed the Commissary and Quartermaster-General of this department to lay in provisions and 
+provender, upon the back road to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, for 
+twenty thousand men for three months. The principal magazine will be at Aquackanock. I shall fortify 
+it as soon as possible, and secure that post and the 
+pass at the bridge, which is now repaired and fit for 
+an army to pass over, with the baggage and artillery. 
+I rejoice to hear of the defeat of that vile traitor, 
+Major Rogers, and his party of Tories, though I am 
+exceeding sorry to hear it cost us so brave an officer 
+as Major Greene. I am, with great respect, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

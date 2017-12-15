@@ -1,0 +1,41 @@
+<letter id="jod3533">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=bilboa' rel='city origin'>Bilboa</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+WE arrived here last night, all alive, but all very near 
+sick with violent colds taken on the road for want of 
+comfortable accommodations. I was advised on all 
+hands to come by land rather than wait an uncertain 
+time for a passage by sea. But if I had known the 
+difficulties of travelling in that part of Spain which I 
+have passed through, I think I should not have ventured upon the journey. It is in vain to attempt a 
+description of our passage. Through the province of 
+Gallicia, and again when we came to that of Biscay, 
+we had an uninterrupted succession of mountains ; 
+through that of Leon and the old Castile, constant 
+plains. A country tolerably good by nature, but not 
+well cultivated. Through the whole of the journey 
+the taverns were inconvenient to us, because there 
+are no chimneys in their houses, and we had cold 
+weather. A great part of the way, the wretchedness 
+of our accommodation exceeds all description. 
+</p><p>
+At <a href='/results.php?city=bilboa' rel='city'>Bilboa</a> we fare very well, and have received 
+much civility from Messrs. Gardoqui and Sons, as we 
+did at <a href='/results.php?city=ferrol' rel='city'>Ferrol</a> and <a href='/results.php?city=corunna' rel='city'>Corunna</a> from M. de Tournelle and 
+M. Lagoanere. I wish I could send you some few 
+things for the use of the family from hence, but the 
+risk is such, that I believe I had better wait until we 
+get to France. I have undergone the greatest anxiety for the children through a tedious journey and 
+voyage. I hope their travels will be of service to 
+them, but those at home are best off. My love to 
+them. 
+</p><p>
+Adieu, adieu, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

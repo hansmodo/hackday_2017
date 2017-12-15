@@ -1,0 +1,42 @@
+<letter id='jbm8003'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+U. S. Ship Portsmouth, 
+</p><p>
+<a href='/results.php?city=sausalito' rel='city origin'>Sausalito</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: By Lieutenant Hunter, who reached the ship on Saturday evening from your camp, I had the pleasure to receive your letter of the 16th inst., announcing the seasonable reception of 
+the stores forwarded by him. The last few days have teemed with important events; pointing, in my view, to results momentous to the interests of California and our own country. I have 
+determined to remain where I am at present, looking after the interests of our country and countrymen requiring to be watched at this crisis, and readily comply with your suggestion to 
+keep open the communication with your camp, by means of my boats; in pursuance of which it is intended to send a boat in the morning (to-morrow; in charge of Lieutenant Revere (who will 
+hand you this) and another on Saturday next, by the return of which you will be pleased to inform me whether a third boat will be likely to reach you at your present camp or not. The surgeon of the Portsmouth, Dr. Henderson, goes in the boat with the orders to remain with you 
+until the return of the next boat, or longer should you desire it. Although aware that the public mind in California was prepared for a change of government, I little expected the movement 
+to take place at this time or in the manner it has. The capture of the horses and the surprise of Sonoma were master-strokes, but should have been followed up by a rush upon Santa Clara, 
+where <a href="/results.php?tla=jsc" rel="adversary">Castro</a>, with the residue of ordnance and munitions of the country, might have been taken by thirty men at any time previous to Saturday evening. <a href="/results.php?tla=jsc" rel="adversary">Castro</a> must feel sensibly the loss of 
+the two Vallejos and Pruden, as well as that of the arms and munitions taken at Sonoma. I have exchanged communications with the commanders on both sides, and others, preserving a 
+strict neutrality and avowing my purpose of scrupulously adhering to this principle ; while I confess my sympathies are wholly with the gallant little band in arms for mutual defence. 
+</p><p>
+Individuals and small parties from this section have been joining the insurgents at Sonoma daily, I am informed, and <a href="/results.php?tla=hst" rel="colleague">Lieutenant Hunter</a> brings intelligence of <a href="/results.php?tla=jas" rel="">Sutter's</a> union with them. 
+An irregular force of one hundred and fifty are said to have joined <a href="/results.php?tla=jsc" rel="adversary">Castro</a> at Santa Clara on Saturday, brought from the vicinity of Monterey by Manuel Castro, the sub-prefect of that place, 
+and I am just informed that they are expected to cross the straits and take horses at Point San Pedro, where a number have been collected for their use, this evening, and move directly upon 
+Sonoma. If this is the case we shall soon know the result. I yesterday heard of the arrival of the United States ship Cyane at Monterey, where the Congress is also daily looked for from the 
+Islands, where she arrived on the 13th of May. Not a word of news have I yet received by the Cyane, but I think she must bring from Mazatlan something respecting our Mexican concerns. 
+</p><p>
+I received a letter from <a href="/results.php?tla=jsc" rel="adversary">Castro</a> a few days since, a copy of which, as it related solely to your imagined operations, I have thought it well to send you with my reply. Also two proclamations 
+this moment received. Should anything of consequence reach me from the Cyane before sending the next boat I will not fail to communicate it to you. 
+</p><p>
+In the meantime permit me to subscribe myself 
+</p><p>
+Your obedient servant, 
+(Signed) Jno. B. Montgomery, 
+</p><p>
+Commander U. S. N. 
+</p><p>
+To Captain J. C. Fremont, U. S. Topi. Engineers, Sacramento, U. California. 
+</p><p>
+N.B. — Since writing the above I have heard there is no probability of <a href="/results.php?tla=jsc" rel="adversary">Castro's</a> movement upon Sonoma for several days ; they are using great efforts to purchase arms, etc. 
+</p><p>
+Respectfully, 
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>. 
+</p>
+</letter>

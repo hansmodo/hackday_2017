@@ -1,0 +1,134 @@
+<letter id="bnh4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Senate Chamber, <a rel='day origin' value='10'>10</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+Prompted by the free and candid manner you expressed yourself in political affairs to me some days 
+past, I shall, without reserve, communicate to you the 
+reasons which induced me yesterday to vote for 
+striking out the second section in the bill which I 
+inclose to you. That I may be understood throughout, I must take a retrospect on Indian affairs for 
+some years back. During the war, we acknowledged 
+the Indians as brothers; told them of our difficulties 
+and embarrassments, arising from our contest with 
+Great Britain ; assured them of our disposition, though 
+unable, to furnish them such comforts as they had 
+been accustomed to receive; urged them to be patient; 
+and declared that, when success crowned our efforts, 
+they should be partakers of our good fortune. They 
+w^ere then acknowledged to be possessors of the soil 
+on which they lived. 
+</p><p>
+At the close of the war, being anxiously desirous 
+of paying to our officers and soldiers as much of 
+their well-earned dues, as was apparently within the 
+view of the Government, we seem to have forgotten 
+altogether the rights of the Indians. They were 
+treated as tenants at wilL We seized on their lands, 
+and made a division of the same, as possessing allodial right; allotted certain portions to the Indians for 
+hunting grounds ; and did not even think of offering 
+them compensation for any claims they might pretend 
+to have to those reserved for other purposes of the 
+Government. 
+</p><p>
+This doctrine, it might be expected, would he disliked by the independent tribes. It was so, and was 
+complained of by them. It is the source of their 
+hostility. However, we persevered in this doctrine 
+till the treaty at Fort Harmar, in <a href='/results.php?year=1788'>1788</a>. At that 
+period, the Government pursued different measures. 
+The boundaries were recognized and established by a 
+principle of purchase. Some of the now hostile Indians 
+complained of the conduct of their brethren in ceding 
+their lands. These complaints reached the Government, and Governor St. Clair was ordered to remedy 
+the defects in some future treaty. But they would 
+not attend to his invitation, and assigned, as a reason, that he only w^anted a relinquishment of their 
+claims to their lands, and that they were unwilling 
+to part with them. It was natural to expect, that, 
+as from our conduct they conceived themselves deprived of what they deemed most precious, they 
+would be in a state of hostility against us, and the 
+more so, as the British in Canada were ready enough 
+to misrepresent all our conduct, to furnish them with 
+military stores, and for some purposes, arising from 
+State or commercial jealousy, to encourage them. 
+</p><p>
+I read, at the last session of Congress, the painful 
+detail of Harmar's expedition, and the measures proposed by the Secretary at War to retrieve the honor 
+of our military reputation, and to restore peace. I 
+acquiesced in the measures proposed, not because I thought them right, but because I was told that you 
+approved of them, and that they would give efficacy 
+to some pacific plans you had in contemplation. <a href='/results.php?tla=hek' rel='colleague met'>General Knox</a> told the Committee of the Senate that 
+the President had it in view to bring about a peace 
+by other means than coercive. <a href='/results.php?tla=pjs' rel=''>General Schuyler</a> and 
+some others declared they would converse freely with 
+you, and could point out how peace could be obtained without the further effusion of blood. Since this, 
+I know of no efforts made by the Executive to induce the Indians to come to an accommodation previously to the last defeat, except that of Gamelin, 
+which was a feeble one, that of Procter, the Cornplanter, and one other, which failed from unforeseen 
+difficulties. 
+</p><p>
+I thought, and still think, the means of communicating with them are abundant. At St. Vincent's, at 
+Kaskaskia, and even in Canada, there are French, the 
+favorites of these people, and friendly to us. While 
+we contemplate the going into their country, we may 
+bid adieu to peace. Their attachment to their native 
+soil is such, that they will part with it but with their 
+lives. The Miami may be convenient to us, but ruin 
+to them to part with it. They may be circumscribed, 
+for aught I know, with the western Indians and Canada, as the Six Nations are by their neighbours, 
+and have no place of their own to retreat to. 
+</p><p>
+I shall make no remark on the defeat of the 4th 
+of November. You are a military judge. I will only 
+offer as my opinion that the Indians did not, nor 
+cannot, exceed twelve hundred effective warriors. As 
+soon as the military arrangements were before the 
+Senate, I determined to examine more accurately than 
+formerly what was proper for me to do. I applied to 
+the Secretary at War for information on two points; 
+first, whether the plan sent in was the result of your 
+opinion, or of that of the War Office; and, secondly, 
+whether, if it was committed, and the Committee applied for your opinion, it was likely you would give 
+it. I understood his reply to the first to he, that it 
+was the result of his reflections submitted to you, 
+and by you to Congress. And as to the second, he 
+thought you would not like to give an opinion. I 
+then determined to exercise my own. I have a great 
+respect for the War Officer, but he appears to me to 
+be anxiously desirous of having a considerable standing military force. All his views, in my estimation, 
+tend to that end. He is not alone in that opinion. 
+We have some in the Senate, who say that such an 
+establishment is necessary, nay more, indispensable 
+to the preservation of liberty. To a disposition of 
+this sort, I attribute the feeble efforts made to purchase a peace. Those at the head of affairs to the 
+westward, were for war; all who are dependent on 
+the department, are for war; this is their harvest; 
+and the Indians are, to this moment^ wholly unacquainted with the real disposition of our Government. 
+From the best view of our situation, to my understanding, I am for completing the present establishment, adding the cavalry mentioned in the Mil, and 
+making adequate provision for such effective militia 
+as may be called out, and enabling the Executive to 
+employ such Indians as are friendly to us, and willing to aid us. The present establishment and cavalry, 
+brought all of them for the occasion to a point, aided 
+by suitable militia and the friendly Indians, under an 
+officer of activity, will accomplish every wish I have 
+on the subject, which, I confess, are not many. I am for peace; I am for the establishment of posts, not 
+in their country, but in our own. As long as we 
+attempt to go into their country, or to remain there, 
+we shall be at war. Our finances are unequal to the 
+expensive establishments contemplated by some. We 
+can, with the force mentioned, gain by victory or 
+purchase, a peace. We should be to blame to run 
+any further risk of being insulted by the British. If 
+they will not give up the posts, they will not quietly 
+suffer an establishment in the neighbourhood of them. 
+We are unable to take them and it is, thus circumstanced, better for us to be passive for the present. 
+</p><p>
+I beg you to be persuaded. Sir, that, although I 
+write thus freely to you, it is to you only ; and 
+that I hold it unbecoming in myself to write or speak 
+any thing, that may lessen the respect due to the Government and every officer of it. I have the honor to 
+be, most respectfully, Sir, &c., 
+</p><p>
+<a href="/results.php?tla=bnh" rel="me">Benjamin Hawkins</a>. 
+</p>
+</letter>

@@ -1,0 +1,40 @@
+<letter id="cde3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=at sea' rel='city origin'>At Sea</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor of imparting to your Excellency 
+the arrival of the King's fleet, charged by his Majesty with the glorious task of giving his allies, the 
+United States of America, the most striking proofs 
+of his affection. Nothing will be wanting to my happiness, if I can succeed in it. It is augmented by 
+the consideration of concerting my operations with a 
+General such as your Excellency. The talents and 
+great actions of <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> have insured 
+him, in the eyes of all Europe, the title, truly sublime, 
+of Deliverer of America. Accept, Sir, the homage that 
+every man, that every military man, owes you ; and 
+be not displeased that I solicit, even in the first 
+moment of intercourse, with military and maritime 
+frankness, a friendship so flattering as yours. I will 
+try to render myself worthy of it by my respectful 
+devotion for your country. It is prescribed to me 
+by orders, and my heart inspires it. 
+</p><p>
+I have the honor of rendering an account to Congress of the letter I write to your Excellency. M. de Chouin, Major of Infantry in the King's service, 
+has orders to present you this. I pray you to grant 
+the most extensive confidence to all this officer shall 
+tell you on my part. He is a near relation to M. de Sartine. This Minister has been long since known 
+for his attachment to the common cause. It is less 
+the desire of pleasing a statesman, honored with the 
+confidence of the King, which has determined me to 
+send to you M. Chouin, than an opinion of his military knowledge, the clearness of his ideas, and the 
+precision with which he will communicate mine. I 
+beseech you to grant him your kindness. I have the 
+honor to be, with respect, Sir, your Excellency's 
+Most humble and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cde" rel="me">ESTAING</a>. 
+</p>
+</letter>

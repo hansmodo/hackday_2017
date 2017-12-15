@@ -1,0 +1,23 @@
+<letter id="fro4551">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=whitehall' rel='city origin'>Whitehall</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have just received the honor of your letter of this day's 
+date. I well remember the nature of the conversation you allude 
+to, as well as the particular points upon which the two countries mutually complain of a non-observance of treaty. Each 
+party may perhaps have reason for complaint. I can assure you, 
+Sir, 1 sincerely lament it. I am not entering into a ministerial 
+discussion upon the subject of our not being already further advanced, in what we are both interested in, a real bond fide intercourse of friendship, but am only acknowledging, confidentially, my own private opinion, and what it has not been hitherto in 
+my power to remedy. 
+</p><p>
+I shall, I trust, be enabled very soon to address myself upon 
+a new subject to <a href='/results.php?tla=gwa' rel=''>General Washington</a> ; and in the mean time, 
+shall be very happy to see you, Sir, before your departure for 
+America. I have the honor to be, Sir, your most obedient humble servant. 
+</p><p>
+<a href="/results.php?tla=fro" rel="me">LEEDS</a>.
+</p><p>
+</letter>

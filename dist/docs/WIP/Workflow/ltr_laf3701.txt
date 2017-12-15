@@ -1,0 +1,148 @@
+<letter id="laf3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+Your letters of the 25tli and 26th are both come 
+yesterday to hand, which shows that the expresses 
+have not made great despatch. I would have done 
+myself the honor of writing to your Excellency, had 
+I not every minute waited for intelligences from the 
+southward. 
+</p><p>
+Your Excellency remembers that our shortest calculation for the arrival of the troops at the Head of 
+Elk was for the 6th of March. I am happy to inform you that they will be there this day or to-morrow early; and notwithstanding the depth of the mud, 
+and the extreme badness of the roads, this march, 
+which I can call rapid (as, for example, they came 
+in two days from <a href='/results.php?city=morristown' rel='city'>Morristown</a> to <a href='/results.php?city=princeton' rel='city'>Princeton</a>), has been 
+performed with such an order and alacrity, that, 
+agreeably to the report, two men only have been 
+left behind, and yet these two men have embarked 
+at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, with some remains of baggage. At every 
+place where the detachment have halted, they have 
+found covering and wood, &c., ready for them, and 
+there has not been the least complaint made to me 
+from any inhabitant. Every third day they have 
+drawn their provisions. The clothing has been also 
+distributed; and, having embarked yesterday at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, they passed the city about two o'clock, by a 
+wind which was extremely favorable. Congress have 
+given to our troops the advance of one month's pay, 
+which will be distributed at the Head of Elk, in their 
+emission. 
+</p><p>
+The artillery, consisting of one twenty-four, six 
+eighteen, two brass twelve, one eight-inch howitzer, two eight-inch mortarSj in all twelve heavy pieces, 
+four six-pounders, and two small howitzers, with a 
+sufficient proportion of ammunition, will be at the 
+Head of Elk this day and to-morrow; so that by the 
+4th I hope we shall be ready to sail. A quantity 
+of medicines and instruments, and fifteen hundred 
+pairs of shoes, will be at the Head of Elk before we 
+embark. Vessels will be in readiness to receive us 
+with thirty days' provisions on board. I am also assured, that we shall have a sufficient quantity of 
+boats to land the detachment; and two heavy scows 
+will be added for the artillery. The public, and 
+some of the private armed vessels in the Bay, have 
+been ordered to the Head of Elk. Two despatchboats are there, and four more have been asked for. 
+As a farther security for our subsistence, I have got 
+the Minister's permission to dispose of the French 
+flour and salt meat along the Bay, in case of necessity. 
+</p><p>
+On my arrival at this place I heard that M. de 
+Tilly, the French Commander, had conferred with the 
+Virginians, but upon seeing that nothing could be 
+done immediately, he was undetermined whether to 
+stay or return to Rhode Island. Fearing that our 
+letters might miscarry, and wishing to hurry the 
+preparations of the militia, I complied with the earnest solicitations of the Minister of France to send on 
+Colonel Gouvion, and directed him to go thither by 
+land or water, as the state of the Bay would permit, 
+on board the French squadron, and afterwards to 
+<a href='/results.php?tla=frs' rel='colleague met'>Baron De Steuben</a>'s camp, where he may apprise 
+these gentlemen of our force, our intentions, and the 
+time of our arrival. 
+</p><p>
+This minute account I give to your Excellency to 
+show you that nothing on our part has been wanting 
+for the success of The expedition. Our preiDarations 
+have, in every article, fulfilled, and in the most important one, time, have exceeded, what had been expected. Your letter was sent by express to <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a>, who immediately came to town. But nothing having been done for the settling of the accounts, none of the promises having been complied 
+with, and the men being much scattered, it has, after 
+much consideration, been thought impossible to embark any number with us ; and <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> promises to make every exertion for the sending of two 
+or three hundred in a few days, whom, however, I 
+am not to depend upon. 
+</p><p>
+I am myself going to the Head of Elk, and shall 
+arrive there this evening. It has not been possible 
+for me to leave sooner the city, as the three days I 
+have remained here have been fully employed in 
+making and forwarding preparations. Before I go I 
+will wait on the Board of the Navy, and propose the 
+sending of the frigates; but the Trumbull having not 
+her complement of men, and those of the Ariel having mutinied at sea, I am afraid we shall find difficulties. 
+</p><p>
+The preparations made at <a href='/results.php?city=new york' rel='city'>New York</a>; the return 
+of the Aminta; the remasting of the Bedford; the 
+impossibility M. Destouches is under to give us any 
+farther assistance ; the uncertainty of what M. de Tilly may have determined before he had received 
+your letter ; — such are, my dear General, the many 
+reasons which, from a pretty certain expedition, have 
+lately made a very precarious one. Under these circumstances, indeed, there must always be more or 
+less danger in going down the Bay, and venturing 
+upon the low country about <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>. 
+</p><p>
+Being unacquainted with the answer you have received from Count cle Rochambeaii and M. Destouches, I am not able to judge how far I may depend upon the same ship being ordered again to the 
+Chesapeake, in case (before the reception of your 
+letter) she had thought proper to sail. Her coming was not in consequence of your proposition ; her 
+going was relative to the difficulties of an expedition 
+very different from ours ; and I wish I might know, 
+if, though M. Destouches cannot give further assistance, this assistance at least may be depended upon, 
+so as to hope for the return of the ship, should M. de Tilly have left the Bay. The bottom of the Bedford is said to be damaged, the Aminta was said to 
+have been dismasted. Suppose those circumstances 
+were true, they would be in our favor. 
+</p><p>
+If a detachment was to go from <a href='/results.php?city=new york' rel='city'>New York</a> to 
+<a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, west Point would be left in danger. If 
+Cornwallis continues advancing, perhaps our being in 
+the neighbourhood of Arnold may be of service. I 
+will, however, confine myself literally to my instructions ; and if Colonel Gouvion writes mo with certaint}', that M. de Tilly is gone, if I am not led to suppose he will return, I will march back the detachment. For the present, I am going on, because, upon 
+the increasing of the enemy's force at Gardiner's 
+Bay, you recommend despatch to me. 
+</p><p>
+I hope, however, that I shall hear from your Excellency, now that the chain is established. Colonel 
+Pickering says, that in six days I may receive your 
+answer at the Head of Elk. The hope of seeing the 
+French ship again, or some other reason, may detain 
+me. But your answer will determine my motions; 
+and I can receive it by the 8th, which is about the 
+time when it was thouo;ht we should arrive at the 
+Head of Elk. My expectations are not great, and I 
+think we have hut few chances for us. I shall make 
+all possible despatch, and listen particularly to the 
+voice of prudence. However, some hazard must he 
+run, if we undertake in these circumstances. 
+</p><p>
+General Duportail having not left this place, I am 
+led to hope, that, if we do not go, I may return in 
+time for the journey to Rhode Island. I most instantly beg, my dear General, you will favor me with 
+an immediate answer. 
+</p><p>
+With the highest respect and most tender affection, 
+I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p><p>
+P. S. One of our transports from <a href='/results.php?city=trenton' rel='city'>Trenton</a> had got 
+aground ; but the troops on board of her will still be 
+in time at the Head of Elk. Some new difficulties 
+have been made for the collecting of shoes, but I 
+will try to get over them. From the extraordinary 
+motions of Lord Cornwallis, whom we have not heard 
+of these many days, and from the movements in New 
+York, I am led to hope that I shall hear from you 
+respecting my future conduct, and that I may be at 
+head-quarters before you think it prudent to leave 
+New Windsor. 
+</p>
+</letter>

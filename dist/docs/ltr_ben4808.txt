@@ -1,0 +1,56 @@
+<letter id="ben4808">
+<recipient first="Humphrey" last="Marshall" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1771' rel="origin">1771</a> 
+</p><p>
+SIR, 
+</p><p>
+I duly received your Favours of the 4'? of October and the 
+if' of November. It gave me Pleasure to hear, that tho' 
+the Merchants had departed from their Agreement of NonImportation, the Spirit of Industry and Frugality was likely 
+to continue among the People. I am obliged to you for your 
+Concern on my Account. The Letters you mention gave 
+great Offence here ; but that was not attended with the immediate ill Consequences to my Interest that seem to have been 
+hoped for by those that sent Copies of them hither. 
+</p><p>
+If our Country People would well consider, that all they 
+save in refusing to purchase foreign Gewgaws, & in making 
+their own Apparel, being apply'd to the Improvement of 
+their Plantations, would render those more profitable, as 
+yielding a greater Produce, I should hope they would persist 
+resolutely in their present commendable Industry and Frugality. And there is still a farther Consideration. The 
+Colonies that produce Provisions grow very fast: But of 
+the Countries that take off those Provisions, some do not increase at all, as the European Nations ; and others, as the West 
+India Colonies, not in the same proportion. So that tho' 
+the Demand at present may be sufficient, it cannot long continue so. Every Manufacturer encouraged in our Country, 
+makes part of a Market for Provisions within ourselves, 
+and saves so much Money to the Country as must otherwise 
+be exported to pay for the Manufactures he supplies. Here 
+in England it is well known and understood, that whenever 
+a Manufacture is established which employs a Number of 
+Hands, it raises the Value of Lands in the neighbouring 
+Country all around it; partly by the greater Demand near 
+at hand for the produce of the Land; and partly from the 
+Plenty of Money drawn by the Manufacturers to that part 
+of the Country. It seems therefore the Interest of all our 
+Farmers and Owners of Lands, to encourage our young 
+Manufactures in preference to foreign ones imported among 
+us from distant Countries. 
+</p><p>
+I am much obliged by your kind Present of curious Seeds. 
+They were welcome Gifts to some of my Friends. I send 
+you herewith some of the new Barley lately introduced into 
+this Country, & now highly spoken of, I wish it may be 
+found of Use with us. 
+</p><p>
+I was the more pleased to see in your Letter the Improvement of our Paper, having had a principal Share in establishing that Manufacture among us many Years ago, by the 
+Encouragement I gave it. 
+</p><p>
+If in anything I can serve you here, it will be a Pleasure to 
+Your obliged Friend 
+</p><p>
+and humble Servant, 
+</p><p>
+B FRANKLIN. 
+</p>
+</letter>

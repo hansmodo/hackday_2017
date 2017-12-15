@@ -1,0 +1,53 @@
+<letter id="nib5303">
+<recipient first="Alexander" last="Porter" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="6">June</a> <a rel='day origin' value='14'>14</a>. <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+Dear Sir 
+</p><p>
+The last mail brought me your favor of the II th inst 
+which shall not fail to receive immediate attention as soon 
+as we hear from the Branch at <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> on the subject. 
+As yet we have had no communication whatever in regard 
+to it. 
+</p><p>
+I regret very much the decision of the House on <a href='/results.php?tla=hec' rel='colleague'>Mr Clay's</a> resolutions : for its effect will I fear be to render the state of 
+the country much more embarrassing during the summer. 
+The House have it now in their power, by passing those resolutions, to give immediate and general relief to the country. 
+If the House by however small a majority, were to order 
+the restoration of the Deposits, no matter whether it were 
+vetoed or signed by the Pres., it would not only relieve the 
+Senate from the reproach of siding against the Pres. and the people but it would establish such a relation between the 
+Congress and the Bank, as would induce the latter to make 
+great efforts to restore confidence and prosperity. With such 
+a vote of Congress, twenty-four hours would be sufficient to 
+establish peace, and to insure the return of better times for 
+the country. On that subject my convictions are strong 
+</p><p>
+"and were it not for the misinterpretation to which it would 
+be liable, I should go down &amp; talk with you all about it. 
+</p><p>
+Do you think it practicable to carry the resolutions? The 
+majority was 20 which requires a change of only n votes. 
+Now I have no doubt that many members like Mr King of 
+Georgia, who are well disposed even to recharter the Bank, 
+but despairing of the recharter, think the restoration of the 
+deposites without being followed by a certainty of a recharter, would benefit neither the country. In this they are mistaken. I think for instance I could venture to say that if such 
+a vote were secured, the Bank would feel no reluctance in 
+giving one, or if necessary, two millions of loans to Louisiana 
+as requested for her relief. This could be done because such 
+a vote is peace and harmony &amp; confidence between the Bank 
+&amp; the Congress. In truth I know of no way in which all the 
+interest on the Western waters could be more immediately &amp; 
+substantially advanced than by such a vote, which it would 
+be in the power of Eleven men, who are sent to Congress to promote these interests, to give in a few days. Could not that 
+resolution be brought up? I should think there were men 
+enough in the House to do that good service to their section 
+of the country, even if it did cost them a frown at the Palace. 
+If you suppose it is at all feasible &amp; that I can promote it, 
+</p><p>
+I have the goodness to let me know and in the mean time 
+</p><p>
+believe me 
+</p>
+</letter>

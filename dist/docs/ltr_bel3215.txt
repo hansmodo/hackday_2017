@@ -1,0 +1,25 @@
+<letter id="bel3215">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=pawlet' rel='city origin'>Pawlet</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>.
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I am honored with your favor of the 10th instant. General 
+Stark, by his last letter, informed me his troops should join your Honor ; since which, I have heard of his march ; therefore have 
+inclosed your letter to him. I should not have been short of 
+ammunition, had the militia from the Massachusetts attended to 
+the orders of the Court, and had the ball sent from Springfield 
+and <a href='/results.php?city=albany' rel='city'>Albany</a> been of a size suitable for the muskets. 
+</p><p>
+On our movement this way, the few enemy, who were at 
+Skenesborough, left it, after burning a number of boats. We 
+have in camp about two thousand men, and now a prospect of a 
+supply of flour. On the return of the scouts, now out, I expect a good account of the enemy's situation ; shall not fail, immediately, by scouts and heavier detachments, to attempt giving that 
+diversion to <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> which we contemplated my movement here would effect. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

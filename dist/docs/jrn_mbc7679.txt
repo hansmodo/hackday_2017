@@ -1,0 +1,12 @@
+<letter id="mbc7679">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and Mrs. Lyons came. We had luncheon brought in for them, and then a lucid explanation of the chronique scandaleuse, of which Beck J. is the heroine. We walked home with <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and met 
+the President riding alone. Surely that is wrong. It must be unsafe for him when there are so many traitors, not to 
+speak of bribed negroes. Burton Harrison says <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> prefers to go alone, and there is none to gainsay him. 
+</p><p>
+My husband laid the law down last night. I felt it to be the last drop in my full cup. "No more feasting in this 
+house," said he. " This is no time for junketing and merrymaking. " " And you said you brought me here to enjoy 
+the winter before you took me home and turned my face to a dead wall." He is the master of the house; to hear is to obey. 
+</p>
+</letter>

@@ -1,0 +1,21 @@
+<letter id="sid5054">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='16'>16th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I did myself the honor of writing to you on the 22d of February past, to which letter I beg leave to refer your 
+Excellency. Having received no answer to the requests I then made, I have now only to add, that my situation, which 
+for eight months past has been peculiarly distressing, is now become such as to oblige me to leave this city without further delay, and therefore I again most respectfully entreat 
+of Congress to inform me, if they expect further information from me respecting their foreign or other affairs, and as I 
+shall without loss of time, return to Europe, that I may be informed if they have any further commands for my service, 
+and in what manner my past transactions, as their agent and commissioner, are to be adjusted and closed. 
+</p><p>
+I have the honor to be, with the greatest respect, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

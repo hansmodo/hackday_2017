@@ -1,0 +1,33 @@
+<letter id="gom4617">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="8">August</a> <a rel='day origin' value='17'>17th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+If I have not hitherto mentioned the application made to 
+me by the foreign officers, who have certificates, whereof the 
+interest is payable in this city, it has not been for want of 
+sufficient reason, but because I daily hoped to have received 
+some orders on that subject.  Many have spoken to me, 
+written to me, and called upon me. I have given to all the 
+general assurances, that justice would be done, that I would 
+transmit their claims, and the like. I now enclose a letter 
+from the Polish Envoy, relative to the claims of Brigadier 
+General Kosciuszko, and I have told the Count d Oraczewski 
+that I daily expect despatches from you on this subject. I 
+did this because General Duportail told me, that he had information from Colonel Ternant, that these claims are honorably 
+provided for. In the uncertainty as to what may have been 
+done, I feel it my duty to bring the matter to your recollection, persuaded that you will do everything which may be proper on the occasion. 
+</p><p>
+I enclose, in like manner, a letter I have received from 
+Mr Francis Coffin of Dunkirk, respecting the Consular office 
+in that city. I tell him in answer to it, that I shall inquire of 
+M. de Lamotte as to the appointment he complains of, and 
+will transmit his letter to you, and take your orders. These 
+you will, I trust, be so kind as to give me. I know not Mr Coffin, and consequently can say nothing either for or against 
+him. I am, &;c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,106 @@
+<letter id="fad4553">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+You have complained of the fraud committed by the captors 
+of the ship Peggy, in taking away the papers, which proved her 
+cargo to be American. The lawyer, who informed you of 
+this fact, proposes to collect the necessary proofs. It is deter 
+mined, as soon as your correspondent at Morlaix shall transmit these proofs, to punish the guilty according to the utmost 
+rigor of the law. 
+</p><p>
+You observe that it is to be feared, that the judges may be 
+interested in the cases submitted to them. To avoid such an 
+inconvenience, the law grants to the injured party the resource 
+of an appeal, and in the last resort a direct intervention of the 
+administration, and legislative body. 
+</p><p>
+The extreme rigor, with which the English and the other belligerent powers treat all the neutral vessels destined for 
+France, has put the Republic to the painful necessity of ar 
+resting, by way of reprisal, in such vessels the provisions be 
+longing to its enemies. This severe measure, clearly explained in the decree of the ninth of May, of which I enclose you 
+a copy, is the result of the most imperious circumstances. It 
+will continue only as long as our enemies employ against us 
+means disapproved of by the laws of humanity, and by those 
+of war. In casting your eye on this law, you can hardly, Sir, 
+avoid the conviction, that it was necessary and just ; that the 
+Republic could no longer, without inattention to itself, preserve 
+tolerable decency towards its implacable and ferocious enemies, 
+and that the system of depriving them of foreign produce was 
+also to dissipate its means of offence. 
+</p><p>
+In comparing this law with the declaration made by the 
+British government, at Stockholm, Copenhagen, Florence, and 
+probably at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, you will observe an extreme difference between our manner of thinking and that of our enemies. 
+ 
+You will see on the one hand, the firm determination of destroying several millions of victims, merely to satisfy a spirit 
+of vengeance or of ambition, and on the other, the desire of 
+repelling unjust aggressions by severe laws, and a regret at being reduced to that extremity. 
+</p><p>
+Here then, Sir, in two words is the situation in which the 
+Republic stands. Its enemies have openly usurped the right 
+of seizing all the provisions, which are destined to it, and even 
+all the Frenchmen found on board of neutral vessels. But 
+it seems that France, attacked on all sides, abandoned to its 
+own strength, without allies, without foreign succor, should 
+confine herself scrupulously to the maxims of the law of nations, so cruelly violated by her enemies. Hence it would 
+result, that the neutrality of several powers would be partial, 
+that it would operate only in favor of our enemies, whose 
+commerce would be peaceably carried on under the shelter of 
+a borrowed flag, while ours could not under any flag what 
+ever. 
+</p><p>
+The law of the ninth of May is conditional, whilst the declarations of the combined powers are positive. It is in their 
+power to put a period to the execution of this law, by permit 
+ting neutral vessels to communicate freely with France. 
+</p><p>
+These observations, Sir, which you are too just not to appreciate, apply to the greater part of the claims, which you have 
+addressed to me for some time. I have done, with respect to 
+several of them, all that depended on me, in order to obtain in 
+favor of your countrymen an exception of the general measures, adopted with regard to neutral nations. I have used, 
+among others, all the means with which your letters furnished 
+me, to have restored the ship Laurens ; but I have met with 
+insurmountable obstacles, in the established laws, and in the 
+opinion of the commercial tribunal of Havre. The tribunal 
+has neglected nothing to render justice to the owners of this 
+vessel. It has consented among other things, to have translated two hundred and sixty-one letters, merely to prove in the 
+most authentic manner the property of the cargo. The interested have besides avowed themselves, that they had neglected an essential formality required by our laws. 
+</p><p>
+You must be satisfied, Sir, with the manner in which the re 
+quest, presented by the American captains from Bordeaux, 
+has been received. This fact&gt; and several others of the same 
+kind, which could not escape your attention, must have convinced you, that when the particular circumstances of the Re 
+public permitted the administration to favor your countrymen, 
+it was eager to give to them testimonies of the desire, which it 
+always has had, of bringing nearer and nearer the citizens and 
+the interests of the two countries. 
+</p><p>
+We hope, that the government of the United States will 
+attribute to their true cause, the abuses of which you complain, 
+as well as other violations of which our cruisers may render 
+themselves guilty, in the course of the present war. It must 
+perceive how difficult it is, to contain within just limits the indignation of our marines, and in general of all the French patriots, against a people who speak the same language, and 
+have the same habits, as the free Americans. The difficulty of distinguishing our allies from our enemies, has often been 
+the cause of offences committed on board your vessels ; all 
+that the administration could do, is to order indemnification to 
+those who have suffered, and to punish the guilty. 
+</p><p>
+I enclose herein several copies of the navigation act, de 
+creed by the representatives of the people. I request you to 
+make the dispositions of them known to the government of the 
+United States. It will there find the basis of a system connecting more and more the interests of the two nations. 
+</p><p>
+<a href="/results.php?tla=fad" rel="me">DEFORGUES</a>. 
+</p><p>
+P. S. I enclose herein, Sir, an arret of the Committee of 
+Public Safety, which fulfils in part the object proposed in 
+your letter of the 13th of this month. I shall have the honor 
+of communicating to you the measures, which shall be taken 
+in the sequel. 
+</p>
+</letter>

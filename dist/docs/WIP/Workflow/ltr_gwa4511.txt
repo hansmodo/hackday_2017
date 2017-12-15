@@ -1,0 +1,79 @@
+<letter id="gwa4511">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+Head-Quarters [<a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a>], <a rel='day origin' value='30'>30</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+I have had the pleasure of receiving your favors of the 8th and 20th instant. The first relieved me from much anxiety, as I had seen Mr. Rivington's account 
+of the action at Green Spring, which you may suppose was highly colored in their favor. You ask my opinion of the Virginia campaign. Be assured, my dear 
+Marquis, your conduct meets my warmest approbation, as it must that of every body. Should it ever be said, 
+that my attachment to you betrayed me into partiality, you have only to appeal to facts to refute any such charge. But I trust there will be no occasion.
+</p><p>
+Lieutenant-<a href='/results.php?tla=alh' rel='co-worker met'>Colonel Hamilton</a> will join the advanced corps under the orders of Colonel Scammell 
+</p><p>
+I very much approve of your intention of reinforcing <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>, as soon as circumstances will allow, and as strongly as possible. 11' he can only maintain 
+the advantages he has already gained in the Carolinas and Georgia, the British ministry will make a very diligent figure in the political scene from that, which it is plain they expected, by Lord George Germain's letters of March last. 
+</p><p>
+Private Letter, July 30th. — T take your private 
+letter of the 20th in the light which you wish it, that 
+of an unreserved communication from one friend to 
+another ; and I should be wanting in candor, were I 
+not to expose my sentiments to you in as free a manner. I am convinced, that your desire to be with 
+this army arises principally from a wish to be actively 
+useful. You will not, therefore, regret your stay in 
+Virginia until matters are reduced to a greater degree 
+of certainty, than they are at present, especially when 
+I tell you, that, from the change of circumstances 
+with which the removal of part of the enemy's force 
+from Virginia to <a href='/results.php?city=new york' rel='city'>New York</a> will be attended, it is more than probable, that we shall also entirely change our plan of operations. I think we have already effected one part of the plan of the campaign settled at 
+Weathersfield ; that is, giving a substantial relief to the 
+southern States, by obliging the enemy to recall a considerable part of their force from thence. Our views 
+must now be turned towards endeavouring to expel 
+them totally from those States, if we find ourselves 
+incompetent to the siege of <a href='/results.php?city=new york' rel='city'>New York</a>. The difficulty 
+of doing this does not so much depend upon obtaining a force capable of effecting it, as upon the mode 
+of collecting that force to the proper point, and transporting the provisions and stores necessary for such 
+an operation. You are fully acquainted with the almost impracticability of doing this by land ; to say nothing of the amazing loss of men always occasioned 
+by long marches, and those towards a quarter in which 
+the service is disagreeable. I should not, however, 
+hesitate to encounter these difficulties, great as they 
+are, had we not prospects of transporting ourselves in 
+a manner safe, easy, and expeditious. Your penetration will point out my meaning, which I cannot venture to express in direct terms. 
+</p><p>
+I approve of your resolution to reinforce <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>, in proportion to the detachment which the 
+enemy may make to <a href='/results.php?city=new york' rel='city'>New York</a>. Let your next attention be paid to training and forming the militia, with 
+which you may be furnished, and disposing of them in 
+such a manner, that they may be drawn at the shortest notice to whatever point the enemy may make 
+their capital post, which I conclude will be at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>. The establishment of magazines at safe deposits will be in all cases necessary ; but, above all things, 
+I recommend an aiigmciitatit)ii of your cavalry to 
+as great an extent as possible. It may happen, that 
+the enemy may be driven to the necessity of forcing 
+their way through North Carolina to avoid a greater 
+misfortune. A superiority of horse on our side would 
+be fatal to them in such a case. 
+</p><p>
+The advantages resulting from a move of the French fleet from Newport to the Chesapeake were carefully and strongly pointed out to Count de Barras, and I thought he had once agreed to put it in execution ; but, by 
+his late letters, he seemed to think that such a manoeuvre might interfere with greater plans, and therefore he declined it. It would now be too late to answer the principal object, as, by accounts from a deserter, the troops arrived from Virginia last Friday. 
+</p><p>
+Should your return to this army be formally determined upon, I cannot flatter you with a command equal to your expectations or my wishes. You know 
+the over proportion of general officers to our numbers, and can therefore conceive where the difficulty will be. <a href='/results.php?tla=alm' rel='co-worker'>General McDougall</a> is not yet provided for, and the 
+Jersey anti York troops are reserved for him. They are promised to him, though they have not yet joined. 
+</p><p>
+In my letter to <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>, which I beg the 
+favor of you to forward, I have hinted nothing of 
+what I have said to you, for fear of miscarriage. You 
+will probably find a safe opportunity from your army 
+to him, and you will oblige me by communicating the 
+part of this letter, which relates to my expectation of 
+being able to transport part of the army to the southward, should the operation against <a href='/results.php?city=new york' rel='city'>New York</a> be declined. 
+</p><p>
+I wish, as I mentioned in my last, to send a confidential person to you to explain at large what I 
+have so distantly hinted ; but I am really at a loss, on 
+account of not knowing the officers better, to find one 
+upon whose discretion I can depend. My own family, 
+you know, are constantly and fully employed. I hope, 
+however, that I have spoken plain enough to be understood by you. With every sentiment of affection 
+and regard, I am, &,c. 
+</p>
+</letter>

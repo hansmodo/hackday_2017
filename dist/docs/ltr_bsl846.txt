@@ -1,0 +1,24 @@
+<letter id='bsl846'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=san francisco' rel='city origin'>San Francisco</a> July 	<a rel='day origin' value='14'>14th</a>, <a href="/results.php?year=1852">1852</a><br/>
+Jno L. Stephens Esq.
+</p><p>
+Dear Jn.
+</p><p>
+Your letter of June 23rd was received through the hands of [...?...] Stephens this morning. Now in relatioon to any property or share of property coming to me from my father's estate in which you may be interested, I freely and willingly accord to you the authority on my part to do as in your judgment you may think best and will willingly ratify when I return to the states anything that may have been doe by you predicated upon my assent thereto. I shall strive and be at home the following year.
+</p><p>
+My shoulder is now at the wheel again. I am not involved nor can I command a heavy amount neither can I ever relinquish the desire to come out of California better than when I entered it. You no doubt will be interested in m,y present--I am now engaged in superintending the state prison labor. Having an interest myself, aside from the salary of $400 a month. We are employing them at a steam brick works owned by the co. and I have made with the labor 43,000 bricks per day and can compete with any concern in Cal. for contracts. We have offered our proposition to the Pacific Steamship Co. at Benecia to supply material for their works and other contracts supplying builders in this city.
+</p><p>
+The site of the State prison has been changed from Vallejo to within 500 yds of our grounds. The land purchased by the state commissioners the deed made and delivered the state and paid for offers will be accepted this week to furnish material. Now some of the com. are interested with us. "We may by chance get the contract. At any rate my time is employed and I recieve good pay for it. I have been dabbling in several things and plan a foothold yet Some of the money cannot burn.
+</p><p>
+Politcally too independent to ask for anything and to be a party hack? Too senile and hypocritical for me. Although there are many prominent men here who owe their advancement partly to me whose influence I might command, but nothing is made at it, unless one stoops to downright stealing. Such as I have witnessed here. I await the time when with pleasure, I can sit down and rehearse to you the course of many of our prominent men here and the general listing of many you know. The last fire in June one year ago hurt me indirectly, but I will not complain--good health stout heart, and a desire to do what is right will yet bring me along. This life is a long rough road and will not do to travel too fast. One's "mule" might get "tender footed."
+</p><p>
+I gave Lieut. Gov. Purdy and Mr. A.H. Sibley a letter each to you. Do engage them in conversation you will find they can post you in relation to matters here. Will you please remember me kindly to your father--
+</p><p>
+A grand Dem. ratification meeting took place in the plaza. More unanimity could not have been expected. California will give Pierce four thousand majority--Mr. Purdy will call to see you; he can give you more information than I could write on a piece of paper. He is one of our most popular men and deservedly so. Sibley is a Whig and if he returns here in time will get the Whig nomination for Mayor of this city. If you meet any of my people will you please remember me to them. I am a poor correspondent and seldom write. One longing wish I have, to see by good old mother once more.
+</p><p>
+With due respect, As ever,<br/>
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>

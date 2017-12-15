@@ -1,0 +1,26 @@
+<letter id="joj4103">
+<recipient first="" last="Pierce" type="individual"/>
+<p>
+to major pierce. 
+</p><p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+It is as vet exceedinglv uncertain who will be senators for this State, and consequently it cannot be even conjectured by what leading motives they will probably be influenced in their appointments. Whoever they may be, I 
+shall not omit to apprize them of your services and character. This I take to be the precise extent of your request, 
+and thus far my desire of serving vou may, I think, be 
+gratified. You are aware, my dear sir, that my official 
+station prescribes a degree of delicacy and reserve relative 
+to other departments, which, though sometimes unpleasant, 
+is always proper. It gives me pleasure to be persuaded, 
+that on this head our sentiments correspond, and that you 
+prefer a uniform adherence to propriety, to any friendly 
+efforts beyond its limits. 
+</p><p>
+I am, dear sir, 
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

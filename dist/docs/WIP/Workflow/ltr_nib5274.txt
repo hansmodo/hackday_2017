@@ -1,0 +1,22 @@
+<letter id="nib5274">
+<recipient first="Thomas" last="Cadwalader" type="individual"/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Wash'n</a> . <a rel="month origin" value="6">June</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+Tuesday 5 o clock
+ 
+My dear General, 
+</p><p>
+For the last week I have been expecting daily to return home, &amp; was willing therefore to spare you &amp; myself the 
+trouble of corresponding, when we could so much more readily converse about the matter. It has been a week of hard 
+work anxiety &amp; alternating hopes &amp; fears, but I think that we may now rely with confidence in a favorable result. You 
+know how many difficulties are to be overcome how many 
+hostilities are to be encountered; how many friendly indiscretions and weaknesses are to be repaired, in a work like this. 
+I think moreover that it has reached a point where we may promise ourselves some rest. The Senate are now occupied 
+with what I consider the most decisive point of the whole question and being obliged to leave the capitol to prepare 
+for some company to dine with me, I write these views as preliminary to the news which the Senators who are to be my 
+guests may bring with them. They have come. This day like yesterday has been consumed in rejecting a very distract 
+ing &amp; dangerous proposal to exchange a bonus for the obligation to discount at five per cent. I have been at work all 
+day to get rid of it and we have succeeded by a vote of 26 to 1 8 in excluding it. Tomorrow we shall have something decisive. 
+</p>
+</letter>

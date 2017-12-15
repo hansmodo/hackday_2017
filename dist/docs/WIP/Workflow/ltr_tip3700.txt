@@ -1,0 +1,24 @@
+<letter id="tip3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philaelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+You will doubtless, ere this reaches you, have been 
+informed that Congress have been pleased to appoint 
+me Quartermaster-General. This was so totally unexpected, that it will take me some days yet, before 
+I can get ready to proceed to camp. In the mean 
+time, I shall make some necessary arrangements for 
+conducting the business of the department in this 
+State, and the other States southward of it. The 
+gentlemen concerned in the department with the army, will, I hope, cheerfully continue to exercise the 
+duties of their respective offices until my arrival in 
+camp, which shall be as speedily as possible. I have 
+the honor to be, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter>

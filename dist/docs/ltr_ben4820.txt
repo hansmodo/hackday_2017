@@ -1,0 +1,53 @@
+<letter id="ben4820">
+<recipient first="Deborah" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">Aug</a> <a rel='day origin' value='14'>14</a>. <a href='/results.php?year=1771' rel="origin">1771</a> 
+</p><p>
+MY DEAR CHILD, 
+</p><p>
+I received yours of June 29, by Packet. I am glad to hear 
+of all your Welfares, and that the Pictures &c. were safe 
+arrived. You do not tell me who mounted the great one, nor 
+where you have hung it up. Let me know whether Dr. Bond 
+likes the new one better than the old one ; if so, the old one 
+is to be returned hither to Mr. Wilson, the Painter. You may 
+keep the Frame, as it may be wanted for some other Picture 
+there. I wrote to you the Beginning of last Month, to go by 
+Capt. Falconer, & have since been in the Country, am just 
+come to town, and find him still here, and the Letters not gone. 
+He goes however next Saturday. 
+</p><p>
+I had written to many of my Friends by him. I spent three 
+Weeks in Hampshire at my Friend the Bishop of St. Asaph's. 
+The Bishop's Lady knows what Children and Grandchildren 
+I have, their Ages, &c. So when I was to come away on 
+Monday the 12th in the Morning, she insisted on my staying 
+that one Day longer, that we might together keep my Grandson's Birthday. At Dinner, among other nice Things, we 
+had a Floating Island, which they always particularly have on the BirthDays of any of their own Six Children; who 
+were all but one at Table, where there was also a Clergyman's 
+Widow now above 100 Years old. The chief Toast of the 
+Day was Master Benjamin Bache, which the venerable old 
+Lady began in a Bumper of Mountain. The Bishop's Lady 
+politely added, and that he may be as good a Man as his Grandfather. I said I hop'd he would be much better. The Bishop, 
+still more complaisant than his Lady, said, "We will compound the Matter, and be contented if he should not prove 
+quite so good." This Chitchat is to yourself only, in return 
+for some of yours about your Grandson, and must only be 
+read to Sally, and not spoken of to anybody else; for you 
+know how People add and alter silly Stories that they hear, 
+and make them appear ten times more silly. 
+</p><p>
+Just while I am writing the Post brings me the enclosed 
+from the good Bishop, with some Letters of Recommendation for Ireland, to see which Country I am to set out next 
+week with my old Friend and Fellow Traveller, Counsellor 
+Jackson. We expect to be absent a Month or Six Weeks. 
+The Bishop's youngest Daughter, mention'd in his Letter, is 
+about 11 years of age, and came up with me in the PostChaise 
+to go to her School. 
+</p><p>
+Capt. Osborne is not yet arrived here, but is every day 
+expected. I hope he will come before I set out, that I may 
+hear from you by him. I desire you will push the enquiry 
+after the Lancaster Dutchman, and not let it sleep & be 
+forgotten. I send you by Capt. Falconer a Box of Looking Glasses for the Closet Door in the little l 
+</p>
+</letter>

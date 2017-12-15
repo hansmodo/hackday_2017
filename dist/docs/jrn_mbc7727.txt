@@ -1,0 +1,29 @@
+<letter id="mbc7727">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a rel='month origin' value='7'>July</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1864' rel="origin">1864</a>.
+</p><p>
+At the Prestons Mary was laughing at Mrs. Lyons's complaint the 
+person from whom we rented rooms in Richmond. She spoke of Molly and Lawrence's deceitfulness. They 
+went about the house quiet as mice while we were at home ; or Lawrence sat at the door and sprang to his feet whenever 
+we passed. But when we were out, they sang, laughed, shouted, and danced. If any of the Lyons family passed 
+him, Lawrence kept his seat, with his hat on, too. Mrs. Chesnut had said : " Oh ! " so meekly to the whole tirade, 
+and added, I will see about it. 
+</p><p>
+Colonel Urquhart and Edmund Rhett dined here ; charming men both no brag, no detraction. Talk is never pleas 
+ant where there is either. Our noble Georgian dined here. He says Hampton was the hero of the Yankee rout 
+at Stony Creek. He claims that citizens, militia, and lame soldiers kept the bridge at Staunton and gallantly repulsed 
+Wilson's raiders. 
+</p><p>
+At Mrs. S.'s last night. She came up, saying, " In 
+New Orleans four people never met together without dancing." Edmund Rhett turned to me: "You shall be 
+pressed into service. " No, I belong to the reserve corps too old to volunteer or to be drafted as a conscript. But I had to go. 
+</p><p>
+My partner in the dance showed his English descent ; he took his pleasure sadly. " Oh, Mr. Rhett, at his pleasure, 
+can be a most agreeable companion! " said someone. " I never happened to meet him, said I, when he pleased to 
+be otherwise. With a hot, draggled, old alpaca dress, and those clod-hopping shoes, to tumble slowly and gracefully 
+through the mazes of a July dance was too much for me. "What depresses you so ?" he anxiously inquired. Our 
+carnival of death." What a blunder to bring us all to gether here ! a reunion of consumptives to dance and sing 
+until one can almost hear the death-rattle ! 
+</p>
+</letter>

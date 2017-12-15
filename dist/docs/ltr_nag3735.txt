@@ -1,0 +1,45 @@
+<letter id="nag3735">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My public letters to Congress will inform your 
+Excellency of our situation in this quarter. We fight, get beath and fight again. We have so much 
+to do and so little to do it with, that I am much afraid these States must fall, never to rise aa'ain : 
+and, what is more, I am persuaded they will lay a train to sap the foundation of all the rest. 
+</p><p>
+I am greatly obliged to your Excellency for ordering the Marquis to the southward. I propose to halt 
+him in Virginia, until the enemy's plan of operations 
+is better known. <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> will join this army. 
+He, having offended the Legislature of Virginia, cannot be as useful there as he has been. The Marquis 
+is desired to keep your Excellency advised of all 
+matters in that quarter, as it is too far first to come 
+to this army and then be sent back again. 
+</p><p>
+When I was appointed to the command of this army, I solicited Congress to give Dr. McHenry a majority, that he might serve nie in the character of 
+Aid. This they refused. I was persuaded, when I 
+made the application, of the necessity, and since have 
+felt it most sensibly. Your Excellency can scarcely 
+tell how happy you are in your family, and therefore 
+can hardly judge of my situation. I cannot make a 
+second application to Congress on the subject, nor 
+should I have hopes of succeeding, if I did ; but I 
+shall esteem it a peculiar mark of your Excellency's 
+friendship and esteem, if you will interest yourself 
+in the matter, and get him a majority. Your Excellency will judge of the propriety of my request; and 
+if my wishes have prompted me to ask any thing 
+that does not accord "with your opinion or your feelings, I must beg you to decline the measure, and 
+excuse me. 
+</p><p>
+It is a long time since I received a line from Mrs. 
+Greene. I am afraid they have miscarried, before 
+they got to head-quarters. I am sorry that you had 
+not leisure to call on her on your return from Newport. She would have thought herself greatly honored, and been peculiarly happy on the occasion. 
+</p><p>
+With the greatest respect and esteem, I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

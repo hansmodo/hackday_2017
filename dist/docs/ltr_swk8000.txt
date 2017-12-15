@@ -1,0 +1,20 @@
+<letter id='swk8000'>
+<recipient first='Robert' last='Stockton' type='individual'/>
+<p>
+Headquarters, Army of the West, 
+</p><p>
+<a href='/results.php?city=camp at warners' rel='city origin'>Camp at Warner's</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : I (this afternoon) reached here, escorted by a party of the First Regiment Dragoons. I came by orders from the President of the United States. We left Santa Fe on the 25th of 
+September, having taken possession of New Mexico, annexed it to the United States, established a civil government in that territory, and secured order, peace, and quietness there. 
+</p><p>
+If you can send a party to open a communication with us, on the route to this place, I wish you would do so, and as quickly as possible. 
+</p><p>
+The fear of this letter falling into Mexican hands prevents me from writing more. Your express by Mr. Carson was met on the Del Norte, and your mail must have reached Washington at least ten days since. 
+</p><p>
+Very respectfully, your obedient servant, 
+<a href="/results.php?tla=swk" rel="me">S. W. Kearny</a>. 
+</p><p>
+Brigadier-General, U. S. A. 
+</p>
+</letter>

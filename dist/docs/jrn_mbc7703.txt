@@ -1,0 +1,22 @@
+<letter id="mbc7703">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='13'>13th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. My husband is writing out some resolutions for the Congress. He is very busy, too, trying 
+to get some poor fellows reprieved. He says they are good soldiers but got into a scrape. Buck came in. She had on 
+her last winter's English hat, with the pheasant's wing. Just then <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> entered most unexpectedly. Said the blunt 
+soldier to the girl : You look mighty pretty in that hat ; you wore it at the turnpike gate, where I surrendered at 
+first sight." She nodded and smiled, and flew down the steps after Mr. Chesnut, looking back to say that she meant 
+to walk with him as far as the Executive Office. 
+</p><p>
+The General walked to the window and watched until the last flutter of her garment was gone. He said: " The 
+President was finding fault with some of his officers in command, and I said : Mr. President, why don't you come 
+and lead us yourself ; I would follow you to the death. If Actually, if you stay here in Richmond much longer you 
+will grow to be a courtier. And you came a rough Texan." 
+</p><p>
+<a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and General McQueen came. He tells me Muscoe Garnett is dead. Then the best and the cleverest 
+Virginian I know is gone. He was the most scholarly man they had, and his character was higher than his requirements. 
+</p><p>
+To-day a terrible onslaught was made upon the President for nepotism. Burton Harrison's and John Taylor 
+Wood's letters denying the charge that the President's cotton was unburned, or that he left it to be bought by the Yankees, have enraged the opposition. How much these people in the President's family have to bear! I have never felt so indignant. 
+</p>
+</letter>

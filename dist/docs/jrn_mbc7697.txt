@@ -1,0 +1,18 @@
+<letter id="mbc7697">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. My luncheon was a female affair exclusively. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> came early and found Annie and Tudie 
+making the chocolate. Lawrence had gone South with my husband; so we had only Molly for cook and parlor-maid. 
+After the company assembled we waited and waited. Those girls were making the final arrangements. I made my way 
+to the door, and as I leaned against it ready to turn the 
+knob, Mrs. Stanard held me like Coleridge's Ancient Mariner, and told how she had been prevented by a violent at 
+tack of cramps from running the blockade, and how providential it all was. All this floated by my ear, for I heard 
+Mary Preston's voice raised in high protest on the other side of the door. "Stop !" said she. Do you mean to 
+take away the whole dish? " "If you eat many more of those fried oysters they will be missed. Heavens! She is 
+running away with a plug, a palpable plug, out of that jelly cake! : 
+</p><p>
+Later in the afternoon, when it was over and I was safe, for all had gone well and Molly had not disgraced herself 
+before the mistresses of those wonderful Virginia cooks, <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and I went out for a walk. Barny Heyward and 
+Dr. Garnett joined us, the latter bringing the welcome news that " Muscoe Russell's wife had come." 
+</p>
+</letter>

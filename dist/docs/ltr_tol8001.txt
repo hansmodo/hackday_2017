@@ -1,0 +1,21 @@
+<letter id='tol8001'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+Consulate of the United States,<br>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : Enclosed you have a copy of my answer to the general and prefecto of this place, one to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, and the second letter from the prefect. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> is eight or nine leagues from this place encamped, 
+intending to move as soon as the state of his horses will permit. There will be two to three hundred people collected together to-morrow, with the 
+intention of attacking the camp. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> has about fifty men - all men of confidence, and remarkably well armed. Neither himself nor men 
+have any fears respecting the result of the present state of affairs; yet, be the result for or against him, it may prove of a disadvantage to the resident 
+Americans in California. I have at some (risk) despatched out two couriers to the camp, with duplicate letters, and this letter I send to Santa Barbara, in expectation of finding a vessel bound to Mazatlan. Having 
+had over one-half of my hospital expenses of 1844 cut off, and know not why, and even my bill for a flag, I do not feel disposed to hazard much for government, though the life of <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> and party may need it. I 
+hardly know how to act. I have only received one letter (of June) from the department for the year 1845. In the month of February, <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, in my company, visited the general, prefecto, and alcalde of this 
+place, and informed them of his business ; and there was no objection made. Within twenty days the general says he had received direct and specific orders from Mexico not to allow <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> to enter California; 
+which, -perhaps, accounts for the change of feelings with the people. 
+</p><p>
+I am, sir, with the highest respect and consideration, Your obedient servant, (Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p><p>
+To the Hon. Secretary of State, City of Washington. 
+</p>
+</letter>

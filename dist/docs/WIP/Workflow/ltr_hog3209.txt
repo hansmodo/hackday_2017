@@ -1,0 +1,25 @@
+<letter id="hog3209">
+<recipient first="John" last="Burgoyne" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am exceedingly mortified that you did not accept of my offer 
+at <a href='/results.php?city=albany' rel='city'>Albany</a>, to go to England in a vessel, that the State of Massachusetts Bay would, at my request, have provided. General 
+Glover, with whom you are acquainted, was, in that case, to have 
+attended you in his own ship ; and I am persuaded you would 
+have avoided many disagreements, had it pleased you to have 
+accepted that offer. Your case I feel, as I ever shall that of the 
+unfortunate brave. If courage, perseverance, and a faithful attachment to your Prince could have prevailed, I might have been 
+your prisoner. The chance of war has determined otherwise. 
+</p><p>
+The Congress now send the passports you desire ; and I am 
+happy to acquaint you, that the Major and Lady Harriet Ackland 
+are in <a href='/results.php?city=new york' rel='city'>New York</a>, and may possibly be in England as soon as, 
+or very soon after you. With respect, I am, Sir, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

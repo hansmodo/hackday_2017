@@ -1,0 +1,49 @@
+<letter id="joj4120">
+<recipient first="" last="Read" type="individual"/>
+<p>
+to colonel read, charleston. 
+</p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+We have both heard it asserted that a man's character 
+may be discerned from his handwriting ; if that be true, 
+you and our friend, <a href='/results.php?tla=ewr' rel='colleague met friend'>Edward Rutledge</a>, must be as enigmatical and unintelligible as Oliver Cromwell, and yet 
+neither of you resemble him more than he did an honest man. 
+</p><p>
+The kindness diffused through your letter of the 19th of 
+June paid me for the trouble of deciphering it. Two or 
+three words, however, proved too hard for me. To judge 
+from the context, I presume they mean something good 
+and friendly, and therefore that I have reason to be pleased 
+with the ideas intended to be conveyed by them, although 
+I do not know precisely what they are. 
+</p><p>
+Peace, my dear sir, was formerly thought a good sort of 
+thing ; but within these few years past it seems to have been 
+going fast out of fashion. But, to be serious, there seems 
+to be something more than common at work in, or on the 
+human mind, and urging it to enterprise, tending to introduce a new state of things. Symptoms of it appear more 
+or less, and in differenl degrees, in all parts of Europe — 
+even in Spain, where quiescency in every sense has long 
+been cherished. Geneva is at this moment undergoing 
+another revolution; where next, no one can tell. Our 
+country may catch the flame. We live in an eventful 
+season. We have nothing to do but our duty, and one 
+part of it is to prepare for every event. Let us preserve 
+peace while it can be done with propriety; and if in that we 
+fail, let us wage war, not in newspapers and impotent sarcasms, but with manly firmness, and unanimous and vigorous efforts. 
+</p><p>
+I have had the pleasure of seeing your brother frequently, 
+and am pleased with him. He is gone to Scotland. He 
+has communicated to me a circumstance that I rejoice in. 
+</p><p>
+Assure Mrs. Read of my best wishes. With real esteem 
+and regard, I am, dear sir, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+Joix?; Jay. 
+</p>
+</letter>

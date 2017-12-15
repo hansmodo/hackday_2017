@@ -1,0 +1,97 @@
+<letter id='thj1366'>
+<recipient first='Horatio' last='Gates' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, October 4, <a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+My letter of September 23rd answered your favors received before that
+date, and the present serves to acknowledge the receipt of those of
+September 24th and 27th. I retain in mind, and recur, almost daily, to
+your requisitions of August; we have, as yet, no prospect of more than
+one hundred tents. Flour is ordered to be manufactured, as soon as the
+season will render it safe; out of which, I trust, we can furnish not
+only your requisition of August, but that of Congress of September 11th.
+The corn you desire, we could furnish when the new crops come in, fully,
+if water transportation can be found; if not, we shall be able only
+to send you what lies convenient to the southern boundary, in which
+neighborhood the crops have been much abridged by a flood in Roanoke. We
+have no rice. Rum and other spirits, we can furnish to a greater amount
+than you require, as soon as our wagons are in readiness, and shall
+be glad to commute into that article some others which we have not,
+particularly sugar, coffee, and salt. The vinegar is provided. Colonel Finnie promised to furnish to Colonel Muter, a list of the shades, hoes,
+&c. which could be furnished from the Continental stores. This list has
+never yet come to hand. It is believed the Continental stores here will
+fall little short of your requisition, except in the article of axes,
+which our shops are proceeding on. Your information of September 24th,
+as to the quality of the axes, has been notified to the workmen, and
+will, I hope, have a proper effect on those made hereafter. Application
+has been made to the courts, to have the bridges put in a proper state,
+which they have promised to do. We are endeavoring again to collect
+wagons. About twenty are nearly finished at this place. We employed,
+about three weeks ago, agents to purchase, in the western counties, a
+hundred wagons and teams. Till these can be got, it will be impossible
+to furnish any thing from this place. I am exceedingly pleased to hear
+of your regulation for stopping our wagons at Roanoke. This will put
+it in our power to repair and replace them, to calculate their returns,
+provide loads, and will be a great encouragement to increase their
+number, if possible, as their departure hence will no longer produce the
+idea of a final adieu to them.
+</p><p>
+Colonel Senf arrived here the evening before the last. He was employed
+yesterday and to-day, in copying some actual and accurate surveys, which
+we had had made of the country round about Portsmouth, as far as Cape
+Henry to the eastward, Nansemond river to the westward, the Dismal Swamp
+to the southward, and northwardly, the line of country from Portsmouth
+by Hampton and York to <a href="/results.php?city=Williamsburg" rel="city">Williamsburg</a>, and including the vicinities of
+these three last posts. This will leave him nothing to do, but to take
+drawings of particular places, and the soundings of such waters as he
+thinks material. He will proceed on this business to-morrow, with a
+letter to General Nelson, and powers to call for the attendance of a
+proper vessel.
+</p><p>
+I suppose that your drafts in favor of the quarter-master, if attended
+with sixty days' grace, may be complied with to a certain amount. We
+will certainly use our best endeavors to answer them. I have only to
+desire that they may be made payable to the quarter-master alone, and
+not to the bearer. This is to prevent the mortification of seeing an
+unapprized individual taken in by an assignment of them, as if they
+were ready money. Your letter to Colonel Finnie will go to <a href="/results.php?city=Williamsburg" rel="city">Williamsburg</a>
+immediately. Those to Congress, with a copy of the papers enclosed to
+me, went yesterday by express. I will take order as to the bacon you
+mention. I fear there is little of it, and that not capable of being
+long kept. You are surely not uninformed, that Congress required the
+greater part of this article to be sent northward, which has been
+done. I hope, by this time, you receive supplies of beeves from our
+commissary, Mr. Eaton, who was sent three weeks or a month ago, to
+exhaust of that article the counties below, and in the neighborhood of
+Portsmouth; and from thence, was to proceed to other counties, in order,
+as they stood exposed to an enemy.
+</p><p>
+The arrival of the French West India fleet (which, though not
+authentically communicated, seems supported by so many concurring
+accounts from individuals, as to leave scarcely room for doubt,) will,
+I hope, prevent the enemy from carrying into effect the embarkation they
+had certainly intended from <a href="/results.php?city=New York" rel="city">New York</a>, though they are strengthened by
+the arrival of Admiral Rodney, at that place, with twelve sail of the
+line and four frigates, as announced by <a href="/results.php?tla=gwa" rel="co-worker met">General Washington</a> to Congress,
+on the 19th ultimo. The accounts of the additional French fleet are
+varied from sixteen to nineteen ships of the line, besides frigates. The
+number of the latter has never been mentioned. The extracts of
+letters, which you will see in our paper of this day, are from <a href="/results.php?tla=gwa" rel="co-worker met">General Washington</a>, President Huntington, and our Delegates in Congress to me.
+That from Bladensburg is from a particular acquaintance of mine, whose
+credit cannot be doubted. The distress we are experiencing from want
+of leather to make shoes, is great. I am sure you have thought of
+preventing it in future, by the appointment of a commissary of hides, or
+some other good regulation for saving and tanning the hides, which the
+consumption of your army will afford.
+</p><p>
+I have the honor to be, with all possible esteem and respect, Sir,
+</p><p>
+your most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

@@ -1,0 +1,58 @@
+<letter id="joj4036">
+<recipient first="Charles" last="Thompson" type="individual"/>
+<p>   	 
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='23'>23d</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On the 30th January last, I had the pleasure of receiving vour very acceptable letter of the 12th October, <a href='/results.php?year=1780'>1780</a>. 
+The able manner in which it treats the important subject of 
+American finances induced me to give that part of it to the 
+minister, and to send a copy of the same extract to Dr. 
+Franklin, who, in his answer, says - "I thank you for communicating to me the letter of the secretary of Congress on 
+our finances. It gives light which I had not before, and 
+may be useful here." 
+</p><p>
+I wish in my heart that you was not only secretary of 
+Congress, but secretary also for foreign affairs. I should 
+then have better sources of intelligence than gazettes and 
+reports. 
+</p><p>
+My public letter contains a state of our affairs here. I 
+flatter myself that Congress will never again attempt to 
+form an alliance on principles of equality in forma pauperis. 
+</p><p>
+Before their ingenious letter on our right to the Mississippi arrived, it was known in Europe ; and the subject of 
+my last instructions on that head was no secret here before they reached this side of the ocean. I would tell you more, 
+had I now time to write in ciphers ; but the gentleman who sis to carry these despatches is waiting for them. 
+</p><p>
+The want of a regular and safe communication between 
+Congress and their foreign ministers gives occasion to 
+various inconveniences. Every letter known or suspected 
+to be for or from me, that gets into the post-offices, is 
+opened, often kept back for a while, and, to my certain 
+knowledge, sometimes suppressed entirely. 
+</p><p>
+Hence it happens that Congress receives from me fewer 
+letters than I could wish, or than their affairs may demand. 
+The expense of private couriers is intolerable, nor can many 
+in that character be found who merit confidence. 
+</p><p>
+The unseasonable arrival of bills, without being preceded 
+by funds, and the train of perplexing consequences resulting 
+from that and other causes not in my power to prevent, 
+have given me some anxious hours, and often rendered my 
+situation uneasy. 
+It is my business, however, to reflect, that pleasure was 
+not the object for which I came here, and that obstacles 
+should rather excite than repress perseverance. 
+</p><p>
+Be pleased to present Mrs. Jay's and my compliments 
+to Mrs. Thompson, and believe me to be with sincere 
+regard and esteem, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

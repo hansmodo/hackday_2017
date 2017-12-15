@@ -1,0 +1,61 @@
+<letter id="joj4131">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+[Private.] 
+</p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sik, 
+</p><p>
+Your very friendly letter of the 1st November last, gratified me not a little. The insurrections had caused disagreeable sensations in this country. The objects and efforts 
+of the Jacobin societies in America were well known here ; 
+and the fate of our government was considered as being 
+involved in that of the insurrection. The manner in which 
+it has terminated has given sincere satisfaction to this government, to whom all disorganizing innovations give alarm. 
+Their confidence in your wisdom, decision, and energy has 
+been confirmed by the event. 
+</p><p>
+The institution and influence of such societies among us 
+had given me much concern, and I was happy in perceiving 
+that the suppression of the insurrection, together with the 
+character and fall of similar ones in France, would probably operate the extinction of these mischievous associations 
+in America. 
+</p><p>
+Your remarks relative to my negotiations are just and 
+kind, and I assure you nothing on my part has been wanting to render the conclusion of them as consonant as was 
+possible to your expectations and wishes. 
+</p><p>
+Perfectly apprized both of my duty and responsibility, I 
+determined not to permit my judgment to be influenced by 
+any considerations but those of public good, under the direction of my instructions. / knew and know that no attainable settlement or treaty would give universal satisfaction ; 
+and I am far from expecting that the one I have signed 
+will not administer occasion for calumny and detraction. 
+</p><p>
+These are evils, which they who serve the people will 
+always meet with. Demagogues will constantly flatter 
+the passions and prejudices of the multitude, and will never 
+cease to employ improper arts against those who will not 
+be their instruments. I have known many demagogues, 
+but I have never known one honest man among them. 
+</p><p>
+These are among the other evils which are incident to 
+human life, and none of them shall induce me to decline or 
+abandon any pursuits, in which I may conceive it to be my 
+duty to embark or persevere. All creatures will act according to their nature, and it is absurd to expect that a 
+man who is not upright, will act like one who is. The time will come when all books, and histories, and errors 
+will be consumed, and when from their ashes truth only 
+will rise, and prevail, and be immortal. 
+</p><p>
+Among my despatches to Mr. Randolph by this ship, is 
+a copy of a letter I have received from <a href='/results.php?tla=jam' rel='colleague'>Mr. Monroe</a> at 
+Paris, and of two which I have written to him. The expediency of correcting the mistakes which the French Convention seem to have imbibed, will doubtless strike you. 
+</p><p>
+Be pleased to present my best compliments to Mrs. 
+Washington, and be assured of the perfect respect, esteem, 
+and attachment, with which I am, dear sir, 
+</p><p>
+Your obliged and affectionate servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

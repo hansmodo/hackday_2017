@@ -1,0 +1,61 @@
+<letter id="ben4716">
+<recipient first="John" last="Canton" type="individual"/>
+<p>Friday, <a rel="month origin" value="11">November</a> <a rel='day origin' value='27'>27</a>.  [<a href='/results.php?city=london' rel='city origin'>London</a>] [<a href='/results.php?year=1767' rel="origin">1767</a>] 
+</p><p>
+DEAR SIR 
+</p><p>
+After the Society was gone, my Lord Moreton said (when 
+I offered him the Paper) that it ought to have been deliver'd 
+before and read to the Society: he however desir'd me to 
+produce it to the Council. There the Reading of it was 
+oppos'd, as not being referred to them by the Society. But 
+this was at last got over, by Dr. Moreton's proposing that the giving a Medal to Dr. Priestley should be taken into Consideration, and that in order to judge the better of the Propriety of that Proposal, the Paper should be read. It was 
+accordingly read. I was then desired as the best Judge present to give my Opinion of the Merit of the Experiments as to 
+the Medal ; Which I did in plain Terms, declaring it as my 
+judgment that the great Pains and Expence the Doctor had 
+been at in making them and the Importance of the Experiments themselves, well deserved that Encouragement from the 
+Society ; and that it was a Mark of Distinction justly due to 
+so much philosophical Industry and Sagacity. 
+</p><p>
+One that sat near me, told me he was surpriz'd at the Ace' 
+I had given, as he had been assured the Medal was intended 
+to be bestow'd on the Doctor only for writing a History which 
+was thought wrong, but it now appeared he had made many 
+valuable new Experiments, etc. Then a Question arose, how 
+far it was proper to give a Medal for Experiments that had 
+not been sent to the Society, till they were published; and 
+this occasioned a search for Sir Godfrey Copley's Will, which 
+could not be found ; but an Agreement was found, recorded 
+between the Society and his Executors, that the 5 should 
+be given for the best Experiment within the Year, proposed 
+and directed to be made by the Society; and made in their 
+Presence. This not having been the Practice of late Years, 
+it began to be whisper'd that most of the Medals had been 
+irregularly given. A subsequent Resolution was, however, 
+found to print the Clause of Sir Godfrey Copley's Will in 
+every Number of the Transactions, for the Encouragement of 
+Foreigners, to endeavour obtaining the Reward, as there was 
+reason to fear a Failure of Experiments upon the former Plan. 
+</p><p>
+By this Time it grew late, and it was concluded that the 
+Books should be searched, to find all the Steps that had been 
+taken in disposing of this Prize, whether in Money or in 
+Medals, from the first instance in <a href='/results.php?year=1717'>1717</a> to the last; with the 
+Reasons and Grounds on which the Council had proceeded, 
+and that a Copy of that Part of Sir Godfrey's Will should be 
+obtained from the Commons ; when at the next Council, the 
+Matter might be reconsidered, and the Medal then given to 
+Dr. Priestley, if the Council thought fit, and it should be 
+found not contrary to the Will so to do. Thus the Business 
+ended for that time; and how it will conclude at last seems 
+an Uncertainty, for I think some Persons are busy in an 
+Opposition to the Measure. But I hope it will end in favour 
+of Merit, in which case I think our Friend cannot miss it. 
+</p><p>
+I am, dear Sir, 
+</p><p>
+Your most obed' Servant 
+</p><p>
+B. FRANKLIN 
+</p>
+</letter>

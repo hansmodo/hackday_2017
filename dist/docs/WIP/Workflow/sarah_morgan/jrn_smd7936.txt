@@ -1,0 +1,51 @@
+<letter id="smd7936">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Sunday, <a rel="month origin" value="3">March</a> <a rel='day origin' value='15'>15th</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+To my unspeakable surprise, I waked up this 
+morning and found myself alive. Once satisfied of 
+that, and assuring myself of intense silence in the 
+place of the great guns which rocked me to sleep 
+about half-past two this morning, I began to doubt 
+that I had heard any disturbance in the night, and 
+to believe I had written a dream within a dream, 
+and that no bombardment had occurred; but all 
+corroborate my statement, so it must be true, and 
+this portentous silence is only the calm before the 
+storm. I am half afraid the land force won't attack. 
+We can beat them if they do; but suppose they lay 
+siege to Port Hudson and starve us out? That is the 
+only way they can conquer. 
+</p><p>
+We hear nothing still that is reliable. 
+</p><p>
+Just before daylight there was a terrific explosion which electrified every one save myself. I was 
+sleeping so soundly that I did not hear anything of 
+it, though Mrs. Badger says that when she sprang 
+up and called me, I talked very rationally about it, 
+and asked what it could possibly be. Thought that I 
+had ceased talking in my sleep. Miriam was quite 
+eloquent in her dreams before the attack, crying 
+aloud, "See! See! What do I behold?" as though she 
+were witnessing a rehearsal of the scene to follow. 
+</p><p>
+Later. Dr. Kennedy has just passed through, and 
+was within the fortifications last night; brings news 
+which is perhaps reliable, as it was obtained from Gardiner. It was, as we presumed, the batteries and 
+gunboats. One we sunk ; another, the Mississippi, we 
+disabled so that the Yankees had to abandon and 
+set fire to her, thirty-nine prisoners falling into our 
+hands. It was her magazine that exploded this 
+morning. Two other boats succeeded in passing, 
+though badly crippled. Our batteries fired gallantly. 
+Hurrah! for Colonel Steadman! I know his was by 
+no means the least efficient! 
+</p><p>
+<a href='/results.php?city=clinton' rel='city'>Clinton</a>, they say, will inevitably be sacked. Alas, for mother and Lilly! What can we do? The whole 
+country is at the mercy of the Yankees as long as Gardiner keeps within the fortifications. Six miles 
+below here they entered Mr. Newport's, pulled the pillow-cases from the beds, stuffed them with his 
+clothes, and helped themselves generally. What can 
+we expect here? To tell the truth, I should be disappointed if they did not even look in at us, on their marauding expedition. 
+</p><p>
+</letter>

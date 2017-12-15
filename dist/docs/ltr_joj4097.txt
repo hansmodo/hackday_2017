@@ -1,0 +1,47 @@
+<letter id="joj4097">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Since my last to you of the 16th ultimo, I have been 
+honoured with your letter of 23d, and a joint one from you 
+and <a href='/results.php?tla=jod' rel='colleague met friend'>Mr. Adams</a>, of 25th April. 
+</p><p>
+Considering the importance of our commerce with Portugal, it gives me pleasure to learn that a treaty with that 
+kingdom was so nearly concluded. Until our affairs shall 
+be more perfectly arranged, we shall treat under disadvantages ; and therefore I am not surprised that our negotiations with Britain and Barbary are unpromising. To be 
+respectable abroad, it is necessary to be so at home ; and that will not be the case until our public faith acquires more confidence, and our govermnent more strength. 
+</p><p>
+When or how these great objects will be attained, can scarcely be conjectured. An uneasiness prevails through 
+the country, and may produce eventually the desired reformations, and it may also produce untoward events. Time 
+alone can decide this and many other doubts; for nations, like individuals, are more frequently guided by circumstances, than circumstances by them. 
+</p><p>
+There are some little circumstances that look as if the 
+Dutch regret our having found the way to China ; and that 
+will doubtless be more or less the case with every nation 
+with whose commercial views we may interfere. I am 
+happy in reflecting, that there can be but little clashing of 
+interests between us and France, and therefore that she 
+will probably continue disposed to wish us well and do us 
+good ; especially, if we honestly fulfil our pecuniary engagements with her. These engagements, however, give me 
+much concern. Every principle and consideration of 
+honour, justice, and interest calls upon us for good faith and 
+punctuality; and yet we are unhappily so circumstanced, 
+that the moneys necessary for the purpose are not provided, 
+nor in such a way of being provided as they ought to be. 
+This is owing, not to any thing wrong in Congress, but to 
+their not possessing that power of coercion without which 
+no government can possibly attain the most salutary and 
+constitutional objects. Excuses and palliations, and applications for more time, make bad remittances, and will 
+aflbrd no inducements to our allies or others to afford us 
+similar aids on future occasions. 
+</p><p>
+With great respect, I have the honour to be, 
+Dear sir, 
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

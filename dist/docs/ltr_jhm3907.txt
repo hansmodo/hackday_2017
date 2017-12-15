@@ -1,0 +1,36 @@
+<letter id="jhm3907">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+First, You are to take with you four or five judicious, intelligent 
+persons, to meet those appointed on the part of Ganey and others, to 
+confer on the business herein committed to your charge, but they are 
+not to be considered as joined with you in this commission. Second, 
+The said Ganey and others, with whom such truce was made, are to lay 
+down their arms as enemies to this State, and are not to resume them 
+again until called on to do so, in support of the interest of the United 
+States, and of this State in particular. Third, They are to deliver up 
+all negroes, horses, cattle, and other property, that have been plundered 
+from the inhabitants of this or any other State. Fourth, They are to 
+engage to demean themselves as peaceable citizens of this State, and 
+submit themselves in future to be governed by its laws, in the same 
+manner as the rest of the citizens thereof. Fifth, They are to be 
+allowed two, or, if you find it necessary, three months, to remain at 
+home, before they are called on to bear arms in behalf of this State. 
+Sixth, They are to engage to apprehend and deliver up all persona 
+within their district, who shall refuse to accede to these terms, and contumaciously persist in rebellion against the State. Seventh, If these 
+terms are accepted by the said Graney and others, you are then to 
+promise them a full pardon for all treasons heretofore committed by 
+them against the State. Eighth, If these terms are rejected by the 
+said Graney and others before mentioned, you are then to have recourse 
+to force of arms, or otherwise to compel them to submission. Ninth, 
+You are authorized and empowered, if you shall deem it for the public 
+service, to apprehend, and send within the enemy's lines, any of the 
+families of persons who continue in arms against the State. 
+</p><p>
+Given under my hand, at Cane Acre, this 21st day of May, one thousand seven hundred and eighty-two. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

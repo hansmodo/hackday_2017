@@ -1,0 +1,27 @@
+<letter id="smd7958">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Wednesday, <a rel="month origin" value="7">July</a> <a rel='day origin' value='15'>15th</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+It is but too true; both have fallen. All Port Hudson privates have been paroled, and the officers sent 
+here for exchange. Aye! Aye! I know some privates I would rather see than the officers! As yet, 
+only ten that we know have arrived. All are confined in the Custom-House. Last evening crowds 
+surrounded the place. We did something dreadful, Ada Peirce, Miriam, and I. We went down to the 
+confectionery; and unable to resist the temptation, made a detour by the Custom-House in hope of 
+seeing one of our poor dear half-starved mule and rat fed defenders. The crowd had passed away then; but 
+what was our horror when we emerged from the river side of the building and turned into Canal, to find the 
+whole front of the pavement lined with Yankees! Our folly struck us so forcibly that we were almost 
+paralyzed with fear. However, that did not prevent us from endeavoring to hurry past, though I felt as 
+though walking in a nightmare. Ada was brave enough to look up at a window where several of our 
+prisoners were standing, and kept urging us to do likewise. "Look! He knows you, Sarah! He has 
+called another to see you ! They both recognize you ! Oh, look, please, and tell me who they are! They are 
+watching you still!" she would exclaim. But if my own dear brother stood there, I could not have 
+raised my eyes; we only hurried on faster, with a hundred Yankees eyes fixed on our flying steps. 
+</p><p>
+My friend Colonel Steadman was one of the commissioners for arranging the terms of the capitulation, I see. He has not yet arrived. 
+</p><p>
+Dreadful news has come of the defeat of <a href='/results.php?tla=rel' rel=''>Lee</a> at Gettysburg. Think I believe it all? He may have 
+been defeated ; but not one of these reports of total overthrow and rout do I credit. Yankees jubilant, 
+Southerners dismal. Brother, with principles on one side and brothers on the other, is correspondingly distracted. 
+</p><p>
+</letter>

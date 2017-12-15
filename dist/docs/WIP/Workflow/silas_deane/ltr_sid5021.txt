@@ -1,0 +1,118 @@
+<letter id="sid5021">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO JOHN JAY. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Dear Jay, 
+</p><p>
+If my letters arrive safe they will give you some idea of my situation. Without intelligence, without orders, and 
+without remittances, yet boldly plunging into contracts, engagements, and negotiations, hourly hoping that something 
+will arrive from America. By General Coudray I send 30,000 fusils, 200 pieces of brass cannon, 30 mortars, 
+4000 tents and clothing for 30,000 men, with 200 tons of gun powder, lend, balls, &.c. &«. by which you may 
+judge we have some friends here. A war in Europe is inevitable. The eyes of all are on you, and the fear of your 
+giving up or accommodating is the greatest obstacle I have 
+to contend with. Mons. Beaumarchais has been my Minister in effect, as this Court is extremely cautious, and I now 
+advise you to attend carefully to the articles sent you. I could not examine them here. I was promised they should 
+be good and at the lowest prices, and that from persons in such station, that had I hesitated it might have ruined my 
+affairs. But as in so large a contract there is room for imposition, my advice is that you send back to me samples of 
+the articles sent you. Cannon, powder, mortars, etc. are articles knoun ; but send clothes, the fusils, etc. by which 
+any imposition may be detected. Large remittances are necessary for your credit, and the enormous price of 
+tobacco, of rice, of flour, and many other articles, gives you an opportunity of making your remittances to very great 
+advantage. 20,000 hogsheads of tobacco are wanted immediately for this kingdom, and more for other parts of Europe. 
+</p><p>
+I have written you on several subjects, some of which I will attempt briefly to recapitulate. The destruction of the 
+Newfoundland fishery may be effected, by two or three of your frigates sent there early in February, and by that 
+means a fatal blow given to Great Britain, I mean by destroying the stages, boats, he. and by bringing away 
+the people left there as prisoners. Glasgow in Scotland may be plundered and burnt with ease, as may Liverpool, 
+by two or three frigates, which may find a shelter and protection in the ports of France and Spain afterwards. Blank 
+commissions are wanted here to cruise under your flag against the British commerce. This is a capital stroke 
+and must bring on a war. Hasten them out I pray you. 
+France and Spain are friendly, and you will greatly oblige the latter by seizing the Portuguese commerce wherever it 
+is found. I have had overtures from the king of Prussia in the commercial way, and have sent a person of great 
+confidence to his Court with letters of introduction from his 
+Asent here, with whom I am on the best terms. A loan may be obtained for any sums at five per cent interest, perhaps less, if you make punctual remittances for the sums now advanced. The Western Lands ought to be held up 
+to view as an encouragement for our soldiers, especially foreigners, and are a good fund to raise money on. You may, if you judge proper, have any number of German and Swiss troops ', they have been offered me, but you know I have 
+no powers to treat. A number of frigates may be purchased at Leghorn, the Grand Duke of Tuscany being zealously in fav^or of America, and doing all in his power to 
+encourage its commerce. Troubles are rising in Ireland, and with a light assistance much work may be cut out for 
+Great Britain, by sending from hence a few priests, a little money, and plenty of arms. Omnia tentanda is my 
+motto, therefore I hint the playing of their own game on them, by spiriting up the Caribs in St Vincents, and the Negroes in Jamaica, to revolt. 
+</p><p>
+On all these subjects I have written to you. Also on various particulars of commerce. Our vessels have more 
+liberty in the ports of France, and Spain, and Tuscany, than the vessels of any other nation, and that openly. 
+I presented the Declaration of Independence to this Court, after indeed it had become an old story in every part of 
+Europe ; it was well received, but as you say you have articles of alliance under consideration, any resolution must be 
+deferred until we know what they are. The want of intelligence has more than once well nigh ruined my affairs ; 
+pray be more attentive to this important subject, or drop at once all thoughts of a foreign connexion. 
+</p><p>
+Had I ten ships here I could fill them all with passengers for America. I hope the officers sent will be agreeable ; 
+they were recommended by the Ministry here, and are at this instant really in their army, but this must be a secret. 
+Do you want heavy iron cannon, sea officers of distinction, or ships ? Your special orders will enable me to procure 
+them. For the situation of affairs in England I refer you. to Mr Rogers, Aid de Camp to Mons. du Coudray. I 
+have presented a number of memoirs, which have been very favorably received, and the last by his Majesty, but my 
+being wholly destitute of other than accidental and gratuitous assistance will not permit my sending you copies. Indeed 
+I was obliged to make them so as to explain the rise, the nature, and the progress of the dispute. I have been assured 
+by the Ministers, that I have thrown much light on the subject, and have obviated many difficulties, but his Majesty is 
+not of the disposition of his great grandfather Louis 14th. If he were, England would soon be ruined. Do not forget 
+or omit sending me blank commissions for privateers ; under these, infinite damage may be done to the British commerce, 
+and as the prizes must be sent to you for condemnation the eventual profits will remain with you. 
+Doctor Bancroft has been of very great service to me 5 no man has better intelligence in England in my opinion, but 
+it costs something. The following articles have been shewn to me ; they have been seen by both the courts of France 
+and Spain, and I send them to you for speculation. 
+</p><p>
+1st. The thirteen United Colonies, now known by the 
+name of the thirteen United States of North America, shall 
+be acknowledged by France and Spain, and treated with as 
+Independent States, and as such shall be guarantied in the 
+possession of all that part of the continent of North America, which by the last treaty of peace was ceded and confirmed to the crown of Great Britain. 
+</p><p>
+2dly. The United States shall guaranty and confirm to 
+the crowns of France and Spain, all and singular their possessions and claims in every other part of America, whether 
+north or south of the equator, and of the Islands possessed 
+by them in the American seas. 
+</p><p>
+3dly. Should France or Spain, either or Loth of them, 
+possess themselves of (he Islands in the West Indies now 
+in possession of the crown of Great Britain (as an indemnity for the injuries sustained in the last war, in consequence 
+of its being commenced on the part of Great Britain in violation of the laws of nations,) the United Colonies shall assist 
+the said Powers in obtaining such satisfaction, and guaranty 
+and confirm to them the possession of such acquisition. 
+</p><p>
+4thly. The fisheries on the banks of Newfoundland, 
+of Cape Breton, and parts adjacent, commonly known and 
+called by the name of the Cod Fishery, shall be equally 
+free to the subjects of France, Spain, and the United 
+States respectively, and they shall mutually engage to protect and defend each other in such commerce. 
+</p><p>
+5thly. The more effectually to preserve this alliance, 
+and to obtain the great object, it shall be agreed, that every 
+and any British ship or vessel found or met with on the 
+coasts of North America, of South America, or of the 
+Islands adjacent, and belonging thereto, and within a certain degree or distance to be agreed on, shall be forever 
+hereafter considered as lawful prize to any of the subjects 
+of France, Spain, or the United Colonies, and treated as 
+such, as well in peace as in war, nor shall France, Spain, 
+or the United Colonies ever hereafter admit British ships 
+into any of their ports in America, North and South, or the 
+Islands adjacent. This article never to be altered or dispensed with, but only by and with the consent of each of 
+the three contracting States. 
+</p><p>
+6thly. During the present war between the United 
+States and Great Britain, France and Spain shall send into 
+North America, and support there, a fleet to defend and 
+protect the coasts and the commerce of the United States, 
+in consequence of which if the possessions of France or 
+Spain should be attacked in America by Great Britain or 
+her allies, the United States will afford them all the aid 
+and assistance in their power. 
+</p><p>
+7thly. No peace or accommodation shall be made with Great Britain to the infringement or violation of any one of these articles.
+</p><p>
+I am, with the utmost impatience to hear from you, 
+</p><p>
+Dear Sir, yours, k,c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

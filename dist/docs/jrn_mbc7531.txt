@@ -1,0 +1,37 @@
+<letter id="mbc7531">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a href='/results.php?year=1860' rel="origin">1860</a>]. We have been up to the Mulberry Plantation with Colonel Colcock and Judge Magrath, who 
+were sent to Columbia by their fellow-citizens in the low country, to hasten the slow movement of the wisdom assembled in the State Capital. Their message was, they said: " Go ahead, dissolve the Union, and be done with it, or 
+it will be worse for you. The fire in the rear is hottest. And yet people talk of the politicians leading! Every 
+where that I have been people have been complaining bitterly of slow and lukewarm public leaders. 
+</p><p>
+Judge Magrath is a local celebrity, who has been stretched across the street in effigy, showing him tearing off 
+his robes of office. The painting is in vivid colors, the canvas huge, and the rope hardly discernible. He is 
+depicted with a countenance flaming with contending emotions rage, disgust, and disdain. We agreed that the time had now come. We had talked so much heretofore. Let the fire-eaters have it out. Massachusetts and South Carolina 
+are always coming up before the footlights. 
+</p><p>
+As a woman, of course, it is easy for me to be brave under the skins of other people ; so I said : Fight it out. 
+Bluffton has brought on a fever that only bloodletting will cure. My companions breathed fire and fury, but I dare 
+say they were amusing themselves with my dismay, for, talk as I would, that I could not hide. 
+</p><p>
+At Kingsville we encountered James Chesnut, fresh from Columbia, where he had resigned his seat in the 
+United States Senate the -day before. Said some one spite fully, Mrs. Chesnut does not look at all__resigned. For 
+once in her life, Mrs. Chesnut held her tongue: she was dumb. In the high-flown style which of late seems to have 
+gotten into the very air, she was offering up her life to the cause. 
+</p><p>
+We have had a brief pause. The men who are all, like Pickens, insensible to fear, are very sensible in case of 
+small-pox. There being now an epidemic of small-pox in Columbia, they have adjourned to Charleston. In Camden 
+we were busy and frantic with excitement, drilling, march ing, arming, and wearing high blue cockades. Red sashes, 
+guns, and swords were ordinary fireside accompaniments. So wild were we, I saw at a grand parade of the home-guard 
+a woman, the wife of a man who says he is a secessionist 
+per se, driving about to see the drilling of this new company, although her father was buried the day before. 
+</p><p>
+Edward J. Pringle writes me from San Francisco on November 30th: "I see that Mr. Chesnut has resigned and that South Carolina is hastening into a Convention, perhaps to secession. Mr. Chesnut is probably to 
+be President of the Convention.'t see all of the leaders in the State are in favor of secession. But I confess I hope the black Republicans will take the alarm and submit 
+some treaty of peace that will enable us now and for ever to settle the question, and save our generation from 
+the prostration of business and the decay of prosperity 
+that must come both to the North and South from a disruption of the Union. However, I won't speculate. Before 
+this reaches you, South Carolina may be off on her own hook a separate republic. " 
+</p>
+</letter>

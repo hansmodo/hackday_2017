@@ -1,0 +1,48 @@
+<letter id="edr4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+When I had the honor of writing to you last, the amendments had, I believe, been under consideration in a Committee of the Whole, and ten were adopted, 
+and the two last rejected. Upon the report being made to the House, and without a debate of any consequence, the whole twelve were ratified. They are 
+now with the Senate, who were yesterday employed about them. That body will attempt to postpone them ; for a majority is unfriendly to the Government. 
+But an effort will be made against this destructive measure. 
+</p><p>
+In the House of Delegates, it was yesterday moved to declare the remainder of the amendments, proposed 
+by our Convention, essential to the rights and liberties of the people. An amendment was offered, saying that, in pursuance of the wnll of the people, as 
+expressed by our Convention, the General Assembly 
+ouoht to uro'e Congress to a recomideration of them. 
+The amendment was carried by the Speaker giving a 
+casting vote. This shows the strength of the parties; 
+and that, in the House of Delegates, the anti-federal 
+force has diminished much since the last year. A 
+representation is to be prepared, and the inclosed 
+speaks the temper which we wish to exhibit in it. 
+Whether we shall succeed in our attempt to carry 
+such a remonstrance through, is with me very doubtful. It will be pushed, because it seems to discountenance any future importunities for amendments, 
+which, in my opinion, is now a very important point. 
+I should have been sanguine in my belief of carrying the representation through, in its present form, 
+if the friends would have joined the enemies of the 
+Constitution, in suspending the ratification of the 
+eleventh amendment, which is exceptionable to me, 
+in giving a handle to say, that Congress have endeavoured to administer an opiate, by an alteration, 
+which is merely plausible. 
+</p><p>
+The twelfth amendment does not appear to me to 
+have any real effect, unless it be to excite a dispute 
+between the United States and every particular State, 
+as to what is delegated. It accords pretty nearly 
+with what our Convention proposed; but, being once 
+adopted, it may produce new matter for the cavils 
+of the designing. I am, dear Sir, your 
+</p><p>
+Obliged and affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p><p>
+P. S. I shall do myself the honor of replying to 
+your official letter, as soon as the Assembly rises. 
+</p>
+</letter>

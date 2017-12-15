@@ -1,0 +1,14 @@
+<letter id="mbc7757">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='7'>7th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. <a href='/results.php?tla=wts' rel=''>Sherman</a> is at Hardieville and <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> in Tennessee, the last of his men not gone, as Louis Wigfall so cheerfully prophesied. 
+</p><p>
+Serena went for a half-hour to-day to the dentist. Her teeth are of the whitest and most regular, simply perfection. 
+She fancied it was better to have a dentist look in her mouth before returning to the mountains. For that look she paid 
+three hundred and fifty dollars in Confederate money. Why, has this money any value at all ? " she asked. Little enough in all truth, sad to say. 
+</p><p>
+Brewster was here and stayed till midnight. Said he must see General Chesnut. He had business with him. 
+His " me and <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a> " is no longer cornic. He described <a href='/results.php?tla=wts' rel=''>Sherman's</a> march of destruction and desolation. 
+<a href='/results.php?tla=wts' rel=''>Sherman</a> leaves a track fifty miles wide, upon which there is no living thing to be seen," said Brewster before he departed. 
+</p>
+</letter>

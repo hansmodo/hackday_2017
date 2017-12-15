@@ -1,0 +1,26 @@
+<letter id="nib5218">
+<recipient first="Daniel" last="Webster" type="individual"/>
+<p>
+Bank of the United States 
+</p><p>
+(private} <a rel="month origin" value="6">June</a> <a rel='day origin' value='29'>29th</a> <a href='/results.php?year=1827' rel="origin">1827</a> 
+</p><p>
+My Dear Sir 
+</p><p>
+In consequence of your letter I wrote to the proper source suggesting the gentleman mentioned by you and 
+have this morning an answer of which the following is an extract. 
+</p><p>
+" In regard to the appointment of Mr it is well known here that he is in embarrassed circumstances and his notes 
+now in the Bank are considered discounted on one name, which however is unquestionably good. Repeated efforts 
+have been made to obtain an additional name, in which we have failed. It is with much inconvenience he meets even 
+his check of 10 per cent and his note for $3330 has recently passed the Board for the same amount (now under protest) 
+on condition of his paying 20% on the next renewal. Under these circumstances however happy I should otherwise be 
+to have him attached to the Board, I cannot at present consistently recommend him for a Director." This presents a 
+strong case. Obliged as we are to look at the pecuniary side of men's characters, to be in embarrassed circumstances and to 
+be even under protest, are deemed disqualifications for sitting at the Board which must decide on his own applications for 
+loans. It is probable that you are not aware of these facts and I mention the subject thus early, so that in case you wish to 
+make any further remarks on it, they may be in time for the election on the 11th of next month. I will only add that as the 
+letter to me is in the most entire confidence, you will consider it in the same manner. I should particularly regret that 
+your correspondent knew the source of the objection as it might excite personal hostility towards a very worthy man. . . . 
+</p>
+</letter>

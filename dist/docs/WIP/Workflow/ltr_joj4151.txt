@@ -1,0 +1,43 @@
+<letter id="joj4151">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1798' rel="origin">1798</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I was this morning favoured with yours of the 27th inst. 
+I regret the circumstances which prevented our seeing each 
+other when you were here. There are several topics on 
+which I wish to converse with you, and particularly 
+respecting military arrangements at New-York. The rifle 
+corps, and a few of the new light-infantry companies are 
+established. There were reasons which I shall mention 
+when we meet, which induced me to suspend a decision 
+relative to the others for the present. The objections stated 
+in the petition are not, in my judgment, conclusive. So 
+soon as the commissions advised by the council are despatched, I propose to set out for New- York. The defence 
+of the port, &c., in my opinion, should be under your direction. The measures will be concerted between us. The 
+council will meet again before the session, and all such new 
+corps as ought to be established, will then without difficulty 
+be organized ultimately. I think with you on the subject 
+of resignations. 
+</p><p>
+It is with me a question whether any person convicted 
+of forgery ought to be pardoned at present, when offences 
+of that kind abound. As yet I have not pardoned any 
+convicts of that description, except in cases where the convictions turned on a balance of evidence, and where guilt 
+w T as probable, but not certain. Mr. Murray has just been 
+with me on this subject. I shall take it into further consideration, but fear the objections will prove insuperable. 
+The young man's father and family are to be pitied, but the 
+power to pardon is a trust to be exercised on principles of 
+sound discretion, combining policy, justice, and humanity ; 
+— we will talk this matter over. I have an idea of puttkig 
+the light corps into a regiment, and making our friend Troup colonel of it. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Yours, sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

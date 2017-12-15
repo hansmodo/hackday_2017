@@ -1,0 +1,17 @@
+<letter id="smd7913">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Tuesday, <a rel="month origin" value="11">November</a> <a rel='day origin' value='18'>18th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+A note just came from mother, telling me that the 
+most awful Yankees were coming to burn Linwood 
+and take Port Hudson, and so this evening I must 
+walk down to the cars with a chair to rest in until 
+they came, and must certainly be in <a href='/results.php?city=clinton' rel='city'>Clinton</a> to-night. 
+Delightful arrangement ! I wrote to ask if she knew 
+that my legs were of no more service to me than to 
+her? Dr. Dortch has again been murdering me . . . 
+says perhaps I can stand by Sunday. If the Yankees 
+come before 
+</p><p>
+</letter>

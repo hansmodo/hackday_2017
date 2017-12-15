@@ -1,0 +1,63 @@
+<letter id="jol4967">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='7'>7th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+The <a href="/results.php?tla=laf" rel="co-worker friend met">M. de Lafayette</a> will not long have delayed 
+after his arrival to open to you a plan for introducing 
+French troops into Canada. From the manner in 
+which he explained himself to the General, he seemed 
+to intimate a desire that Congress w'd solicit him to 
+bring about this business, as being sensible of its 
+utility to the United States. He did not expect to 
+succeed in any other way than by intrigues, petticoat 
+interest, &ca. He lays down as self-evident that 
+Canada cannot be conquered by American forces 
+alone ; that a Frenchman of birth and distinction at 
+the head of four thousand of his countrymen, and 
+speaking in the name of the Grand Monarque is alone 
+capable of producing a revolution in that country. 
+When he asked my opinion privately on the subject, 
+and asked me what I would say if I were a member 
+of Congress to such a proposition, I replied that I did 
+not think Congress could solicit, or even accept it, 
+because there did not appear a sufficient reciprocity 
+in the benefits to be derived from such an expedition. 
+On the one side there would be an immense expense 
+of transporting troops, loss of valuable officers and 
+soldiers, &ca., in fine, all the disadvantages, and on 
+the other, all the gain. That he did well to say the 
+project could only take place by indirect means, for 
+a minister would not in his cool moments deprive his 
+country of so many troops, with no other view than 
+that of killing so many Englishmen, and conquering 
+an extensive province for us ; that he was to reflect 
+that France, tho powerful in men, had an extensive 
+frontier to guard, and in an European war w'd not have 
+to do with England alone. This was my private 
+opinion to the Marquis ; my still more private opinion is, that we sh'd not give France any new pretensions to Canada. It is a delicate subject to touch on, 
+but I dare say that we agree in our sentiments, and 
+that the Marquis will be thanked for his good intentions, and his offers waived. 
+</p><p>
+Our last intelligence, from deserters belonging to 
+different corps, and who came out at different times, 
+confirms the intended embarkation of ten regiments 
+for the W. Indies. The 10th 45th and 52 d they say, 
+were drafted to complete these regiments, and the 
+forage and live stock collected in Jersey are destined 
+for their use. 
+</p><p>
+Gen'l Scott writes that the enemy are very busy in 
+embarking baggage, as may be discovered from an 
+eminence to which his parties go. 
+</p><p>
+You will see the last unavailing effort of the com 
+missioners in their manifesto. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

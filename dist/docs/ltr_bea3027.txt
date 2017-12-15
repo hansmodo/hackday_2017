@@ -1,0 +1,27 @@
+<letter id="bea3027">
+<recipient name="commissioners in canada" type="group"/>
+<p>
+<a href='/results.php?city=lachine' rel='city origin'>La Chine</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="5">May</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+GENTLEMEN, 
+</p><p>
+One of our men this moment came in, who was taken at the Cedars. He made his escape this morning, and says we have 
+lost only ten privates killed; the rest are prisoners at St. Ann's 
+and the Cedars. The enemy lost double that number. They 
+were last night within three miles of us, with three hundred 
+savages, fifty regulars, and two hundred and fifty Canadians, with 
+our two pieces of cannon ; but, on hearing we had a large body 
+of men here, they made a precipitate retreat. He left them 
+above Point Clare. They have only twenty-one canoes, which 
+will carry eight or nine men on an average. 
+</p><p>
+I intend to send off four hundred men in bateaux immediately, 
+to proceed to the Isle Perot, and endeavour to cut off the enemy's retreat. I expect they will make some stay at Fort St. 
+Ann s, by which it may possibly be effected. Pray, hurry on 
+the men as fast as possible. I shall push them on from this immediately. We have so much water-craft, that we can always 
+keep up a communication between those on land and those on 
+water, and be able to act in concert. I am, Gentlemen, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

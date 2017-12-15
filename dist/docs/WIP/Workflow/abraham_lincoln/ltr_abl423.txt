@@ -1,0 +1,23 @@
+<letter id='abl423'>
+<recipient first='Henry' last='Halleck' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a><br/>
+January 1, <a href="/results.php?year=1863">1863</a>
+</p><p>
+MAJOR-GENERAL HALLECK.
+</p><p>
+DEAR SIR: -- <a href="/results.php?tla=aeb" rel="co-worker">General Burnside</a> wishes to cross the Rappahannock with his army, but his grand division commanders all oppose the movement. If
+in such a difficulty as this you do not help, you fail me precisely in the point for which I sought your assistance You know what <a href="/results.php?tla=aeb" rel="co-worker">General Burnside's</a> plan is, and it is my wish that you go with him to the
+ground, examine it as far as practicable, confer with the officers, getting their judgment, and ascertaining their temper -- in a word,gather all the elements for forming a judgment of your own, and then
+tell <a href="/results.php?tla=aeb" rel="co-worker">General Burnside</a> that you do approve or that you do not approve his plan. Your military skill is useless to me if you will not do this.
+</p><p>
+Yours very truly,
+</p><p>
+A. LINCOLN
+</p><p>
+[Indorsement]
+</p><p>
+January 1, <a href="/results.php?year=1863">1863</a><br/>
+Withdrawn, because considered harsh by General Halleck.
+</p>
+<p><a href="/results.php?tla=abl" rel="me">A. LINCOLN</a></p></letter>

@@ -1,0 +1,20 @@
+<letter id="sid5052">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+When I had the honor of waiting on Congress, you were pleased to inform me, that if Congress had any further 
+commands for me I should be notified thereof. Not having received any notice from you on the subject, I take the 
+liberty to inform you, that my affairs are become so pressing and so peculiarly circumstanced, that it is impossible 
+for me to attend longer without doing greater prejudice to myself and interest, than I am able to sustain. I must 
+therefore request of you to remind Congress of my situation, and that you will inform me of their determination respecting me. 
+</p><p>
+I have the honor to be, with sincere respect, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

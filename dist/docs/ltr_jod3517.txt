@@ -1,0 +1,102 @@
+<letter id="jod3517">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+LAST night an express from M. de Sartines, whose politeness upon this occasion was very obliging, brought 
+me your letters of September 29th and October 10th. 
+The joy which the receipt of these packets afforded 
+me, was damped by the disagreeable articles of intelligence, but still more so by the symptoms of grief 
+and complaint which appeared in the letters. For 
+heaven's sake, my dear, don t indulge a thought that 
+it is possible for me to neglect or forget all that is 
+dear to me in this world. It is impossible for me to 
+write as I did in America. What should I write ? It 
+is not safe to write any thing that one is not willing 
+should go into all the newspapers of the world. I 
+know not by whom to write. I never know what conveyance is safe. Vessels may have arrived without 
+letters from me. I am five hundred miles from Bordeaux, and not much less distant from Nantes. I 
+know nothing of many vessels that go from the sea 
+ports, and if I knew of all, there are some that I should 
+not trust. Notwithstanding this, I have written to you 
+not much less than fifty letters. I am astonished that 
+you have received no more. But almost every vessel 
+has been taken. Two vessels by which I sent goods 
+to you for the use of your family, and one by which I sent Mr. Cranch's things, we know, have been taken. 
+In every one of these I sent large packets of letters 
+and papers for Congress, for you, and for many 
+friends. God knows I don t spend my time in idleness, or in gazing at curiosities. I never wrote more 
+letters, however empty they may have been. But by 
+what I hear, they have been all, or nearly all, taken 
+or sunk. My friends complain that they have not received letters from me. I may as well complain. I 
+have received scarcely any letters from America. I 
+have written three where I have received one. From 
+my friend, <a href='/results.php?tla=jod' rel='me'>Mr. Adams</a>, I have received only one 
+short card ; from Mr. Gerry, not a syllable ; from Mr. Lovell, only two or three, very short. What shall I 
+say ? I doubt not they have written oftener, but letters miscarry. Drs. Cooper and Gordon write to Dr. 
+Franklin, not to me. My friend Warren has been 
+good as usual. I have received several fine, long 
+letters, full of sound sense, useful intelligence, and 
+reflections as virtuous, as wise as usual from him. 
+I have answered them and written more, but whether 
+they arrive, I know not. 
+</p><p>
+I approve very much of your draught upon me in 
+favor of your cousin. The moment it arrives, it shall 
+be paid. Draw for more as you may have occasion. 
+But make them give you gold and silver for your 
+bills. Your son is the joy of my heart, without abating in the least degree of my affection for the young 
+rogue that did not seem as if he had a father, or his 
+brother or sister. Tell Abby her papa likes her the 
+better for what she tells her brother, viz, : " that she 
+don t talk much," because I know she thinks and 
+feels the more. I hope the <a href='/results.php?city=boston' rel='city'>Boston</a> has arrived. She 
+carried many things for you. 
+</p><p>
+Last night a friend from England brought me the 
+King's speech. Their delirium continues, and they 
+go on with the war, but the speech betrays a manifest expectation that Spain will join against them, 
+and the debates betray a dread of Holland. They 
+have reason for both. They have not and cannot get 
+an ally. They cannot send any considerable reinforcement to America. 
+</p><p>
+Your reflections upon the rewards of the virtuous 
+friends of the public are very just. But if virtue was 
+to be rewarded with wealth, it would not be virtue. If 
+virtue was to be rewarded with fame, it would not be 
+virtue of the sublimest kind. Who would not rather 
+be Fabricius than Csesar ? Who would not rather be 
+Aristides than even William the Third ? Who ! No 
+body would be of this mind but Aristides and Fabricius. These characters are very rare, but the more 
+precious. Nature has made more insects than birds, 
+more butterflies than eagles, more foxes than lions, 
+more pebbles than diamonds. The most excellent of 
+her productions both in the physical, intellectual and 
+moral world, are the most rare. I would not be a 
+butterfly because children run after them, nor because 
+dull philosophers boast of them in their cabinets. 
+</p><p>
+Have you ever read J. J. Rousseau ? If not, read him. 
+Your cousin Smith has him. What a difference between him and Chesterfield and even Voltaire ? But 
+he was too virtuous for the age and for Europe. I wish I could not say for another country. 
+</p><p>
+I am much disappointed in not receiving despatches from Congress by this opportunity. We expect alterations in the plan here. What will be done 
+with me I can t conjecture. If I am recalled, I 
+will endeavor to get a safe opportunity home. I 
+will watch the proper season, and look out for a good 
+vessel. And if I can get safe to Penn's hill, shall 
+never repent of my voyage to Europe, because I have 
+gained an insight into several things that I never 
+should have understood without it. 
+</p><p>
+I pray you to remember me with every sentiment 
+of tenderness, duty and affection to your father and 
+my mother, your and my brothers and sisters, uncles, 
+aunts, cousins, and every body else that you know 
+deserves it. What shall I say too of my dear young 
+friends by your fireside ? May God Almighty bless 
+them and make them wise ! 
+</p>
+</letter>

@@ -1,0 +1,74 @@
+<letter id="jod3531">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=ferrol' rel='city origin'>Ferrol</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+THE French consul had agreed to carry me, Mr. Dana, Mr. Allen, and my three children and our three 
+servants, this day to <a href='/results.php?city=corunna' rel='city'>Corunna</a>, which is about five 
+leagues from this place, by water, in a barge of four 
+teen oars, but the weather proved so boisterous that 
+it was impossible to go. 
+</p><p>
+To give you some idea of the place where we are, 
+Cape Finisterre and Cape Ortegal are two long arms 
+of land stretched out into the sea, which embrace a 
+large body of water. Within this bay are two other 
+points of land, within one of which is <a href='/results.php?city=ferrol' rel='city'>Ferrol</a>, where 
+we now are, and within the other is <a href='/results.php?city=corunna' rel='city'>Corunna</a>, where 
+we intended to have gone this day, if the weather had 
+permitted ; but we hope to go tomorrow. We can 
+get neither horses, nor mules, nor carriages, in this 
+place, for ourselves or our baggage, which I am much 
+surprised at, as it is so grand a port. Living and conveniences for conveyance are very dear in this place, 
+which will run my expenses very high. There is 
+nothing remarkable here but the natural strength of 
+the place and the artificial fortifications, together with 
+the arsenals, dry docks, barracks and military matters by sea and land. The city is small, not very 
+well built nor accommodated. Very little commerce 
+or manufactures, industry or diversions. There are 
+two or three elegant churches, and there is an Italian 
+opera. There is the appearance of much devotion, 
+and there are many ecclesiastics. 
+</p><p>
+It is dull enough to be in a country, so wholly ignorant of the language and usages ; but we have furnished ourselves with a dictionary and grammar, and 
+are learning every hour. Charles is much pleased 
+with what he sees and hears, and behaves very discreetly. John is writing to you and his sister and 
+brother. I excused myself from dining today on 
+board the Souverain and on board the Jason, two 
+French men-of-war. Yesterday I dined on board the Triomphant, and the children on board the Jason. 
+The French officers appear today with cockades in 
+honor of the triple alliance a large white ribbon 
+for the French, a smaller red one for the Spaniards, 
+and a black one for the Americans, which makes a 
+pretty appearance. 
+</p><p>
+Upon looking a little into the Spanish language, I 
+find it so very nearly like the Latin, that I am persuaded we shall learn more of it in a month than we 
+did of French in half a year. The manners of the 
+Spaniards and French are as opposite as grave and 
+gay. The dress of the Spanish officers is much like 
+the French. That of the people a little different. 
+Men and women, gentlemen and ladies, are very fond 
+of long hair, which often reaches, braided in a queue 
+or bound round with a black ribbon, almost to their 
+hams. The ladies wear cloaks, black or white, which 
+come over their heads and shoulders and reach down 
+to their waists. They have fine black eyes, and con 
+sequently dark, but yet lively complexions. 
+</p><p>
+When, O when shall I see you again and live in 
+peace ? 
+</p><p>
+The Russian ambassador lately appointed to relieve 
+the one lately in <a href='/results.php?city=london' rel='city'>London</a>, passed through France and 
+was a fortnight or three weeks at Paris, from whence 
+the shrewd politicians have conjectured that peace 
+was about to be mediated by that power. But it is 
+said that England is as reluctant to acknowledge the 
+independence of America as to cede Gibraltar, the 
+last of which is insisted upon as well as the first. 
+But this is only bruit. 
+</p><p>
+Adieu. 
+</p>
+</letter>

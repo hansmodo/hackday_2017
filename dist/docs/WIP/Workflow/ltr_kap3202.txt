@@ -1,0 +1,52 @@
+<letter id="kap3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I arrived here yesterday with the cavalry, where I 
+expected to have found forage sufficient to subsist the 
+cavalry, at least for a few days. My Brigade Forage-master had been informed, by Colonel Biddle, that such 
+provision was made, and that he would have nothing 
+more to do than issue the same ; but, so far to the 
+contrary, there was not a load of hay in town. With 
+the greatest difficulty we have "been enabled to put 
+our heads under cover. I applied to the civil magistrates for directions relative to the forming a magazine. In the mean while, the horses must subsist. I 
+am, therefore, obliged to divide them into several 
+squads, and send them out about two miles in the 
+rear of the town, until the necessary provision, both 
+for forage and quarters, can be made. 
+</p><p>
+It will be impossible for me to quarter the cavalry 
+in this place, unless the galley-men are removed ; but 
+they say they have an order from the Governor and 
+Council to remain here ; and, having prior possession, 
+think they are entitled to hold it. I wait your Excellency's positive order in what manner to proceed; 
+and if, in this case, I must execute my first orders, 
+it will be necessary that the galley-men should receive orders to evacuate the town. I have the honor 
+to assure your Excellency that the cavalry is in want 
+of every article. It must be exercised and taught 
+the service, from the Colonel to the private. Colonel Kowacz is a man of great merit, and deserves the 
+charge of Master of Exercise. He is an officer worthy 
+of research ; and, exclusive of a thorough knowledge 
+of his abilities, I request his being employed by your Excellency. I can recommend, and assure your Excellency will never have reason to repent your confidence in him. If this proposal should be agreeable 
+to your Excellency, the sooner I am informed the 
+better, as he will be of infinite service to the cavalry 
+this winter in quarters. 
+</p><p>
+I have met with an armourer, who lives at Easton. 
+He undertakes to furnish me with pikes, pistols, carbines, &c. If your Excellency approves of him, the 
+Quartermaster-General will take your orders on that head. 
+</p><p>
+There are some excellent horses in this country ; 
+and; as Colonel Luterloh has received orders to press 
+all horses fit for the service, he may procure a number here ; but this must not be delayed, as I am in 
+formed many persons buy them for the use of the 
+enemy. I am, with respect, your Excellency's 
+</p><p>
+Very humble, and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=kap" rel="me">PULASKI</a>. 
+</p>
+</letter>

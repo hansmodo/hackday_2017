@@ -1,0 +1,41 @@
+<letter id="mbc7745">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='10'>October</a> <a rel='day origin' value='28'>28th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Burton Harrison writes, to General Preston that supreme anxiety reigns in Richmond. 
+</p><p>
+Oh, for one single port ! If the Alabama had had in the whole wide world a port to take her prizes to and where 
+she could be refitted, I believe she would have borne us through. Oh, for one single port by which we could get at 
+the outside world and refit our whole Confederacy ! If we could have hired regiments from Europe, or even have imported ammunition and food for our soldiers ! 
+</p><p>
+Some days must be dark and dreary. At the mantuamaker's, however, I saw an instance of faith in our future : 
+a bride's paraphernalia, and the radiant bride herself, the bridegroom expectant and elect now within twenty miles of 
+Chattanooga and outward bound to face the foe. 
+</p><p>
+Saw at the Laurens's not only Lizzie Hamilton, a perfect little beauty, but the very table the first Declaration of 
+Independence was written upon. These Laurenses are grandchildren of Henry Laurens, of the first Revolution. 
+Alas ! we have yet to make good our second declaration of independence Southern independence from Yankee meddling and Yankee rule. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> has written to ask them to send General Chesnut out to command one of his brigades. In whose place? 
+</p><p>
+If Albert Sidney Johnston had lived ! Poor old <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> has no backing. Stonewall would have saved us from 
+Antietam. <a href='/results.php?tla=wts' rel=''>Sherman</a> will now catch <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> by the rear, while <a href='/results.php?tla=usg' rel=''>Grant</a> holds him by the head, and while <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> and 
+Thomas are performing an Indian war-dance on the frontier. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> means to cut his way to <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> ; see if he doesn't. 
+The Yanks have had a struggle for it. More than once we seemed to have been too much for them. We have been 
+so near to success it aches one to think of it. So runs the table-talk. 
+</p><p>
+Next to our house, which Isabella calls " Tillytudlem, " since <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> visit, is a common of green grass and very 
+level, beyond which comes a belt of pine-trees. On this open space, within forty paces of us, a regiment of foreign deserters has camped. They have taken the oath of allegiance to our government, and are now being drilled and disciplined into form before being sent to our army. They are mostly Germans, with some Irish, however. Their close 
+proximity keeps me miserable. Traitors once, traitors for ever. 
+</p><p>
+Jordan has always been held responsible for all the foolish proclamations, and, indeed, for whatever <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> 
+reported or proclaimed. Now he has left that mighty chief, and, lo, here comes from <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> the silliest and most 
+boastful of his military bulletins. He brags of Shiloh ; that was not the way the story was told to us. 
+</p><p>
+A letter from <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>, who says: " Thank you, a 
+thousand times, my dear friend, for your more than maternal kindness to my dear child. That is what she calls her 
+sister, Maggie Howell. " As to <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a>, he thinks the best ham, the best Madeira, the best coffee, the best hostess in 
+the world, rendered Columbia delightful to him when he passed through. We are in a sad and anxious state here 
+just now. The dead come in ; but the living do not go out so fast. However, we hope all things and trust in God as 
+the only one able to resolve the opposite state of feeling into a triumphant, happy whole. I had a surprise of an unusually gratifying nature a few days since. I found I could not keep my horses, so I sold them. The next day they were 
+returned to me with a handsome anonymous note to the effect that they had been bought by a few friends for me. 
+But I fear I can not feed them. Strictly between us, things look very anxious here/ 
+</p>
+</letter>

@@ -1,0 +1,26 @@
+<letter id="gwa4455">
+<recipient first="Johnathan" last="Trumball" type="individual"/>
+<p>
+TO JONATHAN TRUMBULL, JUNIOR. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Colonel Harrison, who has acted as my secretary 
+since the beginning of 1776, has accepted an honorable and profitable civil appointment in the State of 
+Maryland, and is gone to enjoy it. The circle of my 
+acquaintance does not furnish a character, that would 
+be more pleasing to me as a successor to hun, than 
+yourself. I make you the first offer, therefore, of the 
+vacant office, and should be happy in your acceptance 
+of it. The pay is one hundred dollars a month ; the 
+rations those of a Lieutenant-Colonel in the army, 
+which in fact are additional, as the value thereof is 
+received in money. No perquisites appertain to the office. The secretary lives as I do, is at little expense while he is in my family, or when absent on 
+my business, and is in the highest confidence and estimation from the nature of his office. I mention these 
+things for your information, and shall be happy in a 
+speedy and favorable answer, being, with great esteem 
+and regard, &c. 
+</p>
+</letter>

@@ -1,0 +1,9 @@
+<letter id="mbc7656">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Drove out with Mrs. " Constitution " Browne, who told us the story of Ben McCulloch's devotion 
+to Lucy Gwynn. Poor Ben McCulloch another dead hero. Called at the Tognos and saw no one; no wonder. They 
+say Ascelie Togno was to have been married to Grimke Ehett in August, and he is dead on the battle-field. I had 
+not heard of the engagement before I went there. 
+</p>
+</letter>

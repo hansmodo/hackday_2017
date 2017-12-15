@@ -1,0 +1,23 @@
+<letter id="joj4166">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='13'>13th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1807' rel="origin">1807</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have received your letter of the 2d inst., and expected to have answered it this week in person. My health had so much mended, that on Friday last, I rode to Bedford 
+for the first time since my return. That night, rheumatic pains in my head, neck, and shoulders came on. They have somewhat abated, but still confine me to the house, 
+In our journey through life, as in other journeys, our wishes cannot always be gratified. Travellers must expect to live and fare like travellers. 
+</p><p>
+You have the gout, and you extract consolation from it ; this is good moral chymistry. My rheumatism and your gout may perhaps carry us home the farthest way round, 
+but not in an easy chair. When we " ruminate past enjoyments," we taste that tincture of melancholy which their departure and other associated circumstances infuse : it 
+nevertheless affords a kind of pleasure which, like some medical wine, is not only better than no wine, but perhaps 
+in some respects more salutary than pure wine. The half a century you speak of, has given us some 
+knowledge and experience, both of men and things. That experience leads me to concur cordially in your idea of 
+cultivating sentiments of friendship ; and particularly to cherish those with which I am, 
+</p><p>
+Yours, very sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

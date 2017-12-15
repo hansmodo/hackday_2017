@@ -1,0 +1,41 @@
+<letter id="nib5266">
+<recipient first="Horace" last="Binney" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="2">Feby</a> <a rel='day origin' value='6'>6th</a> . <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir 
+</p><p>
+It strikes me that the resolutions of our legislature will 
+place Mr. Dallas in an attitude equally new, and imposing ; 
+offering an opportunity of distinction, which a young states 
+man could scarcely hope for in his dreams, &amp; which the oldest 
+statesman might pass a whole life without encountering. It 
+seems to me, his position is precisely this He wishes to 
+be the Pennsylvania candidate for the Vice Presidency and then 
+</p><p>
+"Glamis and thane of Cawdor 
+"the greatest is believed." 
+</p><p>
+The Pennsylvanians are disposed to assist him and to exclude 
+Mr. V Buren. To promote this Mr. Dallas should identify 
+himself with all the Pennsylvania interests, more especially 
+those interests to which <a href='/results.php?tla=mvb' rel='adversary'>Mr. Van Buren</a> is supposed to be 
+hostile. He should therefore go immediately to the President 
+with these resolutions of Penn. 1 in his hand he should 
+warn him against irritating our State, especially as the of 
+fence to her is wholly gratuitous. He should say to him you 
+are not opposed to this bank essentially; you mean to agree 
+to it with certain modifications. Now let me mediate between 
+you and the Bank; let us agree on the modifications; the Bank 
+will consent to them, and I will report them, the rechartering 
+of the Bank will thus become a measure of yours you will 
+gratify Penn a . you will take from your adversaries their 
+most formidable weapon, and secure the ascendancy of your 
+friends. If the President will do this his success is certain, if Mr. Dajlas will do this, besides sustaining his father's work 
+&amp; conferring a great blessing on the Country, he will assure/ 
+to himself distinguished consideration through the nation. 
+</p><p>
+I do not know how he is disposed for such an enterprize, but he ought to give ten years of his life for this chance of attaining it. Tell him so, and if in half an hour afterwards he is not 
+on his way to the Presidents, why then the stars have conjoined for him in vain. 
+</p>
+</letter>

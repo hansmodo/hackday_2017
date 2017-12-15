@@ -1,0 +1,43 @@
+<letter id='mad1450'>
+<recipient first='Thomas' last='Martin' type='individual'/>
+<p>
+TO THE REVEREND THOMAS MARTIN. 
+</p><p>
+<a href="/results.php?city=nassau hall" rel="place">NASSAU HALL</a>, August 16, <a href="/results.php?year=1769">1769</a>. 
+</p><p>
+REV. SIR, I am not a little affected at hearing of your misfortune, but cannot but hope the cure may be so far accomplished as to render your journey not inconvenient. Your kind 
+advice and friendly cautions are a favor that shall be always 
+gratefully remembered; and I must beg leave to assure you that 
+my happiness, which you and your brother so ardently wish for, 
+will be greatly augmented by both your enjoyments of the like 
+blessing. 
+</p><p>
+I have been as particular to my father as I thought necessary 
+for this time, as I send him an account of the institution, &c., 
+&c., and of the college, wrote by Mr. Blair, the gentleman formerly elected President of this place. You will likewise find 
+two pamphlets entitled "Britannia's Intercession for John 
+Wilkes," &c., which, if you have not seen it, perhaps may divert 
+you. 
+</p><p>
+I am perfectly pleased with my present situation; and the 
+prospect before me of three years' confinement, however terrible 
+it may sound, has nothing in it, but what will be greatly alleviated by the advantages I hope to derive from it. 
+</p><p>
+The near approach of examination occasions a surprising application to study on all sides, and I think it very fortunate 
+that I entered college immediately after my arrival. Though 
+I believe there will not be the least danger of my getting Jta 
+Irish hint, as they call it, yet it will make my studies somewhat 
+easier. I have by that means read over more than half Horace 
+and made myself pretty well acquainted with prosody, both 
+which will be almost neglected the two succeeding years. 
+</p><p>
+The very large packet off for Carolina I am afraid will 
+be incommodious to your brother on so long a journey, to whom 
+I desire my compliments may be presented; and conclude with 
+my earnest request for a continuance of both your friendships, 
+and sincere wishes for your recovery, and an agreeable journey 
+to your whole company. 
+</p><p>
+I am, sir, your obliged friend and obedient serv.t. 
+</p>
+</letter>

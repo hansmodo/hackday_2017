@@ -1,0 +1,22 @@
+<letter id="mbc7630">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='27'>27th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. New Orleans gone and with it the Confederacy. That Mississippi rniT\3jTg if lost. The Confederacy has been done to death by the politicians. What wonder we are lost. 
+</p><p>
+The soldiers have done their duty. All honor to the army. Statesmen as busy as bees about their own places, 
+or their personal honor, too busy to see the enemy at a distance. With a microscope they were examining their own 
+interests, or their own wrongs, forgetting the interests of the people they represented. They were concocting newspaper 
+paragraphs to injure the government. No matter how vital it may be, nothing can be kept from the enemy. They 
+must publish themselves, night and day, what they are doing, or the omniscient Buncombe will forget them. 
+</p><p>
+This fall of New Orleans means utter ruin to the private fortunes of the Prestons. Mr. Preston came from New 
+Orleans so satisfied with Mansfield Lovell and the tremendous steam-rams he saw there. While in New Orleans 
+Burnside offered Mr. Preston five hundred thousand dollars, a debt due to him from Burnside, and he refused to take it. He said the money was safer in Burnside's hands than his. And so it may prove, so ugly is the outlook now. 
+Burnside is wide awake ; he is not a man to be caught napping. 
+</p><p>
+Mary Preston was saying she had asked the Hamptons how they relished the idea of being paupers. If the country 
+is saved none of us will care for that sort of thing. Philosophical and patriotic, Mr. Chesnut came in, saying: 
+Conrad has been telegraphed from New Orleans that the great iron-clad Louisiana went down at the first shot." 
+Mr. Chesnut and Mary Preston walked off, first to the bulletin-board and then to the Prestons . 
+</p>
+</letter>

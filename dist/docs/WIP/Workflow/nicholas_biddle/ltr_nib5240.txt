@@ -1,0 +1,19 @@
+<letter id="nib5240">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">December</a> <a rel='day origin' value='12'>12th</a> , <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+Dear Sir 
+</p><p>
+I received this morning your favor of the 10th . inst. 
+which I have read with great pleasure. The view it presents 
+are quite sound &amp; correspond exactly with those entertained 
+here. My impression is that these opinions expressed by the 
+President are entirely &amp; exclusively his own, and that they 
+should be treated as the honest tho erroneous notions of one 
+who intends well. We have never had any idea of applying to 
+Congress for a renewal of the Charter at the present session 
+and of course should abstain from doing so now. Our 
+whole system of conduct is one of abstinence and self defence 
+</p>
+</letter>

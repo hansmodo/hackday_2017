@@ -1,0 +1,85 @@
+<letter id="alh3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+Flattering myself that your knowledge of me will 
+induce you to receive the observations I make, as 
+dictated by a regard to the public good, I take the 
+liberty to suggest to you my ideas on some matters 
+of delicacy and importance. I view the present juncture as a very interesting one. I need not observe 
+how far the temper and situation of the army may 
+make it so. The state of our finances was perhaps 
+never more critical. I am under injunctions, which 
+will not permit me to disclose some facts that would 
+at once demonstrate this position; but I think it probable you will be possessed of them through another 
+channel. It is, however, certain that there has scarcely 
+been a period of the revolution which called more for from the State of <a href='/results.php?city=new york' rel='city'>New York</a>, on the 25th of November, <a href='/results.php?year=1782'>1782</a>. 
+wisdom and decision in Congress. Unfortunately for 
+us, we are a body not governed by reason or foresight, but by circumstances. It is probable we shall 
+not take the proper measures; and, if we do not, a 
+few months may open an embarrassing scene. This 
+will be the case, whether we have peace or a continuance of the war. 
+</p><p>
+If the war continues, it would seem that the army 
+must, in June, subsist itself to defend the country. If 
+peace should take place, it will subsist itself to procure justice to itself. It appears to be a prevailing 
+opinion in the army, that the disposition to recompense their services will cease with the necessity for 
+them ; and that, if they once lay down their arms, 
+they part with the means of obtaining justice. It is 
+to be lamented that appearances afford too much 
+ground for their distrust. 
+</p><p>
+It becomes a serious inquiry, What is the true line 
+of policy ? The claims of the army, urged with moderation, but with firmness, may operate on those 
+weak minds which are influenced by their apprehensions more than by their judgments, so as to produce 
+a concurrence in the measures which the exigencies 
+of affairs demand. They may add weight to the applications of Congress to the several States. So far 
+a useful turn may be given to them. But the difficulty will be to keep a complaining and suffering 
+army within the bounds of moderation. 
+</p><p>
+This your Excellency's influence must effect. In 
+order to it, it will be advisable not to discountenance 
+their endeavour to procure redress, but rather, by the 
+intervention of confidential and prudent persons, to 
+take the direction of them. This, however, must not 
+appear; it is of moment to the public tranquillity 
+that your Excellency should preserve the confidence of the army without losing that of the people. This 
+will enable you, in case of extremity, to guide the 
+torrent, and to bring order, perhaps even good, out 
+of confusion. It is a part that requires address, but 
+it is one which your own situation as well as the 
+welfare of the community points out. 
+</p><p>
+I will not conceal from your Excellency a truth, 
+which it is necessary you should know. An idea is 
+propagated in the army, that delicacy, carried to an 
+extreme, prevents your espousing its interests with 
+sufficient warmth. The falsehood of this opinion no 
+one can be better acquainted with than myself; but 
+it is not the less mischievous for being false. Its 
+tendency is to impair that influence which you may 
+exert with advantage, should any commotions unhappily ensue, to moderate the pretensions of the army, 
+and make their conduct correspond with their duty. 
+</p><p>
+The great desideratum at present is the establishment of general funds, which alone can do justice to 
+the creditors of the United States (of whom the array 
+forms the most meritorious class), restore public credit, and supply the future wants of Government. 
+This is the object of all men of sense ; in this the 
+influence of the army, properly directed, may cooperate. 
+</p><p>
+The intimations I have thrown out will suffice to 
+give your Excellency a proper conception of my sentiments. You will judge of their reasonableness or 
+fallacy ; but I persuade myself you will do justice to 
+my motives. I have the honor to be, with great respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p><p>
+P. S. <a href='/results.php?tla=hek' rel='colleague'>General Knox</a> has the confidence of the army, and is a man of sense. I think he may be 
+safely made use of Situated as I am, your Excellency will feel the confidential nature of these observations. 
+</p>
+</letter>

@@ -1,0 +1,48 @@
+<letter id="joj4195">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>   	 
+[<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>], <a rel="month origin" value="10">Oct.</a>, 181R. 
+</p><p>
+Dear Morris, 
+</p><p>
+Having heard much of your discourse before the New-York Historical Society, it gave me pleasure to receive copy of it, and to find from the direction that I owed it to 
+your friendly attention. It abounds in interesting remarks ; the diction is elevated throughout, perhaps in some instances beyond the proportion which the topics bear to each 
+other. In landscape, we prefer bill and dale to a plain, 
+however ornamented : and in a field of eloquence it is agreeable to behold sublimities sloping down into Attic simplicity. I doubt the correctness of saying that Franklin 
+averted thunderbolts from protected dwellings. In my opinion, the invention of steamboats is a subject on which it is less difficult to say handsome, than sublime things. To 
+me it does not appear probable, that the sight of them on Asiatic waters can so powerfully affect the feelings of the Genius of Asia, as to impel him to bow with grateful 
+reverence (not gratulation) to the inventive spirit of America ; and that, too, at the very moment when his eye, fflancine 
+over the ruins of cities, which for ages had concurred in 
+proclaiming his superiority in the arts, must remind him of 
+his dignity. I make no apology or these hints ; you know what prompts them. 
+</p><p>
+Your strictures on the defects of history, and the causes of them, are well founded. Whether future historians, with 
+all their advantages, will excel their predecessors in accuracy, and caution, and candour, is ;i point on which my expectations are not sanguine. For my port, 1 believe there 
+neither is, nor will be, more than one history free from error. 
+Of that history the discourse has availed itself very ingeniously, deducing from it lessons instructive to all, and 
+new to many. I have often wished that the accounts given 
+in it of the primitive ages had been more particular. We 
+know but little about them, and our curiosity must remain 
+ungratified while we remain here. I say here, because when 
+we join our ancestors, we shall doubtless learn from them 
+all that we may wish to know respecting the affairs and 
+events of their days. In this and other respects I promise 
+myself much satisfaction from their society ; and that at 
+a period which cannot be very distant. The term of my 
+lease has expired, and I have no reason to expect that my 
+continuing to hold over will be of more than ordinary duration. It is consoling to reflect that we tenants are informed 
+where and how we may go and settle in perpetuity, and are 
+assured that our possessions and enjoyments there, instead 
+of being precarious and transitory, will be certain and permanent. 
+</p><p>
+That you and I, and those who are near and dear to us, 
+may be enabled to say with the poet, but in a higher and 
+better sense, "omnes metus, strepitumque Acherontis avari 
+subjecit pedibus," is the fervent wish of your affectionate 
+friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p><p>
+I hope our little boy advances in strength, and growth of body and mind. 
+</p>
+</letter>

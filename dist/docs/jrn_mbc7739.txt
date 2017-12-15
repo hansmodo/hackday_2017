@@ -1,0 +1,13 @@
+<letter id="mbc7739">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='9'>September</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. The battle has been raging at Atlanta, and our fate hanging in the balance. Atlanta, indeed, is 
+gone. Well, that agony is over. Like David, when the child was dead, I will get up from my knees, will wash my 
+face and comb my hair. No hope; we will try to have no fear. 
+</p><p>
+At the Prestons I found them drawn up in line of battle every moment looking for the Doctor on his way to Richmond. Now, to drown thought, for our day is done, read Dumas's Maitres d Armes. Russia ought to sympathize 
+with us. We are not as barbarous as this, even if Mrs. Stowe's word be taken. Brutal men with unlimited power 
+are the same all over the world. See Russell's India Bull Run Russell's. They say General Morgan has been killed. 
+We are hard as stones; we sit unmoved and hear any bad news chance may bring. Are we stupefied ? 
+</p>
+</letter>

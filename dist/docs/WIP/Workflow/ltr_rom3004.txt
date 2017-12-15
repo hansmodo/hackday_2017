@@ -1,0 +1,36 @@
+<letter id="rom3004">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="5">May</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have not taken the liberty of giving you any 
+trouble for some time past; and, indeed, I never do 
+it but with great reluctance, because I know how 
+much your attention and time must be engaged in 
+the most important pursuits. 
+</p><p>
+The bearer of this, the Marquis Armand de la Rouerie, is entitled to my warmest recommendations, 
+because he brought from his own country letters to 
+me that I am obliged to attend to, and put great 
+faith in, as they come from persons worthy of the 
+utmost credit. One of them is from Mr. Deane, who 
+not only mentions him as a gentleman of rank., good 
+family, and fortune, but also as a man of great merit ; desiring my particular attention to him, and that 
+I should supply him with money, which will be repaid in France by a gentleman to whom America 
+is under the most important obligations. You will, 
+therefore, excuse and oblige me at the same time by 
+your favorable attention to Monsieur Armand, for he 
+chooses to pass by that name ; and, should he want 
+money, I will pay his drafts for what he stands in 
+need of. I find he is a little disgusted at an appointment made for him by Congress this day; and 
+I believe it was through the inattention of a committee, which I shall get set right again in a short 
+time. I am, dear Sir, with the greatest esteem and 
+affection, 
+</p><p>
+Your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p>
+</letter>

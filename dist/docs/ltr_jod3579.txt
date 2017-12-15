@@ -1,0 +1,41 @@
+<letter id="jod3579">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='23'>23</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE birth day was celebrated yesterday with as much 
+joy, affection and festivity as ever, and as it happened, 
+the new French minister was then presented. Poor 
+Genet, I fear, is undone. Bad as his conduct has 
+been, I cannot but pity him. What will become of 
+him, I know not. The name of his successor is Fauchet. Gloomy as I was in expectation daily of afflicting news from home, I contented myself with 
+paying my respects to the President with the Senate, 
+but I thought it would not become me to be present 
+at the ball of a Saturday night, especially at a time 
+when I could not get it out of my thoughts that my 
+venerable parent might be closing her eyes forever. 
+</p><p>
+The Senate has been several days trying a con 
+tested election of Mr. Gallatin with their doors open. 
+It is at length determined that a gallery is to be built, 
+and our debates public at the next session of Congress. What the effect of this measure, which was 
+at last carried by a great majority, will be, I know 
+not ; but it cannot produce greater evils than the con 
+test about it, which was made an engine to render 
+unpopular some of the ablest and most independent 
+members. Some of the younger members may descend from their dignity so far, perhaps, as to court 
+popularity at the expense of justice, truth and wisdom, by flattering the prejudices of the audience, 
+but I think they will lose more esteem than they will 
+acquire by such means. 
+</p><p>
+If my mother still lives, present her my duty and 
+tender sympathy under her affliction. I am, with 
+every tender sentiment, 
+</p><p>
+Yours forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

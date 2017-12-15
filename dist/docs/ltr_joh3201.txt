@@ -1,0 +1,33 @@
+<letter id="joh3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The absolute necessity of cutting off all supplies 
+and intelligence from the enemy, in and near the 
+city of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and thereby preventing any 
+intercourse between them and the disaffected in the 
+State of Pennsylvania and elsewhere, has induced 
+the Congress to adopt the inclosed resolves, in hopes, 
+if possible, to put an effectual stop to a practice so 
+extremely dangerous to the cause of America. They 
+have, for this end, authorized you to sentence, by 
+court-martial, any person convicted of either of the 
+above-mentioned offense, or of acting as a guide or pilot, to suffer death, or such other punishment 
+as may be thought adequate, provided he is taken 
+within thirty miles of any town in Pennsylvania, Jersey, or Delaware, that is in possession of the enemy. 
+They have also recommended to the good people of 
+this and the other States to be vigilant in apprehending and securing all such persons as may be 
+caught in the violation of the inclosed resolves, to 
+which I beg leave to refer your attention. 
+</p><p>
+Your favor of the 5th instant was duly received, 
+and immediately laid before Congress. I have the 
+honor to be, with the greatest respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

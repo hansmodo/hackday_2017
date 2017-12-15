@@ -1,0 +1,61 @@
+<letter id="isp3209">
+<recipient first="George" last="Horatio" type="Gates"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, eleven o clock, A. M., <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+In my letter of yesterday, I acquainted you of the enemy's 
+having possession of Fort Montgomery. Yesterday they proceeded up the river with their ships, galleys, flat-bottomed boats, 
+&c., and landed a body at Fort Constitution, took possession of 
+that post, and played round "the die raux-dc-f rise a little. I expect every moment to have information that they are advancing 
+up. 
+</p><p>
+<a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> is on the west side of the river, with about 
+four hundred Continental troops, which I sent him yesterday, and 
+is exerting himself in collecting the militia. If they attempt to 
+land on that side, he will oppose and annoy them as much as 
+possible. If this side should be their object, I shall, with the remainder of the Continental troops and the Connecticut militia 
+(which, I am happy to inform you, came in yesterday and the 
+day before in great numbers, but, I am sorry to say, they 
+already begin to run away), oppose them every way in my 
+power. Certain it is, that they mean, at all events, to join <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> without delay. They are on a desperate point; 
+and I dare say that their orders are positive to join the Northern 
+army, at all risks. <a href='/results.php?tla=gec' rel='colleague'>General Clinton</a> commands them in person. 
+He has two general officers with him, and, I believe, between 
+five and six thousand men. If they should proceed by water, I 
+shall do every thing in my power to arrive at <a href='/results.php?city=albany' rel='city'>Albany</a> before 
+them. Weighing the chcvaux-de-frise, I do not think is a matter 
+of any moment to them. They can take a fair wind, and, with 
+their flat-bottomed boats, which all have sails, go to <a href='/results.php?city=albany' rel='city'>Albany</a>, or 
+Half- Moon, with great expedition, and, I believe, without any 
+opposition. Would it not be a matter of great importance to 
+send, if you can possibly spare them, a detachment from your army towards <a href='/results.php?city=albany' rel='city'>Albany</a>, or some advantageous ground, to prevent 
+them from getting between you and me ? For, if they should 
+come on your rear, the situation of your army would be disagreeable. 
+</p><p>
+The loss of Fort Montgomery has, instead of depressing the 
+spirits of the country, animated them. So many forts and strong 
+holds have been given up without fighting, that they began to 
+despair, and thought that our troops would not face the enemy. 
+But now they begin to be convinced of the contrary ; for the few 
+brave men, who were in that fort, defended it five hours against 
+at least five thousand of the enemy, determined on carrying the 
+post. The garrison, in the whole, did not amount to more than 
+six hundred. Notwithstanding the great superiority of the enemy, 
+our troops never surrendered the fort, but fought, from one re 
+doubt to another, after the enemy had got into the fort; and, 
+when they could do no more, they fought their way through, and 
+most of them made their escape. Colonel Dubois, who had a 
+wound with a bayonet in his neck, has mustered nearly two hundred of his men, who were with him in the action, many of 
+whom have slight wounds with bayonets and swords, but are in 
+high spirits, and, I hope, will effect something clever. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p><p>
+P. S. If there are any of the militia in your quarter that yet 
+remain at home, pray let them be mustered. 
+</p>
+</letter>

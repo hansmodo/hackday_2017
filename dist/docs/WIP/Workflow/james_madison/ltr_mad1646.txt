@@ -1,0 +1,70 @@
+<letter id='mad1646'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, May 9, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, My last was of the 29th March. A few days ago 
+I had the pleasure of yours of the 12 January. I thank you 
+for your attention to the works of the Abbe BartheLemy and 
+the Marquis Condorcet, and wish much that your attempts to 
+procure me a genuine copy of the King of Prussia's may succeed. 
+</p><p>
+I send you herewith the first N . of the Congressional Register, which will give you some idea of the discussions in the 
+new Legislature. You will see at once the strongest evidences 
+of mutilation and perversion, and of the illiteracy of the Editor. 
+</p><p>
+The following Numbers shall go after it, as conveyances occur, 
+unless they should be found wholly unworthy of it. The deliberations of the House of Representatives have been chiefly employed on the subject of an Impost. Opinions have been considerably divided on the quantum of duties that would be practicable, and, in some instances, on the ratio of different duties 
+likely to operate differently in different States that would be 
+just. In general, the interests and ideas of the Northern and 
+Southern States have been less adverse than was predicted by 
+the opponents or hoped by the friends of the new Government. 
+Members from the same State, or the same part of the Union, 
+are as often separated on questions from each other as they are 
+united in opposition to other States or other quarters of the 
+continent. This is a favorable symptom. The points on which 
+most controversy has been raised are: 1 st . The duty on molasses. 
+2. The discrimination between nations in and those not in 
+Treaty. The arguments against what appears a proportionate 
+duty on molasses to that of rum turned on its disproportion to 
+the value of the article; the effect on the trade in it, which 
+yields the only market for certain exports from the Eastern 
+States; the effect on the fisheries, in which both rum and molasses are consumed; and, finally, the effect on the poor in that 
+part of the Union where the latter enters into their ordinary , 
+diet. The opposite arguments have been, that a proportion to 
+the duty on rum was essential to the productiveness of the fund, 
+as well as to the rules of justice as applied to different States, 
+some of which consume foreign and some country rum; that if 
+the proportion was not violated, the trade in molasses could not 
+be affected nor the distilleries injured; that the effect on the 
+fisheries would be too small to be felt; and that the poor who 
+consume molasses would escape the burden falling on the poor 
+who consume sugar. By the inclosed printed resolutions you 
+will see the rates on these articles as they yet stand. It is not 
+improbable that further efforts will be made to reduce that on 
+molasses. Some of the other rates have been altered since they 
+were printed. I do not note them because they are not yet in 
+their final state. It will become a serv.us question whether a 
+general reduction of the rates shall be made or not, on the idea 
+of the danger of smuggling. The distinction between nations 
+in and not in Treaty has given birth to three distinct and 
+urgent debates. On the last, the minority was very small for 
+putting Great Britain at once on the same footing with the most 
+favored nation. This policy, though patronized by some respectable names, is chiefly abetted by the spirit of this City, 
+which is steeped in Anglicism. It is not improbable, from the 
+urgency of its representative, that a further effort may be yet 
+made. 
+</p><p>
+Not knowing how far the present conveyance may be a certain one, I decline, on reflection, inclosing the Register until a 
+more direct opportunity offers, when I will add sundry matters 
+which I have not time now to put in cypher. Inclosed is the 
+Speech of the President, with the Address of the House of Representatives, and his reply. You will see in the caption of the 
+address that we have pruned the ordinary stile of the degrading 
+appendages of Excellency, Esquire, &c., and restored it to its 
+naked dignity. Titles to both the President and Vice President were formally and unanimously condemned by a vote of 
+the House of Representatives. This, I hope, will shew to the 
+friends of Republicanism that our new Government was not 
+meant to substitute either Monarchy or Aristocracy, and that 
+the genius of the people is as yet adverse to both. 
+</p>
+</letter>

@@ -1,0 +1,17 @@
+<letter id="aab2603">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=bedford" rel="city origin">Bedford</a>, <a rel="month origin" value="8">August</a> <a rel="day origin" value="15">15th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+You perceive, my dear sir, that I have made a little progress. I shall leave this to-morrow, but a detention 
+of two or three days at <a href="/results.php?city=pittsburgh" rel="city">Pittsburgh</a> will not allow me the 
+hope of seeing you at Belpre before the 23d or 24th. 
+</p><p>
+I leave here my daughter and her son, who have both greatly profited by the use of the waters, or, what is perhaps more probable, by the mountain air. She desired much to accompany me to your house, but we have compromised by my consenting that she shall meet me at 
+Belpre on the 1st of October. 
+</p><p>
+With great respect, yours, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>. 
+</p>
+</letter>

@@ -1,0 +1,75 @@
+<letter id="jod3538">
+<recipient first="Abigail" last="Adams"/>
+<p>
+[<a href='/results.php?city=paris' rel='city origin'>Paris</a>], 	<a rel="day origin" value='17'>17</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAR PORTIA, 
+</p><p>
+I YESTERDAY received a letter of the 26th of April 
+from brother Cranch, for which I thank him and will 
+answer as soon as possible. He tells me you have 
+drawn a little bill upon me. I am sorry for it, be 
+cause I have sent and should continue to send you 
+small presents, by which you would be enabled to do 
+better than by drawing bills. I would not have you 
+draw any more. I will send you things which will 
+defray your expenses better. The machine is horribly dear. Mr. C. desires to know if he may draw on 
+me. I wish it was in my power to oblige him, but it 
+is not. I have no remittances, nor any thing to depend 
+on. Not a line from Congress, nor any member, since 
+I left you. My expenses through Spain were beyond 
+all imagination, and my expenses here are so exorbitant, that I can t answer any bill from any body, not 
+even from you, excepting the one you have drawn. 
+I must beg you to be as prudent as possible. Depend 
+upon it, your children will have occasion for all your 
+economy. Mr. Johonnot must send me some bills. 
+Every farthing is expended and more. You can 
+have no idea of my unavoidable expenses. I know- 
+not what to do. Your little affairs and those of all 
+our friends, Mr. Wibird, &c., are on board the Alii-, and have been so these four months, or ready 
+to be. Pray write me by way of Spain and Holland, 
+as well as France. We are all well. My duty to 
+your father, my mother, and affection and respects 
+where due. My affections, I fear, got the better of 
+my judgment in bringing my boys. They behave 
+very well, however. 
+</p><p>
+<a href='/results.php?city=london' rel='city'>London</a> is in the horrors. Governor Hutchinson fell 
+down dead at the first appearance of mobs. They 
+have been terrible. A spirit of bigotry and fanaticism mixing with the universal discontents of the nation has broken out into violences of the most dreadful nature, burned Lord Mansfield's house, books, 
+manuscripts ; burned the king's bench prison and 
+all the other prisons, let loose all the debtors and criminals, tore to pieces Sir George Saville's house, insulted all the lords of Parliament, &c., &c. Many 
+have been killed, martial law proclaimed, many 
+hanged. Lord George Gordon committed to the 
+Tower for high treason, and where it will end, God 
+only knows. The mobs all cried, peace with America, and war with France. Poor wretches ! as if this were possible ! 
+</p><p>
+In the English papers they have inserted the death 
+of Mr. Hutchinson with severity, in these words. 
+" Governor Hutchinson is no more. On Saturday last 
+he dropped down dead. It is charity to hope that his 
+sins will be buried with him in the tomb, but they must 
+be recorded in his epitaph. His misrepresentations 
+have contributed to the continuance of the war with 
+America. Examples are necessary. It is to be 
+hoped that all will not escape into the grave with 
+out a previous appearance either on a gibbet or a 
+scaffold." 
+</p><p>
+Governor Bernard, I am told, died last fall. I wish 
+that, with these primary instruments of the calamities 
+that now distress almost all the world, the evils them 
+selves may come to an end. For although they will 
+undoubtedly end in the welfare of mankind, and accomplish the benevolent designs of providence towards 
+the two worlds, yet, for the present, they are not joyous but grievous. May heaven permit you and me 
+to enjoy the cool evening of life in tranquillity, undisturbed by the cares of politics or war, and above all, 
+with the sweetest of all reflections, that neither ambition nor vanity, nor avarice, nor malice nor envy, nor 
+revenge nor fear, nor any base motive or sordid passion through the whole course of this mighty revolution, and the rapid, impetuous course of great and 
+terrible events that have attended it, have drawn us 
+aside from the line of our duty and the dictates of 
+our consciences. Let us have ambition enough to 
+keep our simplicity or frugality, and our integrity, and 
+transmit these virtues as the fairest of inheritances to i 
+our children. 
+</p>
+</letter>

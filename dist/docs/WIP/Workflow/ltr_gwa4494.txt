@@ -1,0 +1,30 @@
+<letter id="gwa4494">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+Head-Quarters, near <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='29'>29</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+The last letter that I have had the pleasure of receiving from you is dated the 3d instant. I have 
+since that heard a thousand vague reports of your situation, and that of the enemy, but none of them satisfactory. I fear some of your letters have miscarried, 
+as, from your usual punctuality, I am certain you must 
+have written in that time. I hope your next will confirm the accounts, which I have this day received from 
+<a href='/results.php?tla=arc' rel='co-worker'>General St. Clair</a>, that Lord Cornwallis had retreated 
+to the south side of James River. 
+</p><p>
+The army moved out of their quarters a few days 
+ago, and have taken their first position on this ground. 
+<a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a>, with the van of the French 
+army, will be at Newtown, forty-two miles from hence, 
+this night. You are acquainted with our general plan. 
+Particulars I dare not enter into, before I am assured from yourself, that there is no danger of any letters fulling among those clouds of light troops, which you tell now surrounded Lord Cornwallis's army. I enclose 
+a paper, containing some very agreeable accounts from 
+India. I hope, from the circumstance of a part of 
+them being published by the East India House in 
+London, that they are well founded. Be assured, my 
+dear Marquis, that my anxiety to hear from you is 
+increased by my sincere regard for you, and by the 
+interest I take in every thing which concerns you. 
+Believe me to be, most affectionately, &,c. 
+</p>
+</letter>

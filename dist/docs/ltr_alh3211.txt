@@ -1,0 +1,59 @@
+<letter id="alh3211">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+Sir, 
+</p><p>
+I cannot forbear confessing, that I am astonished and alarmed 
+beyond measure, to find that all his Excellency's views have been 
+hitherto frustrated, and that no single step of those I mentioned 
+to you has been taken to afford him the aid he absolutely stands 
+in need of, and by delaying which, the cause of America is put 
+to the utmost conceivable hard. 
+</p><p>
+I so fully explained to you the General's situation, that I could 
+not entertain a doubt you would make it the first object of your attention to reenforce him with that speed the exigency of affairs 
+demanded ; but, I am sorry to say, he will have too much reason 
+to think other objects, in comparison with that insignificant, have 
+been uppermost. I speak freely and emphatically, because I 
+tremble at the consequences of the delay that has happened. 
+<a href='/results.php?tla=gec' rel='colleague'>General Clinton</a>'s reinforcement is probably by this time with 
+Mr. Howe. This will give him a decisive superiority over our army. What may be the issue of such a state of things, I leave 
+to the feelings of every friend to his country, capable of foreseeing consequences. My expressions may perhaps have more 
+warmth than is altogether proper; but they proceed from the 
+overflowing of my heart, in a matter where I conceive this Continent essentially interested. I wrote to you from <a href='/results.php?city=albany' rel='city'>Albany</a>, and desired you would send a thousand Continental troops of those first 
+proposed to be left with you. This, I understand, has not been 
+done. How the noncompliance can be answered to General 
+<a href='/results.php?city=washington' rel='city'>Washington</a>, you can best determine. 
+</p><p>
+I now, Sir, in the most explicit terms, by his Excellency's 
+authority, give it as a positive order from him, that all the Continental troops under your command may be immediately marched 
+to King's Ferry, there to cross the river, and hasten to reenforce 
+the army under him. 
+</p><p>
+The Massachusetts militia are to be detained instead of them, 
+until the troops coming from the northward arrive. When they 
+do, they will replace, as far as I am instructed, the troops you 
+shall send away in consequence of this requisition. The General's idea of keeping troops this way does not extend farther than 
+covering the country from any little irruptions of small parties, 
+and carrying on the works necessary for the security of the 
+river. As to attacking <a href='/results.php?city=new york' rel='city'>New York</a>, that he thinks ought to be 
+out of the question at present. If men could be spared from the 
+other really necessary objects, he would have no objections to at 
+tempting a diversion by way of <a href='/results.php?city=new york' rel='city'>New York</a>, but nothing farther. 
+</p><p>
+As the times of the Massachusetts and New Hampshire militia 
+will soon expire, it will be proper to call in time for a reenforcement from Connecticut. <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> will do all in his 
+power, to promote objects in which the State lie commands in i&gt; 
+so immediately concerned. Generals Glover's and Patterson's brigades are on their way down. The number of Continental troops 
+necessary for this post will be furnished out of them. 
+</p><p>
+I cannot but have the fullest confidence you will use your utmost exertions to execute the business of this letter ; and I am, 
+with great respect, Sir, 
+</p><p>
+Your most obedient, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

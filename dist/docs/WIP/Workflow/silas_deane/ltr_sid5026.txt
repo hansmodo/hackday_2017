@@ -1,0 +1,22 @@
+<letter id="sid5026">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='6'>6th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+The bearer, Mons. Holtzendorff, is a Prussian officer, 
+who served the last war in Germany, and with reputation. 
+Gentlemen of first character in the army here have recommended him, as an excellent officer both for skill and bravery. I take therefore the liberty of recommending him 
+to the service of the United States. He leaves a Major's post there in the army of France, hoping by his services in 
+America to advance himself beyond what he can expect in Europe in a time of peace. I shall as soon as possible send 
+you a particular account of all my proceedings to the time 
+of the arrival of <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a>, which I have in a great measure done already, though in detached parts in different 
+letters, some of which may undoubtedly miscarry. 
+I am, with much respect, he. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

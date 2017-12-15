@@ -1,0 +1,671 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.EvZpgH on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--gec
+--DOC-AUTHOR-FIRST--George
+--DOC-AUTHOR-LAST--Clinton
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="gec3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I was not honored with the receipt of your Excellency's letter of the 3d instant, before Friday last. I 
+am truly sensible that the security of the North 
+River is a matter of the utmost importance to the 
+United States in the present war, and that the safety 
+of this State in a more particular manner depends 
+upon it. It gives me real concern, therefore, that so 
+little has been yet done to effect it. Works we laid 
+out, and began, to defend the chevaux-de-frise, and 
+something was done towards finishing and sinking 
+such of them as were not completed when the enemy 
+came up the river; and these are the only steps that 
+have hitherto been taken. 
+</p><p>
+When the enemy left the river, it was my opinion 
+that as many of the troops from the Northern Department should be sent to reenforce the Grand Army 
+under your Excellency's more immediate command, as 
+could be possibly spared ; that no greater number 
+should be left in this quarter than what would be 
+barely sufficient to cover the country, which is more 
+immediately exposed to the ravages of the enemy ; to 
+amuse them from sending large reinforcements to 
+General Howe ; and to carry on the necessary works 
+for the security of the river. One brigade of Continental troops, with the militia then in service, and 
+such of this State as I should be able to call out, I 
+conceived fully sufficient for the purposes. Two small 
+New Hampshire militia regiments, which were sent 
+down from the northward by <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, about 
+seventy Connecticut militia, and those of Colonel Dubois's, who escaped from Fort Montgomery, and a 
+regiment of militia of this State, were assigned for 
+the works. The rest of the troops, consisting of 
+General Warner's brigade of militia (which arrived 
+earliest), General Parsons's brigade, and some Connecticut militia, were drawn off to King's Street and 
+the adjacent neighbourhood on the Sound, under the 
+immediate command of <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>. 
+</p><p>
+It was late before the militia from the northward 
+arrived, and they were worn out with the fatigues of 
+the campaign and their long march hither. The time 
+for which they were engaged in the service expired 
+the 1st of this month, and of those of this State the 
+15th; and while they were with us, the want of tools 
+and materials was such as to prevent their being employed to any degree of advantage. Dubois's regiment are the only troops on the spot at present, 
+which are by no means sufficient to mount the necessary guards. Of course the works are entirely 
+neglected. 
+</p><p>
+The resolutions of Congress, of the 5th of November, for regaining the forts and passes on Hudson's 
+River, and securing the communication thereof, vested 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> with such ample powers for drawing 
+supplies of men and materials from New Jersey, and 
+the different States eastward, that something essential 
+might yet have been done towards the completion of 
+this important business before the opening of the 
+spring, would he have taken upon himself the direction of it. But, as I understand that gentleman pro 
+poses taking his seat at the Board of War, agreeably 
+to his late appointment, those resolutions, as they apply to him particularly, will lose their intended effect ; 
+and, though I learn by a letter I received from <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, accompanying that from your Excellency, 
+that he is directed to turn his views in future to this 
+object, yet, however capable he may be for the task, 
+I fear he will fall short in the execution of it, unless 
+he shall be able to command the same aids, at least, 
+which <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> was empowered to do. 
+</p><p>
+I am clearly of the opinion, that a strong fortress 
+ought to be erected either on the opposite side of 
+the creek from where Fort Montgomery stood, or 
+at <a href='/results.php?city=west point' rel='city'>West Point</a>, opposite Port Constitution. The latter I prefer, as the most defensible ground, and be 
+cause the navigation of the river there is more difficult and uncertain, and the river something narrower 
+than it is at the former place. A new chain should 
+be procured, if possible, and with the boom, which is 
+nearly completed, stretched across the river. This, 
+with a floating battery or two, and some gun-boats, 
+I am persuaded, would answer the purpose effectually; 
+and in this 6 pinion I am confirmed, as the enemy 
+chose to risk every thing for the reduction of Fort 
+Montgomery, rather than to attempt passing it with 
+their shipping, while in our possession. If <a href='/results.php?city=west point' rel='city'>West Point</a> 
+should be the place fixed upon, it might be of 
+great advantage to erect a small strong work on the 
+high point on the opposite shore, a little above Fort 
+Constitution. 
+</p><p>
+As to the management in this department, of which 
+your Excellency desires my sentiments, I am con 
+strained to say (but I wish it may be considered as in 
+confidence) we have either been very unfortunate, or 
+it has not been as wise as might be wished. Prudent 
+management of our small force, in my humble opinion, would have saved the forts, though, perhaps, 
+with the far less important loss of the Continental 
+Village. By losing the forts, the Village fell, of course. 
+It is true a few stores were moved from thence, and 
+saved, but I dare say not of equal value with those 
+lost at the forts, exclusive of the shipping. Besides, 
+had we held the forts, we should have commanded 
+the navigation of the river, and drove the enemy to 
+the necessity of attempting to relieve Burgoyne (for 
+it is evident that this was their intention) by land, 
+in which case it might have been in our power, by 
+calling the militia to our assistance, to have destroyed 
+Clinton's whole army. Indeed, without opposition they 
+could not have effected a march in season for the in 
+tended purpose, and I am confident they never would 
+have attempted it. 
+</p><p>
+I never considered <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, or the Village, posts 
+of great importance, only as they stood connected 
+with the defens of the river ; for, without the latter, 
+the enemy could, by landing above, come in the rear of the former, in which case they must fall, of course. 
+The event has fully proved this. Notwithstanding, 
+the chief part of this department were kept idle at 
+<a href='/results.php?city=peekskill' rel='city'>Peekskill</a> and the Village, while the forts were left 
+without a sufficient number of men to carry on and 
+complete the works, or defend them. If the shipping had been properly manned, and this was often solicited,, the Congress, at least, might have been saved ; 
+and even after the loss of the forts, by a prudent 
+disposition of the force in this quarter, which was 
+soon greatly increased by the coming in of the militia, <a href='/results.php?city=kingston' rel='city'>Kingston</a> might have been saved, and the greater 
+part of the mischief, committed by the enemy along 
+the shores of the river, prevented. 
+</p><p>
+A constant intercourse, which has been permitted 
+between the country and city, by flags, has, I fear, 
+been very injurious, as well by frequently enabling 
+the enemy to learn our strength, as otherwise, without 
+our being able to derive similar advantages from such 
+correspondence. I have heard that there has been a 
+weekly exchange of newspapers with Governor Tryon, 
+and that the printers, Gaine and London, are permit 
+ted the like liberty. The latter I have no doubt of. 
+An over share of complaisance and indulgence to the 
+disaffected, (which, though arising from principles of 
+benevolence and humanity, will always create jea 
+lousies and unfavorable suspicions, especially among 
+the common people, and often even reach the army,) 
+should, therefore, be carefully avoided. In these respects, I cannot help thinking there has been a want 
+of common prudence. I have taken the liberty of 
+hinting my sentiments of these matters to General 
+Putnam, and I would fain hope that there may be 
+more circumspection used in future. 
+</p><p>
+The Legislature of this State is to meet at this 
+place on the 5th of next month. The variety of important business to be prepared for their consideration, and other affairs of government, will employ so 
+great a part of my time, that I should not be able 
+to give that attention to the works for the security 
+of the river, as their importance, and the short time 
+in which they ought to be completed, require. But 
+you may rest assured, Sir, that every leisure hour shall be faithfully devoted to them, and my advice 
+and assistance shall not, for any consideration, be 
+withheld from the person who shall be intrusted with 
+the chief direction of them. I have the honor to be, 
+with the most sincere esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have received your letter of the 23d instant, 
+inclosing one to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, which I immediately forwarded to him. I am sensible that, however 
+distressing the situation of our western frontier may 
+be, your Excellency has taken every method to afford it security that is in your power, consistent 
+with the general good of the service. I would not 
+wish, therefore, that any representation of mine should 
+occasion a diminution of your present force ; and, as 
+Colonel Graham's regiment is composed of men who 
+are intimately acquainted with every part of the 
+country between the enemy's lines and yours, and 
+may be of peculiar service where they now are, I 
+would beg leave to submit to your Excellency's further consideration, whether it would not be most advisable to continue it with you at present; in which 
+case, I will endeavour to call out a larger proportion 
+of the militia for the defence of the frontiers. This, 
+I think, the militia ought cheerfully to submit to, as, 
+if they were not required for that service, it would 
+be but reasonable that they should march to reenforce the army under your Excellency's immediate 
+command. 
+</p><p>
+I have already ordered out one fourth part of the 
+militia of Orange and Ulster to the western frontier 
+of those counties, who will amount to near six hundred men, and have directed them to take their stations so as to secure the most important passes leading into the settlements. If they do this, and are 
+vigilant, I trust that part of the country will experience a degree of safety. In addition to this, I have 
+issued positive orders to Brigadier-General Ten Broeck, 
+and the commanding officers of the several regiments 
+in Tryon county, to detach one fourth of their militia 
+(such regiments as may be necessary for the safety 
+of the northern frontier excepted) for the protection 
+of the western frontier in that quarter, and to act 
+under and assist Colonel Butler in any offensive operations which may be thought necessary to be carried on by him against the enemy. 
+</p><p>
+Colonel Butler (whose march, on receiving the intelligence I lately transmitted to your Excellency, I 
+wished to be hastened) was this morning at New 
+Windsor, and will proceed directly to <a href='/results.php?city=albany' rel='city'>Albany</a>, and 
+from thence to Schoharie or Cherry Valley, as General Stark (whose department he will then be in) 
+shall direct; and, if joined by Alden's regiment, and 
+the detachment of militia which I have ordered out, 
+they will form a pretty respectable force in that 
+quarter. In the mean time, if I should receive any 
+new intelligence that may render its augmentation 
+necessary, it shall immediately be communicated to 
+your Excellency. I propose, if nothing extraordinary 
+happens to prevent it, to do myself the pleasure of 
+waiting on your Excellency next week. I am, with 
+the highest esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have had the honor of receiving your Excellency's letters of the 4th and 6th instant, and am 
+happy in being thereby enabled to give such general 
+assurances of protection to the frontier inhabitants as, 
+I have reason to hope, will prevent their deserting 
+their settlements. This your Excellency may be as 
+sured will be done, with the utmost regard to that 
+secrecy which is necessary to insure success in offensive operations ; and, therefore, the greatest care 
+will be taken not to give them the most remote idea 
+of any such intention. 
+The Legislature, before they adjourned, empowered 
+me to embody one thousand men for the defence of the 
+northern and western frontiers, or such other service 
+as I should judge proper to employ them in. This 
+was the most they conceived the State, under its 
+present distressed situation, was able to raise ; and 
+the greater part of them were intended to join the 
+troops to be employed in defensive operations against 
+the savages. Since the rising of the Legislature, I 
+have received the resolve of Congress for filling up 
+the Continental battalions ; and this will put me under the necessity of taking at least one half of these 
+levies for the purpose, as it would be impracticable 
+to convene the Legislature in season to make any 
+new provision for that service, even though our circumstances would admit of it. 
+</p><p>
+I do not imagine we shall be able to derive any 
+considerable force from the inhabitants, whose settlements have been destroyed. Their losses and consequent distresses are so great, that it requires the ut 
+most industry to support their families ; and the pay 
+in the army, considering the depreciated state of our currency, would not be competent for this purpose. 
+The most of their young men are already engaged in 
+the Continental battalions. Some, however, from a desire of revenge for their losses, will, at all events, 
+engage ; and the neighbourhoods that have been less 
+distressed will furnish a considerable proportion, who, 
+being as well acquainted with the country, will be 
+equally serviceable. 
+</p><p>
+In order to deceive the enemy into a belief that 
+we intend acting on the defensive only, I submit to 
+your Excellency the propriety of erecting one or two 
+small posts on the nearest navigable waters of the 
+Susquehanna, They would not only answer the 
+above purpose, but serve also as a security to the 
+settlements, and, of course, induce the militia to engage in the service with greater alacrity. I am not 
+sufficiently acquainted with the country to determine with certainty the particular places best calculated 
+for such posts ; but, from the general idea I have of 
+the country, I am led to believe that Unadilla, and 
+where the Susquehanna empties out of the Lakes 
+west of Cherry Valley, would be the most eligible. 
+These posts might be maintained by militia, at least 
+while the other troops were employed in offensive 
+operations. I have the honor to be, with the highest esteem and regard, dear Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I was honored with your Excellency's confidential 
+letter of the 3d instant on the 12th, at <a href='/results.php?city=kingston' rel='city'>Kingston</a>, 
+whither I was called by an alarm on the frontiers 
+of Ulster county, occasioned by the appearance of 
+about one hundred Indians and Tories, at Shendeacon, a small settlement in the gorge of the mountains, 
+about twenty miles west of <a href='/results.php?city=kingston' rel='city'>Kingston</a>, and twelve 
+from Marbletown. They were joined at this place by 
+twenty-seven Tories from the east of Hudson's River. 
+mostly Hessian deserters from the Convention troops. 
+The sudden assembling of the militia deterred them 
+from penetrating farther into the country, and prevented them from doing any material injury. 
+</p><p>
+It is needless to remark to your Excellency, that 
+the execution of military business by militia officers 
+is (from the want of activity and knowledge) seldom 
+attended with the necessary despatch. Add to this, 
+the raising of the levies for the defence of the fron 
+tiers, and for filling up the Continental battalions, 
+has been unavoidably much interrupted and retarded, 
+in the frontier regiments, by almost continual alarms, 
+since the departure of Colonel Cortlandt's regiment 
+from the former station. I have, therefore, found it 
+necessary to order the levies in this county to rendezvous on the western frontiers of Ulster and Orange 
+counties, to serve as a cover to the settlements, and 
+to afford the militia leisure to make their drafts. The 
+officer who commands them has orders, the moment 
+this is accomplished, to forward such part of them as 
+are to be annexed to the Continental battalions, with 
+such additional number as can be spared, consistent 
+with the security of the frontier settlements in that 
+quarter, to <a href='/results.php?city=albany' rel='city'>Albany</a>, by detachments, without the least 
+delay. From the best information I have been able 
+to obtain, there is a collection of Indians (consisting 
+of those who are called Esopus Indians and other 
+stragglers) and Tories, at Shohawken and Kollitye, 
+on the Delaware, at one of which places it is said 
+they have erected a block-house, or some other small 
+works of defence. Our accounts were, that they consisted of upwards of one hundred, and we have the 
+best evidence of their having been lately joined by a very considerable additional number of Tories and 
+deserters. It is this banditti, that have committed 
+the most of the mischiefs which have been done in 
+the counties of Ulster and Orange, and have occasioned all the late distressing alarms. They are supplied 
+with provisions from the different settlements on the 
+Delaware by the disaffected inhabitants who live on 
+the frontiers. They are perfectly acquainted with the 
+back country, and, I am apprehensive, will be very 
+troublesome, by rendering the supplies to our western 
+army precarious, and by keeping the back settlements 
+in perpetual apprehensions of danger. 
+</p><p>
+The amazing tract of uninhabited and mountainous 
+country, which lies between the intended route of 
+our army and the western settlements, will afford 
+them a secure asylum, as long as they can procure 
+provisions. I would therefore submit to your Excellency the propriety of marching a body of men into 
+these parts, sufficiently large to scour that country, 
+and rout the enemy there, and destroy the settlements which feed and harbour them. As these settlements are scattered and remote from each other, 
+and as the enemy may be succoured from the contiguous Indian settlements on the Suscjuehanna, not 
+less than five hundred men will be competent to 
+perform this business effectually. If the measure is 
+approved by your Excellency, I will most readily 
+furnish that number from the militia for this short 
+service, and undertake to conduct the business my 
+self. Nothing will be wanted, but the means of 
+transporting about ten days or two weeks provision, 
+and some other little matters from the Quarter-master's department, which cannot be obtained otherwise, 
+and which, I presume, may be spared from thence, 
+without inconveniency, for so short a period. The 
+horses wanted may either be impressed in the country by the Quarter-master, or, if purchased, returned 
+before the campaign is fairly opened on the sea-coast. 
+I am the more desirous of having this business 
+accomplished, as it will relieve the inhabitants of the 
+frontier settlements from any farther apprehensions of 
+danger, and induce many, who have already abandoned 
+their farms, to return to them, and also enable us to 
+spare a greater proportion of the levies, raised for 
+the defence of the frontiers, who are now stationed 
+at the different passes, where they at best afford but a very partial security, for active service. It may 
+be thought most advisable to delay the matter until 
+the army, intended for the western service, begin to 
+move ; in which case this may serve as a favorable 
+diversion. The intermediate time may be only sufficient to get out the men and make the necessary 
+preparations. I have the honor to be, with the most 
+perfect respect and esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have to acknowledge the receipt of your Excellency's favors of the 26th ultimo and 12th instant. 
+Two days before the former came to hand, I received 
+the act of Congress respecting the troops proposed to 
+be raised for the defence of our frontiers. Some considerable time will necessarily elapse before they can 
+be embodied ; and, as the enemy have already appeared at different times and places on the northern and 
+western frontiers, I am very apprehensive that, in 
+the interim, the more remote settlements will be 
+abandoned. Every measure will be used to expedite 
+this business, and your Excellency will have the earliest information of the disposition which, in consequence of your letter, I shall cause to be made of 
+these levies. 
+</p><p>
+The act of Congress, of the 26th of last month, respecting the quotas of supplies for the army, to be 
+furnished by the different States, was not received 
+until some days after the rising of the Legislature. 
+This, together with some other important matters 
+from Congress, has induced me to call them together 
+at an earlier day than that to which they stand adjourned; and I have accordingly issued my proclamation for convening them at <a href='/results.php?city=kingston' rel='city'>Kingston</a> on the 9th of 
+next month, when this business will be submitted 
+to their consideration. In the mean time, I think it 
+my duty to inform your Excellency, that, in consequence of the several laws which have been enacted 
+for obtaining supplies of provision and forage for the 
+army, this State is so exhausted, that I am persuaded there is not more grain and meal left in possession of the farmers, than a bare competency for the 
+support of its inhabitants until the new crop comes 
+in ; and with respect to forage, few of the farmers 
+have a sufficiency to bring their stock through until 
+grass. Should, therefore, the present supplies, besides 
+what are already in the hands of the public officers, 
+be wanted before harvest, they are not to be had in 
+this State. I should have written to your Excellency 
+earlier on this subject, but I did not receive your letter until a few days ago. I have the honor to be, 
+with the highest sentiments of respect and esteem, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=kingston' rel='city origin'>Kingston</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your Excellency's letter of the 10th instant, ad 
+dressed to Lieutenant-Governor Cortlandt, was delivered to me yesterday evening, and I immediately for 
+warded, by express, your letter to Brigadier-General 
+James Clinton, and urged him to the utmost expedition in his march to <a href='/results.php?city=west point' rel='city'>West Point</a>. I inclose your Excellency a copy of a letter from my brother, of 
+the 10th instant, giving the particular disposition of 
+the regiments of his brigade, by which it appears, 
+that Colonel Gansevoort's was employed in escorting a supply of provisions to Fort Schuyler. As this appeared to me to be a business of too much importance to admit of delay, or be intrusted to the care 
+of a weak party, I have therefore taken the liberty 
+of advising him to continue this regiment on that 
+service until it shall be accomplished, which, I hope, 
+will meet your Excellency's approbation. 
+</p><p>
+I am apprehensive that the other three regiments 
+(they having, previous to the receipt of your Excellency's order, marched to the respective stations mentioned in my brother's letter) will not be able to 
+reach <a href='/results.php?city=west point' rel='city'>West Point</a> on as early a day as might have 
+been expected. The militia, in the vicinity of the 
+posts in the Highlands, were, before I left <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a>, put under orders to hold themselves in constant readiness to take the field on the shortest notice ; and, on the signals of alarm being given, those 
+on the west side of the river are to repair to West 
+Point, and those on the east side are to rendezvous 
+at <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>, and there wait for further orders. Of this 
+I apprised General Howe at the time. I now write 
+to him on the subject; and, if it should be thought 
+necessary by your Excellency, I will immediately 
+order such part of them to <a href='/results.php?city=west point' rel='city'>West Point</a> as your Excellency or General Howe may direct, until the arrival of <a href='/results.php?tla=gec' rel=''>General Clinton</a>'s brigade. 
+</p><p>
+Your Excellency's several letters of the 23d and 
+28th ultimo, and 2d instant, were received and opened by Lieutenant-Governor Cortlandt, in my absence, 
+and such of them as were proper to be communicated to the Legislature, with the letters from the 
+Committee of Congress, of the 25th ultimo, were laid 
+before them; and I am happy in being able to as 
+sure your Excellency, that they give me reason to 
+hope that they will yield a compliance with the requisitions made of this State, on this important occa 
+sion, except in the article of forage, of which this 
+State is entirely exhausted. 
+</p><p>
+The moment I closed my last letter to General 
+Schuyler, which has been communicated to your Excellency, I embarked for <a href='/results.php?city=albany' rel='city'>Albany</a>, with an intention 
+to intercept the enemy, under Sir John Johnson, in 
+their retreat from Tryon county, or to succour Fort 
+Schuyler, if invested, which I then apprehended might 
+have been the case. On my arrival at <a href='/results.php?city=albany' rel='city'>Albany</a>, I soon 
+had reason to believe that the report of a force having marched against that post was merely calculated 
+to favor Sir John Johnson's incursion ; and, as the 
+militia had collected, he had retired about six miles 
+from Johnstown, and was preparing to return to Canada by a route more northward than that by which 
+he entered the country. I therefore directed Colonel 
+Van Schaick, who was at Fort Hunter, to march for 
+ward and hang close upon and harass his rear, to 
+afford time for me to gain his front with the militia, 
+to the north of <a href='/results.php?city=albany' rel='city'>Albany</a>, which I expected to be able 
+to effect, by striking into Jessup's Patent from Fort Edward. But, before my letter reached Colonel Van Schaick, the militia in that quarter, being out of 
+provisions, and finding Sir John retiring, were returning home, which was also the case with those who 
+assembled, and I expected to find at <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>. 
+</p><p>
+Under these circumstances, I found it necessary to 
+alter my plan, to that of passing Lake George, and 
+meeting the enemy on the borders of Lake Champlain, which (as the enemy appeared to be much 
+fatigued by their long march, and it was to be presumed would move slow as soon as they were advanced such a distance as to conceive themselves out 
+of danger) I conceived might still be practicable. I 
+accordingly reassembled the militia, and, with the 
+levies stationed at <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, and a detachment of 
+Warner's regiment, crossed Lake George. But, though 
+I had a force, superior to that of the enemy, advanced as far as Bulwagger's Bay, below Crown Point, 
+the place at which the enemy embarked, within eight 
+days after my leaving this place, I was so unfortunate as to find (judging by the information of our scouts, and by the appearance of the bushes and 
+bark the enemy had prepared to hut themselves, but 
+did not put up, and by other marks as well as the 
+sailing of their vessels) we were about six hours too 
+late. 
+</p><p>
+I would fain hope, however, that the attempt, though 
+unsuccessful, may be attended with the good effect 
+of deterring the enemy from a similar enterprise, as 
+it will, at least, discover to them the danger which 
+may attend it. I think it my duty to inform your Excellency that, on my request, I was joined by a 
+party of two hundred and forty of the militia of the 
+Grants, under Colonel Warner and Major Allen, whose 
+behaviour on this occasion, in every respect, was very 
+agreeable to me. I beg your Excellency will pardon me in troubling you with this long detail, as I 
+wish it only to be received as an apology for not 
+succeeding in an attempt which I gave you reason to 
+believe was practicable, and which undoubtedly might 
+have been effected had I found matters in the train 
+I had reason to expect. I have the honor to be, 
+with the greatest respect and esteem, dear Sir, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3206">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>. <a href='/results.php?year=1777' rel="origin">1777</a>.
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Immediately after our late misfortune at Fort Montgomery, I 
+wrote the Legislature of this State the particulars, requesting 
+them, without delay, to forward them to you. My hurry, at that 
+time, and since, prevented my answering your favor of the 4th 
+instant until now ; since which, the enemy have taken possession 
+of Fort Constitution, and are, at this time, riot far below the clievaux-dc-frise. 
+My guards fell in with, and took two spies from General Clin 
+ton, going to Burgoyne. One of them confessed, that his orders 
+were to make all possible despatch, and inform <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> that he had got Fort Montgomery, the key of America, and that 
+he was prepared to weigh the chevaux-de-frise ; and that he, Burgoyne, might now proceed, as all obstacles in the river were re 
+moved, lie further says, that Clinton is determined to push up 
+the river to relieve Burgoyne from his present difficulty. The 
+inclosed confession of Taylor will give you some idea of their 
+past manoeuvres and future intentions. 
+</p><p>
+If I have been rightly informed, your army is now so numerous that you can with safety order a part of it to establish a 
+post at, or this side, <a href='/results.php?city=albany' rel='city'>Albany</a>. In that case, if they move up, 
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, who is collecting a large body of the Connecti 
+cut militia on the opposite shore, will be able to join them. I 
+shall endeavour to keep between them and your army, with two 
+Continental regiments and some militia; and I hope, by this 
+means, to keep them from <a href='/results.php?city=albany' rel='city'>Albany</a>. Indeed, I am sure it can 
+be done, provided you establish a post on this side for us to 
+retire to. I cannot, at present, ascertain the number lost at Fort 
+Montgomery. My brother, <a href='/results.php?tla=gec' rel=''>General Clinton</a>, who received a wound 
+in his thigh, with a number of other officers, and two hundred of 
+Dubois's regiment, made their escape after the enemy were in 
+possession of the fort, and have come in safe. 
+</p><p>
+"We have just received intelligence that General <a href='/results.php?city=washington' rel='city'>Washington</a> 
+attacked the enemy, last Saturday, on Chestnut Hill, near <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, defeated, and drove them through Germantown. Night 
+coming on, he withdrew, and renewed the attack early on Sunday 
+morning, and had gained the victory.* We have as yet received 
+no authenticated accounts of the action. 
+</p><p>
+Colonel Lamb, and most of his officers who were with me at 
+the fort, also escaped. 
+</p><p>
+I am, dear Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3207">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+<a href='/results.php?city=marbletown' rel='city origin'>Marbletown</a>, seven miles from <a href='/results.php?city=kingston' rel='city'>Kingston</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received your favor of the 16th. I am sorry to inform you, 
+that by a letter from <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, of the 15th, the enemy had 
+not surrendered. You do me the honor to ask my opinion respecting your future movements. It is needless and impossible 
+for me to advise; because, having once settled our plan and 
+afterwards deviated from it, the concerting any future measures 
+might be productive of ruin to one of us, if deprived of those 
+succours and that support, which form a part of the general plan 
+of operations. My opinion of your attack at King's Bridge is, 
+that it will be utterly inefficacious. 
+</p><p>
+For the rest, as your operations must be governed by circum 
+stances, I can only inform you of facts. <a href='/results.php?city=kingston' rel='city'>Kingston</a> was burnt yesterday afternoon, because I had not troops to defend it. Two 
+prisoners tell me that <a href='/results.php?city=albany' rel='city'>Albany</a> is the enemy's object. If I ad 
+vance much farther northward, it will be in the power of the 
+enemy to ruin my little corps by landing above and below me, 
+as I shall then have the Catskill Mountains to the west, and 
+Hudson's River to the east. I expect every instant to hear that 
+Rhinebeck is in flames. I have the honor to be, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+P. S. I trust you must have received <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s letter 
+of the 13th, of which he sent me a copy, in which he approves 
+of the plan of removing our armies up the river on each side. 
+</p>
+</letter><letter id="gec3208">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+<a href='/results.php?city=pleasant valley' rel='city origin'>Pleasant Valley</a>, <a rel="day origin" value="27">27</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I am favored with yours of this date. I flattered myself I 
+should have had the pleasure of seeing you ere now, as, when I 
+left <a href='/results.php?city=kingston' rel='city'>Kingston</a>, it was my principal business ; and, though it was 
+dark when I crossed the river, I reached <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a> that 
+night, when in hopes to have overtaken you there, but was too 
+late, as you had left that the preceding day. Ever since I have 
+been here, I have been so unwell as not to dare venture out, 
+considering the badness of the weather; but the moment the rain 
+ceases, I will set out for your quarters. 
+</p><p>
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, in his letter of the 24th instant, gives me rea 
+son to believe a large part of his army are on the move down 
+each side of the river. Part of them had reached Hurley yesterday. He supposed the enemy yet to be up the river near <a href='/results.php?city=red hook' rel='city'>Red Hook</a>, and intended to retake Fort Montgomery before they 
+could get down to reenforce it. For this purpose he was for 
+warding a considerable train of artillery, and asked an interview 
+with me at Coeyman's, this side of <a href='/results.php?city=albany' rel='city'>Albany</a>, yesterday. I could 
+not attend then for the reasons above, but wrote him, informing 
+him of the different situation of the enemy, which will, of course, 
+alter his intended plan. At the same time I suggested it as my 
+opinion, that the enemy would not now attempt any thing capi 
+l up the river this season, but detach their main force to 
+strengthen Howe at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, to which grand scene we undoubtedly ought to turn our chief attention, for on our successes there every thing worth regarding depends. 
+Yours, sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter><letter id="gec3209">
+<recipient first="Horatio" last="Gates"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, ten o'clock at night, <a rel="day origin" value="30">30</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I arrived here about noon, when I met your favor of the 25th 
+instant. My letter of the 20th, informing you of the enemy's 
+fleet having fallen down below <a href='/results.php?city=new windsor' rel='city'>New Windsor</a>, must have reached 
+you before this. I have, therefore, only to add, that the enemy 
+have demolished Fort Montgomery, and all the other posts in the 
+Highlands, and moved down with their whole force towards New 
+York ; and to ask how I am to dispose of the troops belonging 
+to your department, which you have been so good as to place 
+under my direction. As it is probable <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> may 
+think it prudent to make an attempt against <a href='/results.php?city=new york' rel='city'>New York</a>, I am 
+the more anxious to have your directions in this respect, that I 
+may govern myself accordingly. I am, with the highest esteem 
+and respect, 
+</p><p>
+Your affectionate, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p><p>
+P. S. Your troops had not reached <a href='/results.php?city=new windsor' rel='city'>New Windsor</a> yet. The 
+last I heard of them, they were at <a href='/results.php?city=kingston' rel='city'>Kingston</a>, since which, to this 
+day, I believe the weather has prevented their moving. 
+</p>
+</letter>

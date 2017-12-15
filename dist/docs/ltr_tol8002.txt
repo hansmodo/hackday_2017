@@ -1,0 +1,22 @@
+<letter id='tol8002'>
+<recipient first='John' last='Parrot' type='individual'/>
+<p>
+Consulate of the United States, 
+</p><p>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, California, <a rel="month origin" value="3">March</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : Enclosed with this, you will receive several copies of correspondence in this town, for the present week ; also an official letter for the captain 
+of any of our ships of war you may have in your port on your receiving this letter. It is impossible to say whether <a href="/results.php?tla=jsc" rel="adversary">Senor Castro</a>, the prefecto, and 
+the general will attack <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> ; we expect such will be the case. I am just informed by Senor Arce, the general's secretary, who has just 
+come in from the general's camp (St. John's), that the whole country will be raised to force <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, if they require so many. Senor Arce 
+further says, the camp of the Americans is near Mr. Hartnell's rancho, on a high hill, with his flag flying ; of the latter I am not certain. As you are 
+acquainted with this country, and its people, you will advise with our naval captains on the subject of sailing immediately for this port. If the vessel is 
+not actually obliged to go elsewhere, it is my earnest desire she sails for Monterey on the receipt of this, although everything may end peaceably amongst us. 
+</p><p>
+Believe me to be, yours, sincerely, 
+</p><p>
+(Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p><p>
+To John Parrott, Esq., United States Consul, Mazatlan. 
+</p>
+</letter>

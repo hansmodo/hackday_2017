@@ -1,0 +1,35 @@
+<letter id="gom4696">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Shortly after the intelligence of hostilities by the Algerines, 
+I applied to the Minister of Foreign Affairs, as being interested in putting a stop thereto, in order to cover the arrival 
+of provisions in our ships. It was agreed that the Republic 
+should, in conformity to our, treaty, endeavor to obtain a 
+treaty for us with the Algerines. But as it was uncertain 
+whether the Dey would negotiate such treaty with the agents 
+of France, I was desired to name one for the United States. 
+</p><p>
+I therefore stated my want of power ; but it being impossible to get a seasonable answer from America to letters on the 
+subject, I agreed to make the appointment of a person, who 
+should come forward in case of necessity. I accordingly 
+have sent M. James Leray, a naturalized citizen of America, 
+to accompany the French Commissioners. He will appear 
+as a Frenchman, unless circumstances call for the production 
+of his powers. My instructions to him, after stating my want 
+of authority, are, in substance, to aid in obtaining the best 
+possible treaty for the smallest possible sum, and to confine 
+the duration thereof to one year, unless approved of by the 
+President, and to procure the liberation of our captivated fellow citizens. 
+</p><p>
+The French Commissioners are not yet gone, though it is 
+now two months since everything was agreed on. Such are 
+the delays, which result from the disorganized state of affairs 
+in this country. I am, &tc. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

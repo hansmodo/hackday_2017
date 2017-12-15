@@ -1,0 +1,77 @@
+<letter id="alh3413">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+SIR, 
+</p><p>
+I am extremely sorry to have embarrassed you by my 
+late application, and that you should think there are insuperable obstacles to a compliance with it. Having renounced my expectations. I have no other inducement for 
+troubling your excellency with a second letter, than to obviate the appearance of having desired a thing inconsistent 
+with the good of the service, while I was acquainted with 
+the circumstances that made it so. 
+</p><p>
+I was too interested a spectator of what happened in the 
+case of Major McPherson, not to have remarked, and not 
+to recollect, all the circumstances. The opposition turned, ostensibly, on his being a brevet officer, yet having a command in a corps formed entirely from one line ; the propriety of his being employed in a detachment from the army at large, so far as I remember, was not disputed. In 
+delicacy to Major McPherson, no personal objections were 
+formally made, but in reality they existed and contributed 
+to the discontent. It was thought a peculiar hardship, that 
+a gentleman who had, for a long time, fought against us, 
+and had not taken part with us till a late period, and when 
+our affairs had assumed a more prosperous aspect, should 
+be preferred in one of the most honorary commands of the 
+service. Your excellency must be convinced, that I mention this in no other view than to show the sentiments of 
+the officers at the time, and the whole grounds of the opposition. My esteem for Major McPherson, and other reasons, make it impossible I can have a different intention. 
+</p><p>
+I know less of the motives of dissatisfaction in the cases 
+of Colonel Gimat and Major Galvan ; but I have understood, that it is founded on their being appointed in the light 
+corps for two successive campaigns. 
+</p><p>
+It would be uncandid in me not to acknowledge, that I 
+believe a disposition to exclude brevet officers in general 
+from command, has a great share in the opposition, in every 
+instance, and that so far it affects my case. But, at the same 
+time, it appeans to me, this principle alone can never be productive of more than momentary murmurs, where it is not 
+seconded by some plausible pretext. I also am convinced, 
+that the Pennsylvania officers, for their own sakes, repented 
+the rash steps they had taken, and, on cool reflection, were 
+happy in an opportunity to relinquish their menaces of quitting a service to which they were attached by habit, inclination, and interest, as well as by patriotism. I believe, too, 
+we shall never have a similar instance in the army, unless 
+the practice should be carried to excess. Major Galvan, I 
+am told, will probably be relieved. Colonel Gimat will be 
+then the only brevet officer remaining in command. Your 
+excellency is the best judge of the proper limits; and there 
+can be no doubt, that the rights of particular officers ought 
+to give place to the general good and tranquillity of the service. 
+</p><p>
+I cannot forbear repeating, that my case is peculiar, and 
+dissimilar to all the former ; it is distinguished by the circumstances I have before intimated, my early entrance 
+into the service, my having made the campaign of '76, 
+the most disagreeable of the war, at the head of a company 
+of artillery, and having been entitled, in that corps, to a 
+rank, equal in degree, more ancient in date, than I now possess, my having made all the subsequent campaigns in 
+the family of the commander-in-chief, in a constant course 
+of important and laborious service. These are my pretensions, at this advanced period of the war, to being employed 
+in the only way which my situation admits ; and I imagine 
+they would have their weight in the minds of the officers in 
+general. I only urge them a second time, as reasons which 
+will not suffer me to view the matter in the same light with 
+your excellency, or to regard as impracticable my appointment in a light corps, should there be one formed. I entreat they may be understood in this sense only. I am incapable of wishing to obtain any object by importunity. 
+</p><p>
+I assure your excellency, that I am too well persuaded of 
+your candour, to attribute your refusal to any other cause 
+than an apprehension of inconveniences that may attend the 
+appointment. 
+</p><p>
+I have the honour to be, with perfect respect, sir, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">A. HAMILTON.</a>.
+</p><p>
+P. S. I have used the term brevet in the sense your excellency appears to have understood it, as signifying, in general, all officers not attached to any established corps. Congress, however, seem to have made a distinction ; they give 
+only a kind of warrant to those whom they designate as 
+brevet officers ; mine is a regular commission. 
+</p><p>
+<a href='/results.php?city=de peysters point' rel='city origin'>De Peyster's Point</a>, <a rel="month origin" value="5">May</a> <a rel="day origin" value="2">2d</a>, <a href="/results.php?year=1781" rel="origin">1781</a>. 
+</p>
+</letter>

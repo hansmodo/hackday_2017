@@ -1,0 +1,23 @@
+<letter id="mbc7728">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Now we are in a cottage rented from Doctor Chisolm. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> is a full general. <a href='/results.php?tla=jpj' rel=''>Johnston</a> has been removed and superseded. Early is threatening Washington City. Semmes, of whom we have been so proud, risked the 
+Alabama in a sort of duel of ships. He has lowered the flag of the famous Alabama to the Kearsarge. Forgive who 
+may ! I can not. We moved into this house on the 20th of July. My husband was telegraphed to go to Charleston. 
+General Jones sent for him. A part of his command is on the coast. 
+</p><p>
+The girls were at my house. Everything was in the utmost confusion. We were lying on a pile of mattresses 
+in one of the front rooms while the servants were reducing things to order in the rear. All the papers are down on the 
+President for this change of commanders except the Georgia papers. Indeed, Governor Brown's constant complaints, I 
+dare say, caused it these and the rage of the Georgia people as <a href='/results.php?tla=jpj' rel=''>Johnston</a> backed down on them. 
+</p><p>
+Isabella soon came. She said she saw the Preston sisters pass her house, and as they turned the corner there was 
+a loud and bitter cry. It seemed to come from the Hampton house. Both girls began to run at full speed. " What is 
+the matter? " asked Mrs. Martin. " Mother, listen; that sounded like the cry of a broken heart," said Isabella; 
+" something has gone terribly wrong at the PrestonsV 
+</p><p>
+Mrs. Martin is deaf, however, so she heard nothing and thought Isabella fanciful. Isabella hurried over there, and 
+learned that they had come to tell Mrs. Preston that Willie was killed Willie ! his mother's darling. No country ever 
+had a braver soldier, a truer gentleman, to lay down his life in her cause. 
+</p>
+</letter>

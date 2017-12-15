@@ -1,0 +1,38 @@
+<letter id="joj4025">
+<recipient first="Egbert" last="Benson" type="individual"/>
+<p>   	 
+<a href='/results.php?city=aranjuez' rel='city origin'>Aranjuez</a>, <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1780' rel="origin">1780</a>.
+</p><p>
+Dear Benson, 
+</p><p>
+When shall we again, by a cheerful fire, or under a shadytree, recapitulate our juvenile pursuits or pleasures, or look 
+back on the extensive field of politics we once have trodden ? 
+Our plans of life have, within these few years past, been 
+strangely changed. Our country, I hope, will be the better 
+for the alterations. How far we, individually, may be benefited, is more questionable. Personal considerations, however, must give way to public ones, and the consciousness 
+of having done our duty to our country and posterity, must 
+recompense us for all the evils we experience in their cause. 
+</p><p>
+I wrote to you from Martinico. I have been four months 
+in this kingdom without receiving more than three letters 
+from America, and those not very interesting, being of old 
+dates and not particular. You are among those from whom 
+I wish often to hear, as well because I am interested in 
+what concerns yourself, as on account of the intelligence 
+respecting the affairs of our State, which I hope you will 
+sometimes favour me with. Write nothing, nevertheless, 
+that you would wish to be entirely private ; your letters 
+may be inspected before they reach me ; that practice being 
+general in the post-offices of France and Spain. 
+</p><p>
+I flatter myself you sometimes visit your <a href='/results.php?city=fishkill' rel='city'>Fishkill</a> friends. 
+I know they esteem you, and always derive pleasure from your company. What arrangements have born made in your official departments ? Are your taxes paid ? Do the 
+people continue firm ? A few more glorious exertions will give them peace, liberty, and safety. What says Vermont? 
+</p><p>
+Tell me how your mother and brothers do. Remember me to them, and my other friends. God bless you, my friend. 
+</p><p>
+I am sincerely yours, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

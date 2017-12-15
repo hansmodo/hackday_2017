@@ -1,0 +1,39 @@
+<letter id='thj1497'>
+<recipient first='Hilliard' last='d Auberteuil' type='individual'/>
+<p>
+TO MONSIEUR HILLIARD d'AUBERTEUIL.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, February 20, <a href="/results.php?year=1786">1786</a>.
+</p><p>
+Sir,
+</p><p>
+I have been honored with your letter, and the books which accompanied
+it, for which I return you my hearty thanks. America cannot but be
+flattered with the choice of the subject, on which you are at present
+employing your pen. The memory of the American Revolution will be
+immortal, and will immortalize those who record it. The reward is
+encouraging, and will justify all those pains, which a rigorous
+investigation of facts will render necessary. Many important facts,
+which preceded the commencement of hostilities, took place in England.
+These may mostly be obtained from good publications in that country.
+Some took place in this country. They will be probably hidden from
+the present age. But America is the field where the greatest mass of
+important events were transacted, and where, alone, they can now be
+collected. I therefore much applaud your idea of going to that country,
+for the verification of the facts you mean to record. Every man there
+can tell you more than any man here, who has not been there: and the
+very ground itself will give you new insight into some of the most
+interesting transactions. If I can be of service to you, in promoting
+your object there, I offer myself freely to your use. I shall be
+flattered by the honor of your visit here, at any time. I am seldom from
+home before noon; but if any later hour should suit you better, I will
+take care to be at home, at any hour and day, you will be pleased to
+indicate.
+</p><p>
+I have the honor to be, with great respect, Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

@@ -1,0 +1,32 @@
+<letter id="jhb3203">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=cambridge' rel='city origin'>Cambridge</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received the resolves of the Congress, of the 8th of January, 
+with an astonishment that no occurrence ever before occasioned. 
+It would be misplaced to enter now into any reasoning upon the 
+subject. 
+</p><p>
+I apply to you, Sir, as an individual whom I believe to have 
+honor, humanity, and generosity. My Aid-de-camp has directions 
+to communicate to you my letters to the Congress. I leave to 
+your feelings to support that which regards my private situation, 
+only begging leave to recall to your recollection the offer you 
+made, in regard to my personal embarkation. In the full persuasion of the integrity of that proposal, I thought not of entering 
+into reasonings and justifications in my public or private letters 
+from <a href='/results.php?city=albany' rel='city'>Albany</a>, in any such degree as the delicacy of a soldier's 
+character required, after a series of the most critical situations, 
+difficult attempts, and diversified ill success. To die in this country, is nothing ; but to leave my honor unvindicated in my own, 
+is more than philosophy or fortitude can be expected to bear. 
+</p><p>
+I confide in you, to consider this entirely as a private letter, 
+and am, 
+</p><p>
+With sincere regard, Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter>

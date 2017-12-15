@@ -1,0 +1,81 @@
+<letter id="gom4618">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="8">August</a> <a rel='day origin' value='22'>22d</a>, <a href='/results.php?year=1792' rel="origin">1792</a>, 
+</p><p>
+Dear Sir, 
+</p><p>
+My last was of the seventeenth instant. In mine of the 
+sixteenth, I mentioned the revolution of the tenth. I suggested my idea, that the force commanded by M. de Lafayette 
+would not be brought to immediate action, and that in such 
+case he and his friends had nothing to hope for. He, as you 
+will learn, encamped at Sedan, and official accounts of last 
+night inform us, that he has taken refuge with the enemy. 
+Thus his circle is completed. He has spent his fortune on a 
+revolution, and is now crushed by the wheel which he put in 
+motion. He lasted longer than I expected. Some other officers tried to influence their troops in favor of the late constitution, but without effect. They are, it seems, yet to learn 
+that an officer has never complete possession of his soldiers, 
+till rigid discipline has led them by the hand over fields of 
+glory, in which he has shared then- danger, and pointed to 
+them the path which leads to triumph. 
+</p><p>
+These scenes are yet remote, but if the combined powers 
+cannot succeed in the present plans, they must hereafter take 
+place. In the mean time much suspicion, much jealousy, and 
+many victims, are all in the natural order of things. 
+</p><p>
+I do not find that the Prince of Brunswick has made those 
+rapid movements, which the existent state of things required, 
+and he loses much by delay. He probably understands too well 
+the business of war, and his high station requires a man in whom 
+the accomplished General should be but a secondary talent. 
+I cannot for a moment suppose a possibility of beating him with 
+the French army, if army it can be called where there is no 
+discipline ; but if he will not commit himself a little to fortune, 
+it appears to me a very easy matter to wear away the time 
+till winter shuts the theatre. We are now far advanced in 
+August, and he has at most three months before him. 
+</p><p>
+The day before yesterday, the British Ambassador received 
+a despatch from his court, which he immediately transmitted 
+to the present minister of Foreign Affairs, and at the same 
+time asked for passports. This despatch has not yet been 
+communicated to the Assembly, because it runs rather counter to expectations which had been raised, and of course the 
+public mind is not duly prepared. The purport of this despatch is, that Britain is determined on a strict neutrality, that 
+she means to preserve it, and therefore, as his letters of credence are to the King now dethroned, he had best come 
+away. To this is subjoined a hope, that nothing will happen 
+to the King or his family, because that would excite the indignation of all Europe. This despatch, turned into plain English, is shortly, that the British court resent what is already 
+done, and will make war immediately if the treatment of the 
+King be such as to call for, or to justify, measures of extremity. ; 
+</p><p>
+The different Ambassadors and ministers are all taking their 
+flight, and if I stay I shall be alone. I mean however to stay, 
+unless circumstances should command me away, because in 
+the admitted case that my letters of credence are to the Monarchy, and not to the Republic of France, it becomes a matter 
+of indifference whether I remain in this country, or go to England, during the time which may be needful to obtain your orders, or to produce a settlement of affairs here. Going hence, 
+however, would look like taking part against the late revolution, 
+and I am not only unauthorised in this respect, but I am bound 
+to suppose that if the great majority of the nation adhere to 
+the new form, the United States will approve thereof; because 
+in the first place we have no right to prescribe to this country 
+the government they shall adopt, and next because the basis 
+of our own constitution is the indefeasible right of the people 
+to establish it. 
+</p><p>
+Among those who are leaving Paris, is the Venetian Ambasdor. He w^as furnished with passports from the office of Foreign Affairs , but he was nevertheless stopped at the barrier, 
+was conducted to the Hotel de Ville, was there questioned for 
+hours, and his carriages examined and searched. This violation of the rights of Ambassadors could not fail, as you may 
+suppose, to make an impression. It has been broadly hinted 
+to me, that the honor of my country and my own require that 
+I should go away. But I am of a different opinion, and rather 
+think that those who give such hints are somewhat influenced 
+by fear. It is true that the position is not without danger ; but 
+I presume, that when the President did me the honor of naming 
+me to this embassy, it was not for my personal pleasure or safety, but to promote the interests of my country. These, there 
+fore, I shall continue to pursue to the best of my judgment, and 
+as to consequences, they are in the hand of God. I have the 
+honor to be, with great respect, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

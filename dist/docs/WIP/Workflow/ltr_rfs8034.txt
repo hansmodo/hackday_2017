@@ -1,0 +1,35 @@
+<letter id="rfs8034">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+Head-Quarters, <a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, 
+<a rel="month origin" value="1">January</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR: Referring to my letter of the 11th, I have the honour to inform you of the arrival of <a href='/results.php?tla=jhf' rel='colleague'>Lieutenant-Colonel Fremont</a> at this place with four hundred men; 
+that some of the insurgents have made their escape to Sonora, and that the rest have surrendered to our arms. 
+</p><p>
+Immediately after the battles of the 8th and 9th, they began to disperse; and I am sorry to say that their leader, Jose M. Flores, made his escape, and that 
+the others have been pardoned by a capitulation agreed upon by <a href='/results.php?tla=jhf' rel='colleague'>Lieutenant-Colonel Fremont</a>. 
+</p><p>
+Jose M. Flores, the commander of the insurgent forces, two or three days 
+previous to the 8th sent two commissioners, with a flag of truce, to my camp to 
+make a treaty of peace. I informed the commissioners that I could not recognise Jose M. Flores, who had broken his parole, as an honourable man, or as 
+one having any rightful authority, or worthy to be treated with; that he was a rebel in arms, and, if I caught him, I would have him shot. 
+</p><p>
+It seemed that, not being able to negotiate with me, and having lost the battles of the 8th and 9th, they met <a href='/results.php?tla=jhf' rel='colleague'>Colonel Fremont</a> on the 12th instant on his 
+way here, who, not knowing what had occurred, entered into the capitulation with them, which I now send to you ; and, although I refused to do it myself, 
+still I have thought it best to approve it. I am glad to say that, by the capitulation, we have recovered the gun taken by the insurgents at the sad defeat of <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> at San Pasqual. 
+</p><p>
+The territory of California is again tranquil, and the civil government, formed by me, is again in operation in the places where it was interrupted by the insurgents. 
+</p><p>
+<a href='/results.php?tla=jhf' rel='colleague'>Colonel Fremont</a> has five hundred men in his battalion, which will be quite sufficient to preserve the peace of the territory ; and I will immediately with 
+draw my sailors and marines, and sail as soon as possible for the coast of Mexico, where I hope they will give a good account of themselves. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, &c. 
+</p><p>
+To the Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D. C. 
+</p><p>
+</letter>

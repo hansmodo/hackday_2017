@@ -1,0 +1,54 @@
+<letter id="jod3611">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='20'>20</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THIS is one of my red letter days. It is the anniversary of the signature of the declaration of an armistice between the United States and Great Britain in 
+<a href='/results.php?year=1783'>1783</a>. There are several of these days in my calendar, which I recollect as they pass in review, but 
+which nobody else remembers. And, indeed, it is 
+no otherwise worth my while to remember them than 
+to render an ejaculation of gratitude to <a href='/results.php?city=providence' rel='city'>Providence</a> 
+for the blessing. 
+</p><p>
+We are wasting our time in the most insipid manner, waiting for the treaty. Nothing, of any consequence, will be done till that arrives and is mauled 
+and abused, and then acquiesced in. For the antis 
+must be more numerous than I believe them, and 
+made of sterner stuff than I conceive, if they dare 
+hazard the surrender of the posts and the payment for spoliations, by any resolution of the House 
+that shall render precarious the execution of the 
+treaty on our part. 
+</p><p>
+I am, as you say, quite a favorite. I am to dine 
+to-day again. I am heir apparent, you know, and a 
+succession is soon to take place. But, whatever may 
+be the wish or the judgment of the present occupant, 
+the French and the demagogues intend, I presume, to 
+set aside the descent. All these hints must be secrets. 
+It is not a subject of conversation as yet. I have a 
+pious and a philosophical resignation to the voice of 
+the people in this case, which is the voice of God. 
+I have no very ardent desire to be the butt of party 
+malevolence. Having tasted of that cup, I find it 
+bitter, nauseous, and unwholesome. 
+</p><p>
+I hope Copeland will find his six loads to complete 
+the meadow, and take the first opportunity to cart 
+or sled the manure from the yard at home up to the 
+top of Stonyfield hill. The first season that happens 
+fit for ploughing, should be employed in cross ploughing the ground at home over the way. The news 
+of my mother's arm growing better has given me 
+great pleasure. Of the four barrels of flour I have 
+shipped to you, present one of them to my mother 
+from me, with my duty and affection. Tell my brother 
+I hope he has seen his error, and become a better 
+friend of peace and good government than he has 
+been somewhat inclined to be since the promulgation 
+of the treaty. 
+</p><p>
+I am, with affections, as ever, your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

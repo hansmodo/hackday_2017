@@ -1,0 +1,28 @@
+<letter id="nib5220">
+<recipient first="Churchhill" last="Camreleng" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phila</a>. <a rel="month origin" value="12">Dec'r</a>. <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1827' rel="origin">1827</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+... I wish Mr. arbour had introduced his motion at 
+some other time for just now it is particularly inconvenient. 
+I need not tell the Chairman of the Com. of Commerce that 
+for the last four or five months the course of trade and ex 
+change has carried off a great part of the specie fund of the 
+country &amp; that the Banks may probably be obliged to defend 
+themselves by diminishing their accomodations to the Community which is you know the ultimate remedy. But it is sometimes a severe one. We have been striving to avoid it 
+by very large sales of bills which yet do not supply the demand. Just at this moment it happened very luckily that the 
+quotations of the Bank Stock in England were such as to show 
+that remittance of it would be as good as specie calculating 
+the present rate of exchange &amp; the price of 5.10 in London. 
+Accordingly large remittance of Stocks were contemplated 
+the effect of which would have been, besides the profit to our 
+citizens to furnish an amount of exchange which would relieve by so much the pressure on the Banks by specie. I think 
+that a million of dollars would have taken that direction in a 
+week or two &amp; would have afforded real relief. The proposal 
+to sell 7 millions of course destroys all chance of a sale in England at present prices. Nor is this all. For if the foreign Stock 
+holders should take the alarm &amp; throw their stock into the market here it would create a new demand for exchange to 
+remit the proceeds, &amp; thus increase the pressure on the Banks. Whatever be the decision of Congress it is desirable that it should be soon made. 
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<letter id="dab3703">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Yesterday, the Indians killed two men, of the frontier inhabitants, on Robeson's Run, in this county 
+(Yougliiogania), and fired at two soldiers who were 
+taking some stores in a canoe from hence to Fort 
+Henry. One of them is wounded, but neither of 
+them fell into the hands of the enemy. I would have 
+sent a party to pursue the Indians, but I have no 
+provisions left, nor do I see any prospect of an adequate supply, as the drought still continues, and we 
+have neither money nor credit to make purchases. 
+</p><p>
+Colonel Clark has lately destroyed two of the Shawanese towns, and Idlled six men and one woman, 
+and is returned to the Falls. If a sufficient quantity 
+of provisions can be obtained, I will yet visit the 
+Wyandots by the 1st of November; and I believe 
+the country will be unanimous in joining me upon 
+an expedition. 
+</p><p>
+I have the honor to be, &c. &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter>

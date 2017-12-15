@@ -1,0 +1,18 @@
+<letter id="mbc7605">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='22'>22d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. What a beautiful day for our Confederate President to be inaugurated! God speed him; God keep him; God save him! 
+</p><p>
+John Chesnut's letter was quite what we needed. In spirit it is all that one could ask. He says, " Our late 
+reverses are acting finely with the army of the Potomac. 
+A few more thrashings and every man will enlist for the war. Victories made us too sanguine and easy, not to say 
+vainglorious. Now for the rub, and let them have it ! 
+</p><p>
+A lady wrote to Mrs. Bunch: " Dear Emma: When shall I call for you to go and see Madame de St. Andre ? 
+She was answered : "Dear Lou : I can not go with you to see Madame de St. Andre, but will always retain the kindest feeling toward you on account of our past relations," etc. The astounded friend wrote to ask what all this meant. 
+No answer came, and then she sent her husband to ask and demand an explanation. He was answered thus: " My 
+dear fellow, there can be no explanation possible. Here after there will be no intercourse between my wife and 
+yours; simply that, nothing more." So the men meet at the club as before, and there is no further trouble between 
+them. The lady upon whom the slur is cast says, " and I am a woman and can't fight ! 
+</p>
+</letter>

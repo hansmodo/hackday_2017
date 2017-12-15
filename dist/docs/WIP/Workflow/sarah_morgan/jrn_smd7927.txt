@@ -1,0 +1,20 @@
+<letter id="smd7927">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], <a rel="month origin" value="2">February</a> <a rel='day origin' value='5'>5th</a>, Thursday night. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+A letter from Lavinia has come to me all the way from California. How happy it made me, though 
+written so long ago! Only the 3Oth of June! Lavinia has changed, changed. There is a sad, worn-out 
+tone in every line; it sounds old, as though she had lived years and years ago and was writing as though 
+she were dead and buried long since. Lavinia, whose letters used to keep me in sunshine for weeks at a 
+time! Well! no wonder she is sad. All these dreary years from home, with so faint a hope of ever again 
+seeing it, and all these sorrows and troubles that have befallen us, combined, are not calculated to 
+make her happy. But I wish she had kept her cheerful heart. Well, perhaps it is easier for us to be 
+cheerful and happy, knowing the full extent of our calamities, than it is for her, knowing so little and 
+having just cause to fear so much. Courage! Better days are coming! And then I'll have many a funny 
+tale to tell her of the days when the Yankees kept us on the qui vive, or made us run for our lives. It will "tell" merrily; be almost as lively as those running 
+days were. One of my chief regrets over my helplessness is that I will not be able to run in the next stampede. I used to enjoy it. Oh, the days gone by, the 
+dreary days, when, cut off from our own people, and surrounded by Yankees, we used to catch up any crumb of news favorable to our side that was smuggled into town, and the Brunots and I would write each other little dispatches of consolation and send them by little negroes ! Those were dismal 
+days. Yet how my spirits would rise when the long roll would beat, and we would prepare for flight ! 
+</p><p>
+</letter>

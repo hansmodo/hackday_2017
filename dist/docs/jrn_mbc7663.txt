@@ -1,0 +1,29 @@
+<letter id="mbc7663">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=flat rock' rel='city origin'>FLAT ROCK</a>, N. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mr. Daniel Blake drove down to my sister's in his heavy, substantial English phaeton, with stout 
+and strong horses to match. I went back with him and spent two delightful days at his hospitable mansion. I met 
+there, as a sort of chaplain, the Rev. Mr. . He dealt unfairly by me. We had a long argument, and when we knelt 
+down for evening prayers, he introduced an extemporaneous prayer and prayed for me most palpably. There was 
+I down on my knees, red-hot with rage and fury. David W. said it was a clear case of hitting a fellow when he was 
+down. Afterward the fun of it all struck me, and I found it difficult to keep from shaking with laughter. It was not 
+an edifying religious exercise, to say the least, as far as I was concerned. 
+</p><p>
+Before Chancellorsville, was fatal Sharpsburg. My friend, Colonel Means, killed on the battle-field; his only 
+son, Stark, wounded and a prisoner. His wife had not re covered from the death of her other child, Emma, who had 
+died of consumption early in the war. She was lying on a bed when they told her of her husband's death, and then 
+they tried to keep Stark's condition from her. They think now that she misunderstood and believed him dead, too. 
+She threw something over her face. She did not utter one word. She remained quiet so long, some one removed the 
+light shawl which she had thrown over her head and found she was dead. Miss Mary Stark, her sister, said afterward, 
+" No wonder! How was she to face life without her husband and children? That was all she had ever lived for. " 
+These are sad, unfortunate memories. Let us run away from them. 
+</p><p>
+What has not my husband been doing this year, 1862, when all our South Carolina troops are in Virginia ? Here 
+we were without soldiers or arms. He raised an army, so to speak, and imported arms, through the Trenholm firm. He 
+had arms to sell to the Confederacy. He laid the foundation of a niter-bed ; and the Confederacy sent to Columbia to 
+learn of Professor Le Conte how to begin theirs. He bought up all the old arms and had them altered and repaired. 
+He built ships. He imported clothes and shoes for our sojdiers, for which things they had long stood sorely in need. 
+He imported cotton cards and set all idle hands carding and weaving. All the world was set to spinning cotton. H& 
+tried to stop the sale of whisky, and alas, he called for reserves that is, men over age, arid he committed the unforgivable offense of sending the sacred negro property to work on fortifications away from their owners plantations. 
+</p>
+</letter>

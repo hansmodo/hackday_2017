@@ -1,0 +1,37 @@
+<letter id="frm3900">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I am informed that a Capt. Howell, in a N. W. cutter, has taken 
+the flag schooner which G-en. Greene ordered to load with rice. I hope 
+you have prevented her being carried away. You will confine Captain 
+Howell for infringing a flag contrary to <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s passport ; his vessel 
+and crew must also be secured and confined as plunderers until I have 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s and the Governor's orders and directions, and the schooner 
+be permitted to sail without delay for Charlestown. I have heard from 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> there has not been any action, as was reported; the firing 
+heard was within the enemy's lines, and proved to be a field day with 
+them. As it is possible the enemy may make another excursion in the 
+country, you will send me every horse you have, that can be of the 
+least service, as I am determined to oppose them at all events. There 
+are only two officers, and twenty-eight non-commissioned and privates 
+here the rest have been sent away by the officers on frivolous pretences. 
+Mr. Lesesne is absent without leave, Mr. Wragg also ; if he is a volunteer he must be discharged, and not suffered in future to be on the 
+Commissary Department. Mr. Guerry is absent without leave, and 
+must be dismissed. I expect every officer and private will be sent me 
+that is able to act. I have had no answer from the General respecting 
+the reduction of the corps, and have again wrote him on that subject 
+yesterday. You will go on in equipping and arming your men as usual; 
+and as soon as I hear from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, will send you a power to impress horses to make up your losses. I wish you would procure the 
+ruin, sugar and coffee, formerly mentioned to you. If a stop is put to 
+the injurious proceedings of the N. W. privateers, I shall be able to 
+procure clothing, &c., &c., for our army, and again complete your men 
+with those articles. I shall remain here some time. 
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

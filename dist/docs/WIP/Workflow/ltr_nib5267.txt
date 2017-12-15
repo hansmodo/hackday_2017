@@ -1,0 +1,13 @@
+<letter id="nib5267">
+<recipient first="Charles" last="Ingersoll" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philad'a</a>. <a rel="month origin" value="2">Feb'r</a> . <a rel='day origin' value='6'>6</a>. <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir 
+</p><p>
+It occurs to me that the present is a crisis for <a href='/results.php?tla=anj' rel='adversary'>Gen'l Jackson</a>, &amp; for the Bank. The Penn a delegation, and eminently Mr Dallas, now have an opportunity of doing great 
+good; and of acquiring great distinction. Let them go for ward, and mediate between the President and the Bank, 
+make him name his modifications; make the Bank agree to them, make the re-charter an administration measure. 
+You see at a glance all this. Do put them up to it; make Mr. Livingston and Mr. McLane stir in it. It is a real coup d etat. Try if you cannot bring it about, without loss of time. 
+</p>
+</letter>

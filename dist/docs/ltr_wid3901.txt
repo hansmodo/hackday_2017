@@ -1,0 +1,92 @@
+<letter id="wid3901">
+<recipient first="Francis" last="Salvador" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+MY DEAR SIR : 
+</p><p>
+I am much obliged by your favor of the 19th, which gave me not only a comprehensive view of affairs your way, from the beginning of 
+the war; but, also, the ideas of people touching the discharge of Cunningham and his companions. We apprehended some dissatisfaction 
+might arise; but the act was done, as you very justly thought, with the best intentions, and we hope good consequences will follow. I think I 
+am pretty sure no bad ones can arise on that score, but from the mistaken warmth of our friends. I must applaud your resolution to consider Cunningham " in future merely as an individual, and not as head of any party/ Such is the station he ought ever to hold. 
+</p><p>
+As for the fate of the thirteen white prisoners taken upon the repulse of the Indians speaking as W. H. D. in a private character, I think 
+the public would have received an essential piece of service had they been all instantly hanged. I am not singular in this idea of justice 
+and policy inferior and superior public characters think FO, too. 
+</p><p>
+This day the Experiment, of 50 guns, and the Syren, of 28, got 
+over the bar to join their shattered Commodore. Last Sunday the 
+transports sailed with the troops and Clinton, leaving one brig with 
+about forty Scots, of a regiment called Royal Highland Emigrants . 
+This vessel got on ground. She has fallen into our hands. The men 
+are prisoners the vessel is burnt. I suppose some of the other men-of-war will come over the bar to-morrow. Perhaps all, perhaps not; for 
+of this you know we cannot judge, as we are not of their counsels. 
+The fleet stood off for the Gulf, and the deserters say they are bound 
+for a Northern Long Island, as they are so much in love with the 
+Southern Long Island they have just quitted. 
+</p><p>
+Lee is very clever and very positive. The most positive of the 
+Poetical Fates was, I scarce believe, more positive. Every idea of his 
+must be right, and, of course, every contrary idea in every other person 
+must be wrong; and, contrary to the saying of the wise man, we now 
+find, that even in a multitude of counsellors there is no wisdom, when 
+they entertain different ideas from him, even in cases as plain as my 
+hand. However, the General has rather been unlucky in his ideas 
+sometimes; for we have found salvation from a quarter whence he said 
+none could come; and he has .been served by Continental officers and 
+troops in such sort, as to oblige him to preserve a mortifying silence 
+on the expedition. From the zeal we have, and that only, for the welfare of the common cause, we are content to be silent to him on that 
+point, also. We ought to have taken eighty British troops in the 
+light-house, for we had 320 men to do it with; but the commanding 
+officer kept 245 men and himself, to guard the boats, and sent the 
+others on to look for the enemy and after that sent them orders to 
+retreat, when they were willing to have stormed the light-house. They 
+returned to the boats and begged leave to return to the enemy; he 
+ordered them to embark. Our friend, Capt. Richardson, of Huger s, 
+commanded this little detachment. 
+</p><p>
+No news yet from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; every ear is turned that way, 
+anxiously listening for the word, independence. I say, God speed the 
+passage of it. Amen say you. 
+</p><p>
+And now a word to the wise. It is expected you make smooth 
+work as you go that is, you cut up every Indian corn-field, and burn 
+every Indian town and that every Indian taken shall be the slave and 
+property of the taker ; that the nation be extirpated, and the lauds 
+become the property of the public. For my part, I shall never give 
+my voice for a peace with the Cherokee Nation upon any other terms 
+than their removal beyond the mountains. 
+</p><p>
+As for town news, we have none but what is ridiculous, except that 
+a quarrel has arisen between the Vice-President and Col. Pinckney. 
+A challenge passed from the first; the last met him .before the hour; 
+there was no fight, but I have bound over the Colonel, and I have 
+issued a warrant against his Honor, the Vice-President, because he 
+hides himself at home. From what has passed, I begin to be of opinion 
+that his Honor may be lodged in the common jail, because he is not 
+inclined to be bound over. Is not this ridiculous ? I will not say 
+which is in the wrong. I saw the origin of the quarrel it was a trifle ; 
+so much the worse say you. I should not have mentioned this affair; 
+but that what I endeavored to have kept secret is, by a certain obstinacy, become public; and I say so much, that as much maybe fairly represented. 
+</p><p>
+I am much obliged to you for your having begun to feel Norwood's 
+pulse. I hope you will succeed with him. He is another unreasonable 
+man. 
+</p><p>
+As for my friend, Major Williamson, I long to see him Colonel of the regiment now under his orders. In the station of Major, he does 
+infinitely more honor to it than any Colonel it ever had ; of this rank we must say something hereafter. At present the title of Commander
+in-Chief of the expedition against the Cherokees, with which he is vested, will give him command of any colonel in his army. According 
+to tho military rule, any colonel in his army, though with part, or even the whole of their regiment, are to be considered as volunteers, and 
+they cannot have ;my authority in the camp or army but what is derived from the Major. However, as in all probability the Major may authorize them to command their several detachments under him, I 
+think they may expect to receive their usual pay while in actual service. But this may be depended upon, that any conduct that shall 
+clash with Major Williamson's orders will be carefully examined into. 
+</p><p>
+My paper puts me in mind that I ought to finish my letter, so I beg you will present my compliments to the Major, Capt. Hammond, and any 
+of my acquaintances that you may know to Mr. Hapley, who, perhaps, may be with you ; and, that Victory will conduct your march, is the 
+expectation of, dear sir, 
+</p><p>
+Your most humble and obedient servant, 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p>
+</letter>

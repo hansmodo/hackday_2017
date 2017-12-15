@@ -1,0 +1,21 @@
+<letter id="mbc7672">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a rel='month origin' value='11'>November</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1863' rel="origin">1863</a>. Our pleasant home sojourn was soon broken up. Johnny had to 
+go back to Company A, and my husband was ordered by the President to make a second visit to Bragg's Army.
+</p><p>
+So we came on here where the Prestons had taken apartments for me. Molly was with me. Adam Team, the over 
+seer, with Isaac McLaughlin's help, came with us to take charge of the eight huge boxes of provisions I brought from 
+home. Isaac, Molly's husband, is a servant of ours, the only one my husband ever bought in his life. Isaac's wife be 
+longed to Rev. Thomas Davis, and Isaac to somebody else. The owner of Isaac was about to go West, and Isaac was 
+distracted. They asked one thousand dollars for him. He is a huge creature, really a magnificent specimen of a colored gentleman. His occupation had been that of a stagedriver. Now, he is a carpenter, or will be some day. He is 
+awfully grateful to us for buying him ; is really devoted to his wife and children, though he has a strange way of showing it, for he has a mistress, en titre, as the French say, which fact Molly never failed to grumble about as soon as 
+his back was turned. u Great big good-for-nothing thing come a-whimpering to marster to buy him for his wife's 
+sake, and all the time he an" " Oh, Molly, stop that! " said I. 
+</p><p>
+<a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> visited Charleston and had an enthusiastic reception. He described it all to General Preston. Governor Aiken's perfect old Carolina style of living delighted him. Those old gray-haired darkies and their noiseless, automatic service, the result of finished training one does miss that sort of thing when away from home, where your 
+own servants think for you ; they know your ways and your wants; they save you all responsibility even in matters of 
+your own ease and well doing. The butler at Mulberry would be miserable and feel himself a ridiculous failure 
+were I ever forced to ask him for anything. 
+</p>
+</letter>

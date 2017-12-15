@@ -1,0 +1,108 @@
+<letter id="gem3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=gunston hall' rel='city origin'>Gunston Hall</a>, Virginia, <a rel="day origin" value="14">14</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I wrote you in July, a little before my being ordered to the Convention, congratulating you upon 
+an appointment which gives so much satisfaction to 
+all America, and afterwards, in August, from <a href='/results.php?city=richmond' rel='city'>Richmond</a> ; since which I have to acknowledge your 
+favor of the 20th of August, which nothing but want 
+of health should have prevented my answering sooner, 
+as I shall always think myself honored by your correspondence and friendship. I hinted to you, in my 
+last, the parties and factions which prevailed at <a href='/results.php?city=richmond' rel='city'>Richmond</a>. I never was in so disagreeable a situation, and 
+almost despaired of a cause which I saw so ill conducted. Mere vexation and disgust threw me into such 
+an ill state of health, that, before the Convention rose, 
+I was sometimes near fainting in the House. Since 
+my return home, I have had a severe fit of sickness, 
+from which I am now recovering, but am still very 
+weak and low. 
+</p><p>
+During the first part of the Convention, parties 
+ran so high, that we had frequently no other way of 
+preventing improper measures, but by procrastination, 
+urging the previous question, and giving men time 
+to reflect. However, after some weeks, the babblers 
+were pretty well silenced, a few weighty members 
+began to take the lead, several wholesome regulations 
+were made, and, if the Convention had continued to 
+sit a few days longer, I think the public safety 
+would have been as well provided for as our present 
+circumstances permit. The Convention, not thinking 
+this a time to rely upon resolves and recommendations only, and to give obligatory force to their proceedings, adopted the style and form of legislation, 
+changing the word enact into ordain; their ordinances 
+were all introduced in the form of bills, were regularly referred to a Committee of the whole House, and underwent three readings before they were passed. 
+</p><p>
+I inclose you the ordinance for raising an armed 
+force, for the defence and protection of this Colony ; 
+it is a little defaced, by being handled at our District Committee, but it is the only copy I had at 
+present by me. You will find some little inaccuracies in it ; but, upon the whole, I hope it will 
+merit your approbation. The minute plan I think is 
+a wise one, and will, in a short time, furnish eight 
+thousand good troops, ready for action, and composed 
+of men in whose hands the sword may be safely 
+trusted. To defray the expense of the provisions 
+made by this ordinance, and to pay the charge of 
+the last year's Indian War, we are now emitting the 
+sum of three hundred and fifty thousand pounds, in 
+paper currency. I have great apprehensions, that 
+the large sums in bills of credit, now issuing all over 
+the Continent, may have fatal effects in depreciating 
+the value ; and therefore opposed any suspension of 
+taxation, and urged the necessity of immediately laying  such taxes as the people could bear, to sink the 
+sum emitted as soon as possible; but was able only 
+to reduce the proposed suspension from three years to 
+one. The land and poll tax (the collection of which 
+is to commence in June, <a href="http://www.familytales.org/results.php?year=1777">1777</a>,) will sink fifty thou 
+sand pounds per year ; and instead of the usual 
+commissions for emitting and receiving, the Treasurer 
+is allowed an annual salary of six hundred and 
+twenty-five pounds. 
+Our friend, the Treasurer, was the warmest man in 
+the Convention, for immediately raising a standing 
+army of not less than four thousand men, upon constant pay. They stood a considerable time at three 
+thousand, exclusive of the troops upon the western 
+frontiers ; but, at the last reading, (as you will see 
+by the ordinance), were reduced one thousand and 
+twenty, rank and file ; in my opinion, a well-judged 
+reduction, not only from our inability to furnish, at 
+present, such a number with arms and ammunition, 
+but I think it extremely imprudent to exhaust our-ourselves before we know when we are to be at-tacked. The part we have to act, at present, seems 
+to require our laying in good magazines, training 
+our people, and having a good number of them ready 
+for action. An ordinance is passed for regulating 
+an annual election of members to the Convention 
+and County Committees ; for encouraging the making 
+saltpetre, sulphur, and gunpowder ; for establishing a 
+manufactory of arms, under the direction of commissioners ; and for appointing a Committee of Safety, 
+consisting of eleven members, for carrying the ordinances of the Convention into execution, directing 
+the stations of the troops, and calling the minute-battalions and drafts from the militia into service, if 
+necessary, &c. 
+</p><p>
+There is also an ordinance establishing articles for 
+the government of the troops, principally taken from 
+those drawn up by the Congress, except that about 
+martial law upon life and death is more cautiously 
+constituted, and brought nearer to the principles of 
+the common law. 
+</p><p>
+Many of the principal families are removing from Norfolk, Hampton, York, and <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, occasioned by the behaviour of Lord Dunmore, and the 
+commanders of the King's ships and tenders upon this station. 
+</p><p>
+Whenever your leisure will permit, it will always 
+give me the greatest pleasure to be informed of your 
+welfare, and to hear what is doing on the great 
+American theatre. 
+</p><p>
+I most sincerely wish you health and success equal 
+to the justice of our cause ; and am, with great 
+respect, dear Sir, 
+</p><p>
+Your affectionate and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gem" rel="me">GEORGE MASON</a>. 
+</p><p>
+P. S. I beg the favor of you to remember me kindly to General Lee, and present him my respectful compliments. 
+</p>
+</letter>

@@ -1,0 +1,61 @@
+<letter id="tip4951">
+<recipient first="Andrew" last="Oliver" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='8'>8th</a>, <a href='/results.php?year=1772' rel="origin">1772</a>.  
+</p><p>
+SIR : 
+</p><p>
+An application so late as this will not, I hope, be 
+deemed to arise from a want of respect, or be productive of any disadvantage to me ; nor an address in writing 
+thought less decent than a personal one. The latter I have 
+sometimes supposed most proper, but several reasons determined me to make the former. In that way I can deliver 
+my sentiments more clearly; and (if they merit consideration) they may be considered more calmly and deliberately. 
+Besides, the request may be granted or denied with more 
+ease both to the petitioner and the judge ; for to a benevolent mind it must give pain to refuse even what ought to be 
+refused; and a man of liberal and generous sentiments 
+would choose rather that his justice or his bounty should be 
+manifested in his actions, than in the warmest professions 
+of favor or friendship. 
+</p><p>
+You must, Sir, ere now apprehend the design of this 
+letter, if you have never heard that I am desirous of being 
+appointed joint Clerk with Mr. Bowditch. This, I find, 
+would be agreeable to him, and, if I had his leave, would 
+urge it as an argument in my favor. I am sensible, Sir, 
+there are other candidates for the office, who have doubtless 
+severally importuned your favor in their behalf. But permit me, Sir, to say, that I know but one case in which favor 
+can properly take place : that is, where there are two or 
+more candidates of exactly similar pretensions, whose qualifications and circumstances are in nothing different. In any 
+other case, to ask the office as a matter of favor I should 
+think was paying but an ill compliment to the person 
+requested to grant it ; for it must impeach either his 
+understanding or his justice. The power of conferring this 
+office, I take it, is vested in the Judges, not to give them 
+an opportunity of gratifying a friend or favorite, but that 
+they should place it in such hands as are most likely to do 
+the public the best service, by an exact and diligent performance of the duties of it. 
+</p><p>
+Can you forgive this freedom, Sir? I own it is a style 
+unusual from the mouth of a petitioner. But should I 
+address an honest man of delicate sentiments with fawning 
+adulation and servile importunity ? Or should I be thought 
+vain, were I to confess myself incapable of using such contemptible means of supplying my wants? Good Sir, after 
+your voluntary, disinterested interposition in my favor in 
+a military concern, (for which I sincerely honor and thank 
+you,) I should esteem it a gross affront with servile sub 
+mission to sue to you for the office as a matter of favor, 
+except in the case before mentioned. Here, therefore, both 
+for your honor and my own, I choose to rest the matter; 
+and with your determination, be it for or against me, I shall 
+remain satisfied. I request the office merely to procure me 
+a living, not to add to thousands already in possession. In 
+my present situation, I must own, I have enough ; but 
+without more I shall for ever be excluded from the dearest 
+connection in life. Excuse, I pray you, this liberty; and 
+believe me to be, with sincere respect, your most obedient 
+</p><p>
+servant. 
+</p><p>
+TIMOTHY PICKERING, JUN.
+</p>
+</letter>

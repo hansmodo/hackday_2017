@@ -1,0 +1,21 @@
+<letter id='jds8003'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+Flag-Ship Savannah, Bay of <a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="7">July</a> 	<a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : I have one hundred marines and two hundred men on shore, well armed, and also two 18-pounder carronades, mounted for field-pieces, and can land the remainder of my force in a 
+few minutes, if necessary. By the best information I can obtain, <a href="/results.php?tla=jhf" rel="colleague">Fremont</a> was at the Pueblo (of St. Joseph) the day before yesterday, and probably at St. Johns yesterday. I sent a letter to him two days since, by express, and yesterday a message by an American who was on his way to Yerba Buena, who promised to see him ; he has also a message for you ; therefore I am in momentary expectation of hearing from him. <a href="/results.php?tla=jsc" rel="adversary">Castro</a> buried two field-pieces, with their shot, at St. Johns, and is flying before <a href="/results.php?tla=jhf" rel="colleague">Fremont</a>. 
+</p><p>
+I have information from the Pueblo (of St. Joseph) that yesterday forty foreigners in that town wanted to hoist our flag, but had no bunting. I shall send them some the first opportunity, and shall direct them to organize themselves into a company of cavalry, choose their own officers, for the protection of their own property against marauders and the Indians, and then 
+report to me. When organized and reported they will be mustered into service and receive instructions from me 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=jds" rel="me">John D. Sloat</a>, 
+</p><p>
+Commander-in-Chief, etc. 
+</p><p>
+Commandant J. B. Montgomery, U. S. Ship Portsmouth,<br>
+Bay of San Francisco. 
+</p>
+</letter>

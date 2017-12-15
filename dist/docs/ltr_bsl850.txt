@@ -1,0 +1,16 @@
+<letter id='bsl850'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a><br/>  
+August 	<a rel='day origin' value='10'>10th</a>, <a href="/results.php?year=1855">1855</a>
+</p><p>
+Dear Uncle,
+</p><p>
+I have called upon Mr. Burger, 51 Courtland St., one of Mr. Dayton's administrators and he paid the [?] after talking a short time, he wishes particularly to see you about releasing Mr. Dayton's estate and taking two other parties either of whim he says are as good as the estate. His object is to get released from serving as administrator until the end of the lease. If as he says, he will give two persons of either of whom are as good and better than the Est. I can see no objection to cancelling the lease and letting them settle the Est.
+</p><p>
+Tomorrow I will deposit the money as per your request at the Merchants Bank.
+</p><p>
+Yours,<br/>  
+<a href="/results.php?tla=bsl" rel="me">B.S. Lippincott</a>
+</p>
+</letter>

@@ -1,0 +1,83 @@
+<letter id="chl3008">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+The most compendious method to give you an idea 
+of the state of your Province, is to inclose to you 
+the result of a Council of Officers, every article of 
+which is approved by your Convention. We have 
+just received an express from North Carolina, informing  us of the arrival of eight large transports in 
+Cape Fear River, in the whole containing, as it is 
+supposed, about two thousand men. I had before, on 
+a suspicion of their arrival, detached a battalion of 
+riflemen, and shall set out myself the day after tomorrow. 
+The Convention has ordered twelve hundred militia 
+or minute-men to that Province. My command, as 
+you may easily conceive, is extremely perplexing 
+from the consideration of the vast extent of the 
+valuable parts of this country, intersected by such a 
+variety of navigable waters, and the expedition with 
+which the enemy, furnished with canvas wings, can 
+fly from one spot to another. Had we arms for the 
+minute-men, and half a dozen good field engineers, we 
+might laugh at their efforts; but in this article (like 
+the rest of the Continent) we are miserably deficient. 
+Engineers we have but two ; and they threaten to 
+resign, as it is impossible that they should subsist 
+on a more wretched pittance than common carpenters 
+or bricklayers can earn. I have written to the congress, entreating them to augment the pay. A word 
+from you would, I make no doubt, effect it. 
+</p><p>
+I wish, my dear General, you would send me Captain Smith, on condition Congress make it worth his 
+while ; otherwise, I have not the conscience to propose it. I am well pleased with your officers in 
+general, and the men are good, some Irish rascals 
+excepied. I have formed two companies of grenadiers to each regiment, and with spears of thirteen 
+feet long. Their rifles (for they are all riflemen) 
+sling over their shoulders ; their appearance is formidable, and the men are conciliated to the weapon. I 
+am likewise furnishing myself with four-ounced rifle-amusettes, which will carry an infernal distance ; the 
+two-ounced hit a half sheet of paper five hundred 
+yards distant. So much for military. 
+</p><p>
+A noble spirit possesses the Convention. They are 
+almost unanimous for independence, but differ in their 
+sentiments about the mode ; two days will decide it. 
+I have the pleasure to inform you that I am extremely well in the opinion of the senatorial part, as 
+well as of the people at large. God send me grace 
+to preserve it ! But their neighbours of Maryland (I 
+mean their Council of Safety) make a most damnable 
+clamor (as I am informed) on the subject of a letter 
+I wrote to the Chairman of the Committee of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, to seize the person and papers of Mr. Eden, 
+upon the discovery which was communicated to me 
+of his treacherous correspondence with the Secretary 
+of State. It was a measure not only justifiable in 
+the eyes of God and men, but absolutely necessary. 
+The Committee of Safety here are indeed as deep in 
+the scrape as myself. The Congress must, and will, 
+I dare say, support and vindicate the measure. 
+</p><p>
+Captain Green and his party are upon their march, 
+as you ordered. I was a d d blockhead for bringing  them so far, as their accounts will be intricate ; 
+but I hope not so intricate as not to be unriddled. 
+I send you an account of the money I advanced to 
+the different officers, to Captains Smith, Lunt, and 
+Green. I have taken the liberty to appoint a sergeant Denmark, of the Rifle battalion, to do duty as 
+Ensign. lie is a man of worth, and I beg you 
+will confirm his commission. Another Sergeant, of 
+the same battalion, I have promoted to the rank of 
+second Lieutenant in the Artillery of this Province. 
+He is a German, his name Holmer, and very deserving . If little Eustace cannot be provided for with 
+you, I could wish, if there is a cheap method of doing  it, you would send him to me, as I have it in 
+my power to please him, and quite doat upon him. 
+</p><p>
+My love to Mrs. <a href='/results.php?city=washington' rel='city'>Washington</a>, Gates, and her bad 
+half, to Moylan; but Palfrey is a scoundrel for not 
+writing. Adieu, my dear General. 
+</p><p>
+Yours, most entirely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

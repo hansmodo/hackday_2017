@@ -1,0 +1,39 @@
+<letter id="sid5017">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+The several letters you will receive with this, will give you some idea of the situation I have been in for some months 
+past, though after all I must refer you to Mr Rogers for 
+particulars on some subjects. I should never have completed what I have, but for the generous, the indefatigable 
+and spirited exertions of Monsieur Beaumarchais, to whom the United States are on every account greatly indebted ; 
+more so than to any other person on this side the water ; he is greatly in advance for stores, clothing, and the like, and 
+therefore I am confident you will make him the earliest and most ample remittances. He wrote you by Mr McCrery, 
+and will write you again by this conveyance. A nephew of his, a young gentleman of family, education, and spirit, 
+makes a voyage to America with Monsieur du Coudray, and is ambitious of serving his first campaigns in your service. 
+I recommend him therefore to your particular patronage and protection, as well on account of the great merits of his uncle, 
+as on that of his being a youth of spirit and genius ; and just entering the world in a foreign country, he needs protection 
+and paternal advice to countenance and encourage him. This I have confidently assured his uncle lie will receive 
+from you, and am happy in knowing you will fulfil my engagements on that score, and, in whatever department you 
+may fix him, that you will recommend him to the patronage of some person, on whom you may rely to act at once the friendly and the paternal part. 
+</p><p>
+A particular account of die stores shipped may probably not be ready by this vessel, but may go by the next or some 
+succeeding one, as several will sail after this on the same errand. Let me by every letter urge on you the sending in 
+season a quantity of tobacco, of rice, and flour or wheat. These are articles which cannot fail, and are capital ones ; 
+twenty thousand hogsheads of tobacco are this instant wanted in France, besides the demand in other kingdoms. I think 
+Monsieur Beaumarchais wrote you under the firm of Hortalez & Co. if so, you will address him in the same style ; 
+but as I must probably remain here until the arrival of these articles, I can regulate that on the arrival of your despatches. 
+I have advised these stores being shipped for some of the New England ports, northeast of Newport first, and if failing 
+of making a port there, to stand for the Capes of the Delaware, or for <a href='/results.php?city=charleston' rel='city'>Charleston</a> in South Carolina, as the most likely 
+route to avoid interception. I cannot in a letter do full justice to Monsieur Beaumarchais for his great address and 
+assiduity in our cause ; I can only say he appears to have undertaken it on great and liberal principles, and has in the 
+pursuit made it his own. His interest and influence, which are great, have been exerted to the utmost in the cause of 
+the United States, and I hope the consequences will equal his wishes. I have the honor to be, he. 
+</p><p>
+SILAS DEANE.
+</p>
+</letter>

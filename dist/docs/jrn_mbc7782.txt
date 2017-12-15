@@ -1,0 +1,16 @@
+<letter id="mbc7782">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Saw General Preston ride off. He came to tell me good-by. I told him he looked like a Crusader on 
+his great white horse, with William, his squire, at his heels. Our men are all consummate riders, and have their servants 
+well mounted behind them, carrying cloaks and traps how different from the same men packed like sardines in dirty 
+railroad cars, usually floating inch deep in liquid tobacco juice. 
+</p><p>
+For the kitchen and Ellen's comfort I wanted a pine table and a kitchen chair. A woman sold me one to-day for 
+three thousand Confederate dollars. 
+</p><p>
+Mrs. Hamilton has been disappointed again. Prioleau Hamilton says the person into whose house they expected 
+to move to-day came to say she could not take boarders for three reasons: First, " that they had smallpox in the 
+house." " And the two others? " " Oh, I did not ask for the two others! 
+</p>
+</letter>

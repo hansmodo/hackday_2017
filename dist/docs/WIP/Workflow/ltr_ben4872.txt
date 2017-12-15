@@ -1,0 +1,40 @@
+<letter id="ben4872">
+<recipient first="Deborah" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+MY DEAR CHILD : I received yours of Oct. 14, and one 
+without Date which I suppose to be written since. Capts. 
+All, Osborne, and Sparkes are arrived ; and a Barrel of Apples 
+with another of Cranberries are come, I know not yet by 
+which of them. 
+</p><p>
+I am glad to hear you continue so well, and that the Pains 
+in your Side and Head have left you. Eat light Foods, such 
+as Fowls, Mutton, etc., and but little Beef or Bacon, avoid 
+strong Tea, and use what Exercise you can ; by these Means 
+you will preserve your Health better, and be less subject to 
+Lowness of Spirits. 
+</p><p>
+It seems Polly Pitts is really dead. I suppose you know 
+that we have a Mortgage on her Lotts? Mr. Galloway 
+took it for me. You do not tell me whether any thing has been done about it ; or whether any Interest was ever paid. 
+Nor have you ever told me whether Mr. Maugridge's Executors have paid off his Mortgage to me, and that to the Insurance Office. I wish you would. 
+</p><p>
+Give my Love to Mrs. Montgomery and all enquiring 
+Friends. Mrs. Stevenson and Polly Hewson and Sally 
+Franklin present their Love, the latter adds her Duty. She 
+is about to be married to a Farmer's Son. I shall miss her, 
+as she is nimble-footed and willing to run of Errands and wait 
+upon me, and has been very serviceable to me for some 
+Years, so that I have not kept a Man. 
+</p><p>
+I am ever my dear Debby, your affectionate Husband, 
+</p><p>
+B. F. 
+</p><p>
+P. S. Have just opened the Apples and Cranberries, 
+which I find in good order, all sound. Thanks for your kind 
+Care in sending them. 
+</p>
+</letter>

@@ -1,0 +1,35 @@
+<letter id="joj4005">
+<recipient first="Sarah" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=kingston' rel='city origin'>Kingston</a>, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My dear Sally, 
+</p><p>
+Accept my thanks for your affectionate letters of the 17th 
+and 21st instant. I am happy to hear of the health of yourself and son, and am pleased with your candour and sincerity on that subject. 
+</p><p>
+We have lately received an uncertain, though unpleasant, 
+account of the enemy's landing at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. How did 
+your nerves bear the shock ? My father and mother, I 
+apprehend, were very uneasy. I should be happy, were it 
+in my power, to bear all their as well as your misfortunes. 
+The infirmities of age, added to the terrors and calamities 
+of war, conspire in depriving them of ease and enjoyment. 
+I most sensiBly feel for and pity them. God grant them the 
+only remedy against the evils inseparable from humanity — 
+fortitude founded on resignation. The moment I may 
+suspect you to be exposed to clanger I shall set out for <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>. As yet I think you very safe ; for, if the reports we 
+have heard be true, the enemy's force is not sufficient to 
+penetrate the country. 
+</p><p>
+I congratulate Peter on his recovery and return. Remind him of sending to Captain Piatt's for the barley. Let 
+not the fear of the enemy deter him from pursuing the business of the farm. The same <a href='/results.php?city=providence' rel='city'>Providence</a> which enables us 
+to sow may enable us to reap. 
+</p><p>
+I am, my dear wife, 
+</p><p>
+Your very affectionate 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,21 @@
+<letter id='swk8002'>
+<recipient first='Robert' last='Stockton' type='individual'/>
+<p>
+<a href='/results.php?city=san diego' rel='city origin'>San Diego</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. s
+</p><p>
+Dear Commodore : I have received yours of this date, repeating, as you say, what you stated to me yesterday, and in reply I have only to remark that, if I had so understood you, I 
+certainly would not have written my letter to you of last evening. 
+</p><p>
+You certainly could not for a moment suppose that I would advise or suggest to you any movement which might endanger the safety of the garrison and the ships in the harbor. 
+</p><p>
+My letter of yesterday's date stated that "if you can take from here," etc., of which you were the judge, and of which I knew nothing. 
+</p><p>
+Yours truly, 
+</p><p>
+<a href="/results.php?tla=swk" rel="me">S. W. Kearny</a>, Brigadier-General. 
+</p><p>
+Commodore R. F. Stockton, 
+</p><p>
+Commanding United States Navy, etc., San Diego. 
+</p>
+</letter>

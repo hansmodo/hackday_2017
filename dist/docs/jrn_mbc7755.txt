@@ -1,0 +1,11 @@
+<letter id="mbc7755">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. The deep waters are closing over us and we are in this house, like the outsiders at the time of the 
+flood. We care for none of these things. We eat, drink, laugh, dance, in lightness of heart. 
+</p><p>
+Doctor Trezevant came to tell me the dismal news. How he piled on the agony! Desolation, mismanagement, despair. General Young, with the flower of Hampton's cavalry, is in Columbia. Horses can not be found to mount 
+them. Neither the Governor of Georgia nor the Governor of South Carolina is moving hand or foot. They have given up. The Yankees claim another victory for Thomas. I Hope it may prove like most of their victories, brag and bluster. 
+Can't say why, maybe I am benumbed, but I do not feel so intensely miserable. 
+</p>
+</letter>

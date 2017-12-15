@@ -1,0 +1,24 @@
+<letter id="mbc7732">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='6'>6th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Archer came, a classmate of my husband's at Princeton; they. called him Sally Archer then, he was so 
+girlish and pretty. No trace of feminine beauty about this grim soldier now. He has a hard face, black-bearded and 
+sallow, with the saddest black eyes. His hands are small, white, and well-shaped ; his manners quiet. He is abstracted 
+and weary-looking, his mind and body having been deadened by long imprisonment. He seemed glad to be here, 
+and James Chesnut was charmed. " Dear Sally Archer, " he calls him cheerily, and the other responds in a far-off, 
+faded kind of way. 
+</p><p>
+<a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> and Archer were given the two Texas regiments 
+at the beginning of the war. They were colonels and Wigfall was their general. Archer's comments on <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> are: 
+" He does not compare intellectually with General Johns 
+ton, who is decidedly a man of culture and literary attainments, with much experience in military matters. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a>, 
+however, has youth and energy to help counterbalance all this. He has a simple-minded directness of purpose al 
+ways. He is awfully shy, and he has suffered terribly, but then he has had consolations such a rapid rise in his profession, and then his luck to be engaged to the beautiful Miss ." 
+</p><p>
+They tried Archer again and again on the heated controversy of the day, but he stuck to his text. <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> 
+is a fine military critic, a capital writer, an accomplished soldier, as brave as Caesar in his own person, but cautious to 
+a fault in manipulating an army. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> has all the dash and fire of a reckless young soldier, and his Texans would 
+follow him to the death. Too much caution might be followed easily by too much headlong rush. That is where the 
+swing-back of the pendulum might ruin us. 
+</p>
+</letter>

@@ -1,0 +1,61 @@
+<letter id="wih3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=roxbury' rel='city origin'>Roxbury</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I was, some time since, honored with yours of the 
+28th ultimo, respecting clothing for the recruits, and, 
+this morning, with that of the 17th instant. 
+</p><p>
+Several officers have already come from <a href='/results.php?city=west point' rel='city'>West Point</a> 
+on the recruiting service, and others are on the road. 
+I wish they may be successful, but am at a loss, from 
+the tenor of your Excellency's letter, to determine what bounty the recruits, raised by this State (Massachusetts), are to receive. It seems the Continental 
+bounty, after the act of March, <a href='/results.php?year=1779'>1779</a>, was to be two 
+hundred dollars. The General Assembly of this State, 
+on the 30th of September last, passed the following 
+resolution, namely ; " Resolved, that a bounty of 
+three hundred dollars, in addition to the bounty and 
+subsistence-money allowed by Congress, be paid to 
+each non-commissioned officer and soldier, who has or 
+shall enlist as one of this State's quota of the Continental army, during the continuance of the present 
+war between the United States of America and Great 
+Britain." This bounty appears to be intended over 
+and above the Continental bounty, and extended to 
+all the soldiers belonging to their quota of the army 
+enlisted at any preceding period. I purpose, to-morrow, to lay the matter before the Assembly, who, it 
+is probable, may have received some particular instruction on the subject, or, at least, that they may 
+conduct as they think proper. 
+On Tuesday last two privateers, belonging to Salem (the Franklin and Jack), sent into that port a 
+large letter-of-niarcjue ship, having on board one thou 
+sand barrels of pork and beef, seven hundred and 
+fifty barrels of flour, eight hundred firkins of butter, 
+and dry goods to the amount of fifteen thousand 
+pounds. 
+</p><p>
+A Dr. Apedale, lately come from <a href='/results.php?city=new york' rel='city'>New York</a> to 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, and, some time before, from Canada to <a href='/results.php?city=new york' rel='city'>New York</a>, reports, that before he left Canada, it was said 
+that about one thousand regulars and Tories, with as 
+many Indians as could be collected and would join 
+them, were to make an excursion on our frontiers on 
+the Mohawk River, as soon as the season was suit 
+able, in two divisions, under the command of John 
+son and Butler; and that Lieutenant-Colonel Stacy 
+was held a prisoner in Canada with a view to be 
+exchanged for Johnson or Butler, should either of 
+them happen to be taken. How much credit is to 
+be given to this report, your Excellency may be able 
+best to determine. 
+</p><p>
+I have the happiness to forward this by Major-General the <a href='/results.php?tla=laf' rel='colleague'>Marquis De Lafayette</a>, who arrived at 
+<a href='/results.php?city=boston' rel='city'>Boston</a> on the 28th instant, where he was received 
+with every demonstration of joy. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

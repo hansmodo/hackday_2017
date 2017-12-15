@@ -1,0 +1,41 @@
+<letter id="laf4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My dear General, 
+</p><p>
+On my arrival at <a href='/results.php?city=boston' rel='city'>Boston</a>, I have been so friendly 
+received, that no words can express my truly affectionate gratitude. To these enjoyments I have added 
+the heartfelt pleasure to contemplate the effect a sudden appearance of your picture had upon a people, 
+whose love to you is as great at least as in any 
+part of the world. Circumstanced as I am, I could 
+not, with any propriety, set out so soon as I expected. I am sorry our meeting again is deferred ; but, 
+when you are absent, I endeavour to guess what you 
+would haA^e advised me to do, and then do it. I am 
+sure you would advise my staying here some time 
+longer. I therefore will not go until the 1st or 2d 
+of next month, and then I embark from <a href='/results.php?city=boston' rel='city'>Boston</a> in 
+the Nymph frigate to go to <a href='/results.php?city=new york' rel='city'>New York</a>. M, de 
+Grandchain, who commands her, begs to be respectfully remembered to you ; and as he expects reaching 
+York about the 8th or 10th, he will, in company with 
+me, wait upon you wherever you ma}'' be found. 
+</p><p>
+The bearer I send to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, in order 1 
+may receive your commands at the moment I arrive. 
+So late in the season, I think you will advise my 
+going immediately to <a href='/results.php?city=richmond' rel='city'>Richmond</a>. I • hope you will 
+let me know where we are to meet ; and I also hope, 
+my dear General, you will not deny my affectionate, 
+pressing request, to induce your visiting with me our 
+friends in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+The Chevalier's respects and mine wait upon Mrs. 
+Washington, and wish to be remembered to all the 
+family. Adieu, my dear General. With the most 
+affectionate and devoted sentiments of filial love and 
+respect, I have the honor to be, yours, &c., 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p>
+</letter>

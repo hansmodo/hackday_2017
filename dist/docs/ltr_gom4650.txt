@@ -1,0 +1,48 @@
+<letter id="gom4650">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>,  <a rel="month origin" value="3">March</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In mine of the ninth instant I mentioned to you&gt; that the 
+enemy was in possession of Brussels, and so it was then asserted by authority, but it seems that he confined himself to Tongres and Liege, leaving the French army in possession of St Tron. At the same time it appears, that he was employed in 
+pushing forward a column on his left, to turn their right flank, 
+and had that movement been completed, the French army 
+would, in all human probability, have been destroyed. To 
+prevent the threatened danger, Miranda fell back to Lou vain, 
+keeping open thereby the two roads to Antwerp and Brussels. 
+</p><p>
+As the enemy will doubtless endeavor to cut him off from 
+the latter, I suppose that Dumouriez, relinquishing his expedition against the Netherlands, will form a junction with Miranda. In this case a battle must decide the fate of Flanders, 
+and both parties will collect for the purpose all the force they 
+can muster. I do not think the position taken at Louvain is 
+tenable, because Brussels may be reached by the route of Namur, towards which the enemy will probably turn his 
+attention in the first instance. 
+</p><p>
+Great exertions are making here to reinforce Dumouriez, 
+and still greater to bring about a new revolution, whose effect, 
+if successful, would be, I think, the destruction of what is called here the faction of the Gironde, and which calls itself the 
+republican party, qualifying its enemies by the term Anarchists. To avoid if possible the carnage of the second to the 
+eighth of last September, a tribunal, called the Revolutionary 
+Tribunal, is organised, with very large and wide powers. It is 
+one of those instruments whose operations are incalculable, 
+and on whose direction depends the fate of the country. 
+Opinion seems to set very strongly against the Convention. 
+They are supposed to be incapable of steering the State ship 
+in the present rough weather, but it must blow yet a little 
+harder before they are thrown overboard. 
+</p><p>
+I believe I never mentioned to you that a constitution was 
+reported ; but the truth is, that it totally escaped me. A 
+paper of that sort was read at the Convention, but I learnt 
+the next morning, that a council had been held on it over night, 
+by which it was condemned ; so I thought no more of it, 
+neither have I heard it mentioned until yesterday by one of 
+my countrymen, which brought me to recollect that in my 
+correspondence I had not noticed it. I am, with great respect 
+and esteem, yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

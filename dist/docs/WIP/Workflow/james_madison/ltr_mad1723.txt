@@ -1,0 +1,39 @@
+<letter id='mad1723'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+July 18, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+DEAR SIR, The season of harvest having suspended all intercourse with <a href="/results.php?city=fredericksburg" rel="city">Fredericksburg</a>, your favor of the 7th instant 
+has but just been received. That of the 29th ult. came to hand 
+at the same time. The preceding one of the 23d would have 
+been acknowledged before, but for the cause above mentioned. 
+The present is the first opportunity, and, like several others, 
+leaves me but a moment to prepare for it. 
+</p><p>
+I have read over the subject which you recommend to my 
+attention. It excites equally surprise and indignation, and ought 
+certainly to be taken notice of by some one who can do it justice. In my present disposition, which is perfectly alienated 
+from such things, and in my present situation, which deprives 
+me of some material facts and many important lights, the task 
+would be in bad hands if I were otherwise better qualified for 
+it. I am in hopes of finding that some one else has undertaken 
+it. In the mean time, I will feel my own pulse, and if nothing 
+uprears, may possibly try to supply the omission. 
+</p><p>
+Return my thanks to Dr. Logan for the pamphlet, and also 
+for the ploughs arrived at Fredericksburg, though, by a singular 
+succession of errors and accidents, they are still on the road 
+between this and that. Your account of Genet is dreadful. He 
+must be brought right, if possible. His folly will otherwise do 
+mischief which no wisdom can repair. Is there no one through 
+whom he can be effectually counselled? De la Forest is said 
+to be able, and if himself rightly disposed, as I have understood 
+him to be, might, perhaps, be of great use. The result of the 
+Harvest is perhaps less favorable than I once supposed. I hope, 
+however, the crop of wheat, as to quantity at least, will be tolerable. Of the quality, I have great apprehensions. The season for getting it in was as bad as was possible. Every other 
+article of our cultivation is prosperous, and will help to make 
+amends if the rest of the year be favorable. The corn is particularly luxuriant in all quarters. 
+</p><p>
+Yours always and affec
+</p>
+</letter>

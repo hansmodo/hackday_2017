@@ -1,0 +1,47 @@
+<letter id="gom4500">
+<recipient first="William" last="Smith" type="individual"/>
+<p>
+<a rel="month origin" value="2">February</a> <a rel='day origin' value='20'>20th</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have thoughts of sailing for London in the Miller, and I beg your sentiments with the same candor, that I deliver my 
+own. I shall pay most regard to your advice, because I believe it will be dictated by friendship, and founded on a more intimate knowledge of me than I possess. 
+</p><p>
+The advantages I expect from a twelve months' sojourning in England are shortly these. I hope to form some acquaintances, that may hereafter be of service to me, to model 
+myself after some persons, who cut a figure in the profession 
+of the law, to form my manners and address by the example of 
+the truly polite, to rub off in the gay circle a few of those many barbarisms, which characterize a provincial education, and 
+to curb that vain self sufficiency, which arises from comparing 
+ourselves with companions who are inferior to us. As this 
+last is the most agreeable, so it is the most dangerous kind of 
+flattery, the surest source of vanity, a disease which can be 
+cured only by conversing with our superiors in understanding. 
+</p><p>
+There are many dangers, which it is alleged attend a 
+young man thrown from under his parents' wings upon the 
+gay stage of pleasure and dissipation, where a wanton circle 
+of delusive joys courts his acquaintance, and an endless variety of objects prevents satiety and removes disgust ; and to all 
+the trite observations that may be made on this subject in the 
+present instance, perhaps it may be added, that I have naturally a taste for pleasure, and, if it be allowed that I have a 
+taste for pleasure, it may naturally follow that I shall avoid 
+those low pleasures, which abound in as great an exuberance 
+on this as on the other side of the Atlantic. As for those 
+poignant joys, which are the lot of the affluent, like Tantalus 
+I may grasp at them, but they will certainly be out of my 
+reach. I might go farther and make my observations more 
+particular, but as Lord Bacon told the Commons, with respect 
+to his Majesty's power and prerogative, these things are better 
+to be imagined by you than expressed by me. 
+</p><p>
+I desire, however, that you will consider how much better my time may now be spared than hereafter. I have somehow or other been so hurried through the different scenes of 
+childhood and youth, that I have still some time left to pause 
+before I tread the great stage of life, and you know how much 
+our conduct there depends upon the mode of our education. 
+After what I have said, it will be needless to add, that my inclinations have taken part in this debate. However, believe 
+me, my doubts and hopes have agreed to make you their arbiter, and there is a rule of submission entered in the court of 
+conscience. I am, dear Sir, your friend and servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

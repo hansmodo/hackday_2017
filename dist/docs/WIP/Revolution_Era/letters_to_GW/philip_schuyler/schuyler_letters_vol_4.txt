@@ -1,0 +1,42 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.XOmrge on line 295
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--pjs
+--DOC-AUTHOR-FIRST--Philip
+--DOC-AUTHOR-LAST--Schuyler
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="pjs4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='2'>2</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+By yesterday's post we were advised of your Excellency's arrival at <a href='/results.php?city=new york' rel='city'>New York</a>; and if a variety of 
+incidents did not concur to prevent me, I should have the honor, in person, to congratulate you on the 
+gratitude and confidence which you so eminently experience from United America. 
+</p><p>
+Until the adoption of the present system of National Government, it was a constant and a painful 
+reflection to every patriot, that the inefficacy of the late Confederation threatened to deprive America of 
+those blessings, for which she was greatly indebted to 
+your persevering exertions, in surmounting the obstacles which were opposed to her becoming independent. And permit me to assure you that the distress 
+of my feelings was infinitely increased, from a contemplation of what I could realize must be yours on 
+the sad occasion. 
+</p><p>
+But anxiety is now at an end. The impending 
+clouds are dispelled, and a happy prospect is presented to the view. For why should we doubt that the 
+Divine hand, which has so evidently interfered in 
+favor of America, and so remarkably assisted and conducted you in every stage of life, and continue to 
+guide and direct you in your endeavours for the happiness of your country ? Let me join my wish to the universal one, that health, happiness, and every 
+blessing, may be your portion. I am, dear Sir, with affectionate and sincere esteem and respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter>

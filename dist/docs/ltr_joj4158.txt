@@ -1,0 +1,67 @@
+<letter id="joj4158">
+<recipient first="John" last="Sinclair" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='16'>16th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1800' rel="origin">1800</a>. 
+</p><p>
+Sir, 
+</p><p>
+I had yesterday the pleasure of receiving from the secretary of state, the letter which you did me the honour to write on the 22d May last. 
+</p><p>
+They who feel an interest in the honour of this country, cannot fail of being gratified by every mark of respect to 
+the memory of our late president. The tribute of commendation paid to his merits by so many respectable persons in Great Britain, is no less honourable to them than to 
+him ; and I very sincerely concur with you in wishing that the best understanding may always subsist between our two nations. 
+</p><p>
+The facsimile copies of the letters appear to me to be well executed, but I am not certain that the taste of this 
+country is such as to produce a considerable demand for them. I shall immediately put the cards and subscription 
+papers into the hands of such persons here, and at New-York, as I think most likely to promote the object of them. 
+For my own part, I am preparing and expect to retire in the spring to my estate at Bedford, in the county of Westchester, about fifty miles from the city of New- York. I 
+shall request the persons to whom the subscription papers will be delivered, to transmit them to Mr. Hugh Gaine, a 
+bookseller of reputation at New-York ; and shall request him to communicate the result to Messrs. Nicoll, &c, in London. 
+</p><p>
+Having, since my return from England, been constantly engaged in official affairs, I have had little leisure for other pursuits ; so much so that I have not, from that time to this, visited my estate more than twice in any one year. 
+</p><p>
+A member of your board (of whose address I took a memorandum, which I have since often looked for without 
+success) was so obliging as to send me a cask of English. I promised to try it, and inform him whether it 
+succeeded. It was ground, and sent to my farm, where a t of it was used in like manner with French and New-England gypsum, but not with the like success ; it produced no visible effect. On being acquainted with this, I 
+directed the remainder to be saved, in order that on my removal there might be tried under my own direction : 
+</p><p>
+if I live, this shall be done. 
+</p><p>
+I last read with attention your proposal for an experimental farm. The objects in view are certainly very interesting, and to a considerable degree attainable under 
+the direction of such a manager as I suspect it would be more easy to describe than to find. It would probably be 
+advisable to make him a band allowance percent, on the profits, besi vy. 
+</p><p>
+This country will learn - from all your improvements relative to the breed and management of livestock. But I apprehend that, from the difference between 
+your climate and ours, it will in some respects be less easy for us to apply and put into practice your improvements respecting the growth and cultivation of plants. 
+</p><p>
+In the year <a href='/results.php?year=1784'>1784</a>, I had an interesting conversation with 
+one of your intelligent farmers in Essex. He was surprised that we in this country seldom sowed more than one 
+bushel of wheal on an acre. On being told that in our good 
+land one seed would produce many shoots or straws, he 
+observed thai we had better sow an additional bushel, for 
+thai these shoots were generally loss productive than single 
+straws from single grains. On my return that year to this 
+country, I mentioned the remark to some of our best 
+farmers. One of them in particular gave it a fair trial for 
+several years. He increased his seed in various experiments, from one bushel to above two bushels per acre ; but 
+he finally found and was convinced that not more than one 
+bushel and a half per acre could be sowed on his farm with 
+advantage : any quantity above that filled the field with too 
+much st 'aw. Hence I conclude that (all other tidings being equal) the sari iber of gi ains of seed wheat will throw out more shoots in this climate than in yours. 
+</p><p>
+But to return to the experimental farm: it appi -me that such an establishment comes naturally within the department of the agricultural society; and if instituted by 
+them, would enjoy greater advantages, than such an establishment if entirely independent and distinct from th would posses. 
+</p><p>
+The more food Great Britain produces, the better; and it is plain that by cultivating all your waste lands, and by 
+still greater improvements in husbandry, the quantity annually produced may and will he exceedingly augmented ; 
+yet, sir, it is not quite clear to me, that Great Britain can always continue to produce more food than she will consume. You now manufacture for about five millions of 
+people in this country, and for many millions in other countries. Consider the rapidity of population in this country, 
+and in some parts of your extensive empire. Your manufacturers must increase, and they must have food. On this 
+topic much might be said, which will readily occur to you. 
+With great respect and esteem, I am, sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

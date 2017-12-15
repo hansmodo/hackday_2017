@@ -1,0 +1,92 @@
+<letter id="wwi4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=east bourne' rel='city origin'>East Bourne</a>, Sussex, <a rel='day origin' value='1'>1st</a> <a rel="month origin" value="8">Aug.</a>, <a href='/results.php?year=1809' rel="origin">1809</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Though so many years have passed since we saw or 
+heard from each other, I hope I do not deceive myself 
+when I presume that we continue to retain each other in 
+friendly remembrance, not without taking a real interest in 
+each other's well being. Such, at least, I can truly declare, 
+are my own sentiments and feelings in relation to you; and 
+embracing every opportunity of inquiring after you, I 
+heard with sincere pleasure, the other day, from an American acquaintance, that you were living in health and comfort, though retired from public life. But why do I say, 
+though retired, when I can most sincerely aver, that with a 
+view to health and comfort, and those of mind as well as 
+of body, no situation in life has ever presented itself to my 
+imagination under so hopeful a form as that which my 
+favourite poet describes as " domestic life in rural leisure passed" I forget whether you are a lover of poetry ; if 
+you were so when you were young, I think that even in 
+advanced life the author of the above line, Cowper, will 
+still be dear to you. His piety gives unfading charms to 
+his compositions. But I am in danger of expending all the 
+time for which I must venture to detain you, without proceeding to the business which gives me occasion, an occasion 
+which, I own, I am glad to seize, to address you after so 
+long a silence. I am aware, indeed, that your retirement 
+may prevent your taking any part in public, even in the 
+case I am about to mention ; still your opinion, your good 
+wishes may be useful to us. Since the abolition of the 
+slave-trade, an institution has been formed consisting of a 
+considerable number of the most respectable members of 
+both houses of parliament, as well as of other men of consideration and worth, with the Duke of Gloucester at our 
+head, for the purpose of promoting civilization and improvement in Africa. Of course, all our hopes are 
+grounded and bottomed in the cessation of the slave-trade. 
+Now, from the operation of the war, and of other causes, 
+this traffic is stopped, with a very trilling exception, which 
+though trifling, we are trying, and that successfully, to do 
+away throughout all that immense part of the continent of 
+Africa which is north of the line, and indeed much further ; 
+unless as it may be carried on by your countrymen and 
+our own, in direct violation of the laws of both countries. 
+We trust we shall be able, by sending ships of war to 
+scour the coast of Africa, to suppress the British slave trade ; but this will be of little avail, if the traffic may still 
+be carried on in fact, though prohibited by law, by the 
+American slave-trader ; nor do I see any prospect of preventing this abuse, unless a convention could be made 
+between the two countries, by which the ships of war of 
+each should be authorized and even encouraged (by the 
+hopes of gaining by the forfeitures) to seize and bring in 
+for adjudication the vessels of the other, when prosecuting 
+this unlawful commerce. I rather believe there is another 
+particular in which it still remains for your country to render its law similar to ours, by subjecting to forfeiture any 
+ship of any country, and under any flag, which is fitted out 
+in and cleared out from an American port. Now, my 
+dear sir, may I hope for your assistance towards the production of the effects I have specified ? Knowing to whom 
+I am writing, I will say no more on this head. 
+</p><p>
+I cannot address you without tracing my way to the 
+period when we were last together, through the long and 
+interesting interval which lies between that and the present 
+moment. What events have since happened ! What 
+events may take place in the same number of years yet to 
+come ! How many whom we loved have gone in the last thirteen years ! How many will go in the next ! How 
+strongly, my dear sir, are we' admonished to place our 
+happiness on a firmer and more secure basis, than it can 
+enjoy in this world, which never more than of late verified 
+the character given of it by one of our greatest and best 
+churchmen, Hooker, that it is full (made up, I think he 
+says) of perturbations. How astonishing is it to see men 
+of penetrating understandings, and of deep and large 
+views, confining their regards to this limited scene, apparently insensible to the existence of any thing beyond it ! 
+But I beg pardon for thus running on, and I stop before my 
+pen has got the mastery of me. I will detain you no 
+longer than while I express my hopes that you are well 
+and happy, and assure you that I shall never cease to take 
+an interest in your welfare. 
+</p><p>
+I remain, with respect and regard, 
+</p><p>
+My dear sir, 
+</p><p>
+Your obliged and faithful servant, 
+</p><p>
+<a href="/results.php?tla=wwi" rel="me">W. WILBERFORCE</a>. 
+</p><p>
+P. S. If you favour me with a reply, may I take the liberty of asking after your family 1 I married about two 
+years after you left England, and am surrounded, I thank God, by an excellent wife and children. I trust I do not 
+deceive myself in the persuasion that you will not be uninterested in this statement, for which therefore I will not 
+use the affectation of apologizing. I will take the liberty of sending you a copy of the African Institution's reports. 
+You will also see in it a list of the members. 
+</p>
+</letter>

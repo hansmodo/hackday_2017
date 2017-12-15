@@ -1,0 +1,38 @@
+<letter id="jod3657">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Washington</a>, 	<a rel="day origin" value='13'>13</a> <a rel="month origin" value="10">June</a>. <a href='/results.php?year=1800' rel="origin">1800</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I RECEIVED your favor of the 2d by Mr. Dexter, and 
+this morning from Mr. Gerry an account of your 
+health on the 4th, which have relieved me from some 
+anxiety, as I had received no letter from you since 
+you were in <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+I have seen many cities and fine places since you 
+left me, and particularly <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>. Mrs. 
+Washington and her whole family very kindly inquired after your health and all your children, and 
+sent many friendly greetings. I like the seat of government very well, and shall sleep or lie awake next 
+winter in the President's house. I have slept very 
+well on my journey, and been pretty well. An abundance of company and many tokens of respect have 
+attended my journey, and my visit here is well received. Mr. Marshall and Mr. Dexter lodge with me 
+at Tunnicliff's City Hotel, very near the capitol. The 
+establishment of the public offices in this place has 
+given it the air of the seat of government, and all 
+things seem to go on well. 
+</p><p>
+I am particularly pleased with <a href='/results.php?city=alexandria' rel='city'>Alexandria</a>. Mr. Lee lives very elegantly, neatly and agreeably there, 
+among his sisters and friends, and among his fine 
+lots of clover and timothy. I scarcely know a more 
+eligible situation. Oh ! that I could have a home ! 
+But this felicity has never been permitted me. Roll 
+ing, rolling, rolling, till I am very near rolling into 
+the bosom of mother earth. 
+</p><p>
+I am, as ever, your affectionate husband, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. ADAMS</a>.  
+</p>
+</letter>

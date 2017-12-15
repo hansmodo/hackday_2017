@@ -1,0 +1,88 @@
+<letter id="ben4729">
+<recipient first="Henry" last="Home" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+IT gave me great pleasure to see my dear good friend's 
+name at the foot of a letter I received the other day, having 
+been often uneasy at his long silence, blaming myself as the 
+cause by my own previous backwardness and want of punctuality as a correspondent. I now suppose, (as in this he mentions nothing of it,) that a long letter I wrote him about this 
+time twelvemonth, on the subject of the disputes with 
+America, did miscarry, or that his answer to that letter miscarried, as I have never heard from him since I wrote that 
+letter. 
+</p><p>
+I have long been of an opinion similar to that you express, 
+and think happiness consists more in small conveniences or 
+pleasures that occur every day, than in great pieces of good 
+fortune that happen but seldom to a man in the course of his 
+life. Thus I reckon it among my felicities, that I can set my 
+own razor, and shave myself perfectly well ; in which I have 
+a daily pleasure, and avoid the uneasiness one is sometimes 
+obliged to suffer from the dirty fingers or bad breath of a 
+slovenly barber. 
+</p><p>
+I congratulate you on the purchase of a new house so much 
+to your mind, and wish that you may long inhabit it with comfort. The inconvenience you mention of neighbouring smoke 
+coming down the vents, is not owing to any bad construction 
+of the vent down which it comes, and therefore not to be 
+remedied by any change of form. It is merely the effect of 
+a law of nature, whereby, whenever the outward air is warmer 
+than the walls of the vent, the air included, being by those 
+walls made colder, and of course denser and heavier than an 
+equal column of the outward air, descends into the room, and 
+in descending draws other air into the vent above to supply 
+its place ; which, being in its turn cooled and condensed by 
+the cooler walls of the vent, descends also, and so a current 
+downwards is continued during the continuance of such difference in temperament between the outward air and the walls 
+of the vent. 
+</p><p>
+When this difference is destroyed, by the outward air growing cooler, and the walls growing warmer, the current downwards ceases ; and, when the outward air becomes still colder 
+than the walls, the current changes and moves from below 
+upwards, the warmer walls rarefying the air they include, and 
+thereby making it so much lighter than a column of the outward air of equal height, that it is obliged to give way to the 
+other's superior weight and rise, is succeeded by colder air, 
+which being warmed and rarefied in its turn, rises also, and 
+so the upward current is continued. In summer, when fires 
+are not made in the chimneys, the current generally sets 
+downward from nine or ten in the morning during all the heat 
+of the day, till five or six in the afternoon, then begins to hesitate, and afterwards to set upwards during the night, continuing till about nine in the morning, then hesitating for 
+some time before it again sets downwards for the day. This 
+is the general course, with some occasional variation of hours, 
+according to the length of days or changes of weather. 
+</p><p>
+Now when the air of any vent is in this descending state, if 
+the smoke issuing from a neighbouring vent happens to be 
+carried over it by the wind, part will be drawn in and brought 
+down into the room. The proper remedy then is, to close the 
+opening of the chimney in the room by a board so fitted that 
+little or no air can pass, whereby the currents above mentioned 
+will be prevented. This board to remain during the summer, 
+and when fires are not made in the chimney. Chimneys that 
+have fires in them daily are not subject to this inconvenience, 
+the walls of their vents being kept too warm to occasion any 
+downward current during the hours between the going out 
+of one fire and the kindling of another. And indeed, in summer, those vents that happen to go up close joined with the 
+kitchen vent, are generally kept so warm by that as to be free 
+from the downward current, and therefore free from what you 
+call neighbour smoke. 
+</p><p>
+The <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> grate which you mention is a very good 
+thing, if you could get one that is rightly made, and a workman skilful in putting them up. Those generally made and 
+used here are much hurt by fancied improvements in their 
+construction, and I cannot recommend them. As fuel with 
+you is cheap and plenty, a saving in it is scarce an object. 
+The sliding plates (of which I sent a model to Sir Alexander 
+Dick) are, in my opinion, the most convenient for your purpose, as they keep a room sufficiently warm, are simple 
+machines, easily fixed, and their management easily conceived and understood by servants. 
+</p><p>
+I shall leave Europe with much greater regret, if I cannot 
+first visit you and my other friends in Scotland. I promise 
+myself this happiness, but am not yet clear that I shall have 
+time for it. Your kind invitation is extremely obliging. 
+With sincere esteem I am, my dear friend, 
+</p><p>
+Yours most affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

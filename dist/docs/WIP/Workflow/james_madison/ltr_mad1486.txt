@@ -1,0 +1,18 @@
+<letter id='mad1486'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, ESQ. [SR]
+</p><p>
+Jan. 1st, <a href="/results.php?year=1783">1783</a>. 
+HON'D SlR, 
+</p><p>
+The negotiations for peace are said to be going on under the 
+late commission to Mr. Oswald, which authorizes him to treat 
+with commissioners from the thirteen United States. <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a> will depart in a little time, in order to give his aid in case 
+it be in season. The insidiousness and instability of the British 
+Cabinet forbid us to be sanguine, especially as the relief of 
+Gibraltar was posterior to Oswald's commission, and the interests to be adjusted among the belligerent parties are extremely complicated. 
+</p><p>
+I am, with great affection, your dutiful son. 
+</p>
+</letter>

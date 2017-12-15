@@ -1,0 +1,97 @@
+<letter id="gec3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=kingston' rel='city origin'>Kingston</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your Excellency's letter of the 10th instant, ad 
+dressed to Lieutenant-Governor Cortlandt, was delivered to me yesterday evening, and I immediately for 
+warded, by express, your letter to Brigadier-General 
+James Clinton, and urged him to the utmost expedition in his march to <a href='/results.php?city=west point' rel='city'>West Point</a>. I inclose your Excellency a copy of a letter from my brother, of 
+the 10th instant, giving the particular disposition of 
+the regiments of his brigade, by which it appears, 
+that Colonel Gansevoort's was employed in escorting a supply of provisions to Fort Schuyler. As this appeared to me to be a business of too much importance to admit of delay, or be intrusted to the care 
+of a weak party, I have therefore taken the liberty 
+of advising him to continue this regiment on that 
+service until it shall be accomplished, which, I hope, 
+will meet your Excellency's approbation. 
+</p><p>
+I am apprehensive that the other three regiments 
+(they having, previous to the receipt of your Excellency's order, marched to the respective stations mentioned in my brother's letter) will not be able to 
+reach <a href='/results.php?city=west point' rel='city'>West Point</a> on as early a day as might have 
+been expected. The militia, in the vicinity of the 
+posts in the Highlands, were, before I left <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a>, put under orders to hold themselves in constant readiness to take the field on the shortest notice ; and, on the signals of alarm being given, those 
+on the west side of the river are to repair to West 
+Point, and those on the east side are to rendezvous 
+at <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>, and there wait for further orders. Of this 
+I apprised General Howe at the time. I now write 
+to him on the subject; and, if it should be thought 
+necessary by your Excellency, I will immediately 
+order such part of them to <a href='/results.php?city=west point' rel='city'>West Point</a> as your Excellency or General Howe may direct, until the arrival of <a href='/results.php?tla=gec' rel=''>General Clinton</a>'s brigade. 
+</p><p>
+Your Excellency's several letters of the 23d and 
+28th ultimo, and 2d instant, were received and opened by Lieutenant-Governor Cortlandt, in my absence, 
+and such of them as were proper to be communicated to the Legislature, with the letters from the 
+Committee of Congress, of the 25th ultimo, were laid 
+before them; and I am happy in being able to as 
+sure your Excellency, that they give me reason to 
+hope that they will yield a compliance with the requisitions made of this State, on this important occa 
+sion, except in the article of forage, of which this 
+State is entirely exhausted. 
+</p><p>
+The moment I closed my last letter to General 
+Schuyler, which has been communicated to your Excellency, I embarked for <a href='/results.php?city=albany' rel='city'>Albany</a>, with an intention 
+to intercept the enemy, under Sir John Johnson, in 
+their retreat from Tryon county, or to succour Fort 
+Schuyler, if invested, which I then apprehended might 
+have been the case. On my arrival at <a href='/results.php?city=albany' rel='city'>Albany</a>, I soon 
+had reason to believe that the report of a force having marched against that post was merely calculated 
+to favor Sir John Johnson's incursion ; and, as the 
+militia had collected, he had retired about six miles 
+from Johnstown, and was preparing to return to Canada by a route more northward than that by which 
+he entered the country. I therefore directed Colonel 
+Van Schaick, who was at Fort Hunter, to march for 
+ward and hang close upon and harass his rear, to 
+afford time for me to gain his front with the militia, 
+to the north of <a href='/results.php?city=albany' rel='city'>Albany</a>, which I expected to be able 
+to effect, by striking into Jessup's Patent from Fort Edward. But, before my letter reached Colonel Van Schaick, the militia in that quarter, being out of 
+provisions, and finding Sir John retiring, were returning home, which was also the case with those who 
+assembled, and I expected to find at <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>. 
+</p><p>
+Under these circumstances, I found it necessary to 
+alter my plan, to that of passing Lake George, and 
+meeting the enemy on the borders of Lake Champlain, which (as the enemy appeared to be much 
+fatigued by their long march, and it was to be presumed would move slow as soon as they were advanced such a distance as to conceive themselves out 
+of danger) I conceived might still be practicable. I 
+accordingly reassembled the militia, and, with the 
+levies stationed at <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, and a detachment of 
+Warner's regiment, crossed Lake George. But, though 
+I had a force, superior to that of the enemy, advanced as far as Bulwagger's Bay, below Crown Point, 
+the place at which the enemy embarked, within eight 
+days after my leaving this place, I was so unfortunate as to find (judging by the information of our scouts, and by the appearance of the bushes and 
+bark the enemy had prepared to hut themselves, but 
+did not put up, and by other marks as well as the 
+sailing of their vessels) we were about six hours too 
+late. 
+</p><p>
+I would fain hope, however, that the attempt, though 
+unsuccessful, may be attended with the good effect 
+of deterring the enemy from a similar enterprise, as 
+it will, at least, discover to them the danger which 
+may attend it. I think it my duty to inform your Excellency that, on my request, I was joined by a 
+party of two hundred and forty of the militia of the 
+Grants, under Colonel Warner and Major Allen, whose 
+behaviour on this occasion, in every respect, was very 
+agreeable to me. I beg your Excellency will pardon me in troubling you with this long detail, as I 
+wish it only to be received as an apology for not 
+succeeding in an attempt which I gave you reason to 
+believe was practicable, and which undoubtedly might 
+have been effected had I found matters in the train 
+I had reason to expect. I have the honor to be, 
+with the greatest respect and esteem, dear Sir, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

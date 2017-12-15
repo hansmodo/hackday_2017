@@ -1,0 +1,21 @@
+<letter id="mbc7548">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a href='/results.php?year=1861' rel="origin">1861</a>]. Mr. Hayne said his wife moaned over the hardness of the chaperones seats at St. Andrew's Hall at 
+a Cecilia Ball. She was hopelessly deposited on one for hours. "And the walls are harder, my dear. What are your 
+feelings to those of the poor old fellows leaning there, with their beautiful young wives waltzing as if they could never 
+tire and in the arms of every man in the room. Watch their haggard, weary faces, the old boys, you know. At 
+church I had to move my pew. The lovely Laura was too much for my boys. They all made eyes at her, and nudged 
+each other and quarreled so, for she gave them glance for glance. Wink, blink, and snicker as they would, she liked 
+it. I say, my dear, the old husbands have not exactly a bed of roses; their wives twirling in the arms of young 
+men, they hugging the wall. 
+</p><p>
+While we were at supper at the Haynes's, Wigfall was sent for to address a crowd before the Mills House piazza. 
+Like James Fitz James when he visits Glen Alpin again, it is to be in the saddle, etc. So let Washington beware. 
+We were sad that we could not hear the speaking. But the supper was a consolation pate de foie gras salad, biscuit 
+glace and champagne frappe. 
+</p><p>
+A ship was fired into yesterday, and went back to sea. Is that the first shot? How can one settle down to any 
+thing ; one's heart is in one's mouth all the time. Any moment the cannon may open on us, the fleet come in. 
+</p>
+</letter>

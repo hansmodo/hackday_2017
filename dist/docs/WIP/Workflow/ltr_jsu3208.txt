@@ -1,0 +1,37 @@
+<letter id="jsu3208">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=sufferns tavern' rel='city origin'>Suffern's Tavern</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I am sorry to inform your Excellency, that I am 
+under the painful necessity of leaving a service to 
+which I am, by principle and interest, attached ; and, 
+among the variety of mortifications I must suffer in 
+quitting it, that of being deprived the pleasure of 
+serving under your Excellency, stands among the 
+foremost. My health is too much impaired to be re 
+covered but by a total release from business ; and, 
+though the physicians give me encouragement that 
+this will restore me, I am myself convinced of the 
+contrary, and fear that I must content myself with 
+enjoying the reflection of having used my utmost to 
+serve my country, as the only thing I shall receive 
+in exchange for a constitution sacrificed in endeavouring to promote its interest. 
+</p><p>
+Should there be a probability of <a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a>'s 
+arrival, I would willingly wait, to give the little assistance in my power to extirpate the enemies of 
+this country ; but, should this not be likely to happen, and the season be too far advanced, I must 
+beg your Excellency's leave to retire as soon as 
+possible, that I may take every measure in my 
+power to restore my health in some degree, or at 
+least to live in such a manner as will not tend to 
+put it beyond a possibility of being restored, which a longer continuance in the service undoubtedly will. 
+I have the honor to r be, most respectfully, my dear General, your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

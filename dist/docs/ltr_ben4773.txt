@@ -1,0 +1,60 @@
+<letter id="ben4773">
+<recipient first="Mary" last="Stevenson" type="individual"/>
+<p>
+Craven Street,  [<a href='/results.php?city=london' rel='city origin'>London</a>], Sat. eve. past ten. [<a href='/results.php?year=1769' rel="origin">1769</a>] 
+</p><p>
+Ax length I have found an Hour, in which I think I may 
+chat with my dear good Girl, free from Interruption. 
+</p><p>
+The Attention you have always shown to everything you 
+think agreable to me, demands my most grateful Acknowledgements. I have received the Garters you have so kindly 
+knit for me ; they are of the only Sort that I can wear, having 
+worn none of any kind for 20 Years, till you began to supply 
+me; but besides their Usefulness, these appear to me the 
+finest, neatest, and prettiest that were ever made ! 
+</p><p>
+Accept my heartiest Thanks, and be assured that I shall 
+think as often of you in the Wearing, as you did of me in the 
+Making them. 
+</p><p>
+The Question you ask me is a very sensible one, and I shall 
+be glad if I can give you a satisfactory Answer. There are 
+two Ways of contracting a Chimney ; one, by contracting the 
+Opening before the Fire ; the other, by contracting the Funnel 
+above the Fire. If the Funnel above the Fire is left open in its 
+full Dimensions, and the Opening before the Fire is contracted ; then the Coals, I imagine, will burn faster, because 
+more Air is directed through the Fire, and in a stronger 
+Stream; that Air which before pass'd over it, and on each 
+side of it, now passing thro it. This is seen in narrow Stove 
+Chimneys, when a Sacheverell or Blower is used, which still 
+more contracts the narrow Opening. But if the Funnel only 
+above the Fire is contracted, then, as a less Stream of Air is passing up the Chimney, less must pass thro' the Fire, and 
+consequently it should seem that the Consuming of the Coals 
+would rather be checked than augmented by such Contraction. 
+And this will also be the Case, when both the Opening before 
+the Fire, and the Funnel above the Fire are contracted, provided the Funnel above the Fire is more contracted in Proportion than the Opening before the Fire. 
+</p><p>
+So you see I think you had the best of the Argument ; and, 
+as you notwithstanding gave it up in Complaisance to the 
+Company, I think you had also the best of the Dispute. 
+There are few, tho' convinced, that know how to give up, even 
+an Error, they have been once engag'd in maintaining ; there 
+is therefore the more Merit in dropping a Contest where one 
+thinks one's self right ; 'tis at least respectful to those we converse with. And indeed all our Knowledge is so imperfect, 
+and we are from a thousand Causes so perpetually subject to 
+Mistake and Error, that Positiveness can scarce ever become 
+even the most knowing; and Modesty in advancing any 
+Opinion, however plain and true we may suppose it, is always 
+decent, and generally more likely to procure assent. Pope's 
+Rule, 
+</p><p>
+" To speak, tho' sure, with seeming Diffidence," 
+</p><p>
+is therefore a good one ; and, if I had ever seen in your Conversation the least Deviation from it, I should earnestly 
+recommend it to your Observation.
+</p><p>
+I am, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<letter id="joj4128">
+<recipient first="Rufus" last="King" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='19'>19th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I send by the packet the fruit of my negotiation — a treaty. 
+I wish that I could go with it, as well that I might again be 
+in my own country, as that I might answer questions on 
+the subject. The draught has undergone several editions, 
+with successive alterations, additions, &c. This shows 
+that time and trouble have not been spared. I have just 
+finished a hasty letter to Mr. Randolph. It will be thought 
+slovenly, but I cannot help it. The packet must go. If I 
+entirely escape censure, I shall be agreeably disappointed. 
+Should the treaty prove, as I believe it will, beneficial to 
+our country, justice will finally be done. If not, be it so — 
+my mind is at ease : I wish I could say as much for my 
+body, but the rheumatism will not permit me. Health and 
+happiness to you, my good friend. 
+</p><p>
+Yours, sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

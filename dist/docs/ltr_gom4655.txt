@@ -1,0 +1,59 @@
+<letter id="gom4655">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Enclosed you have copies of <a href="/results.php?tla=leb" rel="met colleague">M. Lebrun's</a> letters to me of 
+the twenty-sixth of March, mine to him of the twenty-eighth, 
+and his to me of the twenty-ninth. I also enclose under this 
+cover the journal of the debates and decrees. These will 
+give you the present state of our news up to the last even 
+ing. 
+</p><p>
+You will perceive, that all my conjectures respecting the 
+army of Dumouriez are more than realized. From the 
+letters of Custine you will perceive that he has been totally 
+defeated, for he found it necessary to fall back about forty 
+miles, leaving a garrison in Mayence, which must fall of course, 
+and we may hourly expect to hear of farther misfortunes in 
+that quarter. Perhaps the Prussian army may stop to besiege 
+Mayence, but I think a part of their force will be sufficient 
+for that purpose. The country, as I have mentioned in a 
+former letter, is universally indisposed to France, and I can 
+say on good information the same thing of Savoy. 
+</p><p>
+It is now very fine weather in this city, and if the season 
+be proportionably advanced in other quarters, the campaign 
+will be soon opened on every side. There will be a great 
+want of bread before we have another harvest, unless peace 
+should take place. If Lisle and Valenciennes should surrender at once, the campaign in that quarter will not be so much 
+advanced as might be apprehended, because as yet the m aga-zines are not brought up, and time must be allowed for that 
+purpose. 
+</p><p>
+It seems indeed probable, that the enemy have taken considerable magazines belonging to France, but even these are 
+at some distance. I expect every hour to hear of an attempt 
+upon Givet or Maubeuge, and it would seem from the best in 
+formation to be had, that neither of these places can be defend-ed long. In short, on every side, the horizon looks darkly. 
+Whether Dumouriez will be able to lead his army against Pa 
+ris, seems as yet uncertain. Perhaps he may experience a 
+similar fate to that of Lafayette, but he is in much better circumstances for a high game, and much abler to play it. At 
+any rate, the enemy derive advantage from the squabble between him and the Convention. Here they are not yet fully 
+apprised of their danger. Like those who die of a hectic, 
+hope gleams to the last, and the latest breath is spent in expression of some splendid fancy. In the expiring struggles, 
+however, let them happen when they may, we shall experience new horrors. Such, at least, is the probable chance. 
+</p><p>
+The constant complaints on account of the capture of Ame 
+rican vessels, and the necessity of giving protection to such of 
+our countrymen, as are here, have prevented me hitherto 
+from leaving Paris. At present, the barriers are strictly guard 
+ed, and those who have applied lately for passports have been 
+disappointed ; but in a few days we shall know something 
+more upon this subject. The ministry seem to be in a fair way 
+towards an entire dissolution. In short, everything here is in 
+almost as much confusion as on the frontiers. I am, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

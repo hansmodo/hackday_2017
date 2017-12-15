@@ -1,0 +1,39 @@
+<letter id="jod3560">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=amsterdam' rel='city origin'>Amsterdam</a>, Friday, 	<a rel="day origin" value='14'>14</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+MY DEAR, 
+</p><p>
+I HAVE received yours of the 7th. I have written 
+you on every post day. <a href='/results.php?tla=thj' rel='colleague met'>Mr. Jefferson</a> is so anxious 
+to obtain money here to enable him to discharge 
+some of the most urgent demands upon the United 
+States, and preserve their credit from bankruptcy for 
+two years longer, after which he thinks the new government will have money in their treasury from taxes, 
+that he has prevailed upon me to open a new loan by 
+virtue of my old power. I was very much averse to 
+this, but he would take no denial. I shall, therefore, 
+be detained here till Monday, but if my health continues, I shall cross over in the packet of next Wednesday. I hope every thing will be ready for us to take 
+post for Falmouth. 
+</p><p>
+The rich complain at present in Holland, that the 
+poor are set over them in the regencies, and the old 
+families that they are set aside by new ones. Discontent 
+rankles deep in some places and among some sorts of 
+men, but the common people appear to be much 
+pleased. The patriots in this country were little read 
+in history, less in government ; knew little of the human heart and still less of the world. They have, 
+therefore, been the dupes of foreign politics and their 
+own indigested systems. Changes may happen and 
+disorders may break out, though at present there is 
+no apparent probability of either ; but as there is no 
+sense of the necessity of uniting and combining the 
+great divisions of society in one system, no changes 
+can happen for the better. 
+</p><p>
+My love to the children, and believe me very anxious to see you. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

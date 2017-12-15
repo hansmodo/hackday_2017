@@ -1,0 +1,63 @@
+<letter id="gwa4551">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Sir, 
+</p><p>
+My letter to you, herewith enclosed, will give you the credence necessary to enable you to do the business, which it commits to your management, and which I am persuaded you will readily undertake. 
+</p><p>
+Your inquiries will commence by observing, that, as the pre^ 
+sent constitution of government and of the courts established in 
+pursuance of it, removes the objections heretofore made to 
+putting the United States in possession of their frontier posts, 
+it is natural to expect from the assurances of his Majesty and 
+the national good faith, that no unnecessary delays will take 
+place. Proceed then to press a speedy performance of the 
+treaty, respecting that object. 
+</p><p>
+Remind them of the article by which it was agreed, that 
+negroes belonging to our citizens should not be carried away, 
+and of the reasonableness of making compensation for them. 
+Learn with precision, if possible, what they mean to do on this 
+head. 
+</p><p>
+The commerce between the two countries you well under 
+stand. You are apprized of the sentiments and feelings of the 
+United States on the present state of it, and you doubtless have 
+heard, that in the late session of Congress, a very respectable 
+number of both houses were inclined to a discrimination of du 
+ties unfavorable to Britain, and that it would have taken place, 
+but for conciliatory considerations, and the probability that the 
+late change in our government and circumstances would lead 
+to more satisfactory arrangements. 
+</p><p>
+Request to be informed, therefore, whether they contemplate 
+a treaty of commerce with the United States, and on what 
+principles or terms in general. In treating this subject, let it be 
+strongly impressed on your mind, that the privilege of carrying 
+our productions in our vessels to their islands, and of bringing in 
+return the productions of those islands to our own ports and 
+markets, is regarded here as of the highest importance ; and you. 
+will be careful not to countenance any idea of our dispensing 
+with it in a treaty. Ascertain, if possible, their views on this 
+point ; for it would not be expedient to commence negotiations 
+without previously having good reasons to expect a satisfactory 
+termination of them. 
+</p><p>
+It may also be well for you to take a proper occasion of re 
+marking, that their omitting to send a minister here, when the 
+United States sent one to London, did not make an agreeable 
+impression on this country ; and request to know what would 
+be their future conduct on similar occasions. 
+</p><p>
+It is in my opinion very important, that we avoid errors in 
+our system of policy respecting Great Britain, and this can only be done by forming a right judgment of their disposition and 
+views. Hence you will perceive how interesting it is, that you 
+obtain the information in question, and that the business be so 
+managed, as that it may receive every advantage, which abilities, address, and delicacy can promise and afford. 
+I am. Sir, Your most obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter>

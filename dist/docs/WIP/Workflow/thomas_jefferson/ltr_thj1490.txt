@@ -1,0 +1,56 @@
+<letter id='thj1490'>
+<recipient first='A' last='Cary' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, January 7, <a href="/results.php?year=1786">1786</a>.
+</p><p>
+Dear Sir,
+</p><p>
+The very few of my countrymen who happen to be punctual, will find their
+punctuality a misfortune to them. Of this I shall give you a proof by
+the present application, which I should not make to you, if I did
+not know you to be superior to the torpidity of our climate. In my
+conversations with the Count de Buffon on the subjects of Natural
+History, I find him absolutely unacquainted with our elk and our deer.
+He has hitherto believed that our deer never had horns more than a foot
+long; and has, therefore, classed them with the roe-buck, which I am
+sure you know them to be different from. I have examined some of the red
+deer of this country at the distance of about sixty yards, and I find
+no other difference between them and ours, than a shade or two in the
+color. Will you take the trouble to procure for me the largest pair of
+buck's horns you can, and a large skin of each color, that is to say,
+a red and a blue? If it were possible to take these from a buck just
+killed, to leave all the bones of the head in the skin with the horns
+on, to leave the bones of the legs in the skin also, and the hoofs to
+it, so that having only made an incision all along the belly and neck to
+take the animal out at, we could by sewing up that incision and stuffing
+the skin, present the true size and form of the animal, it would be
+a most precious present. Our deer have been often sent to England and
+Scotland. Do you know (with certainty) whether they have ever bred with
+the red deer of those countries? With respect to the elk, I despair of
+your being able to get for me any thing but the horns of it. David Ross
+I know has a pair; perhaps he would give them to us. It is useless to
+ask for the skin and skeleton, because I think it is not in your power
+to get them, otherwise they would be most desirable. A gentleman,
+fellow-passenger with me from <a href="/results.php?city=Boston" rel="city">Boston</a> to England, promised to send to you
+in my name some hares, rabbits, pheasants, and partridges, by the return
+of the ship which was to go to Virginia, and the captain promised to
+take great care of them. My friend procured the animals, and the ship
+changing her destination, he kept them, in hopes of finding some other
+conveyance, till they all perished. I do not despair, however, of
+finding some opportunity still of sending a colony of useful animals.
+I am making a collection of vines for wine, and for the table; also of
+some trees, such as the cork-oak, &c. &c.
+</p><p>
+Every thing is absolutely quiet in Europe. There is not, therefore, a
+word of news to communicate. I pray you to present me affectionately
+to your family and that of Tuckahoe. Whatever expense is necessary for
+procuring me the articles above-mentioned, I will instantly replace,
+either in cash, or in any thing you may wish from hence.
+</p><p>
+I am with very sincere esteem, Dear Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

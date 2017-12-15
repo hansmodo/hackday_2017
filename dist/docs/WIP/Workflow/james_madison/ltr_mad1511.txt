@@ -1,0 +1,35 @@
+<letter id='mad1511'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, January 1, <a href="/results.php?year=1785">1785</a>. 
+</p><p>
+DEAR SIR, I was yesterday honored with yours of the 28th 
+ultimo, accompanying the Report of the Conferees, &c., &c. 
+The latter has been laid before the House of Delegates, and a 
+committee appointed to report a Bill and Eesolutions "corresponding with those of Maryland. The only danger of miscarriage arises from the impatience of the members to depart, and 
+the bare competency of the present number. By great efforts 
+only they have been detained thus long. I am not without 
+hopes, however, that the business of the Potowmac at least will 
+be provided for before the adjournment, and some provision now 
+depending be compleated in favor of James River. Before the 
+receipt of your dispatches a Bill had been passed by the House 
+of Delegates for surveying the former as well as the latter river, 
+on a plan which we shall endeavour, by concert with the Senate, to accommodate to the provisions of Maryland. A Resolution has passed both Houses instructing the Commissioners, 
+appointed in June last to settle with Maryland Commissioners 
+the jurisdiction of the Potowniac, to join in a representation to 
+Pennsylvania on the subject of the waters of the Ohio within her 
+limits. This instruction ought rather to have been committed to 
+the late conference; but when the Commission, under which you 
+attended it, passed, I was confined to my room, and it did not 
+occur to any other member. And, indeed, if I had been well, the 
+haste which necessarily prevailed might have precluded me from 
+comprehending the object within your mission, especially as I 
+had not previously digested my ideas on the subject, nor accurately examined the text of the Confederation. It were to be 
+wished too, I think, that the application to Pennsylvania on the 
+subject of the road could have been blended with that of the 
+River. As it is, it will, I think, be best to refer it, after the 
+example of Maryland, to the Executive. I beg you, Sir, to excuse the brevity which our hurry has imposed upon me. As 
+soon as I have leisure, I will endeavour to make amends by a 
+fuller communication on this subject. 
+</p>
+</letter>

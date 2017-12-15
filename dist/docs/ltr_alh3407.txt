@@ -1,0 +1,46 @@
+<letter id="alh3407">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a rel="month origin" value="11">November</a> <a rel="day origin" value="12">12th</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Ever since my arrival in this quarter, I have been endeavouring to collect the best idea I could of the state of things in 
+New- York, in order the better to form a judgment of the probable reinforcement gone to General Howe. On the whole, 
+this is a fact well ascertained, that New- York has been stripped as bare as possible ; that in consequence of this, the few 
+troops there and the inhabitants are under so strong apprehensions of an attack, as almost to amount to a panic ; that 
+to supply the deficiency of men, every effort is making to excite the citizens to arms for the defence of the city. For this 
+purpose, the public papers are full of addresses to them, that 
+plainly speak the apprehensions prevailing on the occasion. 
+</p><p>
+Hence I infer that a formidable force is gone to General 
+Howe. The calculations made by those who have had the 
+best opportunities of judging, carry the number from six to 
+seven thousand. If so, the number gone and going to <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> is far inferior. five thousand at the utmost. 
+The militia were all detained by <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, till it became too late to send them. 
+</p><p>
+The state of things I gave you when I had the pleasure of 
+seeing you, was, to the best of my judgment, sacredly true. 
+I give you the present information, that you may decide whether any farther succour can with propriety come from you. 
+</p><p>
+The fleet, with the troops on board, sailed out of the Hook 
+the 5th instant. This circumstance demonstrates, beyond 
+a possibility of doubt, that it is General Howe's fixed intention 
+to endeavour to hold <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> at all hazards, and removes 
+all danger of any farther operations up the North river this 
+winter; otherwise Sir Henry Clinton's movement at this 
+advanced season is altogether inexplicable. 
+</p><p>
+If you can with propriety afford any farther assistance, the 
+most expeditious mode of conveying it, will be to acquaint <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> of it, that he may send on the troops with him, 
+to be replaced by them. You, sir, best know the uses to 
+which the troops with you are to be applied, and will determine accordingly. I am certain it is not his excellency's wish 
+to frustrate any plan you may have in view for the benefit of 
+the service, so far as it can possibly be avoided, consistent 
+with a due attention to more important objects. 
+</p><p>
+I am, with respect, sir, your most obedient, 
+</p><p>
+ALEX. HAMILTON, A. D. C. 
+</p>
+</letter>

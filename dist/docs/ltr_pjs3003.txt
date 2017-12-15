@@ -1,0 +1,107 @@
+<letter id="pjs3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+I thank you, my dear General, for your very kind 
+and polite letter of the 28th ultimo, which I just had 
+the honor to receive.
+</p><p>
+Immediately on my arrival here, I issued such orders 
+respecting the provisions and stores, (which I found 
+had been most scandalously embezzled or misapplied,) 
+as I hoped would effectually have brought matters 
+into a right train ; but it is the misfortune of the 
+people here, that they do not know how to obey, 
+although they should be willing. 
+</p><p>
+I have therefore directed the Deputy Commissary-General to send up a person, (whom I named and 
+knew to be equal to the business,) to examine the 
+Commissaries at the several posts on the communication, and to give them such directions as will, I 
+hope, introduce regularity in future. Mr. John N. Bleeker is now employed in that essential business. 
+</p><p>
+With respect to the returns of the army, you will 
+see, by the last letter I had the honor to write you, 
+that I have had no success in getting them properly 
+made, although I have drawn and given them forms, 
+which I thought so clear that no possibility of mistaking them remained. 
+</p><p>
+I foresaw, my dear Sir, that you would have a 
+Herculean labor, in order to introduce that proper 
+spirit of discipline and subordination, which is the 
+very soul of an army ; and I felt for you with the 
+utmost sensibility, as I well knew the variety of 
+difficulties you would have to encounter, and which 
+must necessarily be extremely painful and disgusting  to you, accustomed to order and regularity. I 
+can easily conceive, that my difficulties are only a 
+faint semblance of yours. Yes, my General, I will 
+strive to copy your bright example, and patiently 
+and steadily persevere in that line, which only can 
+promise the wished-for reformation. 
+</p><p>
+Since my last I have had a verbal confirmation, by 
+one of my scouts, of the intelligence contained in the affidavits which I sent you. I am prepared, with the 
+utmost diligence, to obey my orders and move against 
+the enemy, unless your Excellency or Congress should 
+direct otherwise. In the course of a few days I expect 
+to receive the ultimate determination. Whatever it 
+may be, I shall try to execute it in such a manner as 
+will best promote the just cause in which we are engaged. 
+</p><p>
+Not a man from this Colony has yet joined me, 
+except those I returned to you, and who were raised 
+and paid by the Committee of <a href='/results.php?city=albany' rel='city'>Albany</a>. Nor have I 
+yet received those necessary supplies, which I begged 
+the <a href='/results.php?city=new york' rel='city'>New York</a> Provincial Congress to send me as 
+long ago as the 3d of last month, and which the 
+Continental Congress had desired them to do. 
+</p><p>
+The troops here are destitute of tents. They are 
+crowded in vile barracks, which, with the natural 
+inattention of the soldiery to cleanliness, has already been productive of disease, and numbers are 
+daily rendered unfit for duty. 
+</p><p>
+I am so unfortunate as not to have one carriage for 
+field artillery, so that if I am ordered to attack St. 
+John s, and am able to get down the Sorel River, I 
+shall labor under vast difficulty to bring up the can 
+non through a very swampy country. They will be 
+few, indeed, as I shall have less than a ton of powder, when the troops are completed to twenty-four rounds a man. 
+</p><p>
+Congress has appointed Commissioners for Indian 
+Affairs. As one of them, I have ordered messengers to be sent into their country, to invite them 
+to a conference at <a href='/results.php?city=albany' rel='city'>Albany</a>. I have also requested 
+the Caghnawagas to meet me at this place. The 
+whole family of the late Sir William Johnson have 
+held a line of conduct, that evinces the most inimical 
+sentiments to the American cause. Sir John John 
+son has had four hundred men, partly Scotch High 
+landers, in arms, to protect a scoundrel sheriff, who 
+had repeatedly insulted the good inhabitants of that 
+country, which at length they retaliated. The inhabitants have, however, drove off the sheriff, and 
+made the knight promise he would interfere no further. I should not have hesitated one moment to 
+have secured him and his adherents, had I not been 
+apprehensive of evil consequences from the Indians. 
+I therefore thought it most prudent to advise Congress of the whole matter. 
+</p><p>
+Although, Sir, I am much in want of men, and 
+would wish to have the three New Hampshire companies, mentioned in the copy of your letter of the 
+27th ultimo; yet they are so happily posted, either 
+to awe the Missisque and St. Francois Indians, or to 
+march to the relief of the inhabitants of this Colony, living to the westward of where these troops are 
+now posted, on what are commonly called the New 
+Hampshire Grants, that in case of an attack from the 
+savages I have mentioned, who, if any, are most our 
+enemies, I could wish them to remain under orders 
+there for that purpose. 
+</p><p>
+I am extremely happy to learn that you are so well supplied with provisions. I have now a tolerable stock of flour, but very little pork. Fat cattle 
+are, however, coming up, so that I do not apprehend we shall suffer in that article. 
+</p><p>
+My best wishes attend <a href='/results.php?tla=jor' rel='colleague met'><a href='/results.php?tla=jor' rel='colleague met'>Colonel Reed</a></a> and <a href='/results.php?tla=thm' rel='colleague met'><a href='/results.php?tla=thm' rel='colleague met'>Major Mifflin</a></a>. I am, most respectfully, your Excellency's obedient 
+</p><p>
+Very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

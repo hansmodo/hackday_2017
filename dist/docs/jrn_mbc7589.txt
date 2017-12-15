@@ -1,0 +1,9 @@
+<letter id="mbc7589">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mr. Barnwell says, Fame is an article 
+usually home made ; you must create your own puffs or superintend their manufacture. And you must see that the 
+newspapers print your own military reports. No one else will give you half the credit you take to yourself. No one 
+will look after your fine name before the world with the loving interest and faith you have yourself. 
+</p>
+</letter>

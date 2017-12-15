@@ -1,0 +1,19 @@
+<letter id="anp3904">
+<recipient first="John" last="Irvine" type="individual"/>
+<p>
+<a rel="month origin" value="3">March</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR: 
+</p><p>
+I wrote you a few days ago to reinforce <a href='/results.php?tla=jaw' rel='colleague'>Colonel Williams</a> at NinetySix with twenty-five men from your company; but, as I have just got 
+orders from Gen. Williamson to march a strong party of my regiment 
+to Cowan's Ferry, on <a href='/results.php?city=savannah' rel='city'>Savannah</a> river, you will, therefore, march with 
+two parts of your company to that place, to be there on Wednesday 
+next, the 17th inst., armed and accoutred, with good horses. I have 
+wrote to <a href='/results.php?tla=jaw' rel='colleague'>Col. Williams</a> to let your men come home, though you had 
+better see him yourself. I hope you will be spirited in this matter. 
+I am, sir, your most humble servant, 
+</p><p>
+<a href="/results.php?tla=anp" rel="me">ANDREW PICKENS</a>. 
+</p>
+</letter>

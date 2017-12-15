@@ -1,0 +1,59 @@
+<letter id="jol4926">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='9'>9th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+I have to thank you, my dear father, for two shirts, and a piece of scarlet cloth. I wrote to James for some hair powder and pomatum, but received only the 
+latter with a comb. As I am upon the subject of dress, it will not be premature to inform you, that if you should command me to remain in my present 
+station, blue and buff cloth, lining, twist, yellow flat double gilt buttons sufficient to make me a uniform suit, will be wanted ; besides, corded dimity for waist 
+coats and breeches against the opening of the campaign ; and I must beg the favour of you to write to some friend in South Carolina, to procure me these 
+articles. A pair of gold epaulettes and a saddle cloth may be added, if not too expensive. If you should give me leave to execute my black project, my uniform will be a white field (faced with red), a color 
+which is easiest kept clean, and will form a good contrast with the complexion of the soldier. 
+</p><p>
+Inclosed are two letters from Duplessis, which relate to his commission. Upon his arrival here, he asked for a regimental commission, in addition to that which had been given him by Congress. 
+</p><p>
+The general refused it, as he looked upon the resolve to have intended only a brevet, and that a regimental commission might produce a concurrence 
+between him and senior artillery officers, which would be the occasion of discontent, and perhaps the resignation of some valuable men. 
+</p><p>
+Duplessis understands it differently, and, hoping that he is in the right, applies to you. 
+</p><p>
+You know my opinion of this gentleman's merit, but I must confess at the same time, that I think the 
+brevet is a very honourable and handsome reward of his services. 
+</p><p>
+It is said here, that Mr. Fleury is soliciting at York a 
+farther promotion ; I am exceedingly sorry to hear it. 
+All his countrymen agree that he is amply rewarded, 
+and that as there was great analogy between the services render'd by him and Duplessis, no greater recompense should be accorded to one than to the other. If Fleury is made a colonel, Duplessis will have the right 
+to ask the same rank, and so they may go on till they have exhausted all the rank that exists among us. 
+</p><p>
+It is a pity that Congress should grant any promotions 
+but upon the recommendation of those superior officers, who have known or seen the feats upon which 
+the pretensions are founded. The present way of proceeding is productive of great confusion and much 
+uneasiness. It is complained, that whoever will go to 
+York and speak loudly to members of Congress, of his 
+own abilities and eminent services, will obtain what 
+he intrigues for. One improper promotion induces 
+another, and perhaps several others to silence the 
+murmurers, and rank and Congress, I am sorry to 
+say it, but I speak with the bleeding heart of a republican, they are both brought into contempt by it. The 
+august representative body of thirteen free states is 
+said to be bullied by every man who is impudent 
+enough to make his own panegyrick, and represent 
+his own importance. 
+</p><p>
+I could not forbear communicating a part of your 
+favour of 3 d hist., to our friend; he seems sensible that 
+the gentleman, who you mention to have conversed 
+with you upon certain matters, is only the instrument 
+of more dangerous and inveterate personages. 
+</p><p>
+Mr. Payne has obligingly offer'd to take charge of 
+my letter. I have just discovered that he is waiting 
+for it, and as it grows dark and he has a had road to 
+travel, I must not farther trespass upon his good nature. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

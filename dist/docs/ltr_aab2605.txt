@@ -1,0 +1,14 @@
+<letter id="aab2605">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+NEAR <a href="/results.php?city=nashville" rel="city origin">NASHVILLE</a>, <a rel="month origin" value="12">Dec.</a> <a rel="day origin" value="20">20</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+My young friend Stokely Hays, the son of a respectable old revolutionary officer, will hand you this, and will bring me your reply. I have 
+experienced distressing delays ; but shall be at the mouth of the Cumberland on the 23d, Sunday. Please to repair thither. Enter on the east 
+(upper) side of the island, which lies in the mouth of the river. I anticipate impatiently the pleasure of meeting you. 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

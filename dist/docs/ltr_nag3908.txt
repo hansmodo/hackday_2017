@@ -1,0 +1,26 @@
+<letter id="nag3908">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+From many different accounts the enemy threatens us with an attack. 
+We have had no small uneasiness in our camp for want of pay, clothing 
+and spirits. The discontent has reached the enemy, and it is confidently asserted that they are coming out to take advantage of it. I 
+</p><p>
+think it necessary, therefore, as I am not well informed of the full ex 
+tent of the discontent, to call our force together from all parts, as well 
+to awe the malcontents, if any there be, as to prevent the enemy from 
+attempting anything in consequence thereof. I beg you will, therefore, 
+march and join us as soon as possible, with all your force, except a 
+small recounoitering party; and, although this may expose a greater 
+part of the country, yet it will serve to secure a greater object. I beg 
+you will lose no time. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

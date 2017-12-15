@@ -1,0 +1,46 @@
+<letter id="now4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=amherst' rel='city origin'>Amherst</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1813' rel="origin">1813</a> 
+</p><p>
+Sir, 
+</p><p>
+For your favour of the 31st ult. with the enclosed bill, 
+be pleased to accept my most grateful acknowledgments. 
+The interest you have manifested in my labours, and the 
+liberality accompanying it, are the more acceptable, as they 
+have been unsolicited. 
+</p><p>
+It is not improbable that some ill-founded apprehensions 
+that I might attempt changes of orthography, have had their 
+effect in preventing subscriptions ; but there are several 
+other causes. 
+</p><p>
+On the subject of orthography, gentlemen might have 
+been easy, as any considerable changes must prevent the 
+sale and use of a work of this sort, and they might rationally conclude that I would not put myself to an immense 
+trouble and expense, to write a book which would not find 
+purchasers. 
+</p><p>
+My plan is different from any thing before attempted. I 
+have examined and collated the radical words in twenty 
+languages, including the seven Asiatic languages, or rather 
+dialects of the Assyrian stock. This will enable me to 
+explain many things in the English language which have 
+hitherto been obscure. Indeed, this research has opened a 
+field entirely new, and it is probable will lead to many 
+important discoveries, not only in the origin and affinity of 
+languages, but in history sacred and profane. 
+</p><p>
+The price of the work cannot be known at present ; but 
+if I live to complete it, I shall not only present you a copy, 
+but hold myself answerable to refund the principal of the 
+sum advanced. 
+</p><p>
+With gratitude and respect, I am sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=now" rel="me">N. Webster<a/>. 
+</p>
+</letter>

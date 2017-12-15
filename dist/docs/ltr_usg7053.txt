@@ -1,0 +1,35 @@
+<letter id="usg7053">
+<recipient first="Andrew" last="Johnson" type="individual"/>
+<p>
+</p><p>
+<a href='/results.php?city=headquarters armies of the united states' rel='city origin'>HEAD-QUARTERS ARMIES OF THE UNITED STATES</a>, 
+</p><p>
+<a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>, D. C., <a rel='month origin' value='11'>November</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1865' rel="origin">1865</a>. 
+</p><p>
+His EXCELLENCY A. JOHNSON, 
+</p><p>
+President: 
+</p><p>
+Knowing that <a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a>, late of the army which was in rebellion against the authority of the United States, is in 
+the city, and presuming that he intends asking executive clemency before leaving, I beg to say a word in his favor. 
+</p><p>
+<a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a> comes under the third, fifth, and eighth exceptions made in your proclamation of the 29th of May, <a href='/results.php?year=1865'>1865</a>. 
+I believe I can safely say that there is nowhere among the exceptions a more honorable class of men than those embraced in the 
+fifth and eighth of these, nor a class that will more faithfully observe any obligation which they may take upon themselves. 
+</p><p>
+<a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a>, in my opinion, stands high among this class. I have known him well for more than twenty-six years, first as a 
+cadet at West Point and afterwards as an officer of the army. For five years from my graduation we served together, a portion 
+of the time in the same regiment. I speak of him, therefore, from actual personal acquaintance. 
+</p><p>
+In the late rebellion, I think, not one single charge was ever brought against <a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a> for persecution of prisoners 
+of war or of persons for their political opinions. If such charges were ever made, I never heard them. I have no hesitation, 
+therefore, in recommending <a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a> to your Excellency for pardon. I will further state that my opinion of him is 
+such that I shall feel it as a personal favor to myself if this pardon is granted. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Lieutenant- General. 
+</p>
+</letter>

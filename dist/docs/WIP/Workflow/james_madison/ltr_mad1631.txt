@@ -1,0 +1,90 @@
+<letter id='mad1631'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Dec' 8, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, This will be handed to you by <a href='/results.php?tla=gom' rel='co-worker met'>Mr. Gouverneur Morris</a>, who will embark in a few days for Havre, from whence 
+he will proceed immediately to <a href="/results.php?city=paris" rel="city">Paris</a>. He is already well known to you by character; and as far as there may be a defect 
+of personal acquaintance I beg leave to supply it by this introduction. 
+</p><p>
+My two last were of October 8 and 17th. They furnished a state of our affairs as they then stood. I shall here add the particulars of most consequence which have since taken place; 
+remembering, however, that many details will be most conveniently gathered from the conversation of <a href='/results.php?tla=gom' rel='co-worker'>Mr. Morris</a>, who is thoroughly possessed of American transactions. 
+</p><p>
+Notwithstanding the formidable opposition made to the new 
+federal Government, first, in order to prevent its adoption, and 
+since, in order to place its administration in the hands of disaffected men, there is now both a certainty of its peaceable 
+commencement in March next, and a flattering prospect that it 
+will be administered by men who will give it a fair trial. <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> will certainly be called to the Executive department. <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>, who is pledged to support him, will 
+probably be the vice President. The enemies to the Government, at the head and the most inveterate of whom is <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a>, are laying a train for the election of <a href='/results.php?tla=gec' rel=''>Governor Clinton</a>, 
+but it cannot succeed unless the federal votes be more dispersed 
+than can well happen. Of the seven States which have appointed their Senators, Virginia alone will have anti-federal 
+members in that branch. Those of New Hampshire are President Langdon and Judge Bartlett; of Massachusetts, Mr. Strong 
+and Mr. Dalton; of Connecticut, Doctor Johnson and Mr. Ellsworth; of New Jersey, Mr. Patterson and Mr. Elmer; of Pennsylvania, Mr. R. Morris and Mr. McClay; of Delaware, Mr. Geo. Reed and Mr. Bassett; of Virginia, <a href='/results.php?tla=rhl' rel='co-worker'>Mr. R. H. Lee</a> and 
+<a href='/results.php?tla=wlg' rel='acquaintance co-worker met'>Col. Grayson</a>. Here is already a majority of the ratifying 
+States on the side of the Constitution. And it is not doubted 
+that it will be reinforced by the appointments of Maryland, 
+South Carolina, and Georgia. As one branch of the Legislature of <a href="/results.php?city=new york" rel="city">New York</a> is attached to the Constitution, it is not improbable that one of the Senators from that State also will be 
+added to the majority. 
+</p><p>
+In the House of Representatives the proportion of anti-federal members will of course be greater, but cannot, if present 
+appearances are to be trusted, amount to a majority, or even a 
+very formidable minority. The election for this branch has 
+taken place, as yet, no where except in Pennsylvania, and here 
+the returns are not yet come in from all the Counties. It is 
+certain, however, that seven out of the eight, and probable that 
+the whole eight, representatives will bear the federal stamp. 
+Even in Virginia, where the enemies to the Government form 
+| of the legislature, it is computed that more than half the number of Representatives, who will be elected by the people, formed 
+into districts for the purpose, will be of the same stamp. By 
+some, it is computed that seven out of the ten allotted to that 
+State will be opposed to the politics of the present Legislature. 
+</p><p>
+The questions which divide the public at present relate 1. 
+To the extent of the amendments that ought to be made to the 
+Constitution. 2. To the mode in which they ought to be made. 
+The friends of the Constitution, some from an approbation of 
+particular amendments, others from a spirit of conciliation, are 
+generally agreed that the system should be revised. But they 
+wish the revisal to be carried no farther than to supply additional 
+guards for liberty, without abridging the sum of power transferred from the States to the general Government, or altering previous to trial the particular structure of the latter, and are fixed 
+in opposition to the risk of another Convention, whilst the purpose can be as well answered by the other mode provided for introducing amendments. Those who have opposed the Constitution are, on the other hand, zealous for a second Convention and 
+for a revisal, which may either not be restrained at all, or extend 
+at least as far as alterations have been proposed by any State. 
+Some of this class are, no doubt, friends to an effective Government, and even to the substance of the particular Government 
+in question. It is equally certain that there are others who 
+urge a second Convention with the insidious hope of throwing 
+all things into confusion, and of subverting the fabric just established, if not the Union itself. If the first Congress embrace 
+the policy which circumstances mark out, they will not fail to 
+propose, of themselves, every desirable safeguard for popular 
+rights; and by thus separating the well-meaning from the designing opponents, fix on the latter their true character, and 
+give to the Government its due popularity and stability. 
+</p><p>
+I am a stranger to the errand on which G. Morris goes to 
+Europe. It relates, I presume, to the affairs of R. Morris, which are still much deranged. 
+</p><p>
+I have received and paid the draught in favor of Doct. Ramsay. I had before paid the order in favor of Mr. Thompson, 
+immediately on the receipt of your letter. About 220 dollars 
+of the balance due on the last state of our account were left in 
+Virginia for the use of your nephew. There are a few lesserv.
+sums which stand on my side of the account which I shall take 
+credit for, when you can find leisure to forward another statement of your friendly advances for me. 
+</p><p>
+I shall leave this place in a day or two for Virginia, where 
+my friends, who wish me to co-operate in putting our political 
+machine into activity as a member of the house of Representatives, press me to attend. They made me a candidate for the 
+Senate, for which I had not allotted my pretensions. The attempt was defeated by <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a>, who is omnipotent in the 
+present Legislature, and who added to the expedients common 
+on such occasions a public philippic against my federal principles. He has taken equal pains in forming the Counties into 
+Districts, for the election of Representatives, to associate with 
+<a href="/results.php?city=orange" rel="city">Orange</a> such as are most devoted to his politics, and most likely 
+to be swayed by the prejudices excited against me. From the 
+best information I have of the prevailing temper of the District, 
+I conclude that my going to Virginia will answer no other purpose than to satisfy the opinions and entreaties of my friends. 
+The trip is in itself very disagreeable, both on account of its 
+electioneering appearance and the sacrifice of the winter, for 
+which I had assigned a task which the intermission of Congressional business would have made convenient at <a href="/results.php?city=new york" rel="city">New York</a>. 
+</p><p>
+With the sincerest affection and the highest esteem, I am, 
+dear sir, yours. 
+</p>
+</letter>

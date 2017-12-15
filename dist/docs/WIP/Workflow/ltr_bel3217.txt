@@ -1,0 +1,47 @@
+<letter id="bel3217">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=pawlet' rel='city origin'>Pawlet</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I just now received your favor of yesterday's date. By a 
+scout, who has been near <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, and from one of the 
+inhabitants in that neighbourhood, I have a confirmation of the 
+enemy's movements mentioned in your letter. I think it is not 
+probable that their design is on your post. However, I will keep 
+the most watchful eye over them, and, if possible, prevent a surprise. 
+</p><p>
+On being informed by almost every person who came in, as 
+well as by the letter you inclosed to me from General Palmer, 
+of the weak state of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and also advised that a considerable number of our men were prisoners in the enemy's hands,, 
+and kept at Lake George Landing, under a very small guard, at 
+which place the enemy had a large magazine of stores ; and sup 
+posing a movement that way would perfectly coincide with the 
+original design of my being" sent here, namely, if possible to di 
+vide and distract the enemy, I was induced yesterday, with the 
+advice of the officers, to send Colonel Brown, with five hundred 
+men, to the landing at Lake George, to relieve the prisoners and 
+destroy the stores there ; the same number of men under Colonel 
+Johnson to Mount Independence; the latter to give a diversion 
+to the enemy, while the former should execute his commission, 
+and, if an opportunity should offer, without risking too much, to 
+push for Mount Independence, while Colonel Brown would at 
+tempt <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and, farther, to amuse and divide the enemy 
+by attacking their outposts, &c. A like number of men were 
+sent under Colonel Woodbridge to Skenesborough, thence to Fort 
+Anne, and on to <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>. 
+</p><p>
+I hope these movements will meet your approbation. I should 
+have mentioned the design before, and not have put the plan in 
+execution without your advice, could I have been sure the in 
+formation would not have fallen into the hands of the enemy. I 
+supposed that you intended to hint to me your apprehension of 
+danger in this way, and that I must be cautious as to what I 
+wrote, when, in the close of your favor of the 10th, you say, " I 
+desire you will not fail frequently to acquaint me with your movements, and, as far as is prudent, with your designs." 
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

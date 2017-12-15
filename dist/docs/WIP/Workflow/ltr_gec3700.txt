@@ -1,0 +1,56 @@
+<letter id="gec3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p><p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, 10 o'clock, P. M., <a rel='day origin' value='18'>18</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I wrote your Excellency from <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a> on 
+Saturday last, and communicated to you the accounts 
+which I had then received from this quarter. The 
+next day I set out for this place, and arrived here 
+on Monday. Upon my arrival, I found the main 
+body of the enemy, which appeared in the northward, 
+had returned by the way of Lake George ; and that 
+part of the country seemed again to be in a state of 
+tranquillity. Yesterday morning, however, I was informed that a party had made its appearance at Ballston, and destroyed some buildings there ; and, about 
+noon, received accounts that the enemy were at Schoharie, and it is now confirmed that they have destroyed the whole of that valuable settlement. Their 
+numbers of one division are computed at about six 
+hundred, and the accounts of the other division are 
+uncertain. They have artillery with them. Major 
+Woolsey, who commands two hundred of the levies, 
+made a sally from one of the small forts there, and 
+took two regulars and killed five savages. By what 
+route they came, or mean to return, I have not been 
+able to ascertain. Yesterday morning I ordered General Van Rensselaer, with some troops, to Schenectady, with directions, as soon as he could make the proper discoveries, and if his force should appear competent, to march and endeavour to intercept them. 
+</p><p>
+By a letter from <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, I 
+am informed that the enemy yesterday burnt the 
+settlement of white Creek, in Charlotte county; and 
+the smoke was discoverable from the heights, near 
+his house. 
+</p><p>
+The post at <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, after the removal of The 
+stores, is evacuated, the levies, who were stationed 
+there, having insisted that their time of service is 
+expired ; and Colonel Livingston, the commanding officer, with the other officers, are now on their return. 
+I have ordered out the whole of the militia from this 
+part of the State. A considerable part are already 
+in the field, and I shall leave this immediately for 
+Schenectady, in order to make the necessary arrangement. 
+</p><p>
+From this state of matters, your Excellency will 
+perceive the necessity of sending a force, if it can 
+possibly be spared, for the defence of this part of the 
+country. No dependence can be placed on the militia remaining from home, and the three months' levies 
+will soon be dismissed ; so that, without some farther 
+protection, Schenectady and this place will be our 
+frontier. I received no intelligence from the Grants, 
+either whether the enemy have done any mischief 
+there, or whether their militia is turning for our assistance. 
+</p><p>
+am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">George Clinton</a>. 
+</p>
+</letter>

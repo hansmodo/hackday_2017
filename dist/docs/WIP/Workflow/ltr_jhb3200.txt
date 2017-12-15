@@ -1,0 +1,24 @@
+<letter id="jhb3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=cambridge' rel='city origin'>Cambridge</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I beg you to accept my sincerest acknowledgments 
+for your very obliging letter. I find the character, 
+which I before knew to be respectable, is also perfectly amiable ; and I should have few greater private gratifications in seeing our melancholy contest 
+at an end, than that of cultivating your friendship. 
+</p><p>
+I shall take particular care of your letter to Mr. 
+Fairfax. He is a gentleman much esteemed. I hope there is no reason to apprehend his death ; I heard 
+no such report when I left England, last spring, nor 
+have I seen it in any of the magazines since, most 
+of which have come to my hands. I have the honor 
+to be, with great respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>.
+</p>
+</letter>

@@ -1,0 +1,34 @@
+<letter id="smd7970">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Monday, <a rel="month origin" value="11">November</a> <a rel='day origin' value='30'>3Oth</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+Our distress about Gibbes has been somewhat relieved by good news from Jimmy. The jolliest 
+sailor letter from him came this morning, dated only the 4th instant from Cherbourg, detailing his 
+cruise on the Georgia from leaving England, to Bahia, Trinidad, Cape of Good Hope, to France 
+again. Such a bright, dashing letter! We laughed extravagantly over it when he told how they readily 
+evaded the Vanderbilt, knowing she would knock them into "pie"; how he and the French Captain 
+quarreled when he ordered him to show his papers, and how he did not know French abuse enough to 
+enter into competition with him, so went back a first and second time to Maury when the man would 
+not let him come aboard, whereupon Maury brought the ship to with two or three shots and Jimmy made 
+a third attempt, and forced the Frenchman to show 
+his papers. He tells it in such a matter-of-fact way! 
+No extravagance, no idea of having been in a dangerous situation, he a boy of eighteen, on a French ship 
+in spite of the Captain's rage. What a jolly life it 
+must be! Now dashing in storms and danger, now 
+floating in sunshine and fun ! Wish I was a midship 
+man ! Then how he changes, in describing the prize 
+with an assorted cargo that they took, which contained all things from a needle to pianos, from the 
+reckless spurt in which he speaks of the plundering, 
+to where he tells of how the Captain, having died 
+several days before, was brought on the Georgia 
+while Maury read the service over the body and consigned it to the deep by the flames of the dead man's 
+own vessel. What noble, tender, manly hearts it 
+shows, those rough seamen stopping in their work of 
+destruction to perform the last rites over their dead 
+enemy. One can fancy their bare heads and sun 
+burned faces standing in solemn silence around the 
+poor dead man when he dropped into his immense 
+grave. God bless the "pirates"! 
+</p><p>
+</letter>

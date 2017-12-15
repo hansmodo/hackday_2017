@@ -1,0 +1,30 @@
+<letter id="rim5006">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>MONTREAL</a>, <a rel="month origin" value="11">Nov</a>. <a rel='day origin' value='24'>24th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+I wrote to you by Harry, and hope you have some days ago had the pleasure of seeing him. I long to see you in your new 
+house. Tf the winter set in soon don't forget to send for the lath to fence the garden, and also to have chestnut posts cut for the 
+same purpose. I wish you could get a stove fixed in the hall they are the most comfortable things imaginable. 
+</p><p>
+The other day General Prescott was so obliging as to surrender himself and fourteen or fifteen land officers, with above 
+one hundred men, besides sea officers and sailors, prisoners of war. I blush for His Majesty's troops! Such an instance of 
+base poltroonery I never met with ! and all because we had half-a-dozen cannon on the bank of the river to annoy him in his retreat. The Governor escaped more 's the pity! Prescott, 
+nevertheless, is a prize. He is a cruel rascal. I have treated him with the sovereign contempt his inhumanity and barbarity merit. 
+</p><p>
+To-morrow I hope to set out for <a href='/results.php?city=quebec' rel='city'>Quebec</a>, to join <a href="/results.php?tla=bea" rel="colleague met">Col. Arnold</a>, who is impatient to see us. His little army has undergone inexpressible hardships, and entered the country half-starved and 
+half-naked. Should fortune continue her favor we may perhaps bring that business to a happy issue. In the meantime, adieu ! 
+</p><p>
+Believe me most affect'ly your 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p><p>
+P. S. I have no time to write to your <a href="/results.php?tla=rol" rel="kin met">father</a>. I have been overwhelmed with business, and am out of all patience at being obliged to spend so much of this precious season in this town. 
+</p><p>
+My most affectionate respects attend the old gentleman and lady. My love to the girls. Do they go to town? No husbands this winter? Alas ! 
+</p><p>
+I live in hopes to see you in six weeks. 
+</p>
+</letter>

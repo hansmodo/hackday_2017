@@ -1,0 +1,119 @@
+Letters to GW Actor list:
+
+George Washington 		=> gwa
+Benedict Arnold			=> bea
+Philip Schuyler			=> pjs
+Richard Lee				=> rhl
+Charles Lee				=> chl
+Nathanael Greene		=> nag
+Thomas Mifflin			=> thm
+John Sullivan			=> jsu
+Israel Putnam			=> isp
+Horatio Gates			=> hog
+Patrick_Henry			=> pah
+Richard Montgomery		=> rim
+Nicholas Cooke			=> nic
+Jonathan Trumbull		=> jht
+David Wooster			=> daw
+John Hancock			=> joh
+George Mason			=> gem
+Henry Knox				=> hek
+Robert Morris			=> rom
+George Clinton			=> gec
+William Heath			=> wih
+John Cadwalader			=> jhc
+Benjamin Lincoln		=> bel
+Henry Laurens			=> hel
+John Laurens			=> jol
+John Jay				=> joj
+Alexander Hamilton		=> alh
+William Livingston		=> wil
+Christopher Greene		=> chg
+Kazimierz Pulaski		=> pak
+Jean Baptiste Charles Henri Hector, Comte d'Estaing	=> cde
+John Burgoyne			=> jhb
+Thomas Wharton Jr.		=> thw
+Joseph Reed				=> jor
+Daniel Brodhead			=> dab
+Arthur St. Clair		=> arc
+
+
+/////////////////////////
+insert into name values(581,'rim','Richard Montgomery');
+insert into name values(582,'nic','Nicholas Cooke');
+insert into name values(583,'jht','Jonathan Trumbull');
+insert into name values(584,'daw','David Wooster');
+insert into name values(585,'joh','John Hancock');
+insert into name values(586,'gem','George Mason');
+insert into name values(587,'hek','Henry Knox');
+insert into name values(588,'rom','Robert Morris');
+insert into name values(589,'gec','George Clinton');
+insert into name values(590,'wih','William Heath');
+insert into name values(591,'jhc','John Cadwalader');
+insert into name values(592,'bel','Benjamin Lincoln');
+insert into name values(593,'hel','Henry Laurens');
+insert into name values(594,'jol','John Laurens');
+insert into name values(595,'joj','John Jay');
+insert into name values(596,'alh','Alexander Hamilton');
+insert into name values(597,'wil','William Livingston');
+insert into name values(598,'chg','Christopher Greene');
+insert into name values(599,'kap','Kazimierz Pulaski');
+insert into name values(600,'jhb','John Burgoyne');
+insert into name values(601,'thw','Thomas Wharton');
+insert into name values(602,'jor','Joseph Reed');
+insert into name values(603,'dab','Daniel Brodhead');
+insert into name values(604,'cde','Jean Baptiste Charles Henri Hector');
+insert into name values(605,'cde','Count d\'Estaing');
+insert into name values(606,'cde','Comte d\'Estaing');
+
+insert into name values(614,'rol','Robert Livingston');
+insert into name values(615,'jhs','John Stark');
+insert into name values(616,'jhs','General Stark');
+insert into name values(617,'cdr','Jean Baptiste Donatien de Vimeur');
+insert into name values(618,'cdr','Count de Rochambeau');
+insert into name values(619,'cdr','comte de Rochambeau');
+insert into name values(620,'cdl','Chevalier de la Luzerne');
+insert into name values(621,'cdl','Luzerne');
+insert into name values(622,'frs','Friedrich Steuben');
+insert into name values(623,'frs','Friedrich Wilhelm von Steuben');
+insert into name values(624,'frs','Baron von Steuben');
+insert into name values(625,'wli','William Irvine');
+insert into name values(626,'wli','General Irvine');
+insert into name values(627,'jej','Joseph Jones');
+insert into name values(628,'toc','Thomas Chittenden');
+insert into name values(629,'toc','Governor Chittenden');
+insert into name values(630,'jht','John Rutledge');
+insert into name values(631,'jht','Governor Rutledge');
+insert into name values(632,'jht','Chief Justice Rutledge');
+insert into name values(633,'jac','James Clinton');
+insert into name values(634,'jac','General Clinton');
+insert into name values(635,'jad','James Duane');
+insert into name values(636,'jad','Mayor Duane');
+insert into name values(637,'jad','Judge Duane');
+insert into name values(638,'cdt','Chevalier de Ternay');
+insert into name values(639,'cdt','Admiral Ternay');
+
+insert into name values(640,'crg','Christopher Gadsden');
+insert into name values(641,'crg','General Gadsden');
+insert into name values(642,'anp','Andrew Pickens');
+insert into name values(643,'anp','General Pickens');
+insert into name values(644,'frm','Francis Marion');
+insert into name values(645,'frm','General Marion');
+insert into name values(646,'top','Thomas Pinckney');
+insert into name values(647,'ccp','Charles Cotesworth Pinckney');
+insert into name values(648,'ccp','General Pinckney');
+insert into name values(649,'peh','Peter Horry');
+insert into name values(650,'peh','Colonel Horry');
+insert into name values(651,'jhm','John Mathews');
+insert into name values(652,'jhm','Governor Mathews');
+insert into name values(653,'roh','Robert Howe');
+insert into name values(654,'roh','General Howe');
+insert into name values(655,'laf','Gilbert du Motier Lafayette');
+insert into name values(656,'cdr','Jean Baptiste de Vimeur');
+
+
+
+
+
+
+

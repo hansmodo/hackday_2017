@@ -1,0 +1,27 @@
+<letter id='dol1415'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1415'>
+<recipient first='Dolly' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, September 9, <a href="/results.php?year=1833">1833</a>. 
+</p><p>
+It has seemed to me, my dearest Dolly, that I should never be able to write you a 
+letter on account of a stream of people coming and going, until I fear I am quite 
+nervous. There is not much of interest to tell you. Our neighborhood is as you left 
+it ; many lowlanders have been among us, and Mrs. Needham <a href="/results.php?city=washington" rel="city">WASHINGTON</a> is now with Mrs. Cole. 
+</p><p>
+Do you know, my dear, that I was as glad to get a letter from you yesterday as 
+I was to receive a present of a pair of the celebrated English Holkim calves, sent 
+me by Mr. Patterson, of <a href="/results.php?city=baltimore" rel="city">Baltimore</a>. Your Uncle Madison is better, and rides out 
+every day, three or four miles, and these are the only excursions I have taken since 
+you left us. Mr. Longacre was here for some days to take your uncle s likeness for his gallery, and I think succeeded very well. 
+</p><p>
+I do not know if I wrote you that Mr. Livingstone sent me a fine bust of himself 
+as a remembrance, before sailing, and I prize it very much. A young artist named 
+Chapman is coming to take your uncle's portrait ; we also expect Mr. and Mrs. Rives, Mr. and Mrs. Stevenson, and many others, on their way from the White Sulphur Springs. Payne is at home and improving his knowledge of geology. 
+</p><p>
+Ever your own aunt, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY P. MADISON.</a>. 
+</p>
+</letter></letter>

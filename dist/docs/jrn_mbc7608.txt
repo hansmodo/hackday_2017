@@ -1,0 +1,17 @@
+<letter id="mbc7608">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. They have taken at Nashville more men than we had at Manassas; there was bad handling of 
+troops, we poor women think, or this would not be. Mr. Venable added bitterly, Giving up our soldiers to the enemy means giving up the cause. We can not replace them. The up-country men were Union men generally, and the 
+low-country seceders. The former growl ; they never liked those aristocratic boroughs and parishes, they had themselves a good and prosperous country, a good constitution, and were satisfied. But they had to go to leave all and 
+fight for the others who brought on all the trouble, and who do not show too much disposition to fight for themselves. 
+</p><p>
+That is the extreme up-country view. The extreme low-country says Jeff Davis is not enough out of the Union yet. 
+His inaugural address reads as one of his speeches did four years ago in the United States Senate. 
+</p><p>
+A letter in a morning paper accused Mr. Chesnut of staying too long in Charleston. The editor was asked for 
+the writer's name. He gave it as Little Moses, the Governor's secretary. When Little Moses was spoken to, in a 
+great trepidation he said that Mrs. Pickens wrote it, and got him to publish it ; so it was dropped, for Little Moses is 
+such an arrant liar no one can believe him. Besides, if that sort of thing amuses Mrs. Pickens, let her amuse herself. 
+</p>
+</letter>

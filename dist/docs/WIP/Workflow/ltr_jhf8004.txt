@@ -1,0 +1,124 @@
+<letter id='jhf8004'>
+<recipient first='Jessie' last='Benton' type='individual'/>
+<p>
+<a href='/results.php?city=taos' rel='city origin'>Taos</a>, New Mexico, <a rel="month origin" value="1">January</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1849' rel="origin">1849</a>. 
+</p><p>
+My very dear Wife, - 
+</p><p>
+I write to you from the house of our good friend Carson. This morning a cup of chocolate was brought to me, while yet in bed. To an 
+overworn, overworked, much fatigued, and starving traveller, these little luxuries of the world offer an interest which in your comfortable home 
+it is not possible for you to conceive. While in the enjoyment of this luxury, then, I pleased myself in imagining how gratified you would be in 
+picturing me here in Kit's care, whom you will fancy constantly occupied and constantly uneasy in endeavoring to make me comfortable. How 
+little could you have dreamed of this while he was enjoying the pleasant hospitality of your father's house ! The furthest thing then from your mind 
+was that he would ever repay it to me here. 
+</p><p>
+But I have now the unpleasant task of telling you how I came here. I had much rather write you some rambling letters in union with the 
+repose in which I feel inclined to indulge, and talk to you about the future with which I am already busily occupied ; about my arrangements 
+for getting speedily down into the more pleasant climate of the lower Del Norte and rapidly through into California; and my plans when I 
+get there. I have an almost invincible repugnance to going back among scenes where I have endured much suffering, and for all the incidents 
+and circumstances of which I feel a strong aversion. But as clear information is absolutely necessary to you, and to your father more particularly still, I will give you the story now instead 
+of waiting to tell it to you in California. But I write in the great hope that you will not receive this letter. When it reaches Washington you may be on your way to California. 
+</p><p>
+Former letters have made you acquainted with our journey so far as Bent's Fort, and from report you will have heard the circumstances of 
+our departure from the Upper Pueblo of the Arkansas. We left that place about the 25th of November, with upwards of a hundred good mules and one hundred and thirty bushels of 
+shelled corn, intended to support our animals across the snow of the high mountains, and down to the lower parts of the Grand River 
+tributaries, where usually the snow forms no obstacle to winter travelling. At the Pueblo, I had engaged as a guide an old trapper well known 
+as "Bill Williams," and who had spent some twenty-five years of his life in trapping various parts of the Rocky Mountains. The error of 
+our journey was committed in engaging this man. He proved never to have in the least known, or entirely to have forgotten, the whole 
+region of country through which we were to pass. We occupied more than half a month in making the journey of a few days, blundering a tortuous way through deep snow which already 
+began to choke up the passes, for which we were obliged to waste time in searching. About the 11th December we found ourselves at the north 
+of the Del Norte Canon, where that river issues from the St. John's Mountain, one of the highest, most rugged and impracticable of all the Rocky 
+Mountain ranges, inaccessible to trappers and hunters even in the summer time. Across the point of this elevated range our guide conducted us, and having still great confidence in his 
+knowledge, we pressed onwards with fatal resolution. Even along the river bottoms the snow was already belly deep for the mules, frequently snowing in the valley and almost constantly in 
+the mountains. The cold was extraordinary ; at the warmest hours of the day (between one and two) the thermometer (Fahrenheit) standing 
+in the shade of only a tree trunk at zero ; the day sunshiny, with a moderate breeze. We pressed up towards the summit, the snow 
+deepening ; and in four or five days reached the naked ridges which lie above the timbered country, and which form the dividing grounds 
+between the waters of the Atlantic and Pacific oceans. Along these naked ridges, it storms nearly all winter, and the winds sweep across 
+them with remorseless fury. On our first attempt to cross we encountered a <em>poudrerie</em> and were driven back, having some 10 or 12 
+men variously frozen, face, hands, or feet. The guide came nigh being frozen to death here, and dead mules were already lying about the fires. 
+Meantime, it snowed steadily. The next day we made mauls, and beating a road or trench through the snow crossed the crest in defiance of the <em>poudrerie</em> and encamped immediately 
+below in the edge of the timber. The trail showed as if a defeated party had passed by ; pack-saddles and packs, scattered articles of clothing, and dead mules strewed along. A 
+continuance of stormy weather paralyzed all movement. We were encamped somewhere about 12,000 feet above the sea. Westward, the country was buried in deep snow. It was 
+impossible to advance and to turn back was equally impracticable. We were overtaken by sudden and inevitable ruin. It so happened that the only places where any grass could be had 
+were the extreme summit of the ridges, where the sweeping winds kept the rocky ground bare and the snow could not lie. Below these, animals could not get about, the snow being deep 
+enough to bury them. Here, therefore, in the full violence of the storms we were obliged to keep our animals. They could not be moved 
+either way. It was instantly apparent that we should lose every animal. 
+</p><p>
+I determined to recross the mountain more towards the open country, and haul, or pack the baggage (by men) down to the Del Norte. With great labor the baggage was transported 
+across the crest to the head springs of a little stream leading to the main river. A few days were sufficient to destroy our fine band of mules. They generally kept huddled together, and as 
+they froze, one would be seen to tumble down and the snow would cover him ; sometimes they would break off and rush down towards the 
+timber until they were stopped by the deep snow, where they were soon hidden by the <em>poudrerie</em>. The courage of the men failed fast ; 
+in fact, I have never seen men so soon discouraged by misfortune as we were on this occasion ; but, as you know, the party was not 
+constituted like the former ones. But among those who deserve to be honorablv mentioned, and who behaved like what they were, - men of 
+the old exploring party, - were Godey, King, and Taplin ; and first of ail, Godey. In this situation, I determined to send in a party to the 
+Spanish settlements of New Mexico for provisions and mules to transport our baggage to Taos. With economy, and after we should 
+eave the mules, we had not two weeks provisions in the camp. These consisted of a store which I had reserved for a hard day, macaroni and bacon. From among the volunteers I chose 
+King, Brackenridge, Creutzfeldt, and the guide Williams ; the party under the command of King. In case of the least delay at the settlements, he was to send me an express. In the 
+mean time, we were to occupy ourselves in removing the baggage and equipage down to the Del Norte, which we reached with our baggage 
+in a few days after their departure (which was the day after Christmas.) Like many a Christmas for years back, mine was spent on the 
+summit of a wintry mountain, my heart filled with gloomy and anxious thoughts, with none of the merry faces and pleasant luxuries that belong to that happy time. You may be sure 
+we contrasted much this with the last at Washington, and speculated much on your doings, and made many warm wishes for your happiness. Could you have looked into Agrippa's 
+glass for a few moments only ! You remember the volumes of Blackstone which I took from your father's library when we were overlooking 
+it at our friend Brant's ? They made my Christmas amusements. I read them to pass the heavy time and forget what was around me. 
+Certainly you may suppose that my first law lessons will be well remembered. Day after 
+day passed by and no news from our express party. Snow continued to fall almost incessantly on the mountain. The spirits of the 
+camp grew lower. Proue laid down in the trail and froze to death. In a sunshiny day, and 
+having with him means to make a fire, he threw his blankets down in the trail and laid there till he froze to death. After sixteen days had 
+elapsed from King's departure, I became so uneasy at the delay, that I decided to wait no longer. I was aware that our troops had been 
+engaged in hostilities with the Spanish Utahs and Apaches, who range in the North River valley, and became fearful that they (King's party) had been cut off by these Indians ; I 
+could imagine no other accident. Leaving the camp employed with the baggage and in charge of Mr. Vincenthaler, I started dow~n the river 
+with a small party consisting of Godey, (with his young nephew,) Mr. Preuss and Saunders. We carried our arms and provision for two or three 
+days. In the camp the messes had provisions for two or three meals, more or less ; and about five pounds^ of sugar to each man. Failing to 
+meet King, my intention was to make the Red River settlement, about twenty-five miles north 
+of Taos, and send back the speediest relief possible. My instructions to the camp were, that 
+if they did not hear from me within a stated time, they were to follow down the Del Norte. 
+" On the second day after leaving camp we came upon a fresh trail of Indians, - two lodges, 
+with a considerable number of animals. This did not lessen our uneasiness for our people. As their trail when we met it turned and went 
+down the river, we followed it. On the fifth day we surprised an Indian on the ice of the river. He proved to be a Utah, son of a Grand 
+River chief we had formerly known, and behaved to us in a friendly manner. We encamped near them at night. By a present of a rifle, my two 
+blankets, and other promised rewards when we should get in, I prevailed upon this Indian to go 
+with us as a guide to the Red River settlement, and take with him four of his horses, principally to carry our little baggage. These were wretchedly poor, and could get along only in a very 
+slow -walk. On that day (the sixth) we left the lodges late, and travelled only some six or seven miles. About sunset we discovered a little 
+smoke, in a grove of timber off* from the river, and thinking perhaps it might be our express party on its return, we went to see. This was 
+the twenty-second day since they had left us, and the sixth since we had left the camp. We found them, - three of them, - Creutzfeldt, 
+Brackenridge, and Williams, - the most miserable objects I have ever seen. I did not recognize Creutzfeldt's features when Brackenridge 
+brought him up to me and mentioned his name. They had been starving. King had starved to death a few days before. His remains were some six or eight miles above, near the river. 
+By aid of the horses, we carried these three with us to Red River settlement, which we reached (Jan. 20) on the tenth evening after leaving our camp in the mountains, having travelled through 
+snow and on foot one hundred and sixty miles. I look upon the anxiety which induced me to set out from the camp as an inspiration. Had 
+I remained there waiting the party which had been sent in, every man of us would probably have perished. 
+</p><p>
+The morning after reaching the Red River town, Godey and myself rode on to the Rio Hondo and Taos, in search of animals and supplies, and on the second evening after that on 
+which we had reached Red River, Godey had returned to that place with al30ut thirty animals, provisions, and four Mexicans, with which he 
+set out for the camp on the following morning. On the road he received eight or ten others, which were turned over to him by the orders of 
+Major Beale, the commanding officer of this northern district of New Mexico. I expect that Godey will reach this place with the party on 
+Wednesday evening, the 31st. From Major Beale I received the offer of every aid in his power, and such actual assistance as he was 
+able to render. Some horses which he had just recovered from the Utahs were loaned to me, and he supplied me from the commissary's department with provisions which I could have 
+had nowhere else. I find myself in the midst of friends. With Carson is living Owens, and Maxwell is at his father-in-law's, doing a very 
+prosperous business as a merchant and contractor for the troops. 
+</p><p>
+Evening. Mr. St. Vrain and Aubrey, who have just arrived from Santa Fe, called to see me. I had the pleasure to learn that Mr. St. Vrain sets out from Santa Fe on the 15th of 
+February, for St. Louis, so that by him I have an early and certain opportunity of sending you my letters. ' Beale left Santa Fe on his journey to California on the 9th of this month. He 
+probably carried on with him any letters which might have been at Santa Fe for me. I shall probably reach California with him or shortly after him. Say to your father that these are 
+my plans for the future. 
+</p><p>
+At the beginning of February (about Saturday) I shall set out for California, taking the southern route, by the Rio <em>Abajo</em>, the Paso del Norte, and the south side of the Gila, entering 
+California at the <em>Agua Caliente</em>, thence to Los Angeles and immediately north. I shall break up my party here and take with me only a few men. 
+The survey has been uninterrupted up to this point, and I shall carry it on consecutively. As soon as possible after reaching California I will go on with the survey of the coast and coast 
+country. Your father knows that this is an object of great desire with me, and I trust it is not too much to hope that he may obtain the countenance and aid of the President (whoever 
+he may be) in carrying it on effectually and rapidly to completion. For this I hope earnestly. I shall then be enabled to draw up a map and report on the whole country, agreeably 
+to our previous anticipations. All my other plans remain entirely unaltered. I shall take immediate steps to make ourselves a good home in California, and to have a place ready for your 
+reception, which I anticipate for April. My hopes and wishes are more strongly than ever turned that way. 
+</p><p>
+Monday 29. My letter now assumes a journal form. No news yet from the party, - a great deal of falling weather ; rain and sleet here, and 
+snow in the mountains. This is to be considered a poor country ; mountainous, with severe winters and but little arable land. To the United 
+States it seems to me to offer little other value than the right of way. It is throughout infested with Indians, with whom in the course 
+of the present year the United States will be at war, as well as in the Oregon Territory. To hold this country will occasion the government great expense, and, certainly, one can see no 
+source of profit or advantage in it. An additional regiment will be required for special service here. 
+</p><p>
+Mr. St. Vrain dined with us to-day. Owens goes to Missouri in April to get married, and thence by water to California. Carson is very 
+anxious to go there with me now, and afterwards remove his family thither, but he cannot decide to break off from Maxwell and family connections. 
+</p><p>
+I am anxiously waiting to hear from my party, in much uncertainty as to their fate. My presence kept them together and quiet; my 
+absence may have had a bad effect. When we overtook King's starving party, Brackenridge said that he "would rather have seen me than his father." 
+</p>
+</letter>

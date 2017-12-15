@@ -1,0 +1,210 @@
+<letter id="hnb2400">
+<recipient first="Thomas" last="de Courcey" type="individual"/>
+<p>
+<a href="/results.php?city=new utrecht" rel="city origin">New Utrecht</a>, Long Island, 
+</p><p>
+<a rel="month origin" value="8">August</a> <a rel="day origin" value="18">18th</a>, <a href="/results.php?year=1796" rel="origin">1796</a>. 
+</p><p>
+MY DEAR TOM: Although I feel that your anxiety 
+and my own wishes equally urge the dispatch of this letter, yet that its end should not be altogether unattained, 
+I have not only deferred beginning it since my landing on the 1st instant, but shall probably conclude with a 
+date considerably distant from that with which I have commenced; for I shall sooner depend upon your rely 
+ing on the chances in favor of the safe issue of my voyage, than merely send you an account of it such a 
+distance as divides every thing but our hearts, unaccompanied with some account of things as they shall strike 
+me in this country from time to time, which, as they will necessarily affect my interests, will, I know, on that 
+account, be more than entertaining to you. As to our passage, as nothing very material happened in the course 
+of it, I shall only tell you that we made it very tediously, that is, in seventy-three days from our sailing from 
+Gravesend, till we landed at <a href="/results.php?city=new york" rel="city">New York</a>. During our 
+vicissitudes of calms and adverse winds, which, instead of the direct distance, compelled us to submit to a traverse sailing of, I suppose, not less than ten thousand 
+miles, I was relieved from any sense whatever of confinement by the variety and awfulness of nature in the Western Ocean, and particularly in what is called the 
+Florida Gulf Stream, together with the almost daily occupation of examining, and finally, when we made the 
+land, correcting the dead reckoning of the ship by means of two excellent instruments, with which, among others, 
+I provided myself in <a href="/results.php?city=london" rel="city">London</a> ; the one a Hadley's sextant,the other a chronometer watch, iriade by the maker to the British Board of Longitude. 
+</p><p>
+On first setting my foot on American soil, I was visited with sensations which I certainly never experienced in 
+the old country. With any particular description of these I shall not trouble you, but while they excited 
+severe regrets, as I cast my eyes back on the sea that interposed so wide a space between me and the many 
+dear ties I left behind, they soon after inspired more selfish reflections to cheer me with the contemplation of so 
+grand a barrier between me and the malevolence of my enemies, while it seemed, at the same time, the only 
+limit of my natural and political independence. But 
+these prospects, I must admit, merely dawn at present; and my expectations will not ripen under their meridian 
+heat till I shall have acquired a landed property equal to that with which I have parted. 
+</p><p>
+The climate, as well as the voyage, which Maggie has home well, has received us kindly, and still continues to 
+treat us with benignity. The situation of <a href="/results.php?city=new york" rel="city">New York</a>, 
+with which I know Morse has acquainted you, save in ihe lower parts of the town, where, from its rapid 
+increase in trade, and I may say, the almost insular situation of the city, the inhabitants have, for some time, 
+been making new ground for docks, and building lots, with bad and filthy stuff' ; its situation, I say, is provided 
+with almost every requisite to check, if not destroy, the tendency of the climate (which in spring and summer is 
+damp, and suddenly and violently variable), to produce the intermittent very general here, and known by the 
+name of the fever and ague, which, to all appearance, is the same complaint with the ague in Europe. But the 
+severe heat generally prevalent in the months of July and August, raising the thermometer some days to 96 ; 
+by its pernicious influence on the docks, and new low grounds, renders it advisable for foreigners to retire to 
+the country. Principally upon this account, added to a severe handling from the musketoes, which, during our 
+stay in town, used to come over from the Jersey shore, opposite to which we lodged upon the Hudson, I removed 
+to this place last Saturday, where we have joined a tolerably pleasant party, chiefly of subscribers, who have 
+built a handsome house, with a large room and balcony in front, of near seventy feet in length, and other apartments, containing about thirty good bed-rooms. The 
+situation is pleasant and cool upon the shore, compared with the town, from which it is distant about twelve 
+miles. Here we shall remain till the latter end of the month, when the heat will moderate, and I shall pass 
+through Jersey on my way to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>. In the 
+meantime, I shall further explore this Island, having as yet, from the heat of the weather, done almost nothing 
+in that way. But in two or three rides I have witnessed the general poverty of the soil which, though extremely 
+shallow and sandy, exhibits a beautiful diversity of cultivated country, in the appearance of large and well 
+fenced fields of cucumbers, musk and water-melons, with plenty of apple and peach orchards. The peaches, 
+though no more attended to than your wildings in Kerry, have as good a flavor as the best ever produced 
+at E.een. Judge then what a garden I look to in a better soil and climate. Grapes are universal, but seem totally 
+neglected except for pies, though I am persuaded they might even here be brought to perfection. Indian corn 
+is so much the staple of consumption on this island, that it alone is called corn, every other species of grain being 
+distinguished by its proper name. The farmers, nine out of ten Dutch, or their descendants, are not only 
+comfortable but rich. And though the state of agriculture among them is ridiculed by the Anglo-Americans 
+for its backwardness, there is not an acre of land between this place and <a href="/results.php?city=new york" rel="city">New York</a> (from the easy vent 
+which the latter offers for the above-mentioned produce, with garden stuff, and perhaps a few other articles), that 
+does not annually bring in from 25 to 30 of this currency, the dollar being eight shillings here. Hence 
+I need scarcely tell you that land is extremely dear. I have it from good authority, that, in the back parts 
+of the State, capital has been, within these five years past, uniformly doubled every two years by the purchase 
+and re-sale of small lots of military lands. 
+</p><p>
+You remember the advantages this State possesses in being the best watered in the Union, both by nature and 
+art, and, accordingly, all its waste lands are settling with surprising rapidity, chiefly from New England. These 
+accounts, nevertheless, shall not, at present, seduce me into any purchases here, because the British funds have 
+fallen considerably since I purchased into them, and there is now less than a twelvemonth to run of the present Presidency. 
+</p><p>
+It seems to be the general opinion of the few informed acquaintances I have yet been able to make (most of the 
+persons to whom I am here addressed having retreated for the summer in different directions, into the country), 
+that <a href="/results.php?tla=gwa" rel="">Washington</a> will not stand as candidate again, and that there will be a severe contest between the North 
+and the South ; the former straining every nerve to elect Adams, the latter making equal exertions in behalf of 
+Jefferson. The expected struggle is regarded by both sides with eager anxiety, while maneuvering is practiced 
+by both parties to the degree even of multiplying the States. To explain this : You will probably have seen, 
+by the papers, that a sixteenth State, viz., that part of the territory South-West of the Ohio, called the Tennessee country, has, in the last session of Congress, been admitted, by virtue of the amount of its population, 
+into the Union. Now it is insinuated in the Northern and Middle States, where Adams is the favorite, and by 
+whose preponderancy he would probably succeed, that the admission of Tennessee was obtained through a false 
+census. However, this objection, whether true or not, now comes too late. The business is done. But, in order 
+to effect a counterpoise, the District of Maine is to be separated from Massachusetts. So when you see this 
+event also in the papers, you will know how to construe the real motives for erecting the district of Maine into a 
+separate State, out of the ostensible reasons set forth for the measure. 
+</p><p>
+In the midst of these transactions I have had an opportunity of witnessing the attachment of both parties to the real interests of the country, though they reciprocally launch the imputations of aristocracy and democracy against each other; and the candor on the one side in allowing the superiority of<a href="/results.php?tla=thj" rel=""> Jefferson's</a> talents, is equalled by the honesty on the other in admit ting that Adams has done more for America than his opponent. Still, the administration of the new President, if not his election, will, in my opinion, as seems granted indeed, operate as a test of the constitution, to confound or confirm the idea in Europe, that <a href="/results.php?tla=gwa" rel="">Mr. Washington</a> is, alone, in America, the preserving cement of order and good government; and, at all events, the period will operate a crisis which I shall in prudence abide, before I settle the whole of my property on this side of the Atlantic. 
+</p><p>
+Upon this account, alone, I have said so much upon general politics ; from which, however, you must not 
+infer that I do not see more than equal security of private property with any that can be boasted in Europe, 
+where the many have nothing to lose, compared with the proprietary interest; but, in this country, there is no peasantry. 
+</p><p>
+In the meantime speculations of every possible sort are driven forward daily, I think, so far, unhappily, as 
+they induce a species of gambling; for one-half must ever lose, at every sort of play, while the advantages of 
+regular trade, being reciprocal, all parties are benefited. These speculations are commercial, properly so called 
+and landed. I shall give you an example or two of each. ~No adventures in the former line have been 
+more weighty or enterprising than in the article of flour. This I call a speculation, because flour is no 
+natural subject of trade between America and Europe, since the latter can always raise enough for consumption; but ideas of its partial scarcity in England and 
+France, during the war, have so engaged the merchant and farmer, that both have for the most part been ruined 
+within these last eight months, the former on his disastrous returns at a full third below first cost, having only 
+to condole with the latter still keeping his granaries shut up, for he has now no market but the home; the article having there too fallen near six dollars in the barrel. 
+Hence you will not be surprised to learn the extravagant prices of the necessaries of life, and the high rates of wages, which have not yet come down in proportion to 
+the wholesale fall. Men-servants still have twelve dollars a month. Masons, at <a href="/results.php?city=new york" rel="city">New York</a> and <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, from sixteen to twenty shillings a day ; carpenters, a shilling less, and both, in country situations, according to the distance from these cities, may be had from one to five or six shillings less. House-rent, also, still keeps up 
+enormously ; a two-roomed house, according to its situation, fetching from 150 to 250 in these towns, of New 
+York currency. To estimate the rate of other necessaries, I shall send you a price current, which you must 
+understand hy adding ahout a third to every article for each hand through which it' passes before it reaches the 
+consumer. While the above speculations in grain and flour have been going forward, latterly, with such ill 
+success, others have distinguished this country. Of these the East India trade is the most considerable ; commenced 
+under every disadvantage to be apprehended from the great capitals, and old companies of Europe. Yet, has it 
+grown to a size that now begins to alarm men's minds, for the great draught of specie it drains from America, 
+and a conviction of the inferiority, notwithstanding the cheapness of the India returns, except sugar and nankeens, compared with the linen articles of wear, which 
+were more in use before from Europe. But adventure has not stopped here. Some time last summer, a Yankee, at a little town in the State of Massachusetts, learning 
+the times were mortally sickly at Port au Prince, conceived a scheme of sending there a cargo of coffins. 
+Those commodities were made up in nests of sizes, from the largest to those for infants ; and, that no room should " 
+be lost, the inner coffin of the nest was packed with cakes of gingerbread. I have only to add, that the 
+speculation turned out a capital hit, our Yankee having actually returned full freighted with the best West India 
+produce, in return for his timber. Now for the land hits. These are going on every day, not only in England, but even in America, on principles 
+no better than horse-jockeying. In this play, also, many fortunes are made and lost, the adventurers purchasing 
+on credit, and a presumption of re-selling within a certain time their former acquisitions, at an advance equivalent 
+to enable them to make good their former engagements. But they have found their calculations to exceed dread fully the capital settling this country from Europe, and 
+now the paper of a Mr. Morris, of <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, who, in 
+the last war, had more credit than the Union altogether, is selling at 4s. 6d. in the pound, though he still continues proceeding with a house that can not cost less than 200,000. There is not one cipher too many. Hence, you'll perceive, there is yet no bankruptcy system established. Congress yet fear to cramp industry 
+and enterprise in the young country for which they legislate, or to open a door to commercial fraud by any 
+attempt of that sort, which, in the present state of the community, they wisely imagine would prove upon trial 
+too lax or too rigid. And for my part, from the little I have yet seen, I can not but approve of their wisdom in 
+leaving the creditor in a situation to see his debtor's knees begin to tremble, rather than run the risk of bringing both to the ground together. 
+</p><p>
+You must perceive then from what has been said, that there must be an infinity of land of every quality and 
+situation in the market, and yet Congress have advertised some townships to be sold at auction next January, 
+which, upon full deliberation, they have resolved shall not be put up at less than two dollars an acre. There is 
+however, an increase of wealth annually flowing into the country, unequaled in the annals of any other, from 
+emigrations. These I can not now exactly estimate, but their effects are visible, in the increase of settlements in 
+every direction, from the Atlantic to the Ohio and Mississippi. Witness the population of Kentucky (now 
+considered almost an old country), swollen to 73,677, and even of Tennessee, to 77,262. In this track I am now 
+preparing to set forward, but can not say how long I shall be anywhere stationary for a month before the next 
+fall, at which time, after having explored Kentucky, Tennessee, and the Miami country, concerning all of 
+which you shall hear the particulars in due time. I shall return through the wilderness by Virginia, if a 
+settlement does not arrest me in the way. But I must postpone for the present any further particulars of my 
+route to the "West, on account of the remaining remarks I have to make on those parts of the country which I 
+have seen since I began this letter, with which I am now proceeding at <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>. 
+</p><p>
+On our return from Long Island, we were received at <a href="/results.php?city=new york" rel="city">New York</a>, as well by the acquaintances we made 
+without as by those to whom we had introductions from England, more in a parental and brotherly way than 
+in a manner you would call polite or elegant. European etiquette is not yet prevalent, or it is that which reigned 
+on the other side of the water, at least half a century back, but toward the particular style of English dress, 
+both sexes have made greater advances. But these matters, with the state of domestic economy, I shall 
+leave for Maggie to describe. After some days stay in and about <a href="/results.php?city=new york" rel="city">New York</a>, we set out for Newark, in New 
+Jersey. On our way two objects were conspicuously impressive in a distance of only ten miles from our 
+outset. The first, a swamp, through which we passed, three miles in a direct line over a well-made new road. 
+This swamp was not merely remarkable from its being the first I had seen, but from a hill of solid land, called 
+Snake-hill, thickly wooded, which rises with almost perpendicular declivity to a hight in the center, that in 
+an Englishman's eyes, would merit the name of a mountain. When I say that the moment you could reach the 
+base of this mount, in descending toward the plain, you would find far less footing than in an Irish shaking-bog, 
+Snake-hill will be regarded by you, as it has been by me, a lusus natures of no small magnitude. 
+</p><p>
+The next object, a production of art, was the bridge over the Hackinsack, to which may be added that over 
+the Passaic river, both about three hundred yards in length, which unite neatness and strength of workmanship to an extent in timber that might well invite an European ten miles out of his road. The expense of 
+erecting each of these, I conclude, from the account I have had of a similar one I have since crossed at 
+Brunswick, over the Raritan, to be 30,000 Pennsylvania currency. Newark possessed sufficient attractions within 
+itself to induce me to tarry there for some days ? even if I had not resolved to do so for the sake of visiting the 
+Passaic Falls, about fifteen miles off the main road. 
+</p><p>
+Newark, if considered as a village, which it more resembles than a town, is perhaps the handsomest in the 
+world. Of extent, nearly three miles ; it is seated in a plain, clear and level as a parlor floor, on the banks 
+of the Passaic, in an amphitheater environed by gently swelling hills. Its Academy, Court-house, and two neat 
+buildings for public worship, added to nine stages, which, besides an infinity of wagons, every day pass 
+through it between <a href="/results.php?city=new york" rel="city">New York</a> and <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, give an air of business and gaiety to the place. It is also the 
+residence of many private families of respectability, with some of whom we were previously well enough 
+acquainted to be entertained longer than we chose to remain there. Land is here, within five miles round, 
+from 30 to 40 an acre, <a href="/results.php?city=new york" rel="city">New York</a> currency. 
+</p><p>
+The Passaic Falls, as they differ, I fancy, from all, others in America, will always invite and entertain the 
+naturalist. Their peculiarity arises from a fissure in the bed of the river, which is of solid rock, cleft in an 
+oblique direction to a depth of eighty feet. The river meanders a considerable way in a serene current without 
+a murmur, till it reaches the chasm where it falls with the majesty of thunder, and forever throws up a spray 
+that, when interposed between the eye and the sun, exhibits an assemblage of rainbows of the most fantastic beauty. 
+</p><p>
+From Newark to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, I have only to remark 
+the general sandy and poor appearance of the soil through Jersey State, which, however, is regarded as 
+one of the best cultivated in the Union, and this indeed appears in the large extent of its corn country, and other 
+agricultural improvements which, by trimming its timber, have rendered it sufficiently champaign to have 
+caused it, during the late war, to be exposed to the constant harrassings of the British. In this route I 
+passed, with pleasing reflections, over the memorable grounds of Brunswick, Princeton and Trenton. At the 
+latter place I crossed the Delaware, in sight of the spot where Providence, or his happy fortune, gave the President and America that confidence in the issue of the 
+contest, wherein the Hessians were surprised, which, to save the country, could not have been delayed for a day. 
+On this side of the Delaware industry seemed to stride, rather than to saunter, as she did, comparatiYely speaking, in the States of Jersey and <a href="/results.php?city=new york" rel="city">New York</a>. Here, after 
+traveling in every direction over the soil, which yet she has not deserted, you may trace her footsteps not only 
+under the earth, but from thence upward through all the stages of manufacture wood has yet passed in any 
+country, and iron full one-half as far as it has reached in England. Of the extent of cotton, linen and wool, 
+throughout the country, I can not yet positively speak. A considerable capital has been embarked at Patterson, 
+near the Passaic Falls, in the cotton line ; but it has altogether failed from a variety of causes, which, I think, 
+independent of the long credits given in Europe, and the vast wilds here doomed for half a century yet to 
+howl for population, will so long, at least, frustrate all attempts at adventure in the three last mentioned branches of trade. 
+</p><p>
+The approach to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, in this line, announces 
+more a large busy city to which it leads, than any of those that surround <a href="/results.php?city=new york" rel="city">New York</a>; yet, from the detail of business I have before and since seen in both, assisted by a commercial view of the continent, it is pretty apparent 
+that the latter place is treading hard on the heels of the former already, and will soon step it by. At present, 
+however, you see more stir at <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, more bustle 
+in the streets, and far more English activity in both sexes. I inclose you a plan of the city, which, with fewer defects 
+than any I know of, seems to have been conceived by Penn, upon the best principles to suit the climate, and 
+provide for. the health, while it accommodates the business, of the inhabitants. So much for <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>. 
+</p><p>
+The only great person I regret not having become acquainted with is the President. He unfortunately set 
+off for home two days after my arrival, which prevented my attending his leve*e ; but the day before his departure 
+we were so fortunate as to be seated at church in the pew opposite to him. Adieu, my dear nephew, and believe me, Your ever affectionate uncle, 
+</p><p>
+<a href="/results.php?tla=hnb" rel="me">H. BLENNERHASSETT</a>. 
+</p><p>
+P. S. Maggie will speak for herself. 
+</p>
+</letter>

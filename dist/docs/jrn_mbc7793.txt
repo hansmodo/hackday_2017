@@ -1,0 +1,25 @@
+<letter id="mbc7793">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. A letter from a Pharisee who thanks the Lord she is not as other women are ; she need not pray, as 
+the Scotch parson did, for a good conceit of herself. She writes, I feel that I will not be ruined. Come what may, 
+God will provide for me. But her husband had strengthened the Lord's hands, and for the glory of God, doubtless, 
+invested some thousands of dollars in New York, where Confederate moth did not corrupt nor Yankee bummers 
+break through and steal. She went on to tell us : "I have had the good things of this world, and I have enjoyed them 
+in their season. But I only held them as steward for God. My bread has been cast upon the waters and will return to me." 
+</p><p>
+E. M. Boykin said to-day: " We had a right to strike for our independence, and we did strike a bitter blow. 
+</p><p>
+They must be proud to have overcome such a foe. I dare look any man in the face. There is no humiliation in our 
+position after such a struggle as we made for freedom from the Yankees." He is sanguine. His main idea is 
+joy that he has no negroes to support, and need hire only those he really wants. 
+</p><p>
+Stephen Elliott told us that <a href='/results.php?tla=wts' rel=''>Sherman</a> said to <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>, " Look out for yourself. This agreement 
+only binds the military, not the civil, authorities. Is our destruction to begin anew? For a few weeks we have had peace. 
+</p><p>
+Sally Reynolds told a short story of a negro pet of Mrs. Kershaw's. The little negro clung to Mrs. Kershaw and 
+begged her to save him. The negro mother, stronger than Mrs. Kershaw, tore him away from her. Mrs. Kershaw 
+wept bitterly. Sally said she saw the mother chasing the child before her as she ran after the Yankees, whipping him 
+at every step. The child yelled like mad, a small rebel blackamoor. 
+</p>
+</letter>

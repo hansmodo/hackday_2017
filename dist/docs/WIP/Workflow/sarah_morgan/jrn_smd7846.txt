@@ -1,0 +1,29 @@
+<letter id="smd7846">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana] <a rel="month origin" value="7">July</a> <a rel='day origin' value='17'>17th</a>, Thursday. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+It is decided that I am to go to <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> next week. I hardly know which I dislike most, going or 
+staying. I know I shall be dreadfully homesick; but- 
+</p><p>
+Remember and keep quiet, Sarah, I beg of 
+you. Everything points to an early attack here. 
+Some say this week. The Federals are cutting down 
+all our beautiful woods near the Penitentiary, to 
+throw up breastworks, some say. Cannon are to be 
+planted on the foundation of Mr. Pike's new house; 
+everybody is in a state of expectation. Honestly, if 
+<a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a> has to be shelled, I shall hate to miss 
+the fun. It will be worth seeing, and I would like to 
+be present, even at the risk of losing my big toe by 
+a shell. But then, by going, I can save many of my 
+clothes, and then Miriam and I can divide when every 
+thing is burned that is one advantage, besides 
+being beneficial by the change of air. They say the 
+town is to be attacked to-night. I don't believe a 
+word of it. 
+</p><p>
+Oh, I was so distressed this evening! They tell me Mr. Biddle was killed at <a href='/results.php?city=vicksburg' rel='city'>Vicksburg</a>. I hope it is 
+not true. Suppose it was a shot from Will's battery? 
+</p><p>
+</letter>

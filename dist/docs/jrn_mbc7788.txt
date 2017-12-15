@@ -1,0 +1,26 @@
+<letter id="mbc7788">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='22'>22d</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. This yellow Confederate quire of paper, my journal, blotted by entries, has been buried three days 
+with the silver sugar-dish, teapot, milk-jug, and a few spoons and forks that follow my fortunes as I wander. 
+With these valuables was <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> silver cup, which was partly crushed when he was wounded at Chickamauga. 
+</p><p>
+It has been a wild three days, with aides galloping around with messages, Yankees hanging over us like a 
+sword of Damocles. We have been in queer straits. We sat up at Mrs. Bedon's dressed, without once going to bed 
+for forty-eight hours, and we were aweary. 
+</p><p>
+Colonel Cadwallader Jones came with a despatch, a sealed secret despatch. It was for General Chesnut. I 
+opened it. <a href='/results.php?tla=abl' rel=''>Lincoln</a>, old Abe Lincoln, has been killed, murdered, and <a href='/results.php?tla=wls' rel=''>Seward</a> wounded! Why? By whom? It is simply maddening, all this. 
+</p><p>
+I sent off messenger after messenger for General Chesnut. I have not the faintest idea where he is, but I know 
+this foul murder will bring upon us worse miseries. Mary Darby says, " But they murdered him themselves. No 
+Confederates are in Washington. " " But if they see fit to accuse us of instigating it li Who murdered him ? Who 
+knows? " " See if they don't take vengeance on us, now that we are ruined and can not repel them any longer"
+</p><p>
+The death of <a href='/results.php?tla=abl' rel=''>Lincoln</a> I call a warning to tyrants. He will not be the last President put to death in the capital, 
+though he is the first. 
+</p><p>
+Buck never submits to be bored. The bores came to tea at Mrs. Bedon's, and then sat and talked, so prosy, so 
+wearisome was the discourse, so endless it seemed, that we envied Buck, who was mooning on the piazza. She rarely speaks now. 
+</p>
+</letter>

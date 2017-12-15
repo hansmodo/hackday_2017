@@ -1,0 +1,23 @@
+<letter id="jbu3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a href='/results.php?city=ashley hill' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='26'>26</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I am directed by <a href='/results.php?tla=nag' rel='colleague met'>Major-General Greene</a> to inform you, that the 
+quarter part of the garrison of <a href='/results.php?city=savannah' rel='city'>Savannah</a> have arrived at Charlestown. 
+</p><p>
+This reinforcement places the enemy in a situation to act offensively. 
+The General begs you will order the troops under your command to 
+Bacon Bridge with as much expedition as possible, as the advanced 
+position of the army exposes it to be attacked by the enemy whenever 
+they may think proper. <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> is fully persuaded that no time 
+will be lost in taking the position at the bridge. I have the honor to 
+be, with much respect and esteem, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=jbu" rel="me">J. BURNET</a>, Aide-de-Camp, 
+</p>
+</letter>

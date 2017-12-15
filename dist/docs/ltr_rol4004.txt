@@ -1,0 +1,46 @@
+<letter id="rol4004">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="11">Nov.</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear John, 
+</p><p>
+I am two letters in your debt, and am conscious that I 
+shall make an ill return for them in offering you this product of a midnight hour, after a day spent in the fatigue of 
+business and ceremony that our present situation exacts. 
+But having just been informed by Mr. Piatt that he sails 
+to-morrow morning, I cannot permit him to go, without 
+offering you my congratulations on an event which you 
+have so greatly contributed to bring about, the evacuation 
+of tins city by the British on Tuesday last. 
+</p><p>
+Our enemies are hardly more astonished than we are 
+ourselves, and than you will be when you hear that we 
+have been five days in town without the smallest disturbance ; that the most obnoxious royalists that had sufficient 
+confidence in our clemency to stay had not met with the 
+least insult. Their shops were opened the day after we 
+came in, and Rivington himself goes on as usual. The 
+State of <a href='/results.php?city=new york' rel='city'>New York</a> Gazette is as well received as if he had 
+never been printer to the king's most excellent majesty. 
+So that your friends in Europe will find their apprehensions 
+ill-founded, and that the race of tories will not, after all, be 
+totally extinct in America. Perhaps, by good training and 
+by crossing the breed frequently (as they are very tame), 
+they may be rendered useful animals in a few generations. 
+</p><p>
+I thank you for your prints of the air-balls ; but wish to 
+have some fuller account of their composition, and the use 
+proposed to be made of them. As an architect, I cannot 
+but be curious about the first castles in the air that promise 
+to have some stable use. 
+</p><p>
+Receive my congratulations on the birth of your daughter, and make my compliments to Mrs. Jay on the occasion. 
+</p><p>
+I had hardly finished the last line, when I was alarmed 
+by a very loud rumbling noise, accompanied by a quick 
+tremulous motion of the earth. The family are too much 
+alarmed to permit me to add more. Adieu. 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston.</a> 
+</p>
+</letter>

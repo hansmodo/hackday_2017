@@ -1,0 +1,123 @@
+<letter id="rim3008">
+<recipient type="public" name="THE INHABITANTS OF Montreal"/>
+<p>
+ARTICLES OF CAPITULATION, 
+</p><p>
+Made and entered into between Richard Montgomery, Esq., 
+Brigadier-General of the Continental Army, and the Citizens 
+and Inhabitants of <a href='/results.php?city=montreal' rel='city'>Montreal</a>, represented by the subscribers. 
+</p><p>
+John Porteous, Pierre Panet, John Blake, Pierre Mcziere, James 
+Finlay, St. George Dupree, James McGill, Louis Carrignant 
+Richard Huntly, Francois Mathiot, Edward William Grey, and 
+Pierre Guy, duly elected for that purpose. 
+</p><p>
+ARTICLE I. That the citizens and inhabitants of <a href='/results.php?city=montreal' rel='city'>Montreal</a>, as 
+well individuals as religious orders and communities, without any 
+exceptions, shall be maintained in the free possession and enjoyment of their rights, goods, and effects, movable and immovable, 
+of what nature soever they may be. 
+</p><p>
+ARTICLE II. That the inhabitants, French and English, shall 
+be maintained in the free exercise of their religion. 
+</p><p>
+ARTICLE III. That trade, in general, as well within the province as in the upper countries, and parts beyond the seas, shall 
+be carried on freely as heretofore, and passports shall be granted for that purpose. 
+</p><p>
+ARTICLE IV. That passports shall also be granted to those 
+who may want them for the different parts of this Province or 
+elsewhere, on their lawful affairs. 
+</p><p>
+ARTICLE V. That the citizens and inhabitants of the town 
+and suburbs of <a href='/results.php?city=montreal' rel='city'>Montreal</a> shall not be compelled, on any pretence whatever, to take up arms against the Mother Country ; 
+nor to contribute, in any manner, towards carrying on war 
+against her. 
+</p><p>
+ARTICLE VI. That the citizens and inhabitants of the town 
+and suburbs, or any other part of the country, who have taken 
+up arms for the defence of this Province, and are taken prisoners, shall be set at liberty. 
+</p><p>
+ARTICLE VII. That Courts of Justice shall be established for 
+the determination of property, and that the Judges of the said 
+Courts shall be elected by the people. 
+</p><p>
+ARTICLE VIII. That the inhabitants of the town shall not 
+be subjected to lodge troops. 
+</p><p>
+ARTICLE IX. That no inhabitants of the country, or savages, 
+shall be permitted to enter the town until the Commandant 
+shall have taken possession, and provided for the security thereof. 
+JOHN PORTEUS, PIERRE PANET, 
+</p><p>
+R. HUXTLY, MATIIIOT, 
+</p><p>
+JOHN BLAKE, CARRIGNANT, 
+</p><p>
+EDWARD W. GREY, MEZIERE, 
+</p><p>
+JAMES FINLAY, ST. GEORGE DUPREE, 
+</p><p>
+JAMES Me GILL, GUY. 
+</p><p>
+<a href='/results.php?city=montreal' rel='city'>Montreal</a>, 12 <a rel="month" value="11">November</a>, <a href="/results.php?year=1775">1775</a>. 
+</p>
+<p rel="heading">
+I do hereby certify, that the above articles were presented to 
+me, to which I have given the following answer ; 
+</p><p>
+The city of <a href='/results.php?city=montreal' rel='city'>Montreal</a>, having neither ammunition, artillery, 
+troops, nor provisions, and having it not in their power to fulfil 
+one article of the treaty, can claim no title to a capitulation. 
+</p><p>
+The Continental army have a generous disdain of every act of 
+oppression and violence; they are come for the express purpose 
+of giving liberty and security. The General, therefore, engages 
+his honor to maintain, in the peaceable enjoyment of their property of every kind, the individuals and religious communities of 
+the city of <a href='/results.php?city=montreal' rel='city'>Montreal</a>. 
+</p><p>
+The inhabitants, whether English, French, or others, shall be 
+maintained in the free exercise of their religion. 
+</p><p>
+The present unhappy contention between Great Britain and 
+her Colonies puts it out of his power to engage for freedom of 
+trade to the mother country; nor can he make a general promise of passports; as far as it may consist with the safety of 
+the troops and the public good, he shall be happy to promote 
+commerce, and, for that purpose, promises to grant passports for 
+the upper countries, when required. 
+</p><p>
+The General hopes to see such a virtuous Provincial Convention assembled, as will enter with zeal into every measure that 
+can contribute to set the civil and religious rights of this and her 
+sister Colonies on a permanent foundation. He promises for him 
+self, that he will not compel the inhabitants of the town to take 
+up arms against the Mother Country, or contribute towards the 
+expenses of carrying on the present war. 
+</p><p>
+The Continental army came into this province for its protection ; they, therefore, cannot consider their opposers as taking up 
+arms for its defence. 
+</p><p>
+It is not in the General's power to engage for the return of 
+prisoners ; motives of humanity will induce him to use his interest for their return to their families, provided it can be done 
+without endangering the public safety. 
+</p><p>
+Speedy measures shall be taken for the establishing Courts 
+of Justice upon the most liberal plan conformable to the British 
+Constitution. 
+</p><p>
+The inhabitants shall not be burdened with troops but when necessity requires it; of which necessity the General must be judge. 
+</p><p>
+The inhabitants of the country, and savages, shall not enter 
+the town till the guards are posted. 
+</p><p>
+To-morrow morning, at nine o clock, the Continental troops 
+shall take possession of the Recollect Gate. The proper officers 
+must attend, with the keys of all public stores, upon the Quartermaster-General at nine o clock at the Recollect Gate. 
+</p><p>
+This engagement is understood and declared to be binding on 
+any future commanding officer of the Continental troops, that 
+may succeed me in this district. 
+</p><p>
+RICHARD MONTGOMERY, 
+Brigadier- General Continental Army. 
+</p><p>
+<a href='/results.php?city=montreal' rel='city origin'>Montreal</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p>
+</letter>

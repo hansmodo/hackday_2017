@@ -1,0 +1,43 @@
+<letter id="gom4704">
+<recipient first="" last="Buchot" type="individual"/>
+<p>
+TO M. BUCHOT, COMMISSIONER OF EXTERIOR RELATIONS. 
+[Translation]
+</p><p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1794' rel="origin">1794</a>, 
+</p><p>
+Sir, 
+</p><p>
+During the last war, France furnished several sums of money 
+to the United States of America, both under the head of loans 
+and that of gratuities. The first of these advances was a mil 
+lion of livres, and it appears to have been made on the tenth of 
+June, <a href='/results.php?year=1776'>1776</a>. It is entered among the gratuities, but it is not 
+known to whom it was paid, nor how it was appropriated. 
+Doctor Franklin, in settling the accounts of the United States 
+with the French Ministry, neglected to ask for the papers, 
+which relate to this subject; and afterwards, when the banker 
+of the United States applied, (in the months of August and September, <a href='/results.php?year=1786'>1786</a>,) to M. Durival, in order to obtain them, he as 
+sured him that he had communicated the request to the Count 
+de Vergennes, who said that the receipt in question could be of 
+no use to the banker, since he was not entrusted with the pecuniary affairs of the United States till January, <a href='/results.php?year=1777'>1777</a>, and that 
+this payment was made on the tenth of June, <a href='/results.php?year=1776'>1776</a>. 
+</p><p>
+Our Ministers were also given to understand, that it was use 
+less to urge the demand for a paper in proof of a payment, 
+which would be of no account in the reimbursements to be 
+made by the United States. Dr Franklin concluded from this, 
+that the advance had been lodged in the hands of M. Beaumarchais, and that it was a cabinet mystery, whose eclaircise-ment ought to be a matter of indifference to us, at least till it 
+became necessary to set this sum against the demands of 
+Beaumarchais, for the supplies which he had furnished to the United States. 
+</p><p>
+This occasion has now arrived, but without this you will perceive, at the first glance, that the payment having been acknowledged by the United States, the receiver, whoever he may be, 
+ought to give them an account of the manner in which he employed it. Besides, mysteries serve too often only to cover wasteful expenditures, of which the people are the victims. It is 
+therefore given me in charge to solicit the papers, acknowledges the payment of a million of livres, as a gratuity made by France to the United States of America on the tenth of June, 
+<a href='/results.php?year=1776'>1776</a>. I think they will be found among the accounts of M. Durival, then head of the Treasury department for Foreign Affairs ; and I apply to you, in these circumstances, with the 
+more confidence, as I am fully convinced of the good will of the French government towards the United States. I have 
+the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

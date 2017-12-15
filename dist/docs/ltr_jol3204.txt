@@ -1,0 +1,83 @@
+<letter id="jol3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The enemy's present disposition of his force, and 
+all his late operations, indicate a design to attack 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a> by a siege in form. To complete the in 
+vestiture, he must introduce his ships of war into the harbour. That it is his intention, appears from his 
+fixing buoys on the bar, barricading his ships waists, 
+and anchoring them in a station where they may 
+embrace the first favorable spring tides to enter. 
+His transports and store-ships have removed from 
+Edisto up Stono River, where they lie contiguous to 
+Wappoo Cut, which is the water communication from 
+thence to Ashley River. At a point of the main 
+land, formed by the issuing of the former into the 
+latter, he raised, in the course of a night, the 11th 
+instant, a battery of six embrasures. This situation, 
+naturally advantageous, he will probably render very 
+strong, and establish in it his deposit of military 
+stores and provisions. He then may either force a 
+passage over Ashley River, or turn it by a circuitous 
+march, fortify a camp on the Neck, and open his 
+trenches. The best communication between his magazines and camp will be across Ashley River, from a 
+bluff, marked Bull, in your large map. 
+</p><p>
+Your Excellency will have learnt that the Commodore and all his officers renounce the idea of defending the passage of the bar ; they declare it impracti 
+cable for the frigates to lie in a proper position for 
+that purpose. The Government has neglected to pro 
+vide floating batteries, which might have been stationed there j so that it has been agreed, as the next 
+best plan, to form a line of battle, in such a manner 
+as to make a cross-fire with Fort Moultrie ; a shoal, 
+called the Middle Grounds, being on the right of the 
+ships, and the fort advanced of the left. As it would 
+be the enemy's policy, with a leading wind and tide, 
+to pass the fire of the fort, and run aboard of our ships, the Commodore is contriving an obstruction, 
+which he thinks will check their progress, and allow 
+time for the full effect of our fire. 
+</p><p>
+The impracticability of defending the bar, in the 
+first instance, appears to me a great diminution of 
+our means of defence. We must not only have a 
+greater number of shipping below, and consequently 
+withdraw them from flanking the enemy's approaches 
+on the Neck, but are subject to the chances of a 
+combat, which, in the other case, were out of the 
+question. The Commodore has destroyed one set of 
+the enemy's buoys 5 and I hope he will cut away 
+such as may have been since put down, and order 
+the galleys to give all possible annoyance to the 
+enemy's ships in the act of entering. 
+</p><p>
+The attention of the Engineers has been distracted 
+by different demonstrations on the part of the enemy, and they have not perfected the line across 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a> Neck. Henceforward I hope they will 
+confine themselves solely to completing it, and then 
+proceed to the construction of some interior inclosed 
+works, to prolong the defence. 
+</p><p>
+As the enemy is determined to proceed by regular approaches, all his operations are submitted to calculation, and he can determine, with mathematical precision, that with such and such means, in a given 
+time, he will accomplish his end. Our safety, then, 
+must depend upon the seasonable arrival of such reenforcements as will oblige him to raise the siege. 
+The Virginia line is much more remote than we 
+could have thought it would have been, at this moment. Your Excellency, in person, might rescue us 
+all. Virginia and North Carolina would follow you. 
+The glory of foiling the enemy in his last great effort, and terminating the war, ought to be reserved 
+for you. Whatever fortune attends us, I shall, to my 
+latest moments, feel that veneration and attachment, 
+which I always had for your Excellency; and I beg 
+leave to continue to subscribe myself, 
+</p><p>
+Your faithful Aid, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">JOHN LAURENS</a>. 
+</p><p>
+P. S. I entreat your Excellency's pardon for transmitting the annexed letter, in its present imperfect 
+state. It was a sketch, which I intended to have 
+put in better form, if time had permitted. 
+</p>
+</letter>

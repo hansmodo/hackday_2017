@@ -1,0 +1,112 @@
+<letter id="alh4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='17'>17</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am duly honored with your Excellency's letters 
+of the 4th and 12th instant. It is much to be regretted, though not to be wondered at, that steps of 
+so inflammable a tendency have been taken in the 
+army. Your Excellency, in my opinion, has acted 
+wisely. The best way is ever, not to attempt to 
+stem the torrent, but to direct it. I am happy to 
+find you coincide in opinion with me on the conduct 
+proper to be observed by yourself I am persuaded, 
+more and more, it is that which is most consistent 
+with your own reputation and the public welfare. 
+</p><p>
+Our affairs wear a most serious aspect, as well foreign as domestic. Before this gets to hand, your 
+Excellency will probably have seen the Provisional 
+Articles between Great Britain and these States. 
+</p><p>
+It might, at first appearance, be concluded that they 
+will be the prelude to a general peace. But there 
+are strong reasons to doubt the truth of such a conclusion. Obstacles may arise from different quarters; 
+from the demands of Spain and Holland; from the 
+hope in France of greater acquisitions in the East; 
+perhaps still more probably from the insincerity and 
+duplicity of Lord Shelburne, whose politics, founded 
+in the peculiarity of his situation, as well as in the 
+character of the man, may w^ell be suspected of insidiousness. I am really apprehensive, if peace does 
+not take place, that the negotiations will tend to sow 
+distrusts among the allies, and weaken the force of 
+the Common League. We have, I fear, men among 
+us, and men in trust, who have a hankering after 
+British connection. We have others, whose confidence 
+in France savors of credulity. The intrigues of the 
+former, and the incautiousness of the Latter, may be 
+both, though in different degrees, injurious to American interests, and make it difficult for prudent men 
+to steer a proper course. 
+</p><p>
+There are delicate circumstances with respect to the 
+late foreign transactions, which I am not at liberty to 
+reveal, but which, joined to our internal weaknesses, 
+disorders, follies and prejudices, make this country 
+stand upon precarious ground. Some use may be 
+made of these ideas, to induce moderation in the 
+army. An opinion that the country does not stand 
+upon a secure footing, will operate upon the patriot> 
+ism of the officers against hazarding any domestic 
+commotions. 
+</p><p>
+While I make these observations, I cannot forbear adding that, if no excesses take place, I shall not be 
+sorry that ill humors have appeared. I shall not regret imjjortimit?/, if temperate, from the army. 
+</p><p>
+There are good intentions in the majority of Congress, but there is not sufficient wisdom or decision. There are dangerous prejudices, in the particular States, opposed to those measures which alone 
+can give stability and prosperity to the Union. There 
+is a fatal opposition to Continental views. Necessity 
+alone can work a reform. But how produce this necessity; how apply it; how keep it within salutary 
+bounds ? I fear we have been contending for a shadow. 
+</p><p>
+The affair of accounts I considered as having been 
+put on a satisfactory footing. The particular States 
+have been required to settle till the 1st of August, 
+<a href='/results.php?year=1780'>1780</a>; and the Superintendent of Finance has been 
+directed to take measures for settling since that period. I shall immediately see him on the subject. 
+We have had eight and a half States in favor of 
+a commutation of half-pay for an average of ten 
+years' purchase; that is, five years full pay, instead 
+of half-pay for life, which, on a calculation of annuities, is nearly an equivalent. I hope this will now 
+shortly take place. We have made considerable progress in a plan, to be recommended to the several 
+States, for funding all the public debts, including 
+those of the army; which is certainly the only way 
+to restore further credit, and enable us to continue 
+the war by borrowing abroad, if it should be necessary to continue it. 
+</p><p>
+I omitted mentioning to your Excellency, that, from 
+European intelligence, there is great reason to believe, at all events, peace or war, <a href='/results.php?city=new york' rel='city'>New York</a> will be 
+vacated in the spring. It will be a pity if any domestic disturbances should change the plans of the 
+British Court. I have the honor to be, with the 
+greatest respect and esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>.
+</p><p>
+P. S. Your Excellency mentions, that it has been 
+surmised the plan in agitation was formed in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; that combinations have been talked of between the public creditors and the army ; and that 
+members of Congress had encouraged the idea. This 
+is partly true. I have myself urged on Congress the 
+propriety of uniting the influence of the public creditors, and the army as a part of them, to prevail 
+upon the States to enter into their views. I have 
+expressed the same sentiments out of doors. Several 
+other members have done the same. The meaning, 
+however, of all this, was simply that Congress should 
+adopt such a plan as would embrace the relief of all the public creditors, including the army, in order that 
+the personal influence of some, the connections of 
+others, and a sense of justice to the army, as well as 
+the apprehension of ill consequences, might form a 
+mass of influence on each State in favor of the measures of Congress. In this view, as I mentioned to 
+your Excellency in a former letter, I thought the 
+discontents of the army might he turned to a good 
+account. I am still of opinion, that their earnest, 
+but respectful applications for redress will have a 
+good effect. 
+</p><p>
+As to any combination of force, it could only be 
+productive of the horrors of a civil war, might end 
+in the ruin of the country, and would certainly end 
+in the ruin of the army. 
+</p>
+</letter>

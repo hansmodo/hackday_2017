@@ -1,0 +1,21 @@
+<letter id="swk8023">
+<recipient first="Robert" last="Stockton" type="individual"/>
+</p><p>
+HEAD-QUARTERS, ARMY OF THE WEST, 
+<a href='/results.php?city=ciudad de los angeles' rel='city origin'>Ciudad De Los Angeles</a>, U. C., <a rel="month origin" value="1">January</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I fear, from the armistice which I this morning saw, signed by <a href='/results.php?tla=jhf' rel='co-worker'>Lieutenant-Colonel Fremont</a>, and sent to me by you, that our countrymen under 
+<a href='/results.php?tla=jhf' rel='co-worker'>Colonel Fremont</a> are entirely ignorant of our being here ; that they are embarrassed in their movements. And I further fear that, unless something is done 
+at once to inform them of the true state of affairs here, they may capitulate and retire to the upper country. 
+</p><p>
+To avoid so serious an evil, I advise and offer to take one-half of this command, from 250 to 300 men, and march at once to form a junction with Lieutenant-<a href='/results.php?tla=jhf' rel='co-worker'>Colonel Fremont</a>. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, Brig. -General. 
+</p><p>
+COMMODORE R. F. STOCKTON, 
+</p><p>
+Governor of California, commanding U. S. Forces. 
+</p>
+</letter>

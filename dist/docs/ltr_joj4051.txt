@@ -1,0 +1,48 @@
+<letter id="joj4051">
+<recipient first="Robert" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+From our preliminaries and the king's speech, the present 
+disposition and system of the British court may, in my 
+opinion, be collected. Although particular circumstances 
+constrained them to yield us more than perhaps they 
+wished, I still think they meant to make (what they thought 
+would really be) a satisfactory peace with us. In the continuance of this disposition and system too much confidence 
+ought not to be placed, for disappointed violence and mortified ambition are certainly dangerous foundations to build 
+implicit confidence upon ; but I cannot forbear thinking 
+that we ought not, in the common phrase, to throw cold 
+water upon it by improper exultation, extravagant demands, 
+or illiberal publications ; should such a temper appear, it 
+would be wise to discountenance it. It is our policy to be 
+independent in the most extrusive sense, and to observe a 
+proper distance towards all nations, minding our own business, and not interfering with, or being influenced bv, the 
+views of any, further than they may respect us. 
+</p><p>
+Some of my colleagues flatter themselves with the probability of obtaining compensation for damages. I have no 
+objections to a further trial, but I confess I doubt its success, for Britain has no money to spare, and will think the 
+confiscations should settle that account, for they do not 
+expect that retribution will be made to all. 
+</p><p>
+Our affairs have a very promising aspect, and a little 
+prudence will secure us all that we can reasonably expect. 
+The boundaries between the States should be immediately 
+settled, and all causes of discord between them removed. 
+It would be imprudent to disband the army while a foreign 
+one remains in the country; and it would be equally unwise to permit Americans to spill the blood of our friends 
+in the islands, for in all of them there are many who wish 
+us well. The sale of the continental lands would, if properly regulated and appropriated to that purpose, form a 
+fund on which we might borrow money, especially if 
+foreigners could see good reason to rely on our good faith, 
+which, by being in certain instances violated, has lost much 
+of its credit. I allude particularly to the interest on loanoffice certificates, and the publications in our papers on that 
+subject, which do us harm in Europe. Adieu. 
+</p><p>
+I am, dear Robert, 
+</p><p>
+Your friend, 
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

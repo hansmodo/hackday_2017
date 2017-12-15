@@ -1,0 +1,597 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.81KOrQ on line 213
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--tip
+--DOC-AUTHOR-FIRST--Timothy
+--DOC-AUTHOR-LAST--Pickering
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="tip3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philaelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+You will doubtless, ere this reaches you, have been 
+informed that Congress have been pleased to appoint 
+me Quartermaster-General. This was so totally unexpected, that it will take me some days yet, before 
+I can get ready to proceed to camp. In the mean 
+time, I shall make some necessary arrangements for 
+conducting the business of the department in this 
+State, and the other States southward of it. The 
+gentlemen concerned in the department with the army, will, I hope, cheerfully continue to exercise the 
+duties of their respective offices until my arrival in 
+camp, which shall be as speedily as possible. I have 
+the honor to be, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newburg' rel='city origin'>Newburg</a>, <a rel='day origin' value='18'>18</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+<a href='/results.php?tla=hek' rel='colleague met'>General Knox</a> informed me, to-day, that no artillery 
+was to go from hence. I had previously ordered 
+fifty draught-horses to be impressed for transporting 
+the artillery, ammunition, and tents. I now propose 
+to dispose of them as follows; — For the Marquis de la Fayette's wagon, four; a baggage tumbril for the 
+artillery officers, three ; for three close wagons, in 
+which are to be carried from hence eleven horsemen's 
+and sixty common tents, twelve ; the Field-Ofificers 
+and Captains of artillery, two or three ; total, twenty-two. These may proceed to-morrow for <a href='/results.php?city=pompton' rel='city'>Pompton</a>. The 
+residue of the horses and sleighs, impressed on this 
+occasion, I have ordered to be employed in carrying 
+It was at the same time resolved by Congress, " that he be continued 
+as a member of the Board of War, but that the exercise of aU his 
+powers at the said Board, and his pay as a member thereof, be suspended during such time as he shall continue Quartermaster-General." 
+</p><p>
+clothing and provisions to <a href='/results.php?city=west point' rel='city'>West Point</a>, while their forage and the sleighing lasts. 
+</p><p>
+I wrote yesterday morning to Colonel Hughes, desiring him to give the necessary orders to his assistants at the Village, and King's Ferry, to impress 
+twenty-five riding horses, for the Field and Staff Officers of the detachment ; the whole, if he thought best, 
+on the west side of the river, to save the trouble of 
+crossing. I also desired him to impress ten two-horse 
+wagons, and have them at King's Ferry on the 20th, 
+to take up the baggage of the officers, and the kettles of the men, as soon as they crossed. That number I judged sufficient, supposing the officers would 
+take with them only their blankets, portmanteaus, and 
+cooking utensils. Colonel Hughes received these orders, and answered me last evening that they should 
+be executed. I have wrote to him this afternoon, desiring him to send one hundred axes to Major Campbell, at the Village, to distribute to the detachment, 
+when assembled, if they should need them. I have 
+also requested him to examine into the condition of 
+the boats at King's Ferry, and see that they are prepared to transport the troops. 
+</p><p>
+I have sent orders to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, to have one 
+hundred and fifty common, and ten or twelve horsemen's tents put in order immediately. These, with 
+those proposed to be sent from hence, will be sufficient for the detachment, allowing seven men one 
+common tent, and four Captains and subalterns one 
+horsemen's tent. If there be three officers to a company, six will have but one horsemen's tent. It is 
+proposed to furnish the detachment with two hundred 
+narrow axes, one hundred and thirty pickaxes, one 
+hundred and fifty spades, and two hundred and fifty 
+shovels. By a return, received in November, there 
+appeared to be spades, shovels, and one hundred and 
+six picks (enough) at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. At the same time, 
+there were plenty of good axes at Lancaster, from 
+whence the transportation is easy to the Head of Elk. 
+There are also five hundred axes at <a href='/results.php?city=morristown' rel='city'>Morristown</a>. But 
+if, on my arrival at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, there should be 
+found a deficiency of intrenching tools, it will be 
+practicable to complete the requisite number in two 
+or -three days. 
+</p><p>
+I have proposed that the horses going from hence 
+and King's Ferry, should be relieved at <a href='/results.php?city=pompton' rel='city'>Pompton</a> ; 
+that the teams requisite for the tents, at <a href='/results.php?city=morristown' rel='city'>Morristown</a>, 
+should be impressed in that neighbourhood, and go 
+as far as <a href='/results.php?city=trenton' rel='city'>Trenton</a> ; and that the horses and teams 
+impressed at <a href='/results.php?city=pompton' rel='city'>Pompton</a> should be relieved about Somerset Court-House. But should there chance to be 
+provision teams at ISIorristown, returning to <a href='/results.php?city=trenton' rel='city'>Trenton</a>, 
+they may be detained a day or two to take up the 
+baggage of the detachment, and save an} farther impress, except for the close baggage-wagons. The 
+same may take place from <a href='/results.php?city=pompton' rel='city'>Pompton</a> to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, 
+should there be teams returninji; from Rino-wood. 
+That from Bucks county, in Pennsylvania, teams 
+and horses should be collected sufficient for the baggage of the whole detachment, and rendezvous at 
+<a href='/results.php?city=trenton' rel='city'>Trenton</a> Ferry, unless the river should admit of 
+water transportation ; that, if the whole proceed by 
+land, the Bucks county teams should be relieved at 
+Chester ; that teams should be furnished at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> for the intrenching tools, and whatever may be 
+taken up there ; and thus the whole proceed to the 
+Head of Elk. I have sent Major Piatt to West 
+Point to request of <a href='/results.php?tla=wih' rel='colleague'>General Heath</a>, an active officer 
+to serve as Quarter-master to the detachment. 
+</p><p>
+I have provided two Forage-masters, that have appeared to me as clever as any in the service, to 
+accompany, or rather precede the detachment, to impress teams and forage; and a Conductor to attend to 
+the march of the baggage. The greatest difficulty, 
+that I foresee, will he in impressing the teams and 
+horses with proper despatch and punctuality, for want 
+of dragoons. The time of every impress must be regulated by the orders of the Commanding Officer of 
+the detachment. 
+</p><p>
+I request your Excellency's orders relative to any 
+farther arrangement of this business, or alteration of 
+the measures here proposed. I am, most respectfully. 
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newburg' rel='city origin'>Newburg</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir. 
+</p><p>
+I had the honor to inform you, on my return from 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, of what passed there relative to the 
+means of procuring the numerous supplies requisite 
+in my department for the ensuing campaign ; and 
+was unhappy that no prospect was presented of my 
+obtaining a single shilling for that end. As the only 
+alternative, therefore, I submitted to your Excellency's judgment the expediency of calling on the several States to furnish camp equipage for their own 
+troops respectively; which proposal you was pleased 
+to approve. This also corresponds with the articles 
+of Confederation, wherein it is declared (article nine), 
+that Congress shall make requisitions from each State 
+for its quota of troops, which requisition shall be 
+binding; and thereupon the Legislature of each State shall appoint the regimental officers, raise the men, 
+and clothe, arm, and equip them in a soldier-like 
+manner, at the expense of the United States. 
+</p><p>
+I therefore now beg leave to lay before your Excellency the inclosed estimates of tents, knapsacks, 
+and haversacks requisite for the troops of the four 
+New England States. If in this mode these can be 
+supplied, the general provision made and making will 
+be adequate to the demands of the other troops composing the main army. In these estimates I have 
+omitted camp-kettles, because they are not to be procured in the Eastern States, and I hope to obtain 
+them from Pennsylvania. Canteens are making in 
+Massachusetts for the whole main army. 
+</p><p>
+I have made the estimates in detail, that, by inspection only, your Excellency might judge of the 
+propriety of the proposed allowances of camp equipage. I thought, too, that in this form they would 
+be more satisfactory to the States themselves than 
+a general demand. I have the honor to be, with the 
+greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, ID <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+<a href='/results.php?tla=hek' rel='colleague met'>General Knox</a> has called on me to-day, respecting 
+a provision of horses for the light artillery. I have 
+authorized Colonel Hughes to purchase one hundred 
+for thai service onli/, and promised payment by the 
+1st of November. He writes me, encouragingly, that 
+many may be so procured. The essential service to 
+which they are to be applied will, I trust, facilitate 
+a grant of money to enable me to fulfil my promise, 
+which no ordinary calls would have induced me to 
+hazard. 
+</p><p>
+I have heard nothing of the horses expected from 
+Pennsylvania since Colonel Mills wrote me, on the 29th ultimo, that, " on that and the following days, 
+he should send money to all the counties where any 
+horses remained, to enable the drivers to defray their 
+expenses to the army." I desired they might he 
+shod before they left the State. This may have 
+retarded their progress a few days. I think they 
+cannot now be far off. I expect they amount to a 
+hundred ; but the numbers given me on paper have 
+so often deceived me, I will not undertake to say 
+how many will arrive. <a href='/results.php?tla=hek' rel='colleague met'>General Knox</a> demands one 
+hundred for the light artillery, which he is impatient 
+to ])ring into the field. There is no practicable way 
+of procuring them with despatch, but by an impress. 
+In this part of <a href='/results.php?city=new york' rel='city'>New York</a> there are few or no horses 
+worth impressing. The other parts of this State have 
+been harassed by impresses during the whole winter. 
+Jersey has suffered in this way very little, nor am I 
+informed of its having made any material effort either 
+in furnishing supplies or services, since the last campaign. If one hundred horses were impressed there 
+on this occasion, they might probably be relieved by 
+those from Pennsylvania and Colonel Hughes's purchases, in the course of a fortnight or three weeks. 
+</p><p>
+As the enemy's shipping have gone down the 
+river, I request your Excellency's determination whether a ferry-boat or two, capable of carrying horses, 
+and some of Major Darby's bateaux, should not be 
+brought down to Dobbs's Ferry; whether, if the 
+Jersey troops continue on the other side, the transportation of stores from <a href='/results.php?city=trenton' rel='city'>Trenton</a> and <a href='/results.php?city=morristown' rel='city'>Morristown</a> may 
+not be turned thither; and whether the route of the 
+expresses from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> may not be shortened in 
+the same way. 
+</p><p>
+I beg leave to add, on the subject of an impress 
+of horses, that, if your Excellency should judge it 
+expedient to adopt the measure, Lieutenant-Colonel 
+Dearborn will cross the river, consult Colonel Dayton, and fix on the proper persons to make the impress, aided by small detachments from the Jersey 
+line. I have the honor to be, with the greatest 
+respect; 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+It may be proper that I report to your Excellency 
+the circumstances and events of my late journey to 
+<a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>. I was unable to leave camp the 2d 
+instant until late in the afternoon, which prevented 
+my reaching <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a> till the evening. 
+</p><p>
+I immediately waited on the Intendant with Count Chastellux's letter, reciting the agreement he had 
+made with me respecting the future employment of 
+the vessels, and desiring him to pay me two thousand dollars on account of their services. The Intendant declined doing it, but proposed to see me 
+the next morning, when he would get an interpreter, 
+that we might fully understand one another. I met 
+him at sunrise ; but, after a long conversation, he 
+finally refused a compliance, in any respect, with the 
+agreement of Count Chastellux. He observed, that 
+neither Count Chastellux, as Major-General, nor Count 
+Rochambeau, as Commander-in-chief, had a right to 
+make any agreements obligatory on him ; that he had 
+been constantly disappointed, in every undertaking of 
+Government, from Hhode Island to Virginia ; that he was answerable with his head, if the King's army were not duly supplied; that money insured supplies; 
+and that he could depend on nothing but the direct 
+application of it by his own agents. I was now 
+fearful that the proposed plan must be wholly given 
+up. But afterwards I concerted measures with Colonel Wads worth and Mr. Carter for prosecuting it, and, 
+by their assistance, have been enabled to do it for 
+the present. On my arriving at Trebel's Landing, I 
+found many vessels unfit for service. These, exceeding twenty in number, I discharged. All the others 
+that were unloaded were formed into squadrons for 
+different ports, to bring supplies to the army. Most 
+of them sailed yesterday morning. 
+</p><p>
+Commodore Barron arrived at <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a> just 
+in time to go with me to the Landing ; yet, with his 
+assistance, I was not able to arrange the vessels, 
+finish the unloading of some, furnish them with provisions, and write their various orders, till yesterday 
+morning. A competent number will call on the Count de Grasse to land the marines at the place your Excellency directed, if this should not have been already 
+effected ; for Commodore Barron informed that before 
+he left the fleet, the Admiral intended to land them 
+without delay. 
+</p><p>
+There is one vessel at the Landing, which came 
+from Rhode Island with salted provisions, which yet 
+remain unloaded. I do not know the quantity she 
+has on board, but I believe not above a hundred or 
+a hundred and fifty barrels. If there be no material 
+objection, I would have it landed, that the vessel 
+might be discharged, or employed in transporting 
+supplies. At present she serves only as a storehouse 
+for that small quantity of provisions, at the rent of 
+two thousand five hundred and fifty-five a year. 
+I trouble your Excellency with this information, because Colonel Stewart, some days since, suggested that 
+it was your Excellency's desire, that this salted meat 
+should be preserved for some special occasions, and 
+that it was necessary to have it remain on board. I 
+have the honor to be, with the greatest respect. 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Agreeably to your Excellency's orders on the 19th 
+instant to me, to take possession of the enemy's 
+public stores pertaining to my department, I went to 
+York myself, with my storekeeper, and at the same 
+time desired Colonel Dearborn to go to Gloucester 
+with an assistant of the storekeeper, for the purpose 
+of receiving the stores. At Gloucester the dragoon horses, with their accoutrements, and the wagonhorses and wagons, were delivered up that day, and 
+the whole committed by Colonel Dearborn to militia 
+guards. The same evening the dragoon-horses were 
+driven out of Gloucester, and delivered to the care 
+of the <a href='/results.php?tla=cdl' rel='colleague'>Duke De Lauzun</a>'s legion ; and, by the inclosed 
+certificate and oath of Major Bay ton, it appears that 
+no exchanges were made between the receipt of 
+those horses from the British, and the delivery of 
+them to the Duke's legion. 
+</p><p>
+On the 20th I sent over the superintendent of 
+the horse-yard with a party of men, and a written 
+order to take charge of the cavalry-horses ; but Colonel Sheldon told my assistant, Mr. Mix, that they 
+should retain the horses till there was an order from 
+your Excellency to deliver them up. So the superintendent remained at Gloucester. During the 20th 
+and 21st I had persons waiting at Gloucester to receive every species of property pertaining to my 
+department, with a party of men for fatigue and 
+guards. As soon as the prisoners left their tents on 
+the 21st, Mr. Mix applied to the officer of the French 
+guard, and told him his orders and business ; but he 
+refused to let him take a tent, unless he could produce an order from your Excellency, Count Hochambeau, or General Choisy. The time would not admit 
+of an application to either. Night came on, and the 
+tents were chiefly stolen. In two hours, the persons 
+I had assigned for that service would have had them 
+in store. Early that morning I sent Mr. Mix with a 
+note to head-quarters, mentioning the embarrassments 
+given me by the French and militia guards. But 
+your Excellency was gone to the fleet ; though Mr. 
+Trumbull said you had previously written to General Choisy on the subject. 
+</p><p>
+Colonel Dearborn informs me, that a large proportion of the public stores thus lost (tents particularly) 
+were taken away by the soldiers and women in the 
+British hospitals; so that of one hundred and ten new 
+tents returned in the eightieth regiment, only four 
+or five were left. This information he received from 
+the Quarter-master to that regiment. Some French 
+soldiers were yesterday found there, loading two boats 
+with tents. Colonel Dearborn's coming probably prevented their completing their design ; but, in defiance 
+of him, they carried off what they had got. 
+</p><p>
+The French have placed safeguards over the houses 
+at Gloucester, where the British officers are quartered; 
+so that no American officer on duty there can obtain 
+any shelter, unless in the vilest hovels. I conceive it 
+to be absolutely necessary that these, and the French guards over the stores, be removed, as well as the 
+guards of militia ; their places to be supplied, as far 
+as shall be found necessary, by Continental troops. 
+</p><p>
+I request to be fivored with your Excellency's directions, respecting the public stores and tents carried 
+off by the people in the British hospital. Colonel 
+Dearborn will present this, and explain more circumstantially the proceedings at Gloucester. I have the 
+honor to be, with great respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am honored with your Excellency's letter of this 
+date respecting the preparations to be made for the 
+next campaign. The reason of my stay at the North 
+River I mentioned in my letter from thence. As 
+soon as I obtained the returns in that quarter, I 
+came away. A general return is forming, which, from 
+the multiplicity of articles, will be voluminous; but, 
+as soon as possible, I will complete and lay it before 
+your Excellency. In the mean time, I beg leave to 
+submit to your consideration some things which need 
+not wait the completion of the return, but on which, 
+from their nature and capital importance, an early 
+decision seems requisite. 
+On considering the mode most proper to be adopted 
+in providing ox-teams for the ensuing campaign, the 
+Secretary of War and I were decidedly in favor of 
+purchasing them. I have since formed the inclosed 
+estimate, number One, showing the comparative expenses of hiring and purchasing the necessary number of ox-teams, in which your Excellency will see 
+on what foundation our opinion rested. Tents being 
+the most expensive and essential articles of camp 
+equipage, I extracted from the returns, then in my 
+hands, the numbers on which we might rely for the 
+ensuing campaign. The Secretary of War, on a cursory view, supposed these numbers would be sufficient. The same extract, a copy of which, number 
+Two, is inclosed, shows the state of the knapsacks, 
+canteens, &c., at the times mentioned therein. On 
+comparing this with my estimate of last year, I think 
+nothing more needs be purchased, at least for the present, except knapsacks, canteens, and camp-kettles. 
+I was apprehensive that the canteens at <a href='/results.php?city=boston' rel='city'>Boston</a>, in 
+September, might afterwards have been transported to 
+Claverack, and they are an article so frequently lost 
+and broken, I concluded with the Secretary of War, 
+that six thousand more should be procured in Massachusetts, to be brought on by the teams raised for 
+the army ; and I sent orders accordingly to my deputy there by him. 
+</p><p>
+Number Three, is a return of the public boats in 
+the North River. On the back of it I have noted 
+the number and species of private vessels on the same 
+river, and the amount of their tonnage. But, as they 
+have run during the winter, and been ill-prepared, 
+probably not more than half of them will be fit for service The ensuing season. I procured this information, as I thought it might be of use, if a question 
+should arise, whether the gun-boats and other public 
+vessels there should be repaired. 
+</p><p>
+Number Four contains the terms on which Mr. Sheafe, the superintendent at Wappen's Creek, will 
+perform the ship and boatWright's work therein mentioned. Number Five is an estimate of a company 
+of artificers, which I apprehend will be necessary in 
+the main army the ensuing campaign. Should the 
+operations of the army in the State of <a href='/results.php?city=new york' rel='city'>New York</a> require a greater number, I persuade myself it will 
+be easy to engage them for the occasion. On the 
+terms stated, I find the company can be raised. I 
+left orders with the Commissary of Forage to form a 
+magazine sufficient for the posts in the Highlands 
+until the first of May, which, if the snow continues, 
+I expect will be done. I have contracted with the 
+smith at Newburg for all the smiths' work necessary 
+for the main army during the next campaign, if I 
+choose to continue the contract so long. Its continuance will, of course, depend on the aid which can be 
+derived from the Superintendent of Finance. The 
+terms are lower than any smiths in this city will engage on. It was the desire of the Secretary at War, 
+that your Excellency's determination relative to the 
+ox-teams, might be by me communicated to him before he should leave Massachusetts. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3707">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I was yesterday honored with your Excellency's 
+letter of the 21st, to the several directions in which 
+I shall pay due attention. Yesterday I received a letter from Major Clairborne, dated the 12th instant, 
+informing me that the two expresses, stationed at 
+Bowling Green, had left it some days for want of support. As Colonel Carrington had comprehended, in 
+his estimate for Virginia, one charge for expresses, I 
+have desired him to ask <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a> for authority to 
+engage actual payment, and then immediately to write 
+Major Clairborne to replace and firmly fix the expresses, W'hom Colonel Carrington will pay on his return to Virginia. I will also apply for the Maryland district, and enable Mr. Yeates to keep his chain complete. 
+</p><p>
+Your Excellency advised that the ox-teams should 
+be assembled by the middle of May last year. I 
+would request your direction for the present year on 
+this head. The longer their assembling is delayed, 
+consistent with the expected operations, the better, 
+on account of the pasturage, which, by the middle of 
+May, is hardly sufficient for the support of the cattle. 
+It is of importance, too, to preserve, as long as possible, all the forage in the vicinity of the army. I 
+have the honor to be, with the greatest respect, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3708">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newburg' rel='city origin'>Newburg</a>, <a rel='day origin' value='18'>18</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your Excellency had but just left my quarters this 
+evening, when a Deputy-Sheriff of Ulster arrested me. 
+He showed me a writ, of which I beg leave to inclose a copy. To prevent any injury to the public, 
+by taking me from my office, I gave bail, and have 
+wrote to an attorney to defend the suit. 
+</p><p>
+I thought it my duty to apprise your Excellency 
+of this event. The plaintiff is a Melancthon L. Woolsey. I do not know him, nor ever heard his name 
+before ; but a gentleman, who happens to be at my 
+office, tells me that he is a trader at <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a>, 
+who has been purchasing up specie certificates (signed 
+by me, and issued pursuant to an act of Congress of 
+the 23d of August, <a href='/results.php?year=1780'>1780</a>), at a very great discount. 
+</p><p>
+The suit, therefore, is doubtless grounded on such 
+certificates. But, on the same ground, some thousands of suits may be brought against me in this 
+State alone. 
+</p><p>
+Congress, by an act of the 19th of March, <a href='/results.php?year=1782'>1782</a>, 
+recommended to the several States to pass laws to 
+exempt public officers from such suits. Some complied with the recommendation. This State deliberated upon it, and a bill passed the Assembly; but the 
+Council of Revision offered objections, and it was 
+dropped. To subject public officers to such actions, 
+is doubtless cruel oppression. At the same time, 
+the community is burdened with a great expense. If 
+such suits be multiplied, and the numerous public 
+creditors have all as just cause of action, they cannot 
+even benefit the prosecutors ; for the property of pub
+</p><p>
+lie officers, compared with the vastness of the public 
+debts, is but as the small dust of the balance. There 
+is but one class of people who can derive advantage 
+from such prosecutions. They, indeed, will reap a 
+rich harvest, if all, or a majority of the public creditors, become equally unreasonable with the few that 
+have hitherto commenced such suits. With the writ, 
+the Sheriff presented me a letter from Mr. Benson, of 
+which the inclosed is a copy. 
+</p><p>
+I am singularly unfortunate in being subjected to 
+suits on specie certificates ; for it was at my instance 
+that Congress passed the act authorizing me to issue 
+them. My motive was to do the best possible justice to the public creditors, by fixing their dues in 
+specie, and allowing them the interest of their money, 
+which I saw it was impossible for the public promptly 
+to pay. I am, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter><letter id="tip3709">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='29'>29</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have been favored with your Excellency's letter 
+of the 15th instant, which would have been acknowledged by the subsequent post, had I not been made 
+to expect a small supply of money the same week, 
+by the bearer of which I meant to write to your 
+Excellency. But in this expectation also I was disappointed. My long continuance here has distressed 
+me exceedingly, but it appeared to me that the service would be promoted by it. I had, from time to 
+time, sent orders to Colonel Hughes to prepare every 
+thing that was to be provided in his department for 
+the ensuing campaign, and to the Commissary of Forage to procure his supplies, assuring them, agreeably 
+to the encouragement I had myself received, that I 
+would furnish them with money to fulfil their engagements, every necessary estimate for these purposes 
+having been laid before the Superintendent of Finance, 
+and the necessity of the supplies admitted. 
+</p><p>
+These services being undertaken in full confidence 
+that I should bring with me the requisite sums 
+of money, I did not dare to return without them. 
+While the Financier held up to my view the prospect of supplies, I presented the same to Colonel 
+Hughes and at my own office, and thereby kept alive 
+the hopes of the public creditors, who, had I returned 
+moneyless, would have been reduced to absolute despair, and all business and supplies have ceased. But 
+I am now more unhappy than ever ; for I cannot 
+continue to mention even a prospect of fulfilling my 
+engagements. Until I was led to expect supplies of 
+money to carry on the business of the department, I 
+cautiously avoided making any positive engagements, 
+thinking the public creditors had been too long abused by faithless promises to admit of any further deception to the public advantage; and the making of 
+promises, without a well-grounded prospect of fulfilling them, being totally opposed to my disposition. 
+</p><p>
+I have at last reduced my immediate demand of 
+money "not to the articles necessary and lest to be 
+provided now, but to those, for which unless money 
+can be furnished, the credit of the department will 
+be irretrievably lost." But I can obtain nothing at 
+present. The principal causes of this disappointment 
+your Excellency is probably informed of The same 
+causes prevent the completing the purchases of oxteams. The sum I received for those purchases was 
+in <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris's</a> notes, and amounted only to about 
+three fifths of the sum requisite for that service -, and 
+whether any purchases could be made with them at 
+the eastward, was a matter of uncertainty, from which 
+no information from my deputies there has relieved 
+me. But, if they have succeeded, it is in such a way 
+as forbids the Financier giving me any more of them ; 
+for these notes are not received there as cash, but 
+only as pledges, which are bought up by speculators, 
+who make a run upon the funds assigned for their 
+redemption. 
+</p><p>
+My stay here goads me with perpetual anxiety. 
+To return empty, would be mortifying in the highest 
+degree, and expose me to infinite vexation. To ask a credit of anybody, after The deceptions with which 
+I shall be charged, and before the engagements already made are fulfilled, would be deemed a piece of 
+effrontery, and nothing could be obtained without recurring to the odious and expensive mode of impress. 
+Thus embarrassed and distressed, I have represented 
+my situation to the Secretary at War, who will thereon have some communications with the Superintendent of Finance; and by their opinion or your Excellency's orders I shall be governed. I have the honor 
+to be, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter>

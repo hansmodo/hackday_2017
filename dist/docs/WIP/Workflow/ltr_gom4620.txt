@@ -1,0 +1,99 @@
+<letter id="gom4620">
+<recipient first="" last="Lebrun" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="9">September</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your letter of the 30th of August was not delivered to me 
+until four o clock yesterday. I shall reply to it in detail, 
+and with the shortest delay possible. 
+</p><p>
+You do me the honor to tell me, that I am able to fulfil 
+the engagements entered into by Mr Short, relative to the eight 
+hundred thousand dollars to be held in North America at your 
+disposal, for the purchases necessary to supply your colonies. 
+I have already observed to you, Sir, and I now repeat it, that 
+the care of making the payments of our debt to France was 
+confided to Mr Short, and that / have never been authorised to 
+meddle with it. I venture to add, Sir, that you have in your 
+own office proofs of this fact. 
+</p><p>
+Your predecessors informed me, that they had received 
+from the French Minister at Philadelphia the copy of a letter, 
+written to him by Mr Hamilton, our Minister of Finance, and 
+dated the eighth of March. You will perceive, that Mr Hamilton there says ; &lt; After the instructions given to Mr Short, 
+after the known progress of these operations, and .from some 
+passages in one of his letters of the 12th of November last, 
+I conclude with certainty, that he has paid all arrears of interest and reimbursements of capital become due up to the close 
+of the year <a href='/results.php?year=1791'>1791</a>. He adds (with respect to the four hundred thousand dollars, which it was agreed to pay in the course 
+of the year <a href='/results.php?year=1792'>1792</a>) that this sum will be in anticipation of what 
+becomes due at a future time. I Here I should observe to you, 
+Sir, that all engagements, made by Mr Short, will be fulfilled 
+by the United States, with the greatest precision. 
+</p><p>
+I pray you moreover, Sir, to fix your attention upon another 
+very important fact, which I had the honor to lay before you. 
+Mr Short had left in the hands of our bankers at Amsterdam 
+very great sums for many months, while waiting for definitive 
+arrangements to be made with regard to the payments, arrangements which were not made during his mission. On the 30th of 
+July last, I stated to the Commissaries of the national treasury, 
+that it was impossible for me to do anything decisive on this point, 
+until I should receive the orders of my government, (les ordres 
+de ma cow.) At this time, Mr Short urged me to pay over 
+to the Commissioners of the treasury the money, which was at 
+his disposal, and the Commissioners on their side begged me to 
+make the same payment. Accordingly, having agreed with 
+them on the rate of exchange, by which we should be regulated 
+at the time, always excepting the definitive arrangements to be 
+made with the person, who should be appointed for this purpose by the United States, I requested Mr Short, by letter, on the 6th of August to give orders to our bankers to pay to 
+Messieurs Hoguer, Grand and Company, bankers designated 
+by the Commissioners of the treasury, the sum of one mil 
+lion six hundred and twenty five thousand florins, (florins de banque) which, at said rate of exchange, amounted to six 
+millions of French money. 
+</p><p>
+You will have the goodness to observe, Sir, that according 
+to the calculation of the Commissioners, there was due to 
+France, on the first of July last, a sum of six millions and a 
+half; that in this sum was included that of three millions one 
+hundred and fifty-seven thousand seven hundred and fifty-eight livres, which was not taken into Mr Hamilton's calculation, and of which a part at least is still to be verified. You 
+will be pleased to remark also, that in this calculation the payments, which have been actually made in America, are not included, which make still another item of more than two mill 
+ions. It follows then, at all events, that the reimbursements 
+to be made, up to the present time, are all discharged. I 
+would observe farther, that I am in no way authorised to dispose of any sums, which were or might be in the hands of our 
+bankers at Amsterdam, and that all I have done, or could do, 
+was to apply to Mr Short, who alone has authority in this matter. 
+</p><p>
+It still remains for me to recall another very important fact 
+to your mind, which you will find authenticated in the same 
+letter of Mr Hamilton ; that owing to the extra expenses occasioned by our Indian war, it was impossible for him to promise the payment of the sum of four hundred thousand dollars, 
+at any nearer intervals than those specified, the last of which 
+extends to the first of December, <a href='/results.php?year=1792'>1792</a>. You may judge, after this exposition, whether it would be possible for me to go 
+farther than to make the offer I have already made, of earnestly soliciting my Government to lend you the assistance you 
+demand. A proposal which you refused to accept. 
+</p><p>
+As to the suspension of the King, Sir, you must surely agree 
+with me, that a Minister has no right to express any opinion 
+whatever, without the previous orders of his nation. And 
+when I spoke of it to you, I was not disposed to give any opinion; nor at your solicitation, did I express anything farther, 
+than that you might perceive that even if it were possible for me to run the risk of committing myself, by consenting 
+to the pecuniary arrangements which you desired, and which 
+were not confided to me fry my government, you would still 
+be unable to claim from them the execution of my engagements ; for though they might recognise your authority, yet 
+they would consider it necessary for you to wait my new credentials. 
+</p><p>
+In the letter, which I had the honor of writing to you on the 
+twenty-first of August, I informed you that it was my intention 
+to remain in Paris ; but the style of yours of the thirtieth of 
+August obliges me to request from you a passport to leave 
+France. I shall travel by short stages with my own horses, 
+taking the route to England by Calais. I shall leave my 
+house in its present condition, my secretary, and part of my 
+family, till I receive orders from the United States. I have 
+the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

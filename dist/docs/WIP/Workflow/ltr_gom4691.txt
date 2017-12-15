@@ -1,0 +1,55 @@
+<letter id="gom4691">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='5'>5th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+In a newspaper of this day I find the translation of your 
+message of the fifth of December to Congress, and observe, 
+that after stating the violation of the treaty by a decree of the 
+National Convention, you tell them I have been instructed to 
+make representations on the subject. 
+</p><p>
+Now this, my dear Sir, is the first I hear, and all I know 
+of such instructions. Indeed I have received no letters, news 
+papers, or other intelligence from America, since those which 
+Captain Culver brought. I suppose this arises from the difficulty of communication ; but whatever be the cause, I feel 
+the effect. It would be of some use if a clerk in the office of 
+Foreign Affairs had by triplicates mentioned from time to 
+time which of my letters were received. Thus on the present occasion, I should know whether my correspondence with 
+the Minister on the subject of this obnoxious decree was be 
+fore you. 
+</p><p>
+As it is, not being able to determine the nature of the representations, which you have desired me to make, I am 
+obliged to be silent. And unless more than one copy has 
+been sent, I may never receive your orders, and at any rate it 
+will be at no early day. I am sure it is superfluous to tell 
+you, how painful it is for a person in my situation to be totally 
+ignorant of what passes in his own country, and whether the 
+conduct which, under circumstances continually changing, he 
+finds it necessary to pursue, does, or does not consist with the 
+views of government. Blaming a wrong step would prevent 
+a repetition of it ; but really at present I walk in the dark, or 
+at best by the feeble light of my own conjectures. 
+</p><p>
+I know not whether my brethren have the same dearth of 
+intelligence. Mr Short complained of it much when I last 
+saw him, and has since mentioned the same thing from Madrid, so that I conclude the evil to arise from the negligence 
+of those to whom letters are entrusted. Might it not be advisable to send every month a small packet to Europe ? 
+They might come alternately to Havre and Lisbon, and that 
+which arrives at Lisbon come on thence to Havre, that which 
+arrives at Havre go from thence to Lisbon. In this way a 
+regular correspondence would be kept up, and by seizing for inimportant communications the private conveyances which offer, 
+full intelligence would be given and received. Six packets 
+would be amply sufficient for the service, and if, as I believe, 
+small schooners could be safely employed, the prime cost 
+would not be above three thousand pounds sterling, and the annual expense, I should suppose, not more than half of that sum. 
+</p><p>
+I beg your pardon, my dear Sir, for troubling you with this 
+groaning epistle. I will not say one word of news, as in supposeable circumstances it might prevent this letter from reaching you. I adhere to the opinions expressed in my last. 
+Adieu. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

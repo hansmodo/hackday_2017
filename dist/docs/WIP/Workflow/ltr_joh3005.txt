@@ -1,0 +1,75 @@
+<letter id="joh3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+In my former letter, I mentioned the disagreeable 
+news received from Canada. The Congress have taken 
+that matter into consideration; and, having examined 
+Mr. Antill, and duly deliberated on the situation of 
+our affairs in that quarter, they have come to sundry 
+resolutions, which I have the honor to inclose. 
+</p><p>
+I would just observe, that, by Mr. Antill's examination, it appears our loss is greater than what is set 
+forth in the despatches he brought, a copy of which was transmitted to you. Almost the whole of <a href='/results.php?tla=bea' rel='colleague'>General Arnold</a>'s gallant detachment are taken prisoners, 
+having, after four hours resistance, been obliged to surrender at discretion. However, we have the satis faction to hear the prisoners are treated with humanity. 
+</p><p>
+The Congress are anxious, as Avell from motives of 
+policy as of justice and humanity, to repair our 
+losses in that quarter, and, if possible, to gain possession of Quebec, and drive our enemies out of that 
+country before they can be reinforced in the spring. 
+An active, able General is wanted to take the command there, arid if such an one can be spared from 
+the service at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, it is their desire you should 
+send him. 
+</p><p>
+The battalion from Pennsylvania, and that from 
+New Jersey, will set forward the beginning of next 
+week. 
+</p><p>
+As it is of great importance, as well for the security and relief of our friends as for confirming the 
+wavering, that speedy succours should arrive, I am 
+directed to request you to detach, from the camp at 
+<a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, one battalion, if the service there will 
+permit you to spare one, with orders to march, with 
+the greatest expedition possible, to Canada. If this 
+cannot be complied with, you will use your utmost 
+endeavours in stimulating the Governor of Connecticut and the Convention of New Hampshire, to whom 
+I write by this opportunity, to forward, with the utmost despatch, the very first companies that can be 
+raised in those Colonies. You can easily conceive 
+what effect the arrival of even one company will 
+have on the minds of our friends, especially when 
+they shall be satisfied it will soon be followed by 
+more. 
+</p><p>
+The Colony of South Carolina has been so fortunate as to oblige Lord William Campbell, with the 
+vessels of war, to quit their harbour. Being earnestly 
+desirous of providing for their defence, they have resolved to fit out some armed vessels, but not having 
+seamen among themselves, they have despatched Captain Cochran to the northward, to enlist a number of 
+seamen for the service of that Colony. Lest the 
+offers he was empowered to make might prejudice 
+the service, the Congress have chalked out a plan 
+for him to go by, as you will see in the inclosed 
+extracts, and I am directed to desire you will please 
+to forward this service. 
+</p><p>
+Yesterday Dr. J. Smith, who made his escape from 
+Frederick, was brought to this town. He was taken 
+at the Little Meadows, on his way to Detroit, and 
+had with him letters from Connolly to the commanding  officer there. 
+</p><p>
+I hinted to you, in my former letter, that the congress were taking measures for the defence of the 
+Middle and Southern Colonies. For this purpose. over and above those destined for Canada, they have 
+ordered four battalions to be raised in the Colony of 
+<a href='/results.php?city=new york' rel='city'>New York</a>, two in New Jersey, four in Pennsylvania, 
+one in the Counties on Delaware, six in Virginia, 
+three in North Carolina, three in South Carolina, and 
+one in Georgia, each to consist of seven hundred and 
+twenty-eight men, including officers, making in the 
+whole, with those for Canada, thirty-four battalions. 
+I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

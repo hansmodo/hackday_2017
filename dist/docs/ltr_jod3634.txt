@@ -1,0 +1,51 @@
+<letter id="jod3634">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='8'>8</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+ENCLOSED are some signal accomplishments of prophecies. Be cool and discreet in your communications 
+of them. No such person as Jasper D wight is known 
+to either of the senators of Vermont. The signature 
+is thought to be fictitious. I have no letter from you 
+later than the Sunday after my departure. Major 
+Butler has indeed resigned. 
+</p><p>
+They kept back Paine's letter several weeks, presuming no doubt that it would not promote their election. It appeared for the first time, this morning. I 
+think, of all Paine's productions it is the weakest, 
+and at the same time, the most malicious. The man 
+appears to me to be mad, not drunk. He has the 
+vanity of the lunatic who believed himself to be Jupiter, the father of gods and men. There is a Dr. 
+E. here, a relation of <a href='/results.php?tla=aab' rel='colleague met'>Mr. Burr</a> and Pierpont Ed 
+wards, who has lately returned from Paris. Perhaps 
+he may be the Pennsylvanian of whom you read. 
+</p><p>
+I can say nothing of election. I have received 
+to-day the votes of New Jersey, but know not for 
+whom they are, as they are under seal, 
+</p><p>
+I am 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p><p>
+The feelings of friendship excite a curiosity to 
+know how McKean will vote. By that I shall guess how Governor Adams would have voted. But I have 
+seen friendships of S. Quincy, Jonathan Sewall, Daniel Leonard, General Brattle, Treasurer Gray and fifty others go away like a vapor before political winds ; 
+and a constant succession of others go the same way 
+from that time to this, that I cannot depend upon any 
+judgment I can form from any feelings of my own. 
+No private friendships would induce me to spare a 
+wrong political character. But McKean and Adams 
+can never believe the lies that are told. If they could 
+vote against me, it must be because they think I 
+should not be supple enough to the French. I have 
+known the time when both of them would have been 
+as stiff as myself. 
+</p><p>
+I feel myself in a very happy temper of mind ; perfectly willing to be released from the post of danger, 
+but determined, if called to it, to brave it, if its horrors were ten times thicker than they are. I have 
+but few years of life left, and they cannot be better 
+bestowed than upon that independence of my country, in defence of which, that life has ever been in jeopardy. 
+</p>
+</letter>

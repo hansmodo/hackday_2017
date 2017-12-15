@@ -1,0 +1,261 @@
+<letter id="gwa4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+[Private.] 
+</p><p>
+Head-quarters, <a href='/results.php?city=middlebrook' rel='city origin'>Middlebrook</a>, 
+</p><p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+I have received your several favours of the 2d, 3d, and 
+28th of March, and 6th of April. I thank you for them all, 
+but especially for the last, which I consider as a distinguishing mark of your confidence and friendship. 
+</p><p>
+Conscious that it is the aim of my actions to promote the 
+public good, and that no part of my conduct is influenced by 
+personal enmity to individuals, I cannot be insensible to the 
+artifice employed by some men to prejudice me in the 
+public esteem. The circumstance of which you have 
+obliged me with a communication, is among a number of 
+other instances of the unfriendly views which have governed a certain gentleman from a very early period. Some 
+of these have been too notorious not to have come to your 
+knowledge ; others, from the manner in which they have 
+been conveyed to me, will probably never be known, except to a very few. But you have perhaps heard enough 
+yourself to make any further explanation from me unnecessary. 
+</p><p>
+The desire, however, which it is natural I should feel to 
+preserve the good opinion of men of sense and virtue, conspiring with my wish to cultivate your friendship in particular, induces me to trouble you with a statement of some 
+facts which will serve to place the present attack in its 
+proper light. In doing this I shall recapitulate and bring 
+into view a series of transactions, many of which have been 
+known to you ; but some of which may possibly have 
+escaped your memory. 
+</p><p>
+An opinion prevailing that the enemy were likely, shortly, 
+to evacuate these States, I was naturally led to turn my 
+thoughts to a plan of operations against Canada, in case that 
+event should take place. A winter campaign, before the 
+enemy could have an opportunity of reinforcing and putting 
+themselves in a more perfect state of defence, appeared to 
+promise the most speedy and certain success, and the route 
+by Co-os offered itself as most direct and practicable. In 
+this I fully agreed with <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> and some other gentlemen whom I consulted on the occasion; and on the 12th 
+of September last I wrote to Congress accordingly, submitting it to them, whether it would not be advisable to be 
+laying up magazines, opening a road, and making other 
+preparations for the undertaking. They approved the project, and authorized me to carry it into execution. I the 
+more readily entered into it from a consideration, that if 
+circumstances should not permit us to carry on the enterprise, preparations towards it could easily be converted into 
+another channel, and made serviceable to our operations 
+elsewhere without any material addition of expense to the 
+continent, because provisions, which would compose the 
+principal part of the expense, were at all events to be purchased on Connecticut River, the only doubt being whether 
+they should, be used in an expedition against Canada, or 
+transported to <a href='/results.php?city=boston' rel='city'>Boston</a> — circumstances to determine this: 
+with truth it may be added, that, excepting the articles of 
+provision and forage, which, as before observed, would 
+have been bought if no expedition by the way of Co-os 
+had been in contemplation, the " incredible expense," 
+mentioned by <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> in his letter of March 4th, 
+amounted to the purchase of a few pair of men's shoes, 
+and some leather for moccasins only. If any other expense 
+has been incurred, it is unknown to me — must have been 
+by his order, and he alone answerable for it. 
+</p><p>
+In October following, Congress entered into arrangements with the Marquis de la Fayette for co-operating with 
+the court of France, in an expedition against that country. 
+In this scheme, one body of troops was to proceed from 
+Co-os and penetrate by way of the river St. Francis ; others 
+forming a junction at Niagara, were to enter Canada by 
+that route ; and while these were operating in this manner, 
+a French fleet and a body of French troops were to go up 
+the river St. Lawrence, and take possession of <a href='/results.php?city=quebec' rel='city'>Quebec</a>. 
+</p><p>
+You are well acquainted with the opposition I gave to 
+this plan, and my reasons at large for it. From what has 
+since happened, they seem to have met the full approbation 
+of Congress. The ideas I held up were principally these : 
+that we ought not to enter into any contract with a foreign 
+power, unless we were sure we should be able to fulfil our 
+engagements — that it was uncertain whether the enemy 
+would quit the States or not ; and in case they did not, it 
+would be impracticable to furnish the aids which we had 
+stipulated — that even if they should leave us, it was doubtful whether our own resources would be equal to the supplies required ; that therefore it would be impolitic to 
+hazard a contract of the kind, and better to remain at 
+liberty to act as future conjunctures should point out. I 
+recommended, nevertheless, as there were powerful reasons 
+to hope the enemy might go away, that eventual preparations should be made to take advantage of it, to possess 
+ourselves of Niagara and other posts in that quarter, for the 
+security of our frontiers, and to carry our views still 
+further with respect to a conquest of Canada, if we should 
+find ourselves able to prosecute such an enterprise. 
+</p><p>
+This, Congress in a subsequent resolve, approved, and 
+directed to be done. It was not the least motive with me 
+for recommending it, that operations of this nature seemed 
+to be a very favourable object with this honourable body. 
+The preparations on Hudson River were undertaken in 
+consequence. 
+</p><p>
+Upon a nearer view of our finances and resources, and 
+when it came to be decided that the enemy would continue 
+for some time longer to hold the posts they were in possession of, in the course of the conferences with which I was 
+honoured by the committee of Congress in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I 
+suggested my doubts of the propriety of continuing our 
+northern preparations upon so extensive a plan as was first 
+determined. The committee were of opinion with me, that 
+the state of our currency and supplies in general would 
+oblige us to act on the defensive next campaign, except so 
+far as related to an expedition into the Indian country for 
+chastising the savages, and preventing their depredations 
+on our back settlements ; and that though it would be extremely desirable to be prepared for pushing our operations 
+further, yet our necessities exacting a system of economy 
+forbade our launching into much extra expense for objects 
+which were remote and contingent. This determination 
+having taken place, all the northern preparations were discontinued, except such as were necessary towards the 
+intended Indian expedition. 
+</p><p>
+Things were in this situation when I received a letter 
+from General Bailey (living at Co-os), expressing some fears 
+for the safety of the magazine at Co-os ; in consequence of 
+which I directed the stores to be removed lower down the 
+country. This I did to prevent a possibility of accident, 
+though I did not apprehend they were in much danger. 
+Sometime afterward I received the letter (No. 1) from 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, expressing similar fears, to which I returned 
+him the answer of 14th February, transmitted by him to 
+Congress, (No. 2.) Knowing that preparations had been 
+making at <a href='/results.php?city=albany' rel='city'>Albany</a>, and unacquainted with their true design, 
+he inferred, from a vague expression in that letter, that the 
+intention of attacking Canada was still adhered to, but that I 
+had changed the plan, and was going by way of Lake Champlain or Ontario : either of these routes he pronounces impracticable, and represents that by Co-os as the only practicable one. He goes further, and declares, that " in the 
+present state of our army, and the actual situation of our 
+magazines, to attempt a serious invasion of Canada by 
+whatever route, would prove unsuccessful, unless the fleet 
+of our allies should at the same time co-operate with us, by 
+sailing up the river St. Lawrenre." Though I differ with 
+him as to the impracticability of both the other routes, I 
+venture to go a step beyond him respecting our ability to 
+invade Canada ; and am convinced, that in our present 
+circumstances, and with the enemy in front, we cannot 
+undertake a serious invasion of that country at all, even 
+with the aid of an allied Fleet. 
+</p><p>
+You will perceive, sir, that I have uniformly made the 
+departure of the enemy from these States an essential condition to the invasion of Canada, and that <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> 
+has entirely mistaken my intentions. Hoping that I had 
+embarked in a scheme which our situation would not justify, 
+he eagerly seizes the opportunity of exposing my supposed 
+errors to Congress ; and in the excess of his intemperate 
+zeal to injure me, exhibits himself in a point of view from 
+which I imagine he will derive little credit. The decency 
+of the terms in which he undertakes to arraign my conduct, 
+both to myself and to Congress, and the propriety of the 
+hasty appeal he has made, will, I believe, appear at least 
+questionable to every man of sense and delicacy. 
+</p><p>
+The last paragraph of the extract with which you favour 
+me, is a pretty remarkable one. I shall make no comments 
+further than as it implies a charge of neglect on my part, in 
+not writing to him but once since December. From the 
+beginning of last campaign to the middle of December, about 
+seven months, I have copies of near fifty letters to him, and 
+about forty originals from him. I think it will be acknowledged the correspondence was frequent enough during that 
+period ; and if it has not continued in the same proportion 
+since, the only >reason was, that the season of the year, the 
+troops being in winter-quarters, and <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s situation unfruitful of events, and unproductive of any military 
+arrangements between us, afforded very little matter for 
+epistolary intercourse ; and I flatter myself it will be readily 
+believed, that I am sufficiently occupied with the necessary 
+business of my station, and have no need of increasing it 
+by multiplying letters without an object. If you were to 
+peruse, my dear sir, the letters that have passed between 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> and myself for a lone time back, you would 
+be sensible that I have no great temptation to court his 
+correspondence, when the transacting of business does not 
+require it. An air of design — a want of candour in many 
+instances, and even of politeness, give no very inviting 
+complexion to the correspondence on his part. As a specimen of this, I send you a few letters and extracts, which at 
+your leisure, I shall be glad you will cast your eye upon. 
+</p><p>
+Last fall it was for some time strongly suspected that the 
+enemy would transport the whole, or the greater part, of 
+their force eastward, and combine one great land and sea 
+operation against the French fleet in <a href='/results.php?city=boston' rel='city'>Boston</a> harbour : on 
+this supposition, as I should go in person to <a href='/results.php?city=boston' rel='city'>Boston</a>, the 
+command next in importance was the posts on the North 
+River. This properly would devolve on <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> ; 
+but from motives of peculiar scrupulousness, as there had 
+been a difference between us, I thought it best to know 
+whether it was agreeable to him, before I directed his continuance. By way of compliment, I wrote him a letter 
+containing the extract No. 3, expecting a cordial answer 
+and cheerful acceptance. I received the evasive and unsatisfactory reply, No. 4. A few days after this, upon 
+another occasion, I wrote him the letter No. 5, to which I 
+received the extraordinary answer No. 6, which was passed 
+over in silence. 
+</p><p>
+The plan of operations for the campaign being determined, a commanding officer was to be appointed for the 
+Indian expedition. This command, according to all present 
+appearance, will probably be of the second, if not of the first 
+importance for the campaign. The officer conducting it 
+has a flattering prospect of acquiring more credit than can 
+be expected by any other this year, and he has the best 
+reason to hope for success. General Lee, from his situation, 
+was out of the question. <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, who, by the 
+way, would have been most agreeable to me, was so uncertain of continuing in the army, that I could not appoint 
+him. <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> I need not mention. I therefore 
+made the offer of it (for the appointment could no longer be 
+delayed) to <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, who was next in seniority, 
+though perhaps I might have avoided it, if I had been so 
+disposed, from his being in a command by the special appointment of Congress. My letter to him on the occasion 
+you will find in No. 7. I believe you will think it was 
+conceived in very candid and polite terms, and merited a 
+rent answer from the one given it in No. 8. 
+</p><p>
+I discovered, very early in the war, symptoms of coldness 
+and constraint in <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s behaviour to me. These 
+increased as he rose into greater consequence; but we did 
+not come to a direct breach till the beginning of last year. This was occasioned by a correspondence, which I thought 
+made rather free with me, between him and General Conway, which accidentally came to my knowledge. The 
+particulars of this affair you will find delineated in the 
+packet herewith, endorsed " Papers respecting General 
+Conway." Besides the evidence contained in them of the 
+genuineness of the offensive correspondence, I have other 
+proofs, still more convincing, which, having been given me 
+in a confidential way, I am not at liberty to impart. 
+</p><p>
+After this affair subsided, I made it a point of treating 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> with all the attention and cordiality in my 
+power, as well from a sincere desire of harmony, as from 
+an unwillingness to give any cause of triumph to our enemies from an appearance of dissension among ourselves. 
+I can appeal to the world and to the whole army, whether 
+I have not cautiously avoided every word or hint that could tend to dismay <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> in any way. I am sorry his conduct to me has not been equally generous, and that 
+he is continually giving me fresh proof's of malevolence and 
+> i . It will not be doing him injustice to say, that besides the little underhand intrigues which he is frequently 
+practising, there has hardly been any great military question in which his advice has been asked, that it has not been 
+given in an equivocal and designing manner, apparently calculated to afford him an opportunity of censuring me, on the failure of whatever measures might be adopted. 
+</p><p>
+When I find that this gentleman does not scruple to take 
+the most unfair advantages of me, I am under a necessity 
+of explaining his conduct to justify my own. This, and the 
+perfect confidence I have in you, have occasioned me to 
+trouble you with so free a communication of the state of 
+things between us. I shall still be as passive as a regard 
+to my own character will permit. I am, however, uneasy, as 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> has endeavoured to impress Congress with 
+an unfavourable idea of me, and as I only know this in a 
+private confidential way, that I cannot take any step to 
+remove the impression if it should be made. I am aware, 
+sir, of the delicacy of your situation, and I mean this letter 
+only for your own private information ; you will therefore 
+not allow yourself to be embarrassed by its contents, but 
+with respect to me, pass it over in silence. 
+</p><p>
+With the truest esteem and personal regard, 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">Geo. Washington</a>.. 
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<letter id="jhm3909">
+<recipient first="Peter" last="Horry" type="individual"/> 
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Yours of the (no date) I received the last evening. I did not know by whose orders the restrictions on trade at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> had been 
+adopted; but, it appearing to me to be founded on erroneous principles, 
+induced me to give the order I did. As to the Charlestown militia, I 
+have given orders so repeatedly about them, that it is needless to reiterate 
+them. Except a very few, all these men are resident either in Gen. Marion's or Gen. Barnwell's brigade; and the latter being now under 
+the command of Gen. Marion, he has sufficient power over them to do 
+what you have requested of me. Gen. Marion has orders for the 
+ammunition for your post, which, I suppose, he will deliver to you. I 
+will attend to the agreement about the shot as soon as I get your account 
+of it. I have directed Heriot and Tucker to apply to you for a party 
+of men to take charge of some negroes to be brought from Mr. Smith's 
+plantation on Santee. You will, therefore, be pleased to furnish them 
+accordingly, on their application to you; and, also, have the negroes 
+secured in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> until the day of sale. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

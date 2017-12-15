@@ -1,0 +1,29 @@
+<letter id="gom4661">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have now the honor to transmit the copy of the decision 
+made by the municipality of Dunkirk, on the third instant, respecting the ship Fame, which I received last night, in a letter 
+from that place, of the seventh, which informs mo that the 
+ship had then sailed. 
+</p><p>
+I have just now written to <a href="/results.php?tla=leb" rel="met colleague">M. Lebrun</a>, (who, by the bye, is 
+en etat d arrestation) a letter of acknowledgment, a copy of 
+which is enclosed. I did this the more readily, because I 
+shall have new complaints to make, in all human probability, 
+for in the best regulated governments it is difficult to prevent 
+the violation of the rights of neutral powers, and much more 
+so, where, in the tempest of a revolution, government resem-bles more a weathercock, marking from whence the hurricane 
+comes, than a tower to resist its force. Whenever a good 
+opportunity presents itself, I shall take the liberty to hazard 
+my opinion on the late events, for I cannot say revolution, be 
+cause it is not quite determined whether that shall be the con 
+ventional appellation of what passed in the end of May. I 
+am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

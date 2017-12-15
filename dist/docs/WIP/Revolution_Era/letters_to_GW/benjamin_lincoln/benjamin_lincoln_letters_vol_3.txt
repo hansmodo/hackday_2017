@@ -1,0 +1,501 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.lpZNIZ on line 212
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--bel
+--DOC-AUTHOR-FIRST--Benjamin
+--DOC-AUTHOR-LAST--Lincoln
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="bel3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I take this early opportunity to inform your Excellency, that, in the late interview, no exchanges 
+took place, and that I see little prospect that any 
+will be effected while the idea remains that officers 
+only are to be the subject of it. 
+</p><p>
+In the course of conversation with General Phillips 
+(for nothing more took place between us relative to 
+a general exchange of prisoners, as I early informed 
+liim that I was not authorized to go into that matter), I found that he supposed the reason why we 
+declined the exchange of privates, was, that we were 
+unwilling to throw into their hands, in the middle of 
+a campaign, such a reenforcement as they would receive by an exchange of all the privates. To obviate 
+this difficulty he mentioned, that the exchange of 
+privates might be postponed to some future day, say 
+the first of December, sooner or later, as should be 
+agreed on, but so as not to act this campaign. This, 
+I hope, will remove the objections which have existed against a general exchange of privates. I think 
+policy, justice, and humanity, point to the propriety 
+of exchanging them, if not immediately, yet at the 
+close of the campaign. Your Excellency will permit 
+me to offer the reasons on which I ground this 
+opinion. 
+</p><p>
+The men now prisoners of war (excuse the personality of my situation) are those who, from an attachment to the liberties of America, engaged in her 
+cause from a reliance that they should not only find 
+every support from their fellow-citizens, in the important contest, but that they should enjoy all the 
+immunities and blessings peculiar to the soldier, in 
+the power of the people to grant. That an exchange, 
+when made a prisoner, is one of the rights of a soldier, none, I think, will deny, and that he may claim 
+a release, when just and reasonable terms can be had. 
+</p><p>
+The long and distressing captivity which many of 
+the prisoners have endured ; the severe sufferings to 
+which many of them are now reduced, from nakedness and hunger, their constant attendants, and the 
+want of almost every convenience and necessary of 
+life, the miseries of which are augmented and embittered by the narrow limits of a loathsome jail, and their having no assurance that their sufferings will 
+soon have an end, — call for redress. 
+</p><p>
+The prisoners, pained with regret, are become sore; 
+their minds are soured, and their friends and connections think them neglected by the public. This may 
+prevent the recruiting our battalions, and cause a 
+disrelish for the service. Every thing of the kind, I 
+think, should be avoided ; and this was never more 
+necessary than at the present day, when it seems to 
+be the general voice, that our only safety and the 
+freedom of America (under the Supreme Arbiter) depend on an army raised for the war. If we should 
+refuse to exchange the privates, on the proposals 
+made, of man for man, it must, I think, operate powerfully on the minds of those who otherwise might 
+engage in the service, when they reflect how uncertain are the events of war, and that it may be their 
+lot to become the prisoners, and be destined to a 
+miserable, perhaps to an endless, captivity. And, 
+when the enemy shall have published their declaration of our refusal to accede to an equal and fair exchange, we may find it a matter of much difficulty 
+to justify ourselves to the world at large, who will 
+naturally enough suspect us of injustice in not fulfilling our public engagements, as they will accuse us 
+of wanting humanity in neglecting those very men 
+who have stepped forth to assert our rights. 
+</p><p>
+The daily decreasing of the number of the Convention troops, by deserting to the enemy, for which we 
+have no compensation, and the great expense to which 
+we are exposed for the support of them, and of our 
+officers and men, prisoners of war with the enemy, 
+must have their weight in urging to the propriety 
+of an exchange. 
+</p><p>
+To the foregoing reasons (in my humble opinion 
+sufficient in themselves) permit me, my dear General, 
+to annex an apprehension for our unfortunate prisoners now in <a href='/results.php?city=new york' rel='city'>New York</a>. The enemy, supposing themselves authorized by our refusal of an exchange, mr.y, 
+under the pretence of economizing provisions, providing for their own safety, or some other plausible reason, have our prisoners removed to some distant, and 
+consequently disagreeable, situation, where they may 
+be subjected to less expense, &c. Should an event 
+of this kind take place, retaliation is hardly in our 
+power, as all parts of the Continent are equally 
+agreeable to the British. 
+</p><p>
+I hope, Sir, on a review of the matter, as the objection of reenforcing the enemy this campaign is 
+removed, a general exchange will be adopted, by 
+which many of your officers and men, now suffering 
+under the most miserable captivity, will be released, 
+and once more have the honor of fighting, under your 
+Excellency's particular command, in support of that 
+independence of America, which induced them to quit 
+the sweets of a domestic life for the toils of a camp, 
+which no one will reenter with more cheerfulness, 
+than he. 
+</p><p>
+Who has the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter><letter id="bel3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I was, in the evening of the 23d, honored with 
+your Excellency's favor of the 11th. No measure 
+has been left untried to save the question for filling 
+up our battalions for the war; but every attempt of 
+its abettors for that purpose (and many there were 
+in the Assembly) proved abortive. The following 
+short anecdote will point your Excellency to some, 
+and, I think, the principal reasons on which the 
+question was lost. A venerable gray-headed old gentleman, who has lost two sons in the war, rose in the Assembly, and observed that the army must be 
+filled up, and by our own children, who were afraid 
+of becoming slaves, which they supposed might be 
+the case if they engaged for the war. "We have," 
+continued the old gentleman, " sons now grown up, 
+who will readily engage for three years, and, by the 
+time their services shall expire, others, now young, 
+will be ready to take their places." These ideas so 
+fully possessed the minds of the country members, 
+that they supposed every attempt to fill up the army 
+for the war would be ineffectual, serve only to waste 
+the time, and probably prevent its being done, even 
+for three years. 
+</p><p>
+Though I am myself convinced that the measure is 
+wrong, and that we had better have tried to have 
+raised part of the number in the first place, and 
+those for the war, yet I have the pleasing satisfaction to be fully convinced that those who were of a 
+different opinion acted from the purest motives, and 
+the fullest conviction that it was the most elioible. 
+Notwithstanding the vote passed to raise the men 
+for three years, or for the war, yet I have great 
+hopes, from the encouragement given to them to engage for the war, in addition to the sum to be given 
+for a three years' enlistment, and. from the disposition I find in the seaports in favor of the former 
+measure, that great exertions will be made by them 
+and others to carry it into execution. Indeed, this 
+town has already secured about one third of its men 
+for this term, and expect thus to secure the remainder. 
+</p><p>
+The Assembly meets next week ; and, if there is 
+the most distant prospect that, on a revival of the 
+question, it will share a different fate from its last, 
+I am positive it will be renewed. 
+</p><p>
+By looking back into the state of onr finances, 
+and forward to the expenses which will necessarily 
+be incurred the next campaign, it is found that part 
+of them must be provided for by direct borrowing. 
+This, I think, will have a very happy effect ; for, before we can be again trusted, we must rescind some 
+former resolutions, which have not given all that protection and support to creditors which, perhaps, the 
+Legislative body intended they should give ; and 
+adopt an enlarged system of politics, pregnant with 
+the highest justice, the most permanent security to 
+individuals. This will give dignity to Government, 
+array the Legislature with confidence, and clothe the 
+Executive with strength and vigor ; for a government whose resolutions are equal will as certainly 
+find support, as that men regard, and steadily pursue, their own happiness. 
+</p><p>
+I am much surprised to hear that there is so scanty an allowance of clothing in camp, as we have had, 
+for so long a time, not only a good supply on hand 
+in Europe and the West Indies, but, as I have the 
+greatest reason to believe, a sufficiency of clothes 
+within this State, brought in by our privateers, to 
+clothe our army at any time within these five months 
+past, five times over. Our finances, I know, are in a 
+miserable situation; but I cannot believe that those 
+of the several States are in so ruinous a condition 
+as to prevent the purchase of so necessary an article. 
+</p><p>
+Though it always gives me pain to offer a sentiment, which may in the least cast a censure upon 
+Congress, for I know they are embarrassed, and are 
+not supported as the best good of the public evidently dictates, yet I cannot but suggest my belief, 
+that the want of proper arrangements, in some degree 
+occasioned those distresses of our army, consequent 
+upon a want of clothing. Either the Continental 
+agents should purchase the whole for the army at 
+large, or the several States should be left entirely to 
+clothe their own troops, without the least interference 
+of the agents; for, so long as it is the joint business 
+of the agents and the respective States, a mutual reliance will occasion a failure of exertion in each. 
+The former method is much to be preferred, because 
+there would be a greater uniformity in the clothing 
+of the troops, which will, among other conveniences, 
+serve to prevent the existence of jealousies, arising 
+from an apprehension of different usage. If an idea 
+has ever been held up, that the Continental army is 
+but the union of thirteen different armies, having different interests, and, in some degree, different pursuits, and of course, that good policy requires that 
+each State should secure the affections of their own 
+troops, and attach them to her particular interest, 
+every step I wish might be taken to bury the sentiment in oblivion, and every measure tending to support it, if another can as conveniently be adopted, be 
+by no means executed. 
+</p><p>
+This, then, will stand as another reason why the 
+Continent should clothe the troops of the respective 
+States, or rather their own army. The business of 
+clothing the army is exceedingly loose and irregular, 
+so far that this State, even at this late hour, are uncertain, whether Congress expect that they are to 
+clothe their own troops, independent of them, or not. 
+As it is a matter of great importance, I hope Congress will be explicit and decided on this point. It 
+is particularly necessary that they should be so, as it 
+is supposed, here, that the late requisition of Congress 
+for the specific articles and cash, together with what they draw from the new emission, is the whole demand on this State ; and, as I said before, part of 
+this expense must be provided for b}'' borrowing. 
+Should Congress think it most expedient that this 
+State, or the several States, should clothe their own 
+troops and credit them for the expense, in the present requisition, I am confident that if they give 
+orders to this State for this purpose, they will be 
+immediately executed. 
+</p><p>
+Colonel Henly assures me, that the goods are here, and that an immediate supply for the whole army 
+can be obtained. Some have been offered him on credit. He has no orders to purchase. 
+</p><p>
+To clothe all the troops of the Continent can now, 
+I think, be easily effected. The inclosed will show 
+your Excellency, what quantity of clothing has been 
+lately sent on, and what remains on hand. I hope 
+the matter will not be delayed a single moment, from 
+an expectation of our receiving what we have in Europe, or the West Indies. The danger of the seas, 
+and the risk of capture, are too great to justify the 
+least suspension. Indeed, was it to arrive at the hour 
+of our procuring a full supply, should we even then 
+have more on hand than sound policy would direct? 
+I believe not; but am rather of opinion that a provident people, under our circumstances, would store 
+three times the quantity. If, on the whole, we should 
+be ordered to clothe our own troops, I wish your 
+Excellency's directions whether, if it can soon be 
+effected, the recruits should be detained in the mean 
+time, or marched on, without delay, to camp. In either 
+case, I conceive it will be necessary to send a number 
+of officers to Springfield, and to this town, as those 
+will probably be the two principal places at which the troops will rendezvous; for, if we mean to keep 
+them from straggling, marauding, and wasting their 
+time, they must be sent in bodies under proper 
+officers. It appears to me, that it will be also necessary to detain some of the arms now here and which 
+are ordered on, to be put into the hands of those on 
+whom we can depend. They will serve as a guard 
+to others of a different character. 
+</p><p>
+The General Court have ordered, to each man, one 
+dollar a mile, to enable him to march to camp ; but 
+it is so far short of the real expense, that it will 
+answer no valuable purpose. Indeed, if it was adequate, I think no good would arise from the measure ; 
+for, I am confident, the men will not be got to camp 
+unless they are marched under the care of proper 
+officers, and different magazines established on the 
+route, at which the men can be regularly supplied. 
+I think there should be one in this town, one in 
+Worcester, one in Springfield, and one in <a href='/results.php?city=litchfield' rel='city'>Litchfield</a>. 
+If your Excellency should be of opinion that the 
+measure is necessary, I wish you would suggest it 
+to the Governor, who, ever disposed to do right, 
+doubts the propriety of his ordering these magazines 
+from the specific articles called for by Congress. If 
+these are not taken, it will be difficult to establish 
+them. 
+</p><p>
+There are some matters to be attended to here, in 
+the military way, which seem to be the particular 
+business of your Excellency, as Commander-in-chief, 
+or the Commanding Officer in a separate department. 
+Am I, Sir, as senior officer here, competent to such 
+business ? If I am not, and further powers from 
+your Excellency should be necessary, and you should 
+think proper to grant them, I hope, if it can be avoided, an idea of my being Commanding Officer in 
+this department will not be held up. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter><letter id="bel3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+As <a href='/results.php?tla=hek' rel='colleague'>General Knox</a>, who well knows the state of 
+our affairs here, will be with your Excellency as early as this can reach you, I may omit many matters 
+which otherwise I should think it my duty to mention. 
+</p><p>
+I am informed that Congress have acceded to a 
+general exchange, and that it is left with your Excellency to carry it into effect, at such time as you 
+shall think proper. I know too well your Excellency's feelings for the distresses of those of our people 
+in captivity, not to be convinced that the first proper 
+moment will be seized to execute a measure which 
+will so effectually promote the happiness of many, 
+who, it appears to me, have deserved every attention 
+from their country. 
+</p><p>
+The inclosed is a list of a number of good men 
+(not in the line of the army), who, before I left 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a>, solicited my interest in procuring their 
+exchange. I wish, when an exchange shall take place, 
+that these persons may be subjects of it. I have no 
+doubt but there are many other citizens who wish to 
+be exchanged. If their names can be obtained, I hope 
+they will enjoy the same benefit. I am, my dear 
+General, with the greatest esteem, 
+</p><p>
+Tour Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter><letter id="bel3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, half past 5, P. M., <a rel='day origin' value='31'>31</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+jMy dear General, 
+</p><p>
+I was honored with your favor of this date at half 
+past one, at the Landing. We have put, and are putting on board the vessels, the ordnance, ordnance stores, &c. I shall send, in the same vessels, the corps 
+of artillery, corps of sappers and miners, and also 
+General Hazen's regiment. By sending General Hazen's regiment, I suppose it will be unnecessary to 
+send the hundred men you mentioned. I thought it 
+was best to send whole corps, and not a detachment, 
+as the former mode would fully comply with the 
+spirit of your orders. The vessels, I expect, will leave 
+this at about seven o'clock, so as to be down early 
+in the morning. I have ordered them to wait on 
+your Excellency for further orders. 
+</p><p>
+The light troops, the Jersey brigade, and Colonel Van Schaick, will leave this in the morning. As 
+there are so many empty wagons, I think the troops, 
+with their aid, will march with ease and despatch. 
+This idea, and the necessity the French will have 
+for the vessels, have induced me to send none by 
+water, saving the invalids and those before mentioned. 
+I shall detain one vessel to receive such of the stores 
+as are in our rear with Colonel Cortlandt, and may 
+not be exposed to rain. The other stores and the 
+troops can go on in the same boats they have with 
+them. their wagons will be made light, and sent 
+round. The moment I have made the necessary arrangements, I will follow the troops, and wait on 
+your Excellency at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. I am, dear General, 
+With the greatest respect, yours, most obediently, 
+</p><p>
+Benjai\iin Lincoln. 
+</p>
+</letter><letter id="bel3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, near <a href='/results.php?city=york' rel='city origin'>York</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+As Count de Grasse cannot aid us in our most 
+favorite object, an expedition against <a href='/results.php?city=charleston' rel='city'>Charleston</a>, and 
+if an attempt to reduce it is now made, it must be 
+independent of a marine force ; and as your Excellency has asked my sentiments on the propriety or impropriety of attempting it under these circumstances, 
+I do, on the fullest reflection, give it as my opinion 
+that it may not be done with a rational hope of success, and beg leave to subjoin the following reasons, 
+on which I have founded my judgment. 
+</p><p>
+First. If we have no ships of force to cover us, and 
+to possess the harbour, we shall be reduced entirely to a land operation, and must regularly approach 
+the works of the town, in doing which, we must contend with a heavy train of artillery. This will make 
+it necessary for us to carry forward one equal, at 
+least, which, together with the necessary stores for 
+a siege, if I may judge by the quantity brought here, 
+and by what was used by the enemy in the reduction of the place, will exceed, upon a moderate computation, twenty-five hundred tons. Add to that the 
+baggage of the army, the stores in the Quarter-master's, Commissary's, and Hospital departments, and the 
+whole will not be less than three thousand tons, to 
+transport which it will be difficult, if not impossible, 
+to provide teams. 
+</p><p>
+Secondly. As we must travel through a barren and 
+a thinly inhabited country, where forage cannot be 
+obtained but at a great distance, to remove which it 
+would require a large additional number of teams 
+(as three thousand bushels of corn will be necessary 
+for each day's consumption, besides fodder), this also 
+would be too great a demand for the country to 
+bear, with others which would be increased by so 
+large an army being in it. 
+</p><p>
+The removing such a force, with the necessaries for 
+a siege, through an extent of country of four or five hundred miles, cut by many navigable rivers, unprovided with suitable boats for speedy transportation, 
+would cause so great a delay as to shade, at least, 
+every hope of success ; and especially if the harbour of <a href='/results.php?city=charleston' rel='city'>Charleston</a> should remain open, during that 
+time, for the reception of such supplies and reenforcements as should be thought necessary by the enemy 
+to baffle our attempt. 
+</p><p>
+Other reasons might be added, such as the ease 
+with which the enemy might shift their situation, 
+should they find it necessary; the impossibility of 
+bringing off the artillery and stores, should the expedition fail; for a sufficiency of horses for this and 
+other necessary purposes of the army could not be 
+supplied. But I am confident I need not proceed. 
+</p><p>
+If the siege of <a href='/results.php?city=charleston' rel='city'>Charleston</a> should not be attempted 
+this winter, the troops south of the Delaware will be 
+such a reenforcement to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> as will put 
+it in his power, with the present force of the enemy, 
+to cover the country, and reduce the British to the 
+lines of the town. The other troops will be refreshed 
+by going northward to their winter-quarters, which 
+will also cover that part of the country. By the 
+French remaining in this State, they will hold a position convenient to give aid, either north or south, as 
+circumstances shall demand. I have the honor to be, 
+my dear General, with every sentiment of esteem, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter><letter id="bel3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I was yesterday honored with your Excellency's 
+favor of the 26th ultimo, covering a letter from Sir 
+Henry Clinton to me. I cannot but hope you have 
+a little misapprehended him, and that it was not his 
+intention to make my exchange depend absolutely on 
+the exchange of the southern army. Did I fully believe this to be his meaning, I should suppose no 
+advantages would result from my meeting Major-General Phillips, while there are any reasons existing in your Excellency's mind, which would make it 
+improper, at this time, to go into a general exchange ; 
+but, as I flatter myself he meant only to involve in 
+my exchange that of General Phillips and General Riedesel, I think my meeting General Phillips will 
+accelerate my exchange. I therefore will do myself 
+the pleasure of waiting on your Excellency, on the 
+10th of September, and hope then to have the honor 
+of your instructions on the business I may have to 
+transact. 
+</p><p>
+I propose to meet General Phillips at <a href='/results.php?city=elizabethtown' rel='city'>Elizabethtown</a>, on the 12th of next month. If your Excellency's permission is necessary, for him to meet me at 
+that place, I wish it might be sent to him. I have 
+inclosed my letter to <a href='/results.php?tla=jac' rel='colleague'>General Clinton</a>, under a flying 
+seal, which, if agreeable to your Excellency, I wish 
+to have forwarded. I have the honor to be, my dear 
+General, with the highest respect, your Excellency's 
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter><letter id="bel3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>, 
+</p><p>
+My dear General, 
+</p><p>
+I have the pleasure to inform you that <a href='/results.php?tla=jol' rel='colleague met'>Colonel Laurens</a> sailed on the loth, after waiting several days 
+in Nantasket Road for a fair wind. On his arrival here, he found the Alliance had not completed her 
+crew, and that it would be difficult soon to effect it. 
+This induced him to apply to the Navy Board to obtain from the General Court a power to impress, 
+which not only failed in the House, but so alarmed 
+the sailors, that some secreted themselves, and others 
+left the town; so that, although the Assembly ordered the bounty increased out of their own chest, and 
+afterwards gave a permission to enlist out of The State troops, a deficiency still existed, and the ship 
+was detained solely by the want of a crew. This 
+being represented by <a href='/results.php?tla=jol' rel='colleague met'>Colonel Laurens</a>, and the importance of his mission, joined by his request that I 
+would aid in completing the crew of the Alliance by 
+suffering the sea-officers to engage such of the recruits 
+of this State, as were qualified for the marine service, induced me to permit it and eight or ten of the recruits, and about the same number of invalids, went 
+on board, which I hope will meet with your Excellency's approbation. 
+</p><p>
+I have been frequently applied to for warrants for the pay of the invalids and others. Have I power 
+to grant such warrants ? The late Lieutenant-Colonel Loring has been to Congress, I suppose, to solicit a 
+new hearing. From the papers he showed me in September last, I thought that he had such new and 
+material evidence to offer in his case, as gave flattering hopes that he would obtain his wishes, and prove 
+himself an honest man. I know his circumstances to be such as forbid his remaining longer from his family, without great injury to himself and them. Give 
+me leave to beg, my dear Sir, if he is to enjoy the benefit of a new hearing, that he may, as early as possible, have that favor. 
+</p><p>
+There are many deserters strolling through the 
+country, who, I suppose, would return to their duty, 
+if they could hope for a pardon. But past omissions 
+to embrace the mercy so often held out to them, have, 
+I presume, prevented your Excellency from repeating 
+once more that which has been attended with so 
+little success. Though I cannot solicit your Excellency in behalf of these infatuated men, without hurting 
+your feelings (for I am confident your willingness to 
+save has known no other hounds than the utmost 
+limits of mercy to the wicked, which could he exercised short of cruelty to the good), yet I have my 
+wishes that the most virtuous, if virtue can be applied to any of them, might he encouraged to hope 
+for an opportunity of evidencing the sincerity of their 
+repentance by future obedience, and rewarded accordingly. I have the honor to be, my dear General, 
+with every sentiment of esteem. 
+</p><p>
+Yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter>

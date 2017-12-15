@@ -1,0 +1,20 @@
+<letter id="nib5268">
+<recipient first="George" last="" type="individual"/>
+BIDDLE TO GEORGE McDurriE 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="2">Feb'y</a>. <a rel='day origin' value='10'>10</a>. <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir 
+</p><p>
+... I cannot doubt, whatever may be the result, that we have done well in applying at the present session. When 
+we were first warned against it lest it should affect the interests of one of the candidates for the Presidency, such a course 
+seemed so entirely foreign to the duties of the Bank that we could not acquiesce in it for a moment. At a later period 
+when we were counselled to abandon it, lest the influence of that candidate should crush the institution; that course 
+seemed equally inadmissable, and we determined, that having begun, we would go through at all hazards; and that 
+it was better even to be defeated in a fair field than to retreat. Into that field you have now probably led us; and on 
+you much of the fate of the institution will depend. I have 
+often heard the contemporaries of <a href='/results.php?tla=jcc' rel='colleague'>Mr Calhoun</a>, in the Congress of <a href='/results.php?year=1816'>1816</a>, speak with admiration of the talent, and tact, 
+the gentleness and the firmness with which he carried the present Charter through the H of Reps, and we rely that 
+the union of the same qualities will enable you to be equally successful now. . . . 
+</p>
+</letter>

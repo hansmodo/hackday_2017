@@ -1,0 +1,44 @@
+<letter id="joj4129">
+<recipient first="Tench" last="Coxe" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Accept my thanks for your obliging letter of the 8th of 
+last month, and for the book which accompanied it. As 
+yet, I have not had time to give it that regular and attentive 
+perusal which it appears to merit. It certainly contains 
+much interesting information, and from your accuracy, I 
+presume that the facts and statements in it are correct. It 
+will naturally lead both our own people and foreigners to 
+form a favourable and just estimate of the United States, 
+and show in a strong light the policy of maintaining that 
+respect for our government and laws, without which our 
+local and other advantages can neither be enjoyed nor 
+improved. 
+</p><p>
+The manner in which the insurrection has been dissipated gives me pleasure ; and there is reason to hope that 
+the arts and counsels which produced it, will not be able 
+to operate such another. 
+</p><p>
+Our affairs relative to this country have a promising 
+aspect. The best disposition towards us prevails here, and 
+the indications and proofs of it daily increase. I do really 
+believe, that this government means to give conciliatory 
+measures with the United States a full and fair trial. I 
+wish it may be reciprocated on our part. It never can be 
+wise to cast ourselves into the arms and influence of any 
+nation ; but certainly it is wise and proper to cherish the 
+good-will of those who wish to be on terms of friendship 
+and cordiality with us. It may seem strange, and yet I am 
+convinced, that next to the king, our president is more popular in this country than any man in it. 
+</p><p>
+With the best wishes, and with sentiments of esteem and 
+regard, I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

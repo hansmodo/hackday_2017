@@ -1,0 +1,50 @@
+<letter id="pjs3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I embrace the opportunity which is offered me by 
+Colonel Hughes to acknowledge the receipt of your 
+Excellency's favor of the 10th instant, and most sincerely sympathize with you on the embarrassments 
+which the disagreeable event in Jersey will occasion you. It is an awful lesson to the States ; and if it 
+would produce a serious attention to their situation; 
+if it would induce to greater exertions, and hence relieve you from the variety of difficulties which their 
+torpor has occasioned you if it would evince the necessity of parting with so much of their sovereignty, 
+respectively, as would enable the governing power to 
+draw forth the strength and resources of the country, — the event would be happy to America. But, if 
+only alarmed for the moment, and no adequate means 
+are pursued for the future subsistence and pay of 
+the army, our cause is lost, unless another system of 
+ government is adopted. 
+</p><p>
+Impressed with the necessity of lodging competent 
+powers somewhere, to prosecute the war with vigor, 
+and finding a disposition in the Legislature to second 
+my views, I have moved, in Senate, to request of the 
+Eastern States to join in a Convention, to be held at 
+an early day, for the purpose of settling and adjusting every difference which may exist with respect to 
+boundaries ; to form a perpetual league of incorporation, subservient, however, to the common interest of 
+all the States ; to invite others to accede to it ; to 
+create a new State in this quarter, on conditions to 
+be stipulated in such Convention ; to appreciate the 
+most effectual means for prosecuting the war with 
+vigor; to devise a fund for the redemption of the 
+common debts ; to form a permanent and uniform 
+system for drawing out the resources of the country, 
+that we may not be incessantly exposed to the many 
+evils incident on temporary expedients ; and, lastly, 
+to invest Congress with powers so extensive as to 
+oblige each State to do its duty. 
+</p><p>
+This motion is not yet decided upon ; but I believe it will not meet with much, if any, opposition 
+ill either House. Mrs. Schuyler joins me in best 
+wishes to you, Mrs. Washington, and the family. I 
+am, dear Sir, your 
+</p><p>
+Most obedient and affectionate humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter>

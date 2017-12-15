@@ -1,0 +1,21 @@
+<letter id="nag3906">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+I wrote you yesterday to return to Strawberry, but, as you are so 
+near, before you return I wish to see you, provided you come to Mr. 
+Blake's to-night; but, if you should meet with your first express, and 
+halt short of Mr. Blake s, you may return to the position recommended 
+in that letter. However, I am of opinion, from a variety of reports, 
+the enemy means to take the field in a few days, and that they have 
+little less than 700 negroes armed for the purpose. The British horse 
+were at Dorchester yesterday, but returned last night. 
+I am, dear sir, your humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

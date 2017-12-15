@@ -1,0 +1,41 @@
+<letter id="arc3201">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=Dorset' rel='city origin'>Dorset</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1777' rel="origin">1777</a>, nine o clock. 
+</p><p>
+DEAR SIR, 
+</p><p>
+About an hour ago, I received your favor of yesterday. I 
+wrote you from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> the night before we left it, to 
+inform you that I intended to march to Skenesborough by the 
+way of Castleton, and from thence to <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a> ; but when I 
+got to Castleton I found the enemy were in possession of Skenesborough, which obliged me to change my route. 
+</p><p>
+On the march to Castleton, we fell in with a party commanded 
+by Captain Frazer, who had been collecting cattle in the country. 
+These were immediately dispersed, and a few prisoners taken ; 
+but, being reenforced by a strong detachment from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, 
+they attacked, in the morning, the rear-guard of our army, who 
+had imprudently stopped six miles short of the main body, and 
+were, I believe, rather surprised ; notwithstanding which they made a very obstinate defence, and, I have good reason to think, killed 
+and wounded a great number of the enemy. As they were at 
+too great a distance for me to support them, I sent orders to 
+Colonel Warner, who commanded the party, in case he found 
+himself too hard pressed, to retreat to Rutland, and join me. He 
+is not yet come in, though I have heard that he is coming in 
+with about a hundred men; and a great part of the other regiments, except Hall's, have already joined us. 
+</p><p>
+I am in great distress for provisions. If I can be supplied at 
+Manchester, I shall proceed directly for <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, or Sara 
+toga, as circumstances may direct; if not, I shall be obliged to 
+go to <a href='/results.php?city=bennington' rel='city'>Bennington</a>. I account myself very happy in effecting this 
+retreat, as the loss of the army, small as it is, would have been a blow that this part of the country would have felt severely, 
+and that must inevitably have happened in a very few days. 
+Adieu, my dear General ; I hope to see you soon, or things in a 
+better train. 
+</p><p>
+I am, Sir, your very humble servant, 
+</p><p>
+ARTHUR ST. CLAIR. 
+</p>
+</letter>

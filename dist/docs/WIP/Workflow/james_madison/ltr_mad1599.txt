@@ -1,0 +1,57 @@
+<letter id='mad1599'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 20, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, I am just favored with yours of the 7th instant, 
+and will attend to your wishes as to the political essays in the 
+press. 
+</p><p>
+I have given notice to my friends in <a href="/results.php?city=orange" rel="city">Orange</a> that the County 
+may command my services in the Convention if it pleases. I 
+can say with great truth, however, that in this overture I sacrifice every private inclination to considerations not of a selfish 
+nature. I foresee that the undertaking will involve me in very 
+laborious and irksome discussions; that public opposition to 
+several very respectable characters, whose esteem and friendship I greatly prize, may unintentionally endanger the subsisting connection; and that disagreeable misconstructions, of 
+which samples have been already given, may be the fruit of 
+those exertions which fidelity will impose. But I have made 
+up my determination on the subject; and if I am informed that 
+my presence at the election in the County be indispensable, 
+shall submit to that condition also ; although it is my particular 
+wish to decline it, as well to avoid apparent solicitude on the 
+occasion as a journey of such length at a very unpleasant season. 
+</p><p>
+I had seen the extract of your letter to Col. Carter, and had 
+supposed, from the place where it first made its appearance, 
+that its publication was the effect of the zeal of a correspondent. I cannot but think, on the whole, that it may have been 
+of service, notwithstanding the scandalous misinterpretations 
+of it which have been attempted. As it has evidently the air 
+of a paragraph to a familiar friend, the omission of an argumentative support of the opinion given will appear to no candid 
+reader unnatural or improper. 
+</p><p>
+We have no late information from Europe except through 
+the English papers, which represent the affairs of France as in 
+the most ticklish state. The facts have every appearance of 
+authenticity, and we wait with great impatience for the packet 
+which is daily expected. It can be little doubted that the patriots have been abandoned, whether from impotency in France, 
+misconduct in them, or from what other cause, is not altogether 
+clear. The French apologists are visibly embarrassed by the 
+dilemma of submitting to the appearance of either weakness or 
+the want of faith. They seem generally to allege that their engagements being with the Republic, the nation could not oppose 
+the regular authority of the country by supporting a single 
+province, or, perhaps, a party in it only. The validity of this 
+excuse will depend much on the real connection between France 
+and the patriots, and the assurances given as an encouragement 
+to the latter. From the British King's speech, it would seem 
+that France had avowed her purpose of supporting her Dutch 
+friends, though it is possible her menaces to England might be 
+carried further than her real promises to the patriots. All 
+these circumstances, however, must have galled the pride of 
+France, and I have little doubt that a war will prove it as soon 
+as her condition will admit of it; perhaps she may be the sooner 
+forced into it on account of her being in a contrary situation. 
+</p><p>
+I hear nothing yet from the Convention of New Hampshire. 
+</p><p>
+I remain, yours most respectfully and affectionately, 
+</letter>

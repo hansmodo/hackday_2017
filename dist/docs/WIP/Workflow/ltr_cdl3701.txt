@@ -1,0 +1,46 @@
+<letter id="cdl3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I flattered myself that the clothing, destined for 
+the army under the command of your Excellency, 
+had at length arrived in the river, in the vessel of 
+Paul Jones, or in one of those coming under his 
+convoy; but I regret that you have not yet had 
+that satisfaction. A passenger, who arrived in one of 
+this convoy, told me that when this little squadron, 
+which left France on the 8th of October, should arrive, they would bring but little clothing, being in 
+great part laden with arms and ammunition; but he 
+added that the Serapis is destined to bring the 
+remainder of the clothing, and that we may hope 
+to see the vessel arrive soon in our ports. I am 
+anxious to have an opportunity of giving your Excellency notice of the arrival of these articles. 
+</p><p>
+I have received certain intelligence that an expedition, composed of four thousand troops, convoyed 
+by eight vessels of war, departed on the 16th of October from the Havana to attempt an expedition 
+against Pensacola. But it is thought that the terrible tempests, which they may have experienced on 
+the passage, may have retarded the fleet. 
+</p><p>
+Another expedition was to depart in the month of 
+December, to attack St. Augustine. It was to be 
+composed of ten thousand men, regulars and militia, 
+and twelve vessels of war. I wish, sincerely, that the 
+operation may meet with success, and thus make an 
+advantageous diversion in favor of the United States 
+in that quarter. 
+</p><p>
+The Chevalier de Chastellux and the officers who 
+had the honor of visiting you at head-quarters, desire 
+me to present their respects to you. They hope to 
+have the honor of seeing you again on their return. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

@@ -1,0 +1,19 @@
+<letter id="usg7057">
+<recipient first="John" last="Schofield" type="individual"/>
+<p>
+[<a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a>, <a rel='day origin' value='11'>11th</a>, <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a> ] 
+</p><p>
+MAJOR-GENERAL J. M. SCHOFIELD, 
+</p><p>
+<a href='/results.php?city=knoxville' rel='city origin'>Knoxville</a>, Tenn. : 
+</p><p>
+I deem it of the utmost importance to drive <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> out immediately, so as to furlough the balance of our veterans, and 
+to prepare for a spring campaign of our own choosing, instead of permitting the enemy to dictate it for us. Thomas is ordered to 
+start ten thousand men, besides the remainder of Granger's corps, at once. He will take no artillery, but will take his artillery 
+horses, and three mules to one hundred men. He will probably start next Monday. 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General.
+</p>
+</letter>

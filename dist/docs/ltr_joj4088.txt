@@ -1,0 +1,70 @@
+<letter id="joj4088">
+<recipient first="John" last="Adams" type="individual"/>
+<p>   	 
+Oflice for Foreign Affairs, J 
+</p><p>
+[<a href='/results.php?city=new york' rel='city origin'>New-York</a>], <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Since the date of my last to you, which was the 6th September last, I have been honoured with yours of the 10th 
+and 26th June, and 19th and 29th July, with the papers 
+mentioned to be enclosed. They are now before Congress, 
+and I am persuaded that the strong marks they bear of 
+industry and attention will give them pleasure. 
+I perfectly concur with you in sentiment respecting what 
+ought to be the conduct and policy of the United States, 
+and I am not without hopes that they will gradually perceive and pursue their true interests. There certainly is 
+much temper as well as talents in Congress ; and although 
+it is not in their power to do all that should be done, yet 
+they are willing and industrious to do whatever depends 
+upon them. 
+</p><p>
+Your letters, I am sure, are useful. They disseminate 
+and enforce those federal ideas which cannot be too forcibly inculcated, or too strongly impressed. Our federal government is incompetent to its objects ; and as it is the interest of our country, so it is the duty of her leading characters to co-operate in measures for enlarging and invigorating it. The rage for separations and new States is mischievous ; it will, unless checked, scatter our resources, and 
+in every view enfeeble the Union. Your testimony against 
+such licentious, anarchical proceedings would, I am persuaded, have great weight. 
+</p><p>
+Your letters, as yet, are silent respecting the evacuation 
+of our frontier posts. I do not mean to press you either to 
+do or say any thing unseasonably about it ; for there are 
+times and tides in human affairs to be watched and observed. 
+I know vour attention, and therefore rest satisfied that we 
+shall hear from you on this interesting subject as soon as 
+you ought to write about it. During the ensuing sessions 
+of the Legislatures, I shall watch their acts, and endeavour 
+to send you such as may respect the interests of the Union. 
+I find it extremely difficult to collect them. When I first 
+came into this office, I wrote a circular letter to the governors, requesting them, among other things, to send me, 
+from time to time, printed copies of their acts ; but, whatever may have been the cause, it has so happened that, 
+except in two or three instances, this request has been 
+entirelv neglected. 
+</p><p>
+With the newspapers herewith sent, you will find the requisition of Congress. What its success will be cannot yet be determined. 
+</p><p>
+Tim Algerines, it seems, have declared war against us. 
+If we act properly, I shall not be wry sorry for it. In my 
+opinion, it may lay the foundation for a navy, and tend to 
+draw ns more closely into a federal system. Onthatground 
+only we wain strength; and could our people be brought 
+to see it in that light, ami act accordingly, we should have 
+little reason to apprehend danger from any quarter. 
+</p><p>
+<a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a> is happy at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. Both parties are 
+assiduous in their attentions to him, and it is thought more 
+than probable that he will succeed Mr. Dickinson. I fear, 
+in the language of our farmers, that a day so remarkably 
+fine for the season may prove a weather-breeder : that is, 
+that he will find it difficult to manage both parties; for if 
+he gives himself up to one, he must expect hostility from the 
+other. I wish he may be able to reconcile them, and thereby 
+restore that State to the degree of strength and respectability which, from its population, fertility, and commerce, it 
+ought to possess. 
+</p><p>
+With great and sincere esteem and regard, 
+I am, dear sir, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

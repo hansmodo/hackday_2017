@@ -1,0 +1,24 @@
+<letter id="jol4924">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="2">Feb.</a> [<a href='/results.php?year=1778' rel="origin">1778</a>]
+</p><p>
+My Dear Father : 
+</p><p>
+I am happy in having an opportunity of introducing 
+to your acquaintance the brave Col Fleury, whose 
+reputation is not unknown to you. At the same time, 
+I cannot but regret that he is called to another 
+employment when I was in hopes of having engaged 
+him as a colleague and coadjutor in raising the famous 
+black battalion, with which I have troubled you so 
+much lately. 
+</p><p>
+The resolutions of Congress is a sufficient recommendation of this young gentleman to your notice. I 
+will only add, that I am happy in having laid the foundation of what I hope will be an inviolable friendship with him. 
+</p><p>
+Your most dutiful and affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

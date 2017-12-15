@@ -1,0 +1,35 @@
+<letter id="ben4707">
+<recipient first="Samuel" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+DEAR COUSIN, 
+</p><p>
+I should sooner have answered your kind letter of last year, 
+but postponed it from time to time, having mislaid the print 
+</p><p>
+I intended to send you, which I have now found and send 
+herewith. I am glad to hear of the welfare of yourself and 
+your family, which I hope will long continue. My love 
+to them all. 
+</p><p>
+It gives me pleasure whenever I find that my endeavours 
+to serve America are acceptable to my friends there. Your 
+kind notices of them are very obliging. 
+</p><p>
+I find here but two of our relations remaining, that bear 
+the name of Franklin, viz. Thomas Franklin of Lutterworth in 
+Leicestershire, a dyer, and his daughter Sally Franklin, about 
+fourteen years of age, who has been with me in London about 
+a year, and sends her duty to you. Thomas Franklin is the 
+grandson of John Franklin, your grandfather's brother. 
+There are besides still living, Eleanor Morris, an old maiden 
+lady, daughter of your grandfather's sister Hannah ; and also 
+Hannah Walker, granddaughter of his brother John. Mrs. 
+Walker has three sons. She lives at Westbury, in Buckinghamshire, and Mrs. Morris with her. And these are the 
+whole. It is thought best by my friends that I should continue here another winter. My best wishes attend you, being 
+jour affectionate kinsman, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

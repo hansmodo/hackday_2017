@@ -1,0 +1,69 @@
+<letter id="hek4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Agreeably to my promise, my dear Sir, I write 
+you from this place, and flatter myself with the hope 
+that, although my letter contains no important intelligence, yet it may not be unpleasing to you. 
+</p><p>
+Your calm retreat of <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> must be a 
+source of ineffable delight to you. You can from 
+thence take a retrospective view of the critical exigencies of the w^ar, and see a thousand ways by 
+which the issue might have been the reverse of what 
+it is. And your happiness must be in proportion to 
+the extreme difficulties and dangers of the contest, 
+and the immense blessings secured to your country 
+by the glorious peace, contrasted with the miseries 
+consequent upon an unfortunate termination. 
+</p><p>
+We have little or no politics; all commerce frozen 
+up by the uncommon severity of the season ; but better prospects in the spring. There are now upon the 
+stocks, in different parts of the State, for the fisheries 
+and other branches of trade, upwards of eight hundred vessels, which will be at sea early in the summer. 
+</p><p>
+New Hampshire and this State have come into the 
+impost exactly as proposed by Congress; and it appears to be pretty certain that Rhode Island and 
+Connecticut will be induced to come into it. Many 
+sensible men are for the powers of the Union being 
+high braced ; but no measures are proposed to effect it. 
+</p><p>
+The <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a> appears, however groundlessly, to 
+be an object of jealousy. The idea is that it has 
+been created by a foreign influence, in order to change our forms of government. And this opinion 
+is strengthened by a letter from one of our Ministers 
+abroad. Burke's pamphlet has had its full operation. 
+The cool, dispassionately sensible men seem to approve 
+of the institution generally, but dislike the hereditary 
+descent. The two branches of the Legislature of this 
+State, namely, the Assembly and Senate, have chosen 
+a Committee, " to inquire into any associations or 
+combinations to introduce undue distinctions into the 
+community, and which may have a tendency to create 
+a race of hereditary nobility, contrary to the Confederation of the United States, and the spirit of the 
+Constitution of this Commonwealth." They have not 
+yet reported, and perhaps 'they will not. The same 
+sentiments pervade New England. The Society here 
+have had a respectable meeting in <a href='/results.php?city=boston' rel='city'>Boston</a>, on the 
+10th instant, at which <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a> presided. <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> w^as not present. A Committee was 
+chosen to attend the general meeting at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+next day ; — General R. Putnam, Colonel Cobb, Lieutenant-Colonel Hull, Major Sargent and myself Probably only two will attend. It was thought prudent 
+not to make any honorary members at present. The 
+officers and soldiers conduct themselves in an exemplary manner, and are generally as industrious as any 
+part of the community. 
+</p><p>
+I wrote your Excellency from <a href='/results.php?city=west point' rel='city'>West Point</a> on the 
+3d ultimo, inclosing the returns, and a particular account of matters there, which I hope met your approbation. And I also wrote you a line on the 9th of 
+the same month, the day I set out from thence. We 
+reside at Dorchester, about five miles from town, in a 
+very agreeable situation. I shall hope for the pleasure of hearing from you at your leisure. Mrs. Knox 
+presents her sincere and ardent affection to Mrs. 
+Washington, and proposes to write particularly to her 
+soon; and I also beg my respectful compliments may 
+be added. I am, my dear Sir, your truly 
+</p><p>
+Respectful and affectionate, humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

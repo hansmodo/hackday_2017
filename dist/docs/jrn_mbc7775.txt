@@ -1,0 +1,9 @@
+<letter id="mbc7775">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='13'>13th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. My husband at last did come for a visit of two hours. Brought Lawrence, who had been to Camden, and was there, indeed, during the raid. My husband has been ordered to Chester, S. C. We are surprised 
+to see by the papers that we behaved heroically in leaving everything we had to be destroyed, without one thought of 
+surrender. We had not thought of ourselves from the heroic point of view. Isaac McLaughlin hid and saved every 
+thing we trusted him with. A grateful negro is Isaac. 
+</p>
+</letter>

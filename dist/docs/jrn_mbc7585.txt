@@ -1,0 +1,65 @@
+<letter id="mbc7585">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. To-day I saw a sword captured at Manassas. The man who brought the sword, in the early part 
+of the fray, was taken prisoner by the Yankees. They stripped him, possessed themselves of his sleeve-buttons, 
+and were in the act of depriving him of his boots when the rout began and the play was reversed; proceedings then 
+took the opposite tack. 
+</p><p>
+From a small rill in the mountain has flowed the mighty stream which has made at last Louis Wigfall the worst 
+enemy the President has in the Congress, a fact which complicates our affairs no little. <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> hands ought to 
+be strengthened ; he ought to be upheld. A divided house must fall, we all say. 
+</p><p>
+Mrs. Sam Jones, who is called Becky by her friends and 
+cronies, male and female, said that Mrs. Pickens had confided to the aforesaid Jones (nee Taylor, and so of the 
+President Taylor family and cousin of <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> first 
+wife), that Mrs. Wigfall " described <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> to Mrs. Pickens as a coarse Western woman. Now the fair Lucy 
+Holcombe and Mrs. Wigfall had a quarrel of their own out 
+in Texas, and, though reconciled, there was bitterness underneath. At first, Mrs. Joe Johnston called <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> 
+"a Western belle" but when the quarrel between <a href='/results.php?tla=jpj' rel=''>General Johnston</a> and the President broke out, Mrs. Johnston 
+took back the belle and substituted "woman" in the narrative derived from Mrs. Jones. 
+</p><p>
+Commodore Barron came with glad tidings. We had taken three prizes at sea, and brought them in safely, one 
+laden with molasses. General Toombs told us the President complimented Mr. Chesnut when he described the battle 
+scene to his Cabinet, etc. General Toombs is certain Colonel Chesnut will be made one of the new batch of brigadiers. 
+Next came Mr. Clayton, who calmly informed us Jeff Davis would not get the vote of this Congress for President, so 
+we might count him out. 
+</p><p>
+Mr. Meynardie first told us how pious a Christian soldier was Kershaw, how he prayed, got up, dusted his knees 
+and led his men on to victory with a dash and courage equal to any Old Testament mighty man of war. 
+</p><p>
+Governor Manning's account of Prince Jerome Napoleon: " He is stout and he is not handsome. Neither 
+is he young, and as he reviewed our troops he was terribly overheated. He heard him say " en avant," of 
+that he could testify of his own knowledge, and he was told he had been heard to say with unction " Allons " 
+more than once. The sight of the battle-field had made the Prince seasick, and he received gratefully a draft of 
+fiery whisky. 
+</p><p>
+Arrago seemed deeply interested in Confederate statistics, and praised our doughty deeds to the skies. It was 
+but soldier fare our guests received, though we did our best. It was hard sleeping and worse eating in camp. 
+<a href='/results.php?tla=pgb' rel='met'>Beauregard</a> is half Frenchman and speaks French like a native. So one awkward mess was done away with, and it 
+was a comfort to see <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> speak without the agony of finding words in the foreign language and forming them, 
+with damp brow, into sentences. A different fate befell others who spoke " a little French." 
+</p><p>
+General and Mrs. Cooper came to see us. She is Mrs. Smith Lee's sister. They were talking of old George Ma 
+son in Virginia a name to conjure with. George Mason violently opposed the extension of slavery. He was a thorough aristocrat, and gave as his reason for refusing the blessing of slaves to the new States, Southwest and North 
+west, that vulgar new people were unworthy of so sacred a right as that of holding slaves. It was not an institution 
+intended for such people as they were. <a href='/results.php?tla=mnc' rel='acquaintance met'>Mrs. Lee</a> said : " After all, what good does it do my sons that they are 
+Light Horse Harry Lee's grandsons and George Mason's? I do not see that it helps them at all." 
+</p><p>
+A friend in Washington writes me that we might havewalked into Washington any day for a week after Manassas, 
+such were the consternation and confusion there. But the god Pan was still blowing his horn in the woods. Now she 
+says Northern troops are literally pouring in from all quarters. The horses cover acres of ground. And she thinks 
+we have lost our chance forever. 
+</p><p>
+A man named Grey (the same gentleman whom <a href='/results.php?tla=lew' rel=''>Secretary of War Walker</a> so astonished by greeting him with, 
+" Well, sir, and what is your business? ") described the battle of the 21st as one succession of blunders, redeemed by 
+the indomitable courage of the two-thirds who did not run away on our side. Doctor Mason said a fugitive on the 
+other side informed him that " a million of men with the devil at their back could not have whipped the rebels at Bull Run." That's nice. 
+</p><p>
+There must be opposition in a free country. But it is very uncomfortable. " United we stand, divided we fall." 
+<a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> showed us in The New York Tribune an extract from an Augusta (Georgia) paper saying, " Cobb is our 
+man. Davis is at heart a reconstructionist. " We may be flies on the wheel, we know our insignificance ; but Mrs. Preston and myself have entered into an agreement; our 
+oath is recorded on high. We mean to stand by our President and to stop all fault-finding with the powers that be, 
+if we can and where we can, be the fault-finders generals or Cabinet Ministers. 
+</p>
+</letter>

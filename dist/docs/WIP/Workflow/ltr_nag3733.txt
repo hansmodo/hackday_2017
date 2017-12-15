@@ -1,0 +1,120 @@
+<letter id="nag3733">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=camp charlotte' rel='city origin'>Camp Charlotte</a>, 	<a rel='day origin' value='7'>7</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I arrived at this place on the 2d of this instant ; 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> having marched from this some days 
+before me, with a part of the troops under his command, the rest being on their march to Hillsborough. 
+General Smallwood was below this, about fifteen miles, 
+towards the Waxhaws, where he had been for a considerable time, before <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> marched from 
+Hillsborough. On my arrival, I sent for him, but he 
+was gone towards Camden, in pursuit of a party of 
+Tories, and did not arrive in camp till the night before last. Immediately I called a Council, respecting 
+the practicability of holding a Council of Inquiry 
+upon <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s conduct, during his command 
+in this department. The questions stated to the 
+Council, and the answers of the members, are inclosed 
+in the papers from number One to Five. 
+</p><p>
+I wrote your Excellency, at <a href='/results.php?city=richmond' rel='city'>Richmond</a>, that I should 
+leave the <a href='/results.php?tla=frs' rel='colleague'>Baron De Steuben</a> to take command in 
+Virginia, which I accordingly did, and to endeavour, 
+if possible, to make an arrangement of that line. 
+Since which I have not heard from him, nor whether 
+the enemy have left Chesapeake Ba}'-, or not. As I 
+passed through Petersburg, an express arrived from 
+below, with intelligence that the enemy had returned; 
+but, having heard nothing further of the matter, conclude the report must have been premature. 
+</p><p>
+To give your Excellency an idea of the state and 
+condition of this army, if it deserves the name of 
+one, I inclose you an extract of a letter, wrote by 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> to the Board of War, number Six. 
+Nothing can be more wretched and distressing than 
+the condition of the troops, starving with cold and 
+hunger, without tents and camp equipage. Those of 
+the Virginia line are, literally, naked; and a great 
+part totally unfit for any kind of duty, and must remain so until clothing can be had from the northward. I have written to <a href='/results.php?tla=thj' rel=''>Governor Jefferson</a> not to 
+send forward any more until they are well clothed, 
+and properly equipped. 
+</p><p>
+As I expected, so I find, the great bodies of militia that have been in the field, and the manner in 
+which they came out, being all on horseback, have 
+laid waste all the country, in such a manner that I 
+am really afraid it will be impossible to subsist the 
+few troops we have ; and, if we can be subsisted at 
+all, it must be by moving to the provisions, for they 
+have no way of bringing it to the army. I have desired the Board of War of this State not to call out 
+any more militia, until we can be better satisfied 
+about the means of subsistence for the regular troops 
+and the militia from Virginia. 
+</p><p>
+Lord Cornwallis lies, with his principal force, at a place called Weymsborough, about half way between Camden and Ninety Six ; at both of which places the 
+enemy have a post, and are strongly fortified. At Camden, they have seven redoubts ; at Ninety Six, 
+not more than three, but they are very strong. Part, 
+if not the whole, of the embarkation mentioned in 
+your Excellency's letter of the 8th ultimo, as taking 
+place at <a href='/results.php?city=new york' rel='city'>New York</a>, have arrived at <a href='/results.php?city=charleston' rel='city'>Charleston</a>, and, 
+it is said, Lord Cornwallis is preparing for some movement. 
+</p><p>
+I have parties exploring the Dan, Yadkin, and Catawba Rivers, and am not without hopes we shall be 
+able to assist the army by water transportation. It 
+is next to impossible to get a sufficiency of wagons 
+to draw provisions and forage the very great distance we are obliged to fetch it to feed the army. 
+The inhabitants of this country live too remote from 
+one another to be animated into great exertions ; and 
+the people appear, notwithstanding their danger, very 
+intent upon their own private affairs. 
+</p><p>
+Inclosed, numbers Seven and Eight, are the reports 
+of General Sumpter's last' action, and Lieutenant-Colonel Washington's stratagem, by which he took Colonel Rugley and his party. 
+</p><p>
+I find, when the <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> comes forward, 
+there will be a difficulty between him and General Smallwood. The latter declares he never will submit 
+to the commands of the former, and insists upon 
+having his commission dated back to as early a period as he had a right to promotion. When that was, 
+I know not, as I know of no principles of promotion, 
+from Brigadier to Major-General, except their seniority or special merit. What is best to be done in the 
+affair? Before I order the Baron to come forward, I 
+wish your Excellency's advice in the matter. I fear 
+our army is always to be convulsed by extraordinary 
+claims, and special appointments. They are exceeding good men. It is a pity a dispute should arise 
+between them, so injurious to the service as it must 
+be. 
+</p><p>
+My ideas respecting the power given by Congress, 
+for exchanging prisoners of war in this department, 
+perfectly correspond with your Excellency's. I had 
+no idea that it extended to the Convention troops, 
+and, by my inquiry, only meant to learn your ad\iee, so that my conduct might correspond with your 
+views. 
+</p><p>
+All the prisoners, taken by Colonel Campbell and 
+others, have been dismissed, paroled, and enlisted in 
+the militia service for three months, except about one 
+hundred and thirty. Thus we have lost, by the folly, 
+not to say any thing worse, of those who had them 
+in charge, upwards of six hundred men. I am told 
+Lord Cornwallis has lately made a proposition to 
+General Smallwood for exchanging all the prisoners 
+in North and South Carolina. If it is upon terms 
+that are just and equal, I shall avail myself of it. 
+For a great number of prisoners is a heavy weight 
+upon our hands. I am too little informed of the resources still left in this country, and of the enemy's 
+designs, to tell what disposition to make, or how to 
+dispose of the little force we have in the field. I 
+shall do the best I can, and keep your Excellency 
+constantly advised of my situation. 
+</p><p>
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> sets out to-morrow for the northward. Many officers think very favorably of his 
+conduct, and that, whenever an inquiry takes place, 
+he will honorably acquit myself 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

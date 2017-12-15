@@ -1,0 +1,74 @@
+<letter id="jhm3904">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The manner in which you mentioned Mr. P , gave me no kind of apprehension of his being on the confiscation list, therefore, wrote to 
+you respecting him as one of those who had not been noticed by the 
+Legislature. I am, however, very glad you have proceeded no further, 
+and this mistake of mine will serve to make me more guarded in future. 
+</p><p>
+It is utterly out of my power to grant Mr. P any indulgence, as 
+the Act in which he is included is clear and positive. Were I to suffer 
+him to remain in the country, it would be a partial suspension of the law, which cannot be done; I must, therefore, desire that Mr. P 
+be immediately ordered into Charlestown. An application has lately been 
+made me in favor of Mr. Alex. Rose, who had been banished the town 
+by the British, but I was obliged to refuse it; and, if Mr. Rose should 
+come out, you must order him immediately to return. Before this 
+reaches you, you will have received my order for the arms and ammunition you want. My reason for ordering the horses to be returned that 
+were impressed by order of Col. Maham, was, that <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> horses were 
+to be turned over to his regiment. I thought it impossible that more 
+horses could be wanted, after having those of a whole regiment. I am 
+sorry to find that this regiment has proved so very insignificant, as not 
+to be able to supply more than twelve horses ; however, Maham's order 
+was for no more than fifteen, which makes a difference of only three 
+horses, consequently the service cannot suffer for want of so trifling a 
+number of horses. Another reason was, that I found the authority 
+put into very improper hands, instead of its being entrusted to very 
+discreet persons. The thing in itself is odious, and ought to be avoided 
+if possible ; but, if such a necessity arises as renders the measure in
+dispensable, it ought to be exercised with caution and lenity. If I am 
+rightly informed, the gentlemen who had the press warrant did, by no 
+means, confine themselves to taking horses from such only as showed no 
+disposition to serve their country; and another reason that induced me 
+to countermand the order was, that I found it created very great discontents, to find that horses, which were immediately to be attached to 
+your brigade, should be taken out of another; and, as it was likely to 
+be productive of many inconveniences, and having already full enough 
+to struggle with, and not conceiving the horses to be substantially necessary, I thought it best to put a stop to any further embarrassments on 
+this account. As to Col. Maham's threatening to resign, because he is 
+not permitted to do as he is pleases, he must use his own pleasure. I 
+can assure him these kind of threats are by no means calculated to 
+operate with me in the manrer they are intended to do, but the reverse. 
+I am very sorry to find so few of the Charlestown militia at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. 
+There is now a newspaper regularly published. Suppose you issue 
+general orders for those men to join their several corps within a certain 
+limited time, and such as do not, to send a party to take them into custody; and if, on trial, they are convicted, send them to the Continental 
+line a few examples, perhaps, may bring them to their senses. It is 
+disgraceful in the highest degree that men should require to be thus 
+goaded to their duty. An express is this day arrived from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+and brings letters from Gillon, who is arrived at the Havanna with five 
+prizes, worth 150,000 hard dollars. It is not unlikely he may send a 
+vessel or two to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> therefore, could wish a good look-out may 
+be kept there, that if they arrive they may not be detained for want of 
+a pilot. They talk much at the Northward of the French fleet coming 
+either here or to <a href='/results.php?city=new york' rel='city'>New York</a>, early this spring. Let either be the object, 
+the issue will be highly important. I could wish Charlestown to be the 
+first, not only as most interesting to us, but because I believe the 
+attempt here would be successful, and I have very great doubts about 
+the other; and, because I fear if our allies were to meet with a rebuff 
+in one place, they will not be so ready to attempt another, as success is 
+always a stimulus to encounter new dangers. I suppose you will think 
+I have little to do, to write so much about politics this is not the fact; 
+but my pen naturally run into its old channel before I recollected my 
+self. I wish I had time to give you these occurrences oftener than I 
+do; however, if you will give me leave, I will subscribe to our news 
+paper for you, from whence you will stand a better chance of getting 
+JQ^WS than from ray pen. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

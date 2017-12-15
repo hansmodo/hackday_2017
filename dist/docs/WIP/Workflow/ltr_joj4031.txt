@@ -1,0 +1,60 @@
+<letter id="joj4031">
+<recipient first="E" last="Gerry" type="individual"/>
+<p>
+to e. gerry, of massachusetts. 
+</p><p>
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='9'>9th</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I should have much wondered what could have detained 
+my letter, mentioned in yours of 20th September last, so 
+long from you, had not my correspondence been strangely 
+interrupted ever since my arrival. 
+</p><p>
+Your Constitution gives me much satisfaction. It appears to me to be, upon the whole, wisely formed and well 
+digested. I find that it describes your State as being in 
+New-England, as well as in America. Perhaps it would 
+be better if these distinctions were permitted to die away. 
+</p><p>
+Your predictions respecting the fate of Lord Cornwallis have, thank God! been verified. It is a glorious, joyful, 
+and important event. Britain feels the force of that stroke, and other nations berrin to doubt less of the continuance of 
+our independence. Further successes must prepare the 
+way for peace; and I hope that victory will stimulate, 
+instead of relaxing our exertions. 
+</p><p>
+Although myself and my family have most severely suffered by the continental money, I am resigned to its fate. 
+Provided we preserve our liberty and independence, I shall 
+be content. Under their auspices, in a fruitful country, and 
+by patient industry, a competence may always be acquired, 
+and I shall never cease to prefer a little with freedom, to 
+opulence without it. 
+</p><p>
+Your account of the plenty which abounds in our country 
+is very flattering, and ought to excite our gratitude to the 
+Hand that gives it. While our governments tax wisely, 
+reward merit, and punish offenders, we shall have little to 
+fear. The public has been too much a prey to peculation. 
+Economy and strict accounts ought to be, and continue, 
+among the first objects of our attention. 
+</p><p>
+I have not heard any thing for a long time respecting 
+our disputed lines. In my opinion, few things demand more 
+immediate care than this subject; and I differ from those 
+who think that such matters had better be postponed till 
+after the war. At present, a sense of common danger 
+guaranties our union. We have neither time nor inclination to dispute among ourselves. Peace will give us leisure, and leisure often finds improper occasions for employment. I most sincerely wish that no disputes may survive 
+the war ; and that on the return of peace, we may congratulate each other on our deliverance and prospects of 
+uninterrupted felicity, without finding ourselves exposed to 
+differences and litigations, which never fail to make impressions injurious to that cordiality and confidence which both 
+our interest and our duty call upon us to cultivate and 
+,eherish. 
+</p><p>
+Mrs. Jay charges me to present her compliments to you. 
+I am, dear sir, with great and sincere esteem, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

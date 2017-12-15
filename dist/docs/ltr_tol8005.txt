@@ -1,0 +1,21 @@
+<letter id='tol8005'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+Consulate of the United States, 
+</p><p>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, California, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1846' rel="origin">1846</a>.
+ 
+Sir : Your letter of yesterday I received last night at eight o'clock ; I thank you for the same ; it took from me a weight of uneasiness concerning your situation. The alcalde of Monterey has requested of me a copy in 
+Spanish of your letter. Not knowing what you might approve of in the case, I had some objection; on second thoughts I considered that the alcalde, having given the courier a passport (without which he would not 
+go) for carrying of the letters both ways, were made public, and people might put a wrong construction on our correspondence, I gave it to him with the following additions. I also considered the letter contained nothing 
+of importance to keep secret, and now annex my letter of this morning to the alcalde. As you may not have a copy of your letter, I send one. My native courier said he was well treated by you - that two thousand men 
+would not drive you. In all cases of couriers, orders our men to have no 
+words or hints with them, as it is magnified. This one said a man pointed to a tree and said, "There's your life;" he expected to be led to you blindfolded ; says you have sixty-two men, well armed, etc., etc., etc. 
+</p><p>
+You will, without thought of expense or trouble, call on me, or send to me, in every case of need, not only as your consul, but as your friend and countryman. I am yours, truly, 
+</p><p>
+(Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p><p>
+To Captain J. C. Fremont, United States Army. 
+</p>
+</letter>

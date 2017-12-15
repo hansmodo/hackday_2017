@@ -1,0 +1,70 @@
+<letter id="joj4152">
+<recipient first="" last="Morse" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1799' rel="origin">1799</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+You will herewith receive copies of the acts of our two 
+last sessions. A variety of official and other affairs, which, 
+although in numerous instances of little importance, yet 
+required to be despatched with punctuality, induced me, 
+from time to time, to postpone replying to your obliging 
+letter of the 19th November, and to thank you for the 
+interesting pamphlets you was so kind as to send with it. 
+</p><p>
+We see many things, my dear sir, which might be altered 
+for the better, and that, I believe, has been the case at all times. But at this period, there certainly are an uncommon number and series of events and circumstances, which 
+assume an aspect unusually portentous. The seeds of 
+trouble are sowing and germinating in our country, as well 
+as in many others; they are cultivated with a zeal so 
+singularly blind, as not, in many instances, to be easily 
+accounted for. Infidelity has become a political engine, 
+alarming both by the force and the extent of its operations. 
+It is doubtless permitted to be used for wise ends, tho 
+we do not clearly discern them ; when those ends shall be 
+accomplished, it will be laid aside. 
+</p><p>
+Much ill use has been, and will yet be made of secret 
+societies. I think with you that they should not be encouraged, and that the most virtuous and innocent of them 
+would do well to concur in suspending them for the present. 
+</p><p>
+What precisely is to be understood of the death and 
+resurrection of the witnesses, will probably be explained 
+only by the event. I have an idea, that cither the Old and New Testaments, or the moral and revealed law are the twin 
+witnesses : witnesses to the existence, attributes, promises, 
+and denunciations of the Supreme Being. Atheism is now 
+killing these witnesses. That all true and pious apostles 
+or believers are everywhere or generally to be slain, seems 
+hardly credible. Whatever or whoever the witnesses may 
+be, it is certain that the slaughter is not yet perfected. I 
+much doubt whether, in any view of the subject, the clergy 
+of the church of Rome are of the number. 
+</p><p>
+The pope has lost his triple crown, and his spiritual 
+dominion is rapidly declining. The Turk is now a party 
+to the war ; whether any or what consequences will result 
+from it to Mahomet, is yet to be seen. Wide is the field 
+open for conjectures. 
+</p><p>
+That our country is to drink very deep of the cup of 
+tribulation, I am not apprehensive ; but that we shall entirely escape, does not appear to me very probable. I 
+suspect that the jacobins are still more numerous, more 
+desperate, and more active in this country, than is generally 
+supposed. It is true, they are less indecorous and less 
+clamorous than they have been. How few of their leaders 
+have abandoned their errors, their associations, their opposition to their own government, and their devotion to a 
+foreign one ! Why, and by whom, were the Kentucky and 
+Virginia resolutions contrived, and for what purposes ? I 
+often think of Pandora's box : although it contained every 
+kind of evil, yet it is said that hope was placed at the bottom. This is a singular fable, and it admits of many, and 
+some of them very extensive applications. 
+</p><p>
+With very sincere esteem and regard, 
+I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

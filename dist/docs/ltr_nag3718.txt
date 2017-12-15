@@ -1,0 +1,64 @@
+<letter id="nag3718">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, at Colonel Ramsay's, on <a href='/results.php?city=deep river' rel='city origin'>Deep River</a>, <a rel='day origin' value='29'>29</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Inclosed, I send your Excellency a copy of my 
+letter to Congress, for your information respecting the operations in This department. The Marquis de 
+Lafayette has arrived in Virginia ; but I believe his 
+troops are still in Mardand. Some days since I sent 
+Colonel Morris to confer with the Marquis, and see 
+if he has your Excellency's permission to go farther 
+southward. I received a letter from him on the 
+road, acquainting me that there was an account from 
+<a href='/results.php?city=richmond' rel='city'>Richmond</a>, of Admiral Arbuthnot's arriving in the 
+Chesapeake, with six ships of the line and upwards 
+of thirty transports, with a considerable reenforcement. If this report is true, our flattering prospects 
+are at an end in that quarter. Nothing more can be 
+expected than confining the enemy in their fortifications. It would afford me great relief, if the detachment under the Marquis could proceed farther southward. But I fear the state of the Northern army 
+will not admit of this, nor am I informed of the latitude your Excellency had given him on that subject. 
+The regular troops will be late in the field, if they 
+are raised at all. Virginia, from the unequal operation of the law for drafting, is not likely to get 
+many soldiers. Maryland, as late as the loth of this 
+month, had not got a man ; nor is there a man raised 
+in North Carolina, or the least prospect of it. In 
+this situation, remote from reenforcements, inferior to 
+the enemy in numbers, and no prospect of support, I 
+am at a loss what is best to be done. If the enemy 
+falls down towards Wilmington, they will be in a 
+position where it would be impossible for us to injure 
+them, if we had a force. In this critical and distressing situation, I am determined to carry the war immediately into South Carolina. The enemy will be obliged to follow us, or give up their posts in that State. 
+If the former takes place, it will draw the war out 
+of this State, and give it an opportunity to raise its proportion of men. If they leave their posts to fall, 
+they must lose more there than they can gain here. 
+If we continue in this State, the enemy will hold 
+their possessions in both. All things considered, I 
+think the movement is warranted by the soundest 
+reasons, both political and military. The manoeuvre 
+will be critical and dangerous, and the troops exposed to every hardship. But, as I share it with 
+them, I hope they will bear up under it with that 
+magnanimity which has already supported them, and 
+for which they deserve every thing of their country. 
+I expect to be ready to march in about five days, 
+and have written to General Sumpter to collect the 
+militia to aid the operations. I am persuaded the 
+movement will be unexpected to the enemy, and I 
+intend it shall be as little known as possible. Our 
+baggage and stores, not with the army, I shall order 
+by the route of Saura Towns and Shallow Ford, to 
+Charlotte. By having them in the upper country, we 
+shall always have a safe retreat, and from those inhabitants we may expect the greatest support. I 
+shall take every measure to avoid a misfortune. But 
+necessity obliges me to commit myself to chance ; 
+and, I trust, my friends will do justice to my reputation if any accident attends me. 
+</p><p>
+I am, with the greatest respect, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p><p>
+P. S. Inclosed, I send you a general return of 
+the army. 
+</p>
+</letter>

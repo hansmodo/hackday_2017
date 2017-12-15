@@ -1,0 +1,27 @@
+<letter id="smd7955">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Friday, <a rel="month origin" value="6">June</a> <a rel='day origin' value='26'>26th</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+O praise the Lord, O my soul! Here is good news enough to make me happy for a month!  Brother is so good about that!  Every time he hears good news 
+on our side, he tells it just as though it was on his side, instead of on ours ; while all bad news for us he 
+carefully avoids mentioning, unless we question him. So to-day he brought in a budget for us. 
+</p><p>
+<a href='/results.php?tla=rel' rel=''>Lee</a> has crossed the Potomac on his way to <a href='/results.php?city=washington' rel='city origin'>Washington</a> with one hundred and sixty thousand men. Gibbes and George are with him. Magruder is marching on Fort Jackson, to attack it in the rear. One or two of our English ironclads are reported at the mouth of the river, and Farragut has gone down 
+to capture them. O Jimmy! Jimmy! suppose he 
+should be on one of them? We don't know the name of his ship, and it makes us so anxious for him, during these months that we have heard nothing of his 
+whereabouts. 
+It is so delightful to see these frightened Yankees! One has only to walk downtown to be satisfied of the 
+alarm that reigns. Yesterday came the tidings of the capture of Brashere City by our troops, and that a 
+brigade was fifteen miles above here, coming down to the city. Men congregated at corners whispering 
+cautiously. These were evidently Confederates who had taken the oath. Solitary Yankees straggled 
+along with the most lugubrious faces, troubling no one. We walked down to Blineau's with Mrs. Price, 
+and over our ice-cream she introduced her husband, who is a true blue Union man, though she, like our 
+selves, is a rank Rebel. Mr. Price, on the eve of making an immense fortune, was perfectly disconsolate 
+at the news. Every one was to be ruined ; starvation would follow if the Confederates entered ; there was 
+never a more dismal, unhappy creature. Enchanted at the news, I naturally asked if it were reliable. 
+"Perfectly!  Why, to prove how true, standing at the door of this salon five minutes ago, I saw two young 
+ladies pass with Confederate flags, which they flirted in the face of some Federal officers, unrebuked!" Verily, thought I, something is about to 
+happen! Two days ago the girls who were "unrebuked" this evening would have found themselves in jail instead. 
+</p>
+</letter>

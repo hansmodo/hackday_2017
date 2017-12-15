@@ -1,0 +1,73 @@
+<letter id="isp3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=reading' rel='city origin'>Reading</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I am now taking the earliest opportunity to acquaint your Excellency with my arrival in camp, to resume the command of my division. 
+</p><p>
+In the course of my tour to the eastward, I was 
+at <a href='/results.php?city=hartford' rel='city'>Hartford</a>, during the sitting of the Assembly, who 
+supposed, from a resolution of Congress which then 
+lay before them, that all the men raised for the public service in this State, under whatever description, 
+whether artillery, dragoons, or artificers, were to be 
+considered and credited as part of the eight battalions of infantry, which were assigned as a quota to 
+this State for the year <a href='/results.php?year=1779'>1779</a>. 
+</p><p>
+This sentiment I opposed, at the time that the return of the number wanting to complete the eight 
+battalions to the present establishment was laid before them. However, instead of raising fourteen hundred men, the deficiency of the two brigades under my command, they have made such deductions as 
+leave, by their calculation, but six hundred men to be raised, and these are to be procured by voluntary 
+enlistment. In consequence of this resolution, very few recruits, I fear, will be brought into the field, 
+unless your Excellency should think proper to make some representations upon the subject to the Assembly, who will sit the next week at <a href='/results.php?city=hartford' rel='city'>Hartford</a> ; and this, 
+I presume, will be of more efficacy than any other means whatever. 
+</p><p>
+From the letters which passed in my absence, and 
+which I have seen since my return, I find there was 
+reason to apprehend the enemy would have been in 
+motion before this time, and that, upon these appearances, it was judged necessary for all the troops 
+which were under my command to march for the defence of the posts on the North River, except the 
+first Connecticut brigade, which is now held in readiness for that purpose. 
+</p><p>
+Although I do not in the least doubt the necessity 
+and propriety of these measures, or wish to be informed of the secrets of the ensuing campaign, yet 
+it is exceedingly natural for me to have some little 
+curious about my future destination ; whether I am 
+to command those troops which have been with me 
+the winter past, or in some new department, or whether I am to remain to guard the huts at this place. 
+For after <a href='/results.php?tla=alm' rel='colleague'>General McDougall</a> is reenforced with the 
+whole of my division (which will augment his to a 
+very respectable command), nothing is said concerning the part which I am to act. However disagreeable the situation may be, I know there is a delicacy 
+in thinking and treating on a subject, where one's 
+self is so intimately concerned, beyond the limits of 
+which, I hope I shall not be accused of passing. 
+</p><p>
+I am unhappy to inform your Excellency that, 
+upon the removal of our detachments from the seacoast, the enemy have exhibited some specimens of 
+enterprise, so little usual for them. A few nights 
+since, a small party from a whaleboat landed at Fairfield, surprised and carried off Brigadier-General Silliman, of the militia, and his son Major Silliman. 
+Last night, another party landed at Middlesex, near Norwalk, in quest of one Captain Selleck, who happened to be absent; but a Mr. Webb, late a Lieutenant in the train, two of the inhabitants, and the ingenious Dr. Bushnell, fell into their hands. As the 
+last-mentioned gentleman, who was there in the 
+prosecution of his unremitted endeavours to destroy 
+the enemy's shipping, is personally known to very few 
+people, it is possible he may not be discovered by 
+his real name or character, and may be considered 
+of less consequence than he actually is. 
+</p><p>
+I am this instant informed, that about fifty of the 
+enemy's plunderers landed at Telleck's Farms this 
+morning, and carried off every man his sheep, that is 
+to say, fifty, before the militia could be collected to 
+oppose them. These incursions I expect will be frequent and troublesome, but I hope not decisive, or 
+very important. I am your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p><p>
+P. S. I designed to have suggested to your Excellency the difficulties I am apprehensive will arise 
+in procuring forage for the baggage-horses and teams. 
+The grass is by no means sufficient to support them; 
+and dry forage will be furnished with great difficulty, and I fear in very small quantities. 
+</p>
+</letter>

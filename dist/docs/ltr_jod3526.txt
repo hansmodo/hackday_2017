@@ -1,0 +1,82 @@
+<letter id="jod3526">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+YOURS by Mr. Williams I have received. The little 
+bill must be paid, but I confess it alarms me a little. 
+The expense of my son here is greater than I ever 
+imagined. Although his company is almost all the 
+pleasure I have in life, yet I should not have brought 
+him if I had known the expense. His expenses, together with what you have drawn for, and a little collection of books I have bought, will amount to more 
+than will ever be allowed me. My accounts must 
+not be drawn into intricacy or obscurity. I must not 
+be involved in suspicions of meddling in trade, or any 
+thing else but my proper business. 
+</p><p>
+You complain that I don t write often enough, and 
+that when I do, my letters are too short. If I were 
+to tell you all the tenderness of my heart, I should 
+do nothing but write to you. I beg of you not to be uneasy. I write you as often and as much as I ought. 
+If I had a heart at ease, and leisure enough, I could 
+write you several sheets a day, of the curiosities of this 
+country. But it is as much impossible for me to think 
+of such subjects as to work miracles. Let me entreat 
+you to consider, if some of your letters had by any 
+accident been taken, what a figure would they have 
+made in a newspaper, to be read by the whole world ? 
+Some of them, it is true, would have done honor to 
+the most virtuous and most accomplished Roman matron ; but others of them would have made you and 
+me very ridiculous. In one of yours you hint that I 
+am to go to Holland. But I think you must be misinformed. By all that I can learn, some gentlemen 
+intend to vote for me to Holland vs. Mr. D. ; others 
+to Spain vs. Mr. Lee. Neither, I think, will succeed ; 
+and therefore I think I have but one course to steer, 
+and that is, homewards. But I can determine nothing 
+absolutely. I must govern myself according to the 
+intelligence which may hereafter arise, the orders of 
+Congress and the best judgment I can form of my 
+own duty and the public good. 
+</p><p>
+I am advised to take a ride to Geneva, or to <a href='/results.php?city=amsterdam' rel='city'>Amsterdam</a> ; and I have been so confined from exercise, having never been further from Paris than Versailles since 
+my arrival here, that some such excursion seems necessary for my health ; yet I cannot well bear the thought 
+of putting the public to an expense merely for the sake 
+of my pleasure, health or convenience. Yet my situation here is painful. I never was in such a situation 
+before as I am now, and my present feelings are new 
+to me. If I should return, and in my absence any 
+orders should arrive here for me to execute, in that 
+case nobody would be here to execute them, and they 
+might possibly fail of success for want of somebody 
+with power to perform them ; at least, this may he 
+suspected and said and believed. However, upon the 
+whole, as Congress have said nothing to me good or 
+bad, I have no right to presume that they mean to 
+say anything, and therefore, on the whole, it is my 
+duty to return by the first opportunity, unless I should 
+receive counter orders before that occurs. If ever 
+the time should arrive, when I could have a little lei 
+sure and a quiet mind, I could entertain you with ac 
+counts of things which would amuse you and your 
+children. There are an infinity of curiosities here, 
+but so far from having leisure to describe them, I have 
+found none even to see them, except a very few. 
+</p><p>
+The climate here is charming. The weather is 
+every day pleasant as the month of May ; soft, mild 
+air ; some foggy days, and about ten or twelve days 
+in January were cold and icy. But we have had 
+scarce three inches of snow the whole winter. The 
+climate is more favorable to my constitution than 
+ours. The cookery and manner of living here, which 
+you know Americans were taught by their former ab 
+surd masters to dislike, is more agreeable to me than 
+you can imagine. The manners of the people have 
+an affection in them that is very amiable. There is 
+such a choice of elegant entertainments in the theatric way, of good company, and excellent books, 
+that nothing would be wanting to me in this country 
+but my family and peace to my country, to make me 
+one of the happiest of men. John Bull would growl 
+and bellow at this description. Let him bellow if he 
+will, for he is but a brute. 
+</p>
+</letter>

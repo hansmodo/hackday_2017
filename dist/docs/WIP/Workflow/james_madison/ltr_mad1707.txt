@@ -1,0 +1,33 @@
+<letter id='mad1707'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, April 9, <a href="/results.php?year=1792">1792</a>. 
+</p><p>
+DEAR SIR, You will find by the inclosed papers that the 
+President's negative has saved us from the unconstitutional allotment of 120 Representatives proposed by the Bill on that 
+subject. The contest is now to be between a ratio of 1 for 30, 
+and one for 33 thousand. If the next bill should begin with 
+the former, I think it most likely to end in the latter, this being 
+most favorable to the northern part of the Union the circumstance which produced the curious project contained in the 
+other Bill. The assumption of the remainder of the State debts, 
+amounting to about 41,000,000 dollars, has been lately on the 
+anvil. The first vote was in its favor. On the 2 d , it was thrown 
+out. It will, however, be pretty certainly renewed, and, in the 
+end, not improbably carried. Besides a legion of objections 
+against the measure, its being pressed is the more extraordinary, as the progress of the Commissioners for settling the final 
+balances among the States promises a conclusion of the work 
+almost as soon as provision can be made for paying the first 
+interest on the debts to be assumed. For the plan is, to pass 
+the assumption now, and leave the revenue to be provided hereafter. The obligation of public faith will then be an answer to 
+all objections against the new taxes, or contrivances that will 
+be called for. The ways and means for the Western defence 
+have been the subject of latest discussion. They consist of increased duties on imports; and it is to be feared that advantage 
+will be taken of the occasion to make the increase permanent, 
+although the object is temporary. <a href="/results.php?city=new york" rel="city">New York</a> continues to be 
+a scene of Bankruptcies, resulting from 's fate, and the 
+fall of the Stocks. Every day exhibits new victims, and opens 
+new scenes of usury, knavery, and folly. If the Stocks should 
+not be artificially revived, it is suspected that the ensuing week 
+will be a very trying one to this City. 
+</p>
+</letter>

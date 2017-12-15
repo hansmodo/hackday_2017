@@ -1,0 +1,63 @@
+<letter id='mad1654'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, June 21, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, The last favor for which I am to thank you is 
+of June 9th. For some time past I have been obliged to content myself with inclosing you the newspapers. In general, they 
+give, though frequently erroneous and sometimes perverted, yet, 
+on the whole, fuller accounts of what is going forward than 
+could be put into a letter. The papers now covered contain a 
+sketch of a very interesting discussion which consumed great 
+part of the past week. The Constitution has omitted to declare 
+expressly by what authority removals from office are to be made. 
+Out of this silence, four constructive doctrines have arisen: 1. 
+That the power of removal may be disposed of by the Legislative discretion. To this it is objected that the Legislature 
+might then confer it on themselves, or even on the House of 
+Representatives, which could not possibly have been intended 
+by the Constitution. 2. That the power of removal can only 
+be exercised in the mode of impeachment. To this the objection is that it would make officers of every description hold 
+their places during good behaviour, which could have still less 
+been intended. 3. That the power of removal is incident to the 
+power of appointment. To this the objections are that it would 
+require the constant session of the Senate; that it extends the 
+mixture of Legislative and Executive power; that it destroys 
+the responsibility of the President, by enabling a subordinate 
+Executive officer to intrench himself behind a party in the Senate, and destroys the utility of the Senate in their Legislative 
+and Judicial characters, by involving them too much in the 
+heats and cabals inseparable from questions of a personal nature; in fine, that it transfers the trust in fact from the President, who, being at all times impeachable, as well as every fourth 
+year eligible by the people at large, may be deemed the most 
+responsible member of the Government, to the Senate; which, 
+from the nature of that institution, is and was meant, after the 
+Judiciary, and in some respects without that exception, to be 
+the most irresponsible branch of the Government. 4. That the 
+Executive power being in general terms vested in the President, 
+all power of an Executive nature not particularly taken away 
+must belong to that department; that the power of appointment 
+only being expressly taken away, the power of removal, so far 
+as it is of an Executive nature, must be reserv.. In support 
+of this construction it is urged that exceptions to general positions are to be taken strictly, and that the axiom relating to 
+the separation of the Legislative and Executive functions ought 
+to be favored. To this are objected the principle on which the 
+3 d construction is founded, and the danger of creating too much 
+influence in the Executive Magistrate. 
+</p><p>
+The last opinion has prevailed, but is subject to various modifications, by the power of the Legislature to limit the duration 
+of laws creating offices, or the duration of the appointments for 
+filling them, and by the power over the salaries and appropriations. In truth, the Legislative power is of such a nature that 
+it scarcely can be restrained, either by the Constitution or by 
+itself; and if the federal Government should lose its proper 
+equilibrium within itself, I am persuaded that the effect will 
+proceed from the encroachments of the Legislative department. 
+If the possibility of encroachments on the part of the Executive 
+or the Senate were to be compared, I should pronounce the danger to lie rather in the latter than the former. The mixture 
+of Legislative, Executive, and Judiciary authorities, lodged in 
+that body, justifies such an inference; at the same time, I am 
+fully in the opinion that the numerous and immediate representatives of the people composing the other House will decidedly predominate in the Government. 
+</p><p>
+Mr. Page tells me he has forwarded to you a copy of the 
+amendments lately submitted to the House of Representatives. 
+They are restrained to points on which least difficulty was apprehended. Nothing of a controvertible nature ought to be 
+hazarded by those who are sincere in wishing for the approbation of of each House, and | of the State Legislatures. 
+</p>
+</letter>

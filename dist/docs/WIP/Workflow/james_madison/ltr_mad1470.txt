@@ -1,0 +1,47 @@
+<letter id='mad1470'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, December 5, <a href="/results.php?year=1780">1780</a>. 
+</p><p>
+DEAR SIR, I have your favor of the 27th ult., and congratulate you on the deliverance of our country from the distresses of actual invasion. The spirit it has shewn on this 
+occasion will, I hope, in some degree protect it from a second 
+visit. 
+</p><p>
+Congress yesterday received from <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a> and Mr. Carmichael, as late as the 4th and 9th of September. The 
+general tenor of them is that we are not to rely on much aid in 
+the article of cash from Spain, her finances and credit being 
+scarcely adequate to her own necessities, and that the British 
+emissaries are indefatigable in misrepresenting our affairs in 
+that kingdom, and in endeavoring to detach it from the war. 
+The character, however, of the Catholic King for steadiness and 
+probity, and the entire confidence of our allies in him, forbid 
+any distrust on our part. Portugal, on the pressing remonstrances of France and Spain, has at length agreed to shut her 
+ports against English prizes, but still refuses to accede to the 
+armed neutrality. <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> writes that the news of the fate 
+of the Quebec and Jamaica fleets arrived at <a href="/results.php?city=london" rel="city">London</a> nearly 
+about the same time, and had a very serv.us effect on all ranks, 
+as well as on stocks and insurance. 
+</p><p>
+Our information from the West Indies gives a melancholy 
+picture of the effects of the late tempest. Martinique has suffered very considerably, both in shipping and people. Not less 
+than six hundred houses have been destroyed in St. Vincent's. 
+The Spaniards in Cuba, also, have not escaped, and it is reported 
+that the fleet on its way from the Havannah to Pensacola has 
+been so disabled and dispersed as to defeat the expedition for the 
+present. On the other side, our enemies have suffered severely. 
+The Ajax, a ship of the line, and two frigates stationed off St. 
+Lucie, to intercept the Martinique trade, are certainly lost, with 
+the greatest part, if not the whole, of their crews; and there is 
+great reason to believe that several other capital ships that 
+have not been since heard of have shared the like fate. The 
+island of St. Lucie is totally defaced. In Barbadoes, also, 
+scarce a house remains entire, and one thousand five hundred 
+persons at least have perished. One of the largest towns in 
+Jamaica has been totally swept away, and the island otherwise 
+much damaged. The consequences of this calamity must afford 
+a striking proof to Great Britain of her folly in shutting our 
+ports against her West India commerce, and transferring the 
+advantage of our friendship to her enemies. 
+I am, Dr sir, yours sincerely. 
+</p>
+</letter>

@@ -1,0 +1,139 @@
+<letter id='mad1554'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, December 4th, <a href="/results.php?year=1786">1786</a>. 
+</p><p>
+DEAR SIR, The recommendation from the meeting at <a href="/results.php?city=annapolis" rel="city">ANNAPOLIS</a>, of a plenipotentiary Convention in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> in May 
+next, has been well received by the Assembly here. Indeed, 
+the evidence of dangerous defects in the confederation has at 
+length proselyted the most obstinate adversaries to a reform. 
+The unanimous sanction given by the Assembly to the inclosed 
+compliance with the Recommendation marks sufficiently the 
+revolution of sentiment which the experience of one year has 
+effected in this country. The deputies are not yet appointed. 
+It is expected that <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, the present Governor, 
+E. Randolph, and the late one, <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a>, will be of the number. 
+</p><p>
+The project for bartering the Mississippi to Spain was brought 
+before the Assembly after the preceding measure had been 
+adopted. The report of it having reached the ears of the Western Representatives, as many of them as were on the spot, 
+backed by a number of the late officers, presented a memorial, 
+full of consternation and complaint; in consequence of which, 
+some very pointed Resolutions, by way of instruction to the 
+Delegates in Congress, were unanimously entered into by the 
+House of Delegates. They are now before the Senate, who will 
+no doubt be also unanimous in their concurrence. 
+</p><p>
+The question of paper money was among the first with which 
+the session opened. It was introduced by petitions from two 
+Counties. The discussion was faintly supported by a few obscure patrons of the measure, and, on the vote, it was thrown 
+out by 85 against 17. A petition for paying off the public securities according to a scale of their current prices was unanimously rejected. 
+</p><p>
+The consideration of the Revised Code has been resumed, and 
+prosecuted pretty far towards its conclusion. I find, however, 
+that it will be impossible, as well as unsafe, to give an ultimate 
+fiat to the system at this session. The expedient I have in view 
+is to provide for a supplemental revision by a Committee, who 
+shall accommodate the bills skipped over, and the subsequent 
+laws, to such part of the Code as has been adopted, suspending 
+the operation of the latter for one year longer. Such a work 
+is rendered indispensable by the alterations made in some of 
+the bills in their passage, by the change of circumstances, which 
+call for corresponding changes in sundry bills which have been 
+laid by, and by the incoherence between the whole Code and 
+the laws in force of posterior date to the Code. This business 
+has consumed a great deal of the time of two sessions, and has 
+given infinite trouble to some of us. We have never been without opponents, who contest, at least, every innovation inch by 
+inch. The bill proportioning crimes and punishments, on which 
+we were wrecked last year, has, after undergoing a number of 
+alterations, got through a Committee of the whole; but it has 
+not yet been reported to the House, where it will meet with 
+the most vigorous attack. I think the chance is rather against 
+its final passage in that branch of the Assembly; and if it should 
+not miscarry there, it will have another gauntlet to run through 
+the Senate. 
+</p><p>
+The bill on the subject of Education, which could not safely 
+be brought into discussion at all last year, has undergone a 
+pretty indulgent consideration this. In order to obviate the 
+objection from the inability of the Country to bear the expence, 
+it was proposed that it should be passed into a law, but its operation suspended for three or four years. Even in this form, 
+however, there would be hazard in pushing it to a final question, and I begin to think it will be best to let it lie over for 
+the supplemental Reviserv. who may, perhaps, be able to put it 
+into some shape that will lessen the objection of expence. I 
+should have no hesitation at this policy if I saw a chance of 
+getting a Committee equal to the work of compleating the revision. <a href='/results.php?tla=edp' rel='co-worker met'>Mr. Pendleton</a> is too far gone to take any part in it. 
+Mr. Wythe, I suppose, will not decline any duty which may be 
+imposed on him, but it seems almost cruel to tax his patriotic 
+zeal any farther. Mr. Blair is the only remaining character in 
+which full confidence could be placed. 
+</p><p>
+The delay in the administration of Justice from the accumulation of business in the General Court, and despair of obtaining a reform according to the Assize plan, have led me to give 
+up this plan in favor of district Courts, which differ from the 
+former in being clothed with all the powers of the General 
+Court within their respective districts. The bill on the latter 
+plan will be reported in a few days, and will probably, though 
+not certainly, be adopted. 
+</p><p>
+The fruits of the impolitic measures taken at the last session 
+with regard to taxes are bitterly tasted now. Our Treasury is 
+empty, no supplies have gone to the federal treasury, and our 
+internal embarrassments torment us exceedingly. The present 
+Assembly have good dispositions on the subject, but some time 
+will elapse before any of their arrangements can be productive. 
+In one instance only, the general principles of finance have been 
+departed from. The specie part of the tax under collection is 
+made payable in Tobacco. This indulgence to the people, as it 
+is called and considered, was so warmly wished for out of doors, 
+and so strenuously pressed within, that it could not be rejected 
+without danger of exciting some worse project of a popular 
+cast. As Tobacco alone is made commutable, there is reason 
+to hope the public treasury will suffer little, if at all. It may 
+possibly gain. 
+</p><p>
+The repeal of the port bill has not yet been attempted. Col. Mason has been waited for as the hero of the attack. As it is 
+become uncertain whether he will be down at all, the question 
+will probably be brought forward in a few days. The repeal, 
+were he present, would be morally certain. Under the disadvantage of his absence, it is more than probable. The question 
+of British debts has also awaited his patronage. I am unable 
+to say what the present temper is on that subject, nothing having passed that could make trial of it. The repeated disappointments I have sustained in efforts in favor of the Treaty 
+make me extremely averse to take the lead in the business 
+again. 
+</p><p>
+The public appointments have been disposed of as follows: 
+The contest for the chair lay between Col. Bland and Mr. Prentis. The latter prevailed by a majority of near 20 votes. Mr. 
+Harrison, the late Speaker, lost his election in Surrey, which he 
+represented last year; and since has been equally unsuccessful 
+in his pristine County, Charles City, where he made a second 
+experiment. In the choice of a Governor, <a href='/results.php?tla=edr' rel='co-worker'>Mr. E. Randolph</a> 
+had a considerable majority of the whole in the first ballot. 
+His competitors were Col. Bland and <a href='/results.php?tla=rhl' rel='co-worker'>R. H. Lee</a>, each of whom 
+had between 20 and 30 votes. The delegation to Congress contained, under the first choice, Grayson, Carrington, <a href='/results.php?tla=rhl' rel='co-worker'>R. H. Lee</a>, 
+Mr. Jones, and myself. Col. H. Lee, of the last delegation, was 
+dropped. The causes were different, I believe, and not very 
+accurately known to me. One of them is said to have been his 
+supposed heterodoxy touching the Mississippi. Mr. Jones has 
+since declined his appointment, and Col. Lee has been reinstated 
+by an almost unanimous vote. A vacancy in the Council, produced by the resignation of Mr. Roane, is filled by Mr. Boiling Starke. Cyrus Grififin was a candidate, but was left considerably in the rear. The Attorney Generalship has been conferred 
+on Col. Innes. <a href='/results.php?tla=tom' rel='co-worker'>Mr. Marshall</a> had a handsome vote. 
+</p><p>
+Our summer and fall have been wet beyond all imagination 
+in some places, and much so everywhere. The crops of corn 
+are in general plentiful. The price up the country will not 
+exceed 8 or 10s. In this district it is scarcest and dearest, 
+being already as high as 12 or 15s. The crop of Tobacco will 
+fall short considerably, it is calculated, of the last year's. The 
+highest and lowest prices in the Country, of the new crop, are 
+25 and 20s. A rise is confidently expected. 
+</p><p>
+My next will be from <a href="/results.php?city=new york" rel="city">New York</a>, whither I shall set out as 
+soon as the principal business of the Session is over. Till my 
+arrival there I postpone communications relative to our national 
+affairs, which I shall then be able to make on better grounds, 
+as well as some circumstances relative to the affairs of this 
+State, which the hurry of the present opportunity restrains me 
+from entering into. 
+</p><p>
+Adieu. 
+</p>
+</letter>

@@ -1,0 +1,45 @@
+<letter id="ben4796">
+<recipient first="Thomas" last="Gushing" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your favour of October 3ist came to hand a few days 
+since, with the vote of the House of Representatives appointing me their agent here, which, as it was unsolicited on my 
+part, I esteem the greater honour ; and shall be very happy, 
+if I can, in that capacity, render my country any acceptable 
+service. 
+</p><p>
+I have also just received your letter, of November 6th, 
+containing an account of the state and circumstances of the 
+province, and the grievances it labours under, with sundry 
+depositions and other papers. Another of November iyth, with a pamphlet, entitled, the "Proceedings of Council," 
+&c. ; another of November 23d, containing an order on Mr. De Berdt for papers. I can at present only say, that I shall 
+immediately endeavour to make myself master of the business 
+committed to my care, that so, when the Parliament and public 
+boards, which are now adjourned for a month, shall meet 
+again, I may be ready to proceed, in such manner, as, on conferring with Mr. Bollan, shall appear advisable for obtaining 
+redress of the grievances so justly complained of. 
+</p><p>
+I have the pleasure to acquaint you, from good authority, 
+that the project formed by the enemies of the province, for 
+bringing into Parliament a bill to abridge our charter rights, 
+though at first it received some countenance, and great pains 
+were taken to recommend it, is now laid aside. I do not 
+presume to suppose, that the opposition I gave to it, (by showing the imprudence of the measure, and declaring openly my 
+opinion on all occasions, that, the charter being a compact 
+between the King and the people of the colony who were out 
+o) the realm of Great Britain, there existed nowhere on earth a 
+power to alter it, while its terms were complied with, without 
+the consent o] BOTH the contracting parties^) had any weight 
+on the occasion. I rather think, that a disposition prevails of 
+late to be on good terms with the colonies, especially as we 
+seem to be on the eve of a war with Spain ; and that, in consequence of that disposition, which I hope we shall cultivate, 
+more attention has been paid to the sober advice of our 
+friends, and less to the virulent instigations of our enemies. 
+</p><p>
+I beg you will present my dutiful respects to the House of 
+Representatives, and assure them of my most faithful endeavours in their service. With great esteem and regard, I 
+have the honour to be, &c. B. FRANKLIN. 
+</p>
+</letter>

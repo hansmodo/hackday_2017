@@ -1,0 +1,38 @@
+<letter id="alh3210">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value="8">8</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have seen the enemy. Those in view I calculate 
+at about three thousand. There may be, and probably are, enough others out of sight. They have 
+sent all their horse to the other side, except about 
+fifty or sixty. Their baggage, it is agreed on all 
+hands, has also been sent across, and their wounded. 
+It is not ascertained that any of their infantry have 
+passed to the other side. There are four or five 
+hundred on the opposite point, but it is uncertain 
+whether they are those who went from this side, or 
+those who wore on Staten Island. I rather suppose 
+the former. 
+</p><p>
+Different conjectures may be made. The present 
+movement may be calculated to draw us down, and 
+betray us into an action. They may have desisted 
+from their intention of passing till night, for fear of 
+our falling upon their rear. I believe this is the 
+case, for, as they have but few boats, it would certainly be a delicate manoeuvre to cross in our face. 
+</p><p>
+We are taking measures to watch their motions 
+to-night as closely as possible. An incessant, but 
+very light skirmishing; very few boats, not more 
+than enough to carry three or four hundred men 
+at a time. It is likely more will come down this 
+evening I have the honor to be 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="sid5044">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='12'>12th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+In a conference had with Mons. Gerard, in the month of January last, at Versailles, he observed that the thirteenth 
+article in the treaty proposed by Congress, which exempted the molasses purchased by the inhabitants of the United 
+States in any of the islands belonging to, and subject to, his Most Christian Majesty, from any duties whatever, was an 
+unequal article, as he termed it, that without some concession of equal importance on the part of the United States, it 
+could not be agreed to, as it would carry the appearance of inequality, and as if Congress were taking the advantage 
+and dictating the terms in their own favor, that therefore it was expected, either wholly to omit the article, or place an 
+equivalent over against it on our part. 
+</p><p>
+On my return to Paris, I laid M. Gerard's proposals before my colleagues, who agreed generally to the justice and propriety of them, but we found it difficult to place any 
+article or articles over against that of molasses, which would be of equal consequence, and in which the States of America 
+were at the same time equally interested. After long consideration had on the subject, <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a> proposed the article 
+nearly as it now stands ; Mr Lee objected to it, as being too extensive, and more than equivalent for that of molasses 
+only ; to which I answered, that though the concession might appear great, it was in reality nothing more than giving up what we never could make use of but to our own prejudice, 
+for nothing was more evident than the bad policy of laying duties on our own exports ; that molasses, though apparently but an article of small value, was the basis on which 
+a very great part of the American commerce rested ; that the manufacture of it into rum, was every year increasing, especially in the middle and southern states, where it had been more lately introduced. 
+</p><p>
+<a href='/results.php?tla=ben' rel='colleague'>Doctor Franklin</a> agreed with me, and argued on much the same ground, but neither of us insisted on the article at 
+the time, but that the proposition should be made for the consideration of Mons. Gerard, reserving to ourselves the power 
+of agreeing to it or not afterwards. A few evenings after, and nearly as I can remember about five or six days before 
+the actual signing of the treaty, we met Mons. Gerard at my house in Paris ; he brought the proposed treaty with 
+him, ill which he had inserted the 11th and 12th articles as they now stand. The treaty was read, considered, and 
+agreed to, article by article, except the 11th and 12th, respecting which M. Gerard observed at first, that he considered them as they then stood reciprocal and equal, but 
+that he left it entirely with us to retain them both, or to reject them both, it being indifferent with his Majesty, but 
+that one could not be retained without the other. On our having agreed to all the other articles, we told him we 
+would confer together on the 11th and 12th, and write to him what our determination should be. As soon as he was 
+gone, the subject was taken up ; the arguments before used were again considered, and finally we unanimously agreed 
+to retain both the articles ; on which I desired Mr Lee to write a letter to Mons. Gerard, informing him of it, and 
+that I would send it out to Versailles the next morning. from Passy, then there might be no more delay in transferring and executing the treaties. Mr Lee accordingly wrote, 
+and <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a>, he, and myself signed the letter, which I sent the next morning.
+</p><p>
+A day or two after this, Mr A. Lee wrote a letter to <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a> and me, in which he expressed great uneasiness 
+about the 11th and 12th articles, and a desire to have them left out, on which we advised Mr Lee to go himself to Versailles on the subject, which he accordingly did, and we 
+wrote to M. Gerard, by him, that we were content to have the two articles left out, if agreeable to his Majesty. As we had just before unanimously agreed and written to have 
+them retained, we could not, with any consistency, make a point of their being expunged. Mr Lee discoursed on the subject with M. Gerard, who satisfied him as he thought 
+at the time, and as we all then thought, of the impropriety of making any alteration in the treaty, after it had been so 
+maturely considered ; had been fully agreed upon by us all ; had been approved of in form by his Majesty, and ordered 
+to be transcribed and signed. Neither Mr William Lee nor Mr izard ever spoke one word to me on the subject, 
+and I did not think myself authorised or at liberty to consult them, or any other person on the subject, but my 
+colleagues. ... 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

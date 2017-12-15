@@ -1,0 +1,22 @@
+<letter id="jhm3923">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Your letter, received yesterday, relieved me from a great deal of uneasiness, as Mr. K. Simons came down two days before and informed me that 
+he was apprehensive, from the accounts he had heard, that your brigade had been defeated, a total route ensued, and that they had suffered 
+severely. Under these impressions, you may judge what must have been my feelings on receipt of your letter yesterday. I most sincerely 
+congratulate you, sir, on your triumph over the deep laid scheme of our inveterate enemies. Their disappointment, in a plan they had 
+depended so much upon, must chagrin them far more than their loss. Your account of the behavior of the militia reflects great honor on them, and exhibits an example worthy of imitation by the rest of their 
+brethren. With respect to the prize you mention, 1 would have you by all means carry the proclamation into force against her in the most 
+rigid manner also, with regard to any others that might be taken ; for, notwithstanding every exertion, the Charlestown markets are amply 
+supplied with all kinds of provisions, by a parcel of mercenary, infamous wretches, who make lucre their only object, no matter how diabolical 
+the means they pursue to obtain it, or how prejudicial it may be to the interest of their country. 
+</p><p>
+I am, sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

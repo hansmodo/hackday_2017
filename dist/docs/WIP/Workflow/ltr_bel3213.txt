@@ -1,0 +1,44 @@
+<letter id="bel3213">
+<recipient name="the council of massachusetts" type="group"/>
+<p>
+<a href='/results.php?city=bennington' rel='city origin'>Bennington</a>, <a rel="day origin" value="25">25>/a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+GENTLEMEN, 
+</p><p>
+The evening before the last, I received a letter by express 
+from <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, desiring me to meet at head-quarters, near Half Moon, yesterday morning, where General Clinton was also 
+desired to attend, to confer upon a plan of our future operation. 
+I met them, and returned here between two and three o'clock 
+this morning. 
+</p><p>
+The militia from the State of Massachusetts, and others, are to 
+assemble in the Grants, where, probably, they will act for a time. 
+It is <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s earnest desire that those of them who are 
+to serve to the end of November may be forwarded here as soon 
+as possible. To his request you will give me leave to subjoin my 
+most serious solicitations, that every vigorous exertion to forward 
+the troops with rapidity, in the power of the Council, may be 
+adopted ; for, in a very few days, if they are not here, the operations of the main body of the northern army will l&gt;e delayed. 
+I need not represent the many ill consequences, which may, and 
+probably will take place, consequent thereon. 
+</p><p>
+The militia from the county of Worcester, called for by General Stark, are coming into camp. I am sorry they did hot, on 
+the road, hear that I requested them to return and urge on the three months men ; for those who come out on the alarms cannot 
+remain long in camp, and while they are out, the counties they respectively belong to will find it difficult to raise their three months men. That consideration hath induced to suffer them to return. 
+</p><p>
+I hear that to-morrow I may expect five companies of the 
+three months men. As soon as they arrive, I shall discharge the 
+whole of Colonel Cushing's ; for the discontent among them is so 
+general that they will be of very little service here if they re 
+main. One company of them left the camp the day before yesterday ; some left us yesterday ; some, to day ; others, I hear, 
+intend to leave us on the morrow. My situation at present is 
+truly disagreeable ; for what can make a man feel more so than 
+to be accountable for the conduct of troops who do not hold them 
+selves under obligation to obey ? I expect matters will soon be 
+in a better state. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

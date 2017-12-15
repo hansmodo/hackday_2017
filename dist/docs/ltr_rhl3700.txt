@@ -1,0 +1,87 @@
+<letter id="rhl3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=chantilly' rel='city origin'>Chantilly</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Although our correspondence has been long interrupted, I hope that our friendship never will, notwithstanding the arts of wicked men, who have endeavoured to create discord and dissension among; the 
+friends of America. For myself, having little but my 
+good wishes to send you, it was not worth while to 
+take up your attention a moment with them. The 
+contents of this letter will, I am sure, require no 
+apology, because you always approve that zeal which 
+is employed in the public service, and has for its object the public good. 
+</p><p>
+The present state of our country. Sir, is such as 
+to demand the most immediate and most effectual interposition to prevent the numerous resources of Virginia from becoming means, in the hands of our enemies, for subduing the liberties of North America. 
+For, though the efforts of this State have been not quite so strong as its abilities warranted, yet when it 
+shall be placed under the sword of a conqueror, such 
+resources will be found, and such powers drawn from 
+it, as will put the liberties of North America in imminent peril. My following opinion is not founded 
+upon vain apprehensions, but upon good materials and 
+attentive observation. 
+</p><p>
+Virginia, it is true, has nine times the number of 
+men that now threaten its ruin; but they are dispersed, unarmed, without system, government, and 
+very little probability at present of the Legislature 
+assembling. The enemy's army is in the heart of the 
+country, employing, with exquisite industry'-, every engine that force and fraud can move, to effect a conquest of the whole, or far greater part, immediately. 
+I think. Sir, that they will succeed, if adequate prevention be not presently applied. When the enemy's 
+army began to move, after the junction of their troops, 
+in force much superior to the Marquis, the Assembly 
+adjourned to Charlotteville, where they were never 
+able to collect members sufficient to form the Legislature, before they were dispersed by five hundred of 
+the enemy's light-horse, with as many light infantry 
+mounted behind, as we learn from some of the flying 
+Delegates. The Governor had resigned his office, but 
+no successor had been appointed; and Mr. Digges, 
+the Lieutenant-Governor, it seems has been made a 
+prisoner, and released upon parole ; whilst there is, 
+in the present state of things, little chance for a 
+meeting of the Assembly to apply the feeble remedy 
+which their choice of a Governor would amount to. 
+Thus we remain without Government, at a time when the most wise and most vigorous administration 
+of public affairs can alone save us from the ruin determined for us by the enemy. I have taken the 
+liberty of communicating my thoughts on this subject 
+to Mr. Lovell, in a letter, a copy of which I have 
+now the honor to inclose to you, together with a letter from your brother, who agrees perfectly with me 
+in sentiment ; and, I verily believe, there is not a good 
+citizen, or friend to the liberty of America, in the 
+State, who does not wish that the plan proposed may 
+immediately be adopted. I have written in the same 
+manner to Colonel Bland and Mr. Jones, our Delegates 
+in Congress. 
+</p><p>
+It would be a thing for angels to weep over, if 
+the goodly fabric of human freedom, which you have 
+so well labored to rear, should, in one unlucky moment, be levelled with the dust. There is nothing I 
+think more certain than that your personal call would 
+bring into immediate exertion the force and the resources of this State, and its neighbouring ones, 
+which, directed as they would be, will effectually disappoint and baffle the deep-laid schemes of the enemy. By seizing the fine horses on James River, 
+they have mounted a gallant and most mischievous 
+cavalry of five or six hundred in number. We have 
+plenty of horses left, to be sure, but we are deficient 
+in proper accoutrements ; though I understand that 
+the Marquis is endeavouring to mount a thousand 
+men as quickly as possible, to control the boundless 
+ravage of the enemy's horse. Some of the dispersed 
+Delegates report it as extremely probable that our 
+collected stores in the north fork of James River 
+have fallen into the enemy's hands, as their cavalry 
+were a little above, and the main body of their army not far below, directing its course to the north fork, 
+which was guarded only by seven or eight hundred 
+new levies under <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a>. 
+</p><p>
+Our country is truly, Sir, in a deplorable way, 
+and, if relief comes not from you, it will probably 
+come not at all. I have heard it reported in this 
+country, that <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a> dislikes being commanded by the Marquis. If this should be unhappily true, 
+the consequences will be obvious to you. I have the 
+honor to be, with sentiments of the most perfect esteem, dear Sir, your most affectionate friend. 
+</p><p>
+And most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.
+</p>
+</letter>

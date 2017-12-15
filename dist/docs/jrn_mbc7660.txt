@@ -1,0 +1,42 @@
+<letter id="mbc7660">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='13'>13th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Halcott Green came to see us. Bragg is a stern disciplinarian, according to Halcott. He did not in 
+the least understand citizen soldiers. In the retreat from Shiloh he ordered that not a gun should be fired. A soldier 
+shot a chicken, and then the soldier was shot. " For a chicken ! said Halcott. A Confederate soldier for a chicken! " 
+</p><p>
+Mrs. McCord says a nurse, who is also a beauty, had better leave her beauty with her cloak and hat at the door. 
+One lovely lady nurse said to a rough old soldier, whose wound could not have been dangerous, " Well, my good 
+soul, what can I do for you? " " Kiss me ! " said he. Mrs. McCord's fury was " at the woman's telling it," for it 
+brought her hospital into disrepute, and very properly. She knew there were women who would boast of an insult 
+if it ministered to their vanity. She wanted nurses to come dressed as nurses, as Sisters of Charity, and not as fine la 
+dies. Then there would be no trouble. When she saw them coming in angel sleeves, displaying all their white arms and 
+in their muslin, showing all their beautiful white shoulders and throats, she felt disposed to order them off the premises. 
+That was no proper costume for a nurse. Mrs. Bartow goes in her widow's weeds, which is after Mrs. McCord's own 
+heart. But Mrs. Bartow has her stories, too. A surgeon said to her, I give you no detailed instructions : a mother 
+necessarily is a nurse." She then passed on quietly, " as smilingly acquiescent, my dear, as if I had ever been a mother. 
+</p><p>
+<a href='/results.php?tla=rog' rel=''>Mrs. Greenhow</a> has enlightened Rachel Lyons as to Mr. Chesnut's character in Washington. He was " one of the 
+very few men of whom there was not a word of scandal spoken. I do not believe, my dear, that he ever spoke to a 
+woman there." He did know Mrs. John R. Thompson, however. 
+</p><p>
+Walked up and down the college campus with Mrs. McCord. The buildings all lit up with gas, the soldiers seated 
+under the elms in every direction, and in every stage of convalescence. Through the open windows, could see the 
+nurses flitting about. It was a strange, weird scene. Walked home with Mrs. Bartow. We stopped at Judge Carroll's. 
+Mrs. Carroll gave us a cup of tea. When we got home, found the Prestons had called for me to dine at their house 
+to meet General Magruder. 
+</p><p>
+Last night the Edgefield Band serenaded <a href='/results.php?tla=wfp' rel='acquaintance met'>Governor Pickens</a>. Mrs. Harris stepped on the porch and sang the 
+Marseillaise for them. It has been more than twenty years since I first heard her voice ; it was a very fine one then, but 
+there is nothing which the tooth of time lacerates more cruelly than the singing voice of women. There is an incongruous metaphor for you. 
+</p><p>
+The negroes on the coast received the Rutledge's Mounted Rifles apparently with great rejoicings. The troops were 
+gratified to find the negroes in such a friendly state of mind. 
+One servant whispered to his master, " Don't you mind em, don't trust em meaning the negroes. The master 
+then dressed himself as a Federal officer and went down to 
+a negro quarter. The very first greeting was, "Ki ! massa, 
+you come fuh ketch rebels? We kin show you way you kin ketch thirty to-night. They took him to the Confederate camp, or pointed it out, and then added for his edification, " We kin ketch officer fuh you whenever you want em." 
+</p><p>
+Bad news. Gunboats have passed Vicksburg. The Yankees are spreading themselves over our fair Southern land like red ants. 
+</p>
+</letter>

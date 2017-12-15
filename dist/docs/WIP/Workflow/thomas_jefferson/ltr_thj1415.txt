@@ -1,0 +1,40 @@
+<letter id='thj1415'>
+<recipient first='John' last='Jay' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, July 12,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+My last letter to you was dated the 17th of June. The present serves to
+cover some papers put into my hands by Captain Paul Jones. They respect
+an ancient matter, which is shortly this.
+</p><p>
+While Captain Jones was hovering on the coast of England, in the
+year <a href="/results.php?year=1779">1779</a>, a British pilot, John Jackson by name, came on board him,
+supposing him to be British. Captain Jones found it convenient to detain
+him as a pilot, and, in the action with the Serapis, which ensued, this
+man lost his arm. It is thought that this gives him a just claim to the
+same allowance with others, who have met with the like misfortune in
+the service of the United States. Congress alone being competent to this
+application, it is my duty to present the case to their consideration;
+which I beg leave to do through you.
+</p><p>
+<a href="/results.php?tla=ben" rel="co-worker met">Benjamin Franklin</a> will be able to give you so perfect a state of all
+transactions relative to his particular office in France, as well as to
+the subjects included in our general commission, that it is unnecessary
+for me to enter on them. His departure, with the separate situation of
+<a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> and myself, will render it difficult to communicate to you
+the future proceedings of the commission, as regularly as they have
+been heretofore. We shall do it, however, with all the punctuality
+practicable, either separately or jointly, as circumstances may require
+and admit.
+</p><p>
+I have the honor to be, with sentiments of the highest respect, Sir,
+</p><p>
+your most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

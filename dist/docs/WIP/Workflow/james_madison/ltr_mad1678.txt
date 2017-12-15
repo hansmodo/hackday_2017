@@ -1,0 +1,17 @@
+<letter id='mad1678'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, April 13, <a href="/results.php?year=1790">1790</a>. 
+</p><p>
+DEAR Sm, I thank you for your favor of the 2nd instant. 
+From the sentiments expressed in it, you will hear with pleasure that the proposed assumption of the State debts was yesterday negatived, after many days' deliberation, by 31 vs. 29. We 
+hoped that this vote would have been mortal to the project. It 
+seems, however, that it is not yet to be abandoned. The other 
+part of the secretary's Report has been studiously fastened to 
+the assumption by the friends of the latter, and of course has 
+made no progress. 
+</p><p>
+A British packet arrived yesterday, but has had a long passage, and I do not find that she brings any news. 
+I am, dear sir, yours most affectionately. 
+</p>
+</letter>

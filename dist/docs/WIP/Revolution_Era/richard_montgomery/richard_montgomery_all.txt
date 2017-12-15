@@ -1,0 +1,252 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5000
+--LETTER-TLA--rim
+--DOC-AUTHOR-FIRST--Richard
+--DOC-AUTHOR-LAST--Montgomery
+--DOC-SOURCE--Biographical Notes Concerning General Richard Montgomery Together With Hitherto Unpublished Letters. 1876.
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+<p>
+<letter id="rim5000">
+<recipient first="Robert" last="Livingston" type="individual"/>
+</p><p>
+<a href='/results.php?city=kingsbridge' rel='city origin'>KINGSBRIDGE</a>, <a rel="month origin" value="5">MAY</a> <a rel='day origin' value='20'>20TH</a>, <a href='/results.php?year=1773' rel="origin">1773</a> 
+</p><p>
+SIR: Though I have been extremely anxious to solicit your approbation, together with Mrs. Livingston's, in an affair which 
+nearly concerns my happiness and no less affects your daughter. I have, nevertheless, been hitherto deterred from this indispensable attention by reflecting that from so short an acquaintance as I had the honor to make with you I could not 
+flatter myself with your sanction in a matter so very important as to influence the future welfare of a child. I therefore wished 
+for some good-natured friend to undertake the kind office of giving a favorable impression; but, finding you have already 
+had intimation of my desire to be honored with your daughter's hand, and apprehensive lest my silence should bear an unfavorable construction, I have ventured at last to request, sir, that 
+you and Mrs Livingston will consent to a union which to me has the most promising appearance of happiness, from the lady's 
+uncommon merit and amiable worth. Nor will it be an inconsiderable addition to be favored by such respectable characters 
+with the title of son, should I be so fortunate as to deserve it. And if to contribute to the happiness of a beloved daughter can 
+claim any share with tender parents, I hope hereafter to have some title to your esteem.
+</p><p> 
+I am, sir. 
+</p><p>
+With great respect, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p
+</letter><letter id="rim5001">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=isle aux noix' rel='city origin'>ISLE AUX NOIX</a>, <a rel="month origin" value="9">SEPT</a>. <a rel='day origin' value='12'>12TH</a>, <a href='/results.php?year=1775' rel="origin">1775</a>. 
+</p><p>
+I am, my dear Janet, so exceedingly out of spirits and so chagrined with the behavior of the troops, that I most heartily 
+repent having undertaken to lead them. I went down the river 
+the other day with 800 or 900 men, in order to rut off the communication between <a href='/results.php?city=st johns' rel='city origin'>St. Johns</a> and <a href='/results.php?city=montreal' rel='city'>Montreal</a>. The detachment 
+marched off from the boats at night, and in less than half an hour, returned in the utmost confusion, some little noise having 
+been made by a few of our own stragglers in the bushes. They 
+gave way near the front, and the panic spreading, they were like sheep, with some few exceptions, nor can I say who behaved 
+worst. With solicitation, entreaty and reproaches, I got them 
+off again, and in less than an hour they came back, having behaved almost as infamously as at first. In their last excursion 
+the advanced guard surprised a Canadian officer and some Indians in a hut ; the officer and one Indian were killed, but the 
+firing of two or three shot set the whole line a-firing without 
+any object. The commanding officer, who was Ritzma, represented the impracticability of getting the' detachment off. The 
+next morning I tried again with as little success. In short, such a set of pusillanimous wretches never were collected. Could I, 
+with decency, leave the army in its present situation, I would not serve an hour longer. I am much afraid the general character of the people has been too justly represented. However, 
+there are some whose spirit I have confidence in ; they are taking pains with the men, and they flatter me with hopes of 
+prevailing on them to retrieve their characters. We were so unfortunate as to have some Canadians witnesses of our disgrace ! 
+What they will think of the brave Bostonians, I know not! My own feelings tell me they are not likely to put confidence 
+in such friends. Shew this to your <a href="/results.php?tla=rol" rel="kin met">father</a> only ; it can't be of service to our common cause to make known our weakness. 
+</p><p>
+May I have better news to write hereafter ! 
+</p><p>
+Adieu, my dearest Janet
+</p><p>
+Believe me most affectionately yours, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter><letter id="rim5002">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=isle aux noix' rel='city origin'>ISLE AUX NOIX</a>, <a rel="month origin" value="9">SEPT</a>. <a rel='day origin' value='5'>5TH</a> [<a href='/results.php?year=1775' rel="origin">1775</a>]. 
+</p><p>
+MY DEAR JANET: 
+</p><p>
+I take the earliest opportunity of letting you hear I am well. We have made an excursion to <a href='/results.php?city=st johns' rel='city origin'>St. Johns</a> with the small corps with which I left <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. We found the enemy's vessel, 
+which mounts sixteen guns, almost ready to sail. We had but two pieces of artillery with carriages by no means sufficient to 
+undertake a siege, or to destroy the vessel, which is under the 
+cannon of the fort. It has therefore been judged expedient by 
+everybody to put in practice the first project of throwing a boom 
+over the channel at the <a href='/results.php?city=isle aux noix' rel='city'>Isle Aux Noix</a>, which we are now about 
+getting ready. We have not as yet received intelligence that 
+can be relied on with respect to the intentions of the Canadians ; 
+but a Mr. Hazen, who lives at <a href='/results.php?city=st johns' rel='city origin'>St. Johns</a>, and is a sensible man, 
+is of opinion that tho' they will not take up arms against us, yet 
+they will not act offensively in our favor. When we are certain 
+of their friendship, so far as to lie quiet, we shall march a strong 
+detachment by land into the country, which we shall be masters 
+of, if Mr. Carleton is not speedily reinforced. We had a little 
+skirmish with the Indians; two very good officers wounded 
+and nine or ten privates killed ; a good deal of confusion in the 
+action; the Yorkers little acquainted with wood-fighting; the 
+Connecticut men behaved well for the most part, but in the 
+evening, when some shells were thrown from the fort, they 
+showed a degree of apprehension that displeased me much ; but I 
+hope and believe it will wear off by a little practice. The 
+general thought proper to remove a little farther oft' with the 
+boats and vessels ; and they embarked with such confusion as 
+can only be palliated by saying they are young troops. I have 
+endeavored to make them ashamed of themselves, and hope this 
+won't happen again. I believe I am on a tolerable footing with 
+them. Poor <a href='/results.php?tla=pjs' rel='colleague met'>Schuyler</a> is in so miserable a state of health as to 
+make him an object of compassion. 
+</p><p>
+I wrote you from Crown Point, and also your worthy <a href="/results.php?tla=rol" rel="kin met">father</a>. 
+I then referred you to him for news. I must now beg of him to 
+read this letter, which contains all I have to say, being much 
+hurried. Should any report prevail at <a href='/results.php?city=albany' rel='city'>Albany</a> of any accident 
+having happened to me, I have requested Walter Livingston to 
+send you this by express. 
+</p><p>
+Adieu! my dearest Janet. Rest assured of my warmest affection. 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter><letter id="rim5003">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+CAMP NEAR <a href='/results.php?city=st johns' rel='city origin'>ST. JOHNS</a>, <a rel="month origin" value="10">OCTOBER</a> <a rel='day origin' value='6'>6TH</a> [<a href='/results.php?year=1775' rel="origin">1775</a>]. 
+</p><p>
+MY DEAR JANET : 
+</p><p>
+It is with inexpressible concern I find by a letter from 
+your <a href="/results.php?tla=rol" rel="kin met">father</a> that you are ill. I wish he had kept the intelligence a secret ; I do not want any addition to my uneasiness. 
+That this may find you recovered is my warmest wish ! 
+</p><p>
+Little change has happened since my last. 1 still wait for reinforcement ; the troops have hitherto gone home sick, almost 
+as fast as they came. We have been like half-drowned rats crawling thro' the swamp, but the weather is now much altered 
+for the better, and I hope it will continue. I believe we shall in a few days set about our business in earnest. If powder don't 
+fail us, 1 think we shall finish this affair. I have had overtures for an accommodation from St. Luke Le Come, and some other 
+principal people of <a href='/results.php?city=montreal' rel='city'><a href='/results.php?city=montreal' rel='city'>Montreal</a></a>. He is a great villain and as cunning as the devil, but I have sent a New Englander to negotiate with him. 
+</p><p>
+Had we twice or thrice as many men, everything would long ago have been settled. All the lower class of people are 
+anxious for our success, but have been intimidated much by our weakness, lest by a miscarriage they should be left to the vengeance of tyranny. 
+</p><p>
+I am extremely sorry to hear of your <a href="/results.php?tla=rol" rel="kin met">father's</a> indisposition and your mother's, but hope most sincerely their health may by 
+this time be reestablished. My affectionate duty attends them and also your grandfather. 
+</p><p>
+Farewell, my dear Janet ; believe me ever yours, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter><letter id="rim5004">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+CAMP NEAR <a href='/results.php?city=st johns' rel='city origin'>ST. JOHNS</a>, <a rel="month origin" value="10">OCTOBER</a> <a rel='day origin' value='9'>9th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+This evening I received my dear Janet's three letters to the 23rd September, which bring me the agreeable news of your recovery. I hope to have the same account of your good <a href="/results.php?tla=rol" rel="kin met">father</a> 
+and mother, whose health and happiness I think myself deeply interested in. You are certainly right: I most certainly might 
+have advanced Harry to a majority. Disinterested and generous motives will forever, I hope, prevent me from serving myself or family at the expense of the public. Though a fine, 
+spirited fellow, he has not experience for such an important post. I grant there are others as bad and worse it is not my doing, nor will I ever have such a weight on my conscience, 
+always told you what I know to be a fact ; I am unfit to deal with mankind in the bulk, for which reason I wish for retirement. 1 feel too sensibly the rascality, ignorance and selfishness 
+so common among my fellow creatures to deal with them and keep my temper. I have been dragged from obscurity much 
+against my inclination and not without P me struggle, as you well know ; and depend upon it, the instant I can with decency 
+slip my neck out of the yoke, I will return to my family and farm, and that peace of mind which I can't have in my present situation. 
+</p><p>
+<a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a> may return in a few days. His return to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> has been a most fortunate affair. We should most 
+certainly have been obliged to return half-starved, and leave the unfortunate Canadians to take care of themselves. <a href='/results.php?city=providence' rel='city'>Providence</a> 
+does much for us and we little for ourselves ! 
+</p><p>
+The negotiation with St. Luke ended in nothing. It is supposed the Governor had gotten some hint of it. and St. Luke, in order to acquit himself, made the Indian deliver my letter, 
+which was an answer to his message, to the Governor, who ordered it to be burned without reading it. I suppose lie wan afraid of making a discovery which would have obliged him to 
+treat. St. Luke roughly. I anxiously wait to hear of the Kennebec expedition. If it succeed, it will be a great stroke; if we don't get more powder I am afraid this will be a tedious affair 
+and that we shall be obliged to starve them out. You must not go into the house until I return. If you have a mind for Mrs. What-do-you-call-her the Frenchwoman, keep her by all 
+means. Harry is well, as are the two officers you mention. Willett has been ill. I answered <a href='/results.php?tla=jad' rel='colleague'>Mr. Duane</a>'s letter. It went by an express to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; he was at that time returned to 
+York ; do mention it when you write to Robert ; I should be sorry to have him think me wanting in common politeness 
+</p><p>
+The box arrived in good time. I am now sitting beside a very comfortable tire in my tent, and we have had for the first time some very pleasant weather. 
+</p><p>
+I am obliged to Shone for his good opinion, but alas ! he is a very indifferent judge. At the forts I will not winter; it is 
+possible I may be obliged to stay in Canada, but I shall certainly return if in my power. 
+</p><p>
+My affectionate good wishes and duty wait on your grandfather. My love to the girls. 
+</p><p>
+Adieu, my dear Janet ; believe me 
+</p><p>
+Your truly affectionate 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter><letter id="rim5005">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>MONTREAL</a>. <a rel="month origin" value="11">Nov</a>. <a rel='day origin' value='13'>13th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+This morning the Bostonians have marched into town ; the Governor, with his small garrison, having abandoned it two nights since, and retired towards <a href='/results.php?city=quebec' rel='city'>Quebec</a>, where lie will run 
+some risk of being caught by <a href="/results.php?tla=bea" rel="colleague met">Col. Arnold</a>, who is arrived in that neighborhood. 
+</p><p>
+I am summoning all my virtue against the legion of females soliciting for husbands, brothers and sons taken prisoners. 
+</p><p>
+You may depend upon it, I will return home the instant I have put matter on such a footing as to be able to retire with 
+propriety. I am very well, and very anxious to see you. Farewell, my dear Janet. 
+</p><p>
+Believe me yours, with real affection. 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter><letter id="rim5006">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>MONTREAL</a>, <a rel="month origin" value="11">Nov</a>. <a rel='day origin' value='24'>24th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+I wrote to you by Harry, and hope you have some days ago had the pleasure of seeing him. I long to see you in your new 
+house. Tf the winter set in soon don't forget to send for the lath to fence the garden, and also to have chestnut posts cut for the 
+same purpose. I wish you could get a stove fixed in the hall they are the most comfortable things imaginable. 
+</p><p>
+The other day General Prescott was so obliging as to surrender himself and fourteen or fifteen land officers, with above 
+one hundred men, besides sea officers and sailors, prisoners of war. I blush for His Majesty's troops! Such an instance of 
+base poltroonery I never met with ! and all because we had half-a-dozen cannon on the bank of the river to annoy him in his retreat. The Governor escaped more 's the pity! Prescott, 
+nevertheless, is a prize. He is a cruel rascal. I have treated him with the sovereign contempt his inhumanity and barbarity merit. 
+</p><p>
+To-morrow I hope to set out for <a href='/results.php?city=quebec' rel='city'>Quebec</a>, to join <a href="/results.php?tla=bea" rel="colleague met">Col. Arnold</a>, who is impatient to see us. His little army has undergone inexpressible hardships, and entered the country half-starved and 
+half-naked. Should fortune continue her favor we may perhaps bring that business to a happy issue. In the meantime, adieu ! 
+</p><p>
+Believe me most affect'ly your 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p><p>
+P. S. I have no time to write to your <a href="/results.php?tla=rol" rel="kin met">father</a>. I have been overwhelmed with business, and am out of all patience at being obliged to spend so much of this precious season in this town. 
+</p><p>
+My most affectionate respects attend the old gentleman and lady. My love to the girls. Do they go to town? No husbands this winter? Alas ! 
+</p><p>
+I live in hopes to see you in six weeks. 
+</p>
+</letter><letter id="rim5007">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+HOLLAND HOUSE, NEAR <a href='/results.php?city=quebec' rel='city origin'>QUEBEC</a>, <a rel="month origin" value="12">DECEMBER</a> 	<a rel='day origin' value='5'>5th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+This day I had the pleasure of yours of the 13th of October. I think your letters are a long time on the road. I believe I 
+have now the right to complain, as I am sure you, don't write so often as I do. 
+</p><p>
+I suppose long ere this we have furnished the folks of the United Colonies with subject-matter of conversation. I should 
+like to see the long faces of my Tory friends. I fancy they look a little cast down, and that the Whig ladies triumph most unmercifully. 
+</p><p>
+The weather continues so gentle that we have been able, at this late season, to get down by water with our artillery, &c. 
+They sire a good deal alarmed in town, and with some reason. The garrison is little to be depended upon, and very weak in proportion to the extent of the works. I wish it were well over 
+with all my heart, and sigh for home like a New Englander. 
+</p><p>
+I shan't forget your beaver blanket if I get safe out of this affair, nor your mother's martin-skins. Present my affectionate 
+duty to her, and make her easy respecting Harry. He has by no means given me any offence, though some uneasiness by 
+some little imprudences. I am glad to hear your house is in such forwardness. May I have the pleasure of seeing you in it soon ! 
+</p><p>
+Till then, adieu! 
+</p><p>
+Believe me affectionately yours, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

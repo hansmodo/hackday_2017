@@ -1,0 +1,23 @@
+<letter id="jhr3908">
+<recipient first="" last="" type="individual"/>
+<p>
+J. RUTLEDGE TO B&gt; G. 
+</p><p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="2">Feb.</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1780' rel="origin">1780</a>, 
+</p><p>
+SIR: 
+</p><p>
+I desire that you will immediately embody one-third of your regiment 
+and procure as many volunteers as you can from it, properly armed and 
+prepared to proceed, and send a Field Officer with them to Charles 
+Town, with the utmost despatch. 
+</p><p>
+I am in haste, sir, 
+</p><p>
+your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p><p>
+P. S. Volunters serving as drafted militia shall have the same pay and allowance of salt, as these militia. Pray have the inclosed resolutions generally and speedily made known throughout your regiment. 
+</p>
+</letter>

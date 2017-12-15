@@ -1,0 +1,262 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--web
+--DOC-AUTHOR-FIRST--Daniel
+--DOC-AUTHOR-LAST--Webster
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="web5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington Deer 18. <a href='/results.php?year=1831'>1831</a> 
+
+My Dear Sir 
+
+The state of my health &amp; the severity of the weather 
+have prevented me, since my arrival here, from being much 
+abroad. Nevertheless, I have seen a great number of per 
+sons, &amp; conversed with them, among other things, respecting 
+the Bank. The result of all these conversations has been 
+a strong confirmation of the opinion which I expressed at 
+Philadelphia that it is expedient for the Bank to apply for 
+the renewal of its Charter without delay. I do not meet a 
+Gentleman, hardly, of another opinion; &amp; the little incidents 
+&amp; anecdotes, that occur &amp; circulate among us, all tend to 
+strengthen the impression. Indeed, I am now a good deal 
+inclined to think, that after Gen 1 Jackson s re-election there would be a poor chance for the Bank. I am well informed, 
+that within three days, he has in conversation with several Gentlemen, reiterated his old opinions, somewhat vociferously, &amp; declared them unchangeable. 
+
+I have thought, My Dear Sir, the best advice I could give you, is, that you come down here, yourself, &amp; survey the 
+ground. You will have access to men of all parties, &amp; can digest your information, compare opinions, &amp; judge discreetly 
+upon the whole matter. In my judgment, this is your true course, &amp; ought to be immediately followed. 
+
+I am, Dear Sir, always faithfully 
+
+</letter><letter id="web5351">
+<recipient first="Thomas" last="Cadwalader" type="individual"/>
+
+Washington July 5. <a href='/results.php?year=1832'>1832</a> 
+
+My Dear Sir, 
+
+Mr Biddle left on yesterday. I feel it to be a duty to express to those particularly interested in the Bank, my 
+sense of the great benefit which has been derived from his presence and attention here. We should have done but badly 
+without him. His address &amp; ability, in satisfying the doubftt 
+of friends, softening the opposition of enemies, &amp; explaining whatever needed explanation, have been important cause in producing the result, which has, so far, attended the Bill. I can assure you, that this is not only my opinion, but that 
+of others, also, the most competent observers &amp; judges. At dinner, yesterday, where gentlemen were speaking of the 
+subject, a very distinguished person observed, "that it was 
+only once in a century that a man was to be found so eminently fitted to be the head of such an Institution as Mr B." 
+... I am, Dear Sir, with very true regard. 
+
+</letter><letter id="web5352">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Private Boston Oct. 29. <a href='/results.php?year=1833'>1833</a> 
+
+Dear Sir, 
+
+I write this letter, as a private one, &amp; for the purpose 
+of inquiring whether the course for the adoption of the Bank 
+is yet settled. The removal of the Deposites is a question of great interest to the Government, &amp; as such will doubtless attract the attention of Congress. It is, also, a matter of moment to the Bank, as one part of their Charter. In this point of 
+view, it becomes a question whether the Bank should not lay the transaction of removing the Deposites, before Congress. 
+This, I have no doubt, you have already considered. 
+
+</letter><letter id="web5353">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington Dec r . 21. <a href='/results.php?year=1833'>1833</a> 
+
+Sir 
+
+Since I have arrived here, I have had an application to be concerned, professionally, against the Bank, which I have 
+declined, of course, although I believe my retainer has not been renewed, or refreshed as usual. If it be wished that my 
+relation to the Bank should be continued, it may be well to send me the usual retainers. 
+
+</letter><letter id="web5354">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Private Boston May 9. <a href='/results.php?year=1835'>1835</a> 
+
+My Dear Sir 
+
+It appears to me that our political affairs are taking a very decided turn, &amp; that if nothing be done to check the current, Mr V.B. will be elected President, by a vast majority. It is entirely obvious, I think, that the movement of the Southern Whigs * (as they call themselves) in Mr White s favor 
+has disgusted, deeply, the whole body of our friends in the North. Such papers as the Richmond Whig &amp; Telegraph have 
+endeavored to persuade the People that the question is narrowed down to a choice between Judge White &amp; Mr. V. Buren, &amp; if this be the only issue presented, there is already 
+abundant indication that the whole north, east, &amp; middle too, as I believe, will go for V.B. I do not know whether any thing 
+can be done to change the course of things; but I am fully persuaded, that if any thing can be done, it is be done in 
+Penn a . Your people are awake to political subjects, in consequence of the pendency of an election for Gov r . If those who 
+are likely to unite in support of Mr Ritner could unite also in making some demonstration, on National Subjects, &amp; do 
+it immediately, it might possibly have some effect. Whether this be practicable is more than I know. 
+
+I have thought it right, My Dear Sir, to express to you 
+my opinion, thus freely, on the present State, &amp; apparent tendency, of things. Our friends here receive letters, every day, 
+&amp; from P a . as well as from other quarters, calling on them to do more, &amp; say more. But they hardly see what more they 
+can do, or say. The sentiment of Massachusetts is known; &amp; it would seem to be for the consideration of others, whether it should be seconded. 
+
+You will of course, burn this, 1 &amp; let no eye but your own see it. You can judge whether any thing can be usefully done. 
+For my part, I confess, it looks to me as if the whole Whig Strength in the Country was either to be frittered away, or 
+melt into the support of Mr V. Buren. 
+
+</letter><letter id="web5355">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Private Boston May 12. 35 
+
+D r Sir 
+
+One word more on political subjects. It seems truly lamentable that the Nat. Intelligencer should be so unwilling 
+to give, or take, tone, on questions most interesting to us, as a party. Cannot this reluctance be overcome? If Mess" 
+G. &amp; S. are not disposed to support, at present, any named candidate, they might, at least, preach the necessity of sup 
+porting a Whig Candidate some Whig Candidate. We are 
+in danger of breaking up, &amp; dividing. Our natural field marshall he that should rally &amp; encourage us, is the leading 
+paper on our side. But this natural leader seems at present to be without any "objects, and, aim." 
+
+I mention this matter to you, because you can judge, as well as any one, whether the subject deems any attention; 
+&amp; if it do, can, better than any one, give an availing hints, in the right quarter, burn. 
+
+</letter><letter id="web5356">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington, Saturday noon 
+
+(Feb. or May, <a href='/results.php?year=1838'>1838</a>?) 
+Dear Sir 
+
+. . . The Sub Treasury bill remains in status quo. Calhoun is moving heaven, earth, &amp; to obtain Southern votes 
+for the measure. He labors to convince his Southern neighbors that its success will relieve them from their commercial 
+dependence on the North. His plausibility, &amp; endless perserverance, have really effected a good deal. Even your relative 
+Mr. C. Sheppard has been, &amp; indeed now is, in a state of doubt. Still, I think the Bill cannot pass; but the majority 
+will be Small. The labors of Mr Calhoun, &amp; the power &amp; patronage of the Executive, have accomplished more than,? 
+I have thought possible. 
+
+</letter><letter id="web5357">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Boston Sept r io th <a href='/results.php?year=1838'>1838</a> 
+
+My Dear Sir 
+
+I have rec d . your favor of the 8 th instant. The decision of the Gov* of Texas, to withdraw its application for a union 
+with the U. States, is, in my judgment, an event, eminently 
+favorable, to both countries. She now stands, as an independant state, looking to her own power, &amp; her own resources, to 
+maintain her place among the nations of the earth, an attitude, vastly more respectable, than that which she held, while 
+solicitous to her own political character, &amp; to become part of a neighbouring country. Seeking, thus, no longer a union 
+with us, &amp; assuming the ground of entire independence I think it highly important to the interests of the U. States, 
+that Texas should be found able to maintain her position. Any connexion with a European State, so close as to make 
+her dependent on that State, or to identify her interests with 
+the interests of such State, I should regard as greatly unfortunate for us. I could not but regret, exceedingly, to see any 
+union between those parts of our continent, which have broken the chain of European dependence &amp; the Governments of Europe; whether those, from which they have been disunited, or others. You Remember the strong opinion, ex 
+pressed by Mr . Monroe that the U.S. could not consent to the recolonization of those portions of this Continent, which 
+had severed the ties, binding them to a European connexion, &amp; formed free &amp; independent Governments for themselves; or 
+to the establishment of other European Colonies, in America The spirit, &amp; reason, of these sentiments, would lead us to 
+regard with just fear, &amp; therefore with just jealousy, any connexions, between our near American neighbours, &amp; the powerful states of Europe, except those of friendly &amp; useful commercial intercourse. It is easy to forsee the evils with which
+any other connexion, than that last mentioned, between Texas &amp; one of the great sovereignties of Europe, might 
+threaten us. Not to avert to those of a high &amp; political character, one, likely to have a direct bearing on our commerce, a 
+connexion on the great staple of our southern production. Texas is destined, doubtless, to be a great cotton producing 
+country, &amp; which we should cheerfully concede to her all the advantages which her soil &amp; climate afford to her, in sustaining a competition with ourselves, we could not behold, with indifference, a surrender, by her, of her substantial in 
+dependence, for the purchase of exclusive favors &amp; privileges, from the hands of a European Government. 
+
+The competency of Texas to maintain her Independence depends, I think, altogether on the character of her Gov*. &amp; 
+its administration. I have no belief, at all, in the power of Mexico to re-subjugate Texas, if the latter country shall be 
+well governed. The same consideration decides, also, the question, whether a loan to Texas would be safe. I have supposed, 
+that her new formed Gov 1 was gradually strengthening, &amp; 
+improving, in all the qualities requisite for the respectable 
+exercise of National power. That in institutions so recent, 
+there should be, for a time, some irregularity of action, is to 
+be expected. But if those to whose hands her destinies are 
+now committed, shall look steadily to two great objects, 
+first, real &amp; absolute, as well as nominal, National Independence, &amp; second, the maintenance of a free &amp; efficient Gov*., 
+of which good faith shall, from the beginning, be a marked characteristic, I see nothing to render it less safe to regulate 
+money transactions with her, than with the Gov ts . of other 
+countries. On the other hand, if a spirit of speculation &amp; 
+project should appear to actuate her councils, &amp; if she should 
+trifle with her public domain, involve herself in contradictory obligations, or seek to establish her prosperity on any 
+other foundations, than those of justice &amp; good faith, there 
+would, then, be little to be hoped, either in regard to punctuality in pecuniary engagements or to the probability of her 
+maintaining an independent National character. 
+
+My opinion, on the whole, is, that the prospects of Texas are now far better &amp; brighter than they have ever been be 
+fore; that the interests of our own country require, that she 
+should keep herself free from all particular European connexion; &amp; that whatever aid can be furnished to her, by individuals, or corporations, in theU. States, in the present state of her affairs, to enable her to maintain a truly independent 
+&amp; national character, would tend to promote the welfare of the U States, as well as of Texas herself. 
+
+</letter><letter id="web5358">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Private Dec. 24. 40 
+
+My Dear Sir 
+
+I duly rec d your letter, on a certain subject, &amp; have that subject "in all my thoughts." Nob y could be better 
+for the Country &amp; nothn would be more agreeable to me, than what you suggested. The difficulty will be with the 
+Tobacco men. These Gentlemen got up the Austrian mission, some years ago, &amp; expected a Marylander or a Virginian to 
+fill it. Mr V. Buren disappointed that expectation, &amp; appointed 
+Mr. Muhlenberg, because he could talk German so well. Mr M. having returned, a new rally has been making, &amp; two or 
+three Tobacco raising candidates are in the field already ____ 
+
+</letter><letter id="web5359">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Confidential Feb. 4. 41 
+
+Dear Sir, 
+
+Those of us who are here are quite united in opinion, that the Inaugural should be confined to principles, &amp; not 
+go into measures; or [at] least, with one exception, &amp; that would be to suggest the necessity of early augmentation of naval means. 
+
+</letter><letter id="web5360">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+W.Jan. 8. (<a href='/results.php?year=1832'>1832</a>?)
+ 
+My Dear Sir 
+
+I cannot but think you have done exactly right. What ever may be the result, it seems to me the path of duty is 
+plain. In my opinion, a failure, this session, if there should be one, will not at all diminish the chances of success, next session. 
+I suppose the memorial will make its appearance, in the 
+Senate, thro the V.P. My notion will be to let the administration Gentlemen take the Disposition of it, for the present, &amp; see what they will do with it. 
+
+</letter><letter id="web5361">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Mar : 2. <a href='/results.php?year=1843'>1843</a> 
+
+My Dear Sir; 
+
+I have not the least idea of going abroad, or of taking any appointment, whatever But I do not expect to 
+remain where I am, more than a month This, inter nos. 
+
+</letter><letter id="web5362">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Strictly private &amp;f confidential Mar: 1 1. 43 
+
+Dear Sir 
+
+I may as well tell you, in the strictest confidence, the 
+whole truth, respecting the state of things here. The President is still resolved to try the chances of an Election. This 
+object enters into every thing, &amp; leads, &amp; will lead, to movements in which I cannot concur. He is quite disposed to 
+throw himself altogether into the arms of the loco foco party. 
+This is just enough towards the Whigs but it is not just 
+to himself, or his own fame &amp; character. He has altogether 
+too high an opinion of the work which can be wrought by 
+giving offices to hungry applicants. And he is surrounded by 
+these, from morning to night. Every appointment, therefore, 
+from the highest to the lowest, raises a question of political 
+affects. This is terrible; especially in the Department where 
+I am; &amp; I fear the interest of the Country, &amp; the dignity of 
+the Gov*. may both suffer from it. Before the Whigs quarreled with the President, I had no reason to complain of any 
+want of proper influence, in regard to appointments connected with foreign affairs; altho the President had quite too 
+many persons on hand to be provided for as charges . . . 
+Since the formal abandonment of the President by the Whigs, my position is entirely changed, as I can ask him for 
+nothing. Between us, personally, there is entire good will; 
+&amp; if his object now was only to get thro his present term with 
+credits, we should agree, in every thing. But I am expecting, 
+every day, measures, which I cannot stand by, &amp; face the 
+Country. I must, therefore, leave my place. It seems inevitable. Who will take it; I know not; or what is to become of 
+us all, I know not. I fear, a confused &amp; unsatisfactory scene is before us. When you have read this, burn it. 
+</p>
+</letter>

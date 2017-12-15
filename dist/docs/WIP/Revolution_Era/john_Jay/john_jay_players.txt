@@ -1,0 +1,135 @@
+Adams, John => jod
+Adams, John Q. => jqa
+Franklin, Benjamin => ben
+Hamilton, Alexander => alh
+Knox, General => hek
+Lincoln, General => bel
+McDougal, Colonel => 
+Monroe, James => jam
+Morris, Robert => rom
+Pickering, Timothy => tip
+Schuyler, Philip => pjs
+Washington, George => gwa
+
+Ames, Fisher
+Anderson, Dr. James
+Anstey, John
+
+Banyer, Mrs.
+Beers, William P.
+Benson, Egbert, to
+Bingham, William
+Blanca, Count de Florida
+Boudinot, Elias
+Bristed, John
+Brown, Governor
+Chapin, Rev. Calvin
+Child, Francis
+Clinton, George
+Colden, C. D., to
+Coxe, Tench
+Crawley, M.
+Cruger, N. 
+Deane, Silas
+Dclancey, James
+Duane, James
+Dumont, John
+Ellsworth, Oliver
+Evarts, Jeremiah
+
+Gansevoort, Leonard
+Gardoqui, Don Diego
+Gerry, E.
+Goodhue, Benjamin
+Grand, M.
+Grenville, Lord
+
+Hammond, George
+Harper, Robert G.
+Hartley, David
+Hatfield, Richard
+Hobart, John Sloss
+Jarvis, Rev. Samuel
+Jay, Frederick
+Jay, Mrs.
+Jay, Peter
+Jefferson, Thomas 
+Jones, Timothy
+King, Rufus
+Kissam, Benjamin
+
+
+Lafayette, JM. de
+Lafayette, Marchioness
+Lansdown, Lord
+Lathrop, Rev. John
+Lee, Henry
+Lee, Richard Bland
+Lewis, Benjamin
+
+Littlepage, Lewis
+Livingston, Edward
+Livingston, Miss Kitty
+Livingston, Mrs.
+Livingston, Robert R.
+Livingston, William
+Lowell, James
+Lushington, M.
+
+McKean, Rev. Joseph
+Mason, George, Jun.
+Mason, Rev. Dr.
+Matlack, T.
+Miller, Morris S.
+Miller, Rev. Samuel
+Miller, William
+
+Montmorin, Count de
+Mornington, Lady
+Mornington, Lord
+Morris, Gouverneur
+
+Morse, Rev. Dr.
+Munroe, P. I.
+Murray, John, Jun. 
+Murray, Lindley 
+Ogden, Rev. Uzal
+Otis, George A.
+Parsons, Theophilus
+Pendleton, Edmund
+Penn, Lady Juliana
+Peter?, Richard
+Tcttit, Charles
+
+Pierce, Major.
+Pinckney, Thomas
+Trice, Rev. Dr.
+
+Randolph, Edmund
+Raymond, Daniel
+Read, Colonel
+Reed, Jacob
+Romeyn, Rev. Dr.
+Rush, Benjamin
+Rutledge, Edward
+
+Shaw, Samuel
+Sinclair, Sir John
+Smith, J.
+Stewart, Dugald
+
+Talbot, Silas, to
+Thatcher, Rev. Dr.
+Thompson, Charles
+Trumbull, John => jot
+Van Schaack, Henry
+Van Schaack, Peter
+Vaughan, Benjamin
+Vaughan, William
+
+Webster, Noah
+Wilberforce, William
+Williams, General
+Witherspoon, Rev. Dr.
+Woodhull, Rev. Samuel S.
+Yates, Abraham, Jun.

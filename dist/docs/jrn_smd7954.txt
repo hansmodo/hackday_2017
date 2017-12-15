@@ -1,0 +1,24 @@
+<letter id="smd7954">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> ], Sunday, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='21'>21st</a>. [<a href='/results.php?year=1863' rel='origin'>1863</a>]
+</p><p>
+How about that oath of allegiance? is what I frequently ask myself, and always an uneasy qualm of 
+conscience troubles me. Guilty or not guilty of perjury? According to the law of God in the abstract, 
+and of nations, Yes ; according to my conscience, <a href='/results.php?tla=jed' rel=''>Jeff Davis</a>, and the peculiar position I was placed in, No. 
+Which is it? Had I had any idea that such a pledge would be exacted, would I have been willing to come? 
+Never! The thought would have horrified me. The reality was never placed before me until we reached <a href='/results.php?city=madisonville' rel='city'>Bonfouca</a>. There I was terrified at the prospect; but 
+seeing how impossible it would be to go back, I placed all my hopes in some miracle that was to intervene to prevent such a crime, and confidently 
+believed my ill health or something else would save me, while all the rest of the party declared they would 
+think it nothing, and take forty oaths a day, if necessary. A forced oath, all men agree, is not binding. 
+The Yankees lay particular stress on this being voluntary, and insist that no one is solicited to take it 
+except of their own free will. Yet look at the scene that followed, when mother showed herself unwilling ! 
+Think of being ordered to the Custom-House as a prisoner for saying she supposed she would have to ! 
+That's liberty! that is free will! It is entirely optional; you have only to take it quietly or go to jail. 
+That is freedom enough, certainly! There was not even that choice left to me. I told the officer who 
+took down my name that I was unwilling to take the oath, and asked if there was no escaping it. 
+"None whatever " was his reply. "You have it to do, and there is no getting out of it." His rude tone 
+frightened me into half-crying; but for all that, as he said, I had it to do. If perjury it is, which will God 
+punish : me, who was unwilling to commit the crime, or the man who forced me to it? 
+</p><p>
+</letter>

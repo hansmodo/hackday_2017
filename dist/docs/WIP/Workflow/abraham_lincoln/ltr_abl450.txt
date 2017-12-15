@@ -1,0 +1,25 @@
+<letter id='abl450'>
+<recipient first='S' last='Lane' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>,<br/>
+July 17 <a href="/results.php?year=1863">1863</a>.
+</p><p>
+HON. S. H. LANE.
+</p><p>
+MY DEAR SIR:--Governor Carney has not asked to [have] General Blunt
+removed, or interfered with, in his military operations. He has
+asked that he, the Governor, be allowed to commission officers for
+troops raised in Kansas, as other governors of loyal States do; and I
+think he is right in this.
+</p><p>
+He has asked that General Blunt shall not take persons charged with
+civil crimes out of the hands of the courts and turn them over to
+mobs to be hung; and I think he is right in this also. He has asked
+that General Ewing's department be extended to include all Kansas;
+and I have not determined whether this is right or not.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+
+</letter>

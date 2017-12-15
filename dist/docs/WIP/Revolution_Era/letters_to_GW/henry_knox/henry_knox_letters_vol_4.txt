@@ -1,0 +1,1135 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.pj2I3z on line 291
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--hek
+--DOC-AUTHOR-FIRST--Henry
+--DOC-AUTHOR-LAST--Knox
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="hek4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Agreeably to my promise, my dear Sir, I write 
+you from this place, and flatter myself with the hope 
+that, although my letter contains no important intelligence, yet it may not be unpleasing to you. 
+</p><p>
+Your calm retreat of <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> must be a 
+source of ineffable delight to you. You can from 
+thence take a retrospective view of the critical exigencies of the w^ar, and see a thousand ways by 
+which the issue might have been the reverse of what 
+it is. And your happiness must be in proportion to 
+the extreme difficulties and dangers of the contest, 
+and the immense blessings secured to your country 
+by the glorious peace, contrasted with the miseries 
+consequent upon an unfortunate termination. 
+</p><p>
+We have little or no politics; all commerce frozen 
+up by the uncommon severity of the season ; but better prospects in the spring. There are now upon the 
+stocks, in different parts of the State, for the fisheries 
+and other branches of trade, upwards of eight hundred vessels, which will be at sea early in the summer. 
+</p><p>
+New Hampshire and this State have come into the 
+impost exactly as proposed by Congress; and it appears to be pretty certain that Rhode Island and 
+Connecticut will be induced to come into it. Many 
+sensible men are for the powers of the Union being 
+high braced ; but no measures are proposed to effect it. 
+</p><p>
+The <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a> appears, however groundlessly, to 
+be an object of jealousy. The idea is that it has 
+been created by a foreign influence, in order to change our forms of government. And this opinion 
+is strengthened by a letter from one of our Ministers 
+abroad. Burke's pamphlet has had its full operation. 
+The cool, dispassionately sensible men seem to approve 
+of the institution generally, but dislike the hereditary 
+descent. The two branches of the Legislature of this 
+State, namely, the Assembly and Senate, have chosen 
+a Committee, " to inquire into any associations or 
+combinations to introduce undue distinctions into the 
+community, and which may have a tendency to create 
+a race of hereditary nobility, contrary to the Confederation of the United States, and the spirit of the 
+Constitution of this Commonwealth." They have not 
+yet reported, and perhaps 'they will not. The same 
+sentiments pervade New England. The Society here 
+have had a respectable meeting in <a href='/results.php?city=boston' rel='city'>Boston</a>, on the 
+10th instant, at which <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a> presided. <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> w^as not present. A Committee was 
+chosen to attend the general meeting at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+next day ; — General R. Putnam, Colonel Cobb, Lieutenant-Colonel Hull, Major Sargent and myself Probably only two will attend. It was thought prudent 
+not to make any honorary members at present. The 
+officers and soldiers conduct themselves in an exemplary manner, and are generally as industrious as any 
+part of the community. 
+</p><p>
+I wrote your Excellency from <a href='/results.php?city=west point' rel='city'>West Point</a> on the 
+3d ultimo, inclosing the returns, and a particular account of matters there, which I hope met your approbation. And I also wrote you a line on the 9th of 
+the same month, the day I set out from thence. We 
+reside at Dorchester, about five miles from town, in a 
+very agreeable situation. I shall hope for the pleasure of hearing from you at your leisure. Mrs. Knox 
+presents her sincere and ardent affection to Mrs. 
+Washington, and proposes to write particularly to her 
+soon; and I also beg my respectful compliments may 
+be added. I am, my dear Sir, your truly 
+</p><p>
+Respectful and affectionate, humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=annapolis' rel='city origin'>Annapolis</a>, 	<a rel='day origin' value='28'>28</a> <a rel="month origin" value="5">May</a>. <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I have now been here nearly one week, and nothing of importance has been decided upon, owing to 
+the contrariety of sentiments concerning the powers 
+vested in Congress to raise troops, in time of peace, 
+for any purpose. There appears but one sentiment 
+respecting the necessity of having troops for the frontiers ; but the difficulty is, how to obtain them. The 
+Southern States are generally of opinion that the 
+Confederation vests Congress with sufficient powers for this purpose ; but the Eastern States are of a different opinion. The eastern Delegates are willing to 
+recommend the raising troops for the western posts. 
+But the gentlemen from the southward say this would 
+be giving up a right, which is of importance to preserve, and they cannot consent to recommend, when 
+they ought to require ; so that, from this cause, it is to 
+be feared that there will not be any troops raised; 
+and there are many difficulties as to sending those 
+which are raised, and at <a href='/results.php?city=west point' rel='city'>West Point</a>, &c. I shall 
+stay until the point is finally decided, or until Congress adjourn, provided it be on the 3d of next month, 
+as it is agreed. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='24'>24</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I thank you for your kind favor of the 28th ultimo, which I received last evening, with its inclosures; 
+and I sincerely hope I shall not be under the necessity of troubling you so much again. But, in the 
+present instance, I am under the necessity of mentioning that Major Winthrop Sargent has repeatedly 
+informed me, that a certificate from you would be one 
+of the most desirable and acceptable things to him. 
+I at length promised him that I would request it of 
+you. He is really clever, and was an excellent artillery officer. 
+</p><p>
+I will endeavour to make an arrangement of the 
+lime-stone, in the manner that shall be the least expensive ; but our spring is so backward, that we have 
+but little prospect of getting the stone from the eastward before the month of June. It shall be forwarded by the earliest opportunity to your house, or 
+<a href='/results.php?city=alexandria' rel='city'>Alexandria</a>. The weather is now as severe as at any time during the winter, and the snow and ice are nearly three feet upon a level. 
+</p><p>
+I am highly delighted with the delicate gratitude 
+of Virginia, and am at the same time charmed with 
+your sentiments and reasoning upon it. I sincerely 
+hope, circumstanced as you are, that you may find a 
+mode of declining the intended appropriation, so as 
+to enhance the respect and affection of your fellow citizens. My jealousy for your fame is so high that 
+I should prefer seeing you, Cincinnatus-like, following 
+your plough, rather than accept the least pecuniary 
+reward whatever. Your services are of that nature as 
+to demand the approbation and admiration of succeeding generations, but cannot be rewarded by money. 
+Thank the Supreme God, you are happily placed above 
+the necessity of receiving any assistance ! 
+</p><p>
+Perhaps, my dear Sir, you could intimate to the 
+Legislature, in a manner which would be clear of 
+every indelicate imputation, that, should they think 
+proper to apply the produce of this fund to the 
+maintenance of the widows, and the support and education of the children, of those men of their own line 
+who sacrificed their lives in defence of their country, 
+and of the maimed soldiers, that the measure would 
+rear an eternal monument to the virtue of the Commonwealth of Virginia. An event of this kind, which, 
+I am persuaded, has been among the number of expedients conceived by jou, would rank Virginia 
+higher in the annals of America than any other 
+State ; and the idea coming from you, would place 
+your warm and disinterested attachment to suffering 
+in a durable and glorious point of view. Let my affection plead my excuse for this freedom. 
+</p><p>
+The Mall, in this town, has been repaired, and the 
+trees replaced. But I believe the gravel walk is only 
+upon the common principle, without any cement 
+whatever. I will, however, inquire, and if there should 
+he any improvement, I will with pleasure communicate it. 
+</p><p>
+You may probably have heard that Congress have 
+been pleased to appoint me Secretary at War. I 
+have accepted of the office, and expect to be in New 
+York about the 15th of next month. From the habits imbibed during the war, and from the opinion 
+of my friends that I should make but an indifferent 
+trader, I thought, upon mature consideration, that it 
+was well to accept it, although the salary (twenty-four hundred and fifty dollars) would be but a slender support. I have dependence upon an umvieldy 
+estate belonging to Mrs. Knox's family, and upon the 
+public certificates given for my services; but neither 
+of these are productive, and require a course of years 
+to make them so. In the mean time, my expenses 
+are considerable, and require some funds for their 
+supply. Congress have rendered the powers and duties of the office respectable, and the circumstances 
+of my appointment were flattering, being without solicitation on my part, and nine States out of eleven 
+voting for me. For this favorable opinion of Congress, I conceive myself indebted to your friendship. 
+I do not intend to move my family to <a href='/results.php?city=new york' rel='city'>New York</a> 
+until next June. Mrs. Knox, who, with her little 
+ones, are well, unites with me in presenting our affectionate respects to Mrs. Washington. I am, my dear 
+Sir, 
+</p><p>
+Your truly affectionate, humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+I thank you, my dear Sir, for your kind favor of 
+the 26th ultimo, which I received on the 7th instant. 
+ On the dispersion of the insurgents at Worcester, 
+which was dictated more by the inclemency of the 
+weather, and the consideration of having effected their 
+object, than by any apprehensions of coercion from 
+Government, many people were of opinion that the 
+disorders were at an end, and that Government would 
+resume its tone. They did not reflect that the Court, 
+which w^as the great object of the insurgents assembling, was adjourned ; and that, having no further 
+business at that time, they went to their respective 
+homes. But, as soon as any object presented, they 
+again reassembled in sufficient numbers to effect it. 
+This was the case at Springfield, in the county 
+of Plampshire, the inferior Court of which was to 
+have met on the last Tuesday of December, but was 
+prevented from doing any business by a party of 
+about three hundred armed men. The Government 
+of Massachusetts are now convinced that all lenient 
+measures, instead of correcting, rather inflame the disorders. The Executive, therefore, have determined on 
+coercion ; and they will soon try this remedy, under 
+the direction of our friend Lincoln. I believe, with 
+you, had this measure been tried in the first instance, 
+the rebellion would not have arisen to its present 
+height. But it can scarcely be imagined that it 
+should now fail, if the arrangements should be well 
+taken on the part of Government. If it is not administered now, it may be too late in the spring or 
+summer ensuing. 
+You ask, what prevented the Eastern States from 
+attending the September meeting at <a href='/results.php?city=annapolis' rel='city'>Annapolis</a>. It is 
+difficult to give a precise answer to this question. 
+Perhaps, torpidity in New Hampshire ; faction, and 
+heats about their paper money, in Rhode Island ; and 
+jealousy, in Connecticut. Massachusetts had chosen 
+Delegates to attend, who did not decline until very 
+late ; and the finding other persons to supply their 
+places was attended with delay, so that the Convention had broken up by the time the new-chosen Delegates reached <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+With respect to the Convention proposed to meet 
+in May, there are different sentiments. Some suppose 
+it an irregular assembly, unauthorized by the Confederation, which points out the mode by which any 
+alterations shall be made. Others suppose that the 
+proposed Convention would be totally inadequate to 
+our situation, unless it should make an appeal to the 
+people of every State, and a request to call State 
+Conventions of the people, for the sole purpose of 
+choosing Delegates to represent them in a General Convention of all the United States, to consider, revise, amend, or change the federal system, in such a 
+manner as to them should seem meet, and to publish 
+the same for general observance, without any reference to the parts, or States, for acceptance or confirmation. Were this mode practicable, it would certainly be the most summary, and, if the choice of 
+Delegates was judicious in proportion to its importance, it might be the most eligible. There are 
+others who are of opinion that Congress ought to 
+take up the defects of the present system, point them 
+out to the respective Legislatures, and recommend 
+certain alterations. The recommendations of Congress 
+are attended with so little effect, that any alterations 
+by that means seem to be a hopeless business. Indeed, every expedient which can be proposed, conditioned on a reference back to the Legislatures, or 
+State Conventions, seems to be of the same nature. 
+</p><p>
+Some gentlemen are apprehensive that a Convention, of the nature proposed, to meet in May next, 
+might devise some expedients to brace up the present defective Confederation, so as just to serve to 
+keep us together, while it would prevent those exertions for a national character, which are essential to 
+our happiness ; that in this point of view, it might 
+be attended with the bad effect of assisting us to 
+creep on, in our present miserable condition, without 
+a hope of a generous Constitution, that should at once 
+shield us from the effects of faction and despotism. 
+</p><p>
+You will see by this sketch, my dear Sir, how 
+various are the opinions of men, and how difficult it 
+will be to bring them to concur in any effective Government. I am persuaded, if you were determined 
+to attend the Convention, and it should be generally 
+known, it would induce the Eastern States to send 
+Delegates to it. I should therefore be much obliged 
+for information of your decision on this subject. At 
+the same time, the principles of the purest and most 
+respectful friendship, induce me to say that, however 
+strongly I wish for measures which would lead to 
+national happiness and glory, yet I do not wish you 
+to be concerned in any political operations of which 
+there are such various opinions. There may, indeed, 
+arise some solemn occasion, in which you may conceive it to be your duty again to exert your utmost 
+talents to promote the happiness of your country. 
+But this occasion must be of an unequivocal nature, 
+in which the enlightened and virtuous citizens should 
+generally concur. 
+</p><p>
+Notwithstanding the contrary opinions respecting 
+the proposed Convention, were I to presume to give 
+my own judgment, it would be in favor of the Convention; and I sincerely hope that it may he generally attended. I do not flatter myself that the 
+public mind is so sufficiently informed and harmonized 
+as that an effective Government would be adopted by 
+the Convention, and proposed to the United States ; 
+or, if this w^ere practicable, that the people of the 
+several States are sufficiently prepared to receive it. 
+But it seems to be highly important that some object should be held forth to the people as a remedy 
+for the disorders of the body politic. Were this done 
+by so respectable a set of men as would be sent to 
+the Convention, even if it were not so perfect in the 
+first instance as it might be afterwards, yet it would 
+be a stage in the business, and men's minds would 
+be excited on the subject, and towards a good Constitution. Were strong events to arise between this and the time of meeting, enforcing the 
+necessity of a vigorous Government, it would be a 
+preparation which might be embraced by the Convention to propose at once an efficient system! 
+</p><p>
+Although it may be confessed that a Convention, 
+originating from the respective Legislatures, instead 
+of the people themselves, is not the regular mode 
+pointed out by the Confederation, yet, as our system, 
+in the opinion of men of reflection, is so very defective, it may reasonably be doubted whether the constitutional mode of amendment would be adequate to 
+our critical situation. If, on an examination, this 
+should be found to be the case, the proposed Convention may be the best expedient that could be 
+devised. Unrestrained by forms, it would be able to 
+consider every proposition fully, and decide agreeably 
+to the sentiments of the majority. But, in a body 
+constituted as Congress is, a single member frequently 
+may frustrate the opinions of seventeen eighteenths 
+of the United States, assembled by representation in 
+that body. There are a variety of other reasons which, 
+in my mind, have the influence to induce a preference for the Convention. But the different opinions 
+respecting it will probably prevent a general attendance. 
+</p><p>
+In my former letters, I mentioned that men of reflection and principle were tired of the imbecilities 
+of the present Government ; but I did not point out 
+any substitute. It would be prudent to form the plan 
+of a new house, before we pull down the old one. The 
+subject has not been sufficiently discussed, as yet, in 
+public, to decide precisely on the form of the edifice. 
+It is out of all question that the foundation must be 
+of republican principles, but so modified and wrought 
+together, that whatever shall be erected thereon, 
+should be durable and efficient. I speak entirely of 
+the Federal Government, or, which would be better, one 
+Government, instead of an association of Governments. 
+Were it possible to effect a General Government of 
+this kind, it might be constituted of an Assembly or 
+lower House, chosen for one, two, or three years ; a 
+Senate, chosen for five, six, or seven years ; and the 
+Executive, under the title of Governor-General, chosen 
+by the Assembly and Senate, for the term of seven 
+years, but liable to an impeachment of the lower 
+House, and triable by the Senate. A Judicial, to be 
+appointed by the Governor-General during good behaviour, but impeachable by the lower House, and triable by the Senate. The laws passed by the General Government, to be obeyed by the local Governments ; 
+and, if necessary, to be enforced by a body of armed men to be kept for the purposes which should be 
+designated. All national objects to be designed and 
+executed by the General Government, without any 
+reference to the local Governments. This rude sketch 
+is considered as the Government of the least possible powers to preserve the confederated Governments. To attempt to establish less, will be to hazard 
+the existence of republicanism, and to subject us 
+either to a division of the European powers, or to a 
+despotism arising from high-handed commotions. 
+</p><p>
+I have thus, my dear Sir, obeyed what seemed to be your desire, and given you the ideas which have 
+presented themselves from reflection and the opinion of others. May heaven direct us to the best means for the dignity and happiness of the United States! 
+</p><p>
+I hinted, in the former part of this letter, that the 
+Executive of Massachusetts were determined on coercion, under the auspices of <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a>. He will 
+begin his operations on the 20th instant, with a body 
+of four thousand men, including six companies of artillery with field-pieces. They will be drafted from 
+the militia for a certain time. If the insurgents decline meeting him in force at Worcester, the 23d 
+instant, to which time the Court of Common Pleas is 
+adjourned, he will proceed to Hampshire county and 
+Berkshire, at which places the Courts will also sit. 
+If the insurgents decline meeting him at those places, 
+he will detach parties to bring in the most culpable, 
+in order for a trial by law. The process of this business will be interesting, and its issue important; both 
+of which I shall do myself the pleasure of informing 
+you of 
+</p><p>
+Mrs. Knox thanks Mrs. Washington and you, with 
+great sincerity, for your kind washes, and prays that 
+you both may enjoy every happiness ; to which I 
+say, Amen. I am, clear Sir, with the most respectful 
+and unalterable affection, yours, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Influenced by motives of delicacy, I have hitherto 
+forborne the pleasure, my dear Sir, of writing to you 
+since my return from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. I have been apprehensive, that the stages of the business of the 
+Convention might leak out, and be made an ill use 
+of by some people. I have therefore been anxious 
+that you should escape the possibility of imputation. 
+But, as the objects seem now to be brought to a 
+point, I take the liberty to indulge myself in communicating with you. 
+</p><p>
+Although I frankly confess that the existence of 
+the State Governments is an insuperable evil in a 
+national point of view, yet I do not well see how, in 
+this stage of the business, they could be annihilated ; 
+and perhaps, while they continue, the frame of Government could not, with propriety, be much higher 
+toned than the one proposed. It is so infinitely preferable to the present Constitution, and gives such a 
+bias to a proper line of conduct in future, that I 
+think all men, anxious for a National Government, 
+should zealouslv embrace it. 
+</p><p>
+The education, genius, and habits of men on this 
+Continent, are so various, even at this moment, and 
+of consequence their views of the same subject so 
+different, that I am satisfied with the result of the 
+Convention, although it is short of my wishes and of 
+my judgment. But, when I find men of the purest 
+intentions concur in embracing a system, which, on 
+the highest deliberation, seems to be the best which 
+can be obtained under present circumstances, I am 
+convinced of the propriety of its being strenuously 
+supported by all those who have wished for a National Republic of higher and more durable powers. 
+I am persuaded that the address of the Convention, 
+to accompany their propositions, will be couched in 
+the most persuasive terms. I feel anxious that there 
+should be the fullest representation in Congress, in 
+order that the propositions should receive their warmest concurrence and strongest impulse. 
+</p><p>
+Mrs. Knox and myself have recently sustained the 
+severe affliction of losing our youngest child, of about 
+eleven months old, who died on the 11th instant, of 
+a disease incident to children cutting their teeth in 
+the summer season. This is the third time that Mrs. 
+Knox has had her tenderest affections lacerated by 
+the rigid hand of death. Although her present grief 
+is sharp indeed, we hope it will be assuaged by the 
+lenient hand of time. I am, my dear Sir, 
+</p><p>
+With the most perfect respect and affection, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='3'>3</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+By this time, my dear Sir, you will have again renewed your attention to your domestic affairs, after 
+the long absence occasioned by the Convention. I flatter myself with the hope that you found Mrs. Washington and your family in perfect health. 
+</p><p>
+Every point of view in which I have been able to 
+place the subject, induces me to believe that the moment in which the Convention assembled, and the result thereof, are to be estimated among those fortunate circumstances in the affairs of men, which give 
+a decided influence to the happiness of society for a 
+long period of time. Hitherto every thing promises 
+well. The new Constitution is received with great joy 
+by all the commercial part of the community. The 
+people of <a href='/results.php?city=boston' rel='city'>Boston</a> are in raptures with it as it is, but 
+would have liked it still better had it been highertoned. The people of Jersey and Connecticut, who 
+are not commercial, embrace it with ardor. There has 
+not yet elapsed sufficient time to hear from the interior parts of the other States, excepting this, which, 
+however, does not seem to have decided on its plan 
+of conduct. It will not probably, however, be among 
+the first which shall adopt it; but I presume the 
+powerful circumstance of interest will ultimately induce it to comply. As the information now appears, 
+Virginia probably will give the new plan the most 
+formidable opposition. The unanimous resolve of Congress to transmit it to the respective States, will not 
+lessen the general disposition to receive it. But, notwithstanding my strong persuasion that it will be 
+adopted generally, and in a much shorter time than 
+I some time ago believed, yet it will be opposed, 
+more or less, in most of the States. 
+</p><p>
+The germ of opposition originated in the Convention itself. The gentlemen who refused signing it, 
+will most probably conceive themselves obliged to 
+state their reasons publicly. The presses will groan 
+with melancholy forebodings, and a party of some 
+strength will be created. This is an evil, but it is 
+an infinitely lesser evil than that we should have 
+crumbled to pieces by mere imbecility. I trust in 
+God that the foundation of a good national Government is laid. A way is opened to such alterations 
+and amendments, from time to time, as shall be judged necessary; and the Government, being subjected 
+to a revision by the people, will not be so liable to 
+abuse. The first Legislature ought to be the ablest 
+and most disinterested men of the community. Every 
+well-founded objection which shall be stated in the 
+course of the discussions on the subject, should be 
+fairly considered, and such fundamental laws enacted 
+as would tend to obviate them. 
+</p><p>
+Mrs. Knox unites with me in presenting our most 
+affectionate respects to Mrs. Washington. 
+</p><p>
+I am, my dear Sir, with the sincerest and most respectful friendship, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4306">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='28'>28</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+It is with the most sincere satisfaction that I congratulate you on the unconditional adoption of the Constitution by the Convention of this State. The 
+particulars of this important event are contained in this clay's paper, herein inclosed. 
+</p><p>
+Messrs. Jay, Hamilton, and the rest of the federalists, have derived great honor from their temperate 
+and wise conduct during the tedious debate on this subject. Nor ought those gentlemen who were opposed to the Constitution in the first instance, but 
+afterwards voted for its adoption, be deprived of their due share of praise for their candor and wisdom in assuming different conduct, when it became apparent 
+that a perseverance in opposition would most probably terminate in civil war ; for such, and nothing short of it, were the prospects. 
+</p><p>
+We have now, thank Heaven, eleven States which have adopted the system. Conduct and wisdom, almost superior to the lot of humanity, will be required 
+in the first outset of the new Constitution. Congress will soon publish an ordinance for the necessary elections and organization. The times of election and 
+period of organization will not be difficult to be determined; but the place where they shall assemble will be warmly contested. The two places generally 
+thought on are <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> and <a href='/results.php?city=new york' rel='city'>New York</a>. At present it is difficult to say in favor of which it will 
+be determined. A few days more will explain the matter. 
+</p><p>
+I shall set out in a few days for the Province of 
+Maine, and be absent six weeks or two months. On 
+my return, I shall do myself the pleasure of addressing you. I have hitherto refrained from acknowledging the receipt of your kind favor of the 17th of 
+June, as the affairs in the Convention were so gloomily circumstanced. But it is now dissipated. <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> has most perseveringly opposed the Constitution ; and, from being in the majority during almost the whole time, he has found himself so much 
+deserted as to be in the minority. A precise history 
+of his conduct is difficult to be written, and must be 
+left to him to explain. 
+</p><p>
+Mrs. Knox and her little family are well. She 
+unites with me in presenting our affectionate respects 
+to you and Mrs. Washington. I am, my dear Sir, 
+</p><p>
+Your sincere friend and humble servant 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4307">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1788' rel="origin">1788</a>, 
+</p><p>
+It is a long time, my dear Sir, since I have had 
+the pleasure of addressing you, owing to my having 
+been into Massachusetts and the Province of Maine, 
+during the period of the last four months. I have 
+received your favor, inclosing some foreign applications 
+for admission into the <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a>. These papers are 
+placed on the files of the Society, but cannot be 
+acted on until the next general meeting, to be held 
+in <a href='/results.php?year=1792'>1792</a>. 
+</p><p>
+In the States of New Hampshire, Massachusetts, 
+and Connecticut, the great object of organizing the 
+new Constitution, engrosses the attention of the people. It is with sincere satisfaction that I can assert, 
+from personal observation, that the affection for the 
+new system is increasing in these States, and that it is 
+daily becoming highly popular. The Senators of those 
+States are characters calculated to inspire confidence 
+in the new Government, and are all highly federal. 
+I am persuaded the Representatives will generally, if 
+not entirely, be of the same description. As to Rhode 
+Island, the majority are in such a train that nothing 
+good can at present be expected from them; their 
+paper money system and tender laws are sufficiently 
+characteristic of their pursuits. <a href='/results.php?city=new york' rel='city'>New York</a> are also 
+laboring under errors of conduct; but, from the powerful party in favor of the new system, something 
+may be hoped from their ensuing elections. New 
+Jersey, Pennsylvania, Delaware, and Maryland are 
+right. The late choice of Representatives in Pennsylvania, may be considered as a new and fair appeal 
+to the people, as it respects their approbation of the 
+new Government. Although the party in favor of 
+their local Constitution have been brought to operate 
+against the General Constitution, yet it appears the 
+majority of the people are its firm supporters. 
+</p><p>
+Mr. John Adams will probably have the plurality 
+of votes for Vice-President. From his principles of 
+government, as well as his professions of regard to 
+the character universally decided on for the President, 
+he will probably make a good Vice-President. 
+</p><p>
+Major Haskell, who is going to Europe, is very 
+solicitous to obtain your Excellency's certificate of his 
+services. He sustained the character of a brave and 
+good officer, and at present he supports the reputation of a good citizen. It is "with diffidence I ask 
+this certificate ; but the request is made under such 
+auspices, I cannot avoid it. 
+</p><p>
+Our three youngest children have lately had the 
+measles, and are, we hope, safely through the disorder. Our eldest children, Lucy and Harry, are about 
+sickening with it. Mrs. Knox presents her respects 
+to you, and unites with me in presenting our respects to Mrs. Washington. I am, dear Sir, 
+</p><p>
+Your affectionate friend and humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Office, [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>]<a rel='day origin' value='15'>15</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+The serious crisis of affairs in which the United States are involved with the Creeks, requires that every honorable and probable expedient that can be 
+devised should be used to avert a war with that tribe. The untoward circumstances of the case are such that no degree of success could render a war 
+either honorable or profitable to the United States. 
+</p><p>
+Events may be expected soon to arise, which will interrupt the present tranquillity. The headlong passions of the young Creek warriors are too impetuous 
+to be restrained by the feeble advice of the Chiefs, even supposing their authority exerted to that end. But, where the dispositions of the Creeks generally 
+favorable to peace, the corrosive conduct of the lawless whites inhabiting the frontiers, may be supposed to bring on partial quarrels. These may be easily 
+fomented, and the flame of war suddenly lighted up, without a possibility of extinguishing it, but by the most powerful exertions. 
+</p><p>
+A war with the Creeks, besides being attended 
+with its own embarrassments, may lead to extensive 
+and complicated evils. Part of the lower Creeks, or 
+Seminoles, reside within the territory of Spain ; and 
+a strong connection appears to subsist between the 
+Creeks generally and the Colonies of East and West 
+Florida, belonging to that power. In case of a war 
+with the Creeks, and they should be pushed to take 
+refuge within the limits of either of the aforesaid 
+Colonies, the United States would be reduced to a 
+most embarrassed predicament ; for they must either 
+follow the Creeks, in order to extinguish the war, establish posts in their country, or retire. In the first 
+case, they would seriously be embroiled with Spain ; 
+in the second, the operation would be extremely hazardous and expensive ; in the third, the impression 
+made would not be attended with permanent or adequate effects to the expense incurred by the expedition. 
+</p><p>
+This subject, therefore, in every point of view in 
+which it can be placed, has an unfavorable aspect to 
+the interests of the United States. Acting under this 
+impression, my mind has been anxiously employed in 
+endeavouring to avoid, if possible, so injurious an 
+event. In examining the proposition of the late Commissioners, to send the draught of a treaty for the 
+Creeks to sign, and, in case of their refusal, to declare war against them, it appears as if the measure 
+proposed would inevitably precipitate an event, which 
+it is the interest of the United States to avoid. For, 
+if such treaty should be transmitted to the Creeks, 
+with a declaration that they must receive and sign 
+it, or war should ensue, it is highly probable that the 
+latter event would take place, by an irruption of the 
+Creeks long before the messenger would reach the 
+seat of Government. 
+</p><p>
+In search of expedients to avert the evils impending on this subject, I have been led into repeated 
+conversations with the <a href='/results.php?tla=bnh' rel='colleague met'>Honorable Benjamin Hawkins</a>, Senator for North Carolina, who is well acquainted 
+with the influential characters among the Creeks. He appears to entertain the opinion, pretty strongly, that 
+the designs and character of Alexander McGillivray, the influential Creek Chief, are opposed to a war 
+with the United States, and that he would, at this time, gladly embrace any rational mean that could 
+be offered, to avoid that event. It seems probable to <a href='/results.php?tla=bnh' rel='colleague met'>Mr. Hawkins</a>, arising from former intimations of McGillivray, that he might at this time be influenced 
+to repair to the seat of the General Government, provided that every facility and security should be offered for that purpose. 
+</p><p>
+In maturely contemplating this idea of <a href='/results.php?tla=bnh' rel='colleague met'>Mr. Hawkins</a>, and confiding in his knowledge and judgment of the character alluded to, I am inclined to conclude 
+that it is an expedient deserving experiment, and that, let its success be what it may, the result cannot 
+fail of being honorable to the United States. For it is proposed, although the overture shall have the aspect of a private transaction, yet that it shall have 
+so much of the collateral countenance of Government as to convince Mr. McGillivray that he may safely confide in the proposition, as it relates to his own 
+and the other Chiefs' personal security, until their return to their own country. 
+</p><p>
+I have shown <a href='/results.php?tla=bnh' rel='colleague met'>Mr. Hawkins</a> the inclosed draft of a letter to Alexander McGillivray. It has received his 
+approbation, and he is willing to copy and sign the 
+same, adding thereto some circumstances relative to a 
+former correspondence on some philosophical inquiries. 
+</p><p>
+The hearer of the letter ought to he a man of real 
+talents and judgment. Although the ostensible object 
+of his mission should be the charge of the letter, yet 
+the real object should be much more extensive. He 
+should be capable of observing the effects of the proposition on the mind of McGillivray and the other 
+Chiefs. He should be of such character and manners 
+as to insinuate himself into their confidence ; to obviate their objections to the proposition ; to exhibit, 
+in still stronger colors than the letter, the ruinous 
+effects of a war with the Creeks. In the prosecution of his designs he should not be in a hurry, 
+but wait with attention and patience the symptoms 
+of compliance ; confirm them in such dispositions ; 
+and be calm and firm, when opposed. And if, after 
+all his labors and exertions, he should fail of success, 
+he should be capable of giving a clear narrative of 
+the means he used, and the obstacles which prevented his success. On this person's negotiation would 
+depend much blood and treasure ; and, in any event, 
+the reputation of the United States. 
+</p><p>
+The object, therefore, of the mission would require 
+an important character, who, although not invested 
+with any apparently dignified public commission, ought 
+to have such private powers and compensation as 
+would be a sufficient inducement to a performance of 
+the intended service. 
+</p><p>
+The time, which the proposed negotiation would require, might be four months, or one hundred and twenty days. If the compensation should be eight dollars a 
+day, the amount would be nine hundred and sixty dollars. The expenses would probably amount to four 
+hundred dollars in addition. Should several of the 
+Chiefs repair to <a href='/results.php?city=new york' rel='city'>New York</a>, the expenses for that purpose would amount, at least, to one thousand dollars ; 
+so that the expense of one thousand three hundred and 
+sixty dollars, at least, and perhaps two thousand three 
+hundred and sixty, would be incurred by the proposed measure. And this sum would be independent 
+of the probable expenses of presents, and returning 
+the Chiefs to their own country, which would require 
+a much larger sum. But there cannot be any doubt 
+of the economy of the proposed application of the 
+money herein required, when compared with the expense which must attend a war. 
+</p><p>
+The proposed experiment would probably be attended with either one or the other of the following 
+consequences. 
+</p><p>
+First ; that it would be successful, and thereby prevent a war. For, most probably, if Mr. McGillivray 
+and the other influential Chiefs should embrace the 
+measure, and repair to the seat of Government, their 
+dispositions would be sufiiciently pacific to conclude 
+a treaty, especially as no terms, inconsistent with the 
+principles of justice or humanity, would be imposed 
+on them. 
+</p><p>
+Secondly; in case the proposition should be unsuccessful, the fair and honorable dispositions of the 
+United States would be highly illustrated; and, however great the evils which might afterwards result 
+from hostilities, the Executive Government would not 
+in any degree be responsible for them. 
+</p><p>
+But, as this transaction may be liable to the most 
+unworthy imputations, arising from some former local 
+prejudices against <a href='/results.php?tla=bnh' rel='colleague met'>Mr. Hawkins</a>, in consequence of his 
+services and zeal for the honor and justice of the 
+United States while a Commissioner of Indian Affairs, 
+it seems fair and reasonable that his conduct, in this 
+instance, should receive its just approbation, and be 
+shielded from all malevolence and misrepresentation. 
+I have the honor, therefore, humbly to submit the measure herein proposed to your consideration. If you 
+should be pleased to approve the principal parts thereof, your direction appears to be essential on the following points. 
+</p><p>
+First ; your approbation of my request to <a href='/results.php?tla=bnh' rel='colleague met'>Mr. Hawkins</a>, in writing, to copy and sign the letter to Alexander McGillivrav. 
+</p><p>
+Secondly; an ample passport for the protection of 
+Mr. McGillivray, and such Chiefs as shall accompany 
+]iim, from the time of their entering the limits of the 
+United States to their return to their own country. 
+</p><p>
+Thirdly; a direction to me to make the necessary 
+expenditures of money in pursuance of the plan proposed, and to appoint a suitable person to conduct 
+the business. I have the honor to be. Sir, with the 
+greatest respect. 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4309">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='10'>10</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to acknowledge the receipt of 
+your separate letter of the 4th instant, and also of 
+your joint letter of the same date, to the heads of 
+the departments. By the information from Fort Harmar, of the 17th, and Pittsburg, of the 31st, it would 
+appear that the Delawares and Wyandots are committing depredations, and that they will be joined in 
+the war against us. But, what is still more disagreeable, it is to be apprehended that the Senecas, mainly, 
+may be in the same predicament. For a party of 
+Munsey or Delaware Indians, who reside upon the 
+waters of the Allegiiany, towards Lake Erie, on the 
+21st ultimo, murdered nine men, women, and children, 
+within twenty miles of <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>, on the west side of 
+the Alleghany. 
+</p><p>
+This was on the day the Cornplanter set out from 
+<a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. The inhabitants were so blindly enraged, 
+as to suspect the Cornplanter and his party, and agitated plans to cut him off. Had they proceeded and 
+succeeded, it would have completed the business, and 
+the war would indisputably have become general. 
+Lieutenant Jeflfers, of the federal troops, accompanied 
+Cornplanter, and would probably have shared his fate. 
+</p><p>
+Every exertion must be made to prevent the Six 
+Nations from joining the western Indians. The post 
+at French Creek must be strengthened, and perhaps 
+a party sent to protect the Cornplanter's settlements 
+from the fury of the whites. Affairs being so critical 
+with the Six Nations, I have judged it advisable to 
+assemble them as soon as possible, in order to brighten the chain of friendship, and to prevent all jealousies. I have accordingly desired <a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a>, who may be depended upon, to invite them to 
+a meeting, at some convenient place, at an early 
+day, and that, in the mean time, he should repair to 
+this city for particular orders. I shall lay this subject before the Vice-President, and the other heads 
+of departments to-morrow, for their approbation. 
+</p><p>
+The recruiting service proceeds well. I judge we 
+have about three hundred regulars and levies enlisted 
+in different places, to Connecticut, inclusively. One 
+company of levies, well clothed, will march from <a href='/results.php?city=carlisle' rel='city'>Carlisle</a> about the 25th, and the rest as fast as recruited. The marching of the regulars will commence by 
+companies, I hope by the 1st of May, and follow in succession as fast as recruited. Present appearances 
+indicate that the main force will be collected by the 15th of July, as originally designed. 
+</p><p>
+Brigadier-General Butler was directed to have set 
+off for Maryland on the 6th; but he has delayed it 
+until this day. But, as the Virginia and Maryland 
+levies will not have far to march, I hope they will 
+be on the frontiers by the 15th or 20th of June. I 
+have the honor to be, with the highest respect, 
+Your obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4310">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='8'>8</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Sir, 
+</p><p>
+Colonel Procter has just arrived in this city by 
+the way of <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. He was unable to go forward 
+to the western Indians without an escort of the Six 
+Nations. He would have obtained such an escort, 
+after counselling with them at Buffalo Creek, from 
+the 23d of April until the 15th of May ; but the 
+Indians could not proceed either in canoes along the 
+Lake, or by land, but required a vessel. He applied 
+to Colonel Gordon, Commanding Officer at Niagara, 
+for a vessel, either public or private, for which he 
+would pay ; but he could not obtain one. The design, 
+therefore, of inviting the hostile Indians to peace, 
+previously to striking them, has been frustrated. 
+</p><p>
+Brant, with thirty warriors, having Girty and McKee with him, set out from Grand River to the western Indians about the 11th of May. The Senecas 
+say, his design is peace ; that he will return in June 
+to the treaty at the Painted Post, and the others go 
+forward to oblige the western Indians to peace. 
+</p><p>
+The Cornplanter continues his attachment to the 
+United States; but he is exceedingly suspected by 
+Brant's people, who are in an opposite interest. The 
+Six Nations are for peace. Colonel Procter transmitted from <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> a full account of his proceedings 
+to <a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a>. He will, therefore, be no longer 
+in cloubt about pushing forward the Kentucky expedition. Colonel Procter has not made a written report yet, but he will do it soon, I have thought it 
+proper to submit the substance of his mission to you. 
+I have the honor to be, with the highest respect, Sir, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4311">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='22'>22</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Sir, 
+</p><p>
+The Minister of France has written me a letter, of 
+which the inclosed is a copy. As this crisis of affairs 
+eminent support during the late war, and being for 
+the purpose of quelling an internal rebellion, no foreign nation can take umbrage at the measure. As 
+it can be afforded without impediment or injury to 
+the public service, and, as all the stores in the arsenals are under your direction, as President of the 
+United States and Commander-in-chief, I feel but 
+little hesitation in submitting, as my opinion, that the 
+circumstances of the case render it highly proper to 
+afford the supplies requested, and that your authority 
+is competent to the occasion. 
+</p><p>
+I am. Sir, with the highest respect, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4312">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='28'>28</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+Since the letter I had the honor of transmitting 
+the 21st instant, I have received a letter from Governor Blount, dated the 4th instant. A meeting of 
+the Cherokees, at Estanaula, had taken place, which 
+lasted from the 24th of June to the 1st of July, at 
+which the Little Turkey and many other Chiefs were 
+present ; but the Bloody Fellow, and John Watts, 
+whom the Governor, in his former letter, styled "the 
+champions for peace," were absent. But most of the 
+others who composed the delegation were present. 
+The dispositions manifested were friendly. A number 
+of Chiefs were selected to protect the boats, which 
+were to pass down the Tennessee with the goods designed for the Conference to be held with the Chickasaws and Choctaws, at <a href='/results.php?city=nashville' rel='city'>Nashville</a>. But the Little 
+Turkey expressed considerable dissatisfaction at the 
+line towards Cumberland, alleging it to be the hunting grounds of the Four Nations, to wit, the Creeks, 
+Cherokees, Choctaws, and Chickasaws. It is to be 
+observed that this man is the most influential Chief 
+of the Cherokees, and that he was neither at the 
+treaty of Hopewell, in <a href='/results.php?year=1785'>1785</a>, nor Holstein, in <a href='/results.php?year=1791'>1791</a>. I 
+have had some doubts, whether that part of the line 
+was agreeable to the opinion of the Cherokees generally ; and it really appears to me that something 
+will yet be to be arranged on that subject. 
+</p><p>
+Some Indians, supposed to be Creeks, have committed several murders at <a href='/results.php?city=nashville' rel='city'>Nashville</a>, and have wounded General Robertson and his son. The Governor 
+has had discretionary power to call forth such portions of militia as he should judge expedient for the 
+protection of the exposed parts of his Government, 
+and he has, at different periods, actually called for 
+five companies of militia, most of which are now in 
+service. The Governor expected the Chickasaws and 
+Choctaws to meet him, at <a href='/results.php?city=nashville' rel='city'>Nashville</a>, about the 25th 
+instant. The goods for the Conference at <a href='/results.php?city=nashville' rel='city'>Nashville</a> 
+left Holstein, under the charge of Mr. Allison, the 3d 
+instant, under a proper escort, besides the Indian 
+Chiefs before mentioned. The Governor and <a href='/results.php?tla=anp' rel='colleague'>General Pickens</a> were to set out for <a href='/results.php?city=nashville' rel='city'>Nashville</a> on the 5th instant, to cross Cumberland Mountains, escorted by 
+some horse, which he called out for the occasion. 
+</p><p>
+The Governor has transmitted the affidavits of two 
+men, recently from the Creek country, tending to 
+prove the interference of the Spanish Agent to prevent the Creeks from running the line ; and also of 
+some parties of Creeks making depredations on the 
+Cumberland settlements. It -would seem the Creeks 
+consider the Cumberland settlers as intruders on the 
+joint lands of the Four Nations, and therefore they 
+have a right to steal horses, and, in case of opposition, 
+to kill. It is to be hoped the Governor may devise 
+some measures to prevent the progress of those depredations, which lead to a general confusion and war 
+with the Creeks and Cherokees. I shall write him 
+by the way of <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. 
+</p><p>
+No information yet of Colonel Hardin or Major Trueman. <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>, on the 20th, gives information of some recent depredations by small parties 
+in Ohio county About three hundred and twenty 
+effectives of his troops had arrived. The information 
+of recruits, since the last return, is agreeable to the 
+within. The desertions of the troops, on the march, 
+are excessive. Out of about three hundred and fifty, 
+nearly fifty deserted from Reading to <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. 
+</p><p>
+<a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a> has returned from the western 
+parts of this State. I have intimated to him your 
+desire of his repairing to his Government ; but he 
+says it will be extremely inconvenient to him to do 
+it, as he has a lawsuit to be tried in September next. 
+He seems to think that it would not be proper or 
+necessary for him to be present at the trial of Ensign 
+Morgan. He is to deliver me his evidence in a week 
+or ten days, when I shall order Mr. Morgan to join 
+the army, for his trial. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4313">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='5'>5</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+Yesterday afternoon Mr. Vigo arrived here from 
+Fort Washington, and brought despatches from Brigadier-Generals Putnam and Wilkinson to the 9th of 
+July, as will appear by the abstracts of Brigadier Wilkinson's letter of the 9th of July, herein inclosed. 
+I have the honor to inclose, for your consideration. 
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>'s letter, giving his opinion of the 
+operations proper to be pursued. On this letter I 
+shall, by the next post, submit to your view some 
+observations. The fate of poor Trueman is but too 
+probably sealed, and perhaps that of Hardin too. 
+</p><p>
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, in his letter of the 5th of July, which principally contains the same information as that mentioned in Wilkinson's letters, states it as his 
+opinion, that a treaty ought to be concluded, as soon as possible, with the Wabash Indians, and presents be made. Being firmly persuaded of the soundness 
+of this opinion, I shall direct the measure. It is more especially necessary, as Mr. Vigo informs me, 
+that the said Indians would not come even to Fort Washington, much less to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. Brigadier Wilkinson's attention to all parts of his duty, and 
+his activity, render him a great acquisition to the public. 
+</p><p>
+A banditti, without any fixed residence, consisting of about ten Cherokees, thirty Creeks, and fourteen Shawanese, outcasts from their respective tribes, are 
+perpetually committing depredations on the Cumberland settlements. They have lately attacked a military station near <a href='/results.php?city=nashville' rel='city'>Nashville</a>, and carried it. Twentyone men were killed, or taken ; but the Cherokees 
+compelled the said banditti to deliver up their prisoners, amounting to six. These are the same rascals, probably, who attacked ]Major Doughty in the year 
+<a href='/results.php?year=1789'>1789</a>. I have this information from Mr. Vigo. The necessity of the case will justify the measure of empowering Governor Blount to call out sixty or one 
+hundred mounted riflemen, to cut off, if possible, the said banditti. He has that number at present in 
+service ; and, as he has been empowered to retain in service as many as he shall judge proper, there can 
+be no doubt but he will keep them up as long as necessary. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+Hexry Knox. 
+</p>
+</letter><letter id="hek4314">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='31'>31</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+I have the honor to submit herein, inclosed, a letter to the Governor of Georgia, and one to Mr. Seagrove ; the former draughted by the Attorney-General, 
+and both approved by the same, and the Secretary 
+of the Treasury. The principles you were pleased to 
+suggest have been the basis of these papers. The 
+manner of treating the Spaniards and McGillivray, 
+was unanimously considered as the most proper to be 
+adopted in the present conjuncture. One of the 
+Spanish Commissioners is at present in Virginia, and 
+the other in the country, but will return either today or to-morrow. I shall see him, and, conformably 
+to the advice of the gentlemen, mention the affair 
+verbally and informally; the result of which I will 
+have the honor to transmit to you. 
+</p><p>
+Letters have just been received from Major-<a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>. All quiet. He has transmitted his ideas of 
+the further progress of the war, in case the negotiations should fail, which shall be transmitted by the 
+next post. I have directed that the express be furnished with one hundred dollars, out of which he 
+will return the money you were pleased to advance 
+him. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4315">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a rel='day origin' value='19'>19</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+As it is understood that the bill for fortifying the ports and harbours has passed into a law, I beg leave respectfully to lay before you the following 
+thoughts upon the manner of executing this business. The operation of the Federal Government upon the State Governors and State officers, it is well known, 
+has been, in general, rather irksome than otherwise, 
+as it has tended to lessen their patronage and influence, and perhaps, in their opinion, of course somewhat to impair their dignity, when compared with 
+their situation under the Confederation. The Governors are Commanders-in-chief of the militia of their 
+respective States, and, as such, were the last year called upon, in the name of the President of the United States, to perform certain unpleasant duties 
+relative to the preservation of our neutrality. 
+</p><p>
+These observations are made with this view, that it would most probably be a conciliatory and grateful measure to them, as Commanders of the militia, 
+to be the Agents of the United States, in a certain degree, of the proposed fortifications. For instance, the Engineers might be desired to consult and take 
+the opinions of the Governors upon the points most proper to be fortified, and to report to them the reasons on which their opinions should be founded, which 
+opinions the Governors might confirm or reject, and transmit the result to the Secretary of War, in order to be submitted to the President of the United 
+States. The Governors might also be required to appoint some suitable person to superintend the erection of the works, the keeping of the accounts, &c., 
+and also of the mounting of such cannon as are to be mounted in, or furnished by, the respective States. 
+</p><p>
+By an arrangement of this sort, it is conceived that the Governors would be kindly brought to act by system to support the General Government, and that, 
+unless something of this nature shall be devised, they might be displeased and disgusted. Some Agents must be appointed. The Governors are on the spot. 
+and well acquainted with characters, and really possess higher responsibility than any other individuals. 
+It may, therefore, perhaps be expedient, in an economical as well as political view, to request their assistance on this occasion. Whether these ideas be 
+well founded, or not, is respectfully submitted. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4316">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='28'>28</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+My dear Sir,
+</p><p> 
+I cannot refrain from trespassing on your time, by expressing to you the perfect satisfaction, which the 
+people of New England possess, by the operations of the General Government. The unanimity of the Legislature of this State was such, as to overbear all 
+dispositions of a disorganizing nature. Had the Legislature conceived it proper, or Constitutional, they 
+would have expressed their approbation in the highest degree. But they conceived this would be a two-edged sword. <a href='/results.php?tla=jod' rel='colleague met'>Mr. Adams</a>, the Governor, may console himself with his good intentions, but he has no 
+credit for them in the opinion of the wise and enlightened part of his countrymen. 
+</p><p>
+The whole country, from Maryland to New Hampshire inclusively, may be considered as a phalanx of good order and attachment to the administration of 
+the General Government. A conviction of the existence of this disposition, and the most cordial affection to you, must afford you sensations of satisfaction 
+which are inexpressible, especially after the gloomy threatenings of anarchy, which prevailed but in too many places the last summer. May this satisfaction never be clouded for a moment ! 
+</p><p>
+I am, with perfect attachment, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter><letter id="hek4317">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='15'>15</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Possessing, as I do, a thousand evidences of your 
+friendship, I am persuaded that you will readily believe me, -when I say that my silence of late has 
+been the effect of my unwillingness to intrude, lest I 
+should for a moment prevent the consideration and 
+different views you give to the important subjects incessantly before you. 
+</p><p>
+Although the same cause continues to prevent my 
+interruption, yet I am apprehensive sometimes that 
+you may think me unmindful of your kindnesses, 
+especially after the receipt of your affectionate letter 
+by <a href='/results.php?tla=wib' rel='met'>Mr. Bingham</a>, the last summer. The loss of two 
+lovely children, on which you condoled in that letter, 
+has been recently revived and increased by the death 
+of our son, of seven years of age, bearing your name. 
+His health has always been delicate, having been 
+born prematurely. We flattered ourselves that his 
+constitution would mend with his years, but we have 
+been disappointed. Unfortunate, indeed, have we been 
+in the death of eight of our children, requiring the 
+exercise of our whole stock of philosophy and religion. We find ourselves afflicted by an irresistible, 
+but invisible power, to whom we must submit. But 
+the conflict is almost too great for the inconsolable 
+mother, who will go mourning to her grave. 
+</p><p>
+We have lately come from St. George's to pass the 
+winter in this town. Indeed, this is our general plan. 
+We may, however, as we grow older, find it inconvenient. We are distant about two hundred miles by 
+land, which we may easily ride in six days, the snow being on the ground, or with wheels with a little 
+improvement of a small portion of the road. The 
+taverns on the route are as good as on any other 
+two hundred miles on the Continent. 
+</p><p>
+I am beginning to experience the good effects of 
+my residence on my lands. I may truly say that 
+the estate is more than double in its value, since I 
+determined to make it my home. The only inconvenience we experience, is the want of society. This 
+will probably lessen daily. Our communication by 
+water to this town is constant and cheap. We can 
+obtain the transportation of any article from this town 
+to St. George's, cheaper than the same can be carted 
+from any store to the vessel. This egotism would require an apology to any other person than yourself 
+</p><p>
+For your own sake, I rejoice at the near approach 
+of your retirement. In it, I pray God that you may 
+enjoy all the felicity, of which the human condition 
+is susceptible. The consciousness of having acted well, 
+would, under any circumstances, have elevated your 
+soul above the peltings of storms raised by malice 
+and envy But in addition to this consciousness, the 
+consecration of your retirement by the unlimited gratitude of your country, must present, in the decline of 
+your life, the most perfect reward. 
+</p><p>
+I flatter myself, before you leave the helm, you 
+will have dissipated the clouds raised by the causeless jealousy of the French Administration. If not, 
+we must appeal from them, mad and drunk with 
+power as they may be, to the time when they shall 
+have recovered their senses. We have not injured 
+them, but have only taken those due precautions, 
+which our own happiness required. If they madly 
+continue to war against our innocent and rightful 
+commerce, we must make an account thereof, and 
+look for compensation through all the events of ages, 
+and we shall assuredly find it at some period or 
+other, with full interest. But I hope we shall not, 
+under any circumstances, at present, attempt reprisals. 
+Their fit of insanity cannot last long. St. Domingo 
+is, and will be in the course of this winter, the victim of the villany of its Administration. The whites 
+will either he starved or murdered by the blacks. 
+</p><p>
+It cannot be expected that there will be any danger of the French attempting an invasion of our 
+country. But if they should, we must resist. And 
+this appears to be the only case in which we should 
+suffer ourselves to be dragged into the war. What 
+an eventful winter this will be at Paris ! Especially, 
+if the army of Italy should be arrested, or defeated, 
+in addition to the retreat of the two armies of Jourdan and jNIoreau, from Germany. From information 
+generally circulating here, and particularly from , 
+</p><p>
+who has the last autumn arrived from France, in 
+which he resided for several years, no doubt rests in 
+my mind, but the measures of the French Administration towards this country, have been excited by 
+the Americans in Paris, in consequence of letters received from persons of the same opinions in the United States. 
+</p><p>
+I had not intended to intermix any politics in this 
+letter, which I meant solely as the recognition of a 
+grateful heart. But they have thrust themselves in 
+unawares. Mrs. Knox unites with me in presenting 
+our respectful and affectionate attachments to you and 
+Mrs. Washington. And I am, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

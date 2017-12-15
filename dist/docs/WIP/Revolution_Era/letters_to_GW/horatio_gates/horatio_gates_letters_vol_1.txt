@@ -1,0 +1,316 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.yehbkx on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--hog
+--DOC-AUTHOR-FIRST--Horatio
+--DOC-AUTHOR-LAST--Gates
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="hog3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Yesterday I had the honor to receive your Excellency's letter of the 14th instant, which is all I have 
+been favored with since that of the 19th July. I 
+have at length the satisfaction to send a pretty correct general return of the army in this part of the 
+northern district of America. A copy of my last 
+letter to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, which is in the packet, 
+will explain the return to your Excellency. I also 
+inclose my orders and instructions to Lieutenant Whitcomb, who went from hence the 20th instant upon 
+a scout towards St. John s, Chamblee, &c. The report of his last scout, which <a href='/results.php?tla=jsu' rel=''>General Sullivan</a> sent 
+him upon, has already been sent to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, who has doubtless transmitted it to your Excellency. 
+</p><p>
+As the smallpox is now perfectly removed from 
+the army, I shall, in consequence of the intelligence 
+received of the motions of the enemy, immediately 
+assemble my principal strength to maintain this important pass ; and hope General Waterbury, in a 
+week, at farthest, will be able to come with the 
+three row-galleys to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and proceed, the instant they arrive and are fitted, to join General arnold upon the Lake. In the mean time, we are Exerting our utmost industry to fortify this post, a 
+plan of which is inclosed. The weather of late has 
+been so uncommonly wet and stormy for the season, 
+that we are much retarded in our works. As the 
+enemy feel alike the inclemency of the season, I 
+hope we shall be prepared for them when they come. 
+My orders to Brigadier-<a href='/results.php?tla=bea' rel=''>General Arnold</a> your Excellency will find in the packet. lie read and entirely 
+approved them before he left <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. I hope 
+they are the sentiments of your Excellency, and the 
+most Honorable the Congress, upon that momentous 
+command. 
+</p><p>
+As the New Hampshire and Connecticut militia 
+have come without tents, much time is lost, by those 
+regiments, in covering themselves. It happens, very 
+fortunately, that Mount Independence affords an ample supply of huts ; otherwise those corps must soon 
+have felt great distress. The Massachusetts militia 
+are arrived, well supplied with excellent tents, and a 
+sufficiency of good camp utensils. This, in our present circumstances, is a great help to us, and does 
+that Province much honor. 
+</p><p>
+<a href='/results.php?tla=jht' rel=''>Governor Trumbull</a> acquaints me he has forwarded 
+one thousand felling-axes and two loads of clothing. 
+His Excellency has, from the beginning of the misfortunes of this army, done every thing in his power to 
+establish it in health and power. Too much cannot 
+be said in his praise. Your Excellency must, long 
+ere this, have received from <a href='/results.php?tla=pjs' rel=''>General Schuyler</a> the report of Major Bigelow, who returned with the flag of 
+truce from <a href='/results.php?city=isle-aux-noix' rel='city'>Isle-aux-Noix</a>. As I constantly report 
+every extraordinary occurrence to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, 
+I take it for granted there is no delay with him in 
+forwarding them to your Excellency and the congress. I have ordered Commissary A very to forward 
+to Colonel Trumbull the returns and reports that are 
+proper to be made in his department, and Dr. Morgan has, before this, shown your Excellency my letter to him of the 22d instant. 
+</p><p>
+I am pleased . at the account <a href='/results.php?tla=pjs' rel=''>General Schuyler</a> 
+gives me, of five hundred and thirteen thousand dollars being arrived at <a href='/results.php?city=albany' rel='city'>Albany</a> from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. It 
+is much wanted both there and here, as the militia 
+were promised their mileage and billeting-money at 
+Number Four; but no money was sent there to pay 
+them. This neglect caused much murmuring amongst 
+them, and was very near stopping their march from 
+thence. I wish good care was taken not to make 
+any promises to troops but such as are punctually 
+performed. I apprehend this promise was made by 
+the Legislature at <a href='/results.php?city=watertown' rel='city'>Watertown</a>. I have the honor to 
+be, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a rel="day origin" value="22">22</a> <a rel="month origin" value="8">August</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Upon my arrival in this department, I found the main body of the army encamped at Van Schaiek's Islands, which are made by the sprouts of the Mohawk River joining with Hudson's River, nine miles 
+north of <a href='/results.php?city=albany' rel='city'>Albany</a>. A brigade, under General Poor, 
+encamped at London's Ferry, on the south bank of the Mohawk River, five miles from hence, A brigade, 
+under <a href='/results.php?tla=bel' rel=''>General Lincoln</a>, had joined General Stark at Bennington; and a brigade, under <a href='/results.php?tla=bea' rel=''>General Arnold</a>, 
+marched the 15th instant to join the militia of Tryon country, to raise the siege of Fort Stanwix. 
+</p><p>
+Upon my leaving <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, the prospect this 
+way appeared most gloomy, but the severe checks 
+the enemy have met with at Bennington and Tryon 
+county, have given a more pleasing view of public 
+affairs. Particular accounts of the signal victory gained by General Stark, and of the severe blow General Herkimer gave Sir John Johnson and the scalpers 
+under his command, have been transmitted to your 
+Excellency by <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>. I anxiously expect 
+the arrival of an express from <a href='/results.php?tla=bea' rel=''>General Arnold</a>, with 
+an account of the total defeat of the enemy in that 
+quarter. By my calculation, he reached Fort Stanwix 
+the day before yesterday. 
+</p><p>
+Colonels Livingston's and Cortlandt's regiments arrived yesterday, and immediately joined General Poor's 
+division. I shall also order <a href='/results.php?tla=bea' rel=''>General Arnold</a>, upon his 
+return, to march to that post. I cannot sufficiently 
+thank your Excellency for sending Colonel Morgan's 
+corps to this army; they will be of the greatest service to it; for, until the late success this way, I am 
+told the army were quite panic-struck by the Indians, and their Tory and Canadian assassins in Indian 
+dress. Horrible, indeed, have been the cruelties they 
+have wantonly committed upon the miserable inhabit 
+ants, insomuch that all is now fair with <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a>, even if the bloody hatchet he has so barbarously used should find its way into his own head. 
+</p><p>
+<a href='/results.php?tla=gec' rel=''>Governor Clinton</a> will be here to-day. Upon his 
+arrival, I shall consult with him and <a href='/results.php?tla=bel' rel=''>General Lincoln</a> 
+upon the best plan to distress, and I hope finally to 
+defeat the enemy. I am sorry to be necessitated to 
+acquaint your Excellency how neglectfully your orders have been executed at Springfield; not any of 
+the musket ball, or lead, which you ordered so long 
+ago to be sent to this department, is yet arrived, 
+and I am exceedingly distressed for the want of it. 
+Upon my arrival at <a href='/results.php?city=albany' rel='city'>Albany</a>, I despatched an express 
+to Colonel Hughes, with the inclosed return of ordnance stores wanted in this department, and directed 
+what he could not furnish might be immediately ordered to be supplied from Springfield. Few of the 
+militia demanded are yet arrived, but I hear of great 
+numbers upon the march. Your Excellency's advice 
+in regard to Morgan's corps, &c., &c., shall be care 
+fully observed. My scouts and spies inform me, that 
+the enemy's head-quarters and main body are at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, and that they have lately been repairing the 
+bridges between that place and Stillwater. 
+</p><p>
+As soon as times and circumstances will admit, I 
+shall send your Excellency a general return of this 
+army. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, Camp, <a href='/results.php?city=behmus heights' rel='city origin'>Behmus's Heights</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="10"><a rel="month origin" value="11">November</a></a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Since the action of the 19th ultimo, the enemy 
+have kept the ground they occupied the morning of 
+that day, and fortified their camp. The advanced sentries of my pickets are posted within shot, and opposite the enemy s. Neither side have given ground an 
+inch. In this situation, your Excellency would not 
+wish me to part with the corps the army of General 
+Burgoyne are most afraid of. From the best intelligence, he has not more than three weeks provision in 
+store ; it will take him at least eight days to get 
+back to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> ; so that, in a fortnight at farthest, he must decide whether he will rashly risk, at 
+infinite disadvantage, to force my camp, or retreat to 
+his den. In either case, I must have the fairest prospect to be able to reenforce your Excellency, in a 
+more considerable manner than by a single regiment. 
+</p><p>
+I am sorry to repeat to your Excellency the Distress I have suffered for want of a proper supply of 
+musket cartridges from Springfield, or the materials to 
+make them. The inclosed, from the Commissary of 
+Ordnance Stores at <a href='/results.php?city=albany' rel='city'>Albany</a>, will convince your Excellency of the truth of this assertion. My anxiety, also, 
+upon account of provisions has been inexpressible ; a greater error has not been committed this war than 
+the changing the Commissaries in the middle of the campaign. You, Sir, must have your grievances. I. therefore, will not enhance them by enlarging upon mine. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3003">
+<recipient first="Benedict" last="Arnold" type="individual"/>
+<p>
+Upon your arrival at Crown Point, you will proceed with the fleet of the United States under your command, down Lake 
+Champlain, to the narrow pass of the Lake made by the Split 
+Rock, or to the other narrow approach down the Lake, made 
+by Isle-aux-Tetes and the opposite shore. You will station the 
+fleet in the best manner to maintain the possession of those 
+passes, according as your judgment shall determine, cautiously 
+avoiding to place the vessels in a manner, which might unnecessarily expose them to the enemy's heavy artillery from the 
+shore. You will most religiously observe, that it is my positive 
+order that you do not command the fleet to sail below the pass 
+of the Isle-aux-Tetes, above mentioned, incessantly reflecting, 
+that the preventing the enemy's invasion of our country is the 
+ultimate end of the important command with which you are 
+now intrusted. It is a defensive war we are carrying on ; 
+therefore no wanton risk or unnecessary display of the power 
+of the fleet is at any time to influence your conduct. 
+</p><p>
+Should the enemy come up the Lake, and attempt to force 
+their way through the pass you are stationed to defend, in that 
+case you will act with such cool, determined valor, as will 
+give them reason to repent their temerity. But if, contrary to 
+my hope and expectation, their fleet should have so increased 
+as to force an entrance into the upper part of the Lake, then, 
+after you shall have discovered the insufficiency of every effort 
+to retard their progress, you will, in the best manner you can, 
+retire with your squadron to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. Every vessel in the 
+fleet being furnished with a bateau, you will have it in your 
+power to keep out scout-boats at night, and occasionally to annoy the enemy's small craft. In the daytime your boats can 
+act, when opportunity offers, under cover of the cannon of your 
+fleet. 
+</p><p>
+As the most Honorable the Congress of the United States 
+rest a great dependence on your wise and prudent conduct in 
+the management of this fleet, you will on no account detach 
+yourself from it, upon the lesser services above mentioned. A 
+resolute but judicious defence of the northern entrance into this 
+side of the Continent, is the momentous part which is commit 
+ted to your courage and abilities. I doubt not you will secure 
+it from further invasion. 
+</p><p>
+As I am entirely unacquainted with marine affairs, I shall 
+not presume to give any directions respecting the duty and Discipline of the seamen and marines on board the fleet. 
+</p><p>
+I have traced the great outline of that service which your country expects from the rank and character you have acquired. 
+I have, as is my duty, fixed the limits beyond which you are 
+not to go. But you must communicate that restriction to no 
+body. I wish, on the contrary, that words, occasionally dropped 
+from you with that prudence which excludes every sort of affectation, and which I believe you possess, may, together with 
+all your motions, induce our own people to conclude it is our 
+real intention to invade the enemy, which, after all, may hap 
+pen. It will keep up their spirits, without affecting your reputation, whatever may be the event. 
+</p><p>
+It only remains for me to recommend you to the protection 
+of that Power, upon whose mercy we place our hopes of freedom here, and of happiness hereafter. You will frequently report the state and situation of your fleet, and of every interesting occurrence. 
+</p><p>
+Given at <a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, this <a rel="day origin" value="7">7th</a> day of <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>, Major- General. 
+</p>
+</letter><letter id="hog3004">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="10">October</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Monday morning, between eight and nine o clock, our advanced 
+guard-boat, down the Lake, made the signal for the approach of 
+the enemy's fleet. In about one hour, five of their largest boats 
+or gondolas appeared in sight, and a number of troops, Indians, 
+and Canadians, were seen landing upon Three-Mile Point. Soon 
+after, two of the armed boats stood over to the east side of the 
+Lake, inclining upwards, as if sent to reconnoitre. When they 
+came considerably within shot, they were fired upon from two 
+redoubts very near the shore, and by a row-galley which is stationed to cover the boom. They thereupon retired. In the mean 
+time, the enemy's troops were distinctly seen to land upon 
+the back of the Point; and, presently after, thirteen small bateaux and birch canoes crossed from the west to the east side of 
+the Lake into a bay, about four miles below our redoubts. 
+</p><p>
+Upon these threatenings of an attack, our lines, redoubts, and 
+posts were all manned ; and as the motions of the enemy seemed 
+to indicate they were gathering their main force upon the west 
+side of the Lake, as if intending to make their push there, I 
+ordered three regiments (Poor s, Bead s, and Greaton s) from 
+Mount Independence, to reenforce this side. The orders were 
+instantly obeyed, and nothing could exceed the spirit and alertness which were shown by all officers and soldiers in executing 
+every order that was given. About four, in the evening, the 
+boats and canoes that had passed to the west side of the Lake 
+returned, and the enemy were seen plainly to reembark at the 
+Three-Mile Point. I immediately ordered the guard-boat to resume her station ; and, by sunset, it was observed the body of 
+the enemy had retired. 
+</p><p>
+By the information I receive daily, I find that General Carleton continues in his post, and that three large vessels are anchored near Putnam's Point; a little below which, all the light 
+infantry, grenadiers, and a large body of Indians and Canadians, 
+are encamped. Chimney Point and Crown Point are also occupied by the enemy. Yesterday I received the inclosed intelligence from Newbury, Coos. 
+</p><p>
+If Sir John Johnson did actually march at the time he is said 
+to have done it, he must be upon the Mohawk River now; or, if he aims at Fort George, Dayton's regiment cannot be better 
+stationed then there. Surely, your Oneidas will give you all the 
+necessary information upon this head. But how could Sir John 
+get back, if he should meet with a check ? I have seen the Mohawk River fast frozen on the 10th of November. 
+</p><p>
+Colonel Lewis set off yesterday morning by Skene. He has 
+memorandums of our wants, and will be with you as soon as 
+this letter. Colonel Gansevoort writes me for spades. You must 
+answer his demand, for I cannot. 
+</p><p>
+We received the good news you sent us from <a href='/results.php?city=new york' rel='city'>New York</a> with 
+joyful hearts. It was immediately made public to the army, in the manner you advised. I am, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3005">
+<recipient name="the president of congress" type="position"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor to congratulate Congress upon the retreat of Lieutenant-General Sir Guy Carleton, with the fleet and army under his command, from Crown Point, Saturday last. The works being put into the best order, the boom and bridge of communication finished, and every necessary preparative for defence made, I determined to send a detachment down each side 
+of the Lake to beat up the enemy's quarters at their advanced post on Putnam's Point and the opposite shore. About eight at 
+night, the detachment, under the command of Major Delap, proceeded down the east side of the Lake ; and the other, under 
+Colonel Connor, down the west side. Sunday morning, Major Delap, with his detachment, took possession of Putnam's Point, 
+which the enemy had just abandoned, and immediately detached a subaltern, with a small party, to reconnoitre Crown Point. The 
+officer having returned, reported that he saw the enemy embark, a number of their vessels under sail, and the whole preparing to get under way. Colonel Connor, on taking possession of the post 
+opposite to Putnam's Point, found that likewise abandoned. Yesterday an officer, with a party whom I sent to Crown Point, returned and reported he had been at Crown Point, with the 
+inhabitants there; that the enemy were all gone from that post, and the inhabitants would come this day to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, to make their submission, and beg the protection of the United States. 
+</p><p>
+I cannot help observing, here, that the removal of our army from Crown Point to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> was a most fortunate and salutary measure ; for, had it continued at Crown Point after the disaster that befell our fleets, the enemy might have cut off all 
+our resources, by stationing their fleet above the Point. Desperate must then have been the situation of our army. I have the honor to be 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

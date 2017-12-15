@@ -1,0 +1,66 @@
+<letter id="jsu3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Mr DEAR GENERAL, 
+</p><p>
+I had last night the honor of receiving your Excellency's favor of the 1st instant, and impatiently wait 
+your Excellency's sentiments on the steps I have 
+taken since the 29th ultimo, an account of which has 
+been transmitted by Major Morris. 
+</p><p>
+The justice of the observations, in your Excellency's letter, respecting the departure of the French 
+fleet, are so obvious, that, if a consciousness of my 
+duty to yield implicit obedience to your Excellency's 
+commands did not ever make that obedience a plea 
+sure, the reasoning alone must have pointed out 
+the part I have to act. I have the pleasure to in 
+form your Excellency, that, though the first struggles 
+of passion on so important a disappointment were 
+scarcely to be restrained, yet, in a few days, by taking advantage of the subsiding passion, I found means 
+to restore the former harmony between the American 
+and French officers of the army. The <a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a> 
+and myself are in the same friendship as heretofore. 
+The reason of the protest has been explained to him, 
+and he is now perfectly satisfied. He has offered to 
+come on with his land forces, and do every thing 
+which I may request of him and his troops ; but this 
+step has become unnecessary. 
+The reason of drawing the protest was this; The 
+Count himself wished to remain with us, but was, by 
+his Captains, overruled in Council. As deviating from 
+the voice of his Council would be attended with ill 
+consequences to him in case of misfortune, it was 
+supposed that the protest might justify his deviating 
+from the voice of his Council, and acting a part 
+agreeable to his own sentiments, and those of the co 
+operating army. Prudence dictated it as our duty to 
+keep it secret from all but him, your Excellency, 
+and the Congress ; and no publication of it was ever 
+thought of on our part ; and your Excellency may 
+rely on my exertions to prevent it. Every thing in 
+my power shall be done for repairing the injury sustained by the French fleet. 
+</p><p>
+The fleet off <a href='/results.php?city=boston' rel='city'>Boston</a> harbour, of which I gave your Excellency an account yesterday, are eight ships of 
+the line, ten frigates, one sloop, and a schooner. 
+There can be no doubt of its being Lord Howe's fleet, 
+watching the motions of the French fleet, to facilitate 
+the relief of Rhode Island, and perhaps to cover the 
+retreat of the British army from Rhode Island and 
+<a href='/results.php?city=new york' rel='city'>New York</a>, to other places where they are more 
+needed. Those ships were out of sight yesterday 
+morning at eight o clock, but I hear they afterwards 
+hove in sight again. The report here is, that six 
+thousand troops have arrived at <a href='/results.php?city=newport' rel='city'>Newport</a>. I know 
+they are numerous, but cannot as yet ascertain the 
+number. Your Excellency will please transmit a copy 
+of this letter to Congress ; and believe me to be, with 
+every sentiment of gratitude, respect, and esteem, 
+your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

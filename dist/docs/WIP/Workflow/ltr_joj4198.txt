@@ -1,0 +1,102 @@
+<letter id="joj4198">
+<recipient first="Richard" last="Peters" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel="month origin" value="1">Jan.</a><a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1819' rel="origin">1819</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have read your letter of the 12th ult. more than once. 
+Mutuality of friendly feelings always affords gratification ; 
+and the kindness which pervades your letter has made its 
+proper impressions. 
+</p><p>
+As you are in the seventy-fifth year of your age, and I in 
+the seventy- fourth of mine, our leases have expired. We 
+are holding over, and others will soon occupy our places. 
+</p><p>
+What to do, and where to go, would be perplexing questions, had not our beneficent Lessor offered us better and 
+permanent habitations. 
+</p><p>
+The death of an excellent daughter last spring was an 
+afflicting event, and I feel it. Convinced that her happiness 
+was augmented by it, I had no reason to grieve on her account. I derived consolation, as well as resignation, from 
+reflecting that unerring wisdom had directed that dispensation, and that I was still blessed with the surviving children, 
+who (like their sister) had never given me any other uneasiness than what had arisen from their sickness or afflictions. 
+</p><p>
+Considering the times which have passed over us, I am 
+glad you continued in office. Might not reports of some 
+select cases decided in your court be useful 1 And would 
+they not be more correctly prepared for the press by yourself than by others ? 
+</p><p>
+In my opinion, you did well to abstain from speculations. 
+I thought so, and did so. It is, I believe, a just and not a 
+new remark, that a proper education and proper habits, 
+with a moderate share of property, form a better provision 
+for a child, than that greater degree of wealth, which not 
+unfrequently leads the unexperienced to idleness and its 
+results. 
+</p><p>
+I have looked into the book which you had the goodness 
+to send me, and for which I thank you. I have read the 
+address, and the notices for a young farmer. They will do 
+good. Although unable to attend much to my own agricultural affairs, yet books and conversation on such subjects 
+entertain me. I wish I could give you a good account of 
+my Tunisian sheep, but the dogs have put it out of my 
+power. I regret the loss they caused ; but I regret it less 
+than another loss, which more nearly affects my convenience. I allude to the death of a favourite mare, which I 
+had rode for twenty- three years with great satisfaction. 
+She lately died suddenly and unexpectedly, in the twentyninth year of her age. She was the third in succession, 
+which died in my service. The grandam was given to me 
+</p><p>
+by my father in <a href='/results.php?year=1765'>1765</a>. That circumstance associated with 
+various others in attaching me to them. 
+</p><p>
+Agricultural societies arc multiplying in this State. One 
+has been formed in this county, and 1 am the nominal president ; having only the will and not the ability to render 
+active services. They have prepared a representation to 
+the Legislature respecting agriculture, and the expediency 
+oi establishing an agricultural society for the whole State. 
+</p><p>
+The traits of parsimonious and reluctant commendation 
+observable in some of your British letters, give more intelligence than the writers meant to convey. As almost every 
+vagrant leaf we pick up will inform us of the kind of tree 
+which produced it, so these traits discover the feelings 
+which originated them. It is a pity that such feelings should 
+exist; but they are the offspring of human nature, which is 
+not what it should be, nor what it once was. That Britons 
+should reflect on our former and present state and condition, 
+without regret, without mortification, and without apprehensions of rivalry and perhaps of danger, can hardly be 
+expected. A doubt whether Britannia will always "rule 
+the waves," cannot have a welcome reception in her mind. 
+Our rapid progress in trade, navigation, and the arts, cannot 
+correspond with her views and wishes. The strength 
+resulting from our increasing resources and population, 
+recommends a kind of policy and a degree of accommodation not congenial with the temper and propensities of such 
+a nation. Superiors seldom see with complacency inferiors 
+rising towards equality, and by means which may not improbably carry them beyond it. There is, nevertheless, 
+great worth in Britain. 
+</p><p>
+I have not seen <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a>'s Life. As he concurred in the opinion of Count de Vergennes, that we should proceed 
+to treat for peace with Great Britain without a previous 
+admission of our independence, he may, in his own mind, 
+have acquitted the count of the motives to which I ascribed 
+his giving us that opinion ; and also have considered his 
+subsequent explanations on that and certain other topics 
+as satisfactory. After mv return in <a href='/results.php?year=1784'>1784</a>, I was informed 
+of the debate in Congress on the proposed resolution which 
+you mention. In my opinion, <a href='/results.php?tla=mad' rel='colleague'><a href='/results.php?tla=mad' rel='colleague'>Mr. Madison</a></a> voted consistently. I omit explaining this at present, for it cannot be 
+done in a few words. My letter to Congress respecting 
+the negotiation contained a full and correct statement of 
+facts. Many years have since elapsed, but my sentiments 
+relative to the policy adopted by France on that occasion 
+continue unaltered. 
+</p><p>
+But it is time to conclude, and I will do it by thanking 
+you for affording me so agreeable an occasion to assure you 
+of the esteem and regard, with which I continue 
+</p><p>
+Your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

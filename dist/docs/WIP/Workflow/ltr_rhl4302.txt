@@ -1,0 +1,54 @@
+<letter id="rhl4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have the honor to inclose to you an ordinance, 
+that we have just passed in Congress, for establishing 
+a temporary Government beyond the Ohio, as a measure preparatory to the sale of the lands. It seemed 
+necessary, for the security of property among uninformed, and, perhaps, licentious people, as the greater 
+part of those who go there are, that a strong-toned 
+Government should exist, and the rights of property 
+be clearly defined. Our next object is, to consider 
+of a proposition made for the purchase of five or six 
+millions of acres, in order to lessen the domestic debt. 
+An object of much consequence this, since the extinguishment of this part of the public debt would not 
+only relieve from a very heavy burden, but, by demolishing the ocean of public securities, we should 
+stop that mischievous deluge of speculation that now 
+hurts our morals, and extremely injures the public 
+affairs. 
+</p><p>
+Our Gazettes continue to be filled with publications 
+against the Spanish treaty, and for opening the Mississippi; some of them plausible, but generally weak and indecent. This seems to be contending for an 
+object unattainable for many years, and probably never without war, not only with Spain, but most 
+likely with the Bourbon alliance ; and, by such contention, exposing the Government of the United 
+States to a dishonorable acquiescence under the captivity of its citizens and confiscation of their effects by Spain on the Mississippi, or entering prematurely 
+into a destructive war in resentment for such doings ; at the same time discarding the friendship for the 
+enmity of a powerful monarch, and thereby probably losing what we may possess, our share of a commerce 
+that yields annually four or five millions of dollars for codfish only, independent of the flour, and many 
+valuable articles of American production, used in Spain, and not interfering with their own aqueducts; 
+to say nothing of a most lucrative contraband trade from the ocean and on the Mississippi, which a friend 
+might wink at, but which a vigilant and powerful enemy will prevent. It seems to me that North 
+America is going, if we are prudent, to be the entrepot between the East Indies and Spanish America. 
+If to these we could join the settlement of a disputed boundary, and obtain a powerful guaranty therefor, 
+surely such considerations greatly outweigh the farsought apprehension of an alliance of the Kentuckians 
+with the British ; and especially when we consider, that a conduct which will procure the enmity of 
+Spain, will probably force her into the open arms of Great Britain, much to our commercial and political 
+injury. And, after all, if this navigation could be opened, and the benefits be such as are chimerically 
+supposed, it must, in its consequences, depopulate and ruin the old States. 
+</p><p>
+The argument may shortly thus be stated ; — Spain will not agree to the navigation within her limits. 
+Can we force it in twenty-five years ? If we cannot, why risk, for an unattainable object, the loss of valuable objects, and the incurring pernicious consequences ? 
+A candid and impartial consideration of this subject. 
+</p><p>
+must, I think, determine the question without difficulty. But I beg your pardon, Sir, for writing so 
+much on this question, which, I doubt not, but you have fully considered before. 
+</p><p>
+I have the honor to be, with the truest respect 
+and esteem, dear Sir, &c., 
+</p><p>
+<a href="/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.
+</p>
+</letter>

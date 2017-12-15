@@ -1,0 +1,49 @@
+<letter id="jod3557">
+<recipient first="Abigail" last="Adams"/>
+<p>
+Grosvenor Square [<a href='/results.php?city=london' rel='city origin'>London</a>], 	<a rel="day origin" value='25'>25</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THIS moment, returning from Mr. Bridgen's, where 
+I had been to deliver him a letter to you, written 
+this morning, I found your very acceptable favor 
+of the 23d. I am very glad you are so well situated, so much pleased with your journey and present accommodations. Don t be solicitous about me. 
+I shall do very well. If I am cold in the night, and 
+an additional quantity of bed clothes will not answer 
+the purpose of warming me, I will take a virgin to 
+bed with me. Ay ! a virgin. 
+</p><p>
+What ? Oh ! Awful ! what do I read ? 
+</p><p>
+Don t be surprised. Do you know what a virgin 
+is ? Mr. Bridgen brought me acquainted with it this 
+morning. It is a stone bottle, such as you buy with 
+spruce beer and spa water, filled with boiling water, 
+covered over or wrapped up in flannel, and laid at a 
+man's feet in bed. An old man, you see, may com 
+fort himself with such a virgin as much as David did 
+with Abishag, and not give the least jealousy even to 
+his wife, the smallest grief to his children, or any 
+scandal to the world. Tell Mr. Bridgen, when you 
+see him, that I am indebted to him for this important 
+piece of knowledge, which I would not sell for a 
+great deal of money. 
+</p><p>
+Tell Colonel Smith I am half disposed to be almost 
+miffed with him, for going off without giving me his 
+letter about the Indians ; and what completes the mis 
+chief is, that he has all the books locked up in his 
+room. Pray him to write me if it is possible to get 
+at the letter or the books ; both are what I want. My 
+love to Abby Smith and her knight, and to all the 
+party. Mr. Shippen is with you ere now. He was so good as to pick a bone with me once, and Mr. Cutting is very good. We now talk politics all alone, 
+and are much cooler and more rational than when we 
+</p><p>
+dispute in company. 
+</p><p>
+Yours forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

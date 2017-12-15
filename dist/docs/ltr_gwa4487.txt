@@ -1,0 +1,30 @@
+<letter id="gwa4487">
+<recipient first="Chevalier" last="de la Luzerne" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Having been made acquainted by the <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a>, with the design of the Count de Grasse to 
+come to this coast with his fleet, I cannot forbear expressing my ardent wishes, that a body of land forces 
+might also attend this naval armament ; for I am apprehensive, that such a decided superiority of men may 
+not be drawn together by the time Count de Grasse 
+will be here, as to insure our success against the enemy's most important posts. His continuance in these 
+seas may also be limited to a short period ; and the 
+addition of a respectable corps of troops from the West 
+Indies would, in all human probability, terminate the 
+matter very soon in our favor. 
+</p><p>
+If these should likewise be your sentiments, and if 
+this plan should not interfere with the intentions and 
+interest of his Most Christian Majesty elsewhere, I entreat your Excellency, by the first good conveyance, to 
+represent the propriety and necessity of the measure 
+to the commanders in the West Indies ; that by one 
+great and decisive stroke the enemy may be expelled 
+from the continent, and the independence of America 
+established at the approaching negotiation. 
+</p><p>
+I have the honor to be, &c. 
+</p><p>
+</p>
+</letter>

@@ -1,0 +1,40 @@
+<letter id='jds8001'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+Flag-Ship Savannah, Bay of <a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="7">July</a> 	<a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : You will, no doubt, have received the information before this that I have hoisted the flag of the United States at this place, on the 7th instant ; as yet all is quiet and no resistance of any kind has been made. 
+</p><p>
+I immediately sent to <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> a copy of my proclamation to the inhabitants of California, and a summons to surrender forthwith to the American arms the forts, military posts, and stations, under his command, together with all troops, arms, munitions of war, and public property of every description under his control and jurisdiction, with an invitation for him to meet 
+me immediately at this place to enter into articles of capitulation, that himself, officers, soldiers, and the inhabitants of California, may receive assurances of perfect safety to themselves and property. 
+</p><p>
+I have this moment learned, by an Englishman just arrived from <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>, at the 
+Pueblo, that <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> was probably at St. John's last evening, and that you would probably be at the Pueblo at the same time. 
+</p><p>
+I have not as yet received any communication from <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>. 
+</p><p>
+It is thought he will be in to-morrow, or send some communication. This Englishman says 
+that when the general read my proclamation to his troops, he expressed his approbation of it; if he is wise, he will make no resistance. 
+</p><p>
+I have here the frigate Savannah, of fifty-four guns, the sloops of war Cyane and Levant, of twenty-four guns each, armed with 32-pounder long guns, 68-pounder shell guns, and 42-pounder 
+carronades, with a large complement of men, and am every moment in expectation of the arrival of the frigate Congress, with sixty 32-pounder long guns, at this place, and the sloop Erie 
+with long 18's at San Francisco. I am extremely anxious to see you at your earliest convenience; 
+and should <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> consent to enter into a capitulation, it is of the utmost importance 
+that you should be present. I hope, therefore, that you will push on with all possible despatch, or, at any rate, let me hear from you immediately. 
+</p><p>
+<a href="/results.php?tla=jsc" rel="co-worker">Captain Montgomery</a> sent his launch down, which I despatched on the 6th, informing him that I should take possession of this place on the next day in the name of the United States, 
+and sent him a copy of my summons and proclamation, and also orders to take possession of Yerba Buena and the Bay of San Francisco immediately, requesting him to inform you of 
+these facts without delay. I have also sent him three couriers with the same orders (in cipher), which I have no doubt have reached him, and am confident that the flag of the United States is now flying there. 
+</p><p>
+Although I am in expectation of seeing <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>, to enter into satisfactory terms with him, there may be a necessity of one hundred men. well mounted, who are accustomed to 
+riding, to form a force to prevent any further robbing of the farmers' houses, etc., by the Indians. I request you to bring in as many men up to that number with you, or send them on under 
+charge of a trusty person, in case you may be delayed for a day or two. Should you find any Government horses on the road, please bring them in. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=jds" rel="me">John D. Sloat</a>,<br>
+Coommander-in-Chief of the U. S. Naval Forces in the Pacific Ocean, etc. 
+</p><p>
+Captain J. C. Fremont. 
+</p>
+</letter>

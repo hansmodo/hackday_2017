@@ -1,0 +1,19 @@
+<letter id='mad1508'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, December 17th, <a href="/results.php?year=1784">1784</a>. 
+</p><p>
+DEAR SIR 
+</p><p>
+Our progress in the Revisal has been stopped by the waste 
+of time produced by the inveterate and prolix opposition of its 
+adversaries, and the approach of Christmas. The Bill proportioning crimes and punishments was the one at which we stuck, 
+after wading through the most difficult parts of it. A few subsequent bills, however, were excepted from the postponement. 
+Among these was the Bill for establishing Religious freedom, 
+which has got through the House of Delegates without alteration, though not without warm opposition. Mr. Mercer and 
+Mr. Corbin were the principal Combatants against it. 
+</p><p>
+Mr. Jones is well. 
+</p><p>
+With sincerity, I am, your affectionate friend. 
+</p></letter>

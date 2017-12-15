@@ -1,0 +1,69 @@
+<letter id="rom4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='5'>5th</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I must freely acknowledge the justice of your charge 
+against me as a bad correspondent, for the force of truth 
+would convict, were I to deny, and perhaps friendship will 
+hardly bear with palliatives ; but knowing well your attachment to, and practice of sincerity, I shall honestly tell you I 
+did not like to write on political matters, and in what may 
+be called domestic, you had constantly better information 
+than 'twas possible for me to give, having also very ample 
+employment for my time : you will reflect, that all these 
+circumstances combined to make me silent, although not 
+inattentive or forgetful of my friends abroad. 
+</p><p>
+I have three letters from you, dated the 28th May, 16th 
+September, and 19th November last, and feel myself exceedingly indebted to that partiality which prompted you to 
+say many civil things ; these are stamped with an unusual 
+value, not because I sutler myself to think they are merited, 
+but because you thought so. We have heard more of you 
+and Mrs. Jay than these letters tell me, and upon the whole 
+have not found much cause to be pleased with your situation. Hers must too often have been very disagreeable ; 
+the loss of the little one was truly distressing, and your 
+almost constant absence extremely hard. But you must 
+comfort yourselves with the reflection that still more cruel 
+things might have happened, had you remained in your own 
+country. Suppose you had been with your father, when 
+some of the enemy's ruffians broke into the house, and after 
+satiating themselves with plunder, they had carried you, 
+my dear friend, a prisoner to New- York. Think of the 
+triumph of your enemies, the distress of your friends, and 
+what you must, under such circumstances, have suffered : 
+happy that you have escaped such an event, I will not 
+prolong the idea of it. 
+</p><p>
+Our friend <a href='/results.php?tla=gom' rel='friend met colleague'>Gouverneur</a> has acquainted you with my appointment to be superintendant of finance ; the motives of 
+my acceptance are purely patriotic, and I would this moment give much of my property to be excused ; but pressed 
+by my friends, acquaintances, fellow-citizens, and almost 
+by all America, I could not resist. I will therefore most 
+assiduously try to be useful, and if in this I do but succeed, 
+my recompense will be ample. <a href='/results.php?tla=gom' rel='friend met colleague'>Gouverneur</a> and others 
+have promised me the assistance of their abilities. Congress promise support; if the Legislatures and individuals 
+will do the same, we will soon change the face of our 
+affairs, and show our enemies that their hopes of our ruin, 
+through the channel of finance, is as vain as their hope of 
+conquest. 
+</p><p>
+This campaign, as usual, opens to our disadvantage ; but 
+I expect it will also, as usual, close favourably for us. The 
+vices and follies of our enemies may justly be counted 
+among the number of our fast friends. They never fail to 
+work for our relief in the hour of distress ; for at those 
+times the pride, insolence, and tyranny of the British heroes 
+are too insufferable to be borne, even by the peasantry of 
+America. It affords me much pleasure to find the assistance I have given towards delivering supplies at Havannah, 
+is known and approved by the ministry at the court of 
+Madrid; as a favourable impression there may be serviceable to my administration of the finances, and I hope still to 
+return more important services for those T expect from 
+them to this distressed country. Adieu, my dear sir: with 
+sincere affection. I am 
+</p><p>
+Your obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=rom" rel="me">Robert Morris</a>. 
+</p>
+</letter>

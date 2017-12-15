@@ -1,0 +1,15 @@
+<letter id="smd7870">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='21'>21st</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+Miriam and mother are going to <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a> in a few hours, to see if anything can be saved from the 
+general wreck. From the reports of the removal of the Penitentiary machinery, State Library, Washington Statue, etc., we presume that that part of the 
+town yet standing is to be burnt like the rest. I think, though, that mother has delayed too long. 
+However, I dreamed last night that we had saved a great deal, in trunks; and my dreams sometimes 
+come true. Waking with that impression, I was surprised, a few hours after, to hear mother's sudden 
+determination. But I also dreamed I was about to marry a Federal officer ! That was in consequence of 
+having answered the question, whether I would do so, with an emphatic "Yes! if I loved him," which 
+will probably ruin my reputation as a patriot in this parish. Bah! I am no bigot! or fool either. . . . 
+</p><p>
+</letter>

@@ -1,0 +1,63 @@
+<letter id="gec3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have had the honor of receiving your Excellency's letters of the 4th and 6th instant, and am 
+happy in being thereby enabled to give such general 
+assurances of protection to the frontier inhabitants as, 
+I have reason to hope, will prevent their deserting 
+their settlements. This your Excellency may be as 
+sured will be done, with the utmost regard to that 
+secrecy which is necessary to insure success in offensive operations ; and, therefore, the greatest care 
+will be taken not to give them the most remote idea 
+of any such intention. 
+The Legislature, before they adjourned, empowered 
+me to embody one thousand men for the defence of the 
+northern and western frontiers, or such other service 
+as I should judge proper to employ them in. This 
+was the most they conceived the State, under its 
+present distressed situation, was able to raise ; and 
+the greater part of them were intended to join the 
+troops to be employed in defensive operations against 
+the savages. Since the rising of the Legislature, I 
+have received the resolve of Congress for filling up 
+the Continental battalions ; and this will put me under the necessity of taking at least one half of these 
+levies for the purpose, as it would be impracticable 
+to convene the Legislature in season to make any 
+new provision for that service, even though our circumstances would admit of it. 
+</p><p>
+I do not imagine we shall be able to derive any 
+considerable force from the inhabitants, whose settlements have been destroyed. Their losses and consequent distresses are so great, that it requires the ut 
+most industry to support their families ; and the pay 
+in the army, considering the depreciated state of our currency, would not be competent for this purpose. 
+The most of their young men are already engaged in 
+the Continental battalions. Some, however, from a desire of revenge for their losses, will, at all events, 
+engage ; and the neighbourhoods that have been less 
+distressed will furnish a considerable proportion, who, 
+being as well acquainted with the country, will be 
+equally serviceable. 
+</p><p>
+In order to deceive the enemy into a belief that 
+we intend acting on the defensive only, I submit to 
+your Excellency the propriety of erecting one or two 
+small posts on the nearest navigable waters of the 
+Susquehanna, They would not only answer the 
+above purpose, but serve also as a security to the 
+settlements, and, of course, induce the militia to engage in the service with greater alacrity. I am not 
+sufficiently acquainted with the country to determine with certainty the particular places best calculated 
+for such posts ; but, from the general idea I have of 
+the country, I am led to believe that Unadilla, and 
+where the Susquehanna empties out of the Lakes 
+west of Cherry Valley, would be the most eligible. 
+These posts might be maintained by militia, at least 
+while the other troops were employed in offensive 
+operations. I have the honor to be, with the highest esteem and regard, dear Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

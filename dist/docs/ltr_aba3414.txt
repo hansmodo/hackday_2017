@@ -1,0 +1,114 @@
+<letter id="aba3414">
+<recipient first="Lucy" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, (Grosvenor Square,) <a rel="day origin" value="27">27</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1785" rel="origin">1785</a>.
+</p><p>
+MY DEAR LUCY, 
+</p><p>
+I have not yet noticed your obliging favor of April 
+26th, which reached me by Captain Lyde, whilst 
+I was at the Bath Hotel. I had then so much upon 
+my hands, that I did not get time to write but to 
+your mamma and cousin, who I hope is with you 
+before now. By him I wrote many letters, and 
+amongst the number of my friends, my dear Lucy 
+was not omitted. 
+</p><p>
+If I did not believe my friends were partial to all 
+I write, I should sometimes feel discouraged when I 
+take my pen ; for, amongst so large a number of correspondents, I feel at a loss how to supply them all. 
+</p><p>
+It is usual at a large entertainment, to bring the 
+solid food in the first course. The second consists 
+of lighter diet, kickshaws, trifles, whip syllabub, 
+&c. ; the third is the dessert, consisting of the fruits 
+of the season, and sometimes foreign sweetmeats. 
+If it would not be paying my letters too great a 
+compliment to compare any of them to solid food, I 
+should feel no reluctance at keeping up the metaphor with respect to the rest. Yet it is not the 
+studied sentence, nor the elaborate period, which 
+pleases, but the genuine sentiments of the heart expressed with simplicity. All the specimens, which 
+have been handed down to us as models for letterwriting, teach us that natural ease is the greatest 
+beauty of it. It is that native simplicity too, which 
+gives to the Scotch songs a merit superior to all 
+others. My favourite Scotch sons;, " There 's na luck 
+about the house," will naturally occur to your mind. 
+</p><p>
+I believe Richardson has done more towards embellishing the present age, and teaching them the 
+talent of letter-writing, than any other modern I can 
+name. You know I am passionately fond of all his 
+works, even to his " Pamela." In the simplicity of 
+our manners, we judge that many of his descriptions and some of his characters are beyond real life ; 
+but those, who have been conversant in these old corrupted countries, will be soon convinced that Richardson painted only the truth in his abandoned characters ; and nothing beyond what human nature is 
+capable of attaining, and frequently has risen to, 
+in his amiable portraits. Richardson was master of 
+the human heart ; he studied and copied nature ; 
+he has shown the odiousness of vice, and the fatal 
+consequences which result from the practice of it ; 
+he has painted virtue in all her amiable attitudes ; 
+he never loses sight of religion, but points his characters to a future state of restitution as the sure 
+ground of safety to the virtuous, and excludes not 
+hope from the wretched penitent. The oftener I 
+have read his books, and the more I reflect upon his 
+great variety of characters, perfectly well supported, 
+the more I am led to love and admire the author. 
+He must have an abandoned, wicked, and depraved 
+heart, who can be tempted to vice by the perusal of Richardson's works. Indeed, I know not how a 
+person can read them without being made better by 
+them, as they dispose the mind to receive and relish 
+every good and benevolent principle. He may 
+have faults, but they are so few, that they ought not 
+to be named in the brilliant clusters of beauties 
+which ornament his works. The human mind is an 
+active principle, always in search of some gratification ; and those writings which tend to elevate it to 
+the contemplation of truth and virtue, and to teach 
+it that it is capable of rising to higher degrees of 
+excellence than the mere gratification of sensual 
+appetites and passions, contribute to promote its 
+mental pleasures, and to advance the dignity of our 
+natures. Sir Joshua Reynolds's observation with 
+respect to painting may be applied to all those works 
+which tend to refine the taste, " which, if it does not 
+lead directly to purity of manners, obviates, at least, 
+their greatest depravation, by disentangling the mind 
+from appetite, and conducting the thoughts through 
+successive stages of excellence, till that contemplation of universal rectitude and harmony, which began 
+by taste, may, as it is exalted and refined, conclude 
+in virtue." 
+</p><p>
+Why may we not suppose, that, the higher our attainments in knowledge and virtue are here on earth, 
+the more nearly we assimilate ourselves to that 
+order of hemes who now rank above us in the world 
+of spirits ? We are told in Scripture, that there are 
+different kinds of glory, and that one star differeth 
+from another. Why should not those who have distinguished themselves by superior excellence over 
+their fellow-mortals continue to preserve their rank 
+when admitted to the kingdom of the just ? Though 
+the estimation of worth may be very different in the 
+view of the righteous Judge of the world from that 
+which vain man esteems such on earth, yet we may 
+rest assured that justice will be strictly administered 
+to us. 
+</p><p>
+But whither has my imagination wandered ? Very 
+distant from my thoughts when I first took my pen. 
+</p><p>
+We have a large company to dine with us to-day, 
+and I have some few arrangements to make before 
+dinner, which obliges me to hasten to a conclusion ; 
+among the persons invited, is a gentleman who married the only daughter of Richardson. She died 
+about six months ago. This gentleman has in his 
+possession the only portrait of her father which was 
+ever taken. He has several times invited me to go 
+to his house and see it. I design it, though I have 
+not yet accepted his invitation. 
+</p><p>
+Write to me, my dear Lucy, and be assured I 
+speak the words of truth and soberness when I tell 
+you that your letters give real pleasure to 
+</p><p>
+Your affectionate aunt, 
+</p><p>
+A. A. 
+</p>
+</letter>

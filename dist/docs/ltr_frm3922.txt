@@ -1,0 +1,17 @@
+<letter id="frm3922">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Since you left me, Mr. Dewees has shown me the bill for the goods 
+you mentioned to me this morning. You will procure as much rough 
+rice as will pay the amount, giving a receipt for it on the public ac 
+count, and shall be glad you would send the goods to Capt. Roux. 
+You will give what you think is a reasonable profit. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

@@ -1,0 +1,34 @@
+<letter id='mad1572'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, May 27, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+DEAR SIR, I have put off, from day to day, writing to my 
+friends from this place, in hopes of being able to say something 
+of the Convention. Contrary to every previous calculation, the 
+bare quorum of seven States was not made up till the day before yesterday. The States composing it are <a href="/results.php?city=new york" rel="city">New York</a>, New 
+Jersey, Pennsylvania, Delaware, Virginia, North Carolina,' and 
+South Carolina. Individual members are here from Massachusetts, Maryland, and Georgia, and our intelligence promises a 
+complete addition of the first and last, as also of Connecticut, 
+by to-morrow. <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> was called to the chair 
+by a unanimous voice, and has accepted it. The secretary is a 
+Major Jackson. This is all that has yet been done, except the 
+appointment of a committee for preparing the rules by which 
+the Convention is to be governed in their proceedings. A few 
+days will now furnish some data for calculating the probable 
+result of the meeting. In general, the members seem to accord 
+in viewing our situation as peculiarly critical, and on being 
+averse to temporizing expedients. I wish they may as readily 
+agree when particulars are brought forward. Congress are 
+reduced to five or six States, and are not likely to do anything 
+during the term of the Convention. 
+</p><p>
+A packet has lately arrived from France, but brings no news. 
+</p><p>
+I learnt with great pleasure, by the Governor, that you continued to enjoy a comfortable degree of health, and heartily 
+wish this may find it still further confirmed; being, with sincere 
+affection and the highest esteem, 
+</p><p>
+Your obed. friend and serv.
+</p>
+</letter>

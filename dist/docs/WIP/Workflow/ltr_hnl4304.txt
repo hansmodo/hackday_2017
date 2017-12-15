@@ -1,0 +1,65 @@
+<letter id="hnl4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I had the pleasure of hearing from you last week, 
+and have complied with your wishes respecting the 
+china. No conveyance at present offers for <a href='/results.php?city=alexandria' rel='city'>Alexandria</a> ; but every day presents one to Norfolk, from 
+which place the correspondence up your river is frequent. I intend, unless I should meet with a vessel 
+for Potomac, to send the box to Colonel Parker, naval 
+officer at Norfolk, and ask his special attention to 
+forwarding it to <a href='/results.php?city=alexandria' rel='city'>Alexandria</a> or <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>. At the 
+same time, I will send a small box put into my care 
+by Mr. Gardoqui. I have had it some time, and 
+wanted to know your intention as to the china, that 
+the same conveyance might take both. If you have 
+an opportunity to convey my Young (as the books 
+are useless to you) to Mr. R. H. Lee, you will oblige 
+me by doing it. 
+</p><p>
+The Mississippi business is very important, and 
+full of difficulty. In the debilitated condition of the 
+Federal Government, it is unwise to wish the offence 
+of any part of the empire, unless to attain great 
+good. My mind has no doubt of the extensive good 
+consequences that would result to the Union from a 
+commercial connection with Spain ; and I am also 
+clear that, in agreeing to the occlusion of the navigation of the Mississippi, we give in fact nothing; for, 
+the moment our western country becomes populous 
+and capable, they will seize by force what may have 
+been yielded by treaty. Till that period, the river 
+cannot be used but by permission of Spain, whose 
+exclusive system of policy never will grant such permission. Then, to be sure, we only give what we 
+cannot use. But the source of all the evils which 
+press these States, is the inefficiency of the Federal 
+Government. This cannot he altered and remedied, 
+but by consent of the States. Already, in every 
+State, the amplification of the powers of the Union 
+has too many enemies. Should, therefore, a treaty 
+take place between Congress and Spain, occluding 
+for a term the navigation of the Mississippi, in return 
+for advantages very great, but not so great to the 
+whole as to a part, I apprehend it would give such 
+a text for popular declaimers, that the great object, 
+namely, bracing the Federal Government, may be 
+thwarted, and thus, in pursuing a lesser, we lose a 
+greater good. 
+</p><p>
+I forwarded, by the last post, for public information, 
+some intelligence lately received from <a href='/results.php?tla=thj' rel=''>Mr. Jefferson</a> ; 
+and I have also sent an extract of a letter from Mr. Kendall, from Algiers. These two papers comprehend 
+all the news here. I transmit the Gazette of the day. 
+Bills on London, at sixty days' sight, fluctuate in their 
+value from six to seven per cent, premium. The cost 
+of the china is one hundred and fifty dollars, besides 
+the incidental charge of freight to Norfolk, which cannot be much. My best wishes for the health and 
+happiness of <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, in which Mrs. Lee unites. 
+</p><p>
+Most respectfully yours, 
+</p><p>
+<a href="/results.php?tla=hnl" rel="me">Henry Lee</a>.
+</p>
+</letter>

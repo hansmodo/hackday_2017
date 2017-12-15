@@ -1,0 +1,29 @@
+<letter id="nib5229">
+<recipient first="Samuel" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="1">Jan'y</a> <a rel='day origin' value='5'>5</a>. <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+Dear Sir 
+</p><p>
+I have had the pleasure of receiving your letter of the 2d inst, in which you mention your being about to make 
+a favorable report on the nomination of Directors of the B. U. S, but wished previously to know "what amount of 
+accommodation had been granted to each by way of discount." I feel some regret at declining to answer any inquiry 
+of yours and as you know have given full &amp; frank in formation on every topic connected with the administration 
+of the Bank. But a question involving the private affairs of my colleagues is of a totally different character. The account 
+which any individual keeps with the Bank is a private con 
+cern between him &amp; the Bank of which it would be a violation of confidence to speak. The information sought more 
+over would be useless unless its tendency was to show that the individual had borrowed too much a fact which would 
+tend to prove not merely the want of personal independence 
+on the part of the borrower, but also fix on the Board of Directors the imputation of suffering him to borrow too much 
+to neither of which could I with propriety give countenance without a departure from that course of delicacy in 
+regard to the private concerns of individuals which I think due equally to them &amp; to myself. My feeling on that subject 
+is very strong. I have for instance been a director of the Bank for nine years I have been its presiding officer for six years. 
+I have never borrowed a dollar from the Bank x &amp; trust that I never shall. And yet if it were made a question whether I 
+had borrowed one dollar or one million of dollars I would not answer the enquiry, to be made President of the U.S. be 
+cause it goes to establish an inquisition into the private affairs of individuals which is equally unjust &amp; invidious. I do 
+not think myself at liberty therefore to state any thing with regard to those who keep their accounts in the Bank. . . . 
+</p><p>
+P.S. We have just made a dividend of 3^ per cent with a surplus on our last six months business of more than $100,000 
+so that the operations of the year close with a dividend of 7 per cent &amp; a surplus of profits of $224,000. 
+</p>
+</letter>

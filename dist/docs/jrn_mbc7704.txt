@@ -1,0 +1,14 @@
+<letter id="mbc7704">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Saw in Mrs. Howell's room the little negro <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> rescued yesterday from his brutal negro 
+guardian. The child is an orphan. He was dressed up in little Joe's clothes and happy as a lord. He was very anxious to show me his wounds and bruises, but I fled. There are some things in life too sickening, and cruelty is one of them. 
+</p><p>
+Somebody said : People who knew <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a> before the war said there was nothing in him. As for losing 
+his property by the war, some say he never had any, and that West Point is a pauper's school, after all. He has only military glory, and that he has gained since the war began. 
+</p><p>
+" Now," said Burton Harrison, " only military glory! I like that ! The glory and the fame he has gained during 
+the war that is <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a>. What was Napoleon before Toulon <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> has the impassive dignity of an Indian chief. He has 
+always a little court around him of devoted friends. Wigfall, himself, has said he could not get within <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> lines. 
+</p>
+</letter>

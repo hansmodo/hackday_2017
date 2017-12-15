@@ -1,0 +1,32 @@
+<letter id="jol4901">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, near the Cross Roads, 
+</p><p>
+	<a rel='day origin' value='13'>13th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+We moved to this place on the 10th hist. Here we received the account from Synnepuxent, and remain 
+at fault till some more particular accounts of the motions of the enemy enable me to judge of their designs. 
+In the meantime our soldiers are recruiting in a plentiful country, as well as strong drink and women will permit them. 
+</p><p>
+These impediments, however, to their laying in a stock of good health are not so general as might be expected in an army situated as ours is. 
+</p><p>
+The men are exercised in smaller or greater numbers 
+every day. The country people bring in a plenty of 
+vegetables, &c. and we hear very few complaints 
+from those immediately about us of the violations of 
+private property. We are all anxious to hear some 
+thing that will give us employment of a different kind 
+</p><p>
+from that which we have at present. My best regards 
+to all our friends, and I remain ever 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I have no prospect yet of horses or servant, 
+</p>
+</letter>

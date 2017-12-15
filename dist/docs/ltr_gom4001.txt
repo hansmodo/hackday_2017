@@ -1,0 +1,73 @@
+<letter id="gom4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR Jay, 
+</p><p>
+I won't dispute who has written most. I have written more than twice what you acknowledge to have received, but this is of no consequence. 
+</p><p>
+I am sorry for your session, but I wished you had marked out what taxes have been laid, what salaries given, and a 
+few more striking outlines of legislation. These, with what I know of your men, would have enabled me to imagine proper lights and shades. 
+</p><p>
+I choose that my friends should write freely, and those 
+who know me must know that such freedoms need no 
+apology. I never thought the person you allude to so 
+steady as could be wished. We have all of us our weak 
+sides ; would to God that were the worst. 
+</p><p>
+What you mention relative to our plan of rights shall be 
+attended to. I am a busy man, though, as heretofore, a 
+pleasurable one. 
+</p><p>
+Let your governor cleanse the Augean stable in his State, 
+which no public body would do though it stink under their 
+noses. I am labouring at arrangements of various kinds. 
+God prosper me, and give me patience and industry. It 
+was a good wish from one who knew my wants. 
+</p><p>
+We have ordered troops from the highlands, but we will 
+send thither a general, who shall be empowered to call forth 
+the swarms of the eastern hive. Men were necessary at 
+the <a href='/results.php?city=valley forge' rel='city'>Valley Forge</a>. I have a good knack at guessing. I 
+guess the enemy won't attempt Hudson River. 
+</p><p>
+I do think of Vermont : and unless I mistake, matters 
+shall be managed to effect, without bellowing in the forum, 
+which I believe hath been a little too much the case. But 
+why should I blame impetuous vivacity, — hath it never led 
+me into an error ? 
+</p><p>
+<a href="/results.php?tla=isp" rel="">Putnam</a> will soon be tried. The affair of <a href="/results.php?tla=pjs" rel="">Schuyler</a> and <a href="/results.php?tla=arc" rel="">St. Clair</a> laboured under awkward circumstances. Their 
+friends and their enemies appear to me to have been equally 
+blind. I enclose extracts from the minutes made the other 
+night to possess myself of the real state of facts. There are 
+some other entries from time to time. It was erroneous to 
+order a committee simply to collect facts ; they should have 
+been directed to state charges. This morning, my colleague 
+being absent, I got a committee appointed for the latter 
+purpose : Sherman, Dana (Massachusetts), and <a href="/results.php?tla=wid" rel="">Drayton</a> (South Carolina). This was unanimous, and yet I would 
+have undertaken to argue for it in a style which would absolutely have ruined the measure. You know it would have 
+been easy to say, justice to those injured gentlemen, instead 
+of justice to an injured country requires, &c. 
+</p><p>
+Great Britain seriously means to treat. Our affairs are 
+most critical, though not dangerously so. If the minister 
+from France were present as well as him from England, I 
+am a blind politician if the thirteen States (with their extended territory), would not be in peaceable possession of 
+their independence three months from this day. As it is, 
+expect a long war. I believe it will not require such astonishing efforts after this campaign to keep the enemy at bay. 
+Probably a treaty is signed with the house of Bourbon ere 
+this ; if so, a spark hath fallen upon the train which is to 
+fire the world. Ye gods ! what havoc doth ambition make 
+among your works. 
+My dear friend, adieu. My love to your wife, Remember me to all my friends of every rank" and sex. 
+</p><p>
+I am yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p><p>
+P.S. I meant to have said, the present is within the 
+spirit of our constitution, a special occasion. 
+</p>
+</letter>

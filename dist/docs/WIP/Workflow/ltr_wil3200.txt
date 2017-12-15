@@ -1,0 +1,46 @@
+<letter id="wil3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have received your Excellency's favor of the 14th 
+instant, this day, and that of the 4th, a few days 
+since. 
+</p><p>
+It would give me pleasure to consent to let three troops of Jersey horse enter into the Continental service till the opening of the next campaign, as it 
+would not only give me an opportunity of obliging 
+your Excellency, but would be of service to the troops 
+in acquiring skill and experience, which they would 
+afterwards introduce into our other squadrons. But, 
+from our present situation, I think we could not spare 
+more than one. 
+</p><p>
+With your request of the 14th I shall comply, as 
+far as possible, and endeavour to procure, to-morrow,a resolution of both Houses to authorize the President and Council of Safety to impress wagons for a 
+limited time. But these,, Sir, are very temporary expedients. It is impossible for this State to cure the 
+blunders of those whose business it is to provide the 
+army ; and, considering what New Jersey has suffered 
+by the war, I am pretty certain it cannot hold out 
+another year, if the rest will not furnish their pro 
+portionable share of provisions ; and, for my own part, 
+though I would rather spend the remainder of my 
+days in a wigwam at Lake Erie, than be the most 
+splendid vassal of any arbitrary prince on earth, I 
+am so discouraged by our public mismanagement, and 
+the additional load of business thrown upon me by 
+the villany of those who pursue nothing but accumulating fortunes to the ruin of their country, that I 
+almost sink under it. I do not say this, Sir, to discourage you from applying to me at any time for 
+any thing that is in my power to do, assuring you 
+that it always gives me particular pleasure to contribute in the least to alleviate that burden of yours, to 
+which mine does not deserve to be compared. 
+</p><p>
+I shall pursue the plan, pointed out by the Committee of Congress, for procuring horses. I am, with 
+the greatest esteem, 
+</p><p>
+Your Excellency's most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wil" rel="me">WILLIAM LIVINGSTON</a>. 
+</p>
+</letter>

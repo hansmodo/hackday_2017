@@ -1,0 +1,57 @@
+<letter id="nag3712">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pedee' rel='city origin'>Camp, on Pedee</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+In my despatches of the 29th ultimo, I did myself 
+the honor to acquaint your Excellency with the disposition I had made to counteract the movements of 
+the enemy, and to protect the country from their depredations. 
+</p><p>
+Lord Cornwallis continued at Weymsborough, making every preparation, and completely equipping his 
+troops for the most active operations, until the 9th 
+instant ; when, having been joined by the troops under General Leslie, he put his army in motion, and 
+advanced as far as the Cross Roads, on the west side 
+of the Catawba river, and about forty miles from Camden. The position which Brigadier- General Morgan 
+occupies, was well chosen for harassing the left flank, 
+and checking the progress of the enemy on the route 
+they had taken for the execution of their plan of 
+operations. This, I suppose, induced his Lordship, on 
+the 11th, to detach Lieutenant-Colonel Tarleton to dislodge him, and disperse the few militia who were 
+collecting. 
+</p><p>
+I have the satisfaction to transmit your Excellency 
+a copy of a letter which I this moment received from 
+Brigadier-General Morgan, announcing the total defeat 
+of Lieutenant-Colonel Tarleton's detachment. The victory was complete, and the action glorious. The brilliancy and success with which it was fought does the 
+highest honor to the American arms, and adds splendor to the character of the General and his officers. 
+I must beg leave to recommend them to your Excellency's notice, and doubt not, but from your representation, Congress ill receive pleasure from testifying their approbation of their conduct. 
+</p><p>
+<a href='/results.php?tla=anp' rel='colleague met'>Colonel Pickens</a> was left on the ground, to relieve 
+the wounded and to cover that part of the country. 
+I am unhappy that the distressed situation of this 
+army will not admit of our improving the advantage 
+we have gained. But I hope it has given the enemy 
+a check that will prevent their advancing for some 
+days. Our supplies of provisions are growing more 
+precarious ; and the other stores, which I can only 
+look for from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, do not arrive in such 
+quantities as to replace those which are daily destroyed in service, I have appointed Major Hyrne, 
+Deputy Commissary-General of Prisoners for the 
+Southern department, and ordered him to send all the 
+prisoners of war to Virginia, The militia, under General Stephens, will take charge of them, as their time 
+of service has already expired. 
+</p><p>
+I have directed Major-General the <a href='/results.php?tla=frs' rel='colleague'>Baron De Steuben</a> to transmit to Congress and to your Excellency, 
+regular reports of the operations in Virginia. I do 
+myself the honor to inclose a copy of my letter to 
+Congress respecting the action of the 17th instant. 
+I am. with sentiments of the most perfect esteem and 
+respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

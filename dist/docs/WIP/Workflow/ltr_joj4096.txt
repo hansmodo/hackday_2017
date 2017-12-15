@@ -1,0 +1,90 @@
+<letter id="joj4096">
+<recipient first="Gilbert Du Motier" last="Lafayette" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='10'>10th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+During your absence from France, I omitted being so 
+regular in my correspondence as I should otherwise have 
+been. I have been honoured with your letters of the 18th 
+April, and 6th September in the last year, and with one of 
+11th February last. They were all communicated to Congress. 
+</p><p>
+The account of your German excursion is concise and 
+interesting. The sentiments and opinions respecting the 
+United States and American affairs, which you found there 
+prevailing, appear to me very natural. Successful revolutions and victorious arms have always a degree of splendour 
+about them, which shines at a great distance, and excites 
+admiration, whether well or ill founded. Few have been 
+at the pains of examining and understanding the merits of 
+the case between Great Britain and us, and nine-tenths of 
+that few have taken their sides less from conviction and 
+opinion of right, than from some of the many other more 
+common and more stimulating motives, which usually govern the declarations and conduct of the mass of mankind. 
+It is equally natural that reports to our disadvantage, composed of such proportions of truth and falsehood as might 
+render them probable and palatable, should be generally 
+diffused and believed. There are very few States, and 
+very few ministers in them, who think it convenient to 
+magnify America either by word or deed. Politicians, like 
+critics, are often more disposed to censure than to commend the works of others, and patriotic manoeuvres pro 
+bono publico, like pious frauds pro salute animarum, were 
+never uncommon. As there is, and always was, and will 
+be, an actual though involuntary coalition between the men 
+of too much art, and the men of too little; so they who 
+either officially or from choice fabricate opinions for other 
+people's use, will always find many to receive and be influenced by them. Thus, errors proceeding from the invention of designing men, are very frequently adopted and 
+cherished by others who mistake them for truths. It must 
+be easy for the maritime nations to make the rest of Europe 
+believe almost what they please of this country for some 
+years yet to come, and I shall be much mistaken if fame 
+should soon do us justice, especially as her trumpet is, in 
+many places, employed and hired for other purposes. 
+</p><p>
+Whence it happens, I know not, but so the fact is, that I 
+have scarcely met with six foreigners in the course of my 
+life, who really understood American affairs. The cause 
+of truth will probably be little indebted to their memoirs 
+and representations ; and when I consider what mistakes arc committed by writers on American subjects, I 
+suspect the histories of other countries contain but very 
+imperfect accounts of them. 
+</p><p>
+I can easily conceive that, at the German courts you 
+visited, you have done us service ; because I know how 
+able, as well as how willing, you are to do it. I wish all 
+who speak and write of us were equally well-informed and 
+well-disposed. It is a common remark in this country, 
+that wherever you go, you do us good. For my part, I 
+give you credit, not merely for doing us good, but also for 
+doing it uniformly, constantly, and upon system. 
+</p><p>
+Do you recollect your letter of the 2d March, <a href='/results.php?year=1783'>1783</a>, containing what passed between you and Count de Florida 
+Blanca, respecting our western limits? I communicated 
+that part of it some months ago to Mr. Gardoqui, in opposition to his pretensions and claims. He lately told me 
+you had mistaken the count, for that he never meant to convey to you any thing like a dereliction of those claims : 
+which, by-the-bye, are too extensive to be admitted. In a 
+word, they do not mean to be restricted to the limits established between Britain and us. Why should people, who 
+have so much more territory than they know what to do 
+with, he so solicitous to acquire more? 
+</p><p>
+The moneys due by the United States to subjects of 
+France have given occasion to applications by Mr. Marbois, and to reports on them by the board of treasury, 
+which are now under the consideration of Congress. You, 
+my dear sir, are not unacquainted with the state of our 
+finances, nor with the difficulties resulting from the inefficiency of our federal government. Time and more experience must and will cure these evils; when or how is less 
+certain, and can only be conjectured. 
+</p><p>
+I had the honour, last summer, of writing a letter to the 
+marchioness, in answer to one she was so obliging as to 
+favour me with ; did it ever come to hand? Mrs. Jay 
+writes to her by this conveyance. We and many others 
+are pleased with the expectation of seeing you both here, 
+and with the opportunity we shall then have of personally 
+assuring you of our esteem and attachment. 
+</p><p>
+I am, dear sir, 
+Your all'ectionate and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

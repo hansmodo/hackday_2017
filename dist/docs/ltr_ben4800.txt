@@ -1,0 +1,32 @@
+<letter id="ben4800">
+<recipient first="James" last="Bowdoin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="2">Feb.</a> <a rel='day origin' value='5'>5</a>. <a href='/results.php?year=1771' rel="origin">1771</a> 
+</p><p>
+DEAR SIR 
+</p><p>
+I am very sensible of the honour done me by your House of 
+Representatives, in appointing me their Agent here. It will 
+make me extreamly happy, if I can render them any valuable 
+Service. I have had several Conferences with Mr. Bollan 
+on their Affairs. 
+</p><p>
+There is a good Understanding between us which I shall 
+endeavour to cultivate. At present the Cloud, that threatened our Charter Liberties, seems to be blown over. In 
+time, I hope harmony will be restored between the two 
+Countries, by leaving us in the full possession and enjoyment 
+of our Rights. 
+</p><p>
+It will be a great pleasure to me if I can be any way useful 
+to your Son while he stays in England ; being with the greatest 
+Esteem and Respect for you and Mrs. Bowdoin, dear Sir, 
+Your most obedient & most humble Servant 
+</p><p>
+B. FRANKLIN. 
+</p><p>
+P. S. Inclos'd I send you a Copy of an original Paper of 
+some curiosity now in my hands. The first part, i.e. the 
+Queries you will find in the papers pertaining to the Governor's 
+History, but not the Abstract or state given with them to <a href='/results.php?tla=edp' rel=''>Mr. Randolph</a>. 
+</p>
+</letter>

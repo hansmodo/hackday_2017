@@ -1,0 +1,68 @@
+<letter id="joj4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel='day origin' value='13'>13</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My letter to <a href='/results.php?tla=edp' rel='colleague'>Mr. Randolph</a>, which accompanies this, 
+contains very full and accurate information respecting 
+our negotiations here. You will perceive that many 
+parts are under consideration, and that alterations will 
+probably yet take place in several articles. Although 
+it is uncertain, yet it is not altogether improbable, 
+that <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a> and myself may agree on terms 
+which, in my opinion, should not be rejected. In that 
+case I shall be strongly induced to conclude, rather 
+than, by delays, risk a change of views and measures 
+or Ministers, which unforeseen circumstances might 
+occasion. 
+</p><p>
+The Secretary's letter by <a href='/results.php?tla=jam' rel='colleague'>Mr. Monroe</a>, and the 
+speech of the latter to the Convention, are printed; 
+and have caused a disagreeable sensation in the public mind here, and probably in that of the Government. The one written by you is spoken of as being 
+within the limits of diplomatic forms. Gentlemen, 
+whether in or out of office, are doubtless free in their 
+personal affections or predilections for persons or nations. But, as the situation of the United States is 
+neutral, so also should be their language to the belligerent powers. Neither can it be proper to adopt 
+any mode of pleasing one party, that would naturally 
+be offensive to the other ; and more particularly at a 
+time when, with that other, a negotiation for peace, 
+commerce, and friendship is pending. To be fair, 
+upright, and prudent, is to be politic ; and of the 
+truth of this maxim, your character, and very singular degree of respectability, weight, and reputation, 
+afford the strongest proof 
+</p><p>
+I learn that Virginia is escheating British property ; 
+and I hear of other occurrences that I regret. But 
+they shall not abate my perseverance in endeavouring to preserve peace, and bring the negotiation to 
+such a conclusion as will either insure peace with 
+this country, or produce union among ourselves in 
+prosecuting war against it. Whatever may be the 
+issue, I am determined not to lose the only satisfaction that I can be sure of; namely, the satisfaction 
+resulting from a consciousness of having done my 
+duty. That attempts will be made, in America, to 
+frustrate this negotiation, I have not the most distant 
+shadow of a doubt. I brought that belief and opinion 
+with me; and my dependence then was, and still is, 
+on the wisdom, firmness, and integrity of the Government ; on the general good sense of our people ; and 
+on those enlightened and virtuous characters among 
+them, who regard the peace, honor, and welfare of 
+their country as primary objects. These men regret 
+the differences which subsist between this country and 
+their own ; and sincerely desire to see mutual animosities give way to mutual good will. As to a political connection with any country, I hope it will never 
+be judged necessary; for I very much doubt whether 
+it would ultimately be found useful. On the contrary, 
+it would, in my opinion, introduce foreign influence, 
+which I consider as the worst of political plagues. 
+With the best wishes for your health and happiness, 
+and with perfect respect, esteem and attachment, I 
+am, dear Sir, 
+</p><p>
+Your most obedient, and obliged servant, 
+</p><p>
+John Jay. 
+</p>
+</letter>

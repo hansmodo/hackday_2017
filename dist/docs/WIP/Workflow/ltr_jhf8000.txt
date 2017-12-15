@@ -1,0 +1,21 @@
+<letter id='jhf8000'>
+<recipient first='Thomas' last='Larkin' type='individual'/>
+<p>
+<a rel="month origin" value="3">March</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. [<a href="/results.php?city=hawk's peak" rel='city origin'>Hawks Peak</a> between Monterey and the Salinas Plains]
+</p><p>
+MY DEAR SIR : I this moment received your letters, and without waiting to read them, acknowledge the receipt, which the courier requires, immediately. 
+</p><p>
+I am making myself as strong as possible, in the intention that if we are unjustly attacked, we will 
+fight to extremity, and refuse quarter trusting to our country to avenge our death. No one has reached 
+our camp, and from the heights we are able to see the troops (with the glass) mustering at St. John's 
+and preparing cannon. I thank you for your kindness and good wishes, and would write more at 
+length as to my intentions, did I not fear that my letter would be intercepted. We have in no wise 
+done wrong to the people or the authorities of the country, and if we are hemmed in and assaulted here, we will die every man of us, under the flag of our country. 
+</p><p>
+Very truly yours, 
+</p><p>
+<a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>.
+</p><p>
+	P.S. I am encamped on the top of the Sierra, at teh headwaters of a stream which strikes the road to Monterey at the house of Don Joaquin Gomes. 
+	</p>	
+</letter>

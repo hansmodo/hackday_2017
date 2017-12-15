@@ -1,0 +1,11 @@
+<letter id="tip4960">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>BEDFORD</a> [N. Y.], <a rel="month origin" value="1">January</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+Yesterday I walked from Danbury to this place twenty long miles in company with Mr. Cabot and two other 
+gentlemen. I am now within about six miles of our head quarters at North Castle, where, I am here informed, <a href='/results.php?tla=wih' rel=''>General Heath</a> is arrived, and is to command. My regiment, 
+with a number of other Massachusetts regiments, are ordered to North Castle. In my next, perhaps, I shall be able to tell 
+you something of our operations. God grant us success, and restore me with honor to my beloved. 
+</p>
+</letter>

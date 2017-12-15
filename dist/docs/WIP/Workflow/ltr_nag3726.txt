@@ -1,0 +1,68 @@
+<letter id="nag3726">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your Excellency's letters of the 16th, 24th, and 
+30th of October, containing an account of the operations of the combined army, afford me the highest satisfaction; and I beg leave to congratulate your Excellency again upon this important and happy event. 
+I contemplate its advantages with infinite satisfaction, 
+and feel a relief upon the occasion that is difficult to 
+express. <a href='/results.php?tla=cdr' rel='colleague'>Count Rochambeau</a>'s stay in Virginia, and 
+the march of <a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a>, if he arrives speedily, 
+I am in hopes will place us upon an eligible footing. 
+The reduction of <a href='/results.php?city=charleston' rel='city'>Charleston</a> is an event much to be 
+wished ; but to be able to cover the country and 
+confine the enemy to that place, will be a great object. However, I am not without my apprehensions 
+that Sir Henry Clinton will endeavour to push some 
+vigorous operations in this quarter this "winter, to 
+efface, if possible, their late losses, hoth here and in 
+Virginia. General Leslie is arrived to take command 
+here, and it is said reenforcements are expected. I 
+have sent one of my Aids to hasten the march of 
+<a href='/results.php?tla=arc' rel='colleague'>General St. Clair</a> ; and, as Wilmington is evacuated, 
+there is nothing to prevent an immediate junction. 
+After which, if the enemy's reenforcements are not 
+very large, they shall purchase their advantages at 
+an expensive rate. 
+</p><p>
+I would have made a return immediately of the 
+prisoners of war in this department, but Major Hyrne, 
+the Commissary of Prisoners, has lately met with an 
+unhappy fall, which has disqualified him for business 
+by disordering his understanding, from which I am 
+not a little apprehensive he will never recover. As 
+soon as it can be done by another hand, it shall be 
+forwarded. But, before a general exchange is gone 
+fully into, I wish something decisive may be done 
+respecting Colonel Hayne. As retaliation necessarily 
+involves the whole Continent, I wish your Excellency's order, and the order of Congress, thereon. The 
+latter have signified their approbation of the measures 
+I took. But, as retaliation did not take place immediately, nor did I think myself at liberty on a matter of such magnitude, but from the most pressing 
+necessity, and as the enemy did not repeat the 
+offence, I have been at a loss how to act with respect to the original, not having any officer of equal 
+rank with Colonel Hayne in my possession. I am 
+ready to execute whatever may be thought advisable. 
+It would be happy for America if something could 
+be done to put a stop to the practice of burning, 
+both in the Northern States and here also ; and to prevent it liere, I wrote the enemy a letter on the 
+subject, a copy of which I here inclose ; and, if they 
+do not desist, I will put the war on the footing I mention. 
+</p><p>
+We are on our march for Four Holes. Colonel 
+Mblark brought off upwards of eighty convalescent 
+prisoners from one of the enemy's hospitals near Fair 
+Lawn. These, and some small skirmishes of little 
+consequence, and a few other prisoners, are all the 
+changes which have taken place since my letters by 
+Captain Pierce. I am happy that Wilmington is 
+evacuated, as it leaves North Carolina perfectly at 
+liberty to support this army and fill up their line. 
+I am, with great respect and attachment, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

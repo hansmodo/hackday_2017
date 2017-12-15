@@ -1,0 +1,9 @@
+<letter id="mbc7674">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='30'>30th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. Anxiety pervades. <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> is fighting <a href='/results.php?tla=grm' rel=''>Meade</a>. Misery is everywhere. Bragg is falling back before <a href='/results.php?tla=usg' rel=''>Grant</a>. <a href='/results.php?tla=jml' rel=''>Longstreet</a>, the soldiers call him Peter the Slow, is settling down before Knoxville. 
+</p><p>
+<a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> requires us to answer every letter, said Mr. Venable, and to do our best to console the poor creatures 
+whose husbands and sons are fighting the battles of the country. 
+</p>
+</letter>

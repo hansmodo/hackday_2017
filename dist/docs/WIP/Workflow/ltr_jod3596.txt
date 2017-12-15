@@ -1,0 +1,53 @@
+<letter id="jod3596">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='23'>23</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+IT is a common observation of old people, that as 
+they advance in life, time appears to run off faster, 
+and the year grows shorter. I cannot, I am sure, 
+say the same of the time which has passed of late. 
+I took possession of this chamber on the eighth of 
+this month, and the time has seemed at least as long 
+to me, as any fifteen days of my whole life. Tedious 
+days and lonesome nights ! I am weary of ye ! 
+</p><p>
+Enclosed is the address of the Senate and the President's reply. You will be pleased with both, but 
+wry faces, and shrill voices enough will be seen and 
+heard in the House, the cities arid in some places in 
+the country. What do you make of the intelligence 
+from France ? They seem to be weary of clubs, but 
+as yet unable to do without them. The explosion of 
+their powder works and men seems as desperate as 
+dreadful. Dreadful, awful revenge, I expect, will be practised in a thousand ways ; and as revenge excites 
+revenge, where will it stop ? They seem at present to 
+be unable to confine their enemies, or to set them at 
+liberty. Sin and death seem to have deserted the 
+place where Milton saw them, and taken their abode 
+in Paris. 
+</p><p>
+I did not expect any letter from you last week, be- 
+cause of your visit to Haverhill, and I was not disappointed, but if I should not receive one this week I should be mortified. 
+</p><p>
+The spirit in the two Houses has hitherto appeared 
+well disposed to support the government, but whether 
+the House will venture to censure a great number of 
+their constituents so freely as the President and Senate 
+have done, I know not. <a href='/results.php?tla=mad' rel='colleague met'><a href='/results.php?tla=mad' rel='colleague met'>Mr. Madison</a></a> and Mr. Scott 
+upon the committee would not admit the clause into 
+their report, and whether the House will insert it is 
+not yet certain. An army of fifteen thousand militia 
+so easily raised from four States only, to go upon 
+such an enterprise ought to be a terrible phenomenon 
+to anti-federal citizens as well as to insolent Britons. 
+If our old stepmother continues to provoke us, till our 
+patience is exhausted, she will soon see mischief to 
+her dominions in America. But they will cost us 
+infinitely more than they are worth. 
+Adieu. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

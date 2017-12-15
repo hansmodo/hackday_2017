@@ -1,0 +1,39 @@
+<letter id="dab3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The savages have already begun their hostilities. 
+Last Sunday, they killed five men at a sugar camp 
+upon Raccoon Creek, in Youghiogany county, and 
+took prisoners three girls and three lads. It is generally conjectured that the Delawares perpetrated this 
+murder ; but it is possible it may have been done by 
+other Indians. If the Delaware nation should declare 
+against us, this frontier will be greatly distressed ; 
+as many other nations, who have hitherto been neutral, will join them, and my force is by no means 
+sufficient to protect the settlements. I have inclosed 
+to the Adjutant-General a return of the troops for 
+the month of February, since which near to fifty men 
+have been discharged from the ninth Virginia regiment, and many more will expect their discharges 
+very soon. 
+</p><p>
+I have lately been favored with a letter from Colonel Clark, declaring his readiness to cooperate with 
+me in any measure I shall undertake, either for the 
+reduction of one of the enemy's posts, or against the 
+Indian towns. He is now at the Illinois, and will be 
+considerably reenforced in the course of this spring. 
+He proposes throwing up some works at the mouth 
+of the Ohio River. If your Excellency can possibly 
+spare a small reenforcement of well-appointed regular troops for this district, I will pledge my honor to be 
+as active as circumstances and situation will admit. 
+</p><p>
+I am exceedingly anxious to receive a line from 
+you; and have the honor to be, with the most perfect regard and esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">DANIEL BRODHEAD</a>. 
+</p>
+</letter>

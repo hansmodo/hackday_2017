@@ -1,0 +1,46 @@
+<letter id="pjs3009">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+At two, this afternoon, an express from General 
+Montgomery arrived at this place. Copy of his 
+letter, with copies of the papers it inclosed, I do 
+myself the honor to transmit your Excellency by express. The irresistible force of necessity having 
+drove us to arms, success cannot be attended without 
+pleasure ; and, therefore, I congratulate your Excellency on the good account these papers contain. 
+The reduction of Chamblee will, in all probability, be followed by that of St. John's, especially as <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> has now a supply of powder, of which 
+he stood in such need, that a very few days more would have expended his all. 
+</p><p>
+I wrote your Excellency that I should not .send 
+on <a href='/results.php?tla=daw' rel='colleague met'><a href='/results.php?tla=daw' rel='colleague met'>General Wooster</a></a> ; but, as his regiment refused to 
+go without him, I was obliged to suffer him to go. 
+But, lest any detriment should accrue to the service, 
+I thought it proper to write him a letter, of which I 
+inclose a copy, as also a copy of his answer. 
+</p><p>
+I am in hopes that the next accounts I receive 
+will announce the arrival of <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a></a> (whose 
+success seems now certain), and the reduction of St. 
+John s. I have requested <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> to 
+send me an express, as soon as he receives any 
+certain intelligence from <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a></a>. As I can 
+easily conceive that your Excellency's anxiety must 
+be extreme, I shall forward what intelligence I receive by express. The great dread I was in, lest we 
+should suffer for provisions, induced me to have all 
+brought up that could be got; and it was very lucky, 
+as the late heavy rains have carried away almost all 
+the bridges between Fort George and <a href='/results.php?city=albany' rel='city'>Albany</a>, and 
+rendered the roads impassable, in which state they 
+will continue at least a week hence. 
+</p><p>
+I am, dear Sir, with the best wishes for your health, 
+your happiness, and prosperity, 
+</p><p>
+Your Excellency's most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

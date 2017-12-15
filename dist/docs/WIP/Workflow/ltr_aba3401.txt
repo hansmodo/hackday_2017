@@ -1,0 +1,250 @@
+<letter id="aba3401">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=auteuil' rel='city origin'>Auteuil</a>, distant from Paris four miles.
+</p><p>
+<a rel="day origin" value="5">5</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1784" rel="origin">1784</a>.
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+It is now the 5th of September, and I have been 
+at this place more than a fortnight ; but I have had 
+so many matters to arrange, and so much to attend 
+to, since I left <a href='/results.php?city=london' rel='city'>London</a>, that I have scarcely touched a 
+pen. I am now vastly behindhand in many things 
+which I could have wished to have written down and 
+transmitted to my American friends, some of which 
+would have amused, and others diverted them. But 
+such a rapid succession of events, or rather occurrences, have been crowded into the last two months 
+of my life, that I can scarcely recollect them, much 
+less recount them in detail. There are so many of 
+my friends, who have demands upon me, and who 
+I fear will think me nea-ligent, that I know not which 
+to address first. Abby has had less of care upon her, 
+and therefore has been very attentive to her pen, and 
+I hope will supply my deficiencies. 
+</p><p>
+<a href='/results.php?city=auteuil' rel='city'>Auteuil</a> is a village four miles distant from Paris, and 
+one from Passy. The house we have taken is large, 
+commodious, and agreeably situated, near the Woods 
+of Boulogne, which belong to the King, and which 
+<a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> calls his park, for he walks an hour or 
+two every day in them. The house is much larger 
+than we have need of; upon occasion, forty beds 
+may be made in it. I fancy it must be very cold in 
+winter. There are few houses with the privilege 
+which this enjoys, that of having the saloon, as it is 
+called, the apartment where we receive company, 
+upon the first floor. This room is very elegant, and 
+about a third larger than General Warren's hall. 
+The dining-room is upon the right hand, and the 
+saloon upon the left, of the entry, which has large 
+glass doors opposite to each other, one opening into 
+the court, as they call it, the other into a large and 
+beautiful garden. Out of the dining-room you pass 
+through an entry into the kitchen, which is rather 
+small for so large a house. In this entry are stairs 
+which you ascend, at the top of which is a long gallery fronting the street, with six windows, and, opposite to each window, you open into the chambers 
+which all look into the garden. 
+</p><p>
+But with an expense of thirty thousand livres in 
+looking glasses, there is no table in the house better 
+than an oak board, nor a carpet belonging to the 
+house. The floors I abhor, made of red tiles in the 
+shape of Mrs. <a href='/results.php?city=quincy' rel='city'>Quincy</a>'s floor-cloth tiles. These 
+floors will by no means bear water, so that the 
+method of cleaning them is to have them waxed, 
+and then a man-servant with foot brushes drives 
+round your room, dancing here and there like a 
+Merry Andrew. This is calculated to take from 
+your foot every atom of dirt, and leave the room in 
+a few moments as he found it. The house must be 
+exceedingly cold in winter. The dining-rooms, of 
+which you make no other use, are laid with small 
+stones, like the red tiles for shape and size. The servants' apartments are generally upon the first floor, 
+and the stairs which you commonly have to ascend 
+to get into the family apartments are so dirty, that I 
+have been obliged to hold up my clothes, as though 
+I was passing through a cow-yard. 
+</p><p>
+I have been but little abroad. It is customary in 
+this country for strangers to make the first visit. As 
+I cannot speak the language, I think I should make 
+rather an awkward figure. I have dined abroad 
+several times with <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>'s particular friends, 
+the Abbes, who are very polite and civil, three sensible and worthy men. The Abbe de Mably has 
+lately published a book, which he has dedicated to 
+<a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>. This gentleman is nearly eighty years 
+old ; the Abbe Chalut, seventy-five ; and Arnoux, 
+about fifty, a fine, sprightly man, who takes great 
+pleasure in obliging his friends. Their apartments were really nice. I have dined once at 
+<a href='/results.php?tla=ben' rel='met acquaintance'>Dr. Franklin</a>'s, and once at Mr. Barclay's, our consul, who has a very agreeable woman for his wife, 
+and where I feel like being with a friend. Mrs. Barclay has assisted me in my purchases, gone with me 
+to different shops, &c. To-morrow I am to dine at 
+Monsieur Grand's ; but I have really felt so happy 
+within doors, and am so pleasingly situated, that I 
+have had little inclination to change the scene. I 
+have not been to one public amusement as yet, not 
+even the opera, though we have one very near us. 
+</p><p>
+You may easily suppose I have been fully employed, beginning house-keeping anew, and arranging 
+my family to our no small expense and trouble ; for 
+I have had bed-linen and table-linen to purchase and 
+make, spoons and forks to get made of silver, three 
+dozen of each, besides tea furniture, china for the 
+table, servants to procure, &c. The expense of 
+living abroad, I always supposed to be high, but my 
+ideas were nowise adequate to the thing. I could 
+have furnished myself in the town of <a href='/results.php?city=boston' rel='city'>Boston</a>, with 
+every thing I have, twenty or thirty per cent, cheaper than I have been able to do it here. Every thing 
+which will bear the name of elegant, is imported 
+from England, and, if you will have it, you must pay 
+for it, duties and all. I cannot get a dozen handsome wine-glasses under three guineas, nor a pair of 
+small decanters for less than a guinea and a half. 
+The only gauze fit to wear is English, at a crown a 
+yard ; so that really a guinea goes no further than a 
+copper with us. For this house, garden, stables, &c, 
+we eive two hundred guineas a year. Wood is two 
+guineas and a half per cord ; coal, six livres the basket of about two bushels ; this article of firing, we 
+calculate at one hundred guineas a year. The difference between coming upon this negotiation to 
+France and remaining at the Hague, where the house 
+was already furnished at the expense of a thousand 
+pounds sterling, will increase the expense here to six 
+or seven hundred guineas ; at a time, too, when Congress have cut off live hundred guineas from what 
+they have heretofore given. For our coachman and 
+horses alone, (<a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> purchased a coach in 
+England,) we give fifteen guineas a month. It is 
+the policy of this country to oblige you to a certain 
+number of servants, and one will not touch what belongs to the business of another, though he or she 
+has time enough to perform the whole. In the first 
+place, there is a coachman who does not an individual thing but attend to the carriages and horses ; 
+then the gardener, who has business enough ; then 
+comes the cook ; then the maitre d' hotel ; his business 
+is to purchase articles in the family, and oversee, 
+that nobody cheats but himself ; a valet de chambre, 
+</p><p>
+John serves in this capacity ; afemme de chconbre, 
+</p><p>
+Esther serves in this line, and is worth a dozen 
+others ; a coiffeuse, for this place, I have a French 
+girl about nineteen, whom I have been upon the point 
+of turning away, because Madame will not brush a 
+chamber ; " it is not de fashion, it is not her business." 
+I would not have kept her a day longer, but found, 
+upon inquiry, that I could not better myself, and hairdressing here is very expensive, unless you keep such 
+a madam in the house. She sews tolerably well, so 
+I make her as useful as 1 can. She is more particularly devoted to Mademoiselle. Esther diverted 
+me yesterday evening, by telling me that she heard 
+her go muttering by her chamber door after she had 
+been assisting Abby in dressing. " Ah, mon Dieu, 
+'tis provoking," (she talks a little English.) 
+" Why, what is the matter, Pauline, what is provoking ? " " Why, Mademoiselle look so pretty, I, 
+so mauvais." There is another indispensable servant, 
+who is called a frotteur ; his business is to rub the 
+floors. 
+</p><p>
+We have a servant who acts as maitrc cVhoiel, 
+whom I like at present, and who is so very gracious 
+as to act as footman too, to save the expense of 
+another servant, upon condition that we give him a 
+gentleman's suit of clothes in lieu of a livery * 
+Thus, with seven servants and hiring a charwoman 
+upon occasion of company, we may possibly make 
+out to keep house ; with less, we should be hooted at 
+as ridiculous, and could not entertain any company. 
+To tell this in our own country, would be considered 
+as extravagance ; but would they send a person here 
+in a public character to be a public jest ? At lodgings in Paris last year, during <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>'s negotiations for a peace, it was as expensive to him as it is 
+now at house-keeping, without half the accommodations. 
+</p><p>
+Washing is another expensive article ; the servants 
+are all allowed theirs, besides their wages ; our own 
+costs us a guinea a week. I have become steward 
+and book-keeper, determined to know with accuracy 
+what our expenses are, and to prevail with <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> to return to America, if he finds himself 
+straitened, as I think he must be. <a href='/results.php?tla=joj' rel='met acquaintance'>Mr. Jay</a> went 
+home because he could not support his family here 
+with the whole salary ; what then can be done, curtailed as it now is, with the additional expense ? <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> is determined to keep as little company as he 
+possibly can, but some entertainments we must make, 
+and it is no unusual thing for them to amount to 
+fifty or sixty guineas at a time. More is to be per* 
+formed by way of negotiation, many times, at one 
+of these entertainments, than at twenty serious conversations ; but the policy of our country has been, 
+and still is, to be penny-wise and pound-foolish. 
+We stand in sufficient need of economy, and, in the 
+curtailment of other salaries, I suppose they thought 
+it absolutely necessary to cut off their foreign ministers. But, my own interest apart, the system is 
+bad : for that nation which degrades their own ministers bv obliging them to live in narrow circumstances, cannot expect to be held in high estimation 
+themselves. We spend no evenings abroad, make 
+no suppers, attend very few public entertainments, or 
+spectacles, as they are called, and avoid every expense that is not held indispensable. Yet I cannot 
+but think it hard, that a gentleman who has devoted 
+so great a part of his life to the service of the 
+public, who has been the means, in a great measure, of procuring such extensive territories to his 
+country, who saved their fisheries, and who is still 
+laboring to procure them further advantages, should 
+find it necessary so cautiously to calculate his 
+pence, for fear of overrunning them. I will add 
+one more expense. There is now a Court mourning, and every foreign minister, with his family, 
+must go into mourning for a Prince of eight years 
+old, whose father is an ally to the King of France. 
+This mourning is ordered by the Court, and is to be 
+worn eleven days only. Poor <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> had to 
+hie away for a tailor to get a whole black silk suit 
+made up in two days ; and at the end of eleven days, 
+should another death happen, he will be obliged to 
+have a new suit of mourning, of cloth, because that 
+is the season when silk must be left off. We may 
+groan and scold, but these are expenses which cannot be avoided ; for fashion is the deity every one 
+worships in this country, and, from the highest to the 
+lowest, you must submit. Even poor John and 
+Esther had no comfort amongst the servants, being 
+constantly the subjects of their ridicule, until we were 
+obliged to direct them to have their hair dressed. 
+Esther had several crying fits upon the occasion, 
+that she should be forced to be so much of a fool ; 
+but there was no way to keep them from being 
+trampled upon but this ; and, now that they are a la 
+mode de PaiHs, they are much respected. To be 
+out of fashion is more criminal than to be seen in a 
+state of nature, to which the Parisians are not averse. 
+</p><p>
+Sunday here bears the nearest resemblance to 
+our Commencement, and Election days ; every thing 
+is jollity, and mirth, and recreation. But, to quit 
+these subjects, pray tell me how you all do. I 
+long to hear from you. House and garden, with 
+all its decorations, are not so dear to me as my own 
+little cottage, connected with the society I used there 
+to enjoy ; for, out of my own family, I have no attachments in Europe, nor do I think I ever shall 
+have. As to the language, I speak it a little, bad 
+grammar and all ; but I have so many French servants, that I am under a necessity of trying. 
+</p><p>
+Could you, my sister, and my dear cousins, come 
+and see me as you used to do, walk in the garden, 
+and delight j^ourselves in the alcoves and arbours, 
+I should enjoy myself much better. When <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> is absent, I sit in my little writing-room, or 
+the chamber I have described to Betsey, and read 
+or sew. Abby is for ever at her pen, writing or 
+learning French ; sometimes company, and sometimes abroad, we are fully employed. 
+</p><p>
+Who do you think dined with us the other day ? 
+A Mr. Mather and his lady, son of Dr. Mather, and 
+Mrs. Hay, who have come to spend the winter in 
+France. I regret that they are going to some of 
+the provinces. To-day, Mr. Tracy, Mr. Williams, 
+<a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a>, and Colonel Humphreys are to dine 
+with us ; and one day last week we had a company 
+of twenty-seven persons ; <a href='/results.php?tla=ben' rel='met acquaintance'>Dr. Franklin</a>, Mr. Hartley 
+and his secretaries, &c. &c. But my paper warns 
+me to close. Do not let anybody complain of me. 
+I am going on writing to one after another as fast 
+as possible, and, if this vessel does not carry the 
+letters, the next will. Give my love to one of the 
+best men in the world. 
+</p><p>
+Affectionately yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

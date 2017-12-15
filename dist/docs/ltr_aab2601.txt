@@ -1,0 +1,21 @@
+<letter id="aab2601">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=baltimore" rel="city origin">Baltimore</a>, <a rel="month origin" value="5">May</a> <a rel="day origin" value="17">17th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+DEAR SIR : About the 15th of April, I wrote you from "Washington, in answer to your letter of December, 
+apologizing, at the same time, for the lapse of so great a period between the date of your letter and that 
+of my reply. For God's sake, therefore, do n't retaliate on me in this particular. My movements for the summer, as far as can now be ascertained, will be to return to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> to-morrow, to pass one month (something less) in that vicinity ; thence to <a href="/results.php?city=bedford" rel="city">Bedford</a>, in the mountains of Pennsylvania, where I may remain several weeks, taking excursions to <a href="/results.php?city=pittsburgh" rel="city">Pittsburgh</a>, Union Town, etc. The mountain part of my project is for the health of my 
+daughter, who has just come on from South Carolina, to pass the season with me. I would take her on to your 
+house, if it were not for the extreme inconvenience of re-ascending, especially with the incumbrance of a three year-old child. With entire respect, 
+</p><p>
+Your friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+Address me at "<a href="/results.php?city=washington" rel="city">Washington City</a>. If the " city " be omitted, your letter may go to forty Washingtons with out meeting that which is intended. In case of a direct 
+opportunity to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, you may address me there, to be left in the "Post-office" The former, however, is the safer mode. <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

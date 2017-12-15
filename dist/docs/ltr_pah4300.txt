@@ -1,0 +1,88 @@
+<letter id="pah4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, 	<a rel='day origin' value='19'>19</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir,
+</p><p>
+The honor you are pleased to do me in your favor 
+of the 27th ultimo, desiring my opinion, in a friendly 
+way, on the subject of the act for vesting the shares 
+in the Potomac and James River navigation, is very 
+flattering to me. And I should ill deserve the confidence you are pleased to place in me, if I should 
+forbear to give you my unreserved sentiments on it. 
+I will freely own to you, that I am embarrassed to 
+reconcile the law, taken in its full extent, with the 
+declarations you mention, and a fixed purpose of refusing pecuniary rewards. If this was the sole object 
+of the act, I should not hesitate to dissent to its propriety. The United States seem most properly constituted to take into consideration a matter of that 
+nature, for a variety of reasons, which I need not 
+enumerate. But the preamble of the law, compared 
+with a few facts that preceded the enacting of it, 
+will present it in a view different from that of rewarding past military services. The facts I allude to 
+are these. 
+</p><p>
+The great business of opening the navigation of 
+Potomac and James River, and connecting it with 
+that of the western waters, was taken up by you, and 
+pressed with that earnestness so interesting a matter deserved. The difficulties, which nature had interposed, were increased by a combination of interests, 
+hard to develop and explain, and still harder to reconcile. To all these was added another impediment 
+arising from the scarcity of money, and the exhausted condition of the country. The time, however, was 
+critical, and your observations, sent to the Assembly, 
+proved that it was good policy to encounter every 
+obstacle, and begin the work. The patronage of it 
+seemed naturally to devolve on you, Sir ; and the 
+Assembly, desiring to give efficacy to that patronage, 
+vested the shares in you. 
+</p><p>
+This navigation depends upon private subscription 
+for success, so that, unless you had subscribed, you 
+could not have been concerned. You will forgive me 
+for supposing that your finances could not have made 
+it desirable to risk a sum of money on the success 
+of an enterprise like this. For your estate could not 
+have been exempted from that loss in its produce, 
+experienced by other gentlemen's estates throughout 
+the country during the war. Considering, then, that 
+your promoting this great affair necessarily obliged 
+you to subscribe to it, and besides, to encounter all 
+the difficulties arising from the nature of it, the 
+variety of interests, views, and circumstances, which 
+attended it, and that, in arranging and conducting all 
+these, not only great labor and attention as well as 
+abilities are requisite, but also expense of money and 
+loss of time,  — it would seem at least that you ought 
+to be secured against the chance of losing by subscribing. And this is all the law can be said to do, 
+inasmuch as it must remain uncertain whether the 
+shares are worth any thing, till the business is completed. If this never happens to be accomplished, 
+your labor, time, &c., &c., are lost, and the donation 
+proves an empty sound. 
+</p><p>
+Your acceptance of it will prevent that shock, 
+which you justly observe will be given by a refusal; 
+and I submit to your reflection, how for your resignation of the shares may throw a damp on that ardor 
+which I have the pleasure to hear prevails at present 
+to promote the undertaking. I must believe that at 
+least a temporary check would be given to its progress, till the means of replacing so many shares 
+could be found ; and I am really not able to find out 
+the way to do it. Your acceptance will avoid this 
+embarrassing circumstance. And if, after reviewing 
+the whole matter, you shall think it inadmissible io 
+hold the shares in the manner the law gives them, 
+you will be at liberty to make such alteration in the 
+interest, or disposition of the use, as shall be most 
+agreeable to yourself. 
+</p><p>
+If I have exceeded in the freedom with which 1 
+have treated this subject, I must entreat your forgiveness ; for I have no motive but to evince, on every 
+occasion, that I am, with unalterable affection and the 
+most sincere attachment. 
+</p><p>
+Dear Sir, your very obedient servant, 
+</p><p>
+<a href="/results.php?tla=pah" rel="me">Patrick Henry</a>. 
+</p><p>
+P. S. Two other large packets from Ireland .accompany this. The post could not carry them all at 
+once. No other conveyance seems to present soon, 
+and the Captain (Boyle) begs to receive your commands as soon as convenient. 
+</p>
+</letter>

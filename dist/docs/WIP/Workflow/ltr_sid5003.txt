@@ -1,0 +1,50 @@
+<letter id="sid5003">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='30'>30th</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Sir, 
+</p><p>
+Yours of the 5th of June came to band on the 25th 
+instant. Mr Delap will inform you of the state of remittances in his hands. Messrs Cliffords St Teysett, and Mr Hodgson of Amsterdam, have received next to nothing ; 
+about two hundred pounds by the last accounts ; from which 
+you will perceive that not one third of the sura proposed 
+has come to hand, and even out of that my private expenses and those for promoting the other parts of my mission 
+must take something, let me be ever so prudent and cautious. 
+</p><p>
+To solicit arms, clothing, and tents for thirty thousand 
+men, two hundred brass cannon, mortars, and other stores 
+in proportion, and to be destitute of one shilling of ready-money, exclusive of the fund of forty thousand pounds originally designed for other affairs, (which you know by the 
+protests in London was my case) has left me in a critical 
+situation. To let slip such an opportunity for want of ready 
+money would be unpardonable, and yet that was taking out 
+of a fund before deficient. I hope, however, to execute 
+both, though not in the season I could have wished. I have, 
+as you see, had but a few days since the receiving of yours, 
+in which I have discoursed with some of the persons to 
+whom [ had before proposed such a scheme, and think it 
+will take well, but as men of property will be engaged in 
+it, the remittances should be made very punctual. 
+</p><p>
+The insurance I am sensible had better be in Europe, 
+but it cannot be had at present unless in Holland, where I 
+am told there are often disputes with the underwriters. On 
+the whole it must be done in America. I can, I believe, 
+engage for one hundred thousand pounds sterling during 
+the winter. I shall write to you further in a few days. 
+</p><p>
+You have mentioned to me a loan. I choose to speak of 
+this in a letter of business particularly by itself, which I 
+will endeavor to do by a young gentleman going on Sunday, to which opportunity I also refer what I have further 
+to say on this subject. Pray forward the trifles I am sending to my little deserted family as soon as received. 
+</p><p>
+Tobacco is rising very fast, being now seven stivers in Holland. The scheme of the Farmers-General here is 
+very artful ; they grow anxious. They held high terms on my first application. I turned off, and they are now applying to me, as are also some people further northward. 
+</p><p>
+God bless and prosper America is the prayer of every one here, to which I say Amen and Amen. 
+</p><p>
+I am, Sec. 
+</p><p>
+SILAS DEANE 
+</p>
+</letter>

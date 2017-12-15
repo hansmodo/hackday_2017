@@ -1,0 +1,50 @@
+<letter id="joj4206">
+<recipient first="Noah" last="Webster" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1821' rel="origin">1821</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received your letter of the 8th ultimo, and a subsequent one not dated. Your Dictionary will doubtless 
+derive utility and reputation from the extensive investigations you mention. The assiduity with which yon have for 
+many years persevered, and still persevere, in accomplishing that arduous task, will, I hope, be followed by results, 
+not only beneficial to the public, but also to yourself. 
+There are gentlemen in this country by whom, I presume, judicious criticisms and friendly offices would be 
+readily afforded. In case a further revision should be 
+undertaken with zeal and good-will, at <a href='/results.php?city=oxford' rel='city'>Oxford</a> or <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, and terminate with explicit commendation, it would 
+excite attention both in Britain and America, and produce 
+useful consequences. 
+</p><p>
+To whatever persons the perusal of the manuscripts may 
+be committed, permit me to hint that they should be very 
+legible. This remark is sucrsrested bv the recollection of an 
+incident which occurred many years since. The author of 
+a large manuscript, written in an indistinct hand, requested 
+a certain gentleman to favour him with his opinion of it. 
+The gentleman, after a while, returned it, with some polite 
+general observations of little importance. It seems he 
+" had neither time nor patience to decipher much of it." 
+</p><p>
+Should circumstances occur to render it highly probable 
+that your attending a revision in England would eventually 
+promote sales in both countries, or ensure a good price for 
+the copy, the expense incurred by it might be more than 
+compensated. As several years are still necessary to 
+finish the work, and as occurrences may in the mean time 
+create objections or afford facilities which cannot now be 
+foreseen, the question, what posterior measures would be 
+advisable, may probably be more easily answered at a future 
+day than at present. 
+</p><p>
+Your intention to favour me with a visit next summer 
+gives me pleasure. Whether our lives will be prolonged 
+to that period, depends on that good <a href='/results.php?city=providence' rel='city'>Providence</a> on which 
+you happily and wisely rely, and whose beneficence I hope 
+you will continue to experience. 
+</p><p>
+I am, sir, 
+Your friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

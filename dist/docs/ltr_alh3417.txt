@@ -1,0 +1,48 @@
+<letter id="alh3417">
+<recipient name="Editor of the Evening Post" type="position"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="month origin" value="8">August</a> <a rel="day origin" value="10">10</a>, <a href="/results.php?year=1802" rel="origin">1802</a>. 
+</p><p>
+SIR, 
+</p><p>
+Finding that a story, long since propagated, under circumstances which it 
+was expected would soon consign it to oblivion, (and by which I have been 
+The redoubt on the right was also taken, but with less 
+celerity, the Americans having the work in their possession, and being regularly formed, while their allies were 
+yet engaged in removing the abatis. 
+</p><p>
+The fate of the enemy was now decided. The second 
+parallel was continued during the night, the two redoubts 
+enveloped, and a line of communication opened with the 
+first before break of day. As a last effort, a sortie was 
+made, towards day-light of the sixteenth, which proved unsuccessful. 
+</p><p>
+Cornwallis, who knew the weakness of his defences, 
+and had planned his only hopes on succour from New- York, 
+resolved to make a uv^peyate attempt to cross to Gloucester, intending to escape by land to New- York. Boats were 
+prepared, and a part of the troops embarked;, when a violent storm arose, which drove the boats down the rivei, r^ 
+prevented the completion of his bold design. New batteries 
+were now finished by the Americans; the whole works 
+were mounted, and a heavy and irresistible cannonade encomplimented at the expense of Generals Washington and <a href='/results.php?tla=laf' rel='colleague friend met'>La Fayette</a>,) hag 
+of late been revived, and has acquired a degree of importance by being repeated in different publications, as well in Europe as America, it becomes a duty to 
+counteract its currency and influence by an explicit disavowal. 
+</p><p>
+The story imports in substance, that <a href='/results.php?tla=laf' rel='colleague friend met'>General La Fayette</a>, with the approbation or connivance of <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a>, ordered me, as the officer who 
+was to command the attack on a British redoubt, in the course of the siege of 
+<a href='/results.php?city=york town' rel='city'>York Town</a>, to put to death all those of the enemy who should happen to be 
+taken in the redoubt, and that through motives of humanity I forbore to execute 
+the order. 
+</p><p>
+Positively and unequivocally I declare, that no such nor similar order, nor 
+any intimation nor hint resembling it, was ever by me received, or understood 
+to have been given. 
+</p><p>
+It is needless to enter into an explanation of some occurrences on the occasion alluded to, which may be conjectured to have given rise to the calumny. 
+It is enough to say, that they were entirely disconnected with any act of either 
+of the Generals who have been accused. 
+</p><p>
+With esteem I am, sir, your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">A. HAMILTON.</a>.
+</p>
+</letter>

@@ -1,0 +1,37 @@
+<letter id="jod3586">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='15'>15</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE House yesterday passed a resolution in committee of the whole, whose depth is to me unfathomable. The Senate will now be called upon to show 
+their independence, and perhaps your friend to show 
+his weakness or his strength. The majority of the 
+House is certainly for mischief, and there is no doubt 
+they represent the people in the southern States and 
+a large number in the northern. Vox populi, vox Dei, they say, and so it is, sometimes ; but it is some 
+times the voice of Mahomet, of Caesar, of Catiline, 
+the Pope and the Devil. Britain, however, has done 
+much amiss, and deserves all that will fall thereon. 
+Her insolence, which you and I have known and felt 
+more than any other Americans, will lead her to ruin 
+and us half way. We, indeed, are, in point of insolence, her very image and superscription, as true a 
+game cock as she, and I warrant you, shall become 
+as great a scourge to mankind. 
+</p><p>
+Our furniture has had its last removal. Your distress and distraction at its landing are very strongly 
+described. Whatever crashes have happened shall 
+be the last from removals. My countrymen are 
+going into a career that I shall not long follow. I 
+don t expect another election, if I should, peradventure, ride out the remainder of my term. I long 
+to see you, but I fear it will be late in May if not the 
+beginning of June. 
+</p><p>
+I am, with ardent gratitude and affection, 
+</p><p>
+Your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

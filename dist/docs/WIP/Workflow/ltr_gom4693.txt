@@ -1,0 +1,137 @@
+<letter id="gom4693">
+<recipient first="James" last="Leray" type="individual"/>
+<p>
+[Instructions] 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='22'>22d</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+The government of this country having resolved, in execution of the eighth article of the treaty of amity and commerce, 
+concluded between the United States of America, and his 
+most Christian Majesty, on the sixth day of February, <a href='/results.php?year=1778'>1778</a>, 
+to employ their good offices with the Regency of Algiers, to 
+bring about a treaty of peace, have desired me to nominate 
+and appoint some person on the part of the United States, to 
+be present and assist at the negotiations to be had and 
+made for that purpose ; and, you having consented to under 
+take that office, I have by a commission of this day authorised you to negotiate and conclude such treaty on the part of 
+the United States of America. It becomes necessary, there 
+fore, to explain to you my situation, and thence, as well as 
+from the circumstances of the moment, to deduce rules for 
+your government. 
+</p><p>
+And, first, you are to know that my appointment of you is a 
+mere assumption of power on my part, no such authority being given to me as that which is implied in your commission. 
+I act on this occasion upon the principle, that where great 
+public interests are concerned, and when, from .the nature of 
+the case, it is impossible that the will of the government can 
+be seasonably expressed, the confidential servants of the pub 
+lic are in duty bound to imply that will. But your good sense 
+will show you, that by reason hereof, a more critical degree of 
+responsibility is incurred. And hence results two rules for 
+your guidance. 
+</p><p>
+1. Avoid as much as possible all interference, leaving the 
+business to the agents of this government, and only advising 
+with them, so as to secure to the utmost the interests of the 
+United States, in the treaty which they may be able to conclude. 
+</p><p>
+2. In any such treaty, whether you do, or do not, appear 
+as a Commissioner, take care that it be limited to a short period, (such, for instance, as one year,) unless approved by the 
+United States. Such approbation to be expressed by the 
+President of the said States, agreeably to the Constitution 
+thereof. 
+</p><p>
+I give you herewith a copy of the treaty concluded between 
+the United States and the Emperor of Morocco, which will 
+serve as a model or groundwork for you to go by. I expect 
+that the Regency of Algiers will be exorbitant in their demands 
+of money, as heretofore they have been ; and I presume that 
+some unfriendly European powers (I might say unchristian 
+powers) may endeavor to counteract you ; the rather, as I am 
+informed, that a British Consul in that quarter has declared 
+that America will never obtain a treaty with Algiers, but 
+through the medium of his government. It is proper, there 
+fore, that the business be conducted with the utmost secrecy, 
+and that you appear, what by birth you are, a Frenchman, at 
+least until some good purpose can be answered by the exhibition of your true character and country. It will be useful to 
+inculcate on your companions the same secrecy, which I have 
+just requested you to preserve. 
+</p><p>
+The method by which, as far as I can learn, a treaty has 
+hitherto been avoided, and which may perhaps be still pursued 
+is, by demanding of the United States a sum of money out of 
+all proportion to the object. And as far as it has come to my 
+knowledge, the disposition of America is divided between the 
+obtaining such treaty by purchase or by force. We have 
+heard, I know not with what truth, that the United States are 
+fitting out thirty frigates. Be it as it may, the report can be 
+turned to account on the present occasion. It may be insinuated to the Dey and his Ministers, that the United States will 
+send a fleet into the Mediterranean manned with the best sea 
+men in the world, (for such the seamen, natives of America, 
+unquestionably are,) with orders to cruise continually and intercept all vessels whatever going to or coming from the port 
+of Algiers. That with this fleet are to be connected some 
+light armed schooners, and a body of riflemen hunters, whose 
+skill, whose activity, and whose courage are unequalled ; that 
+this armament will be directed to rendezvous in the port of 
+Malta, in order to commence their operations. 
+</p><p>
+It will be proper to state the greatest amount of all their 
+captures from the United States, since the year <a href='/results.php?year=1783'>1783</a> to the 
+present hour, and, without making any deductions therefrom 
+for the expense of the armaments against our commerce, (and 
+which would probably exceed the value of the prizes,) divide 
+the same by ten for the number of years. t It will then appear 
+of how little value is the object, even could it be longer pursued without risk or inconvenience. It will appear that, if the 
+whole amount had gone into the Dey's coffers, he would not 
+be much benefitted thereby, and he should be made- to observe, that if the Americans pursue their plan, and obtain, as 
+they may, subsidies from the Italian States and others, their 
+armaments will cost them nothing, and he will lose the sum he 
+now receives for preserving peace with those States. 
+</p><p>
+The United States have less shipping than is needful to 
+carry their produce, and the latter increases faster than the 
+former ; so that they can easily forego the commerce of the 
+Mediterranean, seeing that they would then be unable to get 
+back, of course they could take nothing from us, and would 
+lose much by engaging with us. 
+</p><p>
+From what I have just said, you will see that it is my object 
+to obtain a peace with the smallest possible sacrifice of money, 
+for nothing, if you can. But whether a treaty be, or be not, 
+made, it will be proper to get back the unfortunate men who 
+are captives in that country. If a peace be obtained, their re 
+lease should be one article of it. If not, you must contrive to 
+get them away for as little money as possible. And it would 
+be well to obtain such passports as may carry them home, lest 
+they should be intercepted in their return. 
+</p><p>
+Before I conclude, it is proper to mention the expense to 
+be incurred on this occasion ; and this I divide into two parts, 
+national and personal. This government will make due pro 
+vision for the former, and it must be your object to confine it 
+within narrow bounds. It is true that neither you nor I can 
+incur any responsibility in relation to that object, beause I have 
+fully expressed to the Minister of Foreign Affairs my total 
+want of authority ; and, consequently, their actsare purely their 
+own ; but, still, as the United States will be under a kind of 
+honorary obligation to discharge the debt, which may thus be 
+incurred, it is our duty to render it as light as possible. 
+</p><p>
+As to your personal expense, I will pay it, and I pray you to 
+be as economical as circumstances will permit; for I must 
+again repeat to you, that, having no authority to act, if my 
+conduct should be disapproved, it is but just that the cost be 
+defrayed by me. 
+</p><p>
+And now, Sir, I commit you to your own understanding and 
+discretion, of which you have a plentiful share, and to the 
+protection of God. If you succeed, as I hope and believe 
+you will, I doubt not you will receive the grateful acknowledgements of America. My thanks are already due for the 
+readiness with which you have undertaken this task, which is 
+by no means a pleasant or agreeable one. I am, &tc. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

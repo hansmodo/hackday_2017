@@ -1,0 +1,48 @@
+<letter id="bel3206">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I was, a few days since, honored with your Excellency's favor of the 26th of October last, by Lieutenant-Colonel Ternant. I am too fully convinced of the 
+utility of the new regulations, not to afford him every 
+countenance and assistance in my power; and it will 
+be my greatest attention to have the troops in this 
+department formed on the plan adopted for the order 
+and discipline of the army of the United States. 
+</p><p>
+I hear, but have no official notice of it, that the 
+Virginia line are ordered from the main army, to reenforce this department. If this should prove true, 
+it will be fortunate indeed for this country, and, I 
+think, exceedingly so for the United States and the 
+cause in general ; for it is such an attention to the 
+safety of this people, that, if ever an idea has been 
+formed and nourished among them that they were 
+neglected by Congress, it must now be removed; be 
+sides the security it will afford to this State and 
+Georgia. 
+</p><p>
+By the last accounts I have received from <a href='/results.php?city=savannah' rel='city'>Savannah</a>, the enemy seem to be alarmed by the movements of the Spaniards ; and, towards the end of the 
+last month, sent off the sixty-eighth regiment to St. 
+Augustine, and, some say, another small corps. What 
+has been the fate of Mobile and Pensacola, is uncertain; by some accounts, we have reason to believe 
+that they are in the hands of the Spaniards. This I 
+have from a number of deserters ; and it is since con 
+firmed by Mr. Cowen, one of our officers who was lately exchanged and left <a href='/results.php?city=savannah' rel='city'>Savannah</a>. I think there 
+cannot be a doubt but that such a report prevails there but what gave rise to it, I know not. Though 
+I have not so full evidence in favor of the report, as 
+gives me satisfaction respecting the truth of it, yet 
+I have thought it necessary and my duty to give 
+your Excellency this hint. 
+</p><p>
+While I congratulate your Excellency on the success of the arms of the United States, in the department more immediately under your direction, I have 
+to lament that so little has been done here, that we 
+have nothing for our consolation, but that we have 
+not permitted the enemy to run away with us. I 
+have the honor to be, with the highest esteem, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

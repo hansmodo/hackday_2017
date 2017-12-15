@@ -1,0 +1,64 @@
+<letter id="jht4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Having had the satisfaction to accord with you in 
+the sentiment of retiring from the busy cares of public life, to the tranquil scenes of private enjoyment, 
+I anticipate, with much pleasure, the reflections which 
+such a state will enable us to make upon the happy 
+issue of those anxious and perplexing vicissitudes 
+through which, in the course of an eight years' unusual war, you and I have had the lot to pass, and, 
+in the cares and solicitudes of which, we have borne 
+no ignoble part. 
+</p><p>
+I felicitate you, Sir, with great cordiality, on your having already reached the goal of your wishes, and 
+most devoutly invoke the Divine benediction on your enjoyments and pursuits. A month more, I trust, will 
+bring me to the haven of retirement ; in the tranquillity of which I hope to have leisure to attend to and 
+cultivate those seeds of private friendship, which have 
+been planted during the tumults of war, and in the 
+cultivation of which I promise myself to reap much pleasure. 
+</p><p>
+Indulging these prospects, I am induced to wish, 
+and even to hope, that the correspondence between 
+you and me, which commenced under the pressure 
+of disagreeable circumstances, may not wholly cease 
+when we find ourselves in a happier situation. Although enveloped in the shades of retirement, the 
+busy mind cannot suppress its activity, but will be 
+seeking some employment, which will indeed be necessary to dispel that languor which a scene of inactivity would be apt to produce. Subjects will not be 
+wanting ; far different, and more agreeable, I trust, 
+than those we have been accustomed to dwell upon; 
+and occasions will present which may serve to beguile 
+a lingering hour, and afford some pleasing amusement, 
+or instructive information. Let not the disparity of 
+age, or the idea of a correspondent seventy-three 
+years advanced on his journey through life, chill 
+your expectations from this proposal. I promise you 
+my best endeavours; and when you perceive, as too 
+soon, alas ! you may, that your returns are not proportional to your disbursements, you have only to 
+cease your correspondence ; I shall submit. 
+</p><p>
+The fruits of our peace and independence do not, 
+at present, wear so promising an appearance as I 
+had fondly painted to my mind. The jealousies, the 
+prejudices, and turbulence of the people, at times, 
+almost stagger my confidence in our political establishment, and almost occasion me to think that they 
+will show themselves unworthy the noble prize for 
+which we have contended, and which, I had pleased 
+myself, was so near our enjoyment. But again, I 
+check this rising impatience, and console myself under the present prospect, with the consideration that 
+the same beneficent and wise <a href='/results.php?city=providence' rel='city'>Providence</a> which has 
+done so much for this country, will not eventually 
+leave us to ruin our own happiness, to become the 
+sport of chance, or the scoff of an admiring world; 
+but that great things are still in store for this people, 
+which time, and the wisdom of the Great Director, 
+will produce in its best season. In this better confidence, I bid you adieu for the present, wishing you 
+every felicity, while I subscribe myself, with sincere 
+esteem, and the most affectionate regard, &c. &c., 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p>
+</letter>

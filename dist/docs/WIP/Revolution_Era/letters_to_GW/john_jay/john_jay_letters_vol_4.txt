@@ -1,0 +1,384 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.vU0BpA on line 295
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--joj
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Jay
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="joj4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='2'>2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+At and for some time after the arrival of your kind and friendly letter by Mr. Taylor, official business obliged me to postpone writing the letters due 
+to my private correspondents. In December, a young man, under the influence of more important advisers, made an attack in the papers, which rendered the 
+publication of my correspondence with him expedient. The first edition being replete with errors of the press, a second became indispensable ; and, from the 
+moment of the attack, I concluded to delay answering your letter until I could transmit with it a proper state of facts. A new edition has just been completed, and I have the honor of inclosing a copy of 
+it with this. 
+</p><p>
+Now, my dear Sir, let me tell you, and very sincerely, that no letter since my return has given me more pleasure than yours. As civilities, like true and 
+counterfeit coins, are sometimes difficult to distinguish, and as commendation, having no intrinsic value, borrows the chief of its worth from the merit 
+of those who bestow it, I feel, on this occasion, all the satisfaction which can result from approbation 
+under the most advantageous circumstances. An apprehension that this letter may not reach the post-office in time, presses me not to enlarge at present. 
+Mrs. Jay, whose best wishes you enjoy, desires me to tell you so, and, with me, requests the favor of you to present the like to Mrs. Washington. 
+</p><p>
+With perfect esteem and attachment, I am, &c., 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='16'>16</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Under the same cover with my letter to you of the 2d instant, I transmitted a pamphlet, in which I have since remarked the errors mentioned in the inclosed printed paper. 
+</p><p>
+Although you have wisely retired from public employments, and calmly view, from the temple of fame, 
+the various exertions of that sovereignty and independence which <a href='/results.php?city=providence' rel='city'>Providence</a> has enabled you to be so 
+greatly and gloriously instrumental in securing to your country, yet I am persuaded you cannot view 
+them with the eye of an unconcerned spectator. Experience has pointed out errors in our National Government, which call for correction, and which threaten to blast the fruit we expected from our "Tree 
+of Liberty." The Convention, proposed by Virginia, may do some good, and would perhaps do more, if it comprehended more objects. An opinion begins to 
+prevail, that a General Convention for revising the articles of Confederation would be expedient. Whether the people are yet ripe for such a measure, or 
+whether the system proposed to be attained by it, is only to be expected from calamity and commotion, is difficult to ascertain. I think we are in a delicate 
+situation, and a variety of considerations and circumstances give me uneasiness. It is in contemplation to take measures for forming a General Convention. 
+The plan is not matured. If it should be well concerted, and take effect, I am fervent in my wishes that it may comport with the line of life you have marked out for yourself, to favor your country with 
+your counsels on such an important and single occasion. I suggest this merely as a hint for consideration ; and am, with the highest respect and esteem, 
+</p><p>
+Yours, &c., 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='27'>27</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dkir Sir, 
+</p><p>
+Being deputed, by the Church Convention of New York, to attend a general one, convened here, I brought with me your obliging letter of the 18th 
+ultimo, that I might devote the first leisure hour to the pleasure of answering it. 
+</p><p>
+Congress having freed the papers, of which the inclosed are copies, from injunctions of secrecy, and permitted the Delegates to make and send extracts from 
+them to their different States, I think myself at liberty to transmit copies to you. These papers have 
+been referred to me. Some of the facts are inaccurately stated, and improperly colored ; but it is too 
+true that the treaty has been violated. On such occasions, I think it better fairly to confess and correct 
+errors, than attempt to deceive ourselves and others by fallacious, though plausible, palliations and excuses. 
+To oppose popular prejudices, to censure the proceedings, and expose the improprieties of States, is an unpleasant task ; but it must be done. 
+</p><p>
+Our affairs seem to lead to some crisis; some revolution ; something that I cannot foresee, or conjecture. I am uneasy and apprehensive ; more so than during 
+the war. Then we had a fixed object, and, though the means and time of attaining it were often problematical, yet I did firmly believe that we should 
+ultimately succeed, because I was convinced that justice was with us. The case is now altered. We are going and doing wrong ; and therefore I look forward 
+to evils and calamities, but without being able to guess at the instrument, nature, or measure of them. That we shall again recover, and things again go 
+well, I have no doubt ; such a variety of circumstances would not almost miraculously have combined to 
+liberate and make us a nation, for transient and unimportant purposes. I therefore believe we are yet to become a great and respectable people ; but when, 
+or how, the spirit of prophecy only can discern. 
+</p><p>
+There doubtless is much reason to think and to say, that we are wofully, and, in many instances 
+wickedly, misled. Private rage for property suppresses public considerations; and personal, rather than 
+national interests, have become the great objects of attention. Representative bodies will ever be faithful 
+copies of their originals, and generally exhibit a checkered assemblage of virtue and vice, of abilities and 
+weakness. The mass of men are neither wise nor good ; and the virtue, like the other resources, of a 
+country, can only be drawn to a point by strong circumstances ably managed, or strong government ably 
+administered. New governments have not the aid of 
+habit and hereditary respect ; and, being generally the 
+result of preceding tumult and confusion, do not immediately acquire stability or strength. Besides, in 
+times of commotion, some men will gain confidence 
+and importance, who merit neither ; and who, like political mountebanks, are less solicitous about the 
+health of the credulous crowd, than about making 
+the most of their nostrums and prescriptions. 
+</p><p>
+<a href='/results.php?city=new york' rel='city'>New York</a> was rendered less federal by the opinions of the late President of Congress. This is a 
+singular, though not unaccountable fact. Indeed, human actions are seldom inexplicable. What I most 
+fear is, that the better kind of people (by which I mean the people who are orderly and industrious, 
+who are content with their situations, and not uneasy in their circumstances) will be led, by the insecurity 
+of property, the loss of confidence in their rulers, and the want of public faith and rectitude, to consider 
+the charms of liberty as imaginary and delusive. A state of uncertainty and fluctuation must disgust and 
+alarm such men, and prepare their minds for almost any change that may promise them quiet and security. 
+</p><p>
+Your letter to <a href='/results.php?tla=cam' rel=''>Mrs. Macaulay Graham</a> is on the way to her, inclosed in one from me to <a href='/results.php?tla=jod' rel='colleague met friend'>Mr. Adams</a>. 
+I forget the name of the vessel. Be pleased to make my compliments to Mrs. Washington; and be assured 
+that I am, with the greatest respect and esteem. 
+</p><p>
+Dear Sir, &c., 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+They who regard the public good with more attention and attachment than they do mere personal concerns, must feel and confess the force of such sentiments as are expressed in your letter to me, by 
+<a href='/results.php?tla=dah' rel='colleague'>Colonel Humphreys</a>, last fall. The situation of our affairs calls not only for reflection and prudence, 
+but for exertion. What is to be done? is a common question; but it is a question not easy to answer. 
+</p><p>
+Would the giving any further degree of power to Congress do the business ? I am inclined to think it would not. For, among other reasons ; — 
+</p><p>
+It is natural to suppose there will always be members who will find it convenient to make their seats 
+subservient to partial and personal purposes ; and 
+they who may be able and willing to concert and 
+promote useful and national measures, will seldom be 
+unembarrassed by the ignorance, prejudices, fears, 
+or interested views of others. In so large a body, 
+secrecy and despatch will be too uncommon ; and foreign as well as local influence will frequently oppose, 
+and sometimes frustrate, the wisest measures. Large 
+assemblies often misunderstand or neglect the obligations of character, honor, and dignity ; and will, collectively, do or omit things which individual gentlemen, in private capacities, would not approve. As 
+the many divide blame, and also divide credit, too 
+little a portion of either falls to each man's share to 
+affect him strongly. Even in cases where the whole 
+blame or the whole credit must be national, it is not 
+easy for those to think and feel as sovereigns, who 
+have always been accustomed to think and feel as 
+subjects. The executive business of sovereignty, depending on so many wills, and those wills moved by 
+such a variety of contradictory motives and inducements, will, in general, be but feebly done. Such a 
+sovereign, however theoretically responsible, cannot be 
+effectually so, in its departments and officers, without 
+adequate judicatories. 
+</p><p>
+I therefore promise myself nothing very desirable 
+from any change which does not divide the sovereignty into its proper departments. Let Congress 
+legislate ; let others execute ; let others judge. 
+</p><p>
+Shall we have a King ? Not, in my opinion, while 
+other expedients remain untried. Might we not have 
+a Governor-General, limited in his prerogatives and 
+duration ? Might not Congress be divided into an 
+upper and a lower House ; the former appointed for 
+life, the latter annually ; and let the Governor-General (to preserve the balance), with the advice of a 
+Council, formed, for that only purpose, of the great 
+judicial officers, have a negative on their acts? Our 
+Government should, in some degree, be suited to our 
+manners and circumstances, and they, you know, are 
+not strictly democratical. 
+</p><p>
+What powers should be granted to the Government, so constituted, is a question which deserves much thought. I think, the more the better ; the States 
+retaining only so much as may be necessary for domestic purposes, and all their principal officers, civil and military, being commissioned and removable by 
+the National Government. These are short hints. Details would exceed the limits of a letter, and to you be superfluous. 
+</p><p>
+A Convention is in contemplation, and I am glad 
+to find your name among those of its intended members. To me the policy of such a Convention appears questionable. Their authority is to be derived 
+from acts of the State Legislatures. Are the State 
+Legislatures authorized, either by themselves or others, 
+to alter Constitutions ? I think not. They who hold 
+commissions can, by virtue of them, neither retrench 
+nor extend the powers conveyed by them. Perhaps 
+it is intended that this Convention shall not ordain; 
+but only recommend. If so, there is danger that 
+their recommendations will produce endless discussions, and perhaps jealousies and party heats. 
+</p><p>
+Would it not be better for Congress, plainly, and 
+in strong terms, to declare, that the present Federal 
+Government is inadequate to the purposes for which 
+it was instituted ; that they forbear to point out 
+its particular defects, or to ask for an extension of 
+any particular powers, lest improper jealousies should 
+thence arise ; but that, in their opinion, it would be 
+expedient for the people of the States, without delay, to appoint State Conventions (in the way they 
+choose their General Assemblies), with the sole and 
+express power of appointing Deputies to a General Convention ; who, or the majority of whom, should 
+take into consideration the articles of Confederation, 
+and make such alterations, amendments, and additions 
+thereto as to them should appear necessary and proper, and which, being by them ordained and published, should have the same force and obligation 
+which all or any of the present articles now have? 
+</p><p>
+No alterations in the Government should, I think, 
+be made, nor, if attempted, will easily take place, 
+unless deducible from the only source of just authority, the people. 
+</p><p>
+Accept, my dear Sir, my warmest and most cordial 
+wishes for your health and happiness ; and believe 
+me to be, with the greatest respect and esteem, &c., 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+I congratulate you, my dear Sir, on the adoption of the Constitution by Virginia. That event has disappointed the expectation of opposition here, which 
+nevertheless continues pertinacious. The unanimity 
+of the southern district, and their apparent determination to continue under the wings of the Union, operate powerfully on the minds of the opposite party. 
+The Constitution constantly gains advocates among the people, and its enemies in the Convention seem to be much embarrassed. 
+</p><p>
+8 July, <a href='/results.php?year=1788'>1788</a>. 
+</p><p>
+We have gone through the Constitution in a Committee of the Whole. We finished yesterday morning. 
+The amendments proposed are numerous. How we are 
+to consider them, is yet a question, which a day or 
+two more must answer. A bill of rights has been 
+offered, with a view, as they say, of having it incorporated in the rcdificaiion. The ground of rejection, 
+therefore, seems to be entirely deserted. We understand that a Committee will this day be appointed to 
+arrange the amendments. We learn from <a href='/results.php?city=albany' rel='city'>Albany</a> that 
+an affray happened there, on the 4th instant, between the two parties, in which near thirty were wounded, 
+some few very dangerously. From what I have just heard, the party begins to divide in their opinions. Some insist on pi'evious conditional amendments. A 
+greater number will be satisfied with siihsecjucnt conditional amendments ; or, in other words, they are for 
+ratifying the Constitution on condition that certain amendments take place within a given time. These 
+circumstances afford room for hope. With the greatest respect and esteem, I am, dear Sir, 
+</p><p>
+Your affectionate and humble servant, 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Since my arrival here, I have written you two or 
+three hasty letters. Being constantly involved in 
+business or company, from which it would not he 
+here very practicable, or perhaps prudent, to retreat, 
+I have been able to write but very little. The Convention this moment adjourned, and I am writing in 
+their chamber. A question being about to be put on 
+the mode of adoption (which you have seen), we moved that the House adjourn for a month or two. It 
+was yesterday carried against us. The former question w^as again pressed with earnestness. At that 
+period Mr. M. Smith, seconded by Mr. Piatt (both of 
+whom dislike the Constitution, and are classed with 
+its opposers) proposed the mode of adoption, of which 
+the above is a copy. Their own party were not 
+pleased, and the House adjourned. 
+</p><p>
+This morning it was expected that the question to 
+postpone the former plan, and proceed to the consideration of the latter, would be put. The House 
+went into a Committee of the Whole, according to 
+the order of the day. A long silence ensued. The 
+party seemed embarrassed, fearful to divide among 
+themselves, and yet many of them were averse to 
+the new plan. The Committee rose, and the House 
+adjourned, with very little opposition. It is difficult 
+to conjecture what may he done out of doors to-day. 
+I am inclined to think that the new plan will expel 
+the other, and I wish it may ; not because I approve 
+of it, hut because I prefer it, as being less exceptionable than the other. With the greatest respect and 
+esteem, I am, dear Sir, 
+</p><p>
+Your affectionate and humble servant, 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, 	<a rel='day origin' value='13'>13</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My letter to <a href='/results.php?tla=edp' rel='colleague'>Mr. Randolph</a>, which accompanies this, 
+contains very full and accurate information respecting 
+our negotiations here. You will perceive that many 
+parts are under consideration, and that alterations will 
+probably yet take place in several articles. Although 
+it is uncertain, yet it is not altogether improbable, 
+that <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a> and myself may agree on terms 
+which, in my opinion, should not be rejected. In that 
+case I shall be strongly induced to conclude, rather 
+than, by delays, risk a change of views and measures 
+or Ministers, which unforeseen circumstances might 
+occasion. 
+</p><p>
+The Secretary's letter by <a href='/results.php?tla=jam' rel='colleague'>Mr. Monroe</a>, and the 
+speech of the latter to the Convention, are printed; 
+and have caused a disagreeable sensation in the public mind here, and probably in that of the Government. The one written by you is spoken of as being 
+within the limits of diplomatic forms. Gentlemen, 
+whether in or out of office, are doubtless free in their 
+personal affections or predilections for persons or nations. But, as the situation of the United States is 
+neutral, so also should be their language to the belligerent powers. Neither can it be proper to adopt 
+any mode of pleasing one party, that would naturally 
+be offensive to the other ; and more particularly at a 
+time when, with that other, a negotiation for peace, 
+commerce, and friendship is pending. To be fair, 
+upright, and prudent, is to be politic ; and of the 
+truth of this maxim, your character, and very singular degree of respectability, weight, and reputation, 
+afford the strongest proof 
+</p><p>
+I learn that Virginia is escheating British property ; 
+and I hear of other occurrences that I regret. But 
+they shall not abate my perseverance in endeavouring to preserve peace, and bring the negotiation to 
+such a conclusion as will either insure peace with 
+this country, or produce union among ourselves in 
+prosecuting war against it. Whatever may be the 
+issue, I am determined not to lose the only satisfaction that I can be sure of; namely, the satisfaction 
+resulting from a consciousness of having done my 
+duty. That attempts will be made, in America, to 
+frustrate this negotiation, I have not the most distant 
+shadow of a doubt. I brought that belief and opinion 
+with me; and my dependence then was, and still is, 
+on the wisdom, firmness, and integrity of the Government ; on the general good sense of our people ; and 
+on those enlightened and virtuous characters among 
+them, who regard the peace, honor, and welfare of 
+their country as primary objects. These men regret 
+the differences which subsist between this country and 
+their own ; and sincerely desire to see mutual animosities give way to mutual good will. As to a political connection with any country, I hope it will never 
+be judged necessary; for I very much doubt whether 
+it would ultimately be found useful. On the contrary, 
+it would, in my opinion, introduce foreign influence, 
+which I consider as the worst of political plagues. 
+With the best wishes for your health and happiness, 
+and with perfect respect, esteem and attachment, I 
+am, dear Sir, 
+</p><p>
+Your most obedient, and obliged servant, 
+</p><p>
+John Jay. 
+</p>
+</letter><letter id="joj4310">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The British ratification of the treaty not having 
+arrived, and consequently the time for appointing the 
+Commissioners mentioned in it not being come, I 
+have thus long postponed replying to yours of the 
+21st of last month. It certainly is important that 
+the Commissioners relative to the debts, and also the 
+captures, be men the best qualified for those places. 
+Probably it would be advisable to appoint one lawyer 
+and one merchant for each of them. The capture 
+cases are to be decided in London. From much that 
+I have heard, and the little I have observed of Mr. Higginson, of <a href='/results.php?city=boston' rel='city'>Boston</a>, I am induced to think him, as 
+a merchant, the best qualified of any I am acquainted 
+with ; and the mass of the captures being from the 
+Eastern and Middle States, it perhaps would be most 
+satisfactory that the Commissioners should be from 
+those countries. With him I should be inclined to 
+join <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a>, or Mr. Dexter, or perhaps Mr. Smith, 
+of South Carolina. 
+</p><p>
+For the debts, it seems to me best to take some 
+sensible merchant, north of the Potomac, and particularly of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, if one of acknowledged weight 
+and character could be found willing to serve. If not, 
+I should think of Colonel Wads worth, or some other 
+like him; and associate with him Judge Paterson, or 
+Mr. Benson, or <a href='/results.php?tla=tom' rel='colleague'>Mr. Marshall</a>. 
+</p><p>
+I am really very much at a loss about Sir John Sinclair's plan. It pleases me, and I wish that our country would offer bounties for useful discoveries, 
+wherever made. Perhaps no inconveniences could arise from recommending such a measure to Congress, in general terras, without having any reference to 
+Great Britain. But even this, I think, had better be postponed until the treaty business shall have been despatched. With perfect esteem and attachment, I 
+am, dear Sir, 
+</p><p>
+Your obliged and affectionate servant, 
+</p><p>
+John Jay. 
+</p>
+</letter>

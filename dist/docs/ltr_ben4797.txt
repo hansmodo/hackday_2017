@@ -1,0 +1,102 @@
+<letter id="ben4797">
+<recipient first="Samuel" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Decem.</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1770' rel="origin">1770</a> 
+</p><p>
+DEAR SIR: 
+</p><p>
+I duly received your several Favours of July 12, Nov. 6, 
+and 15, and am glad that my little Communications afforded 
+you any Pleasure. I join with you most cordially in Wishes 
+of a perfect happy Union between Great Britain and the 
+Colonies. This is only to be expected from Principles of 
+Justice and Equity on both sides, which we must endeavour 
+to cultivate. I think there is now a Disposition here to treat 
+us more equitably, and I hope it will increase and prevail. 
+</p><p>
+I esteem the Appointment to the Agency of your Province, 
+unexpected and unsolicited by me, as one of the greatest 
+Honours for which I must think myself indebted to your 
+Friendship. I wish I may be able to do my Country effectual 
+Service ; nothing could make me more happy. I shall however, use my most faithful Endeavours. I had, before I 
+heard of this Appointment, openly opposed the Project of 
+abridging our Charter Privileges, which some of our Adversaries were extremely busy in ; designing to do it by an act 
+of Parliament ; a Bill for the purpose being, as I have heard, 
+actually drawn ready to be brought in. I boldly and openly 
+asserted that Parliament had no such power; and that an 
+Attempt of that kind would, by alarming all America, raise 
+a new Flame there, & tend more to loosen the Connections 
+now subsisting, than any step that had yet been taken. I do 
+not know that the freedom I use in declaring and publishing 
+these Sentiments had much Effect ; I rather think the Apprehension of an approaching War inclined Government to milder 
+Measures, and to hearken less to the mad Projects of our Adversaries. So it is, however, that the Scheme has been laid 
+aside, and will, I think, hardly be resumed, tho' the Expectation of War is much lessened. 
+</p><p>
+It makes me happy to learn that my Ideas on a certain subject appeared just to you and your Friends. I have now in 
+hand a piece (intended for the publick at a convenient Time) l 
+which I hope will satisfy many others even on this side the 
+Water, that every lady of Genoa is not a Queen of Corsica. 
+Just at this Juncture here, perhaps His more prudent to be 
+quiet, to stir no new questions, to let heats abate ; and when 
+men are cooler, Reason may be better heard. I think I shall 
+send my Manuscript to America for the Perusal and Correction of my Friends and for their Advice on the Expediency 
+of its being published, before I venture it into the World. 
+You I hope will give me leave to trouble you with it, as it 
+seems to me a Question of great Importance to us all. 
+</p><p>
+You have given, in a little Compass, so full and comprehensive a View of the Circumstances on which is founded the 
+Security Britain has for all reasonable Advantages from us, 
+tho' things were put into the same State in which they were 
+before the Stamp Act, that I cannot refrain communicating 
+an Extract of your Letter, where I think it may be of Use; 
+and I think I shall publish it. 
+</p><p>
+There is no doubt of an Intention here to make all our 
+Governors independent of the People for their Support, as 
+fast as the American Duties will bear the Expense. In this 
+Point I think all Parties are against us: And nothing appears to them more unreasonable than that we should wish 
+to have our Governors under such Influence, when the King himself, as they say, is always made independent of the Parliament here, in that Respect, by a fixed Civil List Revenue. 
+I have endeavoured to show the Injustice of taxing those 
+Colonies (who have always supported their own Government) 
+for the support of other Governments in which they have no 
+Interest, and the great Difference between a Prince, whose 
+Welfare and that of his Family is intimately connected with 
+the Prosperity of the Nation, and a governor who comes 
+from another Country to make Money, and intends to return 
+to the Place whence he came, where he will not hear the 
+Complaints and Curses of those he has oppress'd and plunder'd, nor his Children be less respected or fare the worse for 
+the Malfeasance of their Father. But it is so sweet a thing 
+to have the Giving of Places of great and sure Profit to Friends 
+and Favorites; and the prospect of doing it out of other 
+Revenues than those of this Nation, at which Parliament is 
+therefore less likely to take Umbrage, is so tempting, that I 
+think scarce anything said or to be said here will avail much 
+towards discouraging the project. There is indeed one Thing 
+(if that is in their power), the refraining absolutely from 
+the Use of all Commodities subject to the Duty. The Deficiency of the Revenue to pay the Salaries, and those to be 
+made good by the Treasury here, might possibly put some 
+Check to the Career. And if the Assemblies should at the 
+same time decline giving any more annual Supports, and 
+leave all Governors to their Appointments out of the Revenue, 
+giving bountifully to a good Governor at the End of his Administration, and leaving bad ones to be rewarded by their 
+Masters ; perhaps by this means some of that Influence with 
+Governors might be retained, which induces them to treat the 
+People with Equity and Moderation. But if our People will, 
+by consuming such Commodities, purchase and pay for their 
+Fetters, who that sees them so shackled, will think they 
+deserve either Redress or Pity. Methinks that in drinking 
+Tea, a true American, reflecting that by every Cup he contributed to the Salaries, Pensions, and Rewards of the Enemies 
+and Persecutors of his Country, would be half choak'd at the 
+Thought, and find no Quantity of Sugar sufficient to make 
+the nauseous Draught go down. 
+</p><p>
+I hope your Health is restored, and that your valuable Life 
+will be long continued, for the Benefit of your Friends, Family, 
+and Country. 
+</p><p>
+With sincere and great Esteem, I am, dear Sir, 
+Your affectionate and most obedient Servant 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,31 @@
+<letter id="mbc7567">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a href='/results.php?year=1861' rel="origin">1861</a>]. Last night I was awakened by loud talking and candles flashing, tramping of feet, growls dying away 
+in the distance, loud calls from point to point in the yard. Up I started, my heart in my mouth. Some dreadful thing 
+had happened, a battle, a death, a horrible accident. Some one was screaming aloft that is, from the top of the stair 
+way, hoarsely like a boatswain in a storm. Old Colonel Chesnut was storming at the sleepy negroes looking for fire, 
+with lighted candles, in closets and everywhere else. I dressed and came upon the scene of action. 
+</p><p>
+" What is it? Any news? " " No, no, only mamma smells a smell; she thinks something is burning some 
+where." The whole yard was alive, literally swarming. There are sixty or seventy people kept here to wait upon 
+this household, two-thirds of them too old or too young to be of any use, but families remain intact. The old 
+Colonel has a magnificent voice. I am sure it can be heard for miles. Literally, he was roaring from the piazza, giving orders to the busy crowd who were hunting the smell of fire. 
+</p><p>
+Old Mrs. Chesnut is deaf; so she did not know what a commotion she was creating. She is very sensitive to bad 
+odors. Candles have to be taken out of the room to be snuffed. Lamps are extinguished only in the porticoes, or 
+farther afield. She finds violets oppressive ; can only tolerate a single kind of sweet rose. A tea-rose she will not 
+have in her room. She was totally innocent of the storm she had raised, and in a mild, sweet voice was suggesting 
+places to be searched. I was weak enough to laugh hysterically. The bombardment of Fort Sumter was nothing 
+to this. 
+</p><p>
+After this alarm, enough to wake the dead, the smell was found. A family had been boiling soap. Around the soappot they had swept up some woolen rags. Raking up the fire to make all safe before going to bed, this was heaped up with the ashes, and its faint smoldering tainted the air, at least to Mrs. Chesnut's nose, two hundred yards or more away. 
+</p><p>
+Yesterday some of the negro men on the plantation were found with pistols. I have never before seen aught 
+about any negro to show that they knew we had a war on hand in which they have any interest. 
+</p><p>
+Mrs. John de Saussure bade me good-by and God bless you. I was touched. Camdeu people never show any more 
+feeling or sympathy than red Indians, except at a funeral. It is expected of all to howl then, and if you don't " show 
+feeling," indignation awaits the delinquent. 
+</p>
+</letter>

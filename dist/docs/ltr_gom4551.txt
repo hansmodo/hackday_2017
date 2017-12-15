@@ -1,0 +1,15 @@
+<letter id="gom4551">
+<recipient first="Francis" last="Osborne" type="individual"/>
+<p>
+TO THE DUKE OF LEEDS. 
+</p><p>
+Froome's Hotel, <a href='/results.php?city=covent garden' rel='city origin'>Covent Garden</a>, 	<a rel='day origin' value='28'>28th</a> of <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Mr Morris had the honor to wait upon his Grace, the Duke 
+of Leeds, this morning, but had not that of seeing him. He 
+presents his most respectful compliments, and will be happy to 
+know the time when it will be most convenient for his Grace to 
+receive certain communications, which Mr Morris is directed 
+to make to his Majesty's ministers, by the President of the United States of America. 
+</p>
+</letter>

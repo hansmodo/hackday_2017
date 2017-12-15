@@ -1,0 +1,120 @@
+<letter id='mad1560'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 15th, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+DEAR SIR, My last was from <a href="/results.php?city=richmond" rel="city">RICHMOND</a>, of the 4th of December, and contained a sketch of our Legislative proceedings 
+prior to that date. 
+</p><p>
+The principal proceedings of subsequent date relate, as 
+nearly as I can recollect, 1 st , to a rejection of the Bill on 
+crimes and punishments, which, after being altered so as to 
+remove most of the objections, as was thought, was lost by a 
+single vote. The rage agaiust Horse-stealers had a great 
+influence on the fate of the bill. Our old bloody code is by 
+this event fully restored, the prerogative of conditional pardon 
+having been taken from the Executive by a judgment of the 
+Court of Appeals, and the temporary law granting it to them 
+having expired, and been left unrevived. I am not without hope 
+that the rejected bill will find a more favorable disposition in 
+the next Assembly. 2 dly . To the bill for diffusing knowledge ; 
+it went through two readings by a small majority, and was not 
+pushed to a third one. The necessity of a systematic provision 
+on the subject was admitted on all hands. The objections 
+against that particular provision were: 1. The expence, which 
+was alleged to exceed the ability of the people. 2. The difficulty of executing it in the present sparse settlement of the 
+country. 3. The inequality of the districts, as contended by the 
+Western members. The last objection is of little weight, and 
+might have been easily removed if it had been urged in an 
+early stage of the discussion. The bill now rests on the same 
+footing with the other unpassed Bills in the Revisal. 
+</p><p>
+3 dly . To the Revisal at large. It was found impossible to 
+get through the system at the late session, for several reasons : 
+1. The changes which have taken place, since its compilement, 
+in our affairs and our laws, particularly those relating to our 
+Courts, called for changes in some of the bills, which could not 
+be made with safety by the Legislature. 2. The pressure of 
+other business, which, though of less importance in itself, yet 
+was more interesting for the moment. 3. The alarm excited 
+by an approach toward the Execution bill, which subjects land 
+to the payment of debts. This bill could not have been carried, 
+was too important to be lost, and even too difficult to be 
+amended without destroying its texture. 4. The danger of 
+passing the Repealing Bill at the end of the Code, before the 
+operation of the various amendments, &c., made by the Assembly, could be leisurely examined by competent Judges. Under 
+these circumstances, it was thought best to hand over the residue 
+of the work to our successors ; and in order to have it made 
+compleat, <a href='/results.php?tla=edp' rel='co-worker met'>Mr. Pendleton</a>, Mr. Wythe, and Blair, were appointed 
+a Committee to amend the unpassed bills, and also to prepare a 
+supplemental revision of the laws which have been passed since 
+the original work was executed. 
+</p><p>
+It became a critical question with the friends of the Revisal 
+whether the parts of the Revisal actually passed should be 
+suspended in the mean time, or left to take their operation. 
+The first plan was strongly recommended by the advantage of 
+giving effect to the system at once, and by the inconveniency 
+arising from the latter, of leaving the old laws to a constructive 
+repeal only. The latter, notwithstanding, was preferred, as 
+putting the adopted bills out of the reach of a succeeding Assembly, which might possibly be unfriendly to the system altogether. There was good reason to suspect <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a>, who 
+will certainly be then a member. By suffering the bills which 
+have passed to take effect in the mean time, it will be extremely 
+difficult to get rid of them. 
+</p><p>
+4 thly . Religion. The act incorporating the protestant Episcopal Church excited the most pointed opposition from the 
+other sects. They even pushed their attacks against the reserv.ion of the Glebes, Ac., to the church exclusively. The 
+latter circumstance involved the Legislature in some embarrassment. The result was a repeal of the act, with a saving of 
+the property. 5 th . The district Courts. After a great struggle, 
+they were lost in the House of Delegates by a single voice. 
+6 thly . Taxes. The attempts to reduce former taxes were baffled, 
+and sundry new taxes added : on lawyers, TQ- of their fees ; on 
+Clerks of Courts, | of do.; on Doctors, a small tax; a tax on 
+houses in towns, so as to level their burden with that of real 
+estate in the country ; very heavy taxes on riding carriages, &c. 
+Besides these, an additional duty of 2 per cent, ad valorem on 
+all merchandises imported in vessels of nations not in treaty 
+with the United States, an additional duty of four pence on 
+every gallon of wine except French wines, and of two pence 
+on every gallon of distilled spirits except French brandies, 
+which are made duty free. The exceptions in favor of France 
+were the effect of the sentiments and regulations communicated 
+to you by Mr. Calonne. A printed copy of the communication 
+was received the last day of the session in a newspaper from 
+<a href="/results.php?city=new york" rel="city">New York</a>, and made a warm impression on the Assembly. 
+Some of the taxes are liable to objections, and were much complained of. With the additional duties on trade, they will considerably enhance our revenue. I should have mentioned a 
+duty of 65. per Hogshead on Tobacco for complying with a 
+special requisition of Congress for supporting the corps of men 
+raised for the public security. 
+7 th . The Mississippi. At the date of my last, the House of 
+Delegates only had entered into Resolutions against a surrender of the right of navigating it. The Senate shortly after 
+concurred. The States south of Virginia still adhere, as far as 
+I can learn, to the same ideas as have governed Virginia. New 
+Jersey, one of the States in Congress which was on the opposite side, has now instructed her Delegates against surrendering 
+to Spain the navigation of the River, even for a limited time ; 
+and Pennsylvania, it is expected, will do the same. I am told 
+that <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a> has not ventured to proceed in his project, and I 
+suppose will not now do it. 8 th . The Convention for amending 
+the federal Constitution. At the date of my last, Virginia had 
+passed an act for appointing deputies. The deputation consists 
+of <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, <a href='/results.php?tla=pah' rel='co-worker'>Mr. Henry</a>, late Governor, <a href='/results.php?tla=edr' rel='co-worker'>Mr. Randolph</a>, present Governor, Mr. Blair, Mr. Wythe, Col. Mason, 
+and James Madison. 
+</p><p>
+North Carolina has also made an appointment, including her 
+present and late Governor. South Carolina, it is expected by 
+her delegates in Congress, will not fail to follow these examples. Maryland has determined, I just hear, to appoint, but has 
+not yet agreed on her deputies. Delaware, Pennsylvania, and 
+New Jersey, have made respectable appointments. <a href="/results.php?city=new york" rel="city">New York</a> 
+has not yet decided on the point. Her Assembly has just rejected the impost, which has an unpropitious aspect. It is not 
+clear, however, that she may not yet accede to the other measure. Connecticut has a great aversion to Conventions, and is 
+otherwise habitually disinclined to abridge her State prerogatives. Her concurrence, nevertheless, is not despaired of. Massachusetts, it is said, will concur, though hitherto not well inclined. New Hampshire will probably do as she does. Rhode 
+Island can be relied on for nothing that is good. On all great 
+points, she must sooner or later bend to Massachusetts and Connecticut. 
+</p><p>
+Having but just come to this place, I do not undertake to 
+give you any general view of American affairs, or of the particular state of things in Massachusetts. The omission is probably of little consequence, as information of this sort must fall 
+within your correspondence with the office of foreign affairs. 
+I shall not, however, plead this consideration in a future letter, 
+when I hope to be more able to write fully. 
+</p>
+</letter>

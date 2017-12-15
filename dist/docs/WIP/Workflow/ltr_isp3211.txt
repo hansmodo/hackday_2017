@@ -1,0 +1,22 @@
+<letter id="isp3211">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Continental Ferry</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The shipping, moving up the river, must fully convince us that 
+their intentions are for <a href='/results.php?city=albany' rel='city'>Albany</a>. It is, therefore, a matter of the 
+utmost importance for us immediately to fix upon what manner 
+we shall dispose of our troops. If we were convinced that <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> was able to oppose them, I think we ought not to lose 
+one moment, but march immediately down to King's Bridge. 
+</p><p>
+I wrote <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> on Sunday, and begged of him to ac 
+quaint me with his situation. Would it not, therefore, be prudent 
+to keep our troops at <a href='/results.php?city=fishkill' rel='city'>Fishkill</a> until I receive his answer? Your immediate opinion will oblige, dear Sir, 
+</p><p>
+Your very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>.  
+</p>
+</letter>

@@ -1,0 +1,20 @@
+<letter id="ben4722">
+<recipient first="P" last="Berthier" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> <a rel='day origin' value='31'>31</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+REV. SIR, 
+</p><p>
+With cordial Thanks for your many Civilities to me when in Paris, I take this Opportunity of acquainting you, that 
+your Certificate has been received by the Royal Society, 
+and ordered to be hung up the usual Time which is ten 
+Meetings; but it was observed to be deficient in not mentioning your Christian Name, without which it is not 
+reckon'd regular. I therefore pray you would send me that 
+Name, to be inserted in the Certificate; in order to remove 
+the Objection. With great Esteem & Respect, I am 
+Sir John Pringle desires Rev d Sir 
+to be remembered to you Your most obliged 
+with Respect & obed' hum'l Serv' 
+</p><p>
+B. F. 
+</p>
+</letter>

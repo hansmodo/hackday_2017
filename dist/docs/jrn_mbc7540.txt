@@ -1,0 +1,23 @@
+<letter id="mbc7540">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. The Washington Congress has passed peace measures. Glory be to God (as my Irish Margaret used to 
+preface every remark, both great and small). 
+</p><p>
+At last, according to his wish, I was able to introduce Mr. Hill, of Georgia, to Mr. Mallory, and also Governor Moore and Brewster, the latter the only man without a title of some sort that I know in this democratic subdivided republic. 
+</p><p>
+I have seen a negro woman sold on the block at auction. She overtopped the crowd. I was walking and felt faint, 
+seasick. The creature looked so like my good little Nancy, a bright mulatto with a pleasant face. She was magnificently gotten up in silks and satins. She seemed delighted with it all, sometimes ogling the bidders, sometimes looking 
+quiet, coy, and modest, but her mouth never relaxed from its expanded grin of excitement. I dare say the poor 
+thing knew who would buy her. I sat down on a stool in a shop and disciplined my wild thoughts. I tried it Sterne 
+fashion. You know how women sell themselves and are sold in marriage from queens downward, eh? You know 
+what the Bible says about slavery and marriage; poor women! poor slaves! Sterne, with his starling what did 
+he know? He only thought, he did not feel. 
+</p><p>
+In Evan Harrington I read: " Like a true English female, she believed in her own inflexible virtue, but never 
+trusted her husband out of sight"
+</p><p>
+The New York Herald says : <a href='/results.php?tla=abl' rel=''>Lincoln's</a> carriage is not bomb-proof; so he does not drive out." Two flags and a bundle of sticks have been sent him as gentle reminders. The sticks are to break our heads with. The English are 
+gushingly unhappy as to our family quarrel. Magnanimous of them, for it is their opportunity. 
+</p>
+</letter>

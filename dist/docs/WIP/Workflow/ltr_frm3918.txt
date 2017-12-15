@@ -1,0 +1,19 @@
+<letter id="frm3918">
+<recipient first="" last="Ganey" type="individual"/>
+<p>
+GEN. MARION TO MAJOR GANEY. 
+</p><p>
+<a rel="month origin" value="6">June</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Col. Richardson acquaints me that there was some men who did not, 
+or would not, submit to the terms sent you. All such men will be 
+allowed to go to Charlestown, and be considered as prisoners of war, to 
+be exchanged for the American prisoners. Their wives and children, 
+and such property as is theirs, they will be allowed to take with them, 
+except stock and arms, and shall be safely conducted to town on Saturday, or sooner, if possible. I shall be glad to see you at Mr. Burches . 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

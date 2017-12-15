@@ -1,0 +1,49 @@
+<letter id="pjs3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="31">31>/a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Since my last I have been most assiduously employed in preparing materials for building boats to convey me across the Lake. The progress has hitherto been slow, 
+as with few hands I had all the timber to cut, mills to repair, to saw the plank, and my draught-cattle extremely weak for want of feed, the drought having 
+scorched up every kind of herbage. I have now one boat on the stocks, which I hope will carry near three 
+hundred men ; another is putting up to-day. Provisions of the bread kind are scarce with me, and therefore I have not dared to order up a thousand men 
+that are at <a href='/results.php?city=albany' rel='city'>Albany</a>, lest we should starve here. 
+</p><p>
+I have had no intelligence from Canada since my last to you. Major Brown has been gone nine days, and I expect him back, if all is well, by Saturday next 
+</p><p>
+2 August. 
+</p><p>
+I have not had a return from <a href='/results.php?tla=daw' rel='colleague met'><a href='/results.php?tla=daw' rel='colleague met'>General Wooster</a></a> since my arrival. I am therefore under the necessity of making you a return of the troops here only. 
+</p><p>
+I inclose your Excellency copies of two affidavits 
+made by persons from Canada. I have transmit 
+ted other copies to the Congress. 
+</p><p>
+I am extremely anxious to hear from your part 
+of the world. Reports prevail that a body of troops 
+have left <a href='/results.php?city=boston' rel='city'>Boston</a>, and are gone to Canada. If so, I 
+fear we shall not be able to penetrate into Canada, 
+or even attack St. John's with success, though at 
+all events I am ordered to go there. I am 
+</p><p>
+Your Excellency's most obedient 
+</p><p>
+and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p><p>
+P. S. I wish I could make you a regular return 
+even of the troops at this place and Crown Point, but I 
+have not yet got these people to be regular in any 
+thing, and therefore beg you to dispense with the 
+following statement. 
+</p><p>
+Fit for duty, one colonel, three majors, nine captains, one captain-lieutenant, twenty-one subalterns, 
+thirty-four sergeants, eighteen drums and fifes, ninety-three rank and file, one chaplain, two adjutants, 
+one quarter-master, one surgeon, and two mates. 
+Sick, one lieutenant, four sergeants, two drums, 
+one hundred and three rank and file. 
+</p>
+</letter>

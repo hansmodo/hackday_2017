@@ -1,0 +1,48 @@
+<letter id="gom4517">
+<recipient first="Nathanael" last="Greene" type="individual"/>
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='15'>15th</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I cannot omit so good an opportunity of communicating to you my thoughts on the present situation of affairs. Knowing 
+as I do, that your heart is actuated by the same principles of justice, and the same sentiments of policy, which, influence my 
+own, I can venture on a freedom of communication which, to 
+most men, would be imprudent. The approach of peace cannot but give very serious thoughts to every officer and soldier 
+of the American army. The promises made by the public will, if performed, be of beneficial importance, and, if broken, 
+extremely injurious. The main army have had anxieties on this subject ; and though I do not pretend to guess precisely 
+their sentiments, I am convinced they will not easily forego their expectations. Their murmurs, though not loud, are 
+deep ; and I do not think that the committee they have sent hither will, from their report, allay the apprehensions which were excited. 
+</p><p>
+From this committee, however, I learn that they were precipitating themselves in the road to ruin. I mean by pursuing 
+a recommendation to the several States for compensation. 
+This, which would have divided them into thirteen different 
+parts, would have made it easy to elude the force of their applications, or, after their compliance, to have resumed any 
+grants made in consequence of them, when the army should 
+have been disbanded. At present, however, the committee have 
+become so thoroughly persuaded, that the army will be defrauded, unless they unitedly pursue a common object, that I 
+believe it will soon become the general sentiment. If the army, in common with all other public creditors, insist on the 
+grant of general permanent fluids for liquidating all the public 
+debts, there can be little doubt that such revenues will be obtained ; and there can be no doubt, that, when they are obtained, they will afford to every order of public creditors a solid 
+security. The half-pay promised the officers is estimated to 
+be worth five and a half years' full pay in hand. 
+</p><p>
+Admitting, then, that the proper revenues were obtained, 
+the officer would be able always to sell his stock for the value. 
+It is needless to say, that the United States have no other mode 
+of paying the arrearages due to the army. It is also unnecessary to mention, that this kind of provision ought to be made 
+for debts of every description. The effect of it, in all its 
+parts, you will, I am sure, be at no loss to trace ; and you will 
+agree with me in opinion, that Congress can, by that means, 
+obtain a degree of influence essential to the happiness of this 
+country. Now, my dear Sir, I am most perfectly convinced, 
+that, with the due exception of miracles, there is no probability 
+that the States will ever make such grants, unless the army be 
+united and determined in the pursuit of it ; and unless they be 
+firmly supported, and as firmly support the other public creditors. That this may happen must be the entire wish of every 
+intelligently just man, and of every real friend to our glorious 
+revolution, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

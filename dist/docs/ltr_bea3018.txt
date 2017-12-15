@@ -1,0 +1,63 @@
+<letter id="bea3018">
+<recipient first="David" last="Wooster" type="individual"/>
+<p>
+General Hospital, <a rel="day origin" value="2">2</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I wrote you, three days since, of our defeat, and the death of 
+<a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a> and others, with all the information I then 
+had of the matter. We have been in suspense, with regard to 
+my detachment, until this afternoon, when Major Mcigs was sent 
+out, with a flag, for the officers baggage, who, he says, are all 
+taken prisoners, except Captain Hendricks, Lieutenant Humphreys, of the riflemen, and Lieutenant Cooper, who were killed 
+in the action. General Caiieton says our loss, in killed and 
+wounded, is a hundred. Major Meigs thinks it does not exceed 
+sixty, and about three hundred taken prisoners, who are treated 
+very humanely. These brave men sustained the force of the 
+whole garrison for three hours, but were finally obliged to yield 
+to numbers, and the advantageous situation the garrison had over 
+them. Several other officers, I am told, are slightly wounded. 
+</p><p>
+We had the misfortune of losing one brass six-pounder in the 
+engagement, and all our mortars were taken from St. Roc the 
+evening after the engagement. This was the fault of some of 
+the officers who commanded, as they might very easily have been 
+brought away, agreeably to my positive orders for that purpose. 
+Our force, at this time, does not exceed eight hundred men, including Colonel Livingston's regiment of two hundred Canadians, 
+and some scattered Canadian forces, amounting to two hundred 
+more. Many of the troops are dejected and anxious to get home, 
+and some have actually set off. I shall endeavour to continue 
+the blockade, while there are any hopes of success. For God's 
+sake, order as many men down as you can possibly spare, consistent with the safety of <a href='/results.php?city=montreal' rel='city'>Montreal</a>, and all the mortars, howitzers, and shells, that you can possibly bring. I hope you will 
+stop every rascal who has deserted from us, and bring him back 
+again. 
+</p><p>
+Every possible mark of distinction was shown to the corpse of 
+<a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a>, who was to be interred in Quebec this 
+day. Had he been properly supported by his troops, I make no 
+doubt of our success. We are short of cash. Not more than 
+four or five hundred pounds, and only twenty barrels of salt 
+pork. If any can be spared from <a href='/results.php?city=montreal' rel='city'>Montreal</a>, I think best to 
+bring it down, and all the butter. 
+</p><p>
+I beg you will transmit a copy of this letter to the Honorable 
+Continental Congress, and another to his Excellency, General 
+<a href='/results.php?city=washington' rel='city'>Washington</a>. I think it will be highly necessary, with the reen-forcement which, I make no doubt, Congress will send, that 
+they should order all the large mortars and howitzers at Crown 
+Point, <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and Fort George, on to this place. Monsieur Pallasier, who has a furnace at Three Rivers, assures me 
+that he can cast any size and number of shells between this and 
+the beginning of April. I hope the Honorable Continental congress will not think of sending less than eight or ten thousand 
+men to secure and form a lasting connection with this country. 
+</p><p>
+I am in such excessive pain from my wound (as the bones of 
+my leg are affected), I can only add, that I am, with the greatest esteem, dear Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p><p>
+N. B. Many officers here appear dispirited. Your presence 
+will be absolutely necessary. I do not expect to be in a capacity to act this two months. 
+</p>
+</letter>

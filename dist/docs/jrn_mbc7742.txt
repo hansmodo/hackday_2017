@@ -1,0 +1,10 @@
+<letter id="mbc7742">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='9'>September</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. These stories of our defeats in the valley fall like blows upon a dead body. Since Atlanta fell I 
+have felt as if all were dead within me forever. Captain Ogden, of General Chesnut's staff, dined here to-day. Had 
+ever brigadier, with little or no brigade, so magnificent a staff? The reserves, as somebody said, have been secured 
+only by robbing the cradle and the grave the men too old, the boys too young. Isaac Hayne, Edward Barnwell, 
+Bacon, Ogden, Richardson, Miles are the picked men of the agreeable world. 
+</p>
+</letter>

@@ -1,0 +1,18 @@
+<letter id="mbc7769">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='29'>29th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Trying to brave it out. They have plenty, yet let our men freeze and starve in their prisons. 
+Would you be willing to be as wicked as they are? A thousand times, no ! But we must feed our army first if 
+we can do so much as that. Our captives need not starve if <a href='/results.php?tla=abl' rel=''>Lincoln</a> would consent to exchange prisoners; but men 
+are nothing to the United States things to throw away. If they send our men back they strengthen our army, and 
+so again their policy is to keep everybody and everything here in order to help starve us out. That, too, is what <a href='/results.php?tla=wts' rel=''>Sherman's</a> destruction means to starve us out. 
+</p><p>
+Young Brevard asked me to play accompaniments for him. The guitar is my instrument, or was; so I sang and 
+played, to my own great delight. It was a distraction. Then I made egg-nog for the soldier boys below and came 
+home. Have spent a very pleasant evening. Begone, dull care; you and I never agree. 
+</p><p>
+Ellen and I are shut up here. It is rain, rain, everlasting rain. As our money is worthless, are we not to starve ? 
+Heavens! how grateful I was to-day when Mrs. McLean sent me a piece of chicken. I think the emptiness of my 
+larder has leaked out. To-day Mrs. Munroe sent me hot cakes and eggs for my breakfast. 
+</p>
+</letter>

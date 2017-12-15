@@ -1,0 +1,44 @@
+<letter id="gwa4504">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+Head-Quarters, near <a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+I sincerely congratulate you on the favorable turn of affairs announced in your last, and I hope you will be enabled to maintain that superiority, which you seem to be gaining over Lord Cornwallis. We have had a 
+variety of reports of <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>'s further successes in South Carolina. By some we are told, that both <a href='/results.php?city=augusta' rel='city'>Augusta</a> and Ninety-Six have fallen, but in a letter, 
+which I have just received from Monsieur Marbois, he says that <a href='/results.php?city=augusta' rel='city'>Augusta</a> has been taken, and the siege of Ninety-Six raised. <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> formed a junction with me at the camp, about twelve miles from 
+Kingsbridge, a few days ago. We are waiting for reinforcements to the Continental line, and for militia, and are in the mean time establishing our communication at Dobbs's Ferry. 
+</p><p>
+I shall shortly have occasion to communicate matters of very great importance to you, so much so, that I 
+shall send a confidential officer on purpose. You will in the mean time endeavour to draw together as respectable a body of Continental troops as you possibly can, and take every measure to augment your cavalry. 
+Should the enemy confine themselves to the lower country, you will no doubt pay attention to the formation of magazines above. These will be in every case 
+essential, whether the war continues in Virginia, or 
+whether it shall still be carried on in South Carolina. 
+Should <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a> come into Virginia in person, 
+you will be good enough to communicate the foregoing to him. 
+</p><p>
+In the present situation of affairs, it is of the utmost 
+importance that a communication by a chain of expresses should be opened between this army and that in 
+Virginia. They are already established from hence to 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and if there is none from you to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, you will be pleased to take measures for having it formed. You will also endeavour to establish 
+such a communication with the coast, as to be able to 
+know whether any troops are detached by sea from 
+Lord Cornwallis's army ; for it is more than probable, 
+that, if he finds himself baffled in attempting to overrun Virginia, he will take a strong post at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, 
+or <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, and reinforce <a href='/results.php?city=new york' rel='city'>New York</a> or South 
+Carolina. Should any detachment be made, you will 
+transmit to me the earliest intelligence. What you say 
+in confidence of the conduct of a certain officer shall 
+be kept a profound secret, and I will contrive means 
+of removing him from the quarter where he is so unpopular. 
+</p><p>
+The Rhode Island regiment is so thinly officered, 
+that Colonel Olney wishes one of the subalterns of the 
+light company may be suffered to return, when Captain Olney joins. You will act in this as circumstances 
+may permit. You have the compliments and good 
+wishes of all your friends in the French army. Those 
+of the American are not behindhand with them. With 
+the warmest affection and esteem, I am, &c. 
+</p>
+</letter>

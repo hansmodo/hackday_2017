@@ -1,0 +1,67 @@
+<letter id="leb4555">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+</p><p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I hasten to reply to the letter, which you did me the honor 
+to write to me on the nineteenth instant. 
+</p><p>
+Infinitely pained at the afflicting details contained in that 
+letter, I thought it my duty to communicate it immediately to 
+the Comite de Salut Public, a copy of whose report I send 
+herewith. You will here find a sincere expression of sentiments, which I approve, and of the opinion of the Executive 
+Provisory Council. I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=leb" rel="me">LEBRUN</a>. 
+</p><p>
+Report of the Comite de Salut Public. 
+</p><p>
+The Minister Plenipotentiary of the United States has just 
+exhibited complaints of a very serious nature against a violation of the right of nations, and of treaties concluded with free 
+Americans. 
+</p><p>
+If the statements set forth therein are accurate, it is not only the interest of the Republic, but the part of honor and justice, to avenge this atrocious violation of all law, and to give 
+to the captain of the Little Cherub every satisfaction, which 
+is due to him. This crime is so much the more punishable , 
+as the captain had sailed from Havre, for the purpose of taking 
+from that place a large number of our brethren inhumanly 
+driven from Spain, and thus the captures have, in his case, in 
+fringed not only the laws of war, but those of hospitality and 
+gratitude. 
+The Minister of the United States makes complaint, also, 
+that the decree of the twenty-third of May, which orders that 
+ships of the United States shall not be comprised in the dispositions of that of the ninth of May, has been repealed by the 
+decree of the twenty-eighth, and that a definitive report, 
+which, by the terms of the decree, ought to have been made 
+three days afterwards by the Comite de Salut Public, and that 
+of the Marine united, has not yet been presented. The con 
+sequence of this delay is, that several American vessels, and, 
+among others, one with a very rich cargo, have been sequestered, to the great prejudice of the owners and masters. 
+</p><p>
+The Minister of Foreign Affairs thinks it his duty to insist 
+strenuously on a prompt decision, concerning these complaints 
+of the American Minister. He observes, that, besides the 
+ties of fraternity, which unite the two nations, the Republic has 
+the strongest interest to favor the free Americans, and to take 
+their vessels under its special protection. The United States 
+are becoming more and more the granary of France and her 
+colonies ; they manifest the best dispositions to aid us ; and 
+the courage which they have manifested in formally recognizing the French Republic, in spite of the menaces and intrigues 
+of England, prove that their friendship for us is above all political and interested views, which might be thought to incline 
+them to follow the direction which England, Spain, and Holland have vainly endeavored to give them. 
+</p><p>
+In view of these consideration it is evident, that the murder 
+committed on board the Little Cherub ought to be severely 
+punished ; that the captain should receive ample indemnity, as 
+well for the loss and injury sustained on board, as for the de 
+lays he experienced ; and that, in conformity with the sixteenth article of the treaty of commerce between France and 
+the United States, American vessels should enjoy fully, and 
+without any exception, the advantage which results from their 
+neutrality, in as much as this neutrality facilitates the supplies 
+of provisions to the Republic and to her colonies. 
+</p>
+</letter>

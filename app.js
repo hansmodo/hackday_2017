@@ -158,7 +158,7 @@ chrome.cookies.getAll({domain: 'edmodo.com'},
 
       if(cookies['edtr'] && cookies['logged_out']){
         //use case #1 - user logged out
-        //console.log("user is currently logged out.");
+        console.log("----- user is currently logged out. -----");
         User.setAuthStatus(false);
         }else if(cookies['edtr']){
         //use case #2 - user currently logged in
@@ -193,6 +193,9 @@ function closePlugin(e){
   window.close();
 };
 
+function onSaveBtnClick(){
+  IO.addNoteToLibrary();
+};
 /*
 * show  the 'Document' screen
 */
@@ -245,9 +248,11 @@ function transitionFromDoc(selector){
 /*-- dom event handling --*/
 document.querySelector('.'+Conf.CSS.RESULTS).addEventListener('click', onResultsCntrClick, false);
 document.querySelector('.dismiss-control.document').addEventListener('click', onBackBtnClick, false);
-
+document.querySelector('.save.btn').addEventListener('click', onSaveBtnClick, false);
+document.querySelector('.cancel.btn').addEventListener('click', closePlugin, false);
 /*-- custom event mediation between modules --*/
 //called once on load
 PubSub.subscribe('model:set', Facets.render);
 //called as facet selection changes
 PubSub.subscribe('search:facets:changed', handleFacetChange);
+PubSub.subscribe('library:item:added', function(data){console.log("library:item:added says",data)});

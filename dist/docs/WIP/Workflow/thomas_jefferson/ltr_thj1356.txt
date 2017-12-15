@@ -1,0 +1,65 @@
+<letter id='thj1356'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, June 11, <a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+Major Galvan, as recommended by your Excellency, was despatched to
+his station without delay, and has been furnished with every thing he
+desired, as far as we were able. The line of expresses formed between
+us is such, as will communicate intelligence from one to the other in
+twenty-three hours. I have forwarded to him information of our disasters
+in the South, as they have come to me.
+</p><p>
+Our intelligence from the southward is most lamentably defective. Though
+Charleston has been in the hands of the enemy a month, we hear nothing
+of their movements which can be relied on. Rumors are, that they are
+penetrating northward. To remedy this defect, I shall immediately
+establish a line of expresses from hence to the neighborhood of
+their army, and send thither a sensible, judicious person, to give
+us information of their movements. This intelligence will, I hope,
+be conveyed to us at the rate of one hundred and twenty miles in the
+twenty-four hours. They set out to their stations to-morrow. I wish it
+were possible, that a like speedy line of communication could be formed
+from hence to your Excellency's head-quarters. Perfect and speedy
+information of what is passing in the South, might put it in your power,
+perhaps, to frame your measures by theirs. There is really nothing to
+oppose the progress of the enemy northward, but the cautious principles
+of the military art. North Carolina is without arms. We do not abound.
+Those we have, are freely imparted to them; but such is the state of
+their resources, that they have not been able to move a single musket
+from this State to theirs. All the wagons we can collect, have been
+furnished to the Marquis de Kalb, and are assembled for the march of
+twenty-five hundred men, under General Stevens, of Culpeper, who will
+move on the 19th instant. I have written to Congress to hasten supplies
+of arms and military stores for the southern states, and particularly to
+aid us with cartridge paper and boxes, the want of which articles, small
+as they are, renders our stores useless. The want of money cramps
+every effort. This will be supplied by the most unpalatable of all
+substitutes, force. Your Excellency will readily conceive, that after
+the loss of one arm, our eyes are turned towards the other, and that
+we comfort ourselves, if any aids can be furnished by you, without
+defeating the operations more beneficial to the general union, they will
+be furnished. At the same time, I am happy to find that the wishes of
+the people go no further, as far as I have an opportunity of learning
+their sentiments. Could arms be furnished, I think this State and North
+Carolina would embody from ten to fifteen thousand militia immediately,
+and more if necessary.
+</p><p>
+I hope, ere long, to be able to give you a more certain statement of
+the enemy's as well as our situation, which I shall not fail to do.
+I enclose you a letter from Major Galvan, being the second I have
+forwarded to you.
+</p><p>
+With sentiments of the most perfect esteem and respect,
+</p><p>
+I have the honor to be
+</p><p>
+your Excellency's
+</p><p>
+most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

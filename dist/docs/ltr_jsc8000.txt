@@ -1,0 +1,23 @@
+<letter id='jsc8000'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+[TRANSLATION OF GENERAL CASTRO'S LETTER.]
+</p><p>
+Office of the Commandant-General of Upper California, 
+</p><p>
+Headquarters, <a href='/results.php?city=santa clara' rel='city origin'>Santa Clara</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+The undersigned, Commander-in-Chief of the Department, has had advice from various sources, that the boats of the American ship of war Portsmouth, now anchored in San Francisco, 
+go about the bay armed for the purpose of examining its trade, and as in the opinion of the undersigned, the aforesaid ship cannot practise such acts in a port which belongs to the Mexican 
+nation, he addresses himself to the commander of the aforesaid ship, to the end that he will please inform him, in reply, with what object he takes those measures; that, in consequence, he 
+may act in conformity with his orders from his Government. 
+</p><p>
+The undersigned has the honor to repeat to the commander of the aforesaid ship assurances of his most respectful consideration. 
+God and Liberty. 
+</p><p>
+(Signed) <a href="/results.php?tla=jsc" rel="me">Jose Castro</a>. 
+</p><p>
+To the Commander of the American Sloop of War Portsmouth,<br>
+anchored in the Bay of San Francisco. 
+</p>
+</letter>

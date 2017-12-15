@@ -1,0 +1,25 @@
+<letter id='abl392'>
+<recipient first='James' last='Hackett' type='individual'/>
+<p><i><a href='/results.php?city=washington' rel='city origin'>Washington</a>. August 17, <a href="/results.php?year=1863">1863</a></i></p>
+
+<p>My dear Sir, Months ago I should have acknowledged the receipt of your
+book and accompanying kind note; and I now have to beg your pardon for
+not having done so.</p>
+
+<p>For one of my age I have seen very little of the drama. The first
+presentation of Falstaff I ever saw was yours here, last winter or
+spring. Perhaps the best compliment I can pay is to say, as I truly can,
+I am very anxious to see it again. Some of Shakespeare's plays I have
+never read; while others I have gone over perhaps as frequently as any
+unprofessional reader. Among the latter are <i>Lear</i>, <i>Richard III.</i>,
+<i>Henry VIII.</i>, <i>Hamlet</i>, and especially <i>Macbeth</i>. I think nothing
+equals <i>Macbeth</i>. It is wonderful.</p>
+
+<p>Unlike you gentlemen of the profession, I think the soliloquy in
+<i>Hamlet</i> commencing &quot;Oh, my offence is rank,&quot; surpasses that commencing
+&quot;To be or not to be.&quot; But pardon this small attempt at criticism. I
+should like to hear you pronounce the opening speech of Richard III.
+Will you not soon visit Washington again? If you do, please call and let
+me make your personal acquaintance.</p>
+
+<p>[<a href="/results.php?tla=abl" rel="me">A. LINCOLN</a>]</p></letter>

@@ -1,0 +1,15 @@
+<letter id="mbc7547">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a href='/results.php?year=1861' rel="origin">1861</a>]. Met the lovely Lucy Holcombe, now Mrs. Governor Pickens, last night at Isaac Hayne's. I saw Miles 
+now begging in dumb show for three violets she had in her breast-pin. She is a consummate actress and he well up in 
+the part of male flirt. So it was well done. 
+</p><p>
+" And you, who are laughing in your sleeves at the scene, where did you get that huge bunch? : " Oh, there 
+is no sentiment when there is a pile like that of any thing! " " Oh, oh! " 
+</p><p>
+To-day at the breakfast table there was a tragic be stowal of heartsease on the well-known inquirer who, once 
+more says in austere tones : Who is the flirt now ? And so we fool on into the black cloud ahead of us. And 
+after heartsease cometh rue. 
+</p>
+</letter>

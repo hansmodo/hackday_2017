@@ -1,0 +1,17 @@
+<letter id="nib5290">
+<recipient first="Thomas" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>  <a rel="month origin" value="8">August</a> <a rel='day origin' value='16'>16th</a> <a href='/results.php?year=1833' rel="origin">1833</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+. . . This I know is their design. This very day, a gentleman in whom I have the utmost confidence, repeated to 
+me a conversation which a friend of his had with Mr. Woodbury. In the course of it, the latter said, "We are not against 
+a bank, but against the Bank" "We went (this was his precise expression) to scrabble for the Stock and to have the 
+Offices." "But," said the other, "what will you do with the constitutional question?" "Poh," said Woodbury, "that we 
+can use to "suit ourselves." And this is what they all intend. I do not believe that a single member of the Cabinet 
+has any constitutional doubts about the matter except Mr. Duane and he, I incline to think, is almost, if not quite as 
+firm, in his dislike to State Banks. He is entirely and cordially against the movement of Kendall &amp; I cannot doubt he will 
+resist the gamblers. . . . 
+</p>
+</letter>

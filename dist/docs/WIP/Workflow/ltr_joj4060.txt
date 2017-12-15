@@ -1,0 +1,56 @@
+<letter id="joj4060">
+<recipient first="Robert" last="Livingston" type="individual"/>
+<p>   	 
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='19'>19th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On the 1st instant, I had the pleasure of receiving your favour of the 21st May hist. 
+</p><p>
+I am happy to hear that the provisional articles meet 
+with general approbation. The tories will doubtless cause 
+some difficulty, bul thai they have always done, and as this 
+will probably be the hist time, we musl m; : best of it. 
+A universal indiscriminate condemnation and expulsion of 
+those people, would not r< dound to our honour, because so 
+harsh a measure would partake more of vengeance than of 
+justice. For my part, I wish that all except the faith 
+and the cruel may be forgiven. That exception would 
+indeed extend to very few ; but even if it applied to the 
+case of one only, that one ought, in my opinion, to be 
+saved. 
+</p><p>
+The reluctance with which the States in general pay the 
+necessary taxes, is much to be regretted ; it injures both 
+their reputation and interest abroad, as well as at home, 
+and tends to cherish the hopes and speculations of those 
+who wish we may become and remain an unimportant, 
+divided people. The rising power of America is a serious 
+object of apprehension to more than one nation, and every 
+event that may retard it will be agreeable to them. A 
+continental, national spirit should therefore pervade our 
+country, and Congress should be enabled, by a grant of the 
+necessary powers, to regulate the commerce and general 
+concerns of the confederacy ; and we should remember 
+that to be constantly prepared for war, is the only way to 
+have peace. The Swiss on the one hand, and the Dutch 
+on the other, bear testimony to the truth of this remark. 
+</p><p>
+The general and the army have, by their late moderation, 
+done themselves infinite honour ; and it is to be hoped that 
+the States will not only be just, but generous to those brave 
+and virtuous citizens. America is at present held in a very 
+respectable point of view, but as the eyes of the world are 
+upon her, the continuance of that consideration will depend 
+on the dignity and wisdom of her conduct. 
+</p><p>
+I mean to return next spring. My health is somewhat 
+better. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your affectionate and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

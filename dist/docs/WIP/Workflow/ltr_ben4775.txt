@@ -1,0 +1,30 @@
+<letter id="ben4775">
+<recipient first="John" last="Bartram" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">January</a> n, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+MY EVER DEAR FRIEND, 
+</p><p>
+I received your kind letter of November 2Qth, with the 
+parcel of seeds, for which I am greatly obliged to you. I cannot make you adequate returns in kind ; but I send you however some of the true rhubarb seed, which you desire. I had 
+it from Mr. English, who lately received a medal of the 
+Society of Arts for propagating it. I send also some green 
+dry peas, highly esteemed here as the best for making pea 
+soup ; and also some Chinese caravances, with Father Navarrete's ' account of the universal use of a cheese made of them 
+in China, which so excited my curiosity, that I caused inquiry 
+to be made of Mr. Flint, who lived many years there, in what 
+manner the cheese was made, and I send you his answer. I 
+have since learned, that some runnings of salt (I suppose 
+runnet) is put into water, when the meal is in it, to turn it to 
+curds. I think we have caravances' with us, but I know 
+not whether they are the same with these, which actually 
+came from China. They are said to be of great increase. 
+</p><p>
+I shall inquire of Mr. Collinson for your Journal. I see 
+that of East Florida is printed with Stork's Account. 3 My 
+love to good Mrs. Bartram and your children. With esteem 
+I am ever, my dear friend, yours affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

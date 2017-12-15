@@ -1,0 +1,44 @@
+<letter id="mbc7693">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Invited to Dr. Haxall's last night to meet the Lawtons. Mr. Benjamin dropped in. He is a 
+friend of the house. Mrs. Haxall is a Richmond leader of society, a ci-devant beauty and belle, a charming person 
+still, and her hospitality is of the genuine Virginia type. Everything Mr. Benjamin said we listened to, bore in mind, 
+and gave heed to it diligently. He is a Delphic oracle, of the innermost shrine, and is supposed to enjoy the honor of 
+<a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> unreserved confidence. 
+</p><p>
+Lamar was asked to dinner here yesterday; so he came to-day. We had our wild turkey cooked for him yesterday, 
+and I dressed myself within an inch of my life with the best of my four-year-old finery. Two of us, my husband and I, 
+did not damage the wild turkey seriously. So Lamar enjoyed the rechauffe, and commended the art with which 
+Molly had hid the slight loss we had inflicted upon its mighty breast. She had piled fried oysters over the turkey 
+so skilfully, that unless we had told about it, no one would ever have known that the huge bird was making his second 
+appearance on the board. 
+</p><p>
+Lamar was more absent-minded and distrait than ever. My husband behaved like a trump a well-bred man, with 
+all his wits about him ; so things went off smoothly enough. Lamar had just read Romola. Across the water he said it 
+was the rage. I am sure it is not as good as Adam Bede or Silas Marner. It is not worthy of the woman who was to 
+" rival all but Shakespeare's name below." " What is the matter with Romola? " he asked. " Tito is so mean, and 
+he is mean in such a very mean way, and the end is so repulsive. Petting the husband's illegitimate children and 
+left-handed wives may be magnanimity, but human nature revolts at it. Woman's nature, you mean ! : " Yes, 
+and now another test. Two weeks ago I read this thing with intense interest, and already her Savonarola has faded 
+from my mind. I have forgotten her way of showing Savonarola as completely as I always do forget Bulwer's Rienzi." 
+</p><p>
+" Oh, I understand you now! It is like Milton's devil he has obliterated all other devils. You can't fix 
+your mind upon any other. The devil always must be of Miltonic proportions or you do not believe in him ; Goethe's 
+Mephistopheles disputes the crown of the causeway with Lucifer. But soon you begin to feel that Mephistopheles 
+to be a lesser devil, an emissary of the devil only. Is 
+there any Cardinal Wolsey but Shakespeare s? any Mirabeau but Carlyle's Mirabeau? But the list is too long of 
+those who have been stamped into your brain by genius. The saintly preacher, the woman who stands by Hetty and 
+saves her soul; those heavenly minded sermons preached by the author of Adam Bede, bear them well in mind while 
+I tell you how this writer, who so well imagines and depicts female purity and piety, was a governess, or something of 
+that sort, and perhaps wrote for a living ; at any rate, she had an elective affinity, which was responded to, by George 
+Lewes, and so she lives with Lewes. I do not know that she caused the separation between Lewes and his legal wife. 
+They are living in a villa on some Swiss lake, and Mrs. Lewes, of the hour, is a charitable, estimable, agreeable, 
+sympathetic woman of genius. 
+</p><p>
+Lamar seemed without prejudices on the subject; at least, he expressed neither surprise nor disapprobation. He 
+said something of " genius being above law," but I was not very clear as to what he said on that point. As for me I 
+said nothing for fear of saying too much. " You know that Lewes is a writer," said he. " Some people say the 
+man she lives with is a noble man. " " They say she is kind and good if a fallen woman." Here the conversation ended. 
+</p>
+</letter>

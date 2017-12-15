@@ -1,0 +1,45 @@
+<letter id="ben4782">
+<recipient first="Mary" last="Stevenson" type="individual"/>
+<p>
+[<a href='/results.php?city=london' rel='city origin'>London</a>], Thursday, <a rel="month origin" value="5">May</a> <a rel='day origin' value='31'>31</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR POLLY, 
+</p><p>
+I received your Letter early this Morning; and, as I am 
+so engaged, that I cannot see you when you come to-day, I 
+write this Line just to say, that I am sure you are a much 
+better Judge in this Affair of your own, than I can possibly 
+be. 2 In that Confidence it was, that I forebore giving my 
+Advice when you mention'd it to me, and not from any Disapprobation. My Concern (equal to any Father's) for your 
+Happiness makes me write this, lest, having more Regard for 
+my Opinion than you ought, and imagining it against the 
+Proposal because I did not immediately advise accepting 
+it, you should let that weigh any thing in your Deliberations. 
+</p><p>
+I assure you, that no Objection has occur'd to me. His 
+Person you see ; his Temper and his Understanding you can 
+judge of; his Character, for any thing I have ever heard, is 
+unblemished; his Profession, with the Skill in it he is suppos'd to have, will be sufficient to support a Family; and, 
+therefore, considering the Fortune you have in your Hands 
+(tho' any future Expectation from your Aunt should be disappointed), I do not see but that the Agreement may be a 
+rational one on both sides. 
+</p><p>
+I see your Delicacy, and your Humility too ; for you fancy 
+that if you do not prove a great Fortune, you will not be 
+lov'd; but I am sure that were I in his situation in every 
+respect, knowing you so well as I do, and esteeming you so 
+highly, I should think you a Fortune sufficient for me without 
+a Shilling. 
+</p><p>
+Having thus, more explicitly than before, given my Opinion, 
+I leave the rest to your sound Judgment, of which no one has 
+a greater Share ; and I shall not be too inquisitive after your 
+particular Reasons, your Doubts, your Fears, etc. For I 
+shall be confident, whether you accept or refuse, that you do 
+right. I only wish you may do what will most contribute to 
+your Happiness, and of course to mine ; being ever, my dear 
+Friend, yours most affectionately, B. FRANKLIN. 
+</p><p>
+P. S. Don't be angry with me for supposing your Determination not quite so fix'd as you fancy it. 
+</p>
+</letter>

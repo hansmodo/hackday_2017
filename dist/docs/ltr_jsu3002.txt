@@ -1,0 +1,34 @@
+<letter id="jsu3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=chamblee' rel='city origin'>Chamblee</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I had wrote a letter to Congress, and expected to 
+have the honor of writing one to you before the 
+Commissioners departed ; but, as I found them going 
+off before I could possibly finish one to you, I 
+sealed that, and begged Mr. Chase to desire your 
+Excellency to open and read it, which contained the 
+purport of what I intended to write your Excellency. 
+I have, since that, been to Montreal, and find almost 
+every person agreed to depart, without even seeing 
+the enemy. 
+</p><p>
+General Thompson writes, that about eight hundred 
+of the enemy had arrived at Three Rivers, forty-five 
+miles below <a href='/results.php?city=sorel' rel='city'>Sorel</a>, where he is. This he has by report only. I find that all the heavy baggage is sent away, with the intrenching tools, &c. On that account I have ordered them back, and am this moment embarking for <a href='/results.php?city=sorel' rel='city'>Sorel</a>, where I hope to arrive 
+by daybreak, and meet them with all the force I 
+can make. I am far from fearing eight hundred men 
+against such a force as I can muster. I have desired all the general officers to be with me there, 
+who seem well satisfied to go on. Want of time 
+prevents my writing more fully on the state of 
+affairs here at present, which I shall not forget to do 
+as soon as possible. In the interim, I am, dear General, with great respect, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

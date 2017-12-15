@@ -1,0 +1,28 @@
+<letter id="mbc7530">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a rel='month origin' value='11'>November</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1860' rel="origin">1860</a>. Yesterday on the train, just before we reached Fernandina, a 
+woman called out : " That settles the hash. Tanny touched me on the shoulder and said: " <a href='/results.php?tla=abl' rel=''>Lincoln's</a> elected." 
+"How do you know? " " The man over there has a telegram." 
+</p><p>
+The excitement was very great. Everybody was talking at the same time. One, a little more moved than the 
+others, stood up and said despondently : The die is cast ; no more vain regrets ; sad forebodings are useless ; the 
+stake is life or death." " Did you ever! " was the prevailing exclamation, and some one cried out: " Now that the 
+black radical Republicans have the power I suppose they will Brown us all. No doubt of it. 
+</p><p>
+I have always kept a journal after a fashion of my own, with dates and a line of poetry or prose, mere quotations, which I understood and no one else, and I have kept letters and extracts from the papers. From to-day forward 
+I will tell the story in my own way. I now wish I had a chronicle of the two delightful and eventful years that have 
+just passed. Those delights have fled and one's breath is taken away to think what events have since crowded in. 
+Like the woman's record in her journal, we have had " earthquakes, as usual " daily shocks. 
+</p><p>
+At Fernandina I saw young men running up a Palmetto 
+flag, and shouting a little prematurely, " South Carolina has seceded! " I was overjoyed to find Florida so 
+sympathetic, but Tanny told me the young men were Gadsdens, Porchers, and Gourdins, names as inevitably South 
+Carolinian as Moses and Lazarus are Jewish. 
+</p><p>
+From my window I can hear a grand and mighty flow of eloquence. Bartow and a delegation from Savannah are having a supper given to them in the dining-room below. The noise of the speaking and cheering is pretty 
+hard on a tired traveler. Suddenly I found myself listening with pleasure. Voice, tone, temper, sentiment, language, all were perfect. I sent Tanny to see who it was 
+that spoke. He came back saying, " Mr. Alfred Huger, the old postmaster. He may not have been the wisest or 
+wittiest man there, but he certainly made the best after-supper speech. 
+</p>
+</letter>

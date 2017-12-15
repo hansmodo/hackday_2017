@@ -1,0 +1,109 @@
+<letter id="frs3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+To His Excellency <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a>. 
+</p><p>
+It is with the greatest satisfaction I acquaint you 
+that the plan of arrangement for the army, which 
+your Excellency sent to Congress, has been agreed 
+upon yesterday, without any alteration. The granting the half-pay for life, to the reduced officers, has 
+met with some opposition; but the proposition has 
+not only passed, but it was moved and resolved, immediately after, to extend these advantages to all the 
+officers in the service. 
+</p><p>
+In the minutes which <a href='/results.php?tla=alh' rel=''>Colonel Hamilton</a> has delivered me, by your Excellency's order, I find that 
+the four regiments of cavalry, or rather legions, were 
+thus fixed ; — 
+</p><p>
+Four troops of mounted dragoons, sixty men each, 240 
+</p><p>
+Four companies dismounted, or chasseurs, sixty men each, 240 
+</p><p>
+Total, 480 
+</p><p>
+<a href='/results.php?tla=jsu' rel='colleague met'>General Sullivan</a> and Colonel Bland have told me that this is altered in your Excellency's letter; and that there are to be 
+Four troops of mounted dragoons, sixty men each, ....... 240 
+</p><p>
+Two companies of chasseurs, sixty men each, 120 
+</p><p>
+Total, 360 
+</p><p>
+Your Excellency "will allow me to make here a 
+short observation on the subdivision of this cavalry, 
+without altering the totality of the foot or horsemen. 
+Cavalry, especially when two deep, is not very terrible in their attacks in front, and least so when 
+against infantry. The attacks of the cavalry, when 
+they intend to overthrow or break a line, are generally made by troops or squadrons, or in column, or 
+in echiqidcr (checkerwise). The deeper they are, the 
+surer they are to break through. If, then, instead of 
+four, a regiment was divided into six troops, the object would be better answered. 
+</p><p>
+There is another reason, which has determined the 
+King of Prussia to divide his light-horse, or hussars, 
+into six companies, forming three squadrons. The 
+cavalry, after an attack, is generally in disorder ; they 
+must then be rallied by the sound of the trumpet. 
+When they are divided into three squadrons, the 
+right, left, and centre only indicate how the men are 
+to rally, which is not so easy when they are divided 
+into four troops. When three squadrons are in order 
+of battle, the signals, whether the right, left, or centre squadron is to charge, still meet with difficulty 
+when the cavalry is divided into four squadrons or 
+troops ; and this is the reason why, in several European services, an odd number has been adopted for 
+the manoeuvres of the light-horse. 
+</p><p>
+Besides, our regiments of cavalry will have, I believe, as those of infantry, three Field-Officers. Each 
+of them will then command a squadron, which will 
+consist of two companies. Wherefore I propose that 
+each regiment of cavahy may be divided into three 
+squadrons, each squadron into two companies, each of 
+which shall consist of forty men, which will make 
+eighty men for a squadron. The companies of chasseurs ouo-ht to be likewise three in number, each 
+company to consist of fifty men, rank and file, attached, on all occasions, to the first, second, and third 
+squadron of the regiment. And, as it often happens 
+that the squadrons are separated from one another, 
+each company of chasseurs ought to be always 
+attached to its squadron, as well to support it in its 
+manoeuvres as to guard it in its quarters. As, by this 
+subdivision, the totality will not suffer a great alteration, I believe it will not alter the general plan. I 
+will, therefore, mention it to no one besides your Excellency; and I think it is in your power to order 
+this subdivision, if you think proper. 
+</p><p>
+I am not very happy in the arrangement of my 
+department. The plan relative thereto, which your 
+Excellency has delivered to the Committee which was 
+at camp, after having been a little altered by that 
+Committee, was sent to Congress. Congress referred 
+it to the Board of War, who, after having altered it, 
+sent it back to Congress, who thought proper to refer 
+it to a Committee of three, who made new alterations. 
+Now it has been so much altered, that it does not at 
+all resemble itself No intimation was officially given 
+me of it, and I read it in a printed copy, which fell 
+accidentally into my hands. I have the honor to 
+transmit one to your Excellency. 
+</p><p>
+The monthly addition of from five to eight dollars 
+to the pay of officers of such merit as those whom 
+your Excellency has chosen for the Inspectorship, appears to me so very mean, that I will not take upon myself to make them such a proposition. When the 
+ancient Majors of brigade, who, in the first institution, 
+were taken from the line of Lieutenants or Ensigns, 
+had an addition to their pay of twenty-four dollars per 
+month, how can nine dollars now be proposed to a 
+Colonel for discharging so important and so painful a 
+function? I am now endeavouring to find how much 
+the Muster-master's department has cost the States. 
+I am sure that the addition I ask for the Officers of 
+Inspectorship will not amount to an eighth part of it. 
+Several resolutions, in this arrangement, are contradictory to one another, and others are not sufficiently 
+clear. I am therefore determined to present a Memorial to Congress, in order to have the Inspectors' department established on the footing proposed by your 
+Excellency, without any alteration. If Congress desire that I should continue in this office, I flatter 
+myself they will have a regard to my representation. 
+</p><p>
+I am, &c.. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frs" rel="me"><a href='/results.php?tla=frs' rel=''>Baron Steuben</a></a>. 
+</p>
+</letter>

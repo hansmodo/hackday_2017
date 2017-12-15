@@ -1,0 +1,51 @@
+<letter id="joj4056">
+<recipient first="Francis" last="Child" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Frank, 
+</p><p>
+Your letter of the 1st of January last was delivered to 
+me yesterday, and gives me pleasure. You do well to look 
+forward to the means of exercising your profession to 
+advantage. You shall continue to have my aid and protection, in such measure and season, as circumstances may 
+render proper and expedient. 
+</p><p>
+You belong to a large and helpless family, and I wish to 
+see you as able, as I hope you would be willing, to provide 
+for them. 
+</p><p>
+I think with you, that on the evacuation of New-York, 
+you may set up a press there with a good prospect of success. On speaking to <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a> yesterday about it, he 
+told me that when the enemy left <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, they carried 
+from thence to New- York, a printing-press of his, and that 
+it is now in the possession of one Robinson, a printer, at 
+New-York. As by the provisional treaty the British forces 
+are not to carry away any effects of the inhabitants, this 
+press may perhaps be recovered. The Dr. has desired me 
+to prepare a letter of attorney for the purpose, to some person in New-York, and in case it should be restored, will 
+lend it to you. I shall immediately think of furnishing you 
+with some types, and <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a> has promised his assistance, so that you may soon expect to hear from me again 
+about these matters. In the mean time, write a letter of 
+thanks t<> the Dr. for his kind attention. 
+</p><p>
+I must remind you that you should extend your application beyond the mere mechanical [-art of your business. 
+You will have to compose as well as to print, and you 
+should take pains not only to store your mind with useful 
+knowledge, but also to acquire the talent of writing in a 
+clear, concise, and accurate style. Remember too, that an 
+acquaintance with accounts, and the method of keeping 
+them, is not to be neglected. It is important to all men, 
+and particularly to those who cannot afford to be careless. 
+If you are industrious, prudent, and punctual in the conduct 
+of your business, you will most certainly succeed ; and my 
+desire of helping you, instead of abating, will be increased 
+by your endeavours to help yourself. 
+</p><p>
+I am, with sincere regard, dear Frank, 
+</p><p>
+Your friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

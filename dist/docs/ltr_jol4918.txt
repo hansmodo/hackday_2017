@@ -1,0 +1,52 @@
+<letter id="jol4918">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='5'>5th</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father: 
+</p><p>
+Some commercial technicalities puzzled me in the 
+letters which you sent me to translate. My French 
+acquaintance here are almost as much at a loss how 
+to render the words in question, as much as I was my 
+self; however, I believe the following explanations are 
+right: fonsage, one of the articles of charge in the 
+account sales, signifies, filling up, or packing ; it stands 
+thus in the original, an tonnelier ponr fonsaye $ foneage, 
+i. e., to the cooper for packing gabarage ; another charge 
+is properly cooperage, or repairs to the cask. 
+</p><p>
+Livraison, another charge, means the delivery ; but I 
+can t explain what delivery is to be understood, as it 
+is unconnected with any other word. 
+</p><p>
+Babut & Labouchere in one of their letters say, 
+" We are sorry the goods per Capt. Cochran were ovaries. 
+The blank in this part of my translation is to be sup 
+plied with the word averaged; the cargo, I suppose, 
+received some damage at sea. 
+</p><p>
+In another letter, where they relate the prices curr , 
+goudron means tar, and bray, I can only guess, means 
+green tar, for it is placed among the productions of the 
+pine tree, and it cannot signify pitch, for that is 
+express'd by poix. I am exceedingly sorry that my 
+ignorance in these matters has made me bungle so, but 
+hope there will be no ill consequence arise from it. 
+</p><p>
+The continuance of your pains is a great affliction to me ; and if sympathy can alleviate, or prayers avail 
+to remove the evil, the tenderness of the former causes 
+the latter incessantly to now from 
+</p><p>
+Your affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+Inclosed is a newspaper, which, though not of a very 
+recent date, may afford you some amusement. The 
+means which are taken in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> to discredit the 
+report of a French war, are to me, better proof in our 
+favor, than many testimonies that are exhibited 011 
+our part. 
+</p>
+</letter>

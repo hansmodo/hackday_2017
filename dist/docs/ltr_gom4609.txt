@@ -1,0 +1,79 @@
+<letter id="gom4609">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="6">June</a> <a rel='day origin' value='17'>17th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I had the honor to write to you on the tenth instant. The 
+ministry is changed rather sooner than I expected, that is to 
+say, as to the totality. Messieurs Servan, Roland, and Claviere were dismissed by M. Dumouriez. He filled the 
+places of the two former with his particular friends, and as this 
+step was decisive and would certainly bring on very serious 
+quarrels, it was supposed that he had prepared himself before 
+hand for all consequences. 
+</p><p>
+It would seem, however, that he was less firmly fixed than 
+he had imagined, for as the reason for sending away the other 
+ministers was, that they insisted on the royal sanction to the 
+two obnoxious and unconstitutional decrees, it was in the 
+natural order of things, that they should be immediately sent 
+back to the Assembly. Instead of that it is said, that Monsieur Dumouriez insisted on passing both, and in case of refusal 
+threatened resignation. To his surprise the King accepted 
+the resignation, and in consequence, his friends newly appointed go out with him. As the present set have not all taken 
+the oaths, I will defer giving you the list for the present, but 
+put at the foot of my letter the names and places of such as 
+may finally be fixed on. 
+</p><p>
+The Jacobins were busy all last night to excite a tumult in 
+the city, but the precautions taken to prevent it have as yet 
+proved successful. I am told that M. Lucloier and M. de 
+Lafayette still persist in their determination not to risk an 
+action. If so, the present state of uncertainty may continue 
+some time. If they fight and gain a victory, it is not improbable that we may witness some outrages of the most flagitious 
+kind. If on the contrary there is any capital defeat, the Jacobin faction will be a little moderated. On the whole, Sir, we 
+stand on a vast volcano, we feel it tremble and we hear it 
+roar, but how, and when, and where it will burst, and who may 
+be destroyed by its eruption, are beyond the ken of mortal 
+foresight to discover. 
+</p><p>
+While I am writing I learn the following to be the arrangement for the new ministry. Of the old set, two remain, M. 
+Duranthon and M. Lacoste. The former is said to be a 
+pretty honest man, but rather too much attached to the Faction Bordeloise. The latter is considered as an honest man, 
+well acquainted with the business of his department, the 
+Marine. M. Lajarre is appointed to the department of War. 
+He is a creature of M. de Lafayette. His ability doubtful, 
+but his principles sound. M. Chambonas is appointed to the 
+office of Foreign Affairs. He is un homme tf esprit, but une mauvaise tete, un mauvais sujet, and ignorant of the business, 
+at least so says my informant, and he is well informed. M. 
+Mouciel, a very worthy man, is named to the department of 
+the Interior, but his acceptance is very doubtful. The 
+minister of Impositions is not yet fixed on. He will I believe 
+be a cypher, for two or three such have been applied to. 
+</p><p>
+This new ministry will be purged, at any rate, of some of 
+its members, but one great doubt exists whether it will not be 
+driven off by the Jacobin faction. It is in contemplation to 
+make a serious effort against that faction in favor of the constitution, and M. de Lafayette will begin the attack. I own 
+to you that I am not sanguine as to the success. Very much 
+is to be done, and there is very little time to do it in, for the 
+foreign enemy will soon be greatly superior in number, and it 
+seems now to be ascertained, that Alsace and Lorraine are 
+disposed to- join the invaders. Thus, while a great part of 
+the nation is desirous of overturning the present government, 
+in order to restore the ancient form, and while another part, 
+still more dangerous from position and numbers, are desirous 
+of introducing the form of a federal republic, the moderate 
+men, attacked on all sides, have to contend alone against an 
+immense force. 
+</p><p>
+I cannot go on with the picture, for my heart bleeds when I 
+reflect that the first opportunity, which ever presented itself for 
+establishing the rights of mankind throughout the civilized 
+world, is perhaps lost, and forever. I write on as events arise, 
+and shall continue to do so until an opportunity to send my 
+letters shall present itself. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

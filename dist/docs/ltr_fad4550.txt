@@ -1,0 +1,37 @@
+<letter id="fad4550">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='27'>27th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+My predecessor has sent me a letter, which you wrote to him on the nineteenth instant, demanding reparation for an 
+outrage committed on board the American ship, Little Cherub. The report made on this subject has been transmitted to you. 
+</p><p>
+The numerous occupations of the Comite de Salut Public 
+not having yet allowed them to pursue the matter, I have 
+thought it my duty to press a decision by a letter, of which I 
+send you a copy, and I hope to announce to you in a short 
+time the reparation you demand in the name of your constituents. 
+</p><p>
+I seize with eagerness this occasion to assure you, that 
+the change of the chief in the department of Foreign Affairs 
+will, in no degree, influence the amicable dispositions, which 
+have hitherto existed in your political relations with this department. These dispositions are those of the whole nation, 
+and every agent of the French people should be obliged to 
+conform himself thereto, even if he had not, as in my case, 
+the highest esteem, and fraternal attachment for the United 
+States. 
+</p><p>
+I trust, Sir, that events more propitious, than those now in 
+question, will become the subject of our correspondence, and 
+that, instead of reparations, I shall have to announce to you 
+only the spontaneous testimonies of the friendship of all my 
+fellow citizens for their allies. I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=fad" rel="me">DEFORGUES</a>. 
+</p><p>
+</p>
+</letter>

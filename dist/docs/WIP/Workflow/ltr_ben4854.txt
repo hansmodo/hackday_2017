@@ -1,0 +1,25 @@
+<letter id="ben4854">
+<recipient first="William" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">Aug</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1772' rel="origin">1772</a>
+</p><p>
+SIR, 
+</p><p>
+I received yours of May 16 with the Box of Books, and 
+have already delivered and forwarded most of them as directed. I supply'd D r Fothergill with the wanting Sheet. 
+I approve much of the Letter's being in English. I forwarded 
+your Letter to Mr. White, Son of Taylor White, Esq r late 
+Treasurer of the Foundling Hospital (now deceased) but he 
+has not call'd for the Book. I am glad to hear of your Success 
+at South Carolina, and that the College flourishes. I send 
+enclosed a Pamphlet on a new Discovery that makes some 
+Noise here. With my best Wishes of Prosperity to the 
+Society and Thanks for the Number of Books they have 
+sent me, which I shall endeavour to dispose of to their 
+Credit, I am, Sir, 
+</p><p>
+Your most obed' hum  Servant 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

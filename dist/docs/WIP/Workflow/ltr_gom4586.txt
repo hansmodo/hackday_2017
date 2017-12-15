@@ -1,0 +1,83 @@
+<letter id="gom4586">
+<recipient first="William" last="Short" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your letter of the 12th did not arrive until this morning. It 
+is perfectly natural that your opinions should differ from mine. There will ever be a difference of opinions on subjects, which 
+do not admit of demonstration. It will be very long before po 
+litical subjects will be reduced to geometric certitude. At pre 
+sent the reasoning on them is a kind of arithmetic of infinities, 
+where the best information, the wisest head, and clearest mind, 
+can only approach the truth. A cautious man should, there 
+fore, give only Sybilline predictions, if indeed he should haz 
+ard any. But I am not a cautious man. I therefore give it 
+as my opinion, that they will issue the paper currency, and sub 
+stitute thereby depreciation in the place of bankruptcy, or rather suspension. 
+</p><p>
+Apropos of this currency, this papier-terre, I could tell them 
+of a country where there is a papier- terre now mort et enterre. 
+The Assembly havec ommitted many blunders, which is not to 
+be wondered at. They have taken genius instead of reason 
+for their guide, adopted experiment instead of experience, and 
+wander in the dark because they prefer lightning to light. I 
+think you are mistaken in supposing, that the emission of paper 
+will destroy the proportion of prices. This proportion is in 
+dependent of the medium of trade. The one results from a 
+relation of things, the other is only an ideal standard by which 
+to measure those things. Your height and mine would be the 
+same, and consequently the proportion of one to the other the 
+same, although a measure of six inches should be called a 
+foot. 
+</p><p>
+You are very merry on the subject of personal liberty, but 
+the District has more to say than many are aware of. Is it not 
+written in the Droit tfHomme, that liberty is an inalienable property of man inseparable from the human character ? And if 
+this be so, pray what better mode of securing personal liberty 
+than to secure the person ? Your wits may sneer, but you 
+must learn to respect the decrees of the municipalities, which 
+like, those of Heaven are inscrutable, but not on that account 
+the less entitled to obedience and respect. The lady, I am 
+told, is so far from complaining of the restraint she was laid 
+under, that although an aristocrat, she tells the Assembly with all becoming humility that she finds their yoke is easy and 
+their burden light, while the young gentleman ordered on duty 
+in her chamber acknowledges that service to be perfect free 
+dom. Shortsighted man that you are ! Is it not a general com 
+plaint, that France is torn by a division of political sentiment 
+and opinion? And what mode so effectual to produce a union 
+of both, as to give the women of one party in charge to men of 
+the other ? By way of addition and amendment, I would 
+humbly propose that the male aristocrats should be put into the 
+custody of the female whigs, and I dare say they would come 
+out much less fierce than they were. 
+</p><p>
+That the Assembly should continue its session too long is 
+both natural and necessary. Mankind in general reason only 
+from their feelings, and therefore to discern the wrong, which 
+that body has committed, the people must first be heartily displeased with them. And then they will go too far the other 
+way. It is a pendulum, and the farther you draw it on one side 
+the farther will it go towards the other. 
+</p><p>
+I have very late news from America, viz. the 14th of August, 
+but my correspondents do not give themselves the trouble to 
+communicate any political intelligence. The funding bill is, I 
+understand, in this city, but I have not yet seen it. They have 
+not provided for the full interest of the public debt. As to 
+the ability of the country, you need not entertain the slightest 
+apprehension. The domestic debt is always a mere nominal 
+thing. It neither adds to, nor takes away from the mass of national property, but furnishes a species of private property, 
+which from its convertible nature, and by holding a kind of 
+middle rank between real value and the mere sign of value, 
+may be rendered of admirable use to increase commercial circulation, invigorate the manufactures, and consequently to benefit the agricultural interests, which receive thereby under the 
+name of price more than they pay under the name of tax. 
+</p><p>
+The situation of France is by no means desperate. A torrent of depreciation may inundate the land, and storms and 
+tempests arise, but the one you know fertilizes the soil, and the 
+other purifies the atmosphere. Ultimately health and abundance succeed the wintry appearance, which seemed fatal to 
+both. Adieu. I shall leave this in a day or two. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

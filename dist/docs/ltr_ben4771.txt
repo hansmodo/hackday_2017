@@ -1,0 +1,24 @@
+<letter id="ben4771">
+<recipient first="Samuel" last="Cooper" type="individual"/>
+<p>
+DEAR SIR, <a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="9">Sept</a> ' <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1769' rel="origin">1769</a>  
+</p><p>
+Your favour of Aug' 3d has given me great Pleasure. I 
+have only time now to acknowledge the Receipt of it, but 
+purpose to write fully by the next Opportunity. I am just 
+returned from France, where I found our Dispute much 
+attended to, several of our Pamphlets being translated and 
+printed there, among the rest my Examination and the 
+Farmer's Letters? with two of my Pieces annexed, of which 
+last I send you a Copy. In short, all Europe (except Britain) 
+appears to be on our side the question. But Europe has its 
+Reasons. It fancies itself in some Danger from the Growth 
+of British Power, and would be glad to see it divided against 
+itself. Our prudence will, I hope, long postpone the Satisfaction our Enemies expect from our Dissensions. With 
+sincere and great Esteem, I am, dear Sir, 
+</p><p>
+Your most obedient humble Serv' 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

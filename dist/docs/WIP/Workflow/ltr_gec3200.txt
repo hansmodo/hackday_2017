@@ -1,0 +1,162 @@
+<letter id="gec3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I was not honored with the receipt of your Excellency's letter of the 3d instant, before Friday last. I 
+am truly sensible that the security of the North 
+River is a matter of the utmost importance to the 
+United States in the present war, and that the safety 
+of this State in a more particular manner depends 
+upon it. It gives me real concern, therefore, that so 
+little has been yet done to effect it. Works we laid 
+out, and began, to defend the chevaux-de-frise, and 
+something was done towards finishing and sinking 
+such of them as were not completed when the enemy 
+came up the river; and these are the only steps that 
+have hitherto been taken. 
+</p><p>
+When the enemy left the river, it was my opinion 
+that as many of the troops from the Northern Department should be sent to reenforce the Grand Army 
+under your Excellency's more immediate command, as 
+could be possibly spared ; that no greater number 
+should be left in this quarter than what would be 
+barely sufficient to cover the country, which is more 
+immediately exposed to the ravages of the enemy ; to 
+amuse them from sending large reinforcements to 
+General Howe ; and to carry on the necessary works 
+for the security of the river. One brigade of Continental troops, with the militia then in service, and 
+such of this State as I should be able to call out, I 
+conceived fully sufficient for the purposes. Two small 
+New Hampshire militia regiments, which were sent 
+down from the northward by <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, about 
+seventy Connecticut militia, and those of Colonel Dubois's, who escaped from Fort Montgomery, and a 
+regiment of militia of this State, were assigned for 
+the works. The rest of the troops, consisting of 
+General Warner's brigade of militia (which arrived 
+earliest), General Parsons's brigade, and some Connecticut militia, were drawn off to King's Street and 
+the adjacent neighbourhood on the Sound, under the 
+immediate command of <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>. 
+</p><p>
+It was late before the militia from the northward 
+arrived, and they were worn out with the fatigues of 
+the campaign and their long march hither. The time 
+for which they were engaged in the service expired 
+the 1st of this month, and of those of this State the 
+15th; and while they were with us, the want of tools 
+and materials was such as to prevent their being employed to any degree of advantage. Dubois's regiment are the only troops on the spot at present, 
+which are by no means sufficient to mount the necessary guards. Of course the works are entirely 
+neglected. 
+</p><p>
+The resolutions of Congress, of the 5th of November, for regaining the forts and passes on Hudson's 
+River, and securing the communication thereof, vested 
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a> with such ample powers for drawing 
+supplies of men and materials from New Jersey, and 
+the different States eastward, that something essential 
+might yet have been done towards the completion of 
+this important business before the opening of the 
+spring, would he have taken upon himself the direction of it. But, as I understand that gentleman pro 
+poses taking his seat at the Board of War, agreeably 
+to his late appointment, those resolutions, as they apply to him particularly, will lose their intended effect ; 
+and, though I learn by a letter I received from <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, accompanying that from your Excellency, 
+that he is directed to turn his views in future to this 
+object, yet, however capable he may be for the task, 
+I fear he will fall short in the execution of it, unless 
+he shall be able to command the same aids, at least, 
+which <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> was empowered to do. 
+</p><p>
+I am clearly of the opinion, that a strong fortress 
+ought to be erected either on the opposite side of 
+the creek from where Fort Montgomery stood, or 
+at <a href='/results.php?city=west point' rel='city'>West Point</a>, opposite Port Constitution. The latter I prefer, as the most defensible ground, and be 
+cause the navigation of the river there is more difficult and uncertain, and the river something narrower 
+than it is at the former place. A new chain should 
+be procured, if possible, and with the boom, which is 
+nearly completed, stretched across the river. This, 
+with a floating battery or two, and some gun-boats, 
+I am persuaded, would answer the purpose effectually; 
+and in this 6 pinion I am confirmed, as the enemy 
+chose to risk every thing for the reduction of Fort 
+Montgomery, rather than to attempt passing it with 
+their shipping, while in our possession. If <a href='/results.php?city=west point' rel='city'>West Point</a> 
+should be the place fixed upon, it might be of 
+great advantage to erect a small strong work on the 
+high point on the opposite shore, a little above Fort 
+Constitution. 
+</p><p>
+As to the management in this department, of which 
+your Excellency desires my sentiments, I am con 
+strained to say (but I wish it may be considered as in 
+confidence) we have either been very unfortunate, or 
+it has not been as wise as might be wished. Prudent 
+management of our small force, in my humble opinion, would have saved the forts, though, perhaps, 
+with the far less important loss of the Continental 
+Village. By losing the forts, the Village fell, of course. 
+It is true a few stores were moved from thence, and 
+saved, but I dare say not of equal value with those 
+lost at the forts, exclusive of the shipping. Besides, 
+had we held the forts, we should have commanded 
+the navigation of the river, and drove the enemy to 
+the necessity of attempting to relieve Burgoyne (for 
+it is evident that this was their intention) by land, 
+in which case it might have been in our power, by 
+calling the militia to our assistance, to have destroyed 
+Clinton's whole army. Indeed, without opposition they 
+could not have effected a march in season for the in 
+tended purpose, and I am confident they never would 
+have attempted it. 
+</p><p>
+I never considered <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, or the Village, posts 
+of great importance, only as they stood connected 
+with the defens of the river ; for, without the latter, 
+the enemy could, by landing above, come in the rear of the former, in which case they must fall, of course. 
+The event has fully proved this. Notwithstanding, 
+the chief part of this department were kept idle at 
+<a href='/results.php?city=peekskill' rel='city'>Peekskill</a> and the Village, while the forts were left 
+without a sufficient number of men to carry on and 
+complete the works, or defend them. If the shipping had been properly manned, and this was often solicited,, the Congress, at least, might have been saved ; 
+and even after the loss of the forts, by a prudent 
+disposition of the force in this quarter, which was 
+soon greatly increased by the coming in of the militia, <a href='/results.php?city=kingston' rel='city'>Kingston</a> might have been saved, and the greater 
+part of the mischief, committed by the enemy along 
+the shores of the river, prevented. 
+</p><p>
+A constant intercourse, which has been permitted 
+between the country and city, by flags, has, I fear, 
+been very injurious, as well by frequently enabling 
+the enemy to learn our strength, as otherwise, without 
+our being able to derive similar advantages from such 
+correspondence. I have heard that there has been a 
+weekly exchange of newspapers with Governor Tryon, 
+and that the printers, Gaine and London, are permit 
+ted the like liberty. The latter I have no doubt of. 
+An over share of complaisance and indulgence to the 
+disaffected, (which, though arising from principles of 
+benevolence and humanity, will always create jea 
+lousies and unfavorable suspicions, especially among 
+the common people, and often even reach the army,) 
+should, therefore, be carefully avoided. In these respects, I cannot help thinking there has been a want 
+of common prudence. I have taken the liberty of 
+hinting my sentiments of these matters to General 
+Putnam, and I would fain hope that there may be 
+more circumspection used in future. 
+</p><p>
+The Legislature of this State is to meet at this 
+place on the 5th of next month. The variety of important business to be prepared for their consideration, and other affairs of government, will employ so 
+great a part of my time, that I should not be able 
+to give that attention to the works for the security 
+of the river, as their importance, and the short time 
+in which they ought to be completed, require. But 
+you may rest assured, Sir, that every leisure hour shall be faithfully devoted to them, and my advice 
+and assistance shall not, for any consideration, be 
+withheld from the person who shall be intrusted with 
+the chief direction of them. I have the honor to be, 
+with the most sincere esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

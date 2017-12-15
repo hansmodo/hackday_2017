@@ -1,0 +1,21 @@
+<letter id="mbc7549">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='6'>6th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a href='/results.php?year=1861' rel="origin">1861</a>]. The plot thickens, the air is red hot with rumors; the mystery is to find out where these utterly 
+groundless tales originate. In spite of all, Tom Huger came for us and we went on the Planter to take a look 
+at Morris Island and its present inhabitants Mrs. Wigf all and the Cheves girls, Maxcy Gregg and Colonel Whiting, 
+also John Rutledge, of the Navy, Dan Hamilton, and William Haskell. John Rutledge was a figurehead to be proud 
+of. He did not speak to us. But he stood with a Scotch shawl draped about him, as handsome and stately a creature as ever Queen Elizabeth loved to look upon. 
+</p><p>
+There came up such a wind we could not land. I was not too sorry, though it blew so hard (I am never seasick). 
+Colonel Whiting explained everything about the forts, what they lacked, etc., in the most interesting way, and Maxcy 
+Gregg supplemented his report by stating all the deficiencies and shortcomings by land. 
+</p><p>
+<a href='/results.php?tla=pgb' rel='met'>Beauregard</a> is a demigod here to most of the natives, but there are always seers who see and say. They give 
+you to understand that Whiting has all the brains now in use for our defense. He does the work and <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> 
+reaps the glory. Things seem to draw near a crisis. And one must think. Colonel Whiting is clever enough for 
+anything, so we made up our minds to-day, Maxcy Gregg and I, as judges. Mr. Gregg told me that my husband was 
+in a minority in the Convention; so much for cool sense when the atmosphere is phosphorescent. Mrs. Wigfall says 
+we are mismatched. She should pair with my cool, quiet, self-poised Colonel. And her stormy petrel is but a male reflection of me. 
+</p>
+</letter>

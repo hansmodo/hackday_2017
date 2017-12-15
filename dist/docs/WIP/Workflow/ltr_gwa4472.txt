@@ -1,0 +1,19 @@
+<letter id="gwa4472">
+<recipient first="Ezra" last="Styles" type="individual"/>
+<p>
+TO EZRA STYLES, PRESIDENT OF YALE COLLEGE. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>.
+</p><p>
+Sir, 
+</p><p>
+For the honor conferred on me by the President and 
+Fellows of the University of Yale College, by the degree of Doctor of Laws, my warmest thanks are offered ; and the polite nianner, in which you are pleased 
+to request my acceptance of this distinguished mark 
+of their favor, demands my grateful acknowledgments. 
+That the college, over which you preside, may long 
+continue a useful seminary of learning, and that you 
+may be the happy instrument in the hand of <a href='/results.php?city=providence' rel='city'>Providence</a> for raising it to honor and dignity, and making 
+it promotive of the happiness of mankind, is the sincere wish of, Sir, &c. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="pjs3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I arrived here last night, and immediately received 
+orders for sending you the lead (my former ones 
+not having- come to hand). It will leave Crown 
+Point this afternoon, and be forwarded without loss 
+of time to you. 
+</p><p>
+<a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> leaves Crown Point to-day, 
+with twelve hundred men and four twelve-pounders. 
+I follow him this evening, and have ordered the 
+whole strength I can spare to join me at Isle aux Noix without delay. When they arrive there, which 
+I hope will be in five days, I shall then be near 
+two thousand strong. I am still of opinion that the 
+Canadians and Indians will be friendly to us, unless 
+[for] the imprudence of a Captain Baker, who, without 
+my leave, went upon a scout, and, contrary to the 
+most pointed and express orders, seeing some people 
+in a boat that belonged to us, attempted to fire on 
+them, but, his gun missing, he was instantly shot 
+through the head and expired. His party consisted 
+of five men, and the other of an equal number, one 
+of which, an Indian, was only seen to paddle away. 
+</p><p>
+I will neither detain your Excellency, nor waste 
+my time (which is precious) in giving you a detail 
+of the many wants I labor under. I hope they will 
+serve for an evening chat at some future day. 
+</p><p>
+You would have cause to blame me for not sending  a return of the forces under my command, but I 
+cannot get one that may in the least be depended 
+upon. I know the reason, but so critical is my 
+situation, that I sacrifice every thing to the grand 
+object. I have sent on only six ; but I have promised not to complain. Adieu, my dear General. 
+I am, with the most respectful sentiments, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p><p>
+P. S. My situation will apologize for this utter 
+scrawl. Since writing the above, I have received 
+the papers, of which a copy is inclosed. 
+</p>
+</letter>

@@ -1,0 +1,30 @@
+<letter id="mbc7683">
+<recipient first="" last="" type="individual"/>
+<p>
+Christmas Day, [<a rel='day origin' value='25'>25th</a> <a rel='month origin' value='12'>December</a>] <a href='/results.php?year=1863' rel="origin">1863</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. Yesterday dined with the Prestons. Wore one of my handsomest Paris dresses (from 
+Paris before the war). Three magnificent Kentucky Generals were present, with Senator Orr from South Carolina, 
+and Mr. Miles. General Buckner repeated a speech of <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> to him to show how friendly they were. I prefer a 
+ride with you to the company of any woman in the world," Buckner had answered. I prefer your company to that of. 
+any man, certainly," was <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> reply. This became the standing joke of the dinner; it flashed up in every form. 
+Poor Sam got out of it so badly, if he got out of it at all. General Buckner said patronizingly, " Lame excuses, all. 
+<a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> never gets out of any scrape that is, unless he can fight out." Others dropped in after dinner; some without 
+arms, some without legs ; von Borcke, who can not speak be cause of a wound in his throat. Isabella said: " We have 
+all kinds now, but a blind one." Poor fellows, they laugh at wounds. " And they yet can show many a scar." 
+</p><p>
+We had for dinner oyster soup, besides roast mutton, ham, boned turkey, wild duck, partridge, plum pudding, sauterne, burgundy, sherry, and Madeira, There is life in the old land yet! 
+</p><p>
+At my house to-day after dinner, and while Alex Haskell and my husband sat over the wine, <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> gave 
+me an account of his discomfiture last night. He said he could not sleep after it; it was the hardest battle he 
+had ever fought in his life, and I was routed, as it were ; 
+she told me there was no hope ; that ends it. You know at Petersburg on my way to the Western army she half -promised me to think of it. She would not say Yes, but she did 
+not say No that is, not exactly. At any rate, I went off saying, I am engaged to you, and she said, "I am not engaged to you. After I was so fearfully wounded I gave it up. But, then, since I came, etc. 
+</p><p>
+"Do you mean to say", said I, "that you had proposed to her before that conversation in the carriage, when you 
+asked Brewster the symptoms of love? I like your audacity. " " Oh, she understood, but it is all up now, for she 
+says, No! " 
+</p><p>
+My husband says I am extravagant. " No, my friend, not that/ said I. " I had fifteen hundred dollars and I 
+have spent every cent of it in my housekeeping. Not one cent for myself, not one cent for dress nor any personal 
+want whatever. He calls me "hospitality run mad". 
+</p>
+</letter>

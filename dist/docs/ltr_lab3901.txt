@@ -1,0 +1,39 @@
+<letter id="lab3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=st. davids' rel='city origin'>ST. DAVID'S</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.. 
+</p><p>
+SIR: 
+</p><p>
+Yours from Watbo of the 18th inst., I received, and in answer I 
+assure you, that I have constantly been, since my arrival at home, and 
+still am, using my utmost endeavors to send you the full one-third of 
+my regiment. The twenty men with which I had your permission to 
+guard the jail, have been constantly on hard duty, catching and bringing in the disobedient; so that, inclusive of what have been lately 
+ordered, and the guard will bring you, in addition to Major Thomas's 
+class, at least fifty men; and hope to have it in my power, about the 3d 
+of next month, to send you some more, as I expect by that time to have 
+another squad gathered. But, without this armed party to be constantly on duty, and monthly relieved, I cannot do anything, for the 
+district is so extensive, the duty so hard, and the distance to your camp 
+so far, that it can't be expected that the men who have just been discharged from your camp can perform that duty. This mode would 
+have been better executed if the Commanding Officer of my regiment 
+at home, when I was in the camp, had not have hindered every part of 
+my orders (that was in his power) for that purpose. There are but 
+fourteen of the twenty men mentioned that are at this time fit for duty, 
+six of whom I send with the party, and the others will come with the 
+next I have mentioned; though, 1 hope, you will send them back, as 
+the law cannot be enforced without them. The people are, at this time, 
+very sickly about home, as has appeared by the trials of a number of 
+men by a regimental court 1 lately ordered, and held four days, when 
+I used every lawful and reasonable method in my power to turn out the 
+men. There are several men. whom the guard will bring down, sentenced to some extraordinary duty, a list of whose names, and their 
+term of service, I will send to Major Thomas. 
+</p><p>
+I am, sir, with all due respect, your obdt. humble servant, 
+</p><p>
+<a href="/results.php?tla=lab" rel="me">LAMB BENTON</a>, Colonel 
+</p><p>
+N. B. If you permit me to continue the guard at the jail&gt; please 
+f,o ffive some instruction? about salt, &c.. for them, as it is scarce here. 
+</p>
+</letter>

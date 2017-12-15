@@ -1,0 +1,36 @@
+<letter id='thj1417'>
+<recipient first='' last='' type='individual'/>
+<p>
+TO MESSRS. FRENCH AND NEPHEW.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, July 13,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Gentlemen,
+</p><p>
+I had the honor of receiving your letter of June the 21st, enclosing one
+from Mr. Alexander of June the 17th, and a copy of his application to
+Monsieur de Calonne. I am very sensible that no trade can be on a more
+desperate footing than that of tobacco, in this country; and that our
+merchants must abandon the French markets, if they are not permitted to
+sell the productions they bring, on such terms as will enable them to
+purchase reasonable returns in the manufactures of France. I know but
+one remedy to the evil; that of allowing a free vent: and I should be
+very happy in being instrumental to the obtaining this. But while the
+purchase of tobacco is monopolized by a company, and they pay for that
+monopoly a heavy price to the government, they doubtless are at liberty
+to fix such places and terms of purchase, as may enable them to make
+good their engagements with government. I see no more reason for
+obliging them to give a greater price for tobacco than they think they
+can afford, than to do the same between two individuals treating for
+a horse, a house, or any thing else. Could this be effected by
+applications to the minister, it would only be a palliative which would
+retard the ultimate cure, so much to be wished for and aimed at by every
+friend to this country, as well as to America.
+</p><p>
+I have the honor to be, Gentlemen,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>
+</p>
+</letter>

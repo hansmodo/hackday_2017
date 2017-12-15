@@ -1,0 +1,17 @@
+<letter id="smd7920">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], <a rel="month origin" value="1">January</a> <a rel='day origin' value='1'>1st</a>, Thursday, <a href='/results.php?year=1863' rel="origin">1863</a>.
+</p><p>
+<a href='/results.php?year=1863'>1863</a>! Why I have hardly become accustomed to 
+writing 62 yet! Where has this year gone? With 
+all its troubles and anxieties, it is the shortest I ever 
+spent! 61 and 62 together would hardly seem three 
+hundred and sixty-five days to me. Well, let time 
+fly. Every hour brings us nearer our freedom, and we 
+are two years nearer peace now than we were when 
+South Carolina seceded. That is one consolation. . . . 
+I learn, to my unspeakable grief, that the State 
+House is burned down. 
+</p><p>
+</letter>

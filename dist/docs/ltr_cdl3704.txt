@@ -1,0 +1,70 @@
+<letter id="cdl3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter which your Excellency 
+did me the honor to write on the 23d of the past 
+month, and that of the <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>, with 
+which it was accompanied. 
+I wait with extreme impatience the news of the 
+arrival of the French division before <a href='/results.php?city=new york' rel='city'>New York</a>; and 
+no one can desire more warmly than I do to see it 
+under your immediate command. I hoped most fervently that you would have been this spring in the 
+command of a more considerable body of auxiliaries. 
+The causes which have hindered the execution of 
+that plan have been so urgent and so decisive, that I 
+am sure you will approve them, after I shall have 
+had the honor of making you acquainted with them. 
+I have nevertheless been much pained that I could 
+not explain to you this change of measures; and my 
+attachment to the cause which you defend has made 
+me feel, as sensibly as any citizen of America, all the 
+delays which could happen to the assistance which we 
+wish to give to the thirteen States. 
+</p><p>
+I am impressed with the necessity of maintaining 
+a perfect confidence with your Excellency upon these 
+different points, and I shall seize the first occasion 
+which presents itself to visit your army. 
+</p><p>
+In the mean time, I am going to transmit to the 
+Count de Grasse what your Excellency did me the 
+honor to communicate. Be persuaded that I shall 
+use the most pressing motives to determine him, and 
+I shall do it with so much the more zeal, as I feel 
+the necessity of it. I shall transmit to that General an extract of your letter; and nothing appears to me 
+more likely to give weight to the demand which I 
+shall make from him. 
+</p><p>
+The King has charged me, Sir, to inform Congress, 
+that he grants them a gratuitous subsidy, to enable 
+them to make the greatest efforts in the course of 
+this campaign. This subsidy, amounting to six millions of livres tournois, is to be employed in the 
+purchase of arms, ammunition, and clothing ; and it is the intention of the King, that the surplus shall he 
+at the disposal of Congress. I have not been instructed, as to what will be the exact amount of this 
+surplus; but in the mean time it is determined that 
+one million and a half shall be employed by the Superintendent of Finances of the thirteen States, according to the directions which you shall give him, 
+and after the arrangements which you shall make 
+with him in the visit which he intends making you. 
+I have informed Congress, and I intrust it to your 
+Excellency, that the Emperor and the Empress of 
+Russia have offered their mediation to the Court of 
+London, which has accepted it. It has also been offered to the Court of Versailles and that of Madrid. 
+But they have given for answer, that time must be 
+left to Congress to determine, if it suits them to put 
+the interests of the thirteen States into the hands of 
+the Mediators. In any event, it is of the greatest 
+importance that the allies make all their efforts to 
+drive the enemy from This Continent; and nothing will 
+be more likely than the success of the confederate 
+arms, to make a successful negotiation. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

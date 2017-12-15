@@ -1,0 +1,74 @@
+<letter id="joj4000">
+<recipient first="Alexander" last="McDougall" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='23'>23d</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Dear Colonel, 
+</p><p>
+When the clerk of the Congress gave me the printed 
+papers which I enclosed you, he told me they contained the 
+navy establishment. Whatever deficiencies there may be 
+in them as to that matter, will I hope be supplied by the 
+extract now enclosed. 
+</p><p>
+As to continental colours, the Congress have made no 
+order as yet concerning them, and I believe the captains of 
+their armed vessels have in that particular been directed 
+by their own fancies and inclinations. I remember to have 
+seen a flag designed for one of them, on which was extremely well painted a large rattlesnake, rearing his crest 
+and shaking his rattles, with this motto, " Don't tread on 
+me," but whether this device was generally adopted by the 
+fleet, I am not able to say, — I rather think it was not. 
+</p><p>
+I am by no means without my apprehensions of danger 
+from that licentiousness which in your situation is not uncommon ; nothing will contribute more to its suppression 
+than a vigorous exertion of the powers vested in your 
+Convention and Committee of Safety, at least till more 
+regular forms can be introduced. The tenderness shown 
+to some wild people on account of their supposed attachment to the cause, has been of disservice. Their eccentric 
+behaviour, by passing unreproved, has gained countenance, 
+and has lessened your authority, and diminished that dignity 
+so essential and necessary to give weight and respect to 
+your ordinances. Some o£ your own people are daily 
+instigated (if not employed) to calumniate and abuse the 
+whole province, and misrepresent all their actions and 
+intentions. One in particular has had the impudence to 
+intimate to certain persons that your battalions last campaign were not half full, and that Schaick's regiment had 
+more officers than privates ; others report that you have 
+all along supplied the men-of-war with whatever they 
+pleased to have, and through them our enemies in <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+By tales like these they pay their court to people who have 
+more ostensible consequence than real honesty, and more 
+cunning than wisdom. 
+</p><p>
+I am happy to find that our intermeddling in the affair of 
+the test is agreeable to you. For god's sake resist all such 
+attempts for the future. 
+</p><p>
+Your own discernment has pointed out to you the principle of Lord Stirling's advancement ; had the age of a 
+colonel's commission been a proper rule, it would have 
+determined in favour of some colonel at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, many 
+of whose commissions are prior in date to any in <a href='/results.php?city=new york' rel='city'>New York</a>. The spirit you betray on this occasion becomes a 
+soldier. 
+</p><p>
+The enclosed copy of a resolve of Congress will, I hope, 
+settle all doubts relative to rank, which may arise from 
+your new commission. The consequence you drew from 
+that circumstance was more ingenious than solid, for I can 
+assure you that the Congress were not disposed to do any 
+thing wrong or uncivil ; and I can also add, that your not 
+having joined your regiment last summer has been explained to their satisfaction, as far as I am able to judge. 
+"With respect to this, however, as well as some other matters, I shall defer particulars till we meet. In a word, with 
+some men in these as in other times, a man must either be 
+their tool and be despised, or act a firm disinterested part 
+and be abused. The latter has in one or two matters 
+been your fate, as well as that of many other good men. 
+Adieu. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

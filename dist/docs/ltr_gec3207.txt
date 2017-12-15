@@ -1,0 +1,34 @@
+<letter id="gec3207">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+<a href='/results.php?city=marbletown' rel='city origin'>Marbletown</a>, seven miles from <a href='/results.php?city=kingston' rel='city'>Kingston</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received your favor of the 16th. I am sorry to inform you, 
+that by a letter from <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, of the 15th, the enemy had 
+not surrendered. You do me the honor to ask my opinion respecting your future movements. It is needless and impossible 
+for me to advise; because, having once settled our plan and 
+afterwards deviated from it, the concerting any future measures 
+might be productive of ruin to one of us, if deprived of those 
+succours and that support, which form a part of the general plan 
+of operations. My opinion of your attack at King's Bridge is, 
+that it will be utterly inefficacious. 
+</p><p>
+For the rest, as your operations must be governed by circum 
+stances, I can only inform you of facts. <a href='/results.php?city=kingston' rel='city'>Kingston</a> was burnt yesterday afternoon, because I had not troops to defend it. Two 
+prisoners tell me that <a href='/results.php?city=albany' rel='city'>Albany</a> is the enemy's object. If I ad 
+vance much farther northward, it will be in the power of the 
+enemy to ruin my little corps by landing above and below me, 
+as I shall then have the Catskill Mountains to the west, and 
+Hudson's River to the east. I expect every instant to hear that 
+Rhinebeck is in flames. I have the honor to be, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+P. S. I trust you must have received <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>'s letter 
+of the 13th, of which he sent me a copy, in which he approves 
+of the plan of removing our armies up the river on each side. 
+</p>
+</letter>

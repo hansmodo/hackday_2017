@@ -1,0 +1,30 @@
+<letter id="ben4849">
+<recipient first="Deborah" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1772' rel="origin">1772</a>
+</p><p>
+MY DEAR CHILD, 
+</p><p>
+I am just returned from a Journey of near a Month, which 
+has given a new Spring to my Health and Spirits. I did not 
+get home in time to write by Osborne, but shall fully to my 
+Friends in general by Cap. All, who sails about the End of 
+the Week. 
+</p><p>
+I was charg'd with Abundance of Love to you and Sally 
+and Ben from our Sister Bache and her amiable Daughters. 
+I spent some Days at Preston, visited several Friends in 
+Cumberland, Westmoreland, Yorkshire, and Staffordshire. 
+</p><p>
+Rachel Wilson sent her Love to you and our Children, as did 
+our remaining Relations at Birmingham, where I likewise 
+staied several Days. In Cumberland I ascended a very high 
+Mountain, where I had a Prospect of a most beautiful Country, of Hills, Fields, Lakes, Villas, &c. and at Whitehaven 
+went down the Coal mines till they told me I was 80 Fathoms 
+under the Surface of the Sea, which roll'd over our Heads; 
+so that I have been nearer both the upper and lower Regions 
+than ever in my Life before. My Love to our Children, 
+and all enquiring Friends. I am ever, my dear Debby, your 
+affectionate Husband, R FRANKLIN> 
+</p>
+</letter>

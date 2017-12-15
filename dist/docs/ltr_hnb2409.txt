@@ -1,0 +1,41 @@
+<letter id="hnb2409">
+<recipient first="Aaron" last="Burr" type="individual"/>
+<p>
+LA CACHE, <a href="/results.php?city=port gibson" rel="city origin">PORT GIBSON</a>, <a rel="month origin" value="4">April</a> <a rel="day origin" value="16">16</a>, <a href="/results.php?year=1813" rel="origin">1813</a>. 
+</p><p>
+SIR : Perceiving you seem disposed to assign to me your interest in the contract you entered into with Wilkins and Morrison, in 180G, provided "I can enlighten 
+you as to the nature of the action I would bring against them," I hasten to acquaint you that I should prefer 
+suing them directly, in the character of your assignees, for the amount of the advance you made to them, in bills 
+rendered negotiable by my indorsement, to the contingent recovery I might obtain against them as garnishees in a suit already instituted at New Orleans. 
+</p><p>
+Copies of the contract, and of the receipt of "Wilkins and Morrison for $15,000, in bills, shall be forwarded to 
+you, and if you think proper, without delay, to transmit me a properly authenticated assignment of all your 
+claims for the above advance, and for damages on account of the non-fulfillment of the contract, I will order the 
+present suit commenced against you at New Orleans to be dismissed. As your letter of the 8th ult. appears to 
+have been dictated by a spirit of accommodation, permit me now, sir, to test its character by suggesting that I 
+have no view " to reaction " upon you in whatever operations I may essay to obtain some indemnity for my losses. 
+These, <a href="/results.php?tla=joa" rel="">Governor Alston</a> may have stated to you, I estimate at $50,000, of which his Excellency has already 
+reimbursed, I believe, $12,500, and it is very probable nothing short of the publication of my book, hitherto 
+postponed only by sickness, will bring me any part of the balance so long sought in vain from his honor and 
+engagements. His well-earned election to the chief executive office of his State, and your return from Europe, 
+will, however, now render the publication more effective than it would have been prior to these events, and it will 
+be expedited within three months from this date, if all other means of indemnity fail within that period. I 
+would still agree to accept from any other source $15,000, in lieu of the balance I claim of $37,500, and, of course, withhold the book, which is entitled, " A Review of the 
+Projects and Intrigues of <a href="/results.php?tla=aab" rel="met colleague">Aaron Burr</a>, during the years 
+<a href="/results.php?year=1805">1805</a>-6-7, including therein, as parties or privies, <a href="/results.php?tla=thj" rel="">Thos. Jefferson</a>, Albert Gallatin, Dr. Eustis, <a href="/results.php?tla=joa" rel="">Governor Alston</a>, Dan. Clark, Generals Wilkinson, Dearborn, Harrison, Jackson and Smith, and the late Spanish Ambassador, , 
+exhibiting original documents and correspondence hitherto unpublished, compiled from the notes and private Journal, kept during the above period ; by <a href="/results.php?tla=hnb" rel="me">H. BLENNERHASSETT</a>, LL. B ; " with this motto, which will find applicability in every page of the book : " It is only the Philosopher who knows how to mark the boundary between celebrity and greatness." 
+</p><p>
+You will now, sir, I hope, perceive distinctly upon what terms I would execute a general acquittance to 
+<a href="/results.php?tla=joa" rel="">Governor Alston</a> and yourself. I have long since abandoned every chance of reimbursement from either of you, unless I should succeed in forcing the object through the 
+alarms of his Excellency, or the fears and interest of other characters. I have only to add, respecting those of Wilkins and Morrison, who have pocketed the money with out a consideration, that as an action would not lie by me against them, the credit having moved from you to 
+them, after it had passed from me to you, it is therefore I have applied for the assignment desired, which would 
+enable me to sue them directly, which I should prefer to continuing the suit now pending against yourself. Be pleased, sir, to inform me whether Gen. Jackson is or is 
+not indebted to you in a balance of $l,726 T Vu, as is stated on the face of an open account in his own hand-writing. 
+While he was here with his militia, I had him summoned as a garnishee to the Circuit Court of Adams county, 
+where having made default, if he does not personally appear at the next October term, I understand judgment 
+will go against him for $5,000, that being the sum sworn to in the affidavit on which the attachment was issued. 
+From, sir, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=hnb" rel="me">H. BLENNERHASSETT</a>. 
+</p>
+</letter>

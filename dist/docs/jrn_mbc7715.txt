@@ -1,0 +1,14 @@
+<letter id="mbc7715">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='11'>11th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Letters from home, including one from my husband's father, now over ninety, written with his own 
+hand, and certainly his own mind still. I quote: " Bad times; worse coming. Starvation stares me in the face. 
+Neither John's nor James's overseer will sell me any corn." 
+Now, what has the government to do with the fact that on all his plantations he made corn enough to last for the 
+whole year, and by the end of January his negroes had stolen it all? Poor old man, he has fallen on evil days, 
+after a long life of ease and prosperity. 
+</p><p>
+To-day, I read The Blithedale Romance. Blithedale leaves such an unpleasant impression. I like pleasant, 
+kindly stories, now that we are so harrowed by real life. Tragedy is for our hours of ease. 
+</p>
+</letter>

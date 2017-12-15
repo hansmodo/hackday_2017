@@ -1,0 +1,28 @@
+<letter id="mbc7771">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='6'>6th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. To-day came a godsend. Even a small piece of bread and the molasses had become things of the 
+past. My larder was empty, when a tall mulatto woman brought a tray covered by a huge white serviette. Ellen 
+ushered her in with a flourish, saying, " Mrs. McDaniers maid. The maid set down the tray upon my bare table, 
+and uncovered it with conscious pride. There were fowls ready for roasting, sausages, butter, bread, eggs, and preserves. I was dumb with delight. After silent thanks to heaven my powers of speech returned, and I exhausted my 
+self in messages of gratitude to Mrs. McDaniel. 
+</p><p>
+" Missis, you oughtn't to let her see how glad you was," said Ellen. " It was a lettin of yo sef down." 
+</p><p>
+Mrs. Glover gave me some yarn, and I bought five dozen eggs with it from a wagon eggs for Lent. To show that I 
+have faith yet in humanity, I paid in advance in yarn for something to eat, which they promised to bring to-morrow. 
+Had they rated their eggs at $100 a dozen in " Confederick money, I would have paid it as readily as $10. But 
+I haggle in yarn for the millionth part of a thread. 
+</p><p>
+Two weeks have passed and the rumors from Columbia are still of the vaguest. No letter has come from there, no 
+direct message, or messenger. " My God! " cried Dr. Frank Miles, " but it is strange. Can it be anything so 
+dreadful they dare not tell us? Dr. St. Julien Ravenel has grown pale and haggard with care. His wife and children were left there. 
+</p><p>
+Dr. Brumby has at last been coaxed into selling me enough leather for the making of a pair of shoes, else I 
+should have had to give up walking. He knew my father well. He intimated that in some way my father helped him 
+through college. His own money had not sufficed, and so William C. Preston and my father advanced funds sufficient 
+to let him be graduated. Then my uncle, Charles Miller, married his aunt. I listened in ra*pture, for all this tended 
+to leniency in the leather business, and I bore off the leather gladly. When asked for Confederate money in trade I 
+never stop to bargain. I give them $20 or $50 cheerfully for anything either sum. 
+</p>
+</letter>

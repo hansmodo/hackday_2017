@@ -1,0 +1,28 @@
+<letter id="3042">
+<p>
+GENERAL ARNOLD TO GENERAL SCHUYLER. 
+</p><p>
+<a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, 24 October, <a href="http://www.familytales.org/results.php?year=1776">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Your kind favor of the 17th I received four days since. I am 
+greatly obliged to you for the friendship you express on my 
+safety and having escaped the enemy. 
+</p><p>
+I am extremely glad to hear the militia are coming to our 
+assistance. I believe the enemy, from the best accounts we can 
+collect, are endeavouring to fortify Crown Point. I am afraid 
+we shall not be able to detain a sufficient garrison for this place 
+from the troops now here. 
+</p><p>
+A boom will be laid across the Lake this day, and a bridge 
+to-morrow from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> to Mount Independence. We cannot 
+ascertain the strength of the enemy. In a few days we shall be 
+ready to make a trial of their force, if they think proper to 
+attack us. I have only time to add my most respectful compliments. and that I am, with every friendly wish, dear General, 
+Your affectionate and obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

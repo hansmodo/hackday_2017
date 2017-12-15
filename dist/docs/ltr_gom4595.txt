@@ -1,0 +1,54 @@
+<letter id="gom4595">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="7">July</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+My Dear Friend, 
+</p><p>
+My last was from London of the twenty- eighth of June. The 
+latest I have received from you is of the third of May. You 
+will have heard, through various channels, of the King's escape 
+from the Tuileries. By the bye, he was said to be in perfect 
+liberty there ; but yet our good friend Lafayette was very near 
+being hanged because he got away, and his justification tends 
+to show, that his Majesty, besides his parole given, was so closely watched that he had but little chance of getting off unobserved. 
+</p><p>
+This step was a very foolish one. Public affairs were in 
+such a situation, that, if he had been quiet, he would have soon 
+been master, because the anarchy, which prevails, would have 
+shown the necessity of conferring more authority, and because 
+it is not possible so to balance a single Assembly against a Prince, 
+but that one must prove too heavy for the other, or too light for 
+the business. 
+</p><p>
+The Assembly also, very strongly suspected of corrupt practices, was falling fast in the public estimation. His departure 
+changed everything ; and now the general wish seems to be for 
+a republic, which is quite in the natural order of things. Yesterday the Assembly decreed, that the King, being inviolable, 
+could not be involved in the accusations to be made against 
+those concerned in his evasion. This has excited much heat 
+against them. The people are now assembling on the occasion, 
+and the militia (many of them opposed to the King) are out. 
+As I lodge near the Tuileries, it is far from improbable, that 
+I shall have a battle under my windows. The vanguard of the 
+populace is to be formed by two or three thousand women. 
+A good smart action would, I think, be useful rather than pernicious. 
+</p><p>
+But the great evil arises from a cause not easily re 
+moved. It will, I think, be scarcely possible to confer authority on, or in other words to obtain obedience for, a man, who 
+has entirely forfeited the public opinion ; and, if they lay him 
+aside, I do not see how they are to manage a regency. His 
+brothers are abroad, and so is the Prince of Conde. The 
+Duke of Orleans is loaded with universal contempt ; and if they 
+should name a council of regency, they would be obliged to 
+take either feeble or suspected characters. Add to this the 
+struggle, which must arise in a state where there is a King de 
+throned, and that for trivial causes. At the same time, the state 
+of their finances is detestable, and growing worse everyday. 
+They have passed a law against emigrations, although by their 
+bill of rights, every man has a right to go where he pleases. 
+But this, you know, is the usual fate of bills of rights. How 
+long the restrictions may continue is uncertain. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

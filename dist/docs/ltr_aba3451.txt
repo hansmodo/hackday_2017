@@ -1,0 +1,47 @@
+<letter id="aba3451">
+<recipient first="Thomas" last="Adams" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1801" rel="origin">1801</a>. 
+</p><p>
+MY DEAR SON, 
+</p><p>
+I am much delighted to learn that you intend making 
+a visit to the old mansion. I wish you could have 
+accomplished it so as to have been here by this 
+time, which would have given you an opportunity of 
+being at Commencement, meeting many of your 
+old acquaintance, and visiting the seat of science, 
+where you received your first rudiments. I shall 
+look daily for you. You will find your father in his 
+fields, attending to his hay-makers, and your mother 
+busily occupied in the domestic concerns of her 
+family. I regret that a fortnight of sharp drought 
+has shorn many of the beauties we had in rich luxuriance. The verdure of the grass has become a brown, 
+the flowers hang their heads, droop, and fade, whilst 
+the vegetable world languishes ; yet still we have a 
+pure air. The crops of hay have been abundant ; 
+upon this spot, where eight years ago we cut scarcely six tons, we now have thirty. " We are here, 
+among the vast and noble scenes of nature, where 
+we walk in the light and open ways of the divine 
+bounty, and where our senses are feasted with the 
+clear and genuine taste of their objects." 
+</p><p>
+" Who, that has reason and his smell, 
+Would not among roses and jasmine dwell, 
+Rather than all his spirits choke 
+"With exhalations of dirt and smoke, 
+And all the uncleanness which does drown 
+In pestilential clouds a populous town." 
+</p><p>
+At this season, it is best to take the packet by way 
+of <a href='/results.php?city=providence' rel='city'>Providence</a>. 
+</p><p>
+I have received Mr. J 's play. It is better executed than I believed him capable of performing. 
+As a youthful specimen of genius, it has merit. I presume S has sent you Mr. Paine's Oration upon July the 4th. I think you will be pleased with it. 
+I am, my dear Thomas, 
+</p><p>
+Affectionately your mother, 
+</p><p>
+A. A. 
+</p>
+</letter>

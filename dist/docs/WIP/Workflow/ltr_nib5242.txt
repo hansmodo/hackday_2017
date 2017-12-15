@@ -1,0 +1,54 @@
+<letter id="nib5242">
+<recipient first="Nathaniel" last="Silsbee" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec</a> <a rel='day origin' value='17'>17th</a>. <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+My dear Sir 
+</p><p>
+. . . But seriously, I do not feel the least anxiety about this sortie of the President, who with, I am sure, the best 
+intentions, has erred from want of information what I regret &amp; deeply regret, is the loss of individual property which 
+it will occasion and the wound it will inflict on the credit of the country. When I look over the list of Stockholders &amp; see 
+the number of females, of trust estates, &amp; societies charitable &amp; religious, it is melancholy to see their interest thus 
+injured. This is particularly the case with South Carolina which owns, what two weeks ago was worth more than five 
+millions of dollars. In regard to public credit, it is very fortunate that the Chief Magistrate of the Country should make 
+an official declaration of its insolvency, should pronounce that what it pays to foreigners in dividends &amp; capital &amp; what 
+it receives for revenue is an unsound paper. . . . 
+</p><p>
+
+MEMORANDUM * 
+</p><p>
+Between Oct., <a href='/results.php?year=1829' rel="origin">1829</a> and Jan. <a href='/results.php?year=1830'>1830</a> 
+</p><p>
+<a href='/results.php?tla=' rel=''>Mr Biddle</a> 
+</p><p>
+(<a href='/results.php?tla=anj' rel='adversary'>Gen'l Jackson</a>) I was very thankful to you for your 
+plan of paying off the debt sent to Major Lewis. (N.B.) I 
+thought it was my duty to submit it to you. (<a href='/results.php?tla=anj' rel='adversary'>Gen'l Jackson</a>) 
+I would have no difficulty in recommending it to Congress, 
+but I think it right to be perfectly frank with you I do not 
+think that the power of Congress extends to charter a Bank 
+out of the ten mile square. I do not dislike your Bank any 
+more than all banks. But ever since I read the history of the 
+South Sea bubble I have been afraid of banks. I have read 
+the opinion of John Marshall 2 who I believe was a great 
+&amp; pure mind and could not agree with him though if 
+he had said, that as it was necessary for the purpose of the 
+national gov* there ought to be a national bank I should have 
+been disposed to concur; but I do not think that Congress 
+has a right to create a corporation out of the 10 mile square. 
+I feel very sensibly the services rendered by the Bank at 
+the last payment of the national debt &amp; shall take an opportunity of declarring it publicly in my message to Congress. 
+</p><p>
+That it is my own feeling to the Bank and Mr Ingham's also. He &amp; you got into a difficulty thro the foolishness 
+if I may use the term of Mr. Hill (N.B. writes) observing he was a little embarrassed I said (")oh that has all 
+passed now.(") He (Jackson) said with the Parent Board &amp; Myself he had every reason to be perfectly satisfied 
+that he had heard complaints &amp; then mentioned a case 
+at <a href='/results.php?city=louisville' rel='city'>Louisville</a> of which he promised to give me the particulars. 
+</p><p>
+(N.B.) I said (") well I am very much gratified at this frank 
+explanation. We shall all be proud of any kind mention in the 
+message for we should feel like soldiers after an action com 
+mended by their General. (") (<a href='/results.php?tla=anj' rel='adversary'>Gen'l Jackson</a>) Sir said he it 
+would be only an act of justice to mention it. 
+</p>
+</letter>

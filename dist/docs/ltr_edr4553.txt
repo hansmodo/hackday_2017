@@ -1,0 +1,29 @@
+<letter id="edr4553">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The letter, of which I had the honor of enclosing a copy to 
+you in mine of the twenty-eighth of April last, was written as 
+soon as the application came from the French Minister here. 
+The embargo, which continued from the twenty-fifth of March 
+lo the twenty-fifth of May, has rendered it very uncertain, how 
+much sooner than this you will receive the original of that. 
+Colonel Monroe, your successor, will show to you a copy of 
+my answer to M. Fauchet's demand, and the President's nomination of him. From all which you will collect, that the 
+moving cause has been the irresistible call for an act of reciprocity. Under this impression, and with the knowledge of the 
+sentiments of the President, I have not thought it necessary 
+to prepare formal letters of recall, begging you to consider this, 
+as the most respectful mode which I can devise, of communicating to you the new arrangement. 
+</p><p>
+The letter, now enclosed for taking leave, is sent solely for 
+the sake of form and your own accommodation ; and it may 
+be delivered or not, as you think proper. I have the honor 
+to be, with great respect and esteem, dear Sir, your most 
+obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">EDMUND RANDOLPH</a>. 
+</p>
+</letter>

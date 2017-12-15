@@ -1,0 +1,64 @@
+<letter id="hnb2406">
+<recipient first="Margaret" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city origin">Philadelphia</a>, <a rel="month origin" value="11">Nov.</a> <a rel="day origin" value="11">11th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+MY DEAR WIFE : As I expected when I wrote last from <a href="/results.php?city=baltimore" rel="city">Baltimore</a>, this day fortnight, I have found my 
+reception in this city easy and undisturbed. I have been here a week last Wednesday, having arrived the 
+5th inst. I hope .you received that letter to prepare you for a just reception of the accounts that must 
+reach you by the papers of a rising at <a href="/results.php?city=baltimore" rel="city">Baltimore</a>, of which my effigy only was one of the objects. 
+</p><p>
+I am much teased by various causes of detention here which I can not control. The arrangement of my pecuniary claims on <a href="/results.php?tla=aab" rel="met colleague">Col. Burr</a>, and the acquisition of slaves, neither of them yet effected, are the principal. It is un 
+certain still how soon I can even hope to leave this town. Many motives incite me to go round by sea, in a fine vessel, with Bollman and other agreeable passengers, to sail about the middle of next week ; for there are reasons why I should not even appear at Marietta, though so many demands call thither. But I yet think that will be my course. I receive the most friendly attentions from my friends, the Lewises, and others. 
+</p><p>
+To-morrow I dine with Mr. Pollock, a gentleman of fortune and great respectability, where <a href="/results.php?tla=aab" rel="met colleague">Col. Burr</a> has taken up his quarters. I wonder you have not yet drawn upon J. S. Lewis, for any sum not exceeding $500, 
+through Harding. I am at a loss to conceive what you have resorted to, particularly as you call upon me, in your 
+most welcome letter of 28th September, to direct the disposition of about 1,200 you expected to receive on your 
+negro speculation. My only wish is that you should apply the money to your own occasions, calling to the aid 
+of your judgment the advice of that excellent friend whom you will one day further discover I have justly 
+appreciated. Butler, who is now here, made me very unhappy, by telling me he left him very sick, and I sincerely sighed to be at his bedside. 
+</p><p>
+A large fund of stoicism will be necessary to support the want of letters from you till we meet ; for I suppose 
+you have, according to directions long since given you, ceased to write ; and it would be impossible to instruct 
+you how to direct to me, my change of place will be so variable. 
+</p><p>
+We have to-day a heavy fall of snow here, and I fear I shall not be able to take water on the Ohio before it 
+breaks up. This, with other considerations, lends much to determine me upon the voyage by sea to New Orleans. But I can not make up my mind until I again see D. Commins, whom I hourly expect here from <a href="/results.php?city=baltimore" rel="city">Baltimore</a>, with whom I must endeavor to procure some negroes, or by some other means, as I can not think of returning without some new ones, or at least our old ones from Ohio. 
+</p><p>
+I live here at the Mansion House Hotel, late Bingham's, in Third Street, kept by an Englishman in the best style I have yet seen in America. My expenses are 
+heavier than I wish, on every account, but I have become so public a character, any thing tending to shabbiness or 
+obscurity would bring discredit upon you, to avoid which I know you would prefer a larger share of future sacrifices. The company are genteel and numerous, principally foreigners, and not a Democrat in thirty, the general number at the house. 
+</p><p>
+My silence on your recovery and the health of the boys arises from inability to express my joy and thanksgiving 
+to God. But I beseech you to seek the utmost change of company and occupation. Nothing can better insure my 
+hopes of finding you re-established in your constitution ; and every day's experience convinces me of the wisdom 
+and facility of not only mitigating the ills of life, by resolving to contemn their mischief, but even of our 
+capability to be happy in spite of them. Without disappointing contrary conclusions you would draw from our 
+separation, I could give you many examples, during my reverses, since I left you; but you will hereafter find 
+them with more satisfaction in my notes. I shall only add, that you should never forget that a steady pursuit 
+of gaiety will prove the best prescription for the longest enjoyment of the summer season, and prepare the largest 
+and most serene autumn of life. We have prospects already opened to you that beckon us to wealth and 
+repose; if they should prove delusive, our piety and moderation will insure tranquillity. 
+</p><p>
+I am much at a loss to know how to buy any thing here for you. I shall, however, procure some things. I 
+have rigged myself out in consideration of the extravagant prices of things at <a href="/results.php?city=natchez" rel="city">Natchez</a> ; and have not forgotten the boys' shoes, though God knows when they will get them, and I can, badly guess the sizes. I could tell you a 
+good deal .of what might pass for news with you, but it is not worth while, and could not find room here. I 
+must not refuse, however, to mention that I have heard here young Michael de Courcy is married to a rich lady 
+in England, and has a child or two. The Admiral's daughter is married to a Captain Dashwood, of the Navy. 
+I learned no other particulars of the family. Wilkinson, I hear, has taken passage from <a href="/results.php?city=baltimore" rel="city">Baltimore</a> for New Orleans, contrary to every expectation I could form, which 
+I mention as a circumstance, if true, not quite indifferent to my future tranquillity on the Mississippi. 
+</p><p>
+You forgot to put Kitty Percy's, and your own, hair into your letter, with the boys' drawings. The disappointment, I hope, has not arisen from my knowing how 
+to prize both. How happy I should feel, hereafter, in the pleasure Miss P. might enjoy, and confer upon us, by 
+making a trip with us to Europe. <a href="/results.php?tla=aab" rel="met colleague">Burr</a> has given notice 
+to the Marshal. of Virginia, to be prepared with a guard 
+of gentlemen at <a href="/results.php?city=richmond" rel="city">Richmond</a>, to conduct him from thence, 
+on the 16th of next month, to <a href="/results.php?city=chillicothe" rel="city">Chillicothe</a> ; but some in 
+tervention or other, I apprehend, will prevent that journey. Harding will smile at this ; but let him mourn 
+over the misery of talents without strength of nerve or energy of character, which have only shone to consume 
+the fame of the Chief Justice, who has disappointed every lawyer and friend he possessed, and may possibly 
+fall a sacrifice to the mob government of the day, for attempting to stroke, while he should have muzzled, the tiger of Democracy. Remind H g continually of my attachment; and assure the Scotts, Major Trask, and all other friends, of my warm regards. War direct with Britain is even yet the dread of the Democrats ; but should it happen in six months afterward, down fall<a href="/results.php?tla=thj" rel=""> Jefferson</a> and company. 
+</p><p>
+From your husband, <a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a>. 
+</p>
+</letter>

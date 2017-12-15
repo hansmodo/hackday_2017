@@ -1,0 +1,12 @@
+<letter id="nib5323">
+<recipient first="B" last="Leigh" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="9">Septr</a>. <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1837' rel="origin">1837</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+I have this evening received your favor of the 13th inst. with the accompanying correspondence which I have 
+read with sincere pleasure. I have already written to Mr King requesting its publication in the American, &amp; shall see that 
+it is widely circulated here. 
+</p>
+</letter>

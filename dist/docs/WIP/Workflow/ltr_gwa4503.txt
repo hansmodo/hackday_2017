@@ -1,0 +1,18 @@
+<letter id="gwa4503">
+<recipient first="Jean Baptiste" last="de Vimeur" type="individual"/>
+<p>
+TO COUNT DE ROCHAMBEAU. 
+</p><p>
+Camp, near <a href='/results.php?city=white plains' rel='city origin'>White Plains</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+A few minutes after my arrival upon this ground I received your Excellency's favor of this morning. Were I to give way to the anxiety I feel to see the union 
+between your army and mine, I should request you to march to-morrow morning from North Castle ; but when I consider the fatigue, which your troops have 
+undergone from their long and rapid marches at this very warm season, I am much inclined to wish you to give them one more day's rest in your present 
+quarters, and the more so, as there is now no real occasion for making an uncommon degree of haste. 
+I shall however leave the matter entirely to your Excellency's determination ; only wishing you to give me 
+notice of your approach, that I may have the happiness of meeting and conducting you to your camp, 
+which will be about four miles on this side of the village of White Plains. I have the honor to be, &lc. 
+</p>
+</letter>

@@ -1,0 +1,16 @@
+<letter id="aab2610">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a rel="month origin" value="8">August</a> <a rel="day origin" value="5">5</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+I am much gratified, my dear sir, by your letter and notes. It is impossible for us to communicate freely, except through the intervention of counsel. I recommend to you to employ Mr. Randolph and Mr. Botts, and that you write a line to each of them this morning. They 
+will not expect money, at least at present, and when I shall be discharged, I shall be able to furnish it. Write 
+also to your friend Emmett, to come on forthwith. My trial is essentially yours; it will settle principles which 
+will govern in both. The political character of Mr. Emmett will give him weight ; and it is greatly to be desired 
+that a man of discernment and impartiality should witness the mode of these prosecutions and the extraordinary efforts and extraordinary means used to produce conviction, right or wrong. 
+</p><p>
+Your faithful friend, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

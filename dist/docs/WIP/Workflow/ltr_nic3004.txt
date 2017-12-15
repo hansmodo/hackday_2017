@@ -1,0 +1,64 @@
+<letter id="nic3004">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's letter of the 14th instant is 
+now before me, the contents of which I have duly considered. When it came to hand, our small sloop 
+of war was out upon the cruise which I mentioned to your Excellency in a former letter. She 
+hath since returned. The sending her on the enterprise you propose could not be done without some 
+new and further powers from the General Assembly, 
+which sat here last week ; and the nature of the 
+business was such, that I did not think proper to 
+lay it before so large a body. I therefore procured 
+a committee to be appointed to transact all business 
+necessary for the common safety during the recess 
+of the Assembly, particularly with power to employ 
+the two vessels of war in such service as they should 
+think necessary. The committee is summoned to 
+meet this day, before whom I shall lay your letter. 
+At present the undertaking appears to me extremely difficult. The most suitable man we have for the 
+purpose is confined to his bed by sickness. 
+</p><p>
+We have accounts that a number of vessels have 
+sailed lately from <a href='/results.php?city=boston' rel='city'>Boston</a>, which we apprehend are 
+designed to plunder the stock along the coast. The 
+General Assembly have ordered it all to be removed 
+from all the islands in this Colony, excepting Rhode 
+Island. We have now about three hundred men employed in that business. I am requested, by the 
+General Assembly, to apply to you to give direction 
+to the Commissary-General, that all the stock taken 
+from the islands that are fit to kill be taken for the 
+use of the army, in preference to any stock which 
+is secure in the country. The drought hath been 
+so severe along the sea-coast this summer, that there 
+is no possibility of providing for this stock in any 
+other way. 
+</p><p>
+The scarcity of coarse linens hath caused such a 
+demand for tow-cloth for family use, that upon inquiry I find there is scarcely any of that article to 
+be had in the Government at any rate. 
+</p><p>
+The vessel our small sloop was cruising for, arrived 
+on the 28th instant at Norwich. She hath brought 
+powder, lead, flints, and small arms. What quantity 
+of each I am not certain. They are now on their 
+way by land. 
+</p><p>
+This letter waits upon your Excellency by Captain 
+Joseph Brown, who is an eminent merchant here, a 
+true friend to the liberties of his country, extremely 
+well respected among us, and noted for his superior 
+mechanical genius. If he hath any thing to propose 
+for the service of the common cause, I have no 
+doubt of your paying attention to it, and giving it 
+the weight it shall appear to you to deserve. I am, 
+with very great esteem and regard, Sir, your Excellency's most obedient and 
+</p><p>
+Most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

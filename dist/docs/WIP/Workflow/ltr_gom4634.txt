@@ -1,0 +1,117 @@
+<letter id="gom4634">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="12">December</a> <a rel='day origin' value='28'>28th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>.
+</p><p>
+My Dear Sir, 
+</p><p>
+I did myself the honor to write to you on the twenty-third of 
+October. Since that date the exterior affairs of this country 
+have put on a more steady appearance. My letter of the twenty-first instant to Mr Jefferson will communicate my view of 
+things, to which I could add but little at this day. 
+</p><p>
+I have not mentioned to him the appointment of M. Genet, 
+as Minister to the United States. In fact, this appointment 
+has never been announced to me. Perhaps the Ministry think 
+it is a trait of republicanism to omit those forms, which were 
+anciently used to express good will. In the letter, which is 
+addressed to you, is a strain of adulation, which your good 
+sense will easily expound. Let it be compared with <a href="/results.php?tla=leb" rel="met colleague">M. Lebrun's</a> letter to me of the 30th of August. The fact is, that 
+they begin to open their eyes to their true situation ; and be 
+sides they wish to bring forward, into act, our guarantee of 
+their islands, if the war with Britain should actually take 
+place. 
+</p><p>
+As to that war, I am told that the British ultimatum is as 
+follows. France shall deliver the royal family to such reigning 
+branch of the Bourbons as the King may choose, and shall re 
+call her troops from the countries they now occupy. In this 
+event, Britain will send hither a Minister, and acknowledge 
+the republic, and mediate a peace with the Emperor and 
+King of Prussia. I have several reasons to believe, that this 
+information is not far from the truth, and that if the Ministers 
+felt themselves at liberty to act, they would agree to the terms. 
+These terms are, it is said, consequential to the sentiments de 
+livered by opposition in the British Parliament ; who are, as 
+you will see become quite insignificant, but it was thought best 
+to place them in a necessity of supporting the measures of 
+administration. 
+I consider these terms, or something very like them, in a 
+different point of view. If the French retire, and consequently eat up again their high toned declarations in favor of 
+the people, and denunciations against Kings, they will, at the 
+next attempt, find as many enemies as there are men in the 
+neighboring countries, and of course the mediator will pre 
+scribe such terms as he may think proper. Secondly, as it 
+is almost evident that the republic must be torn to pieces by 
+contending factions, even without any foreign interference, her 
+population, wealth, and resources, above all her Marine, must 
+dwindle away ; and as much of her intelligence and industry, 
+with the greater part of her money capital, must on this hypothesis seek the protection of law and government on the other 
+side of the channel, he r rival will increase both in positive and 
+relative power. Thirdly, an exiled monarch on the other side 
+of the Pyrenees, (for it is at Madrid that he would probably 
+take refuge,) would enable Britain at any moment to distract 
+the French affairs, and involve the republic in a war with 
+Spain. Lastly, it seems an almost necessary conclusion, that 
+if France in some years of convulsive misery should escape 
+dismemberment, she would sink under severe and single despotism, and when relieved therefrom by the King, or his descendants, or relations, she would be in a state of wretchedness 
+for at least one generation. 
+</p><p>
+I understand that the French, in the consciousness that 
+their principles have ruined their colonies, are willing to pay 
+them as the price of peace ; but on the other hand Mr Pitt 
+has, I am told, refused the offers which the colonists have 
+made to him, partly because he does not wish to excite alarm, 
+and partly because the only useful part of the colonies, their 
+commerce, will, he conceives, naturally fall to Britain in pro 
+portion to the interior ruin, which has already made great 
+ravages in this country. 
+</p><p>
+If the terms offered by Britain, whatever they may be, are 
+not accepted, I think a declaration will not suddenly follow, 
+but only an increase of preparations ; because time must be 
+given for the co-operators, Spain and Holland, who are both of 
+them slow. Besides, it will be necessary that a body of Prussian troops should be collected, through Westphalia, in the 
+neighborhood of Flanders, to be joined by Dutch, Hanoverian, 
+and perhaps British troops. The more the French advance, 
+the more they expose themselves to this danger ; and you may 
+rely, that if a large body of troops be thrown into Flanders, 
+that country will join them eagerly to expel or destroy the 
+French. 
+</p><p>
+I think it possible, that in case the war should break out , 
+there may be a treaty of partition, in which the Elector Palatine 
+may have Alsace and Lorraine in lieu of Bavaria, and that the 
+Low Countries may be given by the Emperor, in exchange for 
+Bavaria, to the Duke and Dutchess of York. This would 
+suit everybody but France, and she will not in such case be 
+consulted. 
+</p><p>
+I have not yet seen M. Genet, but Mr Paine is to introduce 
+him to me. In the mean time I have inquired a little what 
+kind of a person he is ; and I find that he is a man of good 
+parts and very good education, brother to the Queen's first 
+woman ; from whence his fortune originates. He was, through 
+the Queen's influence, appointed as Charge d Affaires at Petersburg, and when there, in consequence of despatches from 
+M. de Montmorin written in the sense of the revolution, and 
+which he interpreted too literally, he made some representations in a much higher tone than was wished or expected. It 
+was not convenient either to approve or disapprove of his con 
+duct, under the then circumstances, and his despatches lay unnoticed. This, to a young man of ardent temper, and who, 
+feeling genius and talents, may perhaps have rated himself a 
+little too high, was mortifying in the extreme. He felt himself 
+insulted, and wrote in a style of petulance to his chief, believing always, that if the royal party prevailed, his sister would 
+easily make fair weather for him at court ; which I doubt not. 
+At the overturn of the monarchy, these letters were so many 
+credentials in his favor to the new government, and their dearth of men has opened his way to whatever he might wish. 
+He chose America, as being the best harbor during the storm, 
+and if my informant be right, he will not put to sea again until it is fair weather, let what will happen. 
+</p><p>
+In addition to what I have said respecting the King to Mr Jefferson, it is well to mention to you, that the majority have it 
+in contemplation not only to refer the judgment to the electors of France, that is, to the people, but also to send him and his 
+family to America, which Paine is to move for. He mentioned this to me in confidence, but I have since heard it from 
+another quarter.. Adieu, my dear Sir. I wish you many and 
+happy years. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,52 @@
+<letter id="jod3595">
+<recipient first="Abigail" last="Adams"/>
+<p>
+[<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>,] 	<a rel="day origin" value='19'>19</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE President's speech is so important to the public, 
+that I know you will be anxious to see it as early as 
+possible. When the answers of the two Houses come 
+to be debated, we shall see whether there are any 
+apologists for rebellion in these sanctuaries. 
+</p><p>
+As Mr. Edwards of Kentucky appeared in Senate 
+to-day, we can do business if one member should be 
+sick, but it will be very inconvenient to have so small 
+a majority. Mr. Potts of Maryland, and Mr. Taylor 
+of Virginia have resigned. The Senate seems really 
+to be too small a body for so important a branch of 
+the legislature of so great a people. 
+</p><p>
+I feel, where I am, the want of the society of Mr. O.'s family, but much more that of my own. I pore 
+upon my family at <a href='/results.php?city=quincy' rel='city'>Quincy</a>, my children in Europe, 
+and my children and grandchildren in <a href='/results.php?city=new york' rel='city'>New York</a>, till 
+I am melancholy, and wish myself a private man. 
+That event, however, would not relieve me, for my 
+thoughts would be at the <a href='/results.php?city=hague' rel='city'>Hague</a> and at <a href='/results.php?city=new york' rel='city'>New York</a>, if 
+I was at <a href='/results.php?city=quincy' rel='city'>Quincy</a>. Your meditations cannot be more 
+cheerful than mine, and your visit to our afflicted sister will not, I fear, brighten your views or soften your 
+anxiety. I hope we shall be supported, but there is 
+no plan that occurs to me, that can relieve us from 
+our solicitude. We must repose ourselves upon those 
+principles in which we were educated, and which, I 
+hope, we have never renounced nor relinquished. 
+</p><p>
+I would resign my office and remain with you, or I 
+would bring you next winter with me, but either of 
+these plans, the public out of the question, would in 
+crease our difficulties, perhaps, rather than lessen 
+them. This climate is disease to me, and I greatly 
+fear would be worse to you, in the present state of 
+your health. Mrs. Jay, poor lady, is more distressed 
+than we are. I pray you to take care of your health 
+and of L's too. She is a good girl : but I sometimes 
+wish she would run about a little more, if it was even 
+to look at the young men. 
+</p><p>
+Adieu, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

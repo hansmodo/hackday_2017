@@ -1,0 +1,32 @@
+<letter id="leb4551">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='30'>30th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+I call your attention again to day to the important subject, dissussed in our yesterday s conversation, only that I may convince you of the necessity of preventing the greater inconveniences, which would result from the pretended insufficiency 
+of your powers, f Upon the principle, that your instructions 
+do not authorise you to treat with the new French government, your functions would be, at this moment, void ; and our 
+colonies, whose urgent need of supplies demands our care, activity, and zeal, would be in danger of remaining in want of them. 
+</p><p>
+I have the honor to observe, Sir, that we think too highly of the sentiments of friendship and affection, which the United 
+States entertain towards France, to believe that their representative could, or ought to hesitate, under any pretext whatever, to promote the success of an arrangement, begun by <a href='/results.php?tla=wis' rel=''>Mr Short</a>, and the continuation of which has been confided to your care. 
+</p><p>
+The suspension of the King s functions should make no alteration, Sir, in the dispositions of a nation, with whom we are connected by friendship and interest, and whose independence 
+is our work, (et dont independence est notre ouvrage.) She knows all the efforts and sacrifices we have made to obtain it for her. We do not say this to awaken your gratitude, but 
+to excite your good will. I think, Sir, this was due from you to the French nation, before the actual accomplishment of this 
+object, and that if you manifest it at this time, you will certainly meet the wishes of your constituents. 
+</p><p>
+To return, Sir, I ought to tell you, that the King is only suspended from his office; moreover the government, being 
+immutable, and, of necessity, always subsisting, no representative can, without an express order from his court, or his constituents, refuse to treat directly with it. Since the establishment of the new T government, you have received from your 
+constituents no order which could forbid this measure ; you can then, Sir, fulfil the engagement entered into by <a href='/results.php?tla=wis' rel=''>Mr Short</a>, relative to the eight hundred thousand dollars to be held at our 
+disposal in North America, for the purchases necessary to supply our colonies. If the facts, which I have here placed before you, do not induce you to change the determination, 
+which you made known to us yesterday, I beg you will have the goodness to assign the motives of your refusal, in the reply 
+which I shall expect from you, and by which I shall be guided. I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=leb" rel="me">LEBRUN</a>. 
+</p>
+</letter>

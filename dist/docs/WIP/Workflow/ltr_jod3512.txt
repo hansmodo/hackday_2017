@@ -1,0 +1,66 @@
+<letter id="jod3512">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+ON the 13th of February I left you. It is now the 
+3d of June, and I have not received a line, nor heard 
+a word, directly nor indirectly, concerning you, since 
+my departure. This is a situation of mind in which I 
+never was before, and I assure you, I feel a great deal 
+of anxiety at it ; yet I do not wonder at it, because I 
+suppose few vessels have sailed from <a href='/results.php?city=boston' rel='city'>Boston</a> since 
+ours. I have shipped for you the articles you re 
+quested, and the black cloth for your father, to whom present my most affectionate and dutiful respects. 
+Captain Tucker, if he should not be unlucky, will 
+give you an account of your things. 
+</p><p>
+It would be endless to attempt a description of this 
+country. It is one great garden. Nature and art 
+have conspired to render every thing here delightful. 
+Religion and government, you will say, ought to be 
+excepted. With all my heart. But these are no 
+afflictions to me, because I have well fixed it in rny 
+mind as a principle, that every nation has a right to 
+that religion and government, which it chooses, and 
+as long as any people please themselves in these 
+great points, I am determined they shall not displease me. 
+</p><p>
+There is so much danger that my letter may fall 
+into malicious hands, that I should not choose to be 
+too free in my observations upon the customs and 
+manners of this people. But thus much I may say 
+with truth and without offence, that there is no people 
+in the world who take so much pains to please, nor 
+any whose endeavors in this way have more success. 
+Their arts and manners, taste and language, are 
+more respected in Europe than those of any other nation. Luxury, dissipation and effeminacy are pretty 
+nearly of the same degree of excess here, and in 
+every other part of Europe. The great cardinal virtue of temperance, however, I believe, flourishes here 
+more than in any other part of Europe. 
+</p><p>
+My dear countrymen ! how shall I persuade you to 
+avoid the plague of Europe ! Luxury has as many 
+and as bewitching charms on your side of the ocean 
+as on this ; and luxury, wherever she goes, effaces 
+from human nature the image of the Divinity. 
+If I had power I would forever banish and exclude 
+from America all gold, silver, precious stones, alabaster, marble, silk, velvet and lace. 
+</p><p>
+0, the tyrant ! the American ladies would say. 
+What ! Ay, my dear girls, these passions of yours 
+which arc so easily alarmed, and others of my own 
+sex which are exactly like them, have done, and will 
+do the work of tyrants in all ages. Tyrants different 
+from me, whose power has banished, not gold indeed, 
+but other things of greater value, wisdom, virtue and 
+liberty. My son and servant are well. I am, with 
+an ardor that words have not power to express. 
+</p><p>
+Yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

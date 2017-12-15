@@ -1,0 +1,14 @@
+<letter id="mbc7752">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. We drank tea at Mrs. McCord's; she had her troubles, too. The night before a country cousin 
+claimed her hospitality, one who fain would take the train at five this morning. A little after midnight Mrs. McCord 
+was startled out of her first sleep by loud ringing of bells ; an alarm at night may mean so much just now. In an instant she was on her feet. She found her guest, who thought it was daylight, and wanted to go. Mrs. McCord 
+forcibly demonstrated how foolish it was to get up five hours too soon. Mrs. McCord, once more in her own warm 
+bed, had fallen happily to sleep. She was waked by feeling two ice-cold hands pass cautiously over her face and person. 
+It was pitch dark. Even Mrs. McCord gave a scream in her 
+fright. She found it was only the irrepressible guest up and at her again. So, though it was only three o clock, hi 
+order to quiet this perturbed spirit she rose and at five drove her to the station, where she had to wait some hours. 
+But Mrs. McCord said, " anything for peace at home." The restless people who will not let others rest! 
+</p>
+</letter>

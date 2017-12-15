@@ -1,0 +1,12 @@
+<letter id='mad1544'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, August 15th, <a href="/results.php?year=1786">1786</a>. 
+</p><p>
+DEAR SIR,
+I am sorry the development of the interesting subject before Congress had so little effect on the members. I did not see <a href='/results.php?tla=arc' rel='contact'>General St. Clair</a>, and if I had, my acquaintance is too slender 
+to have warranted my broaching a conversation with him. I have conferred freely with Mr. Wilson. What his ultimate opinion may be on a full view of the measure in its details, I 
+cannot say. I think he is not unaware of strong objections against it, particularly as it tends to defeat the object of the 
+meeting at <a href="/results.php?city=annapolis" rel="city">ANNAPOLIS</a>, from which he has great expectations. 
+</p>
+</letter>

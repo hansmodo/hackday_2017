@@ -1,0 +1,36 @@
+<letter id="frm3920">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=burghs' rel='city origin'>BURGH'S</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 10th came to hand the last evening, with the coffee, and 
+shall be obliged to you to send me a few pounds of sugar per bearer. 
+Provisions are so scarce here, that I am obliged to send boats down for 
+rice. You will send by express thirty barrels, from whoever may have 
+it, without regard of public or private property or engagements. If 
+Heriot and Tucker have any by them, it must be taken from them, 
+notwithstanding anything they may say, for without a supply I must 
+move down, which would be of the worse consequence, until I can fully 
+see the treaty properly executed. Mr. Fanning is very busy in recruiting men. On Friday next Ganey is to have a meeting of his people, to 
+see who are to go to town, and who stay. I only wait until then, when 
+I shall march over the river and overawe those who may be wavering, 
+or will not give up or go to town. If Major Skelly is landed, I desire 
+he may be parolled in a house where he may be genteelly and politely 
+treated; and you will tell them I should have no objection to parole 
+him to Charlestown, if he would get Lieut. Henry Ravenel parolled 
+within our lines. I am told he is put in the provost; if so, Major Skelly will be detained until he is liberated. You will give the Major 
+a flag to <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a>, to effect that matter, and send his letters, after 
+perusing them ; this I wish may be done immediately. Enquire of the 
+captain of the vessel who captured Major Skelly, if he found no letters 
+or papers about him, as he must be charged with some important business to the Commander in Georgia. Three boats set out this day for 
+the rice; if they can take more than thirty barrels, they must bring 
+them. I beg the rice may be ready by the time they arrive. 
+I am, dear sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+N. B. Let me know if the man sent to Gov. Martin with my despatches has returned. 
+</p>
+</letter>

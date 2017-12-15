@@ -1,0 +1,42 @@
+<letter id="rim3002">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+Camp, south side of <a href='/results.php?city=st johns' rel='city origin'>St. John's</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1775" rel="origin">1775</a>.
+</p><p> 
+DEAR GENERAL, 
+</p><p>
+Your vigilance and foresight have saved us from the difficulties that threatened us. We are no longer afraid of starving. I 
+wait now with impatience for the arrival of those troops, mentioned in your last, which I believe, from the number of boats on 
+the way, will soon be here, to take the advantageous post I formerly spoke of, on a hill to the westward. 
+</p><p>
+Since my last, I have had some proposals of an accommodation, through the channel of the Caghnawagas, from the formidable St. Luc le Corne, and other principal inhabitants of <a href='/results.php?city=montreal' rel='city'>Montreal</a>. To-morrow is appointed for a conference at Laprairie. I 
+have sent Major Brown to manage it. Macpherson goes with 
+him, and Mr. Livingston of Chamblee will attend. The result 
+of this negotiation I hope soon to make you acquainted with. 
+Mr. St. Luc's character gives me all the reason in the world 
+to be on my guard against him. I shall insist on some substantial proof of his sincerity. Mr. Livingston, some days ago, took 
+post at Hazen's house, with near two hundred Canadians. They 
+are erecting a battery there, which seems to make the garrison 
+very uneasy. 
+</p><p>
+Yesterday they attacked them with their row-galley, but were 
+beaten back without loss on the side of the Canadians. No certain intelligence yet of Arnold's arrival, though there are flying 
+reports to that purpose. I wish he was at <a href='/results.php?city=quebec city' rel='city'>Quebec</a>, with all my 
+heart. I believe there is nothing to oppose him. I am extremely happy you have sent for more powder. I believe we 
+have not more than two and one-half tons. This I am afraid 
+will not do. Send us as many men as you can possibly furnish with provisions. I am greatly in want of them. Our feebleness has intimidated the Canadians from embarking in so uncertain an adventure. Were I strong enough to send five hundred 
+men to <a href='/results.php?city=montreal' rel='city'>Montreal</a>, it would certainly declare for us ; at least I 
+have great reason to think so. The miserable weather we have 
+had has distressed us much, but I hope it is now over. 
+</p><p>
+Let the hard cash come as soon as possible, that our reputation may hold good. 
+</p><p>
+Mr. Carleton has not departed, as I informed you. We want 
+both iron and steel, and turner's tools. The large mortar is 
+ready to play, I shall send some more boats in a few days. 
+</p><p>
+I am, &c., &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

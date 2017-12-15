@@ -1,0 +1,22 @@
+<letter id="ccp4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear General, 
+</p><p>
+South Carolina has ratified the Federal Constitution. 
+Our Convention assembled the 12th instant, and yesterday the vote of ratification was taken ; - one hundred and forty-nine ayes, and seventy-three noes. I 
+inclose you a list of the members who voted on each side. You will be pleased to find, that the names you are best acquainted with were in favor of the 
+Constitution, and that those who were against it have declared they would do all in their power to 
+reconcile their constituents to its adoption, and would exert themselves in its support. 
+</p><p>
+Mrs. Pinckney joins me in tendering our best respects to Mrs. Washington and yourself, and to Major Washington and his lady ; and I remain, 
+</p><p>
+With sincere gratitude, for all your favors, &c., 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">Charles Cotesworth Pinckney</a>. 
+</p><p>
+P. S. Major Butler, out of a principle of delicacy too refined, declined serving in the State Convention. You will not therefore see his name among the yeas or nays. 
+</p>
+</letter>

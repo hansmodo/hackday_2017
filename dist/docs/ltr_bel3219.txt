@@ -1,0 +1,59 @@
+<letter id="bel3219">
+<recipient name="the council of massachusetts" type="group"/>
+<p>
+<a rel="day origin" value="23">23</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+GENTLEMEN, 
+</p><p>
+I marched from Manchester to <a href='/results.php?city=pawlet' rel='city'>Pawlet</a>, with the troops who 
+had joined me, on Monday/ the 8th. On the 14th, a party of 
+five hundred men, commanded by Colonel Brown, was ordered to 
+cross the Narrows in South Bay, and march for the Landing at 
+the north end of Lake George, to destroy the enemy's boats 
+and stores, and relieve a number of our men, prisoners there ; 
+and if, upon inquiry, he found an attempt upon <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> 
+might be made without risking too much, he was to do it. A 
+like number was sent to Mount Independence, under Colonel Johnson, in order to divert, at least, the enemy there, and take 
+off their attention from our real object, and to attack it, if a 
+favorable opportunity should offer. At the same time, another 
+party of about five hundred was sent, under Colonel Woodbridge, 
+to Skenesborough, who were to cover Colonel Brown, and march 
+on towards <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a>, and give the enemy a diversion in that 
+quarter. 
+</p><p>
+The success Colonel Brown hath met with, you learn by the 
+inclosed, which is a copy of his letter to me. He hath acted 
+with great spirit, and informs me that his officers and men have 
+behaved with bravery. General Warner is with Colonel Johnson, 
+at the Mount, and hath the general direction of the three parties, 
+lie informs me, that no opportunity hath offered by which he 
+might attack the lines at Mount Independence with a probability 
+of success. I feel myself very happy in having him there, for I 
+have the greatest confidence in his prudence, fortitude, and zeal. 
+General Bayley, who was Colonel Bayley in the last war, of the 
+State of New Hampshire, now on the Grants, an experienced, 
+good officer, is left at Castleton, in the neighbourhood of the enemy, and will forward supplies, and join the troops, if necessary. 
+</p><p>
+I moved, on Wednesday, the 17th, to Skenesborough, and 
+marched that way about seven hundred men, with an intention to 
+move towards the North River; but the day after, before the 
+troops reached me there, I had information from <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, 
+that the enemy had abandoned all their posts in their rear ; and 
+proposed I should fall on the enemy's left flank. I immediately 
+remarched the seven hundred men on their way back, near to 
+<a href='/results.php?city=pawlet' rel='city'>Pawlet</a>. The next day, by two expresses, I received <a href='/results.php?tla=hog' rel='colleague'>General Gates's</a> orders to take post at Stillwater; for the enemy had not 
+only abandoned the posts in their rear, but had broken down all 
+the bridges immediately on passing them, which evidenced <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne's</a> intention to move forward, at all events. 
+</p><p>
+I left <a href='/results.php?city=pawlet' rel='city'>Pawlet</a> the day before yesterday (Sunday), arrived here 
+last night, and expect the troops in this evening or in the morning, twelve or fourteen hundred. The number sent out is far short of what I expected. There hath been in the Grants but 
+about three thousand, including three small regiments of Continental troops, the rangers from the Grants and part of their militia, the militia from Berkshire, who came for twenty days only, 
+with all the Massachusetts three months men. 
+</p><p>
+The prisoners taken at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> may soon be expected at 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, to which place <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> hath ordered them. An 
+attack on this post, from the enemy, is hourly expected. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

@@ -1,0 +1,73 @@
+<letter id="nag3211">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>Morristown</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have had a long conversation with General 
+Schuyler this morning, and have seen the powers 
+and appointments upon the present business intrusted to the direction of the Committee, as well as their 
+powers to act under. From all which I am fully 
+of opinion, that the plan is altogether incompetent to 
+the purpose and end proposed. Time will not permit 
+me to enter into the detail of objections, nor perhaps 
+would their force appear in the same point of light 
+to another, who has had less experience in the difficulties attending the business, than I have. 
+</p><p>
+It is my opinion, that your Excellency ought to 
+ask the decided opinion of the Committee, in writing, 
+whether they think their powers are competent to 
+the business expected of them. If they say not, as 
+I am sure they must, then I would require of them 
+the powers and the plan they conceive necessary to 
+support the enterprise ; the whole of which I would 
+state to Congress, supported with my own sentiments, 
+as well with respect to the defects of the present 
+plan, as the plan necessary for the business. Nothing, 
+but some such decisive measure as this, will put the 
+business on a proper footing. The measure will, at 
+least, place your conduct in the fairest point of light. 
+It will free the Committee from their present embarrassments, and place the labouring-oar where it ought 
+to be. If you undertake the business upon the present footing, and exercise powers beyond the present 
+scheme, it will be asked, why you did not ask for 
+an enlargement of the Committee's powers, if you 
+deemed them inadequate. And if you engage and 
+fail for want of support, it will be asked, why you 
+embarked in such a business, without being fully persuaded that the means were adequate to the end. In 
+whatever point of view I consider the subject, I see 
+the greatest propriety in your Excellency stating to 
+the Committee this qusere, whether it is their opinion they can give you such support as will warrant 
+your engaging in a cooperation with the French 
+forces for the redemption of <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+I have just seen <a href='/results.php?tla=alh' rel='colleague'>Colonel Hamilton</a>, who says your Excellency desires my opinion upon the position the 
+fleet off the Hook ought to take, upon the supposition it is a French fleet, and come with a view of 
+cooperating with us. It is my opinion, if your Excellency intends to support the expedition against 
+<a href='/results.php?city=new york' rel='city'>New York</a> at all events, without regard to the powers or plan laid down by Congress (if that should 
+fail or appear inadequate to the end), then the fleet 
+and forces ought to be immediately brought into the 
+Hook, and the troops landed upon Staten Island, 
+where our army ought to reenforce them at the 
+same instant of time. But, if your Excellency is determined to depend upon civil government for sup 
+port altogether, without any exertions of your own, 
+and you think the present plan and powers of the 
+Committee defective, it is my advice, to let the fleet 
+and forces go into Rhode Island ; unless you should 
+think it advisable to put one thousand or fifteen 
+hundred men on board, and push on the fleet, without 
+loss of time, to the southward. 
+</p><p>
+To bring the fleet into the Hook, without having taken some decisive resolution upon the line of conduct you mean to pursue, may tend to embarrass you and injure our ally. We ought carefully to 
+avoid bringing our friends into distress and disgrace, 
+if we cannot avail ourselves of the benefit intended us. 
+</p><p>
+I shall be at head-quarters in a few minutes, and 
+will give your Excellency my further sentiments on 
+the matter. I am, with great respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

@@ -1,0 +1,44 @@
+<letter id="joj4121">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+I am still unable to say any thing decisive relative to the 
+objects of my mission. Appearances continue to be singularly favourable, but appearances merit only a certain 
+degree of circumspect reliance. The delays occasioned by 
+the new arrangement of the ministry cannot be of long 
+continuance. Circumstances must soon constrain them to 
+form some ultimate system relative to the United States ; 
+and although I have much reason to hope it will be favourable to our wishes, yet I confess I am not without apprehensions, that certain points not by us to be yielded, will 
+occasion difficulties hard to surmount. Personally, I have 
+every reason to - be satisfied, and officially, I have as yet no 
+reason to complain. 
+</p><p>
+Shortly after my arrival, I dined with <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a>. 
+The cabinet ministers were present, but not a single foreigner. On Monday next I am to dine with the lordchancellor, and on next Friday with Mr. Pitt. I mention 
+these facts to explain what I mean by favourable appearances. I think it best that they should remain unmentioned 
+for the present, and they make no part of my communications to Mr. Randolph or others. This is not the season 
+for such communications ; they may be misinterpreted, 
+though not by you. 
+</p><p>
+I fear the posts may labour, but they must not be left. 
+We must not make a delusive settlement ; that would disunite our peop-c, and leave seeds of discord to germinate. 
+I will do every thing that prudence and integrity may dictate or permit. 
+</p><p>
+I will endeavour to accommodate rather than dispute ; 
+and if this plan should fail, decent and firm representations 
+must conclude the business of my mission. As vet, I do 
+not regret any step I have taken. I wish I may be able to 
+say the same at the conclusion. 
+</p><p>
+Yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p><p>
+5th August. — This letter was inadvertently omitted to be 
+sent when written. Appearances mend — give us a fair 
+chance. 
+</p>
+</letter>

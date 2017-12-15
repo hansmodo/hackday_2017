@@ -1,0 +1,84 @@
+<letter id="gom4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='1'>1st</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I am too much occupied to find time for the use of a cipher, and in effect, the government here is so much occupied with their own affairs, that in transmitting to you a 
+letter under an envelope, there is no risk. This, however, I am pretty certain will go safe. The States-general have 
+now been a long time in session, and have done nothing hitherto. They have been engaged in a dispute, whether 
+they shall form one body or three. The commons, who are represented by a number equal to both the others, and 
+who besides have at least one-half the representatives of the clergy, insist on forming a single house. They have 
+succeeded. But the nobles deeply feel their situation. The king, after siding with them, was frightened into an abandonment of them. He acts now from terror only. The 
+soldiery in this city, particularly the French guards, declare they will not act against the people. They are now 
+treated by the mobility, and parade about the streets drunk, huzzaing for the Tiers. Some of them have, in consequence, 
+been confined, not by the force, but by the adroitness of authority. Last night this circumstance became known, 
+and immediately a mob repaired to the prison. The soldiers on guard unfixed their bayonets, and joined the assailants. A party of dragoons, ordered on duty to disperse 
+the riot, thought it better to drink with the rioters, and return back to their quarters. The soldiers, with others 
+confined in the same prison, were then paraded in triumph to the Palais Royal, which is now the liberty pole of this 
+city, and there they celebrated, as usual, their joy. Probably this evening some other prisons will be opened, for 
+" Liberte" is now the general cry, and " autorite" is a name, not a real existence. 
+</p><p>
+The court are about to form a camp in the neighbourhood of Paris, of 25,000 men, under the command of the Marechal de Broglio. I do not know him personally, 
+therefore cannot judge what may be expected from his talents ; but all my information goes to the point, that 
+he will never bring his army to act against the people. 
+The Guard du Corps are as warm adherents (in general) to 
+the Tiers as anybody else, strange as that may seem ; so 
+that in effect the sword has slipped out of the monarch's 
+hands, without his perceiving a tittle of the matter. All 
+these things in a nation not yet fitted by education and 
+habit for the enjoyment of freedom, gives one frequent suspicions that they will indeed greatly overshoot their mark, 
+if indeed they have not already done it. Already some 
+people talk of limiting the king's negative upon the laws. 
+And as they have hitherto felt severely the authority exercised in the name of their princes, every limitation of that 
+authority seems to them desirable. Xever having felt the 
+evils of too weak an executive, the disorders to be apprehended from anarchy make, as yet. no impression. 
+</p><p>
+The provincial assemblies or administrations, in other 
+words, the popular executive of the provinces, which Turgot 
+had imagined as a means of moderating the regal legislative 
+of the court, is now insisted on as a counter security against 
+the monarch, when they shall have established a democratical legislative, for you will observe that the noble and clerical 
+orders are henceforth to be vox et preeterea nihil. The 
+king is to be limited to the exact sum needful for his personal expenses. The management of the public debt, and 
+revenues to provide for it, will be taken entirely out of his 
+hands, and the subsistence of the army is to depend on temporary grants. Hence it must follow, that his negative, in 
+whatever form reserved, will be of little avail. These are 
+the outlines of the proposed constitution, by which at the 
+same time lettres de cachet are to be abrogated, and the 
+liberty of the press established. 
+</p><p>
+My private opinion is, that the king, to get fairly out of the 
+scrape in which he finds himself, would subscribe to any 
+thing ; and truly from him little is to be expected in any way. 
+The queen, hated, humbled, mortified, feels, and feigns, and 
+intrigues to save some shattered remnants of the royal authority ; but to know that she favours a measure is the certain 
+means to frustrate its success. The Count D'Artois, alike 
+hated, is equally busy, but has neither sense to counsel himself, nor choose counsellors for himself, much less to counsel 
+others. The nobles look up to him for support, and lean on 
+what they know to be a broken reed, for want of some more 
+solid dependence. In their anguish, they curse Neckar, 
+who is, in fact, less the cause than the instrument of their sufferings. His popularity depends now more on the opposition 
+he meets with from one party, than any serious regard of 
+the other. It is the attempt to throw him down which saves 
+him from falling. He has no longer the preponderating 
+weight in council, which a fortnight ago decided every 
+thing. If they were not afraid of consequences, he would 
+be dismissed ; and, on the same principle, the king has refused to accept his resignation. If his abilities were equal 
+to his genius, and he were as much supported by firmness 
+as he is swayed by ambition, he would have had the exalted 
+honour of giving a free constitution to above twenty millions of his fellow-creatures, and would have reigned long 
+in their hearts, and received the unanimous applause of 
+posterity. But as it is, he must soon fall. Whether his 
+exit will be physical or moral, must depend on events 
+which I cannot foresee. The best chance that royalty has 
+is, that popular excesses may alarm. At the rate in which 
+things are now going, the king of France must soon be one 
+of the most limited monarchs in Europe. Adieu. 
+</p><p>
+I am yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

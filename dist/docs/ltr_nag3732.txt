@@ -1,0 +1,123 @@
+<letter id="nag3732">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head- Quarters, <a href='/results.php?city=ashley hill' rel='city origin'>Ashley Hill</a>, 	<a rel='day origin' value='4'>4</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am much obliged by your Excellency's long and 
+communicative letters of the 9th of July and 6th of 
+August. Since my letter of the 26th of August, the 
+evacuation of <a href='/results.php?city=charleston' rel='city'>Charleston</a> is reduced to a certainty. 
+The following disposition, it is said, is to be made 
+of the troops in garrison. 
+</p><p>
+Lord Rawdon's corps, which is put upon the British 
+establishment as the one hundred and fifth regiment, 
+is going directly to Ireland. Governor Martin's corps 
+is drafted into the North Carolina volunteers, which, 
+with the South Carolina royalists, and the King's 
+Carolina rangers, and the refugees, are going to St. 
+Augustine, to relieve the British troops at that place. 
+The Georgia loyalists are incorporated with the King's 
+Carolina rangers. It is said these troops are to sail 
+on Sunday. After these troops are gone, there will 
+remain in <a href='/results.php?city=charleston' rel='city'>Charleston</a>; the residue of the guards the 
+seventeenth, twenty-third, thirty-third, and seventy-first 
+regiments; five companies of the eighty-second; the 
+flank companies of The eiglitj-fourth ; a detachment of 
+British artillery, the third, sixty-third, and sixty-fourth 
+regiments ; the Hessian corps of A Dittforth, and Bening; a detachment of Hessian artillery and 
+Yagers ; with the American corps, the <a href='/results.php?city=new york' rel='city'>New York</a> volunteers, the King's American regiment, the Prince of Wales's regiment, the first and second battalions of 
+Delancey's, and the second battalion of New Jersey volunteers. These are to join the troops at New 
+York; but whether at that place, or on their passage 
+to some other port, is uncertain, as it seems to be 
+a matter fully established here that New Y'ork is to 
+be evacuated. 
+</p><p>
+What is the object of the British Ministry, or the 
+British Commander, in drawing off the troops from 
+this country, is difficult to tell. I confess it looks 
+like an approaching peace ; and yet I cannot but 
+have my doubts. Reports say that Sir Guy Carleton 
+is to go to Canada, and that Lord Cornwallis is to 
+command in the West Indies. This disposition is 
+equivocal, as it points both to war or peace, only upon 
+a different plan. Could Great Britain humble the 
+pride of France by some lucky stroke, I should not 
+be surprised to find them forming new attacks upon 
+us. But if they cannot reduce the navy of France, 
+they may embrace a peace, as least ruinous to their 
+affairs, however mortifying to their pride. 
+</p><p>
+I wrote your Excellency on the 12th of August a 
+pretty full state of all matters in this quarter, and 
+wish your final determination with respect to the disposition of the troops to the southward. I find, by a 
+resolution of Congress, no State is to be credited for 
+troops not enlisted agreeably to the resolutions of 
+Congress on that subject. Whether those men, drafted in North Carolina for eighteen months, will be 
+brought into service under these circumstances, I cannot determine. They ought to have been in camp 
+long since, if they had marched agreeably to my orders ; but I have not heard of one man being on 
+the march. On the contrary, reports say the State 
+will not permit them to come. Should these troops 
+not come forward, and the others march northwardly, 
+it will leave the Southern States exceedingly defenceless, and much exposed even to the inroads of the 
+troops in East Florida and the attacks from the Indians. 
+</p><p>
+On our possessing <a href='/results.php?city=charleston' rel='city'>Charleston</a>, the fortifications will 
+come under consideration. My object would be to 
+render it sufficiently strong to protect its trade 
+against sudden descents of three or four thousand ; 
+but, when a force invades it that is superior to the 
+natural strength of the country, it must fall ; and to 
+incur a large expense in the fortification, and sacrifice the garrison only to protract its fall for a few 
+days, will be neither wise nor prudent. I should recommend, therefore, whenever there appears a force 
+sufficient to possess the town by regular approaches, 
+to abandon it, and to have the principal magazine of 
+the country at Camden. 
+</p><p>
+To leave the town without any fortifications, will 
+render trade so unsafe as to be highly injurious to 
+the public finances ; besides, the perpetual alarms to 
+which the inhabitants will be constantly exposed, will 
+render their situation exceedingly disagreeable. All 
+the Southern States are in a deplorable situation, and 
+will require a great deal of nursing and care to establish good government and give a proper spur to 
+agriculture and commerce. At present there are no 
+Courts of Justice in any of the States, and it is dangerous travelling in almost every part of the country. 
+from the great number of robbers and private plunderers that infest the roads. From these circumstances your Excellency can judge how feeble must be 
+the efforts of a people in this situation, reduced to 
+poverty by continual depredations. 
+</p><p>
+I have received orders from the Secretary of War 
+to collect the minds of the officers for the reform of 
+the army, agreeably to the resolution of Congress of 
+the 7th of August. I have taken the sentiments of 
+the officers here, and forwarded them to the respective States, to have the business completed. That part 
+of the plan which proposes filling the Staff from the 
+retiring officers, I fear will not be found eligible. 
+The consideration proposed is by no means a sufficient 
+encouragement to induce suitable characters to engage ; 
+and if the appointments are confined to the retiring 
+officers alone, it may be difficult to find suitable characters. Good Staff-Officers facilitate the operations 
+and business of an army greatly, and the want of 
+such embarrasses it exceedingly. I am not certain 
+that I comprehend the intentions of Congress fully, 
+and therefore can say little on the subject. 
+</p><p>
+This army has been exceedingly sickly in the 
+months of August and September, and remains so 
+still, as your Excellency will see by the returns. 
+The enemy have been equally so. After I wrote to 
+you of the enemy's operations to the southward, 
+General Gist took one of their galleys. Major Frazer attempted a surprise upon <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>, but 
+was repulsed, with the loss of one officer killed, two 
+wounded, and ten or twelve dragoons killed and 
+wounded. These are all the military occurrences 
+which have happened since that period. I have the 
+honor to be, with great respect, your Excellency's 
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

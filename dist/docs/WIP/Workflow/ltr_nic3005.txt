@@ -1,0 +1,37 @@
+<letter id="nic3005">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am favored with your Excellency's letter, of the 
+31st of last month, by Captain Baylor, who hath 
+purchased the warlike stores imported by Messrs. 
+Clarke & Nightingale. The prices appear to be very 
+high ; but, considering the cost, expenses, and risk, I 
+believe they are as low as can reasonably be expected. 
+</p><p>
+In the letter I did myself the honor to write you 
+by Mr. Brown, I mentioned the extreme scarcity of 
+tow-cloth in the Colony. There is indeed none to 
+be purchased. 
+</p><p>
+The Committee, appointed to act during the recess 
+of the General Assembly, have given your proposal 
+for taking the powder from Bermuda a full consideration, and have come to a resolution to make 
+the attempt. Captain Abraham Whipple, the commander of the two armed vessels in the service of 
+this Colony, who hath been very ill, but is now 
+upon the recovery, hath been consulted, and will 
+undertake the enterprise as soon as his health will 
+permit. He is deemed the most suitable person to 
+conduct it that we have. He requests your Excellency to give him a line under your hand, assuring 
+the people of Bermuda that, in case of their assistance, you will recommend it to the Continental Congress to permit them to fetch provisions for the use 
+of the Island. He does not propose to make any 
+use of it, unless he shall find it utterly impracticable 
+to obtain the powder without their assistance. I am, 
+with much esteem and respect, Sir, your most obedient Humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

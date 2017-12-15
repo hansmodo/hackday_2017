@@ -1,0 +1,18 @@
+<letter id="smd7860">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=westover' rel='city origin'>Westover</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='7'>7th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Last night, shortly after we got in bed, we were roused by loud cannonading towards <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, 
+and running out on the small balcony up here, saw the light of a great fire in that direction. From the 
+constant reports, and the explosion of what seemed to be several powder magazines, we imagined it to 
+be either the Garrison or a gunboat. Whatever it was, it was certainly a great fire. We all ran out in 
+our nightgowns, and watched for an hour in the damp air, I without even shoes. We listened to the 
+fight a long while, until the sound ceased, and we went back to bed. 
+</p><p>
+Evening. 
+</p><p>
+I am so disheartened ! I have been listening with the others to a man who was telling us about <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, until I am heartsick. He says the Yankees 
+have been largely reinforced, and are prepared for another attack which will probably take place tomorrow; that the fight was a dreadful one, we driving them in, and losing twelve hundred, to their fifteen hundred. It must have been awful ! And that our troops have resolved to burn the town down, since they cannot hold it under the fire of the gun boats. 
+</p><p>
+</letter>

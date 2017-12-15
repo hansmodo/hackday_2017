@@ -1,0 +1,46 @@
+<letter id="joh3011">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+You will see, from the inclosed resolves, which I do 
+myself the pleasure of forwarding, in obedience to 
+the commands of Congress, that they have bent their 
+whole attention to our affairs in Canada, and have 
+adopted such measures, as, in their opinion, are calculated to place them on a better and more reputable footing for the future. 
+</p><p>
+The most unfortunate death of General Thomas 
+having made a vacancy in that department, and the 
+service requiring an officer of experience and distinction, the Congress have thought proper to appoint 
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> to succeed him. And I am to request 
+you will send him into that Province, to take the 
+command of the forces there, as soon as possible; and 
+that you direct him to view Point-au-Fer, and to 
+order a fortress to be erected there, if he shall think 
+proper. 
+</p><p>
+My opinion on the resolve of the 25th May was 
+well founded ; Congress having since determined, as 
+you will find by a resolve herewith transmitted, that 
+you are to employ the Indians wherever you think 
+their services will contribute most to the public good. 
+</p><p>
+I shall write to the Colonies of <a href='/results.php?city=new york' rel='city'>New York</a>, New 
+Jersey, and Connecticut, to request them to author 
+ize you to call on their militia, if necessary. My 
+time will not permit me to do it now, as the post 
+will set out directly, and the inclosed resolves were 
+not passed till late yesterday evening. 
+</p><p>
+I have the honor to be, Sir, your most obedient 
+and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P, S. A Mustermaster-General, in the room of Mr. Moylan, will be appointed this day or to-morrow, and a Deputy will afterwards be sent into Canada. 
+</p><p>
+I beg you will think of the Eastern Department, with respect to General Officers, when your very important concerns will admit. 
+</p>
+</letter>

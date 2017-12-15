@@ -1,0 +1,21 @@
+<letter id="mbc7680">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. Drove out with <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>. She had a watch in her hand which some poor dead soldier wanted 
+to have sent to his family. First, we went to her mantuamaker, then we drove to the Fair Grounds where the band 
+was playing. Suddenly, she missed the watch. She remembered having it when we came out of the mantua-maker's. 
+We drove back instantly, and there the watch was lying near the steps of the little porch in front of the house. No 
+one had passed in, apparently ; in any case, no one had seen it. 
+</p><p>
+Preston Hampton went with me to see Conny Gary. The talk was frantically literary, which Preston thought hard 
+on him. I had just brought the St. Denis number of Les Miserables. 
+</p><p>
+Sunday, Christopher Hampton walked to church with me. Coming out, <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> was seen slowly making his 
+way down the aisle, bowing royally to right and left. I pointed him out to Christopher Hampton when <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> 
+happened to look our way. He bowed low, giving me a charming smile of recognition. I was ashamed of being so 
+pleased. I blushed like a schoolgirl. 
+</p><p>
+We went to the White House. They gave us tea. The President said he had been on the way to our house, coming 
+with all the Davis family, to see me, but the children be came so troublesome they turned back. Just then, little Joe rushed in and insisted on saying his prayers at his father's knee, then and there. He was in his night-clothes. 
+</p>
+</letter>

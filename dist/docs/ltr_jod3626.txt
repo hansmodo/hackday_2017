@@ -1,0 +1,53 @@
+<letter id="jod3626">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='13'>13</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I DINED on Monday at the Presidents with young La Fayette and his preceptor, tutor or friend, whatever 
+they call him, whose name is Frestel. I asked them 
+with Mr. Lear to breakfast with me this morning and 
+they agreed to come ; but last evening, Mr. Lear 
+came with a message from the President to ask my 
+opinion whether it would be advisable for the young 
+gentleman, in the present circumstances of his father 
+and mother and whole family, and considering his 
+own tender years, to accept invitations and mingle in 
+society ? Whether it would not too much interrupt 
+his studies ? The youth and his friend had proposed 
+these questions to the President and asked his advice, 
+and expressed their own opinion, that retirement 
+would be more advisable and more desirable. I agreed 
+in opinion with the President and his guests, and as I 
+had been the first who had invited them, at the President's request agreed to excuse them from accepting 
+my invitation, that they might have it to say as a 
+general apology that they had accepted none. There 
+is a resemblance of father and mother in the young 
+man. He is said to be studious and discreet. I hope 
+he will live to become as respectable, and a more 
+fortunate man than his father. You must have 
+known him at five or six years of age, as well as his 
+sister Anastasia, who is now with her parents. 
+</p><p>
+The majority of the House of Representatives appear to be resolute to do nothing. In fact they have 
+done nothing, and Mr. Giles boasts that he has a majority of ten determined to do nothing concerning the 
+treaty with England. For my own part, I see no 
+thing better than a crisis working up, which is to determine whether the constitution is to be brought to 
+its end this year, or last a few longer. Not the tavern at Cowes, not the tavern at Harwich or at Helvoet, not the taverns at Nantes, L Qrient, and Brest, 
+nor the calms, storms and contrary winds of a long 
+voyage at sea, nothing but a journey through Spain, 
+from <a href='/results.php?city=ferrol' rel='city'>Ferrol</a> to Fontarabia is more tedious than the 
+operations of our government under this constitution. 
+</p><p>
+I have received your's of April 1. You must get 
+labor as reasonably as you can. But I almost wish 
+we had let our homestead upon shares as well as the 
+others. Another year I will, if I don t stay at home 
+to take care of it. 
+</p><p>
+I am, affectionately, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

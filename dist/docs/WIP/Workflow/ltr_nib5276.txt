@@ -1,0 +1,40 @@
+<letter id="nib5276">
+<recipient first="William" last="Bucknor" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir 
+</p><p>
+I had this morning the pleasure of receiving your favor of the 12th inst. &amp; thank you for the suggestions it 
+contains, which are I am sure dictated by the most friendly disposition to the Bank. The subject, as you may readily 
+suppose, has occupied much of my thoughts, so that I am able to speak of it at once but after very deliberate reflection. 
+</p><p>
+I am very sensible of the value to the Bank of the result contemplated &amp; fully aware of the importance of what you 
+mention in accomplishing that result. But the agency of the 
+Bank in contributing to it is a matter of very grave consideration. When the Bank was denounced by the President, &amp; all 
+the influences of his patronage arrayed against it, it was an 
+obvious duty not to suffer the institution to be crushed by 
+the weight of power but to appeal directly to the country 
+and as the whole channel through which the understandings of the community could be reached was the press, we 
+strove to disseminate widely correct information in regard 
+to the Bank. That object is accomplished. The Bank is fairly 
+before the country and large majorities of both houses of 
+Congress have decided in its favor. One individual has how 
+ever opposed his will to the deliberate reflections of the representatives of the people and the question now is whether 
+the Bank ought to exert itself to defeat the reelection of that 
+person who is now the only obstacle to its success. On that 
+question I have made up my mind that to interfere in the 
+election would be a departure from the duty which the 
+Bank owes to the country. The first law of its existence is en-\ 
+tire and unqualified abstinence from all political connexions j 
+&amp; exertions. This it has hitherto practised, and whatever^ 
+may be the consequences, must continue to practise. The 
+temptations to a contrary course are I feel very great, but I believe it to be the duty of the Bank to resist them. If I 
+could permit myself to do otherwise, it would have an additional satisfaction in the prospect of serving one who has 
+I think been very hardly and unjustly treated by his political associates. 
+</p><p>
+You will easily believe that I think our differences of opinion on this subject arise merely from our looking at the 
+object from different points of view, for I think in my situation You would probably entertain the same sentiments. I 
+shall always be glad to hear from you whenever you have leisure, &amp; remain. 
+</p>
+</letter>

@@ -1,0 +1,29 @@
+<letter id="hog3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+Thursday night I had the honor to receive your Excellency's letter of the 1st instant, and immediately gave orders for moving the Continental troops 
+over the bay to <a href='/results.php?city=greenwich' rel='city'>Greenwich</a>; but, the weather proving 
+so very stormy the whole day, that could not be effected before Saturday evening. I came myself that 
+night to <a href='/results.php?city=providence' rel='city'>Providence</a>, and gave orders for Jackson's 
+regiment, stationed here, to march this morning for 
+Plainfield ; if the weather continues tolerable, I have 
+no doubt but the whole will reach <a href='/results.php?city=hartford' rel='city'>Hartford</a> Saturday. 
+I have advised with those who are the best acquainted with the different routes at this season of the 
+year ; they all prefer that by <a href='/results.php?city=hartford' rel='city'>Hartford</a>, upon account 
+of the facility of passing the ferries, and the goodness of the roads that way. 
+</p><p>
+I shall bring with me only four pies of light 
+brass field artillery, and propose leaving what is 
+called the park, here, with a small guard to take 
+care of it. If your Excellency wishes more to be 
+brought forward, it may be easily done after the receipt of your farther orders. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

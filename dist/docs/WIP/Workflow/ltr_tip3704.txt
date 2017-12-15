@@ -1,0 +1,66 @@
+<letter id="tip3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+It may be proper that I report to your Excellency 
+the circumstances and events of my late journey to 
+<a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>. I was unable to leave camp the 2d 
+instant until late in the afternoon, which prevented 
+my reaching <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a> till the evening. 
+</p><p>
+I immediately waited on the Intendant with Count Chastellux's letter, reciting the agreement he had 
+made with me respecting the future employment of 
+the vessels, and desiring him to pay me two thousand dollars on account of their services. The Intendant declined doing it, but proposed to see me 
+the next morning, when he would get an interpreter, 
+that we might fully understand one another. I met 
+him at sunrise ; but, after a long conversation, he 
+finally refused a compliance, in any respect, with the 
+agreement of Count Chastellux. He observed, that 
+neither Count Chastellux, as Major-General, nor Count 
+Rochambeau, as Commander-in-chief, had a right to 
+make any agreements obligatory on him ; that he had 
+been constantly disappointed, in every undertaking of 
+Government, from Hhode Island to Virginia ; that he was answerable with his head, if the King's army were not duly supplied; that money insured supplies; 
+and that he could depend on nothing but the direct 
+application of it by his own agents. I was now 
+fearful that the proposed plan must be wholly given 
+up. But afterwards I concerted measures with Colonel Wads worth and Mr. Carter for prosecuting it, and, 
+by their assistance, have been enabled to do it for 
+the present. On my arriving at Trebel's Landing, I 
+found many vessels unfit for service. These, exceeding twenty in number, I discharged. All the others 
+that were unloaded were formed into squadrons for 
+different ports, to bring supplies to the army. Most 
+of them sailed yesterday morning. 
+</p><p>
+Commodore Barron arrived at <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a> just 
+in time to go with me to the Landing ; yet, with his 
+assistance, I was not able to arrange the vessels, 
+finish the unloading of some, furnish them with provisions, and write their various orders, till yesterday 
+morning. A competent number will call on the Count de Grasse to land the marines at the place your Excellency directed, if this should not have been already 
+effected ; for Commodore Barron informed that before 
+he left the fleet, the Admiral intended to land them 
+without delay. 
+</p><p>
+There is one vessel at the Landing, which came 
+from Rhode Island with salted provisions, which yet 
+remain unloaded. I do not know the quantity she 
+has on board, but I believe not above a hundred or 
+a hundred and fifty barrels. If there be no material 
+objection, I would have it landed, that the vessel 
+might be discharged, or employed in transporting 
+supplies. At present she serves only as a storehouse 
+for that small quantity of provisions, at the rent of 
+two thousand five hundred and fifty-five a year. 
+I trouble your Excellency with this information, because Colonel Stewart, some days since, suggested that 
+it was your Excellency's desire, that this salted meat 
+should be preserved for some special occasions, and 
+that it was necessary to have it remain on board. I 
+have the honor to be, with the greatest respect. 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=tip" rel="me">Timothy Pickering</a>. 
+</p>
+</letter>

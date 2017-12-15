@@ -1,0 +1,211 @@
+<letter id="gom4583">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="1">January</a> <a rel='day origin' value='31'>31st</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Hamilton, 
+</p><p>
+I did expect that in congratulating you, which I do most 
+sincerely, upon your appointment, I should have communicated a matter which would have administered much ease and 
+convenience to the affairs of your department. I learn this 
+morning that these expectations are frustrated from a quarter, 
+and in a manner, which would excite my surprise, had I not 
+long since acquired the habit of wondering at nothing. I will 
+tell you a plain story. 
+</p><p>
+M. Necker, pressed for money, had listened to overtures 
+for selling the debt of the United States, and mentioned the 
+matter to some members of the National Assembly, by which 
+means it became known to the principal Americans, and 
+friends of America here. I own that upon the first mention 
+of the matter, it appeared to me a thing of indifference, and 
+so I expressed myself. Our duty is to pay to such creditors 
+as may possess the demand. But further information placed 
+the affair in a different point of light. It appeared that the 
+offer was for a small part, at a great discount ; and that the 
+terms of the bargain were to be debated in the National 
+Assembly, and consequently our reputation sported with. 
+Mr Short did everything in his power, but having no pointed 
+instructions, could only express the result of his own judgment and feelings. But the minister was pressed for money, 
+and he had the offer of money. Under these circumstances, 
+in connexion with a society of friends to America, I made M. Necker an offer, such as in my conception was honorable to 
+France, to America, and to the parties. This proposition, 
+(after stating the amount of the principal and interest which 
+would be due on the first of January <a href='/results.php?year=1790'>1790</a>, and considering 
+that as a new capital on which the interest was to run,) contains the following terms. On propose de P acquerir du gouvernementj et a cet effet de I 9 - acquitter en entier par des rents perpetuelles de la France moniantes a la meme somme. This 
+payment was to be made in the year <a href='/results.php?year=1790'>1790</a> and <a href='/results.php?year=1791'>1791</a> ; consequently, so far as France is concerned, the offer went to a 
+full, complete, and entire payment, and that at a much earlier 
+period than is stipulated by the terms of the loans themselves. 
+To this was added a further offer, in case the situation of 
+affairs in this kingdom should require it, in the following terms ; 
+On se chargera de solder en argent la moitie de la dite rente 
+au prix courant des effets royaux. This part of the offer 
+has no other merit than to secure to the minister the sale of 
+the French effects, if he thought proper, and is therefore a 
+matter rather of convenience than advantage. I communicated this plan, beforehand, to Mr Short, and to the Marquis de 
+Lafayette, who both considered it as an excellent means of 
+saving at the same time the honor and interest of America, 
+while it furnished a useful resource to France. I showed it 
+also to Monsieur de Montmorin, who, having well weighed 
+and considered it, assured me that he most heartily approved 
+it, and would do everything in his power to secure the success. 
+In the supposition that this plan were adopted here, application was to be made through you to the United States to pay 
+the amount of this debt in obligations for current guilders, calculating the exchange at par ; those obligations to bear five per 
+cent interest, and to be paid in instalments, the first of which 
+to commence five years hence. Consequently, as the society 
+was to bear all the charges of negotiation, &c. &c. it follows 
+clearly, that the United States would have obtained the needful 
+time required for their accommodation without a farthing of expense, and without the pain of soliciting it from this Court. It 
+was therefore equally honorable and useful for them. It was 
+honorable also to the parties. First, because they became eminently useful to the societies of which they are respectively 
+members; and secondly, because the advantage, if any, which 
+they were to derive would result merely from a careful and 
+industrious attention to the variations of the exchange and fluctuations in the effects, and from the use of their funds and 
+credit to make investments at the proper times and seasons, 
+which, as far as the sum of forty millions of livres and up 
+wards can go, must necessarily have sustained the value of the 
+stocks here. And you will observe that this was clearly stated 
+and understood. 
+</p><p>
+The proposition was delivered to M. Necker on the fifth of 
+December. You will observe, that in framing it we counted 
+upon the aid of money-lenders in Holland ; and, in preference 
+to others, upon the commissioners of the United States. We 
+learned, however, that these gentlemen had, notwithstanding 
+the remonstrances of Mr Jacob Van Staphorst, who has a real 
+and warm regard for America, joined with those who made the 
+offer to M. Necker. Through the channel that brought us this 
+information, an interview was brought about between Monsieur 
+de la Chaise and Mr Van Staphorst, charged with the final pro 
+position to M. Necker and me. I told those gentlemen, that I 
+was convinced their offer could not be accepted, (by the bye, 
+M. Necker had told me that the sum offered was not sufficient,) 
+and that, if accepted by the minister, it could not be adopted 
+by the Assembly, and that they risked doing great injury to 
+America, without any advantage to themselves ; that I would 
+communicate to them an offer I had made } and which I had 
+great reason to believe would be adopted ; that I would offer 
+them an interest in it, or a commission, at their option ; that if 
+they should not approve of holding a concern, I would then lie 
+still, and let them make the most of their plans without opposi 
+tion, but asked the assurance on the part of themselves and of 
+their principals, (those whom they represented) that if they 
+found their own Scheme impracticable, and did not choose to 
+adventure with me, they should only not oppose. This 
+being solemnly promised, I stated the matter to them at large, 
+and they came so fully into my views, as to withhold the pro 
+position they were directed to make, and send an express on 
+the subject to Amsterdam. 
+</p><p>
+The interview was on the eleventh of December, in the evening. Some further discussions were needful, which we had the 
+next day. I avoided going to M. Necker s, because I was to do 
+nothing which would defeat their plan. On the twenty-sixth, 
+Mr Hubbard, partner of the house of Staphorst, arrived charged to make their offer, with a budget of reasons in support of 
+it. This offer was to purchase the 6,000,000 at a discount of 
+about eleven per cent. It was made immediately ; and on 
+the morning of the 28th he called on me, in company with 
+Mr Van Staphorst. I had heen repeatedly assured from 
+different quarters that M. Necker was ready to treat with me, 
+but I had not put myself in his way. The conversation with Mr Hubbard was not very long. I heard what he had to say, and 
+replied with great precision, but so as to change entirely his 
+opinion. You will not wonder at this, when I tell you the 
+purport of the objections he had brought forward ; first, that it 
+was too profitable to the parties ; secondly, too burdensome to 
+France ; and thirdly, might injure the credit of America by 
+selling the obligations too low. To the first, I replied by a 
+smile, and the assurance, that I never expected such an objection from Holland. This disconcerted him. To the second 
+I answered, that M. Necker understood his own business, and 
+might safely be trusted in making a bargain ; but I showed 
+him further that the bargain was a good one. To the last I 
+made the answer, which I am sure you have already made in 
+your own mind, viz. that if the commissioners of the United 
+States could safely be trusted in making negotiations, where 
+the loss was to be borne by their employers, a fortiori might 
+they be trusted where the loss was to be borne by them 
+selves. 
+</p><p>
+As all this was merely ostensible, I pressed him hard for the 
+real reasons, but could get nothing more than assurances that 
+there were no other than those above mentioned. As these 
+were clearly refuted, of course he acknowledged himself 
+converted ; but Hudibras has very well observed that, 
+</p><p>
+Who's convinced against his will, 
+Is of the same opinion still. 
+A more effectual change was wrought by M. Necker, who, 
+on the second of this month, refused their offer. On the morning 
+of the third, Mr Hubbard called and informed me of this, and 
+in the afternoon of the fifth he set off for Amsterdam, apparently 
+desirous of bringing all his friends into my views. The business went on but slowly in Amsterdam ; and Mr Jacob Van 
+Staphorst was amused from time to time, and amused me with 
+the expectation that each succeeding post would bring their 
+definitive answer ; but this morning he tells me, with very sincere regret, what has been done. The letter to you on this 
+subject I have read, and will make a few remarks upon it, but 
+shall not be very precise, perhaps, as it is only from memory 
+of what it contained that I write. 
+</p><p>
+The idea of an enormous profit, admitting for a moment 
+that such were to accrue, would hardly have been with them 
+what Candid calls the sufficient reason for refusal, although per 
+haps it might have been for acceptance. But you can judge 
+of the extent of that profit, and you will with me smile at the 
+absurdity of connecting with such profit a sacrifice in the price 
+of American obligations, on the vending of which at or near 
+par, the profit must certainly depend. There is something 
+else which perhaps is more ridiculous still, viz. that the United 
+States, whose obligations belonging to numerous individuals 
+are daily sold on the change of Amsterdam, should apprehend 
+an injury to their credit from trusting a farther negotiation to 
+persons, whose immediate interest in supporting that credit 
+would be so great. They state as a great difficulty the borrowing of twelve millions within the term, when on the same 
+pledge they can borrow twenty. Their statement of sums is 
+not, I believe, very accurate, or perhaps my memory is not 
+accurate. However, I am sure the idea is, that the greater 
+sum can be borrowed more easily than the less. There is also 
+the farther very extraordinary idea, that it is for the interest 
+of the United States to pay between four and five per cent 
+upon a negotiation, rather than get it done for nothing. I shall 
+not notice many expressions which are injurious, but make to 
+their affectation of disinterestedness, the answer which Jacob 
+Van Staphorst made to me. It is very strange that they should 
+say all this, when they must remember that in M. Calonne's 
+time, they offered him only fourteen millions of livers for one 
+half of the thirty-two, and arrearages of interest, but would not 
+take the whole, even at that rate, which is the reason why the 
+bargain was broken off. I should make but a poor excuse for 
+so long a story, if I stopped here ; but I will now proceed to 
+give you what T conceive to be the key of the riddle. 
+</p><p>
+These gentlemen are engaged, as I suppose you know, in 
+very extensive speculations upon the funded debt of America. 
+They have lately worked this matter to a most astonishing benefit. Above three millions of that debt, which cost them five 
+shillings in the pound, has been made the basis of a loan on 
+which they receive sixty per cent, and are bound to repay it 
+by instalments from the interest receivable in America. The 
+Dutch, however, prefer lending at five per cent to the Congress direct. It is, therefore, essential to the success of their 
+schemes, that they should be able to suspend the one loan al 
+ways till they have completed the other ; and thus our nation 
+al interests are rendered subservient to their particular negotiations. You will easily see that one such operation, in which there 
+is no risk, is better worth pursuing than the very great profit 
+they complain of. With this hint you will understand the matter thoroughly. I must come to a conclusion. 
+</p><p>
+I did not see M. Necker as I expected this afternoon, be 
+cause he was gone to council ; however I must suspend, at 
+least, the matter with him ; but you may rely on it that if the 
+Minister at this court, or any other agent, be authorised fully 
+to deal in the business, and, if the court will not readily agree 
+to a new arrangement respecting the debt, to contract with individuals, that the matter can be yet managed in the manner 
+above mentioned, provided it be not too long delayed. As to 
+the loan which the commissioners have undertaken of their own 
+heads, you may, I think, derive great advantage from it ; for, 
+in the first place, your Minister or Agent can make terms with 
+them to that amount at pleasure, for the benefit of the United 
+States ; and you may, in the next place, convert the money to 
+very useful purpose by sinking three or four times as much of 
+the domestic debt, and raising the price at the same time to 
+wards par, which will prevent the success of speculations by 
+foreigners, which are a loss to America. I am very truly, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

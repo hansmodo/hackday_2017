@@ -1,0 +1,33 @@
+<letter id="joj4125">
+<recipient first="Oliver" last="Ellsworth" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='19'>19th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The negotiation is terminated by a treaty. It will, with 
+this letter, go by the packet, which, in expectation of this 
+event, has been detained above a week. 
+</p><p>
+In my opinion we have reason to be satisfied. It is 
+expedient that the ratification should not be unnecessarily 
+delayed. The best disposition towards us prevails in the 
+cabinet, and I hope they will have reason to be content 
+with the delicacy and propriety of our conduct towards 
+them and the nation. Further concessions on the part of 
+Great Britain cannot, in my opinion, be attained. The minister flatters himself that this treaty will be very acceptable to our country, and that some of the articles in it will 
+be received as unequivocal proofs of good-will. We have 
+industriously united our efforts to remove difficulties, and 
+few men would have persevered in such a dry, perplexing 
+business, with so much patience and temper as he has 
+done. 
+</p><p>
+I could write you a long letter on these topics, but I 
+have not time. Believe me to be, with great esteem and 
+regard, dear sir, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

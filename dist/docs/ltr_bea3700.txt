@@ -1,0 +1,46 @@
+<letter id="bea3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head Quarters, <a href='/results.php?city=robinsons house' rel='city origin'>Robinson's House</a>, 
+</p><p>
+<a rel='day origin' value='6'>6</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On my arrival at this post, I found every thing 
+thrown into great confusion, by the troops removing 
+from hence, and the militia coming in. Colonel Malcom had ordered returns to be made of the militia, 
+provisions, and stores of every kind, which I expect 
+this morning, and will transmit a copy to your Excellency. I believe a sufficient number of militia 
+have arrived to replace those of this State, who will 
+leave this to-morrow or next day. I am sorry to 
+observe, that there is not one tent for the militia 
+(which are absolutely necessary at the redoubts), and 
+the barracks will not contain more than seven hundred, unless they are crowded, so as to injure their 
+health ; and many of them are daily falling sick. 
+This will be delivered your Excellency by Doctor Ledyard, who waits on you to obtain a supply of 
+medicines and stores for the sick, who are numerous, 
+and without fresh provisions or any necessaries ; and 
+I am assured by him and Doctor Burnet, that there 
+are not hospital stores in the department sufficient 
+to last the sick one fortnight, nor is there any prospect of obtaining a supply, unless by an application 
+to Congress or <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a>. 
+</p><p>
+The quantity of salted meat at this post, I am informed, is small. It appears to me that the whole 
+ought to be reserved, and the troops fed on fresh 
+provisions. I know not from what quarter we are to expect a supply. I have wrote Colonel Blain on 
+the subject, but believe an order from your Excellency to him will be necessary. 
+</p><p>
+I shall pay the strictest attention to my orders, 
+but cannot flatter myself with effecting as much with 
+raw militia as would be done with an equal number 
+of disciplined troops ; and I am very apprehensive 
+that the troops, by being exposed, will become sickly, 
+and desertions follow in consequence. I have the 
+honor to be, with great respect and esteem, 
+</p><p>
+Your Excellency's obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">Benedict Arnold</a>.
+</p>
+</letter>

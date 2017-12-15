@@ -1,0 +1,6 @@
+<letter id="mbc7629">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='26'>26th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Doleful dumps, alarm-bells ringing. Telegrams say the mortar fleet has passed the forts at New Orleans. Down into the very depths of despair are we. 
+</p>
+</letter>

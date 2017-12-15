@@ -1,0 +1,46 @@
+<letter id="jod3508">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+WE have been three days soaking and poaching in the 
+heaviest rain that has been known for several years. 
+</p><p>
+I am in comfortable lodgings, which is a felicity 
+that has fallen to the lot of a very few of our members. Yet the house where I am is so thronged, that 
+I cannot enjoy such accommodations as I wish. I 
+cannot have a room as I used, and therefore cannot 
+find opportunities to write as I once did. 
+</p><p>
+The people of this country are chiefly Germans, 
+who have schools in their own language, as well as 
+prayers, psalms, and sermons, so that multitudes 
+are born, grow up and die here, without ever learning 
+the English. In politics they are a breed of mongrels or neutrals, and benumbed with a general torpor. If 
+the people in Pennsylvania, Maryland, Delaware and 
+Jersey had the feelings and the spirit of some people 
+that I know, Howe would be soon ensnared in a trap 
+more fatal than that in which, as it is said, Burgoyne 
+was taken. Howe is completely in our power, and if 
+he is not totally ruined, it will be entirely owing to 
+the awkwardness and indolence of this country. 
+Fighting, however, begins to become fashionable. 
+<a href='/results.php?tla=chg' rel=''>Colonel Greene</a> has exhibited a glorious example in 
+the defence of Red Bank. But this must be done by 
+a New England man at the head of two New England regiments, Rhode Islanders. Colonel Smith, 
+however, is a Marylander from <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. He has 
+shown another example of magnanimity which gives 
+me the most agreeable hopes. Commodore Hazel- 
+wood, too, has behaved in a manner that exceeds all 
+praise. This spirit will be caught by other officers, for 
+bravery is epidemical and contagious as the plague. 
+This army suffers much for want of blankets and shoes. 
+I celebrated the 25th of this month in my own 
+mind and heart much more than I shall the 30th,be 
+cause I think the first a more fortunate day than the 
+last. My duty to your father and my mother, to uncles and aunts. Love to brothers and sisters ; but 
+above all, present all the affection that words can express to our dear babes. 
+</p>
+</letter>

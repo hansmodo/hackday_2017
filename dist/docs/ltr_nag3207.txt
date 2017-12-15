@@ -1,0 +1,35 @@
+<letter id="nag3207">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>Morristown</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR, 
+</p><p>
+The inclosed copy of a representation from Colonel 
+Barry, an Assistant Deputy-Quartermaster-General in 
+this State, will show your Excellency that a new 
+difficulty has arisen to delay transportation. It is 
+very unfortunate that we should lose the advantage 
+of this favorable term of conveyance, as the time is 
+just at hand when it will be almost impossible to 
+bring forward the supplies. 
+</p><p>
+The inhabitants are unwilling to give their aid, at 
+the prices regulated by law, unless the regulation 
+extends through all the States. I do not consider 
+myself authorized to instruct my agents to break 
+over the laws of the State; and now find a stagnation in bringing on the provisions. 
+</p><p>
+People will withhold their services in this State, 
+as long as they receive a less compensation than 
+their neighbours. They seem to claim it as a right, 
+that they be allowed their usual prices until the 
+other States adopt measures for enforcing a regulation. I do not hear them object to have a limitation 
+of prices take place ; but they insist upon its not 
+being binding on them till it is so on others. your Excellency can foresee the consequences of the present difficulty, and will direct and authorize me in 
+what manner to proceed. I am your Excellency's 
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

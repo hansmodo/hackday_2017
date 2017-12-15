@@ -1,0 +1,38 @@
+<letter id="gom4503">
+<recipient first="Sarah" last="Gouverneur" type="individual"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Dear Madam, 
+</p><p>
+It is with inexpressible concern, that I am this day informed of the death of my sister. We all sustain in her a great 
+loss, but you in particular, who are thus bereft of the companion of your age, must feel it most severely. Would to God it 
+were in my power to alleviate the pangs of a sorrowing parent. 
+But this is not my lot. My friend Wilkins will, I am sure, on 
+this occasion do the duties of a child and a friend. There is 
+one comforter, who weighs our minutes, and numbers out our 
+days. It is He, who has inflicted upon us the weight of public and private calamities, and He best knows when to remove the burthen. I am sorry it is not in my power to see 
+you at present. I know it is your wish, that I were removed 
+from public affairs ; indeed, as far as relates to my own ease 
+and enjoyments, I wish so too. But I know it is the duty of 
+every good citizen or man to preserve that post, in which by a 
+superior order he is placed. Where the happiness of a considerable part of our fellow creatures is deeply concerned, we 
+soon feel the insignificancy of an individual. And whatever lot 
+that individual shall experience, while a conscious rectitude of 
+conduct inspires and supports him, though he may be unfortunate, he cannot be miserable. 
+</p><p>
+What may be the event of the present war, it is not in man 
+to determine. Great revolutions of empire are seldom achieved without much human calamity ; but the worst, which can 
+happen, is to fall on the last bleak mountain of America, and he who dies there, in defence of the injured rights of mankind, 
+is happier than his conqueror, more beloved by mankind, more applauded by his own heart. 
+</p><p>
+The death of my sister has incapacitated me for mirth ; my 
+letter, therefore, is of an improper complexion to one already 
+afflicted. My love to my sisters, to Wilkins, whose integrity 
+I love and respect, to the good natured Counsellor of Bermuda, and such others as deserve it. The number is not great. 
+</p><p>
+Pray believe me most sincerely your affectionate son. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

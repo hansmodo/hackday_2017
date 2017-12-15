@@ -1,0 +1,51 @@
+<letter id="joj4008">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="12">Dec</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Your very friendly letter of the 6th ult. was this moment 
+delivered. I am happy to find your firmness unimpaired, 
+and your attachment to your country unabated by its ingratitude. Justice will yet take place, and I do not despair 
+of seeing the time when it will be confessed that the foundation of our success in the northern department, was laid by 
+the present commander's predecessor. I am nevertheless 
+anxious that such authentic evidence of the propriety of 
+your conduct, should be transmitted to posterity as may 
+contradict the many lies which will be told them by writers 
+under impressions and under an influence unfriendly to 
+your reputation. This subject merits attention. Facts, 
+and not a single resolution of Congress, will in my opinion 
+be effectual to do the business. I have thought much of 
+this matter, but more of this when we meet. 
+</p><p>
+Your offer of a farm, &c, is very obliging : be pleased 
+to accept my thanks for it. I am at present at a loss how 
+to determine. Let not my delay, however, be injurious to 
+you. This place, at which all the family now reside, is by 
+no means agreeable or convenient, if secure, which is also 
+doubtful. I purpose doing myself the pleasure of seeing 
+you this winter, and shall then avail myself of your advice. 
+</p><p>
+The rapidity with which the desolation of your seat at 
+<a href='/results.php?city=saratoga' rel='city'>Saratoga</a> is repairing, does not surprise me. I remember 
+the despatch with which the preparations for our first expedition into Canada were completed. I wish the repair of 
+our forts, &c., in the river was in the same train. 
+</p><p>
+As to your loss of influence among a certain body, it is 
+less so than you may imagine. The virtuous and sensible 
+still retain their former sentiments. The residue ever will 
+be directed by accident and circumstances. Few possess 
+honesty or spirit enough openly to defend unpopular merit, 
+and by their c permit calumny to gain strength, 
+</p><p>
+These, however, are temporary evils, and you do well to 
+despise them. 
+</p><p>
+I am, my dear sir, very sincerely, 
+</p><p>
+Your friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

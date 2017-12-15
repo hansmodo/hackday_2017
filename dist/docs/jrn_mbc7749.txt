@@ -1,0 +1,16 @@
+<letter id="mbc7749">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='28'>28th</a>  [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. We dined at Mrs. McCord's. She is as strong a cordial for broken spirits and failing heart as 
+one could wish. How her strength contrasts with our weakness. Like Doctor Palmer, she strings one up to bear 
+bravely the worst. She has the intellect of a man and the perseverance and endurance of a woman. 
+</p><p>
+We have lost nearly all of our men, and we have no money, and it looks as if we had taught the Yankees how to 
+fight since Manassas. Our best and bravest are under the sod ; we shall have to wait till another generation grows up. 
+Here we stand, despair in our hearts (" Oh, Cassandra, don t! " shouts Isabella), with our houses burning or about 
+to be, over our heads. 
+</p><p>
+The North have just got things ship-shape; a splendid army, perfectly disciplined, with new levies coming in day 
+and night. Their gentry do not go into the ranks. They hardly know there is a war up there. 
+</p>
+</letter>

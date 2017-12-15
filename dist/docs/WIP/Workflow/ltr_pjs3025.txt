@@ -1,0 +1,47 @@
+<letter id="pjs3025">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR, SIR, 
+</p><p>
+I am honored with your favor of the 24th instant, 
+which I received half an hour ago, having just arrived 
+from Moses Creek, where I keep my quarters. 
+</p><p>
+So far from the militia that are with me increasing , they are daily diminishing, and I am very confident that in ten days, if the enemy should not Disturb us, we shall not have five hundred left ; and although I have entreated this and the Eastern States 
+to send up a reenforcement of them, yet I doubt much 
+if any will come up, especially from the Eastern 
+States, where the spirit of malevolence knows no 
+bounds, and I am considered as a traitor. 
+</p><p>
+I believe your Excellency has spared me all the 
+troops you prudently could, but we are still too weak 
+in this quarter, especially as sickness decreases us 
+with great rapidity. Our men living entirely upon 
+fresh meat occasions much disease. Salt meat we 
+have none of, nor is any to be got in this quarter. 
+If it can be spared from any post below, I wish a 
+quantity may be ordered up. 
+</p><p>
+I have informed you that, on the 26th, an advanced picket was attacked near Fort Edward. Last night 
+a body of regular troops appeared at that place, how 
+ever not in such force but that they suffered our 
+men, about one hundred and fifty in number, to come 
+off unmolested. I believe their main body will be 
+down in a few days. We are preparing to receive 
+them in the best manner we can. 
+</p><p>
+I shall be happy to see <a href='/results.php?tla=bel' rel='colleague'><a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a></a>. He may 
+possibly be able to do something with the New T England militia. 
+</p><p>
+I do not think it would be prudent, at present, to 
+send <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>General Arnold</a></a> to Fort Schuyler. I will try to 
+send another General Officer to that place. I am, dear 
+Sir, with great regard and esteem, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

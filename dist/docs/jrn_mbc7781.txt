@@ -1,0 +1,22 @@
+<letter id="mbc7781">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='31'>31st</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Mr. Priolcau Hamilton told us of a great 
+adventure. Mrs. Preston was put under his care on the train. 
+He soon found the only other women along were " strictly 
+unfortunate females," as Carlyle calls them, beautiful and 
+aggressive. He had to communicate the unpleasant fact to Mrs. Preston, on account of their propinquity, and was lost 
+in admiration of her silent dignity, her quiet self-possession, her calmness, her deafness and blindness, her thoroughbred ignoring of all that she did not care to see. Some women, no matter how ladylike, would have made a fuss 
+or would have fidgeted, but Mrs. Preston dominated the situation and possessed her soul in innocence and peace. 
+</p><p>
+Met Robert Johnston from Camden. He has been a prisoner, having been taken at Camden. The Yankees robbed 
+Zack Cantey of his forks and spoons. When Zack did not seem to like it, they laughed at him. When he said he did 
+not see any fun in it, they pretended to weep and wiped their eyes with their coat-tails. All this maddening derision Zack said was as hard to bear as it was to see them ride off with his horse, Albine. They stole all of Mrs. Zack's 
+jewelry and silver. When the Yankee general heard of it he wrote her a very polite note, saying how sorry he was 
+that she had been annoyed, and returned a bundle of Zack's love-letters, written to her before she was married. Robert 
+Johnston said Miss Chesnut was a brave and determined spirit. One Yankee officer came in while they were at break 
+fast and sat down to warm himself at the fire. " Rebels have no rights/ Miss Chesnut said to him politely. " I 
+suppose you have come to rob us. Please do so and go. Your presence agitates my blind old father." The man 
+jumped up in a rage, and said, " What do you take me for a robber ? : " No, indeed, said she, and for very shame he marched out empty-handed. 
+</p>
+</letter>

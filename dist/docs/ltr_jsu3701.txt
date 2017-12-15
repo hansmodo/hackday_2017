@@ -1,0 +1,40 @@
+<letter id="jsu3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Barclay's House, near <a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, 8 o'clock, evening; 	<a rel='day origin' value='10'>10</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+We are happy to inform your Excellency, that the 
+terms offered to the Pennsylvania troops are at length 
+finally, and, as we believe, cordially and satisfactorily, 
+agreed on ; and, to-morrow, we expect the Pennsylvania line will be arranged in its former order. Constitutionally, no concession has been granted them, 
+that the critical situation of our affairs did not warrant, and justice dictate. 
+</p><p>
+As an earnest of their sincerity, they have this 
+night sent to us, under a strong guard, the two spies 
+sent out by Sir Harry Clinton, with offers of terms 
+to them, who are now in this house, under a guard 
+of the <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> light-horse; and a Court, consisting of Generals Wayne and Irvine, and Colonels Butler, Stewart, and Major Pishbourn, are at this moment 
+determining their fate. Several other emissaries have been sent out by Sir Harry, who have more prudently delivered their credentials to us; whether more 
+honestly, time will determine. In short, the whole progress of this affair, except the first tumult, has 
+been conducted, on their part, with a consistency, firmness, and a degree of policy mixed with candor, that must astonish every theorist on the nature of the 
+American soldiery, and cover Sir Harry with shame and confusion, if not stigmatize him with the appellation of the Prince of Blunderers, for having so illy succeeded in essays of this kind. 
+</p><p>
+Commissioners appointed by the Committee of Congress, consisting of Colonel Atlee, General Potter, 
+Mr. Blair, McClaneghan, and Captain Morris, of the 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> light-horse, will proceed to-morrow to adjust their claims. 
+</p><p>
+January Wtli, 8 ddoch A. M. The British Emissaries are condemned, and will be executed this morning, at nine o'clock. The Commissioners are now 
+sitting to determine which of the troops ought to be 
+discharged, and which to remain; and we trust this 
+day will complete the business. I have the honor to 
+be, most respectfully, dear General, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+John Sullivan, Chairman. 
+</p><p>
+By order of the Committee. 
+</p>
+</letter>

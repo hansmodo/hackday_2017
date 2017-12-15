@@ -1,0 +1,24 @@
+<letter id="gwa4497">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+Head-Quarters, near <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In the fullest confidence I inform you, that I intend to make an attempt by surprise upon the enemy's posts on the north end of York Island, on Monday night. 
+Should we be happy enough to succeed, and be able to hold our conquest, the advantages will be greater 
+than can be well imagined. But I cannot flatter myself, that the enemy will permit the latter, unless I am 
+suddenly and considerably reinforced. I shall march 
+down the remainder of this army, and I have hopes that 
+the French force will be near at hand by that time. 
+But I shall, notwithstanding, direct die alarm-guns and 
+beacons to be fired in case of success ; and I have to 
+request, that yom Excellency will, upon such signals, 
+communicate the meaning of them to the militia, and 
+put yourself at the head of them, and much with the 
+utmost expedition towards Kingsbridge, bringing with 
+you three or four days' provision at least. In that time I think we shall have so arranged matters as to have Utde need of the militia suddenly called out. I have, 
+upon a hope that we shall succeed, ordered Brigadier-<a href='/results.php?tla=jac' rel='co-worker'>General Clinton</a> to send down the regular troops immediately. Should circumstances make it necessary, 
+I can countermand the order. I am, &,c. 
+</p>
+</letter>

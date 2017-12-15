@@ -1,0 +1,81 @@
+<letter id="joj4095">
+<recipient first="" last="Lansdown" type="individual"/>
+<p>
+to lord lansdown. 
+</p><p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='20'>20th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+My Lord, 
+</p><p>
+Mr. Ansley this morning delivered the letter you did me 
+the honour to write on the 26th of February last. Every 
+opportunity of manifesting my attention to your lordship's 
+recommendations will give me pleasure, and that induce'ment will conspire, with others of a public nature, to ensure 
+to Mr. Ansley my friendly endeavours to facilitate the execution of his commission, and render his residence here 
+agreeable to him. 
+</p><p>
+I perfectly agree in sentiment with your lordship, that it 
+much concerns the honour and future intercourse of both 
+countries to have the treaty of peace duly and faithfully 
+executed. It 'is to be lamented that wars like the last 
+usually leave behind them a degree of heat which requires 
+some time and prudence to allay. Minds like yours will 
+not be susceptible of it, but the mass of the people commonly 
+act and reason as they feel, and have seldom sufficient temper and liberality to perceive that peace should draw a veil 
+over the injuries of war, and that when hostilities cease, no 
+other contest should remain, but that of who shall take the 
+lead in magnanimity and manly policy. Although these 
+remarks apply to both countries, yet, whatever may be said 
+or written to the contrary, there is certainly, my lord, 
+more temper in this country than it has credit for ; and J 
+am persuaded it would become more manifest, if less 
+discouraged by irritating proceedings here and abroad. In 
+the Legislature of this State there are this day members 
+sitting, who, it is well known, are disqualified by law for 
+their conduct during the late contest ; and an act has lately 
+passed for restoring all such of the gentlemen of the law 
+as, for the same reason, had been suspended from the exercise of their profession. The execution of all laws of this 
+sort becomes more and more relaxed, and of the many persons returned to this State from exile, and living in their 
+former neighbourhoods, I have not heard of one that has 
+met with any molestation. There are, indeed, certain characters who can never return with safety ; but the greater 
+part of them are such as merit no other attention from 
+any country than what national policy may exact. With 
+respect to the generality of these people, the public mind 
+daily becomes more and more composed. It is true that 
+our affairs are not yet perfectly arranged; some former 
+acts are to be done away, and more proper regulations to 
+be introduced. There is reason, however, to hope that 
+things will gradually come right, and I am persuaded that 
+a little more good-nature on the part of Britain, would produce solid and mutual advantages to both countries. 
+</p><p>
+My lord. I write thus freely from a persuasion that your 
+ideas of policy are drawn from those large and liberal views 
+and principles, which apply to the future as well as the 
+present, and which embrace the interests of the nation and 
+of mankind, rather than the local and transitory advantages 
+of partial systems and individual ambition; for your lordship's plans on the peace were certainly calculated to make 
+the revolution produce only an exchange of dependence for 
+friendship, and of sound and feathers for substance and permanent benefits. How greatly would it redound to the 
+happiness as well as honour of all civilized people, were 
+they to consider and t. ach other like fellow-citizens; 
+</p><p>
+each nation governing itself as it pleases, but each admitting others to a perfect freedom of commerce. The blessings resulting from the climate and local advantages of one 
+countrv would then become common to all, and the bounties of nature and conveniences of art pass from nation to 
+nation, without being impeded by the selfish monopolies and 
+restrictions, with which narrow policy opposes the extension 
+of Divine benevolence. It is pleasant, my lord, to dream 
+of these things, and I often enjoy that pleasure ; but though, 
+like some of our other dreams, we may wish to see them 
+realized, yet the passions and prejudices of mankind forbid 
+us to expect it. 
+</p><p>
+I have the honour to be, with great respect and sincere 
+regard, my lord, 
+</p><p>
+Your lordship's most obedient 
+</p><p>
+And very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

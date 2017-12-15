@@ -1,0 +1,30 @@
+<letter id="mbc7650">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. I forgot to tell of Mrs. Pickens's reception for General Hampton. My Mem dear, described it all. 
+The Governess " ( " Tut, Mem ! that is not the right name for her she is not a teacher." " Never mind, it is the 
+easier to say than the Governor's wife." " Madame la Gouvernante " was suggested. " Why ? That is worse than 
+the other! ") " met him at the door, took his crutch away, putting his hand upon her shoulder instead. " That is the 
+way to greet heroes, she said. Her blue eyes were aflame, and in response poor Wade smiled, and smiled until his 
+face hardened into a fixed grin of embarrassment and annoyance. He is a simple-mannered man, you know, and 
+does not want to be made much of by women. 
+</p><p>
+The butler was not in plain clothes, but wore, as the other servants did, magnificent livery brought from the 
+Court of St. Petersburg, one mass of gold embroidery, etc. They had champagne and Russian tea, the latter from a 
+samovar made in Russia. Little Moses was there. Now for us they have never put their servants into Russian 
+livery, nor paraded Little Moses under our noses, but I must confess the Russian tea and champagne set before us 
+left nothing to be desired. " How did General Hampton bear his honors? " " Well, to the last he looked as if he 
+wished they would let him alone. " 
+</p><p>
+Met Mr. Ashmore fresh from Richmond. He says Stonewall is coming up behind <a href='/results.php?tla=gbm' rel=''>McClellan</a>. And here comes 
+the tug of war. He thinks we have so many spies in Richmond, they may have found out our strategic movements 
+and so may circumvent them. 
+</p><p>
+Mrs. Bartow's story of a clever Miss Toombs. So many men were in love with her, and the courtship, while it lasted, 
+of each one was as exciting and bewildering as a fox-chase. She liked the fun of the run, but she wanted something 
+more than to know a man was in mad pursuit of her; that he should love her, she agreed, but she must love him, too. 
+How was she to tell? Yet she must be certain of it before she said " Yes." So, as they sat by the lamp she would 
+look at him and inwardly ask herself, " Would I be willing to spend the long winter evenings forever after sitting here 
+darning your old stockings ? : Never, echo answered. No, no, a thousand times no. So, each had to make way for another. 
+</p>
+</letter>

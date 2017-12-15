@@ -1,0 +1,15 @@
+<letter id="smd7949">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Sunday, <a rel="month origin" value="4">April</a> <a rel='day origin' value='26'>26th</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+I am getting well! Bless the Lord, O my soul! 
+Life, health, and happiness dawn on my trembling 
+view again! . . . Dr. Stone came to see me a few 
+hours after I arrived ; two days after, he called again ; 
+this morning I walked out to meet him when he was 
+announced, and he asked me how my sister was. 
+When I told him I was myself, "God bless my soul! 
+You don't say so!" he exclaimed, evidently astonished at the resurrection. 
+</p><p>
+</letter>

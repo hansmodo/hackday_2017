@@ -1,0 +1,50 @@
+<letter id='mad1476'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+PHIIA, September 18, <a href="/results.php?year=1781">1781</a>. 
+</p><p>
+DEAR Sin, I was yesterday favored with yours of the 10th 
+instant. The various reports arrived of late from the Chesapeake prepared us for a confirmation from our correspondents 
+of a fortunate rencontre between the two fleets. A continuation of these reports, although unsupported by any authentic 
+evidence, still keeps up the public anxiety. We have not heard 
+a word of De Banes. The arrival of Digby is far from being 
+certain, and the circulating reports have reduced his force to 
+six ships of the line. The preparations at <a href="/results.php?city=new york" rel="city">New York</a> for some 
+movement are pretty well attested. The conjectures of many 
+are directing it against this city, as the most practicable and 
+important object within the reach of Clinton. The successful 
+blow struck by the parricide Arnold against the town of New 
+<a href="/results.php?city=london" rel="city">London</a> is described, as far as the particulars are known here, 
+in the enclosed Gazette. There have been several arrivals of 
+late from Europe with very little intelligence of any kind, and 
+with none from official sources. It all relates to the junction 
+of the French and Spanish fleets, for the purpose of renewing 
+the investiture of Gibraltar, and enterprising something against 
+Minorca. Thus the selfish projects of Spain not only withhold 
+from us the co-operation of their armaments, but divert in part 
+that of our allies; and yet we are to reward her with a cession 
+of what constitutes the value of the finest part of America. 
+</p><p>
+<a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> and the <a href='/results.php?tla=cdr' rel=''>Count De Rochambeau</a>, with 
+the forces under them, have, I presume, by this time, got within 
+Virginia. This revolution in our military plan cannot fail to 
+produce great advantages to the Southern department, and particularly to Virginia, even if the immediate object of it should 
+be unexpectedly frustrated. The presence of the Commander-in-chief, with the proportion of our force which will always 
+attend him, will better protect the country against the depredations of the enemy, although he should be followed by troops 
+from <a href="/results.php?city=new york" rel="city">New York</a> which would otherwise remain there, than it 
+has hitherto been ; will leave the militia more at leisure to pursue their occupations, at the same time that the demands of the 
+armies will afford a sure market for the surplus provisions of 
+the country; will diffuse among them a share of the gold and 
+silver of our ally, and, I may now say, of our own, of which 
+their Northern brethren have hitherto had a monopoly, which 
+will be peculiarly grateful to them after having been so long 
+gorged with depreciating paper; and as we may suppose that 
+the ships of our ally allotted for our serv.e will, so long as his 
+troops remain in the United States, be kept in the Chesapeake, 
+it will revive the trade through that channel, reduce the price 
+of imported necessaries, and raise the staple of the country once 
+more to its proper value. 
+</p><p>
+I am, Dr Sir, your sincere friend, and obt serv. 
+</p>
+</letter>

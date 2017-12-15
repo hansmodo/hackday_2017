@@ -1,0 +1,17 @@
+<letter id="jbu3903">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="9">September</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> has this moment received information that a detachment 
+of the enemy are gone up Cooper River; their object is not ascertained. 
+It is said to consist of more than 400 men, and that they left town yesterday noon. The General desires me to transmit you the information 
+for your security. 
+</p><p>
+I am, respectfully yours, 
+</p><p>
+<a href="/results.php?tla=jbu" rel="me">J. BURNET</a>, Aide-decamp. 
+</p>
+</letter>

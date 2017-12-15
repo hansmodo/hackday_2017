@@ -1,0 +1,55 @@
+<letter id="nag3711">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pedee' rel='city origin'>Camp, Pedee</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+My public letter will inform your Excellency of 
+the success of the troops under the command of General Morgan. The event is glorious ; and I am exceedingly unhappy that our wretched condition will 
+not permit our improving it to the best advantage. 
+I shall do all I can, but our prospects are gloomy. 
+Our force is small, and daily declining. We have no 
+clothing or provisions but what we collect from day 
+to day ; and the enemy's late excursion into Virginia 
+I apprehend, will cut off our prospects from that 
+quarter. I hope your Excellency will repeat your 
+letters to Congress upon the necessity of filling the 
+army, and forming magazines of provision and forage. 
+We never can be fortunate but that it operates to 
+our disadvantage ; and above half the pleasure that 
+results from the victory is lost in the apprehension that it will relax the preparations for the support of the war. I wish your Excellency to place 
+this event in its true point of light to Congress ; 
+that if it stands alone it will be of no consequence, 
+but, if properly improved upon, it may have the 
+most salutary effects. 
+</p><p>
+What your Excellency mentioned in your last private letter to me is very just; the Commanding Officer has a collective view of all the difficulties in the 
+different departments. But, when I was with the 
+Northern army, I had a pretty good opportunity of 
+knowing the difficulties, from being at the head of 
+one of the great departments, and from the confidence which you were pleased to honor me with. 
+</p><p>
+In comparing the difficulties of the northern service with this of the southern, one bears but a small 
+proportion to the other — whether from the make of 
+the country, the divisions among the inhabitants, the 
+difficulty of obtaining supplies, or the unequal force 
+we have to contend with. And my spirits would 
+sink under the load, was it not from a persuasion 
+that, to whatever straits I may be reduced, or however unfortunate I may be, from the hazards I am 
+obliged to run, your Excellency will do justice to 
+my intentions. I have one consolation, which is, I 
+have the confidence of the troops, and the good will 
+of the officers. But the unsettled state of the different lines in point of rank, multiplies our embarrassments ; nor can I see the least prospect of bringing 
+them to a speedy close. 
+</p><p>
+I hope <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> writes your Excellency respecting the enemy's movements in Virginia, as I 
+have desired him to be very particular, and keep 
+you constantly informed of every material circumstance. I beg my respectful compliments to Mrs. 
+Washington, and to all the gentlemen of your family. I am, with esteem and regard. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

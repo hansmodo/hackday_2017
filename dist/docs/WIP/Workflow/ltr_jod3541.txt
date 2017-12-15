@@ -1,0 +1,99 @@
+<letter id="jod3541">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=amsterdam' rel='city origin'>Amsterdam</a>, 	<a rel="day origin" value='2'>2</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+MY DEAREST FRIEKD, 
+</p><p>
+YOUR favors of September 29 and October 21 are 
+before me. I avoided saying any thing about Charles 
+to save you the anxiety, which I fear you will now 
+feel in its greatest severity, a long time. I thought 
+he would go directly home in a short passage in the 
+best opportunity which would probably ever present. 
+But I am disappointed. Charles is at <a href='/results.php?city=bilboa' rel='city'>Bilboa</a> with 
+Major Jackson and Colonel Trumbull, who take the 
+best care of his education, as well as his health and 
+behavior. They are to go hence with Captain Hill in 
+a good vessel of twenty guns. Charles's health was 
+so much affected by this tainted atmosphere, and he 
+had set his heart so much upon going home with Gil- 
+Ion, that it would have broken it to have refused him. 
+I desire I may never again have the weakness to bring 
+a child to Europe. They are infinitely better at home. 
+We have all been sick here, myself, Mr. Thaxter, Stevens and another servant, but are all better. Mr. Thaxter's indisposition has been slight and short, mine 
+and Stevens's long and severe. 
+</p><p>
+I beg you would not flatter yourself with hopes of 
+peace. There will be no such thing for several years. 
+Don t distress yourself neither about any malicious 
+attempts to injure me in the estimation of my country 
+men. Let them take their course and go the length 
+of their tether. They will never hurt your husband, 
+whose character is fortified with a shield of innocence 
+and honor ten thousand fold stronger than brass or 
+iron. The contemptible essays made by you know 
+whom will only tend to his own confusion. My letters have shown them their own ignorance, a sight 
+they could not bear. Say as little about it as I do. 
+It has already brought them into the true system, and 
+that system is triumphant. I laugh and will laugh 
+before all posterity at their impotent rage and envy. 
+They could not help blushing themselves if they were 
+to review their conduct. 
+</p><p>
+Dear Tom, thy letter does thee much honor. Thy 
+brother Charles shall teach thee French and Dutch at 
+home. I wish I could get time to correspond with 
+thee and thy sister more regularly, but I cannot. I 
+must trust <a href='/results.php?city=providence' rel='city'>Providence</a> and thine excellent mamma for 
+the education of my children. Mr. Dana and our 
+son are well at Petersburg. Hayden has some 
+things for you. I hope he is arrived. I am sorry to 
+learn you have a sum of paper. How could you be 
+so imprudent ? You must be frugal, I assure you. 
+Your children will be poorly off. I can but barely 
+live in the manner that is indispensably demanded of 
+me by every body. Living is dear indeed here. 
+My children will not be so well left by their father as 
+he was by his. They will be infected with the examples and habits and tastes for expensive living 
+without the means. He was not. My children shall 
+never have the smallest soil of dishonor or disgrace 
+brought upon them by their father, no, not to please 
+ministers, kings or nations. At the expense of a little of this, my children might perhaps ride at their 
+ease through life, but dearly as I love them, they shall 
+live in the service of their country, in her navy, her 
+army, or even out of either in the extremest degree of 
+poverty, before I will depart in the smallest iota from 
+my sentiments of honor and delicacy ; for I, even I, 
+have sentiments of delicacy as exquisite as the proudest minister that ever served a monarch. They may 
+not be exactly like those of some ministers. 
+I beg you would excuse me to my dear friends, to 
+whom I cannot write so often as I wish. I have in 
+dispensable duties which take up all my time, and re 
+quire more than I have. 
+</p><p>
+<a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> has done me great honor and 
+much public service by sending me authentic ac 
+counts of his own and <a href='/results.php?tla=nag' rel=''>General Greene</a>'s last great 
+actions. They are in the way to negotiate peace. 
+It lies wholly with them. No other ministers but 
+they and their colleagues in the army can accomplish 
+the great event. 
+</p><p>
+I am keeping house, but I want a housekeeper. 
+What a fine affair it would be, if we could flit across 
+the Atlantic as they say the angels do, from planet to 
+planet ! I would dart to Penn's hill and bring you over 
+on my wings ; but, alas, we must keep house separately for some time. But one thing I am determined 
+on. If God should please to restore me once more 
+to your fireside, I will never again leave it without 
+your ladyship's company no, not even to go to Congress at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and there I am determined to 
+go, if I can make interest enough to get chosen, when 
+ever I return. I would give a million sterling that 
+you were here ; and I could afford it as well as Great 
+Britain can the thirty millions she must spend, the 
+ensuing year, to complete her own ruin. 
+</p><p>
+Farewell, farewell. 
+</p>
+</letter>

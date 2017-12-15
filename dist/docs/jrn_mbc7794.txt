@@ -1,0 +1,12 @@
+<letter id="mbc7794">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. We are scattered and stunned, the remnant of heart left alive within us filled with brotherly hate. We 
+sit and wait until the drunken tailor who rules the United States of America issues a proclamation, and defines our 
+anomalous position. 
+</p><p>
+Such a hue and cry, but whose fault? Everybody is blamed by somebody else. The dead heroes left stiff and 
+stark on the battle-field escape, blame every man who stayed at home and did not fight. I will not stop to hear excuses. 
+There is not one word against those who stood out until the bitter end, and stacked muskets at Appomattox. 
+</p>
+</letter>

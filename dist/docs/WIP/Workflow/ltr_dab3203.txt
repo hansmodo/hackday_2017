@@ -1,0 +1,92 @@
+<letter id="dab3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="11">April</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I am honored with your favor of the 4th of January, and the 14th of March. That of the 4th of 
+January I did not receive until the 18th instant. 
+Returns of the troops under my command have been 
+duly forwarded to the orderly office, agreeably to 
+general orders, except one or two months in the winter, when the mountain was impassable. As no reenforcement can be had from your Excellency, the 
+intended expedition against Detroit must be laid 
+aside until a favorable turn of affairs takes place, unless you would recommend a junction of Colonel Clark's troops with mine. 
+</p><p>
+I have called upon the different counties, on this 
+side the mountain, for eight hundred and twenty-five 
+rank and file, to be drafted from the militia, and in 
+tend to visit the Shawanese, provided the men are 
+furnished. But the unhappy dispute of jurisdiction 
+will, I fear, prevent my getting them ; and, as many 
+renegadoes from the different Indian nations are collected at the Shawanese towns, I do not incline to 
+make an attempt with an inconsiderable number of 
+men, because a defeat would be attended with fatal 
+consequences to the settlement. 
+</p><p>
+I am honored with a line from the Honorable 
+Board of War, informing me that an officer of Colonel Proctor's regiment; with some stores and cannon, was 
+in readiness to be sent up as soon as the roads 
+would permit^ and the means of transportation can be 
+procured. 
+</p><p>
+Mr. Arthur Gordon has deserted from his arrest,, 
+and will probably avoid a new trial. 
+</p><p>
+With a view of saving land-carriage expenses, when 
+water-carriage was practicable, I suffered only a few 
+of the boats to be used ; and greater care could 
+scarcely have been taken, than what I took, to prevent their being lost or spoiled; but it was out of 
+my power to watch every person. 1 have, however, 
+the pleasure to assure you, that not more than seven 
+are past Fort Henry, which, as I have given orders 
+to some of Colonel Clark's officers, will, I trust, be 
+saved and sent back to this post. 
+</p><p>
+I was much inclined, last fall, to do myself the 
+honor of waiting upon your Excellency, with a view 
+of proposing some things which, at that time, I expected would have promoted the service in this district in the course of this campaign; but I do not 
+recollect that I expressed my desire to visit my 
+family. I am much obliged to your Excellency for 
+the indulgence; but, as Colonel Gibson is absent on a 
+visit to his family, at <a href='/results.php?city=carlisle' rel='city'>Carlisle</a>, and the Indians are 
+remarkably hostile, I must remain, until I see whether it will be in my power to prosecute an expedition against the hostile Indians, or not, and until I 
+have the honor of hearing from you again. 
+</p><p>
+The Lieutenants of Monongalia county, and Ohio, 
+write, that they arc happy to hear of the intended 
+expedition against some of the hostile Indians, and 
+that they will exert themselves to furnish the men 
+required; but they conceive that it will be difficult to 
+effect it, on account of the disputed territory. 
+I take the liberty to inclose the copy of a letter, 
+lately received from the Delaware Council at Coochocking, number One ; likewise a copy of the Reve 
+rend Mr. Heckewelder's letter, number Two ; and an 
+extract from the Reverend Mr. Heckewelder's letter, 
+number Three and I will likewise inclose the return 
+of the troops, as nearly as possible, to your wish ; 
+but as Colonel Gibson's regiment, my own, and the 
+independent corps, were chiefly raised within the disputed territory, it will be impossible to determine in 
+which State they were raised, until the line is run. 
+</p><p>
+Fearing a scarcity of salt provisions for the out 
+posts, and the better to enable me to subsist a number of the militia upon the proposed expedition, I 
+have been obliged to reduce the ration of meat one quarter, but I have allowed some Indian meal in lieu thereof. Since the 1st of March, the Indians have 
+killed and taken forty-three men, women, and children, in the counties of Youghiogany, Monongalia, and 
+Ohio, including those killed and taken upon the river ; 
+and they have destroyed a number of horses and 
+cattle in Tiger Valley. 
+</p><p>
+The Honorable Board of War mention the expense 
+of expresses in such a manner, as must prevent my 
+employing any ; but I will do myself the honor to 
+communicate to you every material occurrence, by such 
+private conveyance as may from time to time offer. 
+I have the honor to be, with the most sincere respect 
+and esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">DANIEL BRODHEAD</a>. 
+</p>
+</letter>

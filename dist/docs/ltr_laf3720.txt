@@ -1,0 +1,49 @@
+<letter id="laf3720">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=alexandria' rel='city origin'>Alexandria</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Great happiness is derived from friendship ; and I 
+do particularly experience it in the attachment "which 
+unites me to you. But friendship has its duties, and 
+the man that likes you the best will be the forwardest in letting you know every thing where you can 
+be concerned. 
+</p><p>
+When the enemy came to your house, many negroes deserted to them. This piece of news did not 
+affect me much, as I little value those concerns. But 
+you cannot conceive how unhappy I have been, to 
+hear that Mr. Lund Washington went on board the 
+enemy's vessels, and consented to give them provisions. This being done by the gentleman who, in 
+some measure, represents you at your house, will certainly have a bad effect, and contrasts with spirited 
+answers from some neighbours, that had their houses 
+burnt accordingly. You will do what you think proper about it, my dear General; but, as your friend, 
+it was my duty confidentially to mention the circumstances. 
+</p><p>
+With the help of some wagons and horses, we got 
+in two days from the camp, near <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, to this 
+place. We halted yesterday, and having made a 
+small bargain for a few shoes, are marching to <a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a>. No official account from Phillips. But 
+I am told they are removing stores from <a href='/results.php?city=richmond' rel='city'>Richmond</a> 
+and Petersburg. I am surprised nobody writes to 
+me ; and hope soon to receive intelligence. 
+</p><p>
+Our men are in high spirits. Their honor having 
+been interested in this affair, they have made it a 
+point to come with us; and discontents, as well as 
+desertion, are entirely out of fashion. Requesting my 
+best respects to be presented to Mrs. Washington, 
+and compliments to the family, I have the honor 
+to be, with those sentiments which you know, my 
+dear General, 
+</p><p>
+Your most obedient servant and friend, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p><p>
+P. S. The Chevalier writes me, that <a href='/results.php?tla=cdr' rel='colleague'>Count De Rochambeau</a> is going to join you, so that both armies 
+will cooperate, I had rather remain in Virginia than go to Carolina. This I mention, because orders are 
+to come from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. But, if the detachment is to go more southerly, I will go there as fast as I can. 
+</p>
+</letter>

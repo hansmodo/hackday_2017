@@ -1,0 +1,107 @@
+<letter id="jol4913">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I thank you for your kind letter of the 30th of last 
+month, and the American Code of Public Law. I 
+have given this book not such a reading as I wished, 
+but such as my time permitted, and think it contains 
+all the fundamental laws of a federative republic. 
+</p><p>
+It is the part of the wise legislative body to make 
+the union of the states perpetual by procuring it the 
+sanction of popular opinion. 
+</p><p>
+If the majority of the people in each state, or only 
+the majority of the states, can he persuaded that it is 
+a religious duty, as was the case of the Greeks with 
+respect to the Amphictionic League, or a duty to 
+themselves as most favouring their private and 
+political interests to maintain the confederation, it 
+will he established upon the most permanent basis 
+that human affairs admit of, and the opinion propagated by education will pass to remote posterity. I 
+shall study these laws with the greatest attention in my retirement. 
+</p><p>
+We have received several accounts from outposts 
+within a few days past intimating that an attack upon 
+us was meditated. We have in consequence prepared 
+ourselves, paraded our men so as to make them 
+acquainted with their ground and its advantages ; but 
+the enemy have remained within their works. Many 
+are of opinion that's r W m Howe will not sutler any 
+thing but mere necessity, or a very tempting prospect 
+of decisive success, to call him from good winter 
+quarters. Others say that from past experience lie 
+knows the vicinity of the Continental army to be 
+exceedingly troublesome, and that it is his interest to 
+drive us to a more respectable distance. In the mean 
+time the season advances in which armies in General are forced to repair to more substantial shelter than 
+tents, and whose inclemency is more particularly 
+grievous to our ill-clothed soldiers. The question is 
+whether we are to go into remote winter quarters, 
+and form a chain of cantonments in the interior part 
+of the country ; leaving a vast extent of territory ex 
+posed to the devastation of an enraged unsparing 
+enemy ; leaving inhabitants who will be partly seduced 
+by the expectation of gold, or more generally compell'd 
+to fill the traitorous provincial corps now raising; 
+leaving plentiful granaries and large stocks of cattle, 
+ample means for subsisting the troops and Tory citizens in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and for victualling transports 
+that may carry home Mr Burgoyne and his army; 
+leaving the well affected to fall a sacrifice, and deplore 
+our abandonment of them and the country; or, 
+whether we shall take a position more honourable, more 
+military, more republican, more consonant to the 
+popular wish in a proper situation for covering the 
+country, or at least so much of it as circumstances will 
+permit and for distressing and annoying the Enemy ? 
+</p><p>
+Winter campaigns it is said are ominous to the best 
+appointed and best disciplined armies. The misery 
+incident to them occasions desertion and sickness 
+which waste their numbers. Our army in particular 
+requires exemption from fatigue in order to compensate for their want of clothing. 
+</p><p>
+Relaxation from the duties of a campaign, in order 
+to allow them an opportunity of being disciplined and 
+instructed ; warm quarters, that it may appear in the 
+spring with undiminished numbers and in the full 
+</p><p>
+prowess of health, &ca. Besides it is urged that the 
+hardships which our soldiers undergo discourage men 
+from enlisting. The answers that might be given in 
+our particular circumstances to these general objections against winter campaigns are only for your 
+private ear, and not to be trusted in a letter to the possibility of miscarriage ; besides, we may take a position 
+which will not absolutely expose us to a winter 
+campaign, but furnish us excellent quarters for men 
+at the same time that it leaves us within distance for 
+taking considerable advantages of the enemy, and 
+cover a valuable and extensive country. 
+</p><p>
+As I hear that the Chevalier Failly intends for York, 
+and it seems to be a matter of doubt whether any 
+dispatches will go from head quarters to-day, I ll 
+finish my letter and send it by him. 
+</p><p>
+Gen'l Dickinson made a descent some days ago on 
+Staten Island which, if lie had not been betrayed, 
+would have thrown into his hands some very valuable 
+prisoners and a large number of common ones. As it 
+was, he took 2 lieutenants and 25 privates ; made a 
+secure retreat, and lost only two or three kill'd and 
+wounded. 
+</p><p>
+The triumviral committee from Congress arrived this evening. As much as I desire to see you, my dear father, I fear an interview cannot be effected for 
+some time to come. Col. Hamilton who was sent to the Northern army to explain the necessity for reinforcements from thence, lies dangerously ill on the 
+road. Since the battle of German Town, I have no longer been a supernumerary. 
+</p><p>
+My heart is ever with you, 
+</p><p>
+Your affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

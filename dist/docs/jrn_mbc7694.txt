@@ -1,0 +1,13 @@
+<letter id="mbc7694">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='20'>20th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. And now comes a grand announcement 
+made by the Yankee Congress. They vote one million of men to be sent down here to free the prisoners whom they 
+will not take in exchange. I actually thought they left all these Yankees here on our hands as part of their plan to 
+starve us out. All Congressmen under fifty years of age are to leave politics and report for military duty or be conscripted. What enthusiasm there is in their councils! Confusion, rather, it seems to me ! Mrs. Ould says "the 
+men who frequent her house are more despondent now than ever since this thing began." 
+</p><p>
+Our Congress is so demoralized, so confused, so depressed. They have asked the President, whom they have 
+so hated, so insulted, so crossed and opposed and thwarted in every way, to speak to them, and advise them what to do. 
+</p>
+</letter>

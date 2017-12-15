@@ -1,0 +1,36 @@
+<letter id="joj4133">
+<recipient first="James" last="Anderson" type="individual"/>
+<p>
+to doctor james anderson, edinburgh. 
+</p><p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have been favoured with yours of the 14th instant. It 
+gives me pleasure to observe, that good-will towards 
+America seems to prevail generally in this kingdom, and I 
+hope the further progress of conciliation will not be retarded 
+by indiscretions in either country. 
+Your sentiments, relative to the imperfections of human 
+nature and human governments, are but too well founded. 
+Governments calculated on an idea that the great majority 
+of any people are reasonable and virtuous will, in many 
+respects, prove detective. Governments calculated on the 
+opposite extreme will be severe and oppressive. When 
+it is considered that not only all who form plans of government, and all who govern, and all who are governed, are 
+imperfect, but also that too many of them are neither wise 
+nor virtuous, we cannot be surprised that political as well 
+as moral evil should abound more or less in every part of the 
+world. Perfection is beyond our reach; all that can be 
+hoped for in this world is a state of the least imperfection. 
+</p><p>
+With the best wishes for your welfare, 
+</p><p>
+I have the honour to be, sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

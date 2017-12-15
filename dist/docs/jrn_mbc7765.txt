@@ -1,0 +1,31 @@
+<letter id="mbc7765">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='22'>22d</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Isabella has been reading my diaries. How we laugh because my sage divinations all come to 
+naught. My famous " insight into character " is utter folly. The diaries were lying on the hearth ready to be 
+burned, but she told me to hold to them ; think of them a while and don't be rash. Afterward when Isabella and I 
+were taking a walk, <a href='/results.php?tla=jpj' rel='met'>General Joseph E. Johnston</a> joined us. He explained to us all of <a href='/results.php?tla=rel' rel='acquaintance met'>Lee's</a> and <a href='/results.php?tla=tjj' rel=''>Stonewall Jackson's</a> 
+mistakes. We had nothing to say how could we say any thing? He said he was very angry when he was ordered to 
+take command again. He might well have been in a Genuine rage. This on and off procedure would be enough to 
+bewilder the coolest head. Mrs. Johnston knows how to be a partizan of <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> and still not make his enemies 
+uncomfortable. She can be pleasant and agreeable, as she was to my face. 
+</p><p>
+A letter from my husband who is at Charlotte. He came near being taken a prisoner in Columbia, for he was asleep 
+the morning of the 17th, when the Yankees blew up the rail road depot. That woke him, of course, and he found every 
+body had left Columbia, and the town was surrendered by the mayor, Colonel Goodwyn. Hampton and his command 
+had been gone several hours. Isaac Hayne came away with General Chesnut. There was no fire in the town when they 
+left. They overtook Hampton's command at Meek's Mill. That night, from the hills where they encamped, they saw 
+the fire, and knew the Yankees were burning the town, as we had every reason to expect they would. Molly was left 
+in charge of everything of mine, including Mrs. Preston's cow, which I was keeping, and Sally Goodwyn's furniture. 
+</p><p>
+Charleston and Wilmington have surrendered. I have no further use for a newspaper. I never want to see an 
+other one as long as I live. Wade Hampton has been made a lieutenant-general, too late. If he had been made one and 
+given command in South Carolina six months ago I believe 
+he would have saved us. Shame, disgrace, beggary, all have come at once, and are hard to bear the grand smash ! 
+Rain, rain, outside, and naught but drowning floods of tears inside. I could not bear it ; so I rushed down in that rain 
+storm to the Martins . Rev. Mr. Martin met me at the door. " Madam," said he, " Columbia is burned to the 
+ground." I bowed my head and sobbed aloud. " Stop that ! " he said, trying to speak cheerfully. Come here, 
+wife," said he to Mrs. Martin. " This woman cries with her whole heart, just as she laughs." But in spite of his 
+words, his voice broke down, and he was hardly calmer than myself. 
+</p>
+</letter>

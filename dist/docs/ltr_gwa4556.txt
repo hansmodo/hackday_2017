@@ -1,0 +1,24 @@
+<letter id="gwa4556">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+The difficulty, under existing circumstances, of knowing 
+what to write to you, had determined me to write nothing, but 
+to let the matter rest altogether upon the public communications from the Secretary of State. 
+</p><p>
+Coming to this place, however, on a flying visit to Mount 
+Vernon, and finding the vessel, of which <a href='/results.php?tla=jam' rel='co-worker met'>Mr Monroe</a> is on 
+board, had not left the river, I have so far departed from my 
+determination, as to be seated in order to assure you that my 
+confidence in, and friendship and regard for you, remain undiminished. 
+</p><p>
+To time, and your own observations, if you should return 
+immediately to this country, I commit the rest ; and it will be 
+nothing new to assure you, that I am always and very sincerely yours, affectionately, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter>

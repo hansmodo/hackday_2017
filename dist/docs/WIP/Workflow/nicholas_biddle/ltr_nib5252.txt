@@ -1,0 +1,26 @@
+<letter id="nib5252">
+<recipient first="William" last="Lawrence" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="2">Febr</a> <a rel='day origin' value='8'>8</a>. <a href='/results.php?year=1831' rel="origin">1831</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+. . . What I can do &amp; will do is this. It is obvious that 
+a great effort will be made to array the influence of the Executive &amp; all his party against the Bank. It is not less evident 
+that our most effectual resistance is the dissemination of useful knowledge among the people, and accordingly I am 
+endeavoring to convey to all classes real &amp; positive information in regard to the working of the institution &amp; its beneficial influence on the prosperity of the nation. To do this 
+newspapers must be used, not for their influence, but merely as channels of communication with the people. If you think 
+the one in question a useful vehicle of information I will employ it and in this way. 
+</p><p>
+I have many articles about the Bank articles of interest to a general reader &amp; which would occupy no more space 
+than would be necessarily given to articles on other topics, nor occasion I presume any extra expence such for in 
+stance as <a href='/results.php?tla=gmd' rel='colleague'>Mr. McDuffie's</a> &amp; Smith's reports or the extracts 
+from <a href='/results.php?tla=alg' rel='colleague'>Mr Gallatin's</a> article. For the insertion of these I will pay either as they appear or in advance. Thus for instance if 
+you will cause the articles I have indicated and others which I may prepare to be inserted in the newspaper in question, I 
+will at once pay to you one thousand dollars. If this may facilitate the arrangement you propose I shall be glad. There 
+is as you perceive nothing in this communication which I should care to conceal, but as it might be misconstrued, I 
+inclose your letter to me &amp; request that you will have the goodness to return what I have written to you. It will give 
+me great pleasure to see you on the 15th , and in the mean time I am with sincere regard &amp; many thanks for your presenting 
+the subject to me. 
+</p>
+</letter>

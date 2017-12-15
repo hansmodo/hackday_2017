@@ -1,0 +1,104 @@
+<letter id="aba3417">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1785" rel="origin">1785</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+I told you in my last, -that I was going to dine with 
+my friend Mrs. Rogers. You must know that yesterday the whole diplomatic corps dined here ; that 
+is, his Lordship the Marquis of Carmarthen, and all 
+the foreign ministers, fifteen in all, and to-day the 
+newspapers proclaim it. I believe they have as 
+many spies here as the police of France. Upon 
+these occasions, no ladies are admitted ; so I wrote 
+a card and begged a dinner for myself and daughter of Mrs. Rogers, where I know I am always welcome. 
+</p><p>
+It is customary to send out cards of invitation ten 
+days beforehand. Our cards were gone out, and, as 
+good luck would have it, Captain Hay returned from 
+the West Indies, and presented us with a noble turtle, weighing a hundred and fourteen pounds, which 
+was dressed upon this occasion. Though it gave us 
+a good deal of pain to receive so valuable a present 
+from them, vet we could not refuse it without affronting them, and it certainly happened at a most 
+fortunate time. On Tuesday, they and a number 
+of our American friends, and some of our English 
+friends, for I assure you we have a chosen few of 
+that number, are to dine with us. 
+</p><p>
+This afternoon I have had a visit from Madame Pinto, the lady of the Portuguese minister. They 
+have all visited now, and I have returned their visits ; but this is the only lady that I have seen. She 
+speaks English tolerably, and appears an agreeable 
+woman. She has lately returned to this country, 
+from whence she has been five years absent. The 
+Chevalier de Pinto has been minister here for many 
+years. Some years hence it may be a pleasure to 
+reside here in the character of American minister ; 
+but, with the present salary and the present temper 
+of the English, no one need envy the embassy. 
+There would soon be fine work, if any notice was 
+taken of their billingsgate and abuse ; but all their 
+arrows rebound, and fall harmless to the ground. 
+Amidst all their falsehoods, they have never insinuated a lisp against the private character of the 
+American minister, nor in his public line charged 
+him with either want of abilities, honor, or integrity. 
+The whole venom has been levelled against poor 
+America ; and every effort to make her appear 
+ridiculous in the eyes of the nation. How would 
+they exult, if they could lay hold of any circumstance, in either of our characters, to make us appear ridiculous. 
+</p><p>
+I received a letter to-day from <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a>, who 
+writes me that he had just received a parcel of 
+English newspapers ; they " teem," says he, " with 
+every horror of which nature is capable ; assassination, suicide, thefts, robberies, and, what is worse 
+than thefts, murder, and robbery, the blackest slanders ! Indeed, the man must be of rock who can 
+stand all this. To <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> it will be but one 
+victory the more. It would illy suit me. I do not 
+love difficulties. I am fond of quiet ; willing to do 
+my duty ; but irritable by slander, and apt to be 
+forced by it to abandon my post. I fancy," says 
+he, " it must be the quantity of animal food eaten 
+by the English, which renders their character unsusceptible of civilization. I suspect that it is in 
+their kitchens, and not in their churches, that their 
+reformation must be worked, and that missionaries 
+from hence would avail more than those who should 
+endeavour to tame them by precepts of religion or 
+philosophy." 
+</p><p>
+But he adds, " What do the foolish printers of 
+America mean by retailing all this stuff in our papers, as if it was not enough to be slandered by 
+one's enemies, without circulating the slanders 
+amongst one's friends too ? " 
+</p><p>
+I could tell <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> that I doubt not there 
+are persons in America equally gratified with them 
+as the English, and that from a spirit of envy. But 
+these open attacks are nothing to the secret and subtile enemies <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> has had heretofore to encounter. In <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> he has a firm and faithful 
+friend, with whom he can consult and advise ; and, 
+as each of them has no object but the good of their 
+country in view, they have an unlimited confidence 
+in each other ; and they have only to lament v hat 
+the Channel divides their more frequent intere< ; rse. 
+</p><p>
+You ask me whether I must tarrv out three 
+years. Heaven only knows what may be the result of one. If any probability appears of accomplishing any thing, 't is likely we may tarry. I am 
+sure that it will be a labor, if not of love, yet of 
+much perplexity and difficulty. The immense debt, 
+due from the mercantile part of America to this 
+country, sours this people beyond measure, and 
+greatly distresses thousands, who never were nor 
+ever will be politicians, the manufacturers, 
+who supplied the merchants, and depend upon them 
+for remittances. Indeed, I pity their situation. At the 
+same time, I think our countrymen greatly to blame 
+for getting a credit, that many of them have taken 
+no pains to preserve, but have thoughtlessly rioted 
+upon the property of others. 
+And this, among other things, makes our situation 
+disagreeable, and the path very difficult for negotiation. 
+</p><p>
+Adieu. Yours affectionately, 
+</p><p>
+A. A. 
+</p>
+</letter>

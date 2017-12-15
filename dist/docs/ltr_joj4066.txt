@@ -1,0 +1,78 @@
+<letter id="joj4066">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Mr- Carter lately delivered to me your friendly letter of 
+the 25th of July last. You was always of the number of 
+those whom I esteemed, and your correspondence would 
+have been both interesting and agreeable. I had heard of 
+your marriage, and it gave me pleasure, as well because it 
+added to your happiness, as because it tended to fix your 
+residence in a State, of which I long wished you to be, and 
+remain a citizen. 
+</p><p>
+The character and talents of delegates to Congress daily 
+become more and more important, and I regret your declining that appointment at this interesting period. Respect, 
+however, is due to the considerations which influence you; 
+but as they do not oppose your accepting a place in the 
+Legislature, I hope the public will still continue to derive 
+advantage from your services. Much remains to be done, 
+and labourers do not abound. 
+</p><p>
+I am happy to hear that the terms of peace, and the conduct of your negotiators, give general satisfaction ; but 
+there are some of our countrymen, it seems, who are not 
+content, and that too with an article which I thought to be 
+very unexceptionable, viz. the one ascertaining our boundaries. Perhaps those gentlemen are latitudinarians. 
+</p><p>
+The American newspapers, for some months past, contain 
+advices that do us harm. Violences, and associations 
+against the tories, pay an ill compliment to government, 
+and impeach our good faith in the opinions of some, and our 
+magnanimity in the opinions of many. Our reputation 
+also suffers from the apparent reluctance to taxes, and the 
+ease with winch we incur debts without providing for their 
+payment. The complaints of the army — the jealousies 
+respecting Congress — the circumstances which induced 
+their leaving <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> — and the too little appearance of 
+a national spirit, pervading, uniting, and invigorating the 
+confederacy, are considered as omens which portend the 
+diminution of our respectability, power, and felicity. I 
+hope that, as the wheel turns round, other and better indications will soon appear. I am persuaded that America 
+possesses too much wisdom and virtue to permit her brilliant 
+prospects to fade away for the want of either. But, whatever time may produce, certain it is, that our reputation 
+and our affairs suffer from present appearances. 
+</p><p>
+The tories are as much pitied in these countries as they 
+are execrated in ours. An undue degree of severity 
+towards them would, therefore, be impolitic as well as 
+unjustifiable. They who incline to involve that whole class 
+of men in indiscriminate punishment and ruin, certainly 
+carry the matter too far. It would be an instance of unnecessary rigour, and unmanly revenge, without a parallel, 
+except in the annals of religious rage, in times of bigotry 
+and blindness. What does it signify where nine-tenths of 
+these people are buried ? I would rather see the sweat of 
+their brows fertilizing our fields than those of our nei^hbours, in which it would certainly water those seeds of 
+hatred, which, if so cultivated, may produce a hedge of 
+thorns against us. Shall all be pardoned then? By no 
+means. Banish and confiscate the estates' of such of 
+them as have been either faithless or cruel, and forgive 
+the rest. 
+</p><p>
+Victory and peace should, in my opinion, be followed by 
+clemency, moderation, and benevolence, and we should be 
+careful not to sully the glory of the revolution by licentiousness and cruelty. These are my sentiments, and however 
+unpopular they may be, I have not the least desire to conceal or disguise them. 
+</p><p>
+Be pleased to present my best compliments to Mrs. 
+Hamilton, and believe me to be, 
+</p><p>
+With great esteem and regard, dear sir, 
+</p><p>
+Your most obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

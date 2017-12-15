@@ -1,0 +1,42 @@
+<letter id="ben4843">
+<recipient first="Jean Baptiste" last="Le Roy" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='20'>20</a>. <a href='/results.php?year=1772' rel="origin">1772</a>
+</p><p>
+DEAR SIR, 
+</p><p>
+I received your Favour of March 5, by M. Dazeux, and 
+shall be glad of any opportunity of doing him Service. It gave 
+me great Pleasure to learn by him, that you are well & happily married, on which I give you Joy. J Tis after all the most 
+natural State of Man. 
+</p><p>
+Mr. West, our President, concerning whom you make 
+enquiry, is esteemed a good Antiquarian, but has not distinguish'd himself in any other Branch of Science. He is a 
+Member of Parliament, was formerly Secretary to the Treasury, and is very rich. 
+</p><p>
+I am glad to hear that a Voyage is intended from France 
+to the North Pole. The World owes much to the noble 
+Spirit with which your Nation pursues the Improvement 
+of Knowledge, and to the Liberality with which you communicate what you acquire to the rest of Mankind. I hope 
+your Philosophers on that Voyage will be able to discover 
+more clearly the Cause of the Aurora Borealis, and a Passage 
+round the North of America. 
+</p><p>
+I suppose Care has been taken to make their Ships very 
+strong, that they may bear thumping among the Ice. My 
+best Wishes will attend them for their Success and Safe Return. 
+</p><p>
+Messrs. Banks and Solander are to sail with two Ships 
+in about a Fortnight for the South. They expect to be out 
+near 4 Years. They present their Compliments, & are 
+pleas'd with the Notice you honour them with in your Letter 
+to me. Sir John Pringle continues well and presents his 
+respectful compliments to you. I am, with the most perfect 
+</p><p>
+Esteem, 
+</p><p>
+Dear Sir, yours, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

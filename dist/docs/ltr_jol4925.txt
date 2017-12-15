@@ -1,0 +1,20 @@
+<letter id="jol4925">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I am happy in having the pleasure of introducing to 
+your acquaintance, Colonel Fitzgerald, the senior aid 
+in our family. 
+</p><p>
+His affairs call him to Virginia, and as he means to 
+pass through <a href='/results.php?city=york town' rel='city'>York Town</a>, you will have an opportunity of learning many things, viva voce, from him, 
+which are not so well committed to writing. 
+</p><p>
+Your most dutiful and affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

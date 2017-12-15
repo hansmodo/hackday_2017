@@ -1,0 +1,78 @@
+<letter id="bnh4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+North Carolina, <a rel='day origin' value='10'>10</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to inclose to your Excellency 
+some acts passed at the last session of our Legislature, by which you will see, in some measure, the 
+disposition of this State to comply with the views of 
+Congress, as well as to grant such further powers as 
+may render the Confederation more competent to the 
+purposes of the Union. 
+</p><p>
+The act for the levying our proportion of one million five hundred thousand dollars, exclusive of the 
+impost, and empowering Congress to collect the same, 
+will by no means raise so large a sum; it being only 
+a land-tax of sixpence on every hundred acres of land, 
+and a poll-tax of one shilling and sixpence on all 
+white males from twenty-one upwards, and on all 
+slaves from twelve years old to fifty. It establishes 
+the principle recommended by Congress ; and, I trust, 
+the good sense of this, and the other States, will 
+soon, if they do not already, see the necessity of establishing solid and effectual revenues to enable Congress to perform their engagements. 
+</p><p>
+The members of the Legislature could not consent 
+to vote the full sum required, after they had ceded 
+all the lands westward of the Appalachian Mountain. 
+They urged it was not necessary, since Congress were 
+in possession of the cessions of <a href='/results.php?city=new york' rel='city'>New York</a>, Virginia, 
+and North Carolina. The cession of our western 
+lands was much debated and opposed. The House 
+of Commons were long divided whether to make the 
+Tennessee, Cumberland Mountain, or the Appalachian, 
+our Western boundary ; but finally passed the act as 
+you see it, fifty-three against forty-one. There are, 
+within our cession, more than three thousand men 
+able to bear arms. 
+</p><p>
+The recommendation of Congress, respecting the 
+fifth article of the treaty, is not complied with, nor 
+is there any thing done to carry the treaty into effect ; and I suspect it will be difficult to induce us 
+to think aright on this subject (although our citizens 
+seem well disposed), while we have ambitious, discontented spirits, whose popular existence depends on 
+fanning the passions of the common people against 
+the refugees. The stale cry of peculation and embezzlement of the public money, aided by complaints 
+of hard times and heavy taxes, was never listened to 
+with more avidity, than the clamors against the refugees and payment of British debts ; and this, too, by 
+men who cannot possibly be gainers if all bond fide 
+debts were wiped off with a sponge ; but who must, 
+assuredly, share in the disgrace of their country, by 
+such shameful, unwarrantable conduct. 
+</p><p>
+I have not, in this State, heard a single objection 
+to the commutation, or rendering ample justice to the 
+army. Early in the spring there was circulated the 
+pamphlet said to be written by Burke, of South Carolina, against the institution of the <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a>, which 
+gave some uneasiness to some people, who were apprehensive the institution would be productive of an 
+aristocracy dangerous to the principles of our Governments. But a little reflection, with the remembrance of the patience, perseverance, and sufferings 
+of the army, in defence of their just rights and liberties, has worn down the suspicions in some measure, 
+and will, I hope, teach them to put their trust in 
+those who, in the worst of times, stood the constant 
+sentinels over the liberties of their country, and to 
+suspect those who haA^e screened themselves in the 
+hour of danger, and now step forth to revile the virtuous well-doer, and his endeavours to adopt wise and 
+equitable measures. 
+</p><p>
+The Legislature has changed the annual election 
+from March to August, and the annual meeting will 
+be in October. I hope they then will amend such of 
+our acts as are imperfect, and pass such others, respecting the treaty, as may be consonant with the 
+wishes of those who are for wise and equitable measures. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=bnh" rel="me">Benjamin Hawkins</a>. 
+</p>
+</letter>

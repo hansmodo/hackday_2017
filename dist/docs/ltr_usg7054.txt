@@ -1,0 +1,18 @@
+<letter id="usg7054">
+<recipient first="Henry" last="Halleck" type="individual"/>
+<p>
+[On the <a rel='day origin' value='6'>6th</a> of <a rel='month origin' value='2'>February</a> [<a href='/results.php?year=1864' rel="origin">1864</a>], General Grant reported from <a href='/results.php?city=nashville' rel='city origin'>Nashville</a>]
+</p><p>
+MAJOR-GENERAL H. W. HALLECK, 
+</p><p>
+General-in-Chief: 
+</p><p>
+I am making every effort to get supplies to Knoxville for the support of a large force large enough to drive <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> out. 
+The enemy have evidently fallen back with most of their force from General Thomas's front, some going to Mobile. Has there 
+been any movement in that direction by our troops ? 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General, Commanding. 
+</p>
+</letter>

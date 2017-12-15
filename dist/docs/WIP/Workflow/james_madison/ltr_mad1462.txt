@@ -1,0 +1,25 @@
+<letter id='mad1462'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, ESQ. [SR.]
+</p><p>
+WILLIAMSBURG, January 23. <a href="/results.php?year=1778">1778</a>. 
+</p><p>
+HONORED SIR, I got safe to this place on Tuesday following the day I left home, and at the earnest invitation of my 
+kinsman, Mr. Madison, have taken my lodgings in a room of 
+the President's house, which is a much better accommodation than I could have promised myself. 
+</p><p>
+You will be informed in due time by advertisement from the 
+Governor what is proper to be done with the shoes, &c., collected for the army. You will be able to obtain so circumstantial an account of public affairs from Major Moore, that I may 
+spare myself the trouble of anticipating it. 
+</p><p>
+Although I well know how inconvenient and disagreeable it 
+is to you to continue to act as Lieutenant of the county, I cannot help informing you that a resignation at this juncture is 
+here supposed to have a very unfriendly aspect on the execution of the draught, and consequently to betray at least a want 
+of patriotism and perseverance. This is so much the case that 
+a recommendation of county Lieutenant this day received by the Governor, to supply the place of one who has resigned to 
+the court, produced a private verbal message to the old Lieutenant to continue to act at least as long as the present measures were in execution. 
+</p><p>
+I am, dear sir, your affectionate son. 
+</p>
+</letter>

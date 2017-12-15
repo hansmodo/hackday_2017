@@ -1,0 +1,20 @@
+<letter id="frm3912">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='11'>11</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+You will deliver all the horses you have, with the saddles, bridles, halter, and swords, except 14 of the ordinary horses which you will keep 
+for your crops. The officers must give up every public horse they have. Col. Maham will send an officer to receive them. Mr, Withers has 
+permission to send to Charlestown some tobacco to procure necessaries for the army You will give him passes when he applies for it, and receive whatever clothing he may get. I sent you a letter by Comodore Lockwood, informing that the British intend to go to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, under 
+French colors and dress; you will, I dare say, prevent their deception from taking effect. I am apprehensive they will go to Waccamaw ; 
+you will keep some boats ready at the ferry above Wragg's to cross over a few men on Waccamaw. Should they go there, a fire or two on them 
+may make them go away. The whole of the men around your post should be called for if they do attempt. We are perfectly idle here. 
+Nothing new but that deserters from the British come in every day. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

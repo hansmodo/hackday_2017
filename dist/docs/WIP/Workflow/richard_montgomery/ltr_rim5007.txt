@@ -1,0 +1,28 @@
+<letter id="rim5007">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+HOLLAND HOUSE, NEAR <a href='/results.php?city=quebec' rel='city origin'>QUEBEC</a>, <a rel="month origin" value="12">DECEMBER</a> 	<a rel='day origin' value='5'>5th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+This day I had the pleasure of yours of the 13th of October. I think your letters are a long time on the road. I believe I 
+have now the right to complain, as I am sure you, don't write so often as I do. 
+</p><p>
+I suppose long ere this we have furnished the folks of the United Colonies with subject-matter of conversation. I should 
+like to see the long faces of my Tory friends. I fancy they look a little cast down, and that the Whig ladies triumph most unmercifully. 
+</p><p>
+The weather continues so gentle that we have been able, at this late season, to get down by water with our artillery, &c. 
+They sire a good deal alarmed in town, and with some reason. The garrison is little to be depended upon, and very weak in proportion to the extent of the works. I wish it were well over 
+with all my heart, and sigh for home like a New Englander. 
+</p><p>
+I shan't forget your beaver blanket if I get safe out of this affair, nor your mother's martin-skins. Present my affectionate 
+duty to her, and make her easy respecting Harry. He has by no means given me any offence, though some uneasiness by 
+some little imprudences. I am glad to hear your house is in such forwardness. May I have the pleasure of seeing you in it soon ! 
+</p><p>
+Till then, adieu! 
+</p><p>
+Believe me affectionately yours, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

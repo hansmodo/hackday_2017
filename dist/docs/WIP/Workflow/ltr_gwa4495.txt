@@ -1,0 +1,34 @@
+<letter id="gwa4495">
+<recipient first="David" last="Cobb" type="individual"/>
+<p>
+TO LIEUTENANT-COLONEL DAVID COBB. 
+</p><p>
+Head-Quarters, <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The enclosed letter to the <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> is 
+of very great importance, and requires the utmost secrecy in its communication. This idea you will convey to the Count before its delivery, to effect which 
+you will first converse with the Chevalier Chastellux 
+on the mode of its communication. Its object is to 
+inform the Count, that I have in contemplation a very 
+sudden surprise of some post of the enemy, which will 
+be of very great importance in our operations, and 
+which we have flattering expectations of obtaining ; to 
+cover and support which, if obtained, we shall want the 
+aid of the French army ; in which case, it will be necessary for the Count to push on his troops with greater 
+haste, than he at present intends, and by a different 
+route from that now in his view. The <a href='/results.php?tla=cdl' rel='co-worker'>Duke De Lauzun</a>'s legion is to advance. 
+</p><p>
+The movements, which I would wish to be made by 
+the French army, are particularized in my letter to the Count, which you will see. It will be for you to impress the gentlemen with the miportance of their motions to support our operations, as it will be to httle 
+purpose for us to obtain advantages, which we may not 
+be able to maintain. 
+</p><p>
+As the Count, with his troops, is now in a very disaffected part of the country, and the Tories will be 
+desirous to give every information in their power, the 
+most profound secrecy will be necessary. Secrecy and 
+despatch must prove the soul of success to the enterprise. This idea you will impress with energy, using 
+your best discretion in the mode. I am, &,c. 
+</p>
+</letter>

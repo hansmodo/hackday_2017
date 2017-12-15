@@ -1,0 +1,26 @@
+<letter id='mad1675'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, March 30, <a href="/results.php?year=1790">1790</a>. 
+</p><p>
+MY DEAR FRIEND, Your favor of the 15th, which requests 
+an immediate acknowledgment, by some irregularity did not 
+come to hand till I had received that of the 18th, nor till it 
+was too late to comply with the request by the last mail. I 
+have been so unlucky, also, as to miss seeing the President 
+</p><p>
+
+twice that I have waited on him, in order to intimate the circumstances which you wish him to know. I shall continue to 
+repeat my efforts until I shall have an opportunity of executing 
+your commands. 
+</p><p>
+The House have recommitted the Resolutions on the report 
+of the Treasury. Those relating to the assumption of State 
+debts were recommitted by a majority of two votes. The 
+others, from an extreme repugnance in many to a separation of 
+the two subjects. N. Carolina has 2 votes on the floor, which 
+turned the scale. The final decision is precarious. The immediate decision will repeal the former one in favour of the assumption, unless the composition of the House or the Committee 
+should be varied to-morrow. Of six absent members, a majority 
+will be opposed to the measure. 
+</p>
+</letter>

@@ -1,0 +1,51 @@
+<letter id="jod3631">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='3'>3</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE result of Saturday's debate in the House of 
+Representatives removes all anxiety for the remainder 
+of this session, and leaves me at liberty to ask leave to 
+go home. The state of my own health, which requires 
+relaxation, and the sickness in my family and neighborhood, would have well justified me if I had retired 
+even before the great question was decided. I shall ask 
+leave this day, unless something unforeseen should 
+happen to prevent me. If I should obtain leave of 
+absence after Thursday next, I shall be at <a href='/results.php?city=new york' rel='city'>New York</a> 
+on Sunday. Whether I shall go by water or land 
+from thence, will depend upon circumstances. Some 
+time in the course of the week after next, I hope to 
+see you, but there are so many circumstances of 
+wind and weather, as well as other things, which may 
+intervene, that I cannot make any disposition by which 
+I can calculate to a day or a week when I shall get home. 
+</p><p>
+It is a mortifying consideration that five months 
+have been wasted upon a question whether national 
+faith is binding on a nation. Nothing but the ignorance and inexperience of this people can excuse 
+them. Really, we have not a right sense of moral 
+or national obligation. We have no national pride, 
+no national sense of honor. I suppose the decision 
+of the House has determined the President's resignation and retirement. And the question who shall succeed him may occasion as much controversy and animosity as the treaty with Great Britain, which was 
+ultimately determined by no proper considerations of 
+merit, but merely by fear of constituents in many. 
+</p><p>
+If my plan should be altered in any respect, I shall 
+write you an account of it. I must spend a little 
+time with the children at <a href='/results.php?city=new york' rel='city'>New York</a>. I have been 
+five months without once mounting a horse and with 
+out one long walk, so that, although I have walked 
+every day more or less, I am under some fears of the 
+effect upon my health of a journey of a hundred 
+miles a day in a stage. 
+</p><p>
+The enclosed letters please to file away carefully 
+with the others. 
+</p><p>
+With the tenderest affection, I am 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

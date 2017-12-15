@@ -1,0 +1,19 @@
+<letter id="nib5215">
+<recipient first="John" last="McKim" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city'>Philad'a</a>. <a rel="month origin" value="3">March</a> <a rel='day origin' value='14'>14th</a> <a href='/results.php?year=1826' rel="origin">1826</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+. . . With regard to our late arrangements, they are 
+simply these. It has been impossible hitherto while the officers of the Bank were so fully occupied with local duties to 
+know as much as was necessary of a great many matters of the highest importance. For instance we have nearly two 
+millions of real estate besides Banking houses, &amp; we have about nine millions of old &amp; new suspended debts. You 
+know how apt real estate &amp; bad debts are to suffer for the 
+want of looking after after. We therefore appointed an officer here to take care of those two concerns. Again, we have 
+never had a sufficient knowledge of the accounts between the officers. It was thus that West the Cashier of New Orleans was enabled to defraud the Bank of $20,000 we 
+wish to examine these accounts, &amp; we wish also to have our Exchange business particularly well managed. We have 
+therefore appointed another Officer for those two purposes. With a view to attract gentlemen of first rate abilities, as the salaries are low ($<a href='/results.php?year=2500'>2500</a> for one &amp; $2,200 for 
+the other) we have called them not Clerks but Assistant Cashiers. . . . 
+</p>
+</letter>

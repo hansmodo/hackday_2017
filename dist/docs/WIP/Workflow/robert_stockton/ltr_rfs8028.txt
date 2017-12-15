@@ -1,0 +1,68 @@
+<letter id="rfs8028">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+UNITED STATES FRIGATE CONGRESS,<br>
+BAY OF <a href='/results.php?city=monterey' rel='city origin'>MONTEREY</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+SIR: I have the honour to acknowledge the receipt of your despatches of the 15th of May, addressed to my predecessor, and sent by Passed Midshipman McRae, who delivered them to me on board of this ship on the night of the 7th 
+of September, soon after we came to anchor in the bay of  Santa Barbara where I stopped on my way to this place to take on board a detachment of men 
+which I left for the defence of that place, after we had taken it on our wav to San Pedro. 
+</p><p>
+I am happy to say, in answer to that despatch, that all your instructions contained therein had been anticipated and executed, and my proceedings forwarded to you by different routes two weeks before the arrival of Mr. McRae even that 
+part of them suggesting that a messenger be sent across the mountains to Washngton ; which messenger I hope you will have seen and sent back to me before I his can reach you. 
+</p><p>
+I send enclosed the correspondence between <a href='/results.php?tla=jsc' rel='adversary'>General Castro</a> and myself. I did not answer his last letter, but by a verbal message, which does not properly Belong to history. We found in and near his camp ten pieces of artillery six 
+in good order, and four spiked. 
+</p><p>
+The elections as far as heard from have been regularly held, and the proper officers elected. The people are getting over their first alarm, and our friends be not now afraid to avow themselves. 
+</p><p>
+<a href='/results.php?tla=jsc' rel='adversary'>General Castro</a> and the governor having collected at one time so large a force together, and our remaining inactive at Monterey, induced the belief that we 
+were not willing to run the hazard of a fight, and that if we did we must be beaten. No one, foreigner or native, dared aid us even with advice or information. 
+</p><p>
+But, since Castro and the governor have been driven out of the country, the aspect of things is changed, and all is going on as well as we ought to desire. 
+</p><p>
+By an intercepted correspondence between the military commandant at Mazatlan and <a href='/results.php?tla=jsc' rel='adversary'>General Castro</a>, it appears that arrangements were making to send 
+troops into California, and <a href='/results.php?tla=jsc' rel='adversary'>General Castro</a> is strongly urged to destroy the "nefarious enemy". But it is too late. 
+</p><p>
+I take the opportunity of this communication to remind you of two things that may be of some importance to be remembered. 
+</p><p>
+1. That neither San Francisco or Monterey are susceptible, within any reasonable expense, of being defended from an attack made from the interior; every 
+commanding position within reach of a cannon-ball from the water is overlooked by adjacent hills, within gunshot. We must, therefore, hold the country along 
+the sea-coast as far south as St. Lucas, and make the river Gila and a line drawn from that river across to the Del Norte the southern boundary, all of 
+which is now in our possession. It is not my business, perhaps, to say more on the subject. I will send you, however, a map which I have made, and on which 
+I have traced with red ink the boundary line above suggested. 
+</p><p>
+2. That this territory within the lines marked by me should be retained by the United States, as indispensable to preserve the lives and property of our 
+fellow-citizens residing here, as well as to secure any thing like permanent peace. 
+</p><p>
+I have put some guns on board the store-ship Erie, and made a cruiser of her. She will sail on a cruise immediately, to circulate the enclosed notice and 
+to look out for privateers, and will touch at Panama to deliver and receive despatches. 
+</p><p>
+As soon as the schooner Shark returns from the Columbia River, I will send her on a cruise for the protection of our whale-ships. 
+</p><p>
+The Savannah, Portsmouth, and Cyane will continue the blockade of the 
+coast of Mexico, while I will in the Congress go up the Gulf of California and 
+pay my respects to San Jose, La Paz, Loreto, and Guaymas, thence along the 
+Mexican coast, thence to the Sandwich Islands, thence to San Francisco. 
+</p><p>
+The Warren will be obliged to lay by for extensive repairs. 
+</p><p>
+By which disposition of the squadron I hope to meet your approbation, as 
+well as the views of Mr. Webster and his friends, who signed the letter to the 
+President which I found among your last despatches. Besides, I will order the 
+ships of the blockading squadron occasionally to change their ground and take 
+a cruise, one after the other, for the protection of the whalers. By these courses 
+we will cross each other's track, and so traverse the ocean as to render it some 
+what hazardous for a privateer to be dodging about within our circle. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, &c. 
+</p><p>
+Your letter to Commodore Biddle will be sent to the Sandwich Islands by the American ship Brooklyn, which leaves this place in a day or two for Honolulu. 
+</p><p>
+Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D. C. 
+</p><p>
+</letter>

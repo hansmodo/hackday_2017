@@ -1,0 +1,52 @@
+<letter id="jod3625">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='9'>9</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE House of Representatives have not yet deter 
+mined. The question is to be called up on Monday. But the opposition, who now call themselves 
+the virtuous majority, will endeavor still to postpone 
+it. It is now avowed by Mr. Bond, the British charge 
+d affaires, that the surrender of the posts is suspended 
+upon the determination of the House of Representatives. And who could expect it would be otherwise ? 
+I have read " the minister s" despatches from Lon 
+don. The King could not help discovering his old 
+ill humor. The mad idiot will never recover. Blunderer by nature, accidents are all against him. Every 
+measure of his reign has been wrong. It seems they 
+don t like Pinckney. They think he is no friend to 
+that country, and too much of a French Jacobin. 
+They wanted to work up some idea or other of introducing another in his place, but our young politician 
+saw into them too deeply to be duped. At his last 
+visit to court, the king passed him without speaking 
+to him, which you know will be remarked by courtiers of all nations. I am glad of it ; for I would 
+not have my son go so far as <a href='/results.php?tla=joj' rel='colleague met'>Mr. Jay</a>, and affirm the 
+friendly disposition of that country to this. I know 
+better. I know their jealousy, envy, hatred, and revenge, covered under pretended contempt. 
+</p><p>
+I am so fatigued and disgusted with the insipidity 
+of this dull life, that I am half of a mind to vow that 
+if Washington don t resign, I will. The old hero 
+looks very grave of late. However, there is a high 
+probability that I am upon my last year of public 
+life, for if there should not be a choice by the people, 
+I will not suffer a vote to be given for me in the 
+House of Representatives. I will never serve in that 
+high and responsible situation without some foundation of people to stand on. If I should be chosen 
+Vice President only by a plurality, I will refuse. In 
+short, there are so many probable cases in which I 
+am determined to retire that the probability of it is, 
+upon the whole, very strong. Indeed, I feel myself 
+to be a fool to serve here at all. 
+</p><p>
+I am glad that you cast off the fret upon your mind. 
+You received some post notes soon after the date of 
+yours of 28th of March, which enabled you to face 
+your creditors and gave you more courage, I hope. 
+</p><p>
+I am 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

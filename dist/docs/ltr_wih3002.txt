@@ -1,0 +1,51 @@
+<letter id="wih3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williams tavern' rel='city origin'>Williams's Tavern</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I have just received the honor of yours of the 14th and 17th instant. 
+</p><p>
+Yesterday morning, about sunrise, our troops, in 
+three divisions, arrived in the neighbourhood of Fort 
+Independence ; the right division by the <a href='/results.php?city=albany' rel='city'>Albany</a> 
+Road, the centre by Stephen Ward s, and the left 
+by East Chester. Upon our approach, the enemy 
+fled to Fort Independence, leaving fifteen muskets at 
+one place, and ten at another, besides blankets, &c. 
+</p><p>
+I summoned the fort to surrender. I have taken 
+the liberty to inclose a copy. The answer to the 
+summons was verbal, and in substance, that, as the 
+Americans were excepted, they, although Britons, had 
+no answer to return. They afterwards fired a number of cannon at us from the fort, which we returned. We are just informed, by two deserters from 
+the fort, that the garrison consists of about three 
+hundred and fifty men ; that the last night they had 
+.a twelve-pounder sent to the fort, and that General 
+Agnew moved up yesterday with his brigade^ and 
+took post at the northernmost woody hill, between 
+Fort <a href='/results.php?city=washington' rel='city'>Washington</a> and <a href='/results.php?city=kings bridge' rel='city'>King's Bridge</a>, and about twelve 
+hundred Hessians near the fort. Between two and three hundred Hessians are in the houses just over the bridge. 
+</p><p>
+We took one light-horseman, with horse complete, 
+and one soldier, and have had one man killed by a 
+cannon ball this day. To-morrow we intend to make 
+an attack upon the Hessians at the bridge, if they 
+should not be reenforced. They have two pieces of 
+cannon well posted. Our troops are all militia, and, 
+although perhaps as good as any militia, yet they 
+are not disciplined. Our numbers are about three 
+thousand, but they begin to go home already. The 
+want of covering, the weather cold, &c., causes many 
+complaints. Much will depend on the success of our attack to-morrow. 
+</p><p>
+I have approved of the sentence of the court-martial on Strang, and have ordered him to be executed on Wednesday next at eleven o clock before noon. 
+</p><p>
+A Hessian Major, son of one of their Generals, commands Fort Independence. I have the honor to be, very respectfully, 
+</p><p>
+Your Excellency's most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

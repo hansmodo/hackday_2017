@@ -1,0 +1,29 @@
+<letter id='jds8003'>
+<recipient first='John' last='Mason' type='individual'/>
+<p>
+No. 51. 
+</p><p>
+<a href='/results.php?city=flag ship savannah' rel='city origin'>Flag-Ship Savannah</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: Since my No. 50, of the 31st May, I have, upon more mature reflection, come to the conclusion that your instructions of the 24th June last, and every subsequent order, will not 
+justify my taking possession of any part of California, or any hostile measure against Mexico (notwithstanding their attack upon our troops), as neither party have declared war. I shall, 
+therefore, in conformity with those instructions, be careful to avoid any act of aggression until I [am] certain one or the other party have done so, or until I find that our squadron in the 
+Gulf have commenced offensive operations, presuming that, as they are in daily communication with the Department, their proceedings are authorized. 
+</p><p>
+The want of communication with, and information from, the Department and our consul, render my situation anything but pleasant; indeed it is humiliating and mortifying in the 
+extreme, as by my orders I cannot act, while it appears to the world that we are actually at war on the other coast. 
+</p><p>
+Three of the sloops are on the coast of California, where I shall proceed, leaving the Warren here to bring intelligence. The Shark is at Columbia River. 
+</p><p>
+Most respectfully, I am your obedient servant, 
+</p><p>
+<a href="/results.php?tla=jds" rel="me">J. D. Sloat</a>, Commodore. 
+</p><p>
+To the Honorable Secretary of the Navy, Washington. 
+</p><p>
+Navy Department, January 11, 1848. 
+The foregoing is a translation of a letter received at this Department in cipher. 
+</p><p>
+J. Y. Mason. 
+</p>
+</letter>

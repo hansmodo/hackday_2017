@@ -1,0 +1,37 @@
+<letter id="mbc7787">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Just now, when Mr. Clay dashed up-stairs, pale as a sheet, saying, " <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> has capitulated," I 
+saw it reflected in Mary Darby's face before I heard him speak. She staggered to the table, sat down, and wept 
+aloud. Mr. Clay's eyes were not dry. Quite beside her self Mary shrieked, " Now we belong to negroes and Yankees ! Buck said, I do not believe it. 
+</p><p>
+How different from ours of them is their estimate of us. How contradictory is their attitude toward us. To keep the 
+despised and iniquitous South within their borders, as part of their country, they are willing to enlist millions of men 
+at home and abroad, and to spend billions, and we know they do not love fighting per se, nor spending money. They 
+are perfectly willing to have three killed for our one. We hear they have all grown rich, through "shoddy", whatever 
+that is. Genuine Yankees can make a fortune trading jack-knives. 
+</p><p>
+"Somehow it is borne in on me that we will have to pay the piper, was remarked to-day. No ; blood can not be 
+squeezed from a turnip. You can not pour anything out of an empty cup. We have no money even for taxes or to 
+be confiscated. " 
+</p><p>
+While the Preston girls are here, my dining-room is given up to them, and we camp on the landing, with our one 
+table and six chairs. Beds are made on the dining-room floor. Otherwise there is no furniture, except buckets of 
+water and bath-tubs in their improvised chamber. Night and day this landing and these steps are crowded with the 
+Elite of the Confederacy, going and coming, and when night comes, or rather, bedtime, more beds are made on the floor 
+of the landing-place for the war-worn soldiers to rest upon. The whole house is a bivouac. As Pickens said of South 
+Carolina in 1861, we are " an armed camp." 
+</p><p>
+My husband is rarely at home. I sleep with the girls, and my room is given up to soldiers. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee's</a> few, 
+but undismayed, his remnant of an army, or the part from the South and West, sad and crestfallen, pass through 
+Chester. Many discomfited heroes find their way up these stairs. They say <a href='/results.php?tla=jpj' rel=''>Johnston</a> will not be caught as <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> was. 
+He can retreat; that is his trade. If he would not fight <a href='/results.php?tla=wts' rel=''>Sherman</a> in the hill country of Georgia, what will he do 
+but retreat in the plains of North Carolina with <a href='/results.php?tla=usg' rel=''>Grant</a>, <a href='/results.php?tla=wts' rel=''>Sherman</a>, and Thomas all to the fore ? 
+</p><p>
+We are to stay here. Running is useless now; so we mean to bide a Yankee raid, which they say is imminent. 
+Why fly? They are everywhere, these Yankees, like red ants, like the locusts and frogs which were the plagues of Egypt. 
+</p><p>
+The plucky way in which our men keep up is beyond praise. There is no howling, and our poverty is made a 
+matter of laughing. We deride our own penury. Of the country we try not to speak at all. 
+</p>
+</letter>

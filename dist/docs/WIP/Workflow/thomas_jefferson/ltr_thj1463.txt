@@ -1,0 +1,54 @@
+<letter id='thj1463'>
+<recipient first='Elbridge' last='Gerry' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, October 11, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+I received, last night, the letter signed by yourself and the other
+gentlemen, delegates of Massachusetts and Virginia, recommending Mr. Sayre for the Barbary negotiations. As that was the first moment of its
+suggestion to me, you will perceive by my letter of this day, to <a href='/results.php?tla=joj' rel='co-worker'>Mr Jay</a>,
+that the business was already established in other hands, as your letter
+came at the same time with the papers actually signed by <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>, for
+Messrs. Barclay and Lambe, according to arrangements previously taken
+between us. I should, with great satisfaction, have acceded to the
+recommendation in the letter: not indeed as to Morocco, because, no
+better man than Mr. Barclay could have been substituted; but as to
+Algiers, Mr. Lambe being less known to me. However, I hope well of him,
+and rely considerably on the aid he will receive from his secretary, Mr. Randall, who bears a very good character. I suppose <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> entitled
+to the same just apology, as matters were settled otherwise, before he
+probably received your letter. I pray you to communicate this to the
+other gentlemen of your and our delegation as my justification.
+</p><p>
+The peace made between the Emperor and Dutch, leaves Europe quiet for
+this campaign. As yet, we do not know where the storm, dissipated for
+the moment, will gather again. Probably over Bavaria or Turkey. But this
+will be for another year.
+</p><p>
+When our instructions were made out, they were conceived on a general
+scale, and supposed that all the European nations would be disposed to
+form commercial connections with us. It is evident, however, that a very
+different degree of importance was annexed to these different states.
+Spain, Portugal, England, and France, were most important. Holland,
+Sweden, Denmark, in a middling degree. The others, still less so. Spain
+treats in another line. Portugal is disposed to do the same. England
+will not treat at all; nor will France, probably, add to her former
+treaty. Failing in the execution of these our capital objects, it has
+appeared to me, that the pushing the treaties with the lesser powers,
+might do us more harm than good, by hampering the measures the States
+may find it necessary to take, for securing those commercial interests,
+by separate measures, which is refused to be done here, in concert. I
+have understood through various channels, that the members of Congress
+wished a change in our instructions. I have, in my letter to <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a>, of
+this date, mentioned the present situation and aspect of these treaties,
+for their information.
+</p><p>
+My letter of the 6th instant to <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a>, having communicated what little
+there is new here, I have only to add assurances of the sincere esteem,
+with which I have the honor to be, Dear Sir,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

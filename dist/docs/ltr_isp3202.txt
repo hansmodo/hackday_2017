@@ -1,0 +1,70 @@
+<letter id="isp3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Yours of the 31st October and 1st November, I 
+have been favored with, and have taken the necessary precautions that your army should be supplied 
+with provisions. 
+</p><p>
+In my last, I informed you that General Warner's 
+brigade were ordered to join you ; but, as they are 
+raised only till the 1st of December, the officers and 
+men think it exceeding hard that they should be 
+obliged to make that long march, and their times out 
+soon after they could reach you. I have, in consequence of their request, detained them here, to make 
+obstructions in the river. <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> and my 
+self have been down to view the forts, and are both 
+of opinion that a boom, thrown across at Fort Constitution, and a battery on each side the river, would 
+answer a much better purpose than at Fort Montgomery; as the garrison would be reenforced by militia with more expedition, and the ground much 
+more definable. 
+All these circumstances considered, we have concluded to obstruct the navigation at the former place, 
+and shall go about it immediately. 
+</p><p>
+The cannon that were left at the forts are rendered entirely useless, except six twelve-pounders at 
+Fort Constitution- and these are spiked, and the 
+trunnions broke off, but may be stocked, so as to 
+answer the purpose tolerably well. 
+</p><p>
+I yesterday received a letter from Colonel Hamil 
+ton, dated at <a href='/results.php?city=albany' rel='city'>Albany</a>, ordering me to send forward 
+one thousand more Continental troops than was pro 
+posed when he was here ; this will leave me with 
+about three hundred Continental troops, and no militia except those whose times are out the first of December, to cover all this distressed country. I do not 
+think I can justify myself in this, without first acquainting you; and, if I then have your Excellency's 
+orders, I will, with pleasure, immediately and promptly comply with them. 
+</p><p>
+I am sorry to inform you that, for want of pay, 
+General Poor's brigade of Continental troops have 
+refused to cross the North River. The troops mutinied, the officers endeavouring to suppress them, 
+and they so determined to go home, that a Captain, 
+in the execution of his duty, ran a soldier through 
+the body, who soon expired, but not before he shot 
+the Captain through, who is since dead. I have got 
+several of them in provost guard, and a general Court martial sitting for their trial. About twenty of them 
+have made their escape, and gone home. I have sent 
+off some light-horse, and officers of the brigade, to 
+bring them back. In order to make peace, and reenforce you as soon as possible, I am endeavouring 
+to borrow about one thousand or fifteen hundred 
+pounds, to give them a month's pay. In the mean 
+time they are curing themselves of the itch. As soon 
+as this operation is over, they will march immediately. This, I acknowledge, is a bad precedent, but it 
+is a worse one to keep troops ten months without pay. 
+This department is absolutely in distress for money, 
+and the necessary business cannot be carried on with 
+out a supply is immediately sent. I am, dear General, 
+very respectfully, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p><p>
+P. S. I have just received information from Generals Dickinson arid Parsons, that Sir Henry Clinton 
+has embarked about six thousand troops as a reenforcement for General Howe ; they have not yet sailed. I shall go down to White Plains this afternoon, 
+to make a show there. Possibly this will prevent 
+their going so soon as they would otherwise, if at 
+all. 
+</p>
+</letter>

@@ -1,0 +1,43 @@
+<letter id="chl3010">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp at <a href='/results.php?city=philipsburg' rel='city origin'>Philipsburg</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a> ; 
+9 o clock, P. M. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+This instant came express, from Colonel Tupper, 
+(stationed opposite to Dobbs's Ferry), one David Keech. The substance of his intelligence is as follows. That the enemy began their march at nine 
+this morning, down the river, with their baggage, artillery, &c. ; that the man-of-war and two store-ships 
+had just set sail, and were making down (I mean 
+those which came up last); that three ships still lie off Tarry town and Sing Sing, two at the former, and 
+one at the latter. Keech says the whole army have 
+quitted Dobbs's Ferry, and imagines the rear have 
+by this time reached King's Bridge. 
+</p><p>
+I am far from being satisfied with the conduct of 
+our scouts. I do not think they venture far enough, 
+for they generally bring back very lame, imperfect 
+accounts. But I have projected a plan for breaking 
+in, at least, upon Rogers's party, and believe I shall 
+succeed. The sentence on Austin is, that he should 
+be reprimanded; but I have ordered a new court-martial, with a charge of wanton, barbarous conduct, 
+unbecoming, not only an officer, but a human creature. 
+</p><p>
+<a href='/results.php?tla=bel' rel='colleague'><a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a></a> and the Massachusetts Committee 
+are using their efforts to detain the militia; whether 
+they will succeed, heaven only knows. Hitchcock 
+and Yarnum do not recollect the recommendation of 
+<a href='/results.php?tla=nag' rel='colleague'><a href='/results.php?tla=nag' rel='colleague'>General Greene</a></a>, but I have ordered them to give me 
+a list of those who they think ought to be recommended ; for it is now too late to refer to Greene, 
+as the Commissioners are expected every hour. I 
+wish to God you were here, as I am in a manner a 
+stranger to their respective merits. When the list is 
+made out, I shall inform myself, as well as I can, if 
+their recommendation is impartial, and proceed accordingly. I am, dear General, 
+</p><p>
+Yours, most sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

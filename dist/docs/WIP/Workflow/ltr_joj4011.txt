@@ -1,0 +1,30 @@
+<letter id="joj4011">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a rel='day origin' value='11'>11th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear Morris, 
+</p><p>
+Your favour of the 1st of February came to hand last 
+week. It gives me pleasure to hear you was then at headquarters, especially on business so important and perplexed. 
+It is time that inquiries, as well as punishments, should become more frequent. I wish better, or rather more, use 
+was made of courts-martial. Why is the inquiry directed 
+to be made into the causes to which we are to ascribe the 
+loss of fort Montgomery, &c, so long delayed. Had it 
+been immediately after that event took place, the river 
+would now have been well fortified, and a general at the 
+head of the troops in the southern part of the State. 
+</p><p>
+Pennsylvania, I believe, is sick unto death. It will nevertheless recover, though perhaps not soon. Weak and bad 
+constitutions incline to chronical disorders. 
+Were I sure that this letter would reach you uninspected, 
+I should commit many things to paper worth your knowledge, but which would give you little pleasure or surprise ; 
+but as it is uncertain who will be the bearer, they must be 
+reserved for the present. God bless you, and give you 
+diligence and patience. Where you arc, both are necessary. 
+</p><p>
+I am your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

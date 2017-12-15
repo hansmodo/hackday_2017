@@ -1,0 +1,67 @@
+<letter id="leb4552">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+</p><p>
+By the answer you have returned to the letter, which I had 
+the honor of writing to you on the thirtieth of August, I see 
+that you have misunderstood certain expressions therein contained, and which were used relatively to circumstances. My 
+object, in speaking to you of the existing Government, was to 
+prove to you that it could not be dissolved, nor lose anything 
+of its authority, so long as the nation had an existence. In consequence of this just and incontestible principle, I have sup 
+posed that you might reside still in Paris, await here new credentials, and new instructions from your constituents, and, finally, continue to treat upon affairs interesting to both nations. 
+</p><p>
+You must be persuaded, Sir, that you would have found us 
+eager to give you satisfaction, on every point founded in justice and reason. And as, doubtless, you would have brought 
+forward no others, the result of our conferences, and of your 
+proceedings towards us, would have been followed by the success you desired. 
+</p><p>
+As to the aversion, which you appear to feel to our present 
+government, I think it right to remind you of a fact, which 
+comes in aid of the principle just cited. It is this. When the 
+inhabitants of North America resolved to separate themselves 
+from England, and to gain their liberty, they sent representatives to France, to negotiate with the government, which made 
+no difficulty in admitting them to a conference, and even concluding with them a treaty of friendship and commerce, as 
+well as of alliance. Hardly had" the United Provinces called 
+a Congress, when Dr Franklin was recognised by us in quality 
+of Minister Plenipotentiary. He was admitted as one of the 
+Diplomatic Corps to the audiences of the Court and the Minister. France, also, on her part, sent an accredited Minister 
+to Congress. Yet, Sir, you know, that at that time no decisive measures had been taken for the establishment of a 
+government in America, nor could there exist any settled 
+government, since war was still carried on for the cause of 
+independence and liberty. 
+</p><p>
+Our present position, therefore, and that of your country at that time, are very different. Of this you will be further convinced by the following fact. 
+</p><p>
+Before our revolution we had a government, which has subsisted continually since. It has, indeed, taken another 
+form, but this form has been thus determined by the liberty 
+and safety of the country. Besides, Sir, you, who were born 
+in the midst of a free people, should regard the present affairs 
+of France in a very different light, from that in which they appear to all other foreign ministers residing in Paris. We 
+maintain the same cause with your country ; our principles 
+and your own should be the same ; and by a natural train of 
+consequences, there can be no reason against your residence in Paris. 
+</p><p>
+I wish, Sir, that this explanation of facts, as well known to you as to myself, may induce you to reconsider the subject, and decide you to change your resolution. 
+</p><p>
+However this may be, Sir, I have had the passport prepared, 
+which you requested of me ; it is now with the municipality to 
+go through the necessary forms. I hope to have it ready 
+for you tomorrow. 
+</p><p>
+You see, Sir, by the subjoined extract from the reply of the 
+Minister of Public Contributions, that you have entire satisfaction on every point contained in your letter of the 21st of Au 
+gust last. I have the honor to observe to you, that the trifling 
+personal casualties you have experienced, with regard to your 
+effects, wines, &ic. are, as you are aware, a consequence of 
+the agitation inseparable from a great revolution.
+</p><p>
+I have the honor to be, with sincere regard, Sir, your most obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=leb" rel="me">LEBRUN</a>. 
+</p>
+</letter>

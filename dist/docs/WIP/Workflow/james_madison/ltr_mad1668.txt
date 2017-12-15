@@ -1,0 +1,124 @@
+<letter id='mad1668'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 4, <a href="/results.php?year=1790">1790</a>. 
+</p><p>
+DEAR SIR, Your favor of January 9, inclosing one of September last, did not get to hand till a few days ago. The idea 
+which the latter evolves is a great one, and suggests many interesting reflections to Legislators, particularly when contracting and providing for public debts. Whether it can be received 
+in the extent to which your reasonings carry it is a question 
+which I ought to turn more in my thoughts than I have yet 
+been able to do before I should be justified in making up a full 
+opinion on it. My first thoughts lead me to view the doctrine 
+as not in all respects compatible with the course of human affairs. I will endeavour to sketch the grounds of my skepticism. 
+"As the Earth belongs to the living, not to the dead, a living 
+generation can bind itself only; in every society, the will of the 
+majority binds the whole; according to the laws of mortality, 
+a majority of those ripe for the exercise of their will do not live 
+beyond the term of 19 years; to this term, then, is limited the validity of every act of the society, nor can any act be continued 
+beyond this term, without an express declaration of the public 
+will." This I understand to be the outline of the argument. 
+</p><p>
+The acts of a political society may be divided into three 
+classes: 
+</p><p>
+1. The fundamental constitution of the Government. 
+</p><p>
+2. Laws involving some stipulation which renders them irrevocable at the will of the Legislature. 
+</p><p>
+3. Laws involving no such irrevocable quality. 
+</p><p>
+1. However applicable in theory the doctrine may be to a 
+Constitution, it seems liable in practice to some weighty objections. 
+</p><p>
+Would not a Government, ceasing of necessity at the end of 
+a given term, unless prolonged by some Constitutional Act previous to its expiration, be too subject to the casualty and consequences of an interregnum ? 
+</p><p>
+Would not a Government so often revised become too mutable and novel to retain that share of prejudice in its favor 
+which is a salutary aid to the most rational Government? 
+</p><p>
+Would not such a periodical revision engender pernicious 
+factions that might not otherwise come into existence, and agitate the public mind more frequently and more violently than 
+might be expedient? 
+</p><p>
+2. In the second class, of acts involving stipulations, must not 
+exceptions, at least to the doctrine, be admitted? 
+</p><p>
+If the earth be the gift of nature to the living, their title can 
+extend to the earth in its natural state only. The improvements 
+made by the dead form a debt against the living, who take the 
+benefit of them. This debt cannot be otherwise discharged 
+than by a proportionate obedience to the will of the authors of 
+the improvements. 
+</p><p>
+But a case less liable to be controverted may, perhaps, be 
+stated. Debts may be incurred with a direct view to the interests of the unborn, as well as of the living. Such are debts for 
+repelling a conquest, the evils of which descend through many 
+generations. Debts may even be incurred principally for the 
+benefit of posterity. Such, perhaps, is the debt incurred by the 
+United States. In these instances the debts might not be dischargeable within the term of 19 years. 
+</p><p>
+There seems, then, to be some foundation in the nature of 
+things, in the relation which one generation bears to another, 
+for the descent of obligations from one to another. Equity may 
+require it. Mutual good may be promoted by it. And all that 
+seems indispensable in stating the account between the dead 
+and the living is, to see that the debts against the latter do not 
+exceed the advances made by the former. Few of the incumbrances entailed on nations by their predecessors would bear a 
+liquidation even on this principle. 
+</p><p>
+3. Objections to the doctrine, as applied to the third class of 
+acts, must be merely practical. But in that view alone they 
+appear to be material. 
+Unless such temporary laws should be kept in force by acts 
+regularly anticipating their expiration, all the rights depending 
+on positive laws, that is, most of the rights of property, would 
+become absolutely defunct, and the most violent struggles ensue 
+between the parties interested in reviving, and those interested 
+in reforming, the antecedent state of property. Nor does it 
+seem improbable that such an event might be suffered to take 
+place. The checks and difficulties opposed to the passage of 
+laws, which render the power of repeal inferior to an opportunity to reject, as a security against oppression, would here render the latter an insecure provision against anarchy. Add to 
+this, that the very possibility of an event so hazardous to the 
+rights of property could not but depreciate its value; that the 
+approach of the crisis would increase the effect; that the frequent return of periods superseding all the obligations dependent on antecedent laws and usages must, by weakening the 
+sense of them, co-operate with motives to licentiousness already 
+too powerful; and that the general uncertainty and vicissitudes 
+of such a state of things would, on one side, discourage every 
+useful effort of steady industry pursued under the sanction of 
+existing laws, and, on the other, give an immediate advantage 
+to the more sagacious over the less sagacious part of the Society. 
+</p><p>
+I can find no relief from such embarrassments but in the received doctrine that a tacit assent may be given to established 
+Governments and laws, and that this assent is to be inferred 
+from the omission of an express revocation. It seems more 
+practicable to remedy by well-constituted Governments the pestilent operation of this doctrine in the unlimited sense in which 
+it is at present received, than it is to find a remedy for the evils 
+necessarily springing from an unlimited admission of the contrary doctrine. 
+</p><p>
+Is it not doubtful whether it be possible to exclude wholly 
+the idea of an implied or tacit assent, without subverting the 
+very foundation of civil society ? 
+</p><p>
+On what principle is it that the voice of the majority binds 
+the minority? It does not result, I conceive, from a law of nature, but from compact founded on utility. A greater proportion might be required by the fundamental Constitution of Society, if under any particular circumstances it were judged eligible. Prior, therefore, to the establishment of this principle, 
+unanimity was necessary; and rigid Theory accordingly presupposes the assent of every individual to the rule which subjects the minority to the will of the majority. If this assent 
+cannot be given tacitly, or be not implied where no positive 
+evidence forbids, no person born in Society could, on attaining 
+ripe age, be bound by any acts of the majority, and either a 
+unanimous renewal of every law would be necessary as often 
+as a new member should be added to the society, or the express 
+consent of every new member be obtained to the rule by which 
+the majority decides for the whole. 
+</p><p>
+If these observ.ions be not misapplied, it follows that a limitation of the validity of all acts to the computed life of the 
+generation establishing them is in some cases not required by 
+theory, and in others not consistent with practice. They are 
+not meant, however, to impeach either the utility of the principle as applied to the cases you have particularly in view, or the 
+general importance of it in the eye of the philosophical Legislator. On the contrary, it would give me singular pleasure to 
+see it first announced to the world in a law of the United States, 
+and always kept in view as a salutary restraint on living generations from unjust and unnecessary burdens on their successors. This is a pleasure, however, which I have no hope of enjoying. It is so much easier to descry the little difficulties immediately incident to every great plan than to comprehend its 
+general and remote benefits, that further light must be added 
+to the Councils of our Country before many truths which are 
+seen through the medium of philosophy become visible to the 
+naked eye of the ordinary politician. 
+</p></letter>

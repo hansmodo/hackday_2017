@@ -1,0 +1,45 @@
+<letter id="gwa4514">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+I have received your letters of the 26th and 30th 
+ultimo and 1st instant. I cannot learn that any troops 
+have yet arrived at <a href='/results.php?city=new york' rel='city'>New York</a> from Virginia. A fleet 
+of twenty sail came in last Saturday with troops, but 
+they are said to be Hessian recruits from Europe. The 
+<a href='/results.php?city=concord' rel='city'>Concord</a>e frigate has arrived at Newport from Count de Gitisse. He was to leave St. Domingo the 3d of this 
+month, with a fleet of between twenty- five and twenty-nine sail of the line, and a considerable body of land 
+forces. His destination is immediately for the Chesapeake ; so that he will either be there by the time this 
+reaches you, or you may look for him every moment. 
+Under these circumstances, whether the enemy remain 
+in full force, or whether they have only a detachment 
+left, you will immediately take such a position as will 
+best enable you to prevent their sudden retreat through 
+North Carolina, which I presume they will attempt 
+the instant they perceive so formidable an armament. 
+Should <a href='/results.php?tla=atw' rel='co-worker'>General Wayne</a>, with the troops destined for 
+South Carolina, still remain in the neighbourhood of 
+James River, and should the enemy have made no detachment to the southward, you will detain those troops 
+until you hear from me again, and inform <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a> of the cause of their delay. If Wayne should 
+have marched, and should have gained any considerable distance, I would not have him halted. 
+</p><p>
+You shall hear further from me as soon as I have 
+concerted plans and formed dispositions for sending a 
+reinforcement from hence. In the mean time, I have 
+only to recommend a continuation of that prudence 
+and good conduct, which you have manifested through 
+the whole of your campaign. You will be particularly 
+careful to conceal the expected arrival of the Count; 
+because, if the enemy are not apprized of it, they will 
+stay on board their transports in the Bay, which will 
+be the luckiest circumstance in the world. You will 
+take measures for opening a communication with Count de Grasse the moment he arrives, and will concert 
+measures with him for making the best use of your 
+joint forces until you receive aid from this quarter. I 
+would not wish you to call out a large body of militia upon this occasion, but rather keep those you have 
+compact and ready for service. I am, &c. 
+</p>
+</letter>

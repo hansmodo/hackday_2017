@@ -1,0 +1,69 @@
+<letter id="hog3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p><p>
+<a href='/results.php?city=hillsborough' rel='city origin'>Hillsborough</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+My public letter to Congress has surely been transmitted to your Excellency. Since then, I have been 
+able to collect authentic returns of the killed, wounded, and missing of the officers of the Maryland line, 
+Delaware regiment, artillerists, and those of the legion 
+under Colonel Armand. They are inclosed. The militia broke so early in the day, and scattered in so 
+many directions upon their retreat, that very few 
+have fallen into the hands of the enemy. 
+</p><p>
+By the firmness and bravery of the Continental 
+troops, the victory is for from bloodless on the part 
+of the foe J they having upwards of five hundred 
+men, with officers in proportion, killed and wounded. 
+I do not think Lord Cornwallis will be able to reap 
+any advantage of consequence from his victory, as 
+this State seems animated to reinstate and support 
+the army. Virginia, I am confident, will not be less 
+patriotic. By the joint exertions of these two States, 
+there is good reason to hope that, should the events 
+of the campaign be prosperous to your Excellency, 
+all South Carolina might be again recovered. Lord 
+Cornwallis remained with his army at Camden, when 
+I received the last accounts from thence. I am cantoning ours at Salisbury, Guilford, Hillsborough, and 
+Cross Creek. The Marylanders and artillerists, with 
+the general hospital, will be here ; the cavalry near 
+Cross Creek, and the militia to the westward. This is 
+absolutely necessary, as we have no magazine of provisions, and are only supplied from hand to mouth. 
+Two days after the action of the 16th, fortune seemed determined to continue to distress us; for Colonel 
+Sumpter, having marched near forty miles up the 
+river Wateree, halted with the wagons and prisoners 
+he had taken the 15th; by some indiscretion the 
+men were surprised, cut off from their arms, the 
+whole routed, and the wagons and prisoners retaken. 
+</p><p>
+What encouragement the numerous disaffected in 
+this State may give Lord Cornwallis to advance further into the country, I cannot yet say. Colonel 
+Sumpter, since his surprise and defeat upon the west 
+side of the Wateree, has reinstated and increased his 
+corps to upwards of one thousand men. I have 
+directed him to continue to harass the enemy upon 
+that side. Lord Cornwallis will therefore be cautious 
+how he makes any considerable movement to the 
+eastward, while this corps remains in force upon his 
+left flank, and the main body is, in a manner, cantoned in his front. Anxious for the public good, I 
+shall continue my unwearied endeavours to stop the 
+progress of the enemy, to reinstate our affairs, to recommence an offensive war, and recover all our losses 
+in the Southern States. But, if being unfortunate is 
+solely reason sufficient for removing me from command, I shall most cheerfully submit to the orders 
+of Congress, and resign an office few Generals would 
+be anxious to possess, and where the utmost skill 
+and fortitude are subject to be baffled by the difficulties which must for a time surround the Chief in 
+command here. That your Excellency may meet 
+with no such difficulties; that your road to fame and 
+fortune may be smooth and easy, is the sincere wish 
+of. Sir, 
+</p><p>
+Your Excellency's most obedient, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">Horatio Gates.</a>. 
+</p><p>
+P. S. Your commands, in respect to the Virginia 
+line, shall be exactly and faithfully obeyed. 
+</p>
+</letter>

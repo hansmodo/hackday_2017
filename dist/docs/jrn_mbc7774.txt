@@ -1,0 +1,8 @@
+<letter id="mbc7774">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Better to-day. A long, long weary day in grief has passed away. I suppose General Chesnut is some 
+where but where? that is the question. Only once has he visited this sad spot, which holds, he says, all that he cares 
+for on earth. Unless he comes or writes soon I will cease, or try to cease, this wearisome looking, looking, looking for him. 
+</p>
+</letter>

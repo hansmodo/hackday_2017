@@ -1,0 +1,24 @@
+<letter id="smd7951">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], <a rel="month origin" value="6">June</a> <a rel='day origin' value='9'>9th</a>, Tuesday. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+My dear Brother, who is always seeking to make 
+somebody happy, arranged a dinner-party at the 
+lake for us Saturday. There was quite a number of 
+us, as, besides ourselves and the five children, we 
+had Mrs. Price and her children, Mrs. Bull, and three 
+nurses. . . . There are no Southern young men left in 
+town, and those who remain would hardly be received 
+with civility by Miriam and myself. Of the Yankees, 
+Brother has so much consideration for us that he 
+has never invited one to his house since we have been 
+here, though he has many friends among them who 
+visited here before our arrival. Such delicacy of feeling we fully appreciate, knowing how very few men 
+of such a hospitable nature would be capable of such 
+a sacrifice. Thinking we need company, Brother frequently invites what he calls "a safe old Secessionist" (an old bachelor of fifty- three who was wounded 
+at Shiloh) to dine with us ; thinking it a fair compromise between the stay-at-home youth and Yankees, 
+neither of whom this extremely young man could be 
+confounded with. 
+</p><p>
+</letter>

@@ -1,0 +1,53 @@
+<letter id='mad1593'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, January 28, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, The information which I have by the Eastern 
+mail rather increases than removes the anxiety produced by the 
+last. I give it to you as I have received it, in the words of <a href='/results.php?tla=ruk' rel='co-worker met'>Mr. King</a>: 
+</p><p>
+" <a href="/results.php?city=boston" rel="city">Boston</a>, 20 January, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+"Our Convention proceeds slowly. An apprehension that 
+the liberties of the people are in danger, and a distrust of men 
+of property or education, have a more powerful effect upon the 
+minds of our opponents than any specific objections against the 
+Constitution. If the opposition was grounded on any precise 
+points, I am persuaded that it might be weakened, if not entirely overcome. But any attempt to remove their fixed and 
+violent jealousy seems hitherto to operate as a confirmation of 
+that baneful passion. The opponents affirm to each other that 
+they have an unalterable majority on their side. The friends 
+doubt the strength of their adversaries, but are not entirely 
+confident of their own. An event has taken place relative to 
+Mr. Gerry, which, without great caution, may throw us into 
+confusion. I informed you by the last post on what terms Mr. 
+Gerry took a seat in the Convention. Yesterday, in the course 
+of Debate on the Construction of the Senate, Mr. G., unasked, 
+informed the Convention that he had some information to give 
+the Convention on the subject then under discussion. Mr. Dana 
+and a number of the most respectable members remarked upon 
+the impropriety of Mr. G.'s conduct. Mr. G. rose with a view 
+to justify himself. He was immediately prevented by a number 
+of objectors. This brought on an irregular conversation whether 
+Mr. G. should be heard. The hour of adjournment arrived, and 
+the President adjourned the House. Mr. Gerry immediately 
+charged Mr. Dana with a design of injuring his reputation by 
+partial information, and preventing his having an opportunity 
+to communicate important truths to the Convention. This 
+charge drew a warm reply from Mr. Dana. The members collected about them, took sides as they were for or against the 
+Constitution, and we were in danger of the utmost confusion. 
+However, the gentlemen separated, and I suppose to-morrow 
+morning will renew the discussion before the Convention. I 
+shall be better able to conjecture the final issue by next post." 
+</p><p>
+There are other of the same date from other gentlemen on the spot, which exhibit rather a more favorable prospect. 
+Some of them, I am told, are even flattering. Accounts will 
+always vary in such cases, because they must be founded on 
+different opportunities of remarking the general complexion, 
+where they take no tincture from the opinions or temper of the 
+writer. 
+</p><p>
+I remain, dear Sir, with the most perfect esteem and attachment, your obt serv. 
+</p>
+</letter>

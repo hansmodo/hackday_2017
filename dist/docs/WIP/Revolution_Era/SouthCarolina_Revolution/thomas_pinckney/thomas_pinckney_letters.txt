@@ -1,0 +1,44 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.H6hEyu on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--top
+--DOC-AUTHOR-FIRST--Thomas
+--DOC-AUTHOR-LAST--Pinckney
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="top3900">
+<p>
+THOMAS PINCKNEY TO HIS MOTHER. 
+</p><p>
+<a href='/results.php?city=fort moultrie' rel='city origin'>FORT MOULTRIE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+HONORED MADAM : 
+</p><p>
+When I went to town yesterday, I found our works as strong as the 
+high ideas which had been raised of them by report had made me figure 
+them to myself. I likewise saw every part of them thronged with men, 
+and matters in general in the best posture for a vigorous defence. I 
+heard it reported that the Governor is shortly to take the field and draw 
+down as many of our country militia into a camp to be formed some 
+where on this side of the country as he can collect, as our militia in general cannot be prevailed on to come into town, and it is hoped this 
+measure will be productive of very good consequences. The enemy 
+continue their approaches but slowly ; none of their works are nearer 
+than 600 yards from our lines. Their men-of-war continue opposite to 
+Fort Johnson. Their Admiral s ship was so much damaged as to be 
+obliged to continue on the careen, part of two days, in order to repair. 
+</p><p>
+The North Carolina and Virginia troops which cannot now be at a 
+very great distance, together with such of our country militia as the 
+Governor may collect, will, it is thought, be sufficient to oblige the 
+enemy to raise the siege, or at all events will much incommode them and 
+in the end render their repulse the more certain. 
+</p><p>
+I remain, dear mother, sincerely your affectionate and dutiful son, 
+</p><p>
+<a href="/results.php?tla=top" rel="me">THOMAS PINCKNEY</a>. 
+</p>
+</letter>

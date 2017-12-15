@@ -1,0 +1,25 @@
+<letter id="ben4870">
+<recipient first="Thomas" last="Gushing" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+SIR, 
+</p><p>
+Lord Dartmouth, our American minister, came to town 
+last week, and held his first levee on Wednesday, when I paid 
+my respects to him, acquainting him at the same time, that 
+I should in a few days wait upon him, on business from <a href='/results.php?city=boston' rel='city'>Boston</a> ; which I have accordingly since done, and have put your 
+petition to the King into his Lordship's hands, that being the 
+regular course. 
+</p><p>
+He received me very obligingly, made no objection to my 
+acting as agent without an appointment assented to by the 
+governor, as his predecessor had done, so that I hope business 
+is getting into a better train. I shall use my best endeavours 
+in supporting the petition, and write you more fully by the 
+next ship to <a href='/results.php?city=boston' rel='city'>Boston</a>. In the mean time I remain with great 
+respect, your most obedient and humble servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

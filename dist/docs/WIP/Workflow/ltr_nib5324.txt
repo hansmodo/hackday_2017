@@ -1,0 +1,14 @@
+<letter id="nib5324">
+<recipient first="Charles" last="King" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="9">Septr</a>. <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1837' rel="origin">1837</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In a letter received this evening from Mr. Leigh of 
+<a href='/results.php?city=richmond' rel='city'>Richmond</a>, he expressed a wish that his correspondence on 
+the subject of Chief Justice Marshall which you will find in the <a href='/results.php?city=richmond' rel='city'>Richmond</a> Whig should be republished in the American. 
+You will I am sure gladly contribute to vindicate the reputation of such a man from assailants who avenge themselves for 
+his superiority while living by calumniating his memory. In doing this you will gratify Mr Leigh &amp; oblige 
+</p>
+</letter>

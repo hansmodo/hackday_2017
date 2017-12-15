@@ -1,0 +1,39 @@
+<letter id='abl402'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>, June 16, <a href="/results.php?year=1862">1862</a>
+</p><p>
+MAJOR-GENERAL FREMONT, Mount Jackson, Virginia:
+</p><p>
+Your despatch of yesterday, reminding me of a supposed understanding that I would furnish you a corps of 35,000 men, and asking of me the
+"fulfilment of this understanding," is received. I am ready to come to a fair settlement of accounts with you on the fulfilment of understandings.
+</p><p>
+Early in March last, when I assigned you to the command of the
+Mountain Department, I did tell you I would give you all the force I
+could, and that I hoped to make it reach 35,000. You at the same
+time told me that within a reasonable time you would seize the
+railroad at or east of <a href='/results.php?city=knoxville' rel='city'>Knoxville</a>, Tenn., if you could. There was
+then in the department a force supposed to be 25,000, the exact
+number as well known to you as to me. After looking about two or
+three days, you called and distinctly told me that if I would add the
+Blenker division to the force already in the department, you would
+undertake the job. The Blenker division contained 10,000, and at the
+expense of great dissatisfaction to <a href="/results.php?tla=gbm" rel="co-worker met">General McClellan</a> I took it from
+his army and gave it to you. My promise was literally fulfilled. I have given you all I could, and I have given you very nearly, if not quite, 35,000.
+</p><p>
+Now for yours. On the 23d of May, largely over two months afterward,
+you were at Franklin, Va., not within 300 miles of <a href='/results.php?city=knoxville' rel='city'>Knoxville</a>, nor
+within 80 miles of any part of the railroad east of it, and not
+moving forward, but telegraphing here that you could not move for
+lack of everything. Now, do not misunderstand me. I do not say you
+have not done all you could. I presume you met unexpected
+difficulties; and I beg you to believe that as surely as you have
+done your best, so have I. I have not the power now to fill up your
+Corps to 35,000. I am not demanding of you to do the work of 35,000.
+I am only asking of you to stand cautiously on the defensive, get
+your force in order, and give such protection as you can to the valley of the Shenandoah and to western Virginia.
+</p><p>
+Have you received the orders, and will you act upon them?
+<p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

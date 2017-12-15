@@ -1,0 +1,48 @@
+<letter id='mad1531'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, December 9th, <a href="/results.php?year=1785">1785</a>. 
+</p><p>
+DEAR SIR, Supposing that you will be at <a href="/results.php?city=new york" rel="city">New York</a> by the 
+time this reaches it, I drop a few lines for the post of to-day. 
+Mr. Jones tells me he informed you that a substitute had been 
+brought forward to the commercial propositions which you left 
+on the carpet. The subject has not since been called up. If 
+any change has taken place in the mind of the House, it has not 
+been unfavorable to the idea of confiding to Congress a power 
+over trade. I am far from thinking, however, that a perpetual 
+power can be made palatable at this time. It is more probable 
+that the other idea of a Convention of Commissioners to <a href="/results.php?city=annapolis" rel="city">ANNAPOLIS</a>, from the States, for deliberating on the state of commerce and the degree of power which ought to be lodged in 
+Congress, will be attempted. Should it fail in the House, it is 
+possible that a revival of the printed propositions, with an extension of their term to twenty-five years, will be thought on 
+by those who contend that something of a general nature ought 
+to be done. My own opinion is unaltered. The propositions 
+for a State effort have passed, and a bill is ordered in, but the 
+passage of the bill will be a work of difficulty and uncertainty; 
+many having acquiesced in the preliminary stages who will 
+strenuously oppose the measure in its last stages. 
+</p><p>
+No decisive vote has been yet taken on the assize bill. I 
+conceive it to be in some danger, but that the chance is in its 
+favour. The case of the British debts will be introduced in a 
+day or two. We have got through more than half of the Revisal. The criminal bill has been assailed on all sides. Mr. 
+Mercer has proclaimed unceasing hostility against it. Some 
+alterations have been made, and others probably will be made, 
+but I think the main principle of it will finally triumph over all 
+opposition. I had hoped that this session would have finished 
+the code, but a vote against postponing the further consideration of it till the next was carried by so small a majority, that 
+I perceive it will be necessary to contend for nothing more 
+than a few of the more important bills, leaving the residue of 
+them for another year. 
+</p><p>
+My proposed amendment to the report on the Memorial of 
+Kentucky was agreed to in a Committee of the whole without 
+alteration, and with very few dissents. It lies on the table for 
+the ratification of the House. The members from that district 
+have become extremely cold on the subject of an immediate separation. The half tax is postponed till March, and the September tax till November next. Not a word has passed in the 
+House as to a paper emission. I wish to hear from you on your 
+arrival at <a href="/results.php?city=new york" rel="city">New York</a>, and to receive, in particular, whatever 
+you may be at liberty to disclose with regard to the Treaty of 
+peace, &c., with Great Britain. 
+</p>
+</letter>

@@ -1,0 +1,72 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--rir
+--DOC-AUTHOR-FIRST--Richard
+--DOC-AUTHOR-LAST--Rush
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="rir5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+private and confidential. Washington Nov: 19, <a href='/results.php?year=1828'>1828</a> 
+
+My dear sir. 
+
+... I am about setting down to the preparation of my 
+annual report, always a work of importance, but the materials 
+for which, as you well know, cannot be got in, until just be 
+fore congress assembles. I must prepare it, too, amidst the inevitable interruptions of daily business, drawing me aside. 
+The receipts for the current year are likely, I think, to exceed by a million and a half (perhaps more) my estimate of 
+them this time last year. 
+
+It is my present intention to take some notice of your Bank. 
+This has never yet been done, as far as I recollect, as a voluntary duty by the secretary of the treasury in his annual 
+reports. But if these reports are to consist of nothing but an account current of the receipts of the year, set off in ruled 
+lines and columns, any copying clerk in the department might annually save the secretary the trouble of drawing them up. 
+
+Please to consider this communication as confidential, and believe me dear Sir, 
+
+</letter><letter id="rir5351">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+private Washington December 10, <a href='/results.php?year=1828'>1828</a> 
+
+Dear sir, 
+
+I beg leave to enclose you a copy of my annual report. 
+In framing it on this occasion, I have had reference to its making a good impression abroad, satisfied that [if] it should have 
+this effect, in any degree, it will render it but the more valuable at home. Hence in the part about the debt, as well indeed 
+as in other parts, I have been somewhat more elementary, 
+or rather, I should say, explanatory, than would be necessary for home readers alone. I had written out the first sketch 
+of the whole, including the part about the bank, before I was favored with your letter of the 25 th of November, and had anticipated some of its suggestions. Others that it contained, and that I also found in your late letter to Mr Dickins, I adopted, 
+and now make you my acknowledgments for them. At the time the Bank was attacked last winter, for so it was in effect, 
+I took my determination not to leave the Department with out placing on record my testimony to its vast value to the 
+nation. It will be called an extra-official, volunteer, thing on my part, and other comments made; all of which I shall set at 
+naught. The finances of the state are the state. So said Burke. 
+Every thing that can be brought to bear upon the wealth and 
+prosperity of the nation, commerce, manufactures, agriculture, the shipping interest, the currency, banks, the coin, 
+tariffs, Internal works legislation as it may affect all or any of these topics, are open, so I hold it, to the scrutiny 
+or recommendations of a secretary of the treasury, in his annual reports to the national Legislature. He may review in 
+them, if he pleases, the financial systems of any part of the world, past or present, and ought to, if by it he can help our 
+own. True he must be responsible to his own character for the manner in which he may do all this, and more, for every 
+thing is open to him. His scope is boundless. I have at least desired to give to the law under which the annual report is 
+made, an enlarged interpretation. I would lift up its dignity, as well as its importance, leaving it for others, more able, 
+who are to come after me, to improve to great national benefits my mere conception of the duties which it imposes. . . . 
+
+You have probably as much or more to fear for the Bank, 
+from New York, as from Virginia, and with even less excuse. 
+In Virginia, there are still constitutional scruples. In New 
+York, none. But the frog of Wall Street, puffs himself into 
+the Ox of Lombard street, and will not have you abuse him. 
+Hinc ille lacrymse. . . . 
+
+It is my intention to send copies of my report abroad. I 
+shall take care that it reaches the hands not only of such 
+persons as Mr Huskisson, Mr Peel and Lord Aberdeen, but also some of those capitalists and bankers who can make 
+the pecuniary world heave, in both hemispheres, by holding 
+up a finger, at the Royal or stock exchange. 
+</p>
+</letter>

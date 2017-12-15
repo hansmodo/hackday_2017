@@ -1,0 +1,49 @@
+<letter id="chl3011">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp[<a href='/results.php?city=philipsburg' rel='city origin'>Philipsburg</a>], <a rel="day origin" value="19">19</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The recommendation of <a href='/results.php?tla=nag' rel='colleague'><a href='/results.php?tla=nag' rel='colleague'>General Greene</a></a>, which you 
+transmitted to me ; threw the officers to whom. I communicated it into so great a flame of discontent, that 
+I ventured, notwithstanding your orders, to hesitate. 
+They accused him of partiality to his connections and 
+townsmen, to the prejudice of men of manifestly superior merit. Indeed, it appears, from the concurrent 
+testimony of unbiased persons, that some of the subjects he recommended were wretched. In short, I 
+was so stunned with their clamor, that I delayed till 
+the arrival of the Committee, for which I ought to 
+ask your pardon. But, at the same time, I think the 
+delay has been salutary. 
+</p><p>
+My objections to moving from our present post 
+are, as I observed before, that it would give us the 
+air of being frightened; it would expose a fine fertile 
+country to their ravages ; and I must add, that we 
+are as secure as we could be in any position what 
+ever. We are pretty well disencumbered of our impediments, which I propose depositing in or about 
+Crompond, which (though I confess I have not reconnoitred the place), from its situation, must be full as 
+safe, and is much more centrical than <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. If, on further examination, it has any material disadvantages, we can easily move from thence. 
+</p><p>
+As to ourselves, light as we are, several retreats 
+present themselves. In short, if we keep a good 
+look out, we are in no danger; but I must entreat 
+your Excellency to enjoin the officers posted at Fort 
+Lee to give us the quickest intelligence, if they observe any embarkations of troops in the North River. 
+Our scouts are of late grown more vigilant, and make 
+prisoners. The militia, according to their laudable 
+custom, would not stay a moment beyond their usual 
+time. Oh, General, why would you be overpersuaded 
+by men of inferior judgment to your own? It was 
+a cursed affair. 
+</p><p>
+Yours, most affectionately, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p><p>
+P. S. The returns of the soldiers of the different 
+regiments now in the hands of the enemy, according 
+to the mode you require, are not yet made out, but 
+will soon, and shall be sent. 
+</p>
+</letter>

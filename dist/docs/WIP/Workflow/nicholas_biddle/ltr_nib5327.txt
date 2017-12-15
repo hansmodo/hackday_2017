@@ -1,0 +1,67 @@
+<letter id="nib5327">
+<recipient first="John" last="Forsyth" type="individual"/>
+<p>
+(confidential} <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="4">April</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir 
+</p><p>
+. . . The Bank of the U. States owes about six millions of dollars to the Gov't  payable by instalments due in Sept 
+nxt Sep. i839~Sep. <a href='/results.php?year=1840'>1840</a>. Now the Bank might anticipate 
+these payments at once, and put the Gov't  in funds for its 
+pressing wants. In this Settlement, as it is the payment of a 
+debt and does not come under the Same line as the ordinary 
+revenue there need be no operation of specie payment or 
+any other payment, for the public creditor would be too 
+happy to receive a draft on the Bank with the option of asking 
+specie for it if he choose to demand it, just as the Secretary 
+of the Navy last year paid the pensioners. 
+</p><p>
+The first effect of such an arrangement would be to quiet the 
+minds of the people as to what is regarded as the hostility of 
+the Govt. to the Banks the most serious obstacle at present to a general restoration of the Currency and it would 
+go further than any other measure I know to promote that object. An easy consequence of this would be a return to some 
+thing like the ancient habits of inter course between the Bank 
+&amp; the Govt. which would lead to this result. I think that the 
+Gov*. may be satisfied that no System could work better than 
+that of the late Bank of the U.S. Now the present Bank is only 
+the late Bank with no change except in the origin of its char 
+ter. Its whole machinery can be remounted in twenty four 
+hours and thence forward it can, without difficulty, engage 
+to receive &amp; disburse the public funds in every part of the 
+U.S. without any charge whatever, in specie or its equivalent, at the option of the public creditor. If therefore by a simple 
+arrangement of that Kind with the Bank, you can restore 
+the administration of the funds to its former footing, you 
+accomplish several objects. The first of course is that the work 
+of the Govt. is well done. The second is that you are relieved 
+from all connection in detail with a multitude of banks, the 
+fruitful source of trouble &amp; political danger. Then you get rid 
+of the debatable question of the National Bank You avoid 
+the embarrassment of retracting any fixed opinions you 
+restore in the most effectual way you can, at least you con 
+tribute as far as you can to restore, the currency. 
+</p><p>
+Finally, you thus get peace not a bad thing at any time 
+but a remarkably good thing at this time. For myself 
+this business of Texas, and a much more important matter 
+which I project, make me desire to close up these old sources 
+of discontent. I am therefore singularly pacific &amp; amiable 
+just now. 
+</p><p>
+It seems to me then, that you have an opportunity of making a political movement a coup d etat worth trying. 
+I believe that at this moment a reconciliation between the Bank &amp; the Govt. would do more both at home &amp; abroad to 
+settle our troubles than any other measure that could be 
+adopted. Its influence here in disarming the hostility of those 
+who consider the Govt. as indisposed to the credit system, you 
+may estimate better than I can. This could be done simply 
+by putting aside the Sub treasury bill, and all other projects, 
+and leaving the whole matter on the footing of the resolution 
+of <a href='/results.php?year=1816'>1816</a>, which would make it the subject of treasury regulation. 
+</p><p>
+Having thus unburdened my mind, I leave the rest to you, 
+if you think the suggestion worth following out. If not, it ofcourse rests between ourselves, as no one will be aware of the &gt;. 
+contents of this letter. The negociation for anticipating the ^ 
+first instalment is going on under the auspices of the gentle 
+man who has had charge of it but the occasion seems a 
+good one to follow out the mere intended arrangement here suggested. 
+</p>
+</letter>

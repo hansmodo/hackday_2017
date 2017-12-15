@@ -1,0 +1,118 @@
+<letter id="jol4948">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='21'>21th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I was obliged to break off abruptly in my last letter 
+and send it unfinished. To resume the thread of 
+narration will be hardly possible ; indeed it would not 
+be worth troubling you with, as you must have heard 
+before this time of the principal circumstances of our 
+retreat, and the failure of the British disposition. 
+Generals Clinton and Howe were both out with the 
+whole army, deducting the necessary guards for the 
+city. One of the columns executed a march of 35 
+miles which proved fatal to several of their plethoric 
+soldiers. 
+</p><p>
+The <a href="/results.php?tla=laf" rel="co-worker friend met">Marquis</a> made a brilliant retreat, and left the 
+surrounding enemy to return to the city with precipitation. The firing of our alarm guns at camp, the 
+crossing a few troops at Sullivan's bridge, and the 
+report of a great number, added to the good order in 
+which the detachment retired, saved the flower of our 
+army. We have since seen a <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> Gazette in 
+which our detachment is called a large body of the 
+rebels, their number covered under the appellation of 
+a detachment. The Marquis is said to have retreated 
+in the greatest confusion, and the party that crossed 
+the Schuylkil here are said to have recrossed panic 
+struck, and to have taken up the bridge after them. 
+In the same Gazette there is a pompous description of 
+the medley of entertainments which the city had given 
+in testimony of their affection for General Howe ; they 
+call it a mischianza (pronounce miskiansa) which 
+is an Italian word signifying a medley. 
+</p><p>
+The most recent intelligence from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> is, 
+that the troops drew yesterday three days provision 
+and had their canteens filled with rum, that the 
+women and children had embarked, some of the sick 
+had been removed from the hospital and bettering 
+house, the spare bedding and hospital utensils had 
+been shipped, boxes of arms numbered were removing from the arsenal to the vessels. Coffin and Anderson, a capital Tory house, were packing up their 
+merchandise. 
+</p><p>
+The number of transports amounted to 180 vessels, 
+averaging 250 tons each. This does not appear 
+adequate to the number of troops, &ca., and makes 
+us think that the enemy will retreat through the 
+Jerseys, after embarking their heavy cannon and 
+baggage, the horses belonging to them, their invalids 
+and their new levies, whose desertion they have good 
+reason to dread. 
+</p><p>
+We learn farther, that notice was given on Saturday 
+to the officers of police, that the army was about 
+to remove, and that vessels were prepared for such 
+families as should choose to quit the city that there 
+was a general despair among the Tory inhabitants 
+that the enemy were still at work on their new 
+redoubts. 
+</p><p>
+On Sunday the command devolved to General Clinton. Gen'l Howe took leave of the city and dined 
+with his brother on board of the Eagle. 
+</p><p>
+The inhabitants anxious to know whether their 
+persons and property will be protected from the rage 
+of the American soldiery if they could be sure of 
+protection, it is thought that much valuable merchandise would be retained in the city, which otherwise 
+will be sent away. 
+</p><p>
+The greatest part of this intelligence was given by 
+a Mr. Combes, father of the clergyman the old 
+gentleman is come out to make his peace and take 
+the oath he will be sent back to town, with consolation for repentant sinners. Deserters, townsmen, 
+women of different qualities, spies, confirm the sub 
+stance of these accounts. There has been such 
+diligence used in shipping, that some light carts 
+have been drawn by soldiers. Every kind of carriage 
+from waggons to wheelbarrows, have been incessantly rolling between the houses and water side for 
+some days past. 
+</p><p>
+It is not certainly known whether they will embark 
+or march through the Jerseys ; by the latter method 
+of retiring they would avoid the dangers of the sea 
+and a French fleet, economize provision and forage, 
+be sure of arriving at <a href='/results.php?city=new york' rel='city'>New York</a> at a given time ; by 
+the former they would be secure from desertion, 
+and harrassing from such light troops as might be 
+detached after them on their march ; but the matter 
+is put out of doubt, if what we have just heard from 
+Col. Shreve, commandant in Jersey, be true, that 
+several troops of the enemy's horse have embarked. 
+This being the case, they certainly mean to go by sea, 
+as every dragoon that can be mustered would be 
+wanted in their march through the Jerseys. 
+</p><p>
+Col. Shreve adds that the refugees arc daily deserting from Billingsport, and surrendering themselves to 
+the civil power, that several companies of artillery 
+have embarked. 
+</p><p>
+The intelligence from <a href='/results.php?city=new york' rel='city'>New York</a> is that the enemy 
+have abandoned Fort Washington and its dependencies. Whether their design is to concenter their 
+force at <a href='/results.php?city=new york' rel='city'>New York</a>, and make a stand there, or only 
+rendezvous there to proceed elsewhere, or divide the 
+force that they have at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, part to go to 
+reinforce <a href='/results.php?city=new york' rel='city'>New York</a>, and part for the defence of 
+their AV. India islands, cannot be determined. It is 
+certain that a notion prevails among the soldiery that many of them are going to the West Indies, and that immense desertion would take place if any opportunity were given. 
+</p><p>
+God bless yon, my dear father; I salute you with 
+</p><p>
+my tenderest love. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

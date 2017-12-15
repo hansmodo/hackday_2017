@@ -1,0 +1,76 @@
+<letter id="jod3627">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='16'>16</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE Doctor may have the steers if he wishes to have them. 
+</p><p>
+The people of the United States are about to be 
+stirred up in every quarter of the union. The House 
+of Representatives are determined to go all lengths. 
+The merchants of this city have had the most numerous meeting that has been known for a long time, 
+and unanimously voted to petition, that the faith, the 
+honor, and the interest of the nation may be preserved. They have appointed committees to correspond 
+with the merchants in all the seaports. I expect that 
+the citizens will also be called together in the state 
+house yard and it is said that the gentlemen will turn 
+out, but the event will be doubtful. The state parties 
+will all be agitated, and party spirit will be carried 
+to the highest pitch. It must be a national determination, and if the nation solemnly determines upon 
+war and confusion, they ought not to charge it to the 
+government. These critical situations are familiar 
+to me, and I always feel calmest in the midst of them. 
+A few outlandish men in the House have taken the 
+lead, and Madison, Giles and Baldwin are humble fol 
+lowers. If the voice of the nation should be finally 
+and decidedly in favor of the treaty, there will be a 
+mortified party, so bitter, rancorous and desperate, 
+fomented by foreign influence, in opposition, that the 
+government will be very much embarrassed, and the 
+public service very uncomfortable. 
+</p><p>
+When I take a walk out of town and see the young 
+clover beautifully starting, I long to see my own. 
+Pray how fares it ? 
+</p><p>
+I have always thought it injudicious to make any 
+attempt against the governor, knowing as I do, the 
+habitual attachment to him, as well as the difficulty 
+of uniting people in another. The countenance he 
+gives to a very profligate party, is very pernicious to 
+the public, but he is stimulated to it in part by the 
+opposition to him, and he would not do less out of 
+office. The constitution of our government is calculated to create, excite and support perpetual parties 
+in the States, mixing and crossing alternately with 
+parties in the federal government. It will be a perpetual confusion of parties. I fear we do not deserve 
+all the blessings we have within our reach, and that 
+our country must be deformed with divisions, contests, 
+dissensions and civil wars as well as others. 
+</p><p>
+As the people of Rome scrambled for power 
+against the senate ; as the people of Athens scram 
+bled for more power than was reserved for them by 
+the laws of Solon ; as the people of Carthage scram 
+bled for power against their senate ; as the people of 
+England scrambled for power against the king and 
+lords, and set up Oliver; as the people of France 
+scrambled for power against every majority and set 
+up Robespierre ; so the House of Representatives of 
+the United States will scramble for power against the 
+President and Senate. And the frequency of popular elections will corrupt all before them. May God 
+of his infinite mercy grant that some remedy may be 
+found before it be too late, in the good sense of this 
+people. 
+</p><p>
+Mr. C. desires me " to present his most profound 
+respects, not daring to send by a husband, any more 
+affectionate regards." 
+</p><p>
+I will venture to present you with my most affectionate regards, my earnest wishes and longing de 
+sires to see you. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

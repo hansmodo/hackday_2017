@@ -1,0 +1,33 @@
+<letter id='mad1682'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, June 1, <a href="/results.php?year=1790">1790</a>. 
+</p><p>
+DEAR SIR, The assumption has been revived, and is still depending. I do not believe it will take place, but the event may 
+possibly be governed by circumstances not at present fully in 
+view. The funding bill for the proper debt of the United States 
+is engrossed for the last reading. It conforms in substance to 
+the plan of the Secretary of the Treasury. You will have seen 
+by late papers that an experiment for navigation and commercial purposes has been introduced. It has powerful friends, and 
+from the present aspect of the House of Representatives will 
+succeed there by a great majority. In the Senate its success is 
+not improbable, if I am rightly informed. You will see by the 
+inclosed paper that a removal from this place has been voted by 
+a large majority of our House. The other is pretty nearly balanced. The Senators of the 3 Southern States are disposed to 
+couple the permanent with the temporary question. If they do, 
+I think it will end in either an abortion of both, or in a decision 
+of the former in favour of the Delaware. I have good reason 
+to believe that there is no serv.us purpose in the Northern 
+States to prefer the Potowmac, and that, if supplied with a pretext for a very hasty decision, they will indulge their secret 
+wishes for a permanent establishment on the Delaware. As 
+Rhode Island is again in the Union, and will probably be in the 
+Senate in a day or two, the Potowmac has the less to hope and 
+the more to fear from this quarter. Our friend, Col. Bland, was 
+a victim this morning to the influenza, united with the effects 
+and remains of previous indisposition. His mind was not right 
+for several days before he died. The President has been at the 
+point of death, but is recovered. <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a> has had a tedious 
+spell of the head-ache. It has not latterly been very severe, but 
+is still not absolutely removed. 
+</p>
+</letter>

@@ -1,0 +1,25 @@
+<letter id="mbc7577">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Dined to-day at the President's table. Joe Davis, the nephew, asked me if I liked white port wine. I said I did not know; all that I had ever known had been dark red. So he poured me out a glass. I drank it, and 
+it nearly burned up my mouth and throat. It was horrid, but I did not let him see how it annoyed me. I pretended to be glad that any one found me still young enough to play off a practical joke upon me. It was thirty years since I had thought of such a thing. 
+</p><p>
+Met Colonel Baldwin in the drawing-room. He pointed significantly to his Confederate colonel's buttons and gray coat. At the White Sulphur last summer he was a Unionman" to the last point. "How much have you changed 
+besides your coat?" "I was always true to our country, he said." She leaves me no choice now." 
+</p><p>
+As far as I can make out, <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> sent Mr. Chesnut to the President to gain permission for the forces of <a href='/results.php?tla=jpj' rel=''>Joe 
+Johnston</a> and <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> to join, and, united, to push the enemy, if possible, over the Potomac. Now every day we 
+grow weaker and they stronger; so we had better give a telling blow at once. Already, we begin to cry out for more ammunition, and already the blockade is beginning to shut it, all out. 
+</p><p>
+A young Emory is here. His mother writes him to go back. Her Franklin blood certainly calls him with no uncertain sound to the Northern side, while his fatherland is 
+wavering and undecided, split in half by factions. Mrs. Wigfall says he is half inclined to go. She wondered that 
+he did not. With a father in the enemy's army, he will always be "suspect" here, let the President and <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> do for him what they will. 
+</p><p>
+I did not know there was such a "bitter cry" left in me, but I wept my heart away to-day when my husband went off. Things do look so black. When he comes up 
+here he rarely brings his body-servant, a negro man. Lawrence has charge of all Mr. Chesnut's things watch, clothes, and two or three hundred gold pieces that lie in the tray of his trunk. All these, papers, etc., he tells Lawrence 
+to bring to me if anything happens to him. But I said: "Maybe he will pack off to the Yankees and freedom with all that." "Fiddlesticks! He is not going to leave me for anybody else. After all, what can he even be, better than he is now a gentleman's gentleman?" "He is within sound of the enemy's guns, and when he gets to the other army he is free." Maria said of Mr. Preston's man: "What he want with anything more, ef he was free? Don't he live just as well as Mars John do now?" 
+</p><p>
+Mrs. McLane, Mrs. Joe Johnston, Mrs. Wigfall, all came. I am sure so many clever women could divert a soul in extremis. The Hampton Legion all in a snarl about, I forget what; standing on their dignity, I suppose. I have 
+come to detest a man who says, "My own personal dignity and self-respect require." I long to cry, "No need to respect yourself until you can make other people do it." 
+</p>
+</letter>

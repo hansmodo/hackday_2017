@@ -1,0 +1,40 @@
+<letter id="ben4863">
+<recipient first="Richard" last="Price" type="individual"/>
+<p>
+Craven Street,  [<a href='/results.php?city=london' rel='city origin'>London</a>], <a rel="month origin" value="9">Sept.</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR SIR, Inclos'd I send you Dr. Priestly's last letter, 
+of which a part is for you, he says ; but the whole seems as 
+proper for you as for me. I did not advise him pro or con, 
+but only explain' d to him my method of judging for myself 
+in doubtful cases, by what I called Prudential Algebra. 
+</p><p>
+If he had come to town, and preach'd here sometimes, 
+I fancy Sir John P. would now and then have been one of his 
+hearers; for he likes his theology as well as his philosophy. 
+Sir John has ask'd me if I knew where he could go to hear 
+a preacher of rational Christianity. I told him I knew several of them, but did not know where their churches were in 
+town; out of town, I mention' d yours at Newington, and 
+offer 'd to go with him. He agreed to it, but said we should 
+first let you know our intention. I suppose, if nothing in his 
+profession prevents, we may come, if you please, next Sunday ; 
+but if you sometimes preach in town, that will be most convenient to him, and I request you would by a line let me know 
+when and where. If there are dissenting preachers of that 
+sort at this end of the town, I wish you would recommend one 
+to me, naming the place of his meeting. And if you please, 
+give me a list of several, in different parts of the town, perhaps 
+he may incline to take a round among them. At present I 
+believe he has no view of attending constantly anywhere, 
+but now and then only as it may suit his convenience. All 
+this to yourself. 
+</p><p>
+My best respects to Mrs Price and Mrs Barker. With 
+sincere wishes for your health and welfare, I am ever, my dear 
+</p><p>
+Friend 
+</p><p>
+Yours most affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,20 @@
+<letter id="mbc7559">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='13'>13th</a>  [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. We have been down from Montgomery on the boat to that God-forsaken landing, Portland, Ala. 
+Found everybody drunk that is, the three men who were there. At last secured a carriage to carry us to my brother-in-law's house. Mr. Chesnut had to drive seven miles, pitch dark, over an unknown road. My heart was in my mouth, which last I did not open. 
+</p><p>
+Next day a patriotic person informed us that, so great was the war fever only six men could be found in Dallas 
+County. I whispered to Mr. Chesnut: " We found three of the lone ones hors de combat at Portland." So much 
+for the corps of reserves alcoholized patriots. 
+</p><p>
+Saw for the first time the demoralization produced by hopes of freedom. My mother's butler (whom I taught 
+to read, sitting on his knife-board) contrived to keep from speaking to us. He was as .efficient as ever in his proper 
+place, but he did not come behind the scenes as usual and 
+have a friendly chat. Held himself aloof so grand and stately we had to send him a "tip" through his wife 
+Hetty, mother's maid, who, however, showed no signs of disaffection. She came to my bedside next morning with 
+everything that was nice for breakfast. She had let me sleep till midday, and embraced me over and over again. 
+I remarked "What a capital cook they have here !" She curtsied to the ground. "I cooked every mouthful on that 
+tray as if I did not know what you liked to eat since you was a baby." 
+</p>
+</letter>

@@ -1,0 +1,79 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.Gd90M3 on line 287
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--jej
+--DOC-AUTHOR-FIRST--Joseph
+--DOC-AUTHOR-LAST--Jones
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jej4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+We have at length got through the plan of funds 
+to be recommended to the States for their adoption. 
+It has been the most difficult and perplexing discussion of any that have engaged the attention of this 
+body for some time. The various objects to be combined, and the different interests to be reconciled, to 
+make the system palatable to the States, was a work 
+not easily or speedily to be effected ; and although it 
+was the wish of many to settle the plan upon clear 
+and unquestionable principles of finance, yet such 
+were the prejudices of some States, and of some individuals, and such their jealousies, we were obliged to 
+take a middle course with respect to its duration, and 
+the appointment of collectors, or hazard ultimately 
+the loss of the measure. As it stands, I believe it 
+will answer the purposes intended, if the States will 
+grant their concurrence. A copy will be transmitted 
+to you for your and the army's information. 
+</p><p>
+As the state of our finances at present is such as to make it difficult for the officer now at the head of that department, much more so for any new hand 
+who might succeed him, to form the necessary arrangements for obtaining money sufficient for disbanding the army, <a href='/results.php?tla=rom' rel='colleague met'>Mr. Morris</a> has agreed to act until that 
+business is accomplished, and will, I hope, be able to effect it to the satisfaction of the army. But from appearances, the period of disbanding will be more 
+distant than many at first apprehended, if that measure, as it seems to be proper it should, goes hand 
+in hand with the evacuation of our country by the British forces. By this time you are better able to judge of the views and designs of Sir Guy Carleton, 
+or of those who direct his movements, as I presume the intended interview took place, though, I confess, I thought there was indelicacy in the manner of that 
+gentleman's mentioning his proposed attendants. In every thing else but that of evacuation (and they may be doing all they can in that, for any thing I 
+know), they seem to act with fairness and liberality; and I should be sorry to find them in that, or any other instance, practising the old game of deception. 
+We have reports that something of this sort appears in their conduct respecting the negroes in their possession, claimed by our citizens. These relations come 
+from men of character, and, until the contrary is ascertained of what they assert, credit will be given to 
+their reports. No proclamations can authorize a refusal of property to those who claim under the article 
+of the treaty, and establish their right by satisfactory 
+proof 
+</p><p>
+Colonel F. Thornton, about two years ago, lost 
+many of his negroes, who went on board some of the 
+British ships of war, up the Potomac. He wrote to 
+me, the other day, about them. These, I believe, are 
+not sanctioned by proclamation, and yet, I suspect, if 
+the old gentleman was to send a person to claim 
+them, his labor would be lost. If what we are told 
+respecting the conduct of those in power in New 
+York, concerning the claimed property of the American citizens, be true, it will prove an effectual bar to 
+the restoration of confiscated estates, had there been 
+a disposition in the States before to render this. I 
+wished to have seen the treaty faithfully executed on 
+both sides ; but when arts and prevarication take 
+place on one side, they are apt to prevail on the 
+other. 
+</p><p>
+I proceed immediately to Virginia, in order to attend the Assembly now convening, and shall thank 
+you for any information respecting these matters you 
+can properly communicate, that the truth may be 
+known, and misrepresentations, if any prevail, removed. If any thing occurs to you, which you do not 
+choose to communicate directly to the Executive, with 
+respect to the arrangements necessary to be made on 
+a peace, and shall confide them to me, proper attention shall be paid to your observations. With perfect 
+esteem and respect, I am, dear Sir, 
+</p><p>
+Your affectionate, humble servant, 
+</p><p>
+<a href="/results.php?tla=jej" rel="me">Joseph Jones</a>.
+</p>
+</letter>

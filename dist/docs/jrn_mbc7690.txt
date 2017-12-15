@@ -1,0 +1,7 @@
+<letter id="mbc7690">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Gave Mrs. White twenty-three dollars for a turkey. Came home wondering all the way why she did not ask twenty-five; two more dollars could not have 
+made me balk at the bargain, and twenty-three sounds odd. 
+</p>
+</letter>

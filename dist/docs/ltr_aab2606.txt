@@ -1,0 +1,18 @@
+<letter id="aab2606">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+SUNDAY EVENING. [<a rel="month origin" value="12">Decemeber</a> <a rel="day origin" value="27">27th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>, Columbia River]
+</p><p>
+It is said that you have landed a mile below. We must all be stationary till morning. Send to me by return of this boat, Mr. Hays, with five 
+hundred in twenty post notes, and fifty dollars in silver. 
+</p><p>
+We will endeavor to start all the heavy boats at an early hour in the morning : those below are to wait till those above shall come down. A 
+gun will be fired as a signal for moving. All is well, very well, at this garrison. 
+</p><p>
+Your friend, 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+P. S. Mr Elliot has handed me some money. The silver is necessary, if it can be come at, and about three hundred dollars of paper. Hays need not come. 
+</p>
+</letter>

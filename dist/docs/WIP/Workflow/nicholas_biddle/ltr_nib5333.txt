@@ -1,0 +1,18 @@
+<letter id="nib5333">
+<recipient first="Thaddeus" last="Stevens" type="individual"/> 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir 
+</p><p>
+You are a magician greater than Van Buren, &amp; with 
+all your professions against Masonry, you are an absolute 
+right worshipful Grand Master. I received yesterday your 
+letter of the 2y th ult. and to day I write the letter to the Govt. 
+of which of which I annex a copy. This is worth to you a 
+dozen resumptions. On that subject you will talk all the truth 
+you dare, and if you can persuade our worthy friends that \ 
+this is a matter to be decided exclusively by business &amp; not \ 
+politics you will do good service to the good cause. 
+</p>
+</letter>

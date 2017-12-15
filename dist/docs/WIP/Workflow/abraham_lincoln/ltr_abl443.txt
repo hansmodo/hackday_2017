@@ -1,0 +1,31 @@
+<letter id='abl443'>
+<recipient first='Joseph' last='Hooker' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>, D.C.<br/>
+May 14, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+MAJOR-GENERAL HOOKER, Commanding.
+</p><p>
+MY DEAR SIR:--When I wrote on the 7th, I had an impression that
+possibly by an early movement you could get some advantage from the
+supposed facts that the enemy's communications were disturbed and
+that he was somewhat deranged in position. That idea has now passed
+away, the enemy having re-established his communications, regained
+his positions, and actually received reinforcements. It does not now
+appear probable to me that you can gain anything by an early renewal
+of the attempt to cross the Rappahannock. I therefore shall not
+complain if you do no more for a time than to keep the enemy at bay
+and out of other mischief by menaces and occasional cavalry raids, if
+practicable, and to put your own army in good condition again.
+Still, if in your own clear judgment you can renew the attack
+successfully, I do not mean to restrain you. Bearing upon this last
+point, I must tell you that I have some painful intimations that some
+of your corps and division commanders are not giving you their entire
+confidence. This would be ruinous, if true, and you should
+therefore, first of all, ascertain the real facts beyond all
+possibility of doubt.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

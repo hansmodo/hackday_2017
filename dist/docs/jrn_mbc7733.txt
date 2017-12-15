@@ -1,0 +1,11 @@
+<letter id="mbc7733">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. To-day General Chesnut and his staff departed. His troops are ordered to look after the mountain 
+passes beyond Greenville on the North Carolina and Tennessee quarter. 
+</p><p>
+Misery upon misery. Mobile is going as New Orleans went. Those Western men have not held their towns as we 
+held and hold Charleston, or as the Virginians hold Richmond. And they call us a " frill-shirt, silk-stocking chivalry," or " a set of dandy Miss Nancys." They fight desperately in their bloody street brawls, but we bear privation 
+and discipline best. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="jhc3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=bristol' rel='city origin'>Bristol</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+The river was so full of ice that it was impossible 
+to pass above Bristol, where I intended, and there 
+fore concluded to make an attempt at Dunks's Ferry. 
+As soon as it was dark, I sent down all the boats I 
+could muster, and marched down about eight o clock. 
+I embarked a few men to line the river, and prevent any person escaping to give intelligence to the 
+enemy ; and these were followed by a part of the 
+first battalion of militia, then two field-pieces, with 
+which I went over to see if it was practicable to 
+land them, and, upon examination, found it was impossible, the ice being very thick. Upon reporting 
+this to the field-officers, they were all of opinion 
+that it would not be proper to proceed without can 
+non. During this time the third battalion was land 
+ed. We concluded to withdraw the troops that had 
+passed, but could not effect it till near four o clock 
+this morning. The whole then were ordered to march 
+for Bristol. 
+</p><p>
+I imagine the badness of the night must have prevented you from passing, as you intended.! Our 
+men turned out cheerfully. We had about eighteen 
+hundred rank and file, including artillery. It will be 
+impossible for the enemy to pass the river till the 
+ice will bear. Would it not be proper to attempt to cross below, and join <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>, who was to 
+go over from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> to-day, with five hundred 
+men, which number, added to the four hundred Jersey militia which Colonel Griffin left there, would 
+make a formidable body. This would cause a diver 
+sion, that would favor any attempt you may design in 
+future, and would expose their baggage and stores, 
+if they attempt to cross. It is impossible, in our 
+present situation, to cooperate with <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>. 
+The militia will be easier kept together by being in 
+motion. We shall have some service from Colonel 
+Hitchcock's brigade, whose time of enlistment will be 
+up in a few days. We have procured a considerable 
+number of shoes, stockings, and breeches for them. 
+They are in good spirits, and enlist very fast, I am, 
+Sir, with great respect, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhc" rel="me">JOHN CADWALADER</a>. 
+</p>
+</letter>

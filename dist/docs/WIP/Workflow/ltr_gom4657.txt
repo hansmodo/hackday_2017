@@ -1,0 +1,70 @@
+<letter id="gom4657">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Since mine of the fifth, I learn that the militia have, in general, quitted the standard of Dumouriez, but he has about twelve 
+thousand of the regular troops, and there is reason to believe 
+that others mean to join him. The terror excited by his defection begins to subside, or rather it is suspended until some 
+great blow shall be struck. There seems to be more of treason in this country than was imagined, and every day increases 
+suspicion, which, whether well or ill founded, has always the 
+effect of distracting the public councils. 
+</p><p>
+Most people wonder at the delay of the Prince de Cobourg; 
+but, besides the necessity of collecting his magazines, artillery, 
+&c., which is a very heavy affair, I have reason to believe that 
+he waits until some other schemes are ready for execution, 
+and, therefore, it may be yet four or five days before he commences the siege of Valenciennes. Conde is a needful preliminary, as in that place he must receive the various supplies 
+which come up the Scheldt. It cannot hold out long. 
+</p><p>
+You will observe that Dumouriez, and, after him, the Prince 
+de Cobourg, declare themselves in favor of the late Constitution, with such alterations as the nation may adopt ; and the 
+latter gives the most solemn assurances, that he will not meddle 
+with the internal affairs of France. His conduct is wise, and 
+will doubtless gain them a considerable party in the country, if 
+they act consistently with those declarations. It is said here, 
+(and those who say so to me, tell me that they speak on good 
+authority,) that the powers allied against France begin already 
+to be disunited. That they will disagree, if very successful, 
+there can be little doubt, because they are actuated by different interests and motives ; but, I think that at present, those 
+who assert the disunion rather speak from induction than from 
+information. Custine has retired, you see, to Weissenbourg, 
+and there he has a bad position. The enemy will probably 
+attempt to cut off his retreat, before they attack him in front. 
+As yet, we do not learn that the Austrians have crossed the 
+Rhine in Upper Alsace, and that will be, perhaps, a preliminary to the operations against him. 
+</p><p>
+As far as I can judge of the public mind, it appears that 
+there is a general state of suspense. Success, on either side, 
+will fix the opinions of a very great number, who will then act, 
+to show their sincerity. Here, they hang people for giving 
+their opinion in favor of Royalty, (that is, they cut off their 
+heads,) but yet, I am told, that such opinion is openly avowed 
+and supported in the streets. I am told, that there is a majority, even of the Convention, who think a King necessary ; but, 
+as they see the loss of their own lives, in connexion with the 
+re-establishment of the throne, it is not to be supposed, that 
+they would tell such thoughts ; and, therefore, the information 
+may well be suspected. Time will show that there are among 
+them some false brethren; and, certainly, the most intelligent 
+must be convinced, that the republican virtues are not yet of 
+Gallic growth. 
+The Duke of Orleans is in the way of reaping the fruits of 
+his conduct, being, as you will see, sent a prisoner to Marseilles. 
+The storm thickens all around us ; but, as yet, one cannot certainly determine how it will burst. The attempts made to ex 
+cite disturbances in Paris have hitherto proved ineffectual ; but 
+that stroke seems to be reserved for the moment when the 
+Deputies, now in commission in the departments, shall return. 
+It is possible, merely possible, that all may go off smoothly ; 
+but the chances are greatly the other way. I am, &LC. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p><p>
+P. S. I should have mentioned that, I am told, there is a 
+plan in operation here to detach Great Britain from the con 
+federation, and to make a separate peace with her; but I am 
+persuaded that the attempt, in itself vain, must fail, from the 
+parties said to be employed, if from no other cause. 
+</p>
+</letter>

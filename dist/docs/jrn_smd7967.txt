@@ -1,0 +1,28 @@
+<letter id="smd7967">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> ], Monday, <a rel="month origin" value="11">November</a> 	<a rel='day origin' value='9'>9th</a>. [<a href='/results.php?year=1863' rel='origin'>1863</a>]
+</p><p>
+Another odd link of the old, stale story has come 
+to me, all the way from <a href='/results.php?city=new york' rel='city'>New York</a>. A friend of mine, 
+who went on the same boat with the prisoners, wrote 
+to her mother to tell her that she had formed the 
+acquaintance of the most charming, fascinating 
+gentleman among them, no other than my once 
+friend. Of course, she would have been less than a 
+woman if she had not gossiped when she discovered 
+who he was. So she sends me word that he told her 
+he had been made to believe, as long as he was on 
+parole in <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>, that we were all Unionists 
+now, and that Brother would not allow a Confederate to enter the house. (O my little lisper, was I 
+unjust to you?) He told her that I had been very 
+kind to him when he was in prison, and he would 
+have forgotten the rest and gladly have called to 
+thank me in person for the kindness he so gratefully 
+remembered, if I alone had been concerned; but he 
+felt he could not force himself unasked into my 
+brother's house. . . . 
+</p><p>
+She told him how false it was. 
+</p><p>
+</letter>

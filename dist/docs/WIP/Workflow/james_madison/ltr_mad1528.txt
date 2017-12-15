@@ -1,0 +1,119 @@
+<letter id='mad1528'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, October 3d, <a href="/results.php?year=1785">1785</a>. 
+</p><p>
+DEAR SIR, In pursuance of the plan intimated in my last, I 
+came to this city about three weeks ago, from which I continued my trip to <a href="/results.php?city=new york" rel="city">New York</a>. I returned last night, and in a day 
+or two shall start for Virginia. Col. Monroe had left <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> a few days before I reached it, on his way to a treaty 
+to be held with the Indians about the end of this month on the 
+Wabash. If a visit to the Eastern States had been his choice, 
+short as the time would have proved, I should have made an 
+effort to attend him. As it is, I must postpone that gratification, with a purpose, however, of embracing it on the first convenient opportunity. 
+</p><p>
+Your favor of the 11 May, by Mons r Doradour, inclosing 
+your cypher, arrived in Virginia after I left it, and was sent 
+after me to this place. Your notes which accompanied it remained behind, and consequently I can only now say on that 
+subject that I shall obey your request on my return, which my 
+call to <a href="/results.php?city=richmond" rel="city">RICHMOND</a> will give me an early opportunity of doing. 
+</p><p>
+During my stay at <a href="/results.php?city=new york" rel="city">New York</a> I had several conversations 
+with the Virginia Delegates, but with few others, on the affairs 
+of the confederacy. I find with much regret that these are, as 
+yet, little redeemed from the confusion which has so long mortified the friends to our national honor and prosperity. Congress have kept the vessel from sinking, but it has been by 
+standing constantly at the pump, not by stopping the leaks 
+which have endangered her. All their efforts for the latter 
+purpose have been frustrated by the selfishness or perverseness 
+of some part or other of their constituents. The desiderata 
+most strongly urged by our past experience and our present 
+situation are: 1. A final discrimination between such of the 
+unauthorised expences of the States as ought to be added to the 
+common debt, and such as ought not. 2. A constitutional apportionment of the common debt, either by a valuation of the 
+lands, or a change of the article which requires it. 3. A recognition by the States of the authority of Congress to enforce 
+payment of their respective quotas. 4. A grant to Congress 
+of an adequate power over trade. 
+</p><p>
+It is evident to me that the first object will never be effected 
+in Congress, because it requires in those who are to decide it 
+the spirit of impartial judges, whilst the spirit of those who 
+compose Congress is rather that of advocates for the respective 
+interests of their constituents. If this business were referred 
+to a commission filled by a member chosen by Congress out of 
+each State, and sworn to impartiality, I should have hopes of 
+seeing an end of it. The 2 d object affords less ground of hope. 
+The execution of the 8 th article of Confederation is generally 
+held impracticable, and Rhode Island, if no other State, has put 
+its veto on the proposed alteration of it. Until the 3 d ' object 
+can be obtained, the Requisitions of Congress will continue to 
+be mere calls for voluntary contributions, which every State 
+will be tempted to evade, by the uniform experience that those 
+States have come off best which have done so most. The present plan of federal Government reverses the first principle of 
+all Government. It punishes not the evil-doers, but those that 
+do well. It may be considered, I think, as a fortunate circumstance for the United States, that the use of coercion, or such 
+provision as would render the use of it unnecessary, might be 
+made at little expence and perfect safety. A single frigate 
+under the orders of Congress could make it the interest of any 
+one of the Atlantic States to pay its just quota. With regard 
+to such of the ultramontane States as depend on the trade of 
+the Mississippi, as small a force would have the same effect; 
+whilst the residue trading through the Atlantic States might be 
+wrought upon by means more indirect, indeed, but perhaps sufficiently effectual. 
+</p><p>
+The fate of the 4 th object is still suspended. The Recommendations of Congress on this subject, past before your departure, have been positively complied with by few of the States, I 
+believe; but I do not learn that they have been rejected by any. 
+A proposition has been agitated in Congress, and will, I am 
+told, be revived, asking from the States a general and permanent authority to regulate trade, with a proviso that it shall in 
+no case be exercised without the assent of eleven States in Congress. The Middle States favor the measure; the Eastern are 
+zealous for it; the Southern are divided. Of the Virginia delegation, the president* is an inflexible adversary, Grayson unfriendly, and Monroe and Hardy warm on the opposite side. 
+If the proposition should pass Congress, its fate will depend 
+much on the reception it may find in Virginia, and this will depend much on the part which may be taken by a few members 
+of the Legislature. The prospect of its being levelled against 
+Great Britain will be most likely to give it popularity. 
+</p><p>
+In this suspence of a general provision for our commercial 
+interests, the more suffering States are seeking relief from partial efforts, which are less likely to obtain it than to drive their 
+trade into other channels, and to kindle heart-burnings on all 
+sides. Massachusetts made the beginning; Pennsylvania has 
+followed with a catalogue of duties on foreign goods and tonnage, which could scarcely be enforced against the smuggler, if 
+New Jersey, Delaware, and Maryland, were to co-operate with 
+her. The avowed object of these duties is to encourage domestic manufactures, and prevent the exportation of coin to pay 
+for foreign. The Legislature had previously repealed the incorporation of the Bank, as the cause of the latter and a great 
+many other evils. South Carolina, I am told, is deliberating 
+on the distresses of her commerce, and will probably concur in 
+some general plan, with a proviso, no doubt, against any restraint from importing slaves, of which they have received from 
+Africa since the peace about twelve Thousand. She is also deliberating on the emission of paper money, and it is expected 
+she will legalize a supension of Judicial proceedings, which has 
+been already effected by popular combinations. The pretext 
+for these measures is the want of specie occasioned by the unfavorable balance of trade. 
+</p><p>
+Your introduction of Mr. T. Franklin has been presented to 
+me. The arrival of his Grandfather has produced an emulation 
+among the different parties here in doing homage to his character. He will be unanimously chosen president of the State, 
+and will either restore to it an unexpected quiet or lose his 
+own. It appears, from his answer to some applications, that he 
+will not decline the appointment. 
+</p><p>
+On my journey I called at Mount Vernon, and had the pleasure of finding the General in perfect health. He had just returned from a trip up the Potomac. He grows more and more 
+sanguine as he examines further into the practicability of opening its navigation. The subscriptions are completed within a 
+few shares, and the work is already begun at some of the lesserv.
+obstructions. It is overlooked by Rumsey, the inventor of the 
+boats, which I have in formermentioned to you. He 
+has not yet disclosed his secret. He had of late nearly finished 
+a boat of proper size, which he meant to have exhibited, but the 
+House which contained it and materials for others was consumed by fire. He assured the General that the enlargement 
+of his machinery did not lessen the prospect of utility afforded 
+by the miniature experiments. The General declines the shares 
+voted him by the Assembly, but does not mean to withdraw the 
+money from the object which it is to aid, and will even appropriate the future tolls, I believe, to some useful public establishment, if any such can be devised that will both please himself and be likely to please the State. 
+</p><p>
+This is accompanied by a letter from our amiable friend, Mrs. 
+Trist, to Miss Patsy. She got back safe to her friends in August, and is as well as she has generally been; but her cheerfulness seems to be rendered less uniform than it once was by the 
+scenes of adversity through which fortune has led her. Mrs. 
+House is well, and charges me not to omit her respectful and 
+affectionate compliments to you. 
+</p><p>
+I remain, dear sir, yours. 
+</p><p>
+* E. H. Lee. 
+</p>
+</letter>

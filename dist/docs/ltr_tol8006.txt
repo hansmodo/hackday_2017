@@ -1,0 +1,46 @@
+<letter id='tol8006'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+Consulate of the U. S. of America.<br>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1846' rel="origin">1846</a>.
+</p><p>
+Sir: <a href="/results.php?tla=jhf" rel="colleague met">Captain J. C. Fremont</a>, of the United States Army, arrived at this United States consular house in Monterey, on the 27th of January, <a href='/results.php?year=1846'>1846</a>. 
+Being very anxious to join his party of fifty men at the second place of rendezvous, without the settlement, they having missed the first place by mistake, he remained but two days; in which time, with myself, he visited the 
+commandant general, prefecto, alcalde, and Colonel Alvarado, informing them that he was surveying the nearest route from the United States to the 
+Pacific Ocean. This information, and that his men were not United States soldiers, was also, by myself, officially given to the prefecto. Having 
+obtained funds and supplies from myself, he returned to his camp; it being well known in Monterey that he was to return, when he collected his men. 
+Some fifteen or twenty days after this, <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, with his party, 
+encamped at a vacant rancho belonging to Captain Fisher (about ninety miles from here), to recruit his men and animals. From there he proceeded 
+towards Santa Cruz, making short journeys. On the 3d of March he encamped on the rancho of Mr. E. P. Hartnell, where he received letters 
+from the general and prefecto, ordering him out of the country, and to obey the order without any pretext whatever, or immediate measures would be 
+taken to compel him to do so. This, not corresponding with assurances received at Monterey, it was not answered, and he gave orders to hoist the 
+United States flag the next morning, as the only protection his men were to look to. From the 7th to the 10th of March, they fortified their camp with 
+a breastwork of logs. Encamped on a high hill, which commanded a view of the surrounding country, they could see (with the use of spy-glasses ) the 
+general and his troops, numbering about two hundred men, at their camp, in the Mission of St. John's, preparing their cannon. On the 9th inst., I sent 
+duplicate letters; one by an American, who lost his papers, and the other by a Californian, to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, informing him of the movements of 
+the Californians. The California courier returned to the consulate in about 
+nine or ten hours, bringing a letter from <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> having tnr 
+in that time sixty miles. He reported being well treated by <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> and his men ; and that two thousand of his countrymen would not 
+be sufficient to compel him to leave the country, although his party was so small. At the earnest request of the alcalde for a translation of <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont's</a> letter, it was given, and immediately despatched to the general at St. John's ; and one also to the governor of the Puebla of Los Angeles. 
+The general informed the alcalde on the night of the 10th instant, that <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> had left his encampment, and that he (the general) would 
+pursue and attack him the first opportunity, and chastise him for hoisting a foreign flag in California. In the postscript of the same letter, the 
+general stated that <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> had crossed a small river, and was 
+then about three miles distant from them; but the general made no preparation to follow him. On the morning of the nth, <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> 
+sent John Gilroy, an Englishman, long resident in this country, to make 
+offers of arrangement to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>. On his arrival at the campground, he found <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> had left that morning with his party; 
+the camp-fires were still burning. He found in the camp the staff used for 
+the flag, tent-poles (cut on the spot), some old clothes, and two old and useless pack-saddles which the Californians have magnified into munitions of 
+war. <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> informed his party that he had received various messages from the camp of <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, threatening to exterminate the 
+Californians, etc. (but will hardly name his messengers, nor did they put any confidence in it themselves). From the nth to the 13th, the 
+natives had returned to their respective homes, to resume their customary occupation. A few people that were ordered to march from San Francisco 
+to join the general at his camp, returned to their homes. On the 12th, a proclamation was put up by the general in the billiard-room (not the usual 
+place), informing the inhabitants that a band of highwaymen ("bandoleros") under <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, of the United States Army, had come within the 
+towns of this department; and that he, with two hundred patriots, had driven them out, and sent them into the back country. Some of the officers 
+of the two hundred patriots (and more were expected to join them) arrived in Monterey, and reported that the cowards had run, and that they had 
+driven them to the Sacramento River; some added that they drove them into the bullrushes, on the plains of the Sacramento; and that, in their 
+haste, they had left some of their best horses behind. The horses proved to be those belonging to the Californians themselves, and had strayed into 
+<a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont's</a> band (being an every-day occurrence in California), and 
+on raising camp, they were turned out and left behind. Instead of the Americans being driven out of the country, they travelled less distance, for 
+three or four days, than the natives did in returning to Monterey ; moving from four to six miles per day, in order to recruit. 
+</p>
+</letter>

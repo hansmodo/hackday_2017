@@ -1,0 +1,51 @@
+<letter id="joj4074">
+<recipient first="Kate" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=chaillot' rel='city origin'>Chaillot</a>, near Paris, <a rel='day origin' value='7'>7th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My good Friend, 
+</p><p>
+It gave me pleasure to receive your obliging letter of the 
+30th December, and the more so, as the one to Sally which 
+accompanies it contains agreeable accounts of your health. 
+Accept my thanks for the kind wishes which the season 
+gave you occasion to offer. In your sincerity I have full 
+confidence ; and in your happiness, I feel that interest 
+which long-confirmed esteem and attachment never fails to 
+create. 
+</p><p>
+If the ensuing summer should bring us all together in 
+health and spirits, I shall think the day of my arrival one 
+of the most fortunate of my life. After having passed so 
+many years in scenes of trouble and difficulty of various 
+kinds, I look forward with emotion not to be described to 
+that peaceful circle of my friends and family, where I again 
+expect to meet the enjoyments which have so long deserted 
+me. God only knows what futurity may have in store for 
+us, or what adverse events may still continue to teach us 
+lessons of resignation. It is happy for us, however, that 
+hope is our constant companion, and that new expectations 
+constantly succeed the disappointment of preceding ones. 
+</p><p>
+Having expected that Mr. Carmichael would have arrived 
+with the public accounts in time to have them settled 
+before the A] nil packet engaged her passengers, I had 
+taken steps for going in her ; but he did not reach Paris till 
+the 27th ult., and Mr. Barclay, who is to settle them, being 
+then and still absent, I must necessarily be detained here 
+till in May. I hope, but am not sure, that I shall then embark. In matters which do not depend upon myself, or 
+people like you, I dare not be sanguine. Such of our baggage as is not in immediate use, is already packed up. 
+</p><p>
+Your accounts of my dear boy please me. Tell him his 
+endeavours to gain knowledge, and practise virtue, will 
+increase and secure my affection for him. 
+</p><p>
+Remember me to all the family ; and believe me to be, 
+</p><p>
+Dear Kate, 
+</p><p>
+Your affectionate friend and brother, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

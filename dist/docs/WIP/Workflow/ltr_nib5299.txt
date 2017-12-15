@@ -1,0 +1,14 @@
+<letter id="nib5299">
+<recipient first="S" last="Smith" type="individual"/>
+<p>
+(confidential} <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="4">April</a> <a rel='day origin' value='11'>11</a>. <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+My dear sir 
+</p><p>
+The failure of the Bank of Washington confirms the opinion, entertained by you in regard to the District Banks 
+and I think renders more and more expedient the course recommended in my last. The Bank has been obliged to day 
+to decline the same kind of assistance to a Bank in <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. 
+</p><p>
+It becomes us to be specially careful of the Institution at the present moment, and that care I am sure you will always bestow. 
+</p>
+</letter>

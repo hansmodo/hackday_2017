@@ -1,0 +1,58 @@
+<letter id="jod3623">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='19'>19</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MT DEAREST FRIEND, 
+</p><p>
+WE have a turn of weather as cold as any we have 
+had through the whole winter. The violence of the 
+north-west wind, which has thrown down chimneys 
+and blown off roofs in this city, we suppose, has pre 
+vented the eastern mail from crossing the North River 
+and deprived me of my Thursday's letter as yet. I 
+hope it will come to-day. 
+</p><p>
+A thousand and one speeches have been made in 
+the House of Representatives upon the motion for 
+petitioning the President for papers. Twenty complete demonstrations have been made of the constitutionality of it, and twenty more of its unconstitutionally. Ten of its expediency, and as many of its in 
+expediency. Five of its utility, and the same number of its inutility. After all, they will ask and receive, and then lash and maul awhile, and then do the 
+needful. I dined on the 17th with the friendly sons 
+of St. Patrick, and to-day I dine with Rush. Judge 
+Gushing departs this morning, and Mrs. Gushing will 
+call upon you. Ellsworth embarks in a day or two 
+for South Carolina and Georgia. 
+</p><p>
+We have a party business from Kentucky ; a strange 
+complaint against Mr. Marshall, which obliges us to 
+sit to-day, Saturday. I regret this, because it is too 
+exhausting to me to sit so constantly. My task is 
+pretty severe, especially in cold weather. This wind 
+will delay intelligence from Europe for ten days or a 
+fortnight. Liancourt is going with Ellsworth, and 
+Talleyrand talks of embarking for Hamburg. Having no horse, and reading more and walking less than 
+usual, I am solicitous about my health. The birds, in 
+numbers and variety, began to sing, and the grass to 
+grow green, before this last gripe of Queen Mab. 
+The poor birds have hard times now. 
+</p><p>
+I cannot see a ray of hope before June. If the 
+House should be frenzical, we must sit till next March, 
+and leave it to the people to decide by choosing a new 
+President, Senate and House, who will harmoniously 
+go all lengths, call George a tyrant to his face, the 
+English nation pirates, break the treaty, enter into an 
+alliance offensive with France, and go to war with 
+spirit, consistency and dignity. But I believe the 
+House will adopt the language which says that the 
+just keep their promises though they have made 
+them to their hurt, and that they must make the best 
+of a bad bargain, and come off thus, as well as they 
+can, by abusing Jay, President, and Senate, and 
+treaty, without pretending to annul it. 
+</p><p>
+Hi ! ho ! Oh dear ! I am, most tenderly, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

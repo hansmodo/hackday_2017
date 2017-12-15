@@ -1,0 +1,90 @@
+<letter id="dah4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Secret.) 
+</p><p>
+<a href='/results.php?city=lisbon' rel='city origin'>Lisbon</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+I have forwarded to <a href='/results.php?tla=thj' rel='co-worker'>Mr. Jefferson</a>, for your information, the continuation of my proceedings until the 
+present time. You will be pleased to observe, by my 
+letter to him of this date, that the Court of Lisbon, 
+having, from a desire of opening an official intercourse 
+with the United States, made the first advances, by 
+appointing a Minister Resident to repair thither, now 
+finds it an unpleasant and difficult task to tread back 
+the steps it has thus, as an elder nation, taken in 
+respect to us. It would doubtless be desirable to 
+meet those advances, if it may be done without impropriety. 
+</p><p>
+I do not know what particular reasons exist on the 
+part of the Government of the United States (except 
+those which relate to expenses), that might induce it 
+to decline making an appointment, which would be 
+so satisfactory to this Court. There seems to be considerable force in what the Chevalier de Pinto has 
+alleged, with the intent to obviate the embarrassments, 
+on account of the pecuniary provision. The proper 
+and necessary expenses of a Charge des Affaires will, 
+I believe, be pretty nearly the same in every respect, 
+with those of a Minister Resident. Should I have 
+the honor of being nominated in the latter quality, 
+in return for the Chevalier de Freire, by the best 
+inquiries I have been able to make, I think, as a 
+single man, I may establish a household, and, with 
+good economy, live decently, in such a manner as 
+not to discredit myself or my nation, for the salary 
+annexed to the office of Charge des Affaires. If, therefore, a change of the name should take place, I 
+should expect it to be with a restriction to the salary 
+of a Charge des Affaires. In case of appointment to 
+either grade, according to permission of the act of 
+Congress, I suppose, however, a sum not exceeding 
+(nor less than) a year's salary will be granted to the 
+person so appointed, for the purchase of furniture, &c. 
+<a href='/results.php?tla=thj' rel='co-worker'>Mr. Jefferson</a> well remembers what inconveniences 
+resulted to him, from the want of such a provision for outfits, and how indispensably necessary it will be, under all circumstances, at the beginning. 
+Here the difference between hiring a house furnished, 
+or unfurnished, is much greater than in France. The 
+rent of a good house, unfurnished, but beautifully 
+situated, in the neighbourhood of Lisbon, is very reasonable. 
+</p><p>
+I would not have troubled you with these details, 
+trifling in themselves, though, under certain circumstances, they may be somewhat interesting to me, had 
+not the Minister of her Most Faithful Majesty seemed so much attached to the idea of continuing the 
+appointment of Minister Resident to his friend, the 
+Chevalier de Freire, that I am induced to imagine a 
+refusal, on our part, to make an exchange in that 
+grade, would not only prevent that gentleman from 
+going to America at all, but perhaps any arrangement for the exchange of diplomatic characters, for 
+the present. This Court having recalled its Ambassador from Rome, to succeed the Chevalier de Freire 
+at London, this last-mentioned gentleman must be entirely thrown out of employment, until some vacancy 
+shall happen ; and the Court may have to encounter 
+either the real or pretended difficulty of not being 
+able to find a character, suitable and willing to fill 
+the office of a Charge des Affaires in the United 
+States. A similar real or pretended difficulty, you 
+may recollect, has long existed in the British Cabinet. 
+</p><p>
+I only beg leave farther to suggest, in case an 
+appointment of any nature whatsoever should be 
+made by the Executive of America to this Court, 
+whether it would not be a good opportunity for you, 
+as Chief Magistrate of the United States, to write a 
+short letter to the Queen, in your own hand (to be 
+presented at the first audience, with the public eredentials), expressive of your sense of the friendly dispositions her Majesty has manifested towards the 
+United States, especially in the orders given for the 
+Portuguese fleets to afford any succour to American 
+vessels, and to protect them from the Algerine corsairs. 
+This singular instance of attention, which has, in fact, 
+been very useful to our Mediterranean trade, seems 
+to merit, on our part, some particular notice. The 
+Queen would probably be much flattered by your 
+likewise taking occasion to express a desire of cultivating the amity and commerce, which so happily subsist between the two nations, and which (being founded 
+upon principles of mutual advantage, without any interfering claims or discordant interests) promise to be 
+of long and beneficial continuance. With every sentiment of affection and respect, 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=dah" rel="me">David Humphreys</a>. 
+</p>
+</letter>

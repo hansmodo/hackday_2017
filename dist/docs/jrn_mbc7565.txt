@@ -1,0 +1,45 @@
+<letter id="mbc7565">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a href='/results.php?year=1861' rel="origin">1861</a>]. Have been looking at Mrs. O Dowd as she burnished the " Meejor's arrms " before Waterloo. And 
+I have been busy, too. My husband has gone to join <a href='/results.php?tla=pgb' rel='met'>Beauregard</a>, somewhere beyond Richmond. I feel blue-black 
+with melancholy. But I hope to be in Richmond before ..long myself. That is some comfort. 
+</p><p>
+The war is making us all tenderly sentimental. No casualties yet, no real mourning, nobody hurt. So it is all 
+parade, fife, and fine feathers. Posing we are en grande tenue. There is no imagination here to forestall woe, and 
+only the excitement and wild awakening from every-day stagnant life are felt. That is, when one gets away from 
+the two or three sensible men who are still left in the world. 
+</p><p>
+When <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> report of the capture of Fort Sumter was printed, Willie Ancrum said: " How is this? Tom 
+Ancrum and Ham Boykin's names are not here. We thought from what they told us that they did most of the fighting." 
+</p><p>
+Colonel Magruder has done something splendid on the peninsula. Bethel is the name of the battle. Three hundred of the enemy killed, they say. 
+</p><p>
+Our people, Southerners, I mean, continue to drop in from the outside world. And what a contempt those who 
+seceded a few days sooner feel for those who have just come out! A Camden notable, called Jim Velipigue, said 
+in the street to-day: " At heart <a href='/results.php?tla=rel' rel=''>Robert E. Lee</a> is against us ; that I know." What will not people say in war times ! 
+Also, he said that Colonel Kershaw wanted <a href='/results.php?tla=pgb' rel='met'>General Beauregard</a> to change the name of the stream near Manassas 
+Station. Bull's Run is so unrefined. <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> answered "Let us try and make it as great a name as your 
+South Carolina Cowpens." 
+</p><p>
+Mrs. Chesnut, born in Philadelphia, can not see what 
+right we have to take Mt. Vernon from our Northern sisters. She thinks that ought to be common to both parties. 
+We think they will get their share of this world's goods, do what we may, and we will keep Mt. Vernon if we can. 
+No comfort in Mr. Chesnut's letter from Richmond. Unutterable confusion prevails, and discord already. 
+</p><p>
+In Charleston a butcher has been clandestinely supply ing the Yankee fleet outside the bar with beef. They say 
+he gave the information which led to the capture of the Savannah. They will hang him. 
+</p><p>
+Mr. Petigru alone in South Carolina has not seceded. When they pray for our President, he gets up from his 
+knees. He might risk a prayer for <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a>. I doubt if seceded, he resigned his commission in the United States Army. After the war he settled in Houston, Texas. 
+</p><p>
+The battle of Big Bethel was fought on June 10, 1861. The Federals lost in killed and wounded about 100, among them Theodore Winthrop, of New York, author of Cecil Dreeme. The Confederate losses were very slight. 
+</p><p>
+it would seriously do <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> any good. Mr. Petigru is too clever to think himself one of the righteous whose 
+prayers avail so overly much. Mr. Petigru's disciple, Mr. Bryan, followed his example. Mr. Petigru has such 
+a keen sense of the ridiculous he must be laughing in his sleeve at the hubbub this untimely trait of independence 
+has raised. 
+</p><p>
+Looking out for a battle at Manassas Station. I am always ill. The name of my disease is a longing to get away from here and to go to Richmond. 
+</p>
+</letter>

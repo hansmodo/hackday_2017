@@ -1,0 +1,41 @@
+<letter id="nib5351">
+<recipient first="Daniel" last="Webster" type="individual"/>
+<p>
+(confidential) <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1840' rel="origin">1840</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+The impression which I have that the coming administration will be in fact your administration : one which I can 
+honorably support &amp; be connected with has revived a project in which I have for some time indulged but which I have 
+never mentioned to any one even of my own family. You will therefore receive it in the same confidence in which it is written. 
+I have retired as you know from all active affairs : 2 I do not wish to return to them. Whatever share I may have had 
+in the war now happily ended by the elevation of my friends, I have no pretensions and shall stand in no man's 
+way. It is a great wish of my family to travel in Europe, and I should incline to indulge it. But as you know travelling in 
+Europe to a mere private gentleman is a dull business. If a man had a high public station &amp; a higher public fame, as you 
+had, he gets along well, but a private gentleman delivering cold letters of introduction &amp; making his way into what is 
+called society has a task extremely repugnant to his pride. 
+I am too old for that &amp; I am satisfied that the only way of 
+being comfortable is to have some public character which 
+at once settles your rank &amp; places you above the necessity 
+of groping your way. Of these stations some are troublesome 
+from the business to be done &amp; from the crowds of country 
+men with whom one comes into contact : others give less rank 
+but less labor. Now my object being to travel I would not be 
+willing to remain in London or Paris or Petersburgh but I 
+would prefer some position within striking distance of all the 
+places on the continent, which would form the circle of 
+travel and on the whole the place which seems best adapted 
+for that purpose is Vienna. In regard to fitness, I have nothing to say I began my career as Secretary in Paris &amp; after 
+wards in London. I was to have been sent by Mr Madison as Minister to London at the close of the last war, &amp; was not 
+sent because I was not a member of Congress the Far I have never made any suggestion about it, I did not know 
+even of the design till some years afterwards, &amp; as I should be "able" &amp; able from my own private means to do all the 
+external honors of a legation &amp; have already been at Vienna. I think I might be not a very bad successor * to the recent incumbent. That place too happens to be vacant so that 
+no one need be removed and it is moreover ought of the sphere of ordinary competition among political men. The 
+great interest to be encouraged there is the introduction upon better terms of our own tobacco and this I think I could manage better, perhaps than any mere planter who would carry about him the odour of his "business in this state." 
+</p><p>
+And now my story is told. I wish to travel &amp; deeming some public character essential I have thought of one which might 
+enable me to do some good, &amp; to represent not unworthily the new administration &amp; the new Secretary for foreign affairs 
+both of which I suspect have been misrepresented in more sense than one abroad. To my objects position not salary is 
+what I desire not so much a place as a passport. Now tell me what you think of all this? Is it a reasonable thing? Is it a probable thing? 
+</p>
+</letter>

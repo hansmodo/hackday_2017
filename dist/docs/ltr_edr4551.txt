@@ -1,0 +1,25 @@
+<letter id="edr4551">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="4">April</a> 	<a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+Immediately on the receipt of your letter of the 9th instant, 
+respecting our Minister at Paris, I communicated it to the 
+President of the United States ; and on the same day I had 
+the honor of verbally informing you, that the President did not 
+hesitate to do the reciprocal act, which was requested. From 
+that moment to this, we have been anxiously seeking a successor, who may be as acceptable to the French Republic, as 
+the successor of M. Genet is to our own. I beg you to accept 
+this measure, as a fresh proof of our sincere desire to maintain 
+friendship with your nation ; and to assure you, at the same 
+time, that as no delay occurred, after the communication, which 
+you have made, so would similar applications have been com 
+plied with, on any occasion, and in relation to any person. I 
+have the honor, Sir, to be, with perfect respect and esteem, 
+your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">EDMUND RANDOLPH</a>. 
+</p>
+</letter>

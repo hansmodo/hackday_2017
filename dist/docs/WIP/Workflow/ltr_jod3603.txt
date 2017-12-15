@@ -1,0 +1,45 @@
+<letter id="jod3603">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='15'>15</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THIS is the coldest day we have felt this winter, and 
+H it were not for the hope I have of a letter from you 
+to-morrow, I should freeze, for what I know, to-night. 
+This month has been all unpleasant weather, but 
+none severe. You have had a north-east storm, I perceive, which raised the tides, but I hope, brought 
+in a fresh and abundant supply of seaweed. 
+</p><p>
+It is the dullest time we have seen this winter. No 
+arrivals, no news from abroad, nor from any part of 
+our own country. The treaty appears not, and when 
+it will, no man can tell. Are we to wait here till 
+May for it ? I won t. There is not the smallest 
+reason for my waiting. I can, in no possible case, 
+have any voice in its ratification, as two thirds of the 
+senators must agree. Nor will any opinion or reasoning of mine have the smallest weight with any 
+one of the senators. If I were disposed to wait, how 
+long must I wait ? I am tired of reading and writing. 
+My eyes complain ; I want exercise ; I must have my 
+horse ; and I must be at home. You say I must stay 
+a few days at <a href='/results.php?city=new york' rel='city'>New York</a> ; but I shall be uneasy and 
+impatient. No business, no books, no amusement, 
+no society much suited to my taste. Good cheer is 
+not enough for me. Balls, assemblies, hunting, are 
+neither business, pleasure, nor diversion for me. 
+What do you say, shall I resign my office when I am 
+three-score, or will you come with me in a stage 
+wagon, and lodge at a tavern in Fourth street ? I 
+must contrive something new against next winter. 
+The old routine grows too insipid. 
+</p><p>
+I shall never be weary of my old wife, however ; 
+so declares 
+</p><p>
+Your affectionate husband, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

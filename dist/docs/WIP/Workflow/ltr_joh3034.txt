@@ -1,0 +1,43 @@
+<letter id="joh3034">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR 
+</p><p>
+I am to acknowledge the receipt of your favor of 
+the 19th of April, inclosing several papers; all which 
+were immediately laid before Congress. 
+</p><p>
+The important intelligence they contain makes it 
+necessary that the most vigorous measures should 
+be adopted, as well to defend our troops against the 
+Canadians themselves, as to insure success to the Expedition. The Congress being determined on the reduction of Quebec, and the security of that country, 
+for reasons too obvious to be mentioned, have left 
+nothing undone which can any ways contribute to 
+that end. Whatever may be the causes of the late 
+insurrection, good policy requires, that while we endeavour to prevent every thing of the kind for the future, we should also make provision in case it should 
+happen. Accordingly Congress have come into sundry 
+resolutions calculated to quiet the minds of the Canadians, and to remove the sources of their uneasiness 
+and discontent. They have likewise ordered six more 
+battalions to be sent into Canada from the army at 
+<a href='/results.php?city=new york' rel='city'>New York</a>, as you will see by the inclosed resolve. 
+Whether any further additional forces will be wanted 
+there, is a matter of some uncertainty with Congress. 
+Should you, from your knowledge of facts, the state 
+of Canada, the possibility that General Howe will 
+attempt to relieve General Carleton, and, comparing 
+all circumstances together, be of opinion that an additional force is still necessary, you will please to signify it to Congress, and at the same time inform 
+them whether, in that case, such additional force can 
+be spared from the army now at <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+I transmit, herewith, sundry resolves of Congress for your direction; and have the honor to be, Sir, your 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. The inclosed letter for Commodore Hopkins, I leave unsealed for your perusal only ; after which I 
+beg of you the favor to seal and forward it by Fessenden, or a fresh express. I have paid Mr. Fessenden twelve dollars, which you will please to note on settlement with him. 
+</p>
+</letter>

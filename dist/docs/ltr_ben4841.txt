@@ -1,0 +1,47 @@
+<letter id="ben4841">
+<recipient first="Wimberley" last="Jones" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='2'>2</a>. <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I was in Ireland when your respected Fav of July 8. 
+arrived at my House here. On my Return which was just 
+before the Meeting of Parliam' I by a Line or two acknowledg'd the Receipt of it, intending to write more largely as 
+soon as any Business should occur. I hoped the Petition 
+relating to the controverted Lands would have been brought 
+forward long before this time, having been assured when it 
+was presented that it should in its Turn come under Consideration ; but such has been the Croud of more important 
+Affairs, that the Council have as yet found no time to do any 
+thing in it. Tho' I flatter my self, as no solicitation is omitted, 
+that it may be brought to a favourable Conclusion before the 
+Season of Business is over. 
+</p><p>
+Your Account of the Governor's Treatment of the Assembly & your self, determined me to wait upon him on his 
+Arrival here, as we can not but greatly disapprove his Conduct. As your Mode of appointing an Agent is by an Ordinance to which he must give his Assent I think it not likely 
+that I shall be continued in that Service for your Province. 
+I shall nevertheless continue to render it every Good Office 
+in my power while I remain in England, which I think will 
+not now be much longer. 
+</p><p>
+The presenting of a Speaker to the King I suppose was 
+originally intended that the King might know the Person 
+from whom he was to receive the Sense of Parliament on 
+every proper Occasion. To facilitate the Intercourse, it is 
+probable the Parliament might think it advisable rather to 
+chuse (other Qualifications being equal) a Person not justly 
+obnoxious to the King; and then it was natural for him to 
+compliment them by saying he approv'd their Choice. But 
+from this it by no means follows, that without such Approbation the Speaker could not continue in his Office, or that if 
+the House refus'd to chuse another, it would be a justifiable 
+Use of the Prerogative therefore to dissolve them. I believe 
+a King of England at this Day would hardly venture on such 
+a Step; but Governors take greater Liberties, having naturally no Respect for the People, but abundance for Ministers. It is by the Arbitrary Proceedings of Governors & other 
+Crown Officers countenanced by their Protectors here, that 
+the Affections of the Americans to this Country are daily 
+diminishing, and their Attachment to its Government in 
+danger of being lost in the Course of a few succeeding Years. 
+As a Disunion would be a Weakening to the Empire, & of 
+course prejudicial to [remainder of letter lost] 
+</p>
+</letter>

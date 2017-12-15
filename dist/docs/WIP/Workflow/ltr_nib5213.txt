@@ -1,0 +1,15 @@
+<letter id="nib5213">
+<recipient first="James" last="Lloyd" type="individual"/>
+<p>
+<a rel="month origin" value="1">Jan'y</a>. <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1826' rel="origin">1826</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+... If there be any one principle upon which we 
+have acted, with the most fastidious care, it is, to treat the 
+State authorities with the greatest respect, and in all our 
+intercourse with them to blend the utmost perseverance in 
+asserting the rights of the Bank, with the utmost courtesy 
+to all who opposed them. . . . 
+</p>
+</letter>

@@ -1,0 +1,19 @@
+<letter id="gom4550">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel='day origin' value='22'>22d</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+I received from Major Hosgiil, who arrived here on the twenty first instant, the two letters which you did me the honor to 
+write upon the thirteenth of October. I shall, in consequence, 
+set off for London as soon as I possibly can. When last in 
+thai city, I saw the Duke of Leeds twice at the French Ambassador s, and from some slight circumstances was induced to 
+believe, that the British court are better disposed towards a connexion with the United States, than they were some eighteen 
+months ago. The principal difficulty will, I imagine, arise from 
+the personal character of the King, which is that of perseverance, and from the personal dislike, which he bears to his for 
+mer subjects. I have the honor to be, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,121 @@
+<letter id="ben4711">
+<recipient first="Joseph" last="Galloway" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have before me your favours of April 23, May 21 and 26. 
+The confusion among our great men still continues as much 
+as ever, and a melancholy thing it is to consider, that, instead 
+of employing the present leisure of peace in such measures 
+as might extend our commerce, pay off our debts, secure allies, 
+and increase the strength and ability of the nation to support 
+a future war, the whole seems to be wasted in party contentions about places of power and profit, in court intrigues 
+and cabals, and in abusing one another. 
+</p><p>
+There has lately been an attempt to make a kind of coalition 
+of parties in a new ministry, but it fell through, and the present set is like to continue for some time longer, which I am 
+rather pleased with, as some of those who were proposed to 
+be introduced are professed adversaries to America, which 
+is now made one of the distinctions of party here ; those who 
+have in the two last sessions shown a disposition to favour 
+us, being called by way of reproach, Americans; while the 
+others, adherents to Grenville and Bedford, value themselves on being true to the interests of Britain, and zealous for 
+maintaining its dignity and sovereignty over the colonies. 
+</p><p>
+This distinction will, it is apprehended, be carried much 
+higher in the next session, for the political purpose of influencing the ensuing election. It is already given out that the 
+compliance of <a href='/results.php?city=new york' rel='city'>New York</a>, in providing for the quarters, without taking notice of its being done in obedience to the act 
+of Parliament, is evasive and unsatisfactory. That it is high 
+time to put the right and power of this country to tax the colonies out of dispute, by an act of taxation, effectually carried 
+into execution, and that all the colonies should be obliged 
+explicitly to acknowledge that right. Every step is taking to 
+render the taxing America a popular measure here, by continually insisting on the topics of our wealth and flourishing 
+circumstances, while this country is loaded with debt, great 
+part of it incurred on our account, the distress of the poor here 
+by the multitude and weight of taxes, &c. &c. ; and though 
+the traders and manufacturers may possibly be kept in our 
+interest, the idea of an American tax is very pleasing to the 
+landed men, who therefore readily receive and propagate 
+these sentiments wherever they have influence. 
+</p><p>
+If such a bill should be brought in, it is hard to say what 
+would be the event of it, or what would be the effects. Those 
+who oppose it, though they should be strong enough to throw 
+it out, would be stigmatized as Americans, betrayers of Old 
+England, &c., and perhaps, our friends by this means being 
+excluded, a majority of our adversaries may get in, and then 
+the act infallibly passes the following session. To avoid the 
+danger of such exclusion, perhaps little opposition will be 
+given, and then it passes immediately. I know not what to 
+advise on this occasion, but that we should all do our endeavours on both sides the water to lessen the present unpopularity of the American cause, conciliate the affections of 
+people here towards us, increase by all possible means the 
+number of our friends, and be careful not to weaken their 
+hands and strengthen those of our enemies, by rash proceedings on our side, the mischiefs of which are inconceivable. 
+Some of our friends have thought that a publication of my 
+Examination here, might answer some of the above purposes, 
+by removing prejudices, refuting falsehoods, and demonstrating our merits with regard to this country. It is accordingly 
+printed, and has a great run. I have another piece in hand, 
+which I intend to put out about the time of the meeting of 
+Parliament, if those I consult with shall judge that it may be 
+of service. 
+</p><p>
+The next session of Parliament will probably be a short 
+one, on account of the following election. And I am now 
+advised by some of our great friends here to see that out, not 
+returning to America till the spring. My presence indeed 
+is necessary there to settle some private affairs. Unforeseen 
+and unavoidable difficulties have hitherto obstructed our 
+proceedings in the main intent of my coming over, and perhaps (though I think my being here has not been altogether 
+unserviceable) our friends in the Assembly may begin to be 
+discouraged and tired of the expense. If that should be the 
+case, I would not have you propose to continue me as agent at 
+the meeting of the new Assembly: my endeavours to serve 
+the province, in what I may while I remain here, shall not be 
+lessened by that omission. 
+</p><p>
+I am glad you have made a trial of paper money, not a legal 
+tender. The quantity being small, may perhaps be kept in 
+full credit notwithstanding ; and if that can be avoided, I am 
+not for applying here again very soon for a repeal of the restraining act. I am afraid an ill use will be made of it. The 
+plan of our adversaries is to render Assemblies in America 
+useless ; and to have a revenue independent of their grants, 
+for all the purposes of their defence, and supporting governments among them. It is our interest to prevent this. And, 
+that they may not lay hold of our necessities for paper money, 
+to draw a revenue from that article, whenever they grant us 
+the liberty we want, of making it a legal tender, I wish some 
+other method may be fallen upon of supporting its credit. 
+What think you of getting all the merchants, traders, and 
+principal people of all sorts, to join in petitions to the Assembly for a moderate emission, the petition being accompanied 
+with a mutual engagement to take it in all dealings at the rates 
+fixed by law? Such an engagement had a great effect in 
+fixing the value and rates of our gold and silver. Or, perhaps, 
+a bank might be established that would answer all purposes. 
+Indeed I think with you, that those merchants here, who have 
+made difficulties on the subject of the legal tender, have not 
+understood their own interest. For there can be no doubt, 
+that should a scarcity of money continue among us, we shall 
+take off less of their merchandise, and attend more to manufacturing, and raising the necessaries and superfluities of life 
+among ourselves, which we now receive from them. And 
+perhaps this consequence would attend our making no paper 
+money at all of any sort, that being thus by want of cash 
+driven to industry and frugality, we should gradually become 
+more rich without their trade, than we can possibly be with 
+it, and, by keeping in the country the real cash that comes 
+into it, have in time a quantity sufficient for all our occasions. 
+But I suppose our people will scarce have patience to wait for 
+this. 
+</p><p>
+I have received the printed votes, but not the laws. I hear 
+nothing yet of any objection made by the Proprietaries to any 
+of them at the Board of Trade. 
+</p><p>
+Please to present my duty to the Assembly, with thanks for 
+their care of me, and assure them of my most faithful services. 
+With sincerest esteem and respect, I am, my dear friend, 
+yours most affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

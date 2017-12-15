@@ -1,0 +1,39 @@
+<letter id="joj4163">
+<recipient first="Maria" last="Jay" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1805' rel="origin">1805</a>. 
+</p><p>
+My dear Maria, 
+</p><p>
+The account of your health contained in your affectionate 
+letter of the 12th inst., gave me great pleasure. 
+</p><p>
+I thank you for the manner in which you mention my 
+birth-day, and I believe every word you say on that topic. 
+And now, my dear daughter, I will congratulate you on 
+the anniversary of a birth-day, without which all our birthdays would have been but sad. I mean the nativity of our 
+Redeemer. May you see many returns of that anniversary, 
+and with still increasing prospects of comfort here, and 
+happiness hereafter. 
+</p><p>
+Last evening your sister received a letter from you, with 
+a postscript by ****. Let me hint to you, that neither the 
+letters which we write, nor those which we receive, should 
+be so frequently communicated as to become a matter of 
+course; for, in that case, every omission which prudence 
+may require, will naturally lead to conjectures and apprehensions, and sometimes to inquiries and piques, which are 
+always unpleasant. Although I am persuaded that these 
+reflections are not new to you, yet my solicitude about 
+whatever may affect your comfort, prompts me to remind 
+you of them. Place full confidence in your husband ; with 
+respect to others, be habitually circumspect. These are 
+mere general remarks, and not dictated by any fear of their 
+being necessary. 
+</p><p>
+I am, my dear Maria, 
+</p><p>
+Your very affectionate father, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

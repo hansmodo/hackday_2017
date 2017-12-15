@@ -1,0 +1,22 @@
+<letter id="nag3916">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I have received your letter by Mr. Pollock, with the returns enclosed. 
+Intelligence from town induces me to believe the enemy are making 
+preparations for another expedition after provision, and that the neighborhood of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> will be their object, if there is a large quantity 
+of provisions near that place. I beg that some steps may be taken for 
+removing the rice, if possible, or for effectually covering the country 
+from the ravages of the enemy. I am unable, at this distance, to deter 
+mine with precision the position you ought to take, or the measures 
+you have it in your power to pursue, to oppose their designs. You 
+will, therefore, adopt the plan which you think most eligible. 
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

@@ -1,0 +1,48 @@
+<letter id="rim5002">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=isle aux noix' rel='city origin'>ISLE AUX NOIX</a>, <a rel="month origin" value="9">SEPT</a>. <a rel='day origin' value='5'>5TH</a> [<a href='/results.php?year=1775' rel="origin">1775</a>]. 
+</p><p>
+MY DEAR JANET: 
+</p><p>
+I take the earliest opportunity of letting you hear I am well. We have made an excursion to <a href='/results.php?city=st johns' rel='city origin'>St. Johns</a> with the small corps with which I left <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. We found the enemy's vessel, 
+which mounts sixteen guns, almost ready to sail. We had but two pieces of artillery with carriages by no means sufficient to 
+undertake a siege, or to destroy the vessel, which is under the 
+cannon of the fort. It has therefore been judged expedient by 
+everybody to put in practice the first project of throwing a boom 
+over the channel at the <a href='/results.php?city=isle aux noix' rel='city'>Isle Aux Noix</a>, which we are now about 
+getting ready. We have not as yet received intelligence that 
+can be relied on with respect to the intentions of the Canadians ; 
+but a Mr. Hazen, who lives at <a href='/results.php?city=st johns' rel='city origin'>St. Johns</a>, and is a sensible man, 
+is of opinion that tho' they will not take up arms against us, yet 
+they will not act offensively in our favor. When we are certain 
+of their friendship, so far as to lie quiet, we shall march a strong 
+detachment by land into the country, which we shall be masters 
+of, if Mr. Carleton is not speedily reinforced. We had a little 
+skirmish with the Indians; two very good officers wounded 
+and nine or ten privates killed ; a good deal of confusion in the 
+action; the Yorkers little acquainted with wood-fighting; the 
+Connecticut men behaved well for the most part, but in the 
+evening, when some shells were thrown from the fort, they 
+showed a degree of apprehension that displeased me much ; but I 
+hope and believe it will wear off by a little practice. The 
+general thought proper to remove a little farther oft' with the 
+boats and vessels ; and they embarked with such confusion as 
+can only be palliated by saying they are young troops. I have 
+endeavored to make them ashamed of themselves, and hope this 
+won't happen again. I believe I am on a tolerable footing with 
+them. Poor Schuyler is in so miserable a state of health as to 
+make him an object of compassion. 
+</p><p>
+I wrote you from Crown Point, and also your worthy <a href="/results.php?tla=rol" rel="kin met">father</a>. 
+I then referred you to him for news. I must now beg of him to 
+read this letter, which contains all I have to say, being much 
+hurried. Should any report prevail at <a href='/results.php?city=albany' rel='city'>Albany</a> of any accident 
+having happened to me, I have requested Walter Livingston to 
+send you this by express. 
+</p><p>
+Adieu! my dearest Janet. Rest assured of my warmest affection. 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

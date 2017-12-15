@@ -1,0 +1,17 @@
+<letter id="mbc7760">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='16'>16th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. My husband is at home once more for 
+how long, I do not know. His aides fill the house, and a group of hopelessly wounded haunt the place. The drilling 
+and the marching go on outside. It rains a flood, with freshet after freshet. The forces of nature are befriending 
+us, for our enemies have to make their way through swamps. 
+</p><p>
+A month ago my husband wrote me a letter which I promptly suppressed after showing it to Mrs. McCord. He warned us to make ready, for the end had come. Our resources were exhausted, and the means of resistance could 
+not be found. We could not bring ourselves to believe it, and now, he thinks, with the railroad all blown up, the 
+swamps made impassable by the freshets, which have no time to subside, so constant is the rain, and the negroes utterly 
+apathetic (would they be so if they saw us triumphant?), if we had but an army to seize the opportunity we might do 
+something; but there are no troops; that is the real trouble. 
+</p><p>
+To-day Mrs. McCord exchanged $16,000 in Confederate bills for $300 in gold sixteen thousand for three hundred. 
+</p>
+</letter>

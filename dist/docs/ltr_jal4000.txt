@@ -1,0 +1,33 @@
+<letter id="jal4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='11'>11th</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+By a letter from Messrs. Gardoqui and Sons, of May 3d, received yesterday, I have the pleasure of knowing you 
+were then well. In a postcript to one of his former of February 24th, the P. S. not dated, he says he hears of you 
+every week. This creates a chagrin, as we have none of your favours later than March 3d. You are not to suppose 
+that I dare to complain ; I have read my Bible to better purpose. I am not entitled to throw the " first stones," but I 
+have as good a title as anybody to palliate my own faults, and to shift them upon others. There is said to be a committee 
+of foreign affairs. Each member is loaded with a variety of business ; two have amiable wives near <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; I 
+miss the gentlemen, therefore, frequently. <a href="/results.php?tla=rol" rel="colleague">Mr. Livingston</a> is now absent, but you have, herewith, a letter he sent to 
+my care a few days ago. The weather is murderous hot, and I cannot go up and down to the offices, in search of 
+those authenticated papers, which ought to be regularly forwarded to you, and other dignified officers abroad. You 
+will be pleased therefore to know from me, individually, and by way of a resolve of Congress of June 21st, certified 
+by me, that Mr. Dohrman, of Lisbon, is appointed our agent in Portugal. 
+</p><p>
+Mr. Searle is the bearer of this, via France, and <a href="/results.php?tla=jol" rel="colleague">Mr. Laurens</a> will either go for Holland in the same ship, the 
+Jay, or will sail in a few days by another opportunity for Holland. The former gentleman is on business for the 
+State of Pennsylvania, and, perhaps, for some mercantile companies also. You already know <a href="/results.php?tla=jol" rel="colleague">Mr. Laurens</a> is to 
+negotiate a loan. Indeed, an instruction was given to a committee to bring in a draught of a letter to the ministers 
+plenipotentiary of these States at Versailles and Madrid, directing them to inform his most Christian and Catholic 
+Majesty of the appointment of <a href="/results.php?tla=jol" rel="colleague">Mr. Laurens</a>, and to solicit the aid of their majesties, respectively, on this occasion. 
+</p><p>
+I am, sir, your friend 
+</p><p>
+And very humble servant, 
+</p><p>
+<a href="/results.php?tla=jal" rel="me">James Lovell</a>. 
+</p>
+</letter>

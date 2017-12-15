@@ -1,0 +1,57 @@
+<letter id="joj4181">
+<recipient first="Jeremiah" last="Evarts" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1813' rel="origin">1813</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received your obliging letter of the 30th ult. The 
+oration which came with it abounds in just sentiments, 
+handsomely expressed. 
+</p><p>
+The copies of the report, which you had the goodness to 
+send, have come to hand. 
+</p><p>
+Many considerations would make it agreeable to me to 
+attend the meeting of the board at <a href='/results.php?city=boston' rel='city'>Boston</a>. I have heretofore found and enjoyed excellent society in that city, and 
+although I should feel the absence of several worthy persons, who have removed to the " city not made with hands," 
+yet others remain whom it would give me pleasure to 
+meet. 
+</p><p>
+Notwithstanding the inducements I have to make frequent 
+visits to New-York, I have not been there for four years 
+past. The state of my health, and the regimen it requires, 
+not permitting me to be far or long from home. 
+</p><p>
+It is certainly desirable that those of our fellow-citizens 
+who are friendly to foreign missions, should contribute to 
+repair the loss of the mission printing-office at Serampore. 
+It appears from a late paper that measures for that purpose 
+were taking at New- York, and there is reason to hope 
+and expect, that the aggregate amount of the collections 
+will be considerable. 
+</p><p>
+The mode of remitting it to India is of some importance. 
+To me it appears advisable that all American missionary 
+measures should, as far as circumstances may admit, be 
+connected with the American Board for Foreign Missions. 
+I therefore think, that the money in question should be 
+remitted to India accordingly. If we were at peace with 
+England, I should prefer having it remitted, by the board, 
+to the missionary society there, and through them to India. 
+Mutual confidence and good-will between societies instituted 
+for the same purpose, and actuated by similar motives of 
+benevolence, should be cultivated. 
+</p><p>
+Having for some days past been less well than usual, I 
+find myself constrained to be more concise than I intended 
+when I began this letter. 
+</p><p>
+With sentiments of esteem and regard, 
+I am, dear sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

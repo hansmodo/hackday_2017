@@ -1,0 +1,26 @@
+<letter id="jhs3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=derryfield' rel='city origin'>Derryfield</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I now acknowledge the receipt of your letter of 
+the 25th ultimo, which was delivered a few days ago. I shall set out for <a href='/results.php?city=saratoga' rel='city'>Saratoga</a> The beginning of 
+next week, and on my passage shall hold a treaty 
+with the Green Mountain Boys. But not having seen, 
+or been acquainted with those turbulent sons of freedom, for several years, I am at a loss to determine 
+my reception; but hope it will be such as shall tend 
+to the general good. I shall endeavour to give you 
+a more particular account on my arrival at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>. 
+</p><p>
+My health is not fully restored, but perhaps competent to my new command. That the operations of 
+the campaign may be such as shall render the American arms glorious in the eyes of the world, and the 
+conclusion produce a peace, honorable and lasting, is 
+the ardent desire of, dear Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter>

@@ -1,0 +1,48 @@
+<letter id="joj4077">
+<recipient first="Benjamin" last="Vaughan" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="11">Nov.</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+A sufficient number of members to form a Congress not 
+having arrived at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, I passed on to this place ten 
+days ago, to visit my friends. I found your family well, 
+and am happy in this opportunity of cultivating their acquaintance. 
+</p><p>
+Your obliging letter of the 5th August lately came to 
+hand. Accept my thanks for it, and for the pamphlets 
+enclosed with it. 
+</p><p>
+The policy of Britain respecting this country is so repugnant to common sense, that I am sometimes tempted to 
+think it must be so ; and the old adage of quos Deus, &c, 
+always occurs to me when I reflect on the subject. 
+</p><p>
+The India business never appeared to me a difficult one. 
+</p><p>
+Do justice, and all is easy. Cease to treat those unhappy 
+nations as slaves, and be content to trade with them as with 
+other independent kingdoms. On such an event, advantageous though fair treaties might be made with them, and 
+you might leave, with their consent, force sufficient in circumscribed limits, to secure the benefit and observance of 
+them. Your tribute, indeed, would be at an end, but it 
+ought not to have had a beginning ; and I wish it may ever 
+prove a curse to those who impose and exact it in any 
+country. 
+</p><p>
+Our affairs are in such a state as, all circumstances considered, might naturally have been expected ; far better 
+than many represent them, though not so well as they 
+ought to be. 
+</p><p>
+Congress is convened at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, and I join them tomorrow. In the course of six or eight weeks a judgment may 
+be formed of their prevailing sentiments and views. 
+</p><p>
+It is certain that we are trading at a wild rate ; and it is 
+no less true that your people are giving most absurd credits 
+to many, who neither have or ought to have any at home. 
+This delirium cannot last. Adieu, my dear sir. 
+</p><p>
+Yours sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

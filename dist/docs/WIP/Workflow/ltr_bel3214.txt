@@ -1,0 +1,44 @@
+<letter id="bel3214">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=bennington' rel='city origin'>Bennington</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The person I sent to <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> is returned. He had 
+an opportunity to confer with him, with Fraser and others, and 
+was suffered to return into the country, under the character of a 
+Recruiting Officer. He informs me that the flying camp is about 
+three miles below Fort Miller, on the east side of the river, and 
+consists of seventeen hundred men ; that the American troops are 
+about half a mile above them, and he supposes there are about 
+fifteen hundred of them. About one mile above, is the German 
+camp ; then the British head-quarters, number unknown. At Fort 
+Edward there are about three hundred men, commanded by a 
+Major; about one hundred and fifty at Fort George; about five 
+hundred at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. By every appearance, the enemy's designs are to move down the river. This is confirmed by every 
+person who comes out. 
+</p><p>
+My informant gives it as his opinion, from the best evidence 
+he could collect, that there are about six thousand European 
+troops on the south of Lake Champlain. I hear, by another per 
+son who left <a href='/results.php?city=fort edward' rel='city'>Fort Edward</a> the 30th ultimo, that the enemy had 
+sent one English regiment, and fifteen or sixteen light field-pies, 
+to Fort Anne ; and that, on the 2d instant, <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> intended to remove his heavy cannon to Stillwater. I hope you 
+will take possession before him, as I know, in that case, you will 
+seriously dispute title with him; and doubt not but you will con 
+vince him that his claim is insupportable. 
+</p><p>
+I have sent to the officers, civil and military, and to a number 
+of private gentlemen in the county of Berkshire, desiring their 
+aid to the Commissary, by furnishing him with teams to forward 
+on the flour here as fast as possible. I have received a quantity 
+of ammunition from <a href='/results.php?tla=wih' rel='colleague'>General Heath</a>; have now a good supply, 
+and have good reason to believe that I shall have a sufficiency 
+of flour. Beef we have in plenty. I have the honor to be, dear General, 
+</p><p>
+With the warmest sentiments of regard and esteem, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

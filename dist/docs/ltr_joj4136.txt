@@ -1,0 +1,25 @@
+<letter id="joj4136">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="12">Dec</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have lately received much intelligence from several quarters. Some allowances are 
+to be made for zeal ; but all my accounts agree in representing the public mind as becoming more and more composed, and that certain virulent publications have caused 
+great and general indignation, even among many who had 
+been misled into intemperate proceedings, and had given 
+too much countenance to factious leaders. The latter, 
+however, persevere with great activity, though with less 
+noise and clamour. These are political evils, which, in all 
+ages, have grown out of such a state of things, as naturally 
+as certain physical combinations produce whirlwinds and 
+meteors. 
+</p><p>
+With perfect respect, esteem, and attachment, 
+I am, my dear sir, 
+Your obliged and affectionate servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

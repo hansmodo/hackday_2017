@@ -1,0 +1,8 @@
+<letter id="smd7979">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], <a rel="month origin" value="6">June</a> <a rel='day origin' value='15'>15th</a>. [<a href='/results.php?year=1865' rel="origin">1865</a>]
+</p><p>
+Our Confederacy has gone with one crash - the report of the pistol fired at  <a href='/results.php?tla=abl' rel=''>Lincoln</a>. 
+</p>
+</letter>

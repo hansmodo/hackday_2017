@@ -1,0 +1,33 @@
+<p>
+Hotel Liverpool, <a href='/results.php?city=paris' rel='city origin'>Paris</a>,<br>
+May 25th, <a href="/results.php?year=1877">'78</a>.
+</p><p>
+MY DEAR MR. CRAMER:
+</p><p>
+I am now for the first time able to fix approximately the time of my
+visit to Copenhagen. We shall leave here on Saturday, three weeks from
+to-day, or on the following Tuesday. We shall stop at The Hague three
+or four days. Jesse leaves for home so as to take the steamer of the
+fourth of June from Liverpool. Our party therefore will consist only of
+Mrs. Grant with her maid and myself. If your arrangements are made to
+be away from Copenhagen at the time mentioned above, I beg that you
+will not change your plans. Should you be there, we shall probably
+remain over about one week. Should you be away, we shall stop only a
+couple of days.
+</p><p>
+I have not heard directly from Elizabeth for some time; it is probably
+my own fault, for Mr. Corbin is very prompt in answering every letter;
+but Bucky writes regularly every week from New York, so I hear
+indirectly. When you write home give my love to all of them at
+Elizabeth.
+</p><p>
+Very truly yours,
+</p>
+U.S. GRANT.
+
+<p>
+P.S. I go from Copenhagen directly to Stockholm. I am not personally
+acquainted with our present Minister there, though I once appointed him
+to a South American Mission.
+</p>
+U.S.G.

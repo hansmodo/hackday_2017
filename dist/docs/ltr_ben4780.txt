@@ -1,0 +1,84 @@
+<letter id="ben4780">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your very judicious letter of November 26th, being communicated by me to some member of Parliament, was handed 
+about among them, so that it was some time before I got it 
+again into my hands. It had due weight with several, and 
+was of considerable use. You will see that I printed it at length in the London Chronicle, with the merchants' letter. 
+When the American affairs came to be debated in the House 
+of Commons, the majority, notwithstanding all the weight of 
+ministerial influence, was only sixty-two for continuing the 
+whole last act; and would not have been so large, nay, I 
+think the repeal would have been carried, but that the ministry 
+were persuaded by Governor Bernard, and some lying letters 
+said to be from <a href='/results.php?city=boston' rel='city'>Boston</a>, that the associations not to import 
+were all breaking to pieces, that America was in the greatest 
+distress for want of the goods, that we could not possibly 
+subsist any longer without them, and must of course submit 
+to any terms Parliament should think fit to impose upon us. 
+This, with the idle notion of the dignity and sovereignty of 
+Parliament, which they are so fond of, and imagine will be 
+endangered by any further concessions, prevailed, I know, 
+with many, to vote with the ministry, who, otherwise, on 
+account of the commerce, wish to see the difference accommodated. 
+</p><p>
+But, though both the Duke of Grafton and Lord North 
+were and are, in my opinion, rather inclined to satisfy us, 
+yet the Bedford party are so violent against us, and so prevalent in the council, that more moderate measures could 
+not take place. This party never speak of us but with evident 
+malice; "rebels" and "traitors" are the best names they 
+can afford us, and I believe they only wish for a colorable 
+pretence and occasion of ordering the soldiers to make a 
+massacre among us. 
+</p><p>
+On the other hand, the Rockingham and Shelburne people, 
+with Lord Chatham's friends, are disposed to favour us if 
+they were again in power, which at present they are not like 
+to be; though they, too, would be for keeping up the claim 
+</p><p>
+of Parliamentary sovereignty, but without exercising it in 
+any mode of taxation. Besides these, we have for sincere 
+friends and well-wishers the body of Dissenters generally 
+throughout England, with many others, not to mention 
+Ireland and all the rest of Europe, who, from various motives, 
+join in applauding the spirit of liberty, with which we have 
+claimed and insisted on our privileges, and wish us success, 
+but whose suffrage cannot have much weight in our affairs. 
+The merchants here were at length prevailed on to present 
+a petition, but they moved slowly, and some of them, I thought, 
+reluctantly; perhaps from a despair of success, the city not 
+being much in favour with the court at present. The manufacturing towns absolutely refused to move at all ; some pretending to be offended with our attempting to manufacture 
+for ourselves; others saying, that they had employment 
+enough, and that our trade was of little importance to them, 
+whether we continued or refused it. Those, who began a 
+little to feel the effects of our forbearing to purchase, were 
+persuaded to be quiet by the ministerial people, who gave 
+out, that certain advices were received of our beginning to 
+break our agreements; of our attempts to manufacture 
+proving all abortive and ruining the undertakers; of our 
+distress for want of goods, and dissensions among ourselves, 
+which promised the total defeat of all such kind of combinations, and the prevention of them for the future, if the government were not urged imprudently to repeal the duties. But 
+now that it appears from late and authentic accounts, that 
+agreements continue in full force, that a ship is actually returned from <a href='/results.php?city=boston' rel='city'>Boston</a> to Bristol with nails and glass (articles 
+that were thought of the utmost necessity), and that the 
+ships, which were waiting here for the determination of 
+Parliament, are actually returning to North America in their 
+ballast, the tone of the manufacturers begins to change, and 
+there is no doubt, that, if we are steady, and persevere in our 
+resolutions, these people will soon begin a clamour, that much 
+pains has hitherto been used to stifle. 
+</p><p>
+In short, it appears to me, that if we do not now persist 
+in this measure till it has had its full effect, it can never again 
+be used on any future occasion with the least prospect of 
+success, and that, if we do persist another year, we shall 
+never afterwards have occasion to use it. With sincere 
+regards, I am, dear Sir, your obedient servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

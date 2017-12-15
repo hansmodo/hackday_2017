@@ -1,0 +1,22 @@
+<letter id="rfs8024">
+<recipient first="William" last="Mervine" type="individual"/>
+</p><p>
+UNITED STATES FRIGATE CONGRESS, 
+BAY OF <a href='/results.php?city=monterey' rel='city origin'>MONTEREY</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+SIR: I have sent <a href='/results.php?tla=jhf' rel='colleague'>Major Fremont</a> to the North to see how many men he could recruit, with a view to embark them for Mazatlan or Acapulco, where, if possible, I intend to land and fight our way as far on to the city of Mexico as I can. 
+</p><p>
+With this object in view, your orders of this date, in relation to having the squadron in such places as may enable me to get them 
+together as soon as possible, are given. 
+</p><p>
+You will, on your arrival on the coast, get all the information you can in reference to this matter. I would that we might shake hands with <a href='/results.php?tla=zat' rel='colleague'>General Taylor</a> at the gates of Mexico. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, c. 
+</p><p>
+To CAPTAIN WILLIAM MERVINE, 
+</p><p>
+United /States Frigate Savannah 
+</p><p>
+</letter>

@@ -1,0 +1,34 @@
+<letter id="gwa4461">
+<recipient first="Jean Baptiste" last="de Vimeur" type="individual"/>
+<p>
+TO COUNT DE ROCHAMBEAU. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I assure your Excellency, that I feel extreme pain at the occasion of that part of your letter of the 26th 
+instant, which relates to an intercepted letter of mine published by the enemy. I am unhappy that an accident should have put it in their power to give to the 
+world any thing from me, which may contain an implication the least disagreeable to you, or to the Chevalier Destouches. I assume you sincerely, that I have no 
+copy of the original letter in my possession, so that I am unable by a comparison to determine how far the 
+publication may be just. The enemy have fabricated whole letters for me, and even a series of letters ; and 
+it is not improbable that they may have given a different turn to some of my expressions in the present instance. 
+It would however be disingenuous in me not to acknowledge, that I believe the general import to be true. The copy, however, which your Excellency has sent to 
+me, differs in some respects from that which the enemy have publish'd, as you will perceive by the enclosed 
+Gazette. Whatever construction it may bear, I beg your Excellency will consider the letter as private to 
+a friend, a gentleman who has the direction of my affairs at home, totally unconnected with public affairs, 
+and on whose discretion I could absolutely rely. No idea of the same kind has ever gone to any public body. 
+</p><p>
+When I say, that I believe the general import of the publication to be true, I mean it in this sense, that there did appear to me a degree of delay in executing the 
+enterprise suggested by me, of the causes of which I was not well apprized, and an idea of this kind was 
+probably expressed in my letter to Mr. Washington. As to the apparent insinuation, that the first expedition 
+had been preferred to the one proposed by me, I could not have intended to convey it, in its fullest latitude, because it would have been unjust. I could not but 
+have recollected, that my formal proposal did not reach you till after the departure of the first squadron, though the suggestion of it was previous. My letter however 
+was written in haste, and might have been inaccurately expressed. I have lately learnt, though not officially, that the cause of the delay I have alluded to was a 
+want of supplies for the fleet. Impressed with a real esteem for and confidence in the Chevalier Destouches, I have heard this circumstance with satisfaction. 
+</p><p>
+With this explanation, I leave the matter to his candor and to yours, and flatter myself it will make no impressions inconsistent with an entire persuasion of 
+my sincere esteem and attachment. I have the honor 
+to be, with perfect respect, &,c. 
+</p>
+</letter>

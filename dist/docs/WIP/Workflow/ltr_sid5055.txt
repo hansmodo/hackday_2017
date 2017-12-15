@@ -1,0 +1,62 @@
+<letter id="sid5055">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I did myself the honor of writing to your Excellency the 22d of February last, in which I mentioned the distressed situation into which my affairs were brought, by my being 
+detained in this city, and in which I earnestly requested to know of Congress whether they had any further commands for me, and in what manner my past transactions, as their 
+agent and commissioner, were to be adjusted and closed. You were pleased to inform me verbally, that my letter was referred to the committee, who were ordered to report 
+immediately. I have since been informed that they have reported, but that the report has not been considered by Congress, nor any resolutions passed thereon. This forces 
+me again to apply to Congress, and to lay before that honorable body in part my situation. I have been near four 
+years absent from my family and private affairs, which have suffered exceedingly thereby ; more than three years of the time, I have been in the actual service of Congress. 
+</p><p>
+The settlement of the commissioners' accounts and my own, will show to demonstration, that I have received nothing therefor, except money for my necessary expenses. 
+When the orders of Congress, and the service of these Stales required my immediate return, I took with me one hundred and eighty loiiis d'ors or guineas only, to defray 
+my expenses and those of four Americans and a servant to America. Two of the Americans were captains in the navy of the United States, and had escaped from prison in 
+England ; of the other two, one had been taken in a private ship of war, which he commanded, and had also escaped 
+from prison ; the other was a captain in the merchant service. Our journey to Toulon, which is near six hundred 
+miles, was expensive, and was defrayed by me ; our passage from Toulon to America was at the expense of His Most 
+Christian Majesty. I took those American captains with me by the advice and at the desire of the ministers of France, 
+and of <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a>, these captains being well acquainted with the American coast. I have been for more than eight months past in this city, and at an expense to which my 
+private fortune is by no means adequate, though I have regulated my expenses by the strictest economy my situation 
+could admit of. I will not trouble Congress with mentioning what has past since my return. The loss of my private 
+property is of no consideration with me, if my country is in any way essentially served thereby ; but whilst Congress 
+defer coming to any resolution respecting my private services as their agent and commissioner, what is dearer to me 
+than life or fortune, my character, is attacked and liable to suffer, from the groundless and base insinuations of some, 
+and from the open calumnies of others. I cannot but think it an act of justice due not only to n,e as an individual, but 
+to Congress and the public in general, that my conduct be either approved of or censured ; I have most surely merited one or the other, from the important part I have acted, 
+and the manner in which I have transacted it. I had the 
+honor of bringing with me testimonials, not only from my late venerable colleague, but from bis Most Christian Majesty and bis ministers, in favor of my conduct whilst in 
+France ; they have been long since laid before Congress, and I cannot but conceive, that if I have merited the calumnies which have for some months past been publicly thrown 
+out against me, and industriously spread through these States, justice to those great personages, who condescended 
+to interest themselves so warmly in my favor, requires that my demerits should be publicly known and made to appear, 
+that they may no longer be deceived, or in a state of uncertainty, respecting my real character and merits. 
+</p><p>
+A writer, who has been busily employed for three months 
+past in inventing and publishing the most scandalous falsehoods, in order to injure me in the opinion of my countrymen, has produced in Dunlap's paper of the 27th inst two 
+charges against me, the one for "negotiating an intended present into a loan,"" or, in other words, of defrauding my honorable constituents of a large sum of money ; the other 
+of intercepting and destroying the public despatches in order to cover the fraud. This writer has not long since been in the employ of Congress as a secretary or clerk, of 
+which circumstance he avails himself to give force to his calumnies, and has had the confidence to appeal to Congress for the truth of his assertions, though he knew at the 
+time that Congress had unanimously contradicted the first, and that the latter was but the creature of bis own forming. From the moment that I was ordered by Congress to lay 
+before them in writing, a narration of my public transactions, I have considered myself as being before that tribunal and no other, and under their immediate protection, 
+and consequently not at liberty to take that notice of the publications of this writer, or of his prompters, which, as an individual, other ways circumstanced, I should have took 
+long since. This consideration, and the full reliance I have ever placed on the justice of Congress, have prevented my making any reply to the many base and false insinuations 
+thrown out by this writer, and others, against me, and I have been encouraged to wait with patience for the decision of Congress, by repeated promises, that a speedy issue 
+should be made of those affairs. 
+</p><p>
+I now submit it to that honorable body, whether, if my patience is exhausted, I ought to be deemed culpable ; and 
+have further to entreat, that if Congress, or any of its members, entertain any apprehensions, that I am guilty of the 
+two charges brought against me, (to which I have referred) or on any other account whatever, that I may be heard 
+before Congress, and I submit it to their wisdom to determine how public the inquiry shall be, assuring them, that 
+the more public the scrutiny shall be into every part of my conduct, the more agreeable it will be to me. I have 
+only to entreat further, that a decisive answer may be given to me on the above requests, and that you will be assured of my unalterable respect and attachment. 
+</p><p>
+I have the honor to be, &.c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

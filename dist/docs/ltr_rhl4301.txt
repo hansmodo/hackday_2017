@@ -1,0 +1,63 @@
+<letter id="rhl4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have long had a letter prepared for you in answer to your last favor, which I have kept for the 
+Honorable Mr. Sitgreaves to be the bearer of, as he 
+proposed to visit you on his return to North Carolina; and the more especially as his stay has been 
+occasioned by the necessity of seeing the very important ordinance passed for selling the western 
+lands, which I wished you to have in its perfected 
+state. The principal design of this letter is to introduce to you Mr. Graham and his lady, the justly 
+celebrated <a href='/results.php?tla=cam' rel=''>Mrs. Macaulay Graham</a>, whose reputation in 
+the learned world, and among the friends to the rights 
+of human nature, is very high indeed. Her merit 
+as an historian is very great, and places her as an 
+author in the foremost rank of writers. I am well 
+pleased to find that she, as well as all other judicious 
+foreigners, think themselves, when in America, however distant from <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, obliged to pay their 
+respects to you. I believe that this has been her 
+only motive for going so far south as Virginia. 
+</p><p>
+We are amused here with an account, that does 
+not indeed come officially to us, hut however in such 
+a way as to merit attention. It is a plan of the 
+Emperor of Germany, which seems calculated to quiet 
+his quarrel with Holland, although, perhaps, it may 
+not prevent a war in Europe. He is said to have 
+made a treaty with the Elector of Bavaria, by which 
+he exchanges his Netherland dominions for those of 
+Bavaria, and transfers, with the exchange, all his 
+rights and claims upon Holland ; reserving Namur 
+and Luxemburg, with a district of country around, 
+as a douceur to France, for obtaining the consent of 
+that Court to the exchange. The Bavarian dominions 
+being much more contiguous to the Austrian than 
+those of the Netherlands, must greatly increase the 
+Emperor's power by a concentration of his force, 
+heretofore so much divided as to render the Netherlands of no great aid in case of war. This, however, 
+by increasing the Austrian power, must, of course, 
+excite greatly the jealousy of Prussia in particular, 
+whose King will probably risk a war rather than see 
+his rival thus strengthened. Holland, in the mean 
+time, will be relieved, by injurious claims being transferred from a strong to a w^eak hand, and the Emperor may find himself brought to a more equal contest by combating one, instead of three powers lately 
+combined against him. What may be the issue of 
+this new system, time must develop. 
+</p><p>
+I wish that I may be enabled by Mr. Sitgreaves 
+to furnish you with the final sense of Congress upon 
+the momentous business of selling the western lands, 
+in doing which the first and greatest object seems to 
+be the discharging effectually the great weight of 
+debt, that the war has created, and which obstructs 
+so effectually every arrangement for future security. 
+</p><p>
+I have the honor to be, with sentiments of the sincerest respect and esteem, dear Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.
+</p>
+</letter>

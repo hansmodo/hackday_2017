@@ -1,0 +1,12 @@
+<letter id="mbc7685">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Mrs. Ives wants us to translate a French 
+play. A genuine French captain came in from his ship on the James River and gave us good advice as to how to make 
+the selection. General Hampton sent another basket of partridges, and all goes merry as a marriage bell. 
+</p><p>
+My husband came in and nearly killed us. He brought this piece of news: " North Carolina wants to offer terms 
+of peace ! ! We needed only a break of that kind to finish us. I really shivered nervously, as one does when the first 
+handful of earth comes rattling down on the coffin in the grave of one we cared for more than all who are left. 
+</p>
+</letter>

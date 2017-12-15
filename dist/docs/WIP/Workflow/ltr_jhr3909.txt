@@ -1,0 +1,33 @@
+<letter id="jhr3909">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+SIR: 
+</p><p>
+I desire that you will immediately cause the contents of this letter 
+and the enclosed Proclamation to be circulated, and generally made 
+known throughout the district of your regiment, in order that delinquents and offenders may be made known of the consequences which will 
+ensue from a neglect or refusal of their duty to the State. You are to 
+order one-half of your regiment immediately to this town, and transmit 
+to me as soon as possible a list of those who are, or may be drafted 
+or ordered to march, to the end that it may be known who are defaulters to be effected by the Proclamation, which they may be assured will 
+be carried into execution. People may be satisfied that the small pox is 
+not in town, but if it was, I should not admit the circumstance as an 
+excuse for the militia not coming down when ordered ; if they will not 
+come, they must abide the present as well as future consequences. I 
+repeat in the most positive and peremptory terms, that I must have one-half of your regiment here, with the utmost expedition; that part of the 
+regiment which remains in the district are to do patrol duty, for keeping 
+the negroes in order, and be employed in suppressing any insurrections 
+of the disaffected and in apprehending and securing persons who go 
+about (as I am informed many do) making it their business to propagate 
+false news, spread groundless reports, and sow discontent among the 
+people; such persons are to be safely conveyed to me, with the witnesses 
+against them. I shall expect the utmost exertions of yourself, and the 
+officers under you, to carry every part of these orders strictly and speedily into execution. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter>

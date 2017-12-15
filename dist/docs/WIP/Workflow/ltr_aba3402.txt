@@ -1,0 +1,106 @@
+<letter id="aba3402">
+<recipient first="Lucy" last="Cranch" type="individual"/><p>
+<a href='/results.php?city=auteuil' rel='city origin'>Auteuil</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1784" rel="origin">1784</a>. 
+</p><p>
+MY DEAR LUCY, 
+</p><p>
+I promised to write to you from the Hague, but 
+your uncle's unexpected arrival at <a href='/results.php?city=london' rel='city'>London</a> prevented 
+me. Your uncle purchased an excellent travelling 
+coach in <a href='/results.php?city=london' rel='city'>London</a>, and hired a post-chaise for our 
+servants. In this manner we travelled from <a href='/results.php?city=london' rel='city'>London</a> 
+to Dover, accommodated through England with the 
+best of horses, postilions, and good carriages ; 
+clean, neat apartments, genteel entertainment, and 
+prompt attendance. But no sooner do you cross 
+from Dover to Calais, than every thing is reversed, 
+and yet the distance is very small between them. 
+</p><p>
+The cultivation is by no means equal to that of 
+England ; the villages look poor and mean, the 
+houses all thatched, and rarely a glass window in 
+them ; their horses, instead of being handsomely 
+harnessed, as those in England are, have the appearance of so many old cart-horses. Along you 
+go, with seven horses tied up with ropes and chains, 
+rattling like trucks ; two ragged postilions, mounted, with enormous jack-boots, add to the comic 
+scene. And this is the style in which a duke or a 
+count travels through this kingdom. You inquire of 
+me how I like Paris. Why, they tell me I am no 
+judge, for that I have not seen it yet. One thing, 
+I know, and that is that I have smelt it. If I was 
+agreeably disappointed in <a href='/results.php?city=london' rel='city'>London</a>, I am as much 
+disappointed in Paris. It is the very dirtiest place 
+1 ever saw. There are some buildings and some 
+squares, which are tolerable ; but in general the 
+streets are narrow, the shops, the houses, inelegant 
+and dirty, the streets full of lumber and stone, with 
+which they build. <a href='/results.php?city=boston' rel='city'>Boston</a> cannot boast so elegant 
+public buildings ; but, in every other respect, it is as 
+much superior in ray eyes to Paris, as <a href='/results.php?city=london' rel='city'>London</a> is to 
+<a href='/results.php?city=boston' rel='city'>Boston</a>. To have had Paris tolerable to me, I should 
+not have gone to <a href='/results.php?city=london' rel='city'>London</a>. As to the people here, 
+they are more given to hospitality than in England, 
+it is said. I have been in company with but one 
+French ladv since I arrived ; for strangers here 
+make the first visit, and nobody will know you until 
+you have waited upon them in form. 
+</p><p>
+This lady l I dined with at <a href='/results.php?tla=ben' rel='met acquaintance'>Dr. Franklin</a>'s. She 
+entered the room with a careless, jaunty air ; upon 
+seeing ladies who were strangers to her, she bawled 
+out, " Ah ! mon Dieu, where is Franklin ? Why 
+did you not tell me there were ladies here ? " You 
+must suppose her speaking all this in French. 
+" How I look ! " said she, taking hold of a chemise 
+made of tiffany, which she had on over a blue lutestring, and which looked as much upon the decay 
+as her beauty, for she was once a handsome woman ; 
+her hair was frizzled ; over it she had a small 
+straw hat, with a dirty gauze half-handkerchief 
+round it, and a bit of dirtier gauze, than ever my 
+maids wore, was bowed on behind. She had a black 
+gauze scarf thrown over her shoulders. She ran 
+out of the room ; when she returned, the Doctor 
+entered at one door, she at the other ; upon which 
+she ran forward to him, caught him by the hand, 
+" Helas ! Franklin ; " then gave him a double kiss, 
+one upon each cheek, and another upon his forehead. When we went into the room to dine, she 
+was placed between' the Doctor and <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>. 
+She carried on the chief of the conversation at 
+dinner, frequently locking her hand into the Doctor's, and sometimes spreading her arms upon the 
+backs of both the gentlemen's chairs, then throwing 
+her arm carelessly upon the Doctor's neck. 
+</p><p>
+I should have been greatly astonished at this 
+conduct, if the good Doctor had not told me that in 
+this lady I should see a genuine Frenchwoman, 
+wholly free from affectation or stiffness of behaviour, 
+and one of the best women in the world. For this 
+I ' must take the Doctor's word ; but I should have 
+set her down for a very bad one, although sixty 
+years of age, and a widow. I own I was highly 
+disgusted, and never wish for an acquaintance with 
+any ladies of this cast. After dinner she threw 
+herself upon a settee, where she showed more than 
+her feet. She had a little lap-dog, who was, next 
+to the Doctor, her favorite. This she kissed, and 
+when he wet the floor she wiped it up with her 
+chemise. This is one of the Doctor's most intimate 
+friends, with whom he dines once every week, and 
+she with him. She is rich, and is my near neighbour ; but I have not yet visited her. Thus you 
+see, my dear, that manners differ exceedingly in 
+different countries. I hope, however, to find amongst 
+the French ladies manners more consistent with my 
+ideas of decency, or I shall be a mere recluse. 
+</p><p>
+You must write to me, and let me know all about 
+you ; marriages, births, and preferments ; every 
+thing you can think of. Give my respects to the 
+Germantown family. I shall begin to get letters 
+for them by the next vessel. 
+Good night. Believe me 
+</p><p>
+Your most affectionate aunt, 
+</p><p>
+A. A. 
+</p>
+</letter>

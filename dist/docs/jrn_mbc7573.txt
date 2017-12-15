@@ -1,0 +1,25 @@
+<letter id="mbc7573">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='9'>9th</a> [<a href='/results.php?city=fauquier white sulphur springs' rel='city origin'>Fauquier White Sulphur Springs</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Our battle summer. May it be our first and our last, so called. After all we have not had any of the 
+horrors of war. Could there have been a gayer, or pleasanter, life than we led in Charleston. And Montgomery, 
+how exciting it all was there! So many clever men and 
+women congregated from every part of the South. Mosquitoes, and a want of neatness, and a want of good things 
+to eat, drove us away. In Richmond the girls say it is perfectly delightful. We found it so, too, but the bickering 
+and quarreling have begun there. 
+</p><p>
+At table to-day we heard <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> ladies described. They were said to wear red frocks and flats on their heads. 
+We sat mute as mice. One woman said she found the drawing-room of the Spotswood was warm, stuffy, and 
+stifling. Poor soul, murmured the inevitable Brewster, " and no man came to air her in the moonlight stroll, you 
+know. Why didn't somebody ask her out on the piazza to see the comet? : Heavens above, what philandering was 
+done in the name of the comet ! When you stumbled on a, couple on the piazza they lifted their eyes, and " comet " 
+was the only word you heard. Brewster came back with a paper from Washington with terrific threats of what 
+they will do to us. Threatened men live long. 
+</p><p>
+There was a soft, sweet, low, and slow young lady opposite to us. She seemed so gentle and refined, and so uncertain of everything. Mr. Brewster called her Miss Albina McClush, who always asked her maid when a new book was 
+mentioned, " Seraphina, have I perused that volume? " 
+</p><p>
+Mary Hammy, having a fiance in the wars, is inclined at times to be sad and tearful. Mrs. Preston quoted her 
+negro nurse to her: " Never take any more trouble in your heart than you can kick off at the end of your toes." 
+</p>
+</letter>

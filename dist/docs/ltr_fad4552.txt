@@ -1,0 +1,31 @@
+<letter id="fad4552">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>, 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter, which you did me the honor to 
+write to me on the 8th instant, as also the papers accompanying it. 
+</p><p>
+I shall give the Council an account of the punishable (punissable) conduct of their agent in the United States, and I 
+can assure you, beforehand, that they will regard the strange 
+abuse of their confidence by this agent, as I do, with the liveliest indignation. The President of the United States has 
+done justice to our sentiments, in attributing the deviations of 
+the citizen Genet to causes entirely foreign from his instructions ; and we hope that the measures, which are to be taken, 
+will more and more convince the head and the members of 
+your government, that so far from having authorised the proceedings and criminal manoeuvres (les demarches et les man&ucrlminelles) of citizen Genet, our only aim has been 
+to maintain between the two nations the most perfect harmony. 
+</p><p>
+I shall avail myself, Sir, of the medium of the packet boat, 
+which brought to you the despatches of <a href='/results.php?tla=thj' rel=''>Mr Jefferson</a>, and I 
+pray you to give me notice of the day which you have fixed 
+for its departure. 
+</p><p>
+I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=fad" rel="me">DEFORGUES</a>. 
+</p>
+</letter>

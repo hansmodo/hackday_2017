@@ -1,0 +1,109 @@
+<letter id="laf4310">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+Although I cannot omit an opportunity of writing 
+to you, my letter will not be so long and minute as 
+I should like to make it, because of the constant 
+hurry of business occasioned by the Assembly. Every clay, Sundays excepted, is taken up with General meetings. Committees, and smaller Boards, It is a 
+pretty extraordinary sight at Versailles; the more so, 
+as a great deal of patriotism and firmness have been 
+displayed. 
+</p><p>
+From the time of this King's arrival to the throne, 
+the expenses of the treasury have been increased 
+about two hundred French millions a year ; but it 
+went at such a rate under M. de Calonne, that, having got a monstrous deficiency, and knowing not how 
+to fill it up, he persuaded the King to assemble notable persons of each order, to please them with a 
+plan of Assemblies in each Province, which was much 
+desired, and to get their approbation for new taxes, 
+with which he durst not, by himself, saddle the 
+nation. 
+</p><p>
+The Assembly was very properly chosen, both for honesty, abilities, and personal consequence. But M. de Calonne much depended on his own powers of 
+speaking and intriguing, as well as on the King's blind confidence in him and all his plans. We were not the representatives of the nation ; but have been 
+supported by their partiality to us. 
+</p><p>
+Calonne's plan of Provincial Assemblies has been 
+amended by us. His plan of a tax has been rejected. 
+It has been the case with several other projects. 
+Some others were altered for the better, and sometimes new ones substituted ; and we declared that, 
+although we had no right to impede, it was our right 
+not to advise, unless we thought the measure were 
+proper, and that we could not think of new taxes 
+unless we knew the returns of expenditure and the 
+plans of economy. The more we entered into the 
+business, the less possible it was for the Ministry to 
+do without us. To the Assembly the public looked 
+up ; and, had the Assembly been dismissed, the credit was gone. As we were going to separate for the 
+Easter days, I made a motion to inquire into bargains, by which, under pretence of exchange, millions 
+had been lavished upon Princes and favorites. The 
+Bishop of Langres seconded my motion. It was 
+thought proper to intimidate us; and the King's brother told, in his Majesty's name, that such motions 
+ought to be signed, upon which I signed the inclosed. 
+</p><p>
+M. de Calonne went up to the King, to ask I 
+should be confined to the Bastille. An oratory battle was announced between us for the next meeting ; 
+and I was getting the proofs of what I had advanced, 
+when Calonne was overthrown from his post; and so 
+our dispute ended, except that the King and family, 
+and the great men about Court, some friends excepted, 
+do not forgive me for the liberties I have taken, and 
+the success it had among the other classes of the 
+people. 
+</p><p>
+M. de Calonne's successor was M. de Fourqueux, 
+an old man, who lasted but a fortnight ; and now we 
+have got the Archbishop of Toulouse at the head of 
+affairs, a man of the most upright honesty and shining abilities. M. de Villedeuil, a clever man, will act 
+under him; and we may consider the Archbishop as 
+a Prime IMinister. 
+</p><p>
+We are going to have good Houses of Representatives in each Province ; not to vote the taxes, but 
+to divide them. We have got the King to make reductions and improvements to the amount of forty 
+millions of livres a year. We are proposing the 
+means to insure a better and more public method of 
+administration ; but shall be obliged, in the end, to 
+make loans and lay taxes. The Assembly have acted 
+with firmness and patriotism. The walls of Versailles 
+had never heard so many good things; and our meeting, particularly in the alarming situation of affairs, 
+when the Kingdom was driving away, like Phaeton's 
+car, will have proved very beneficial. 
+</p><p>
+I have been much hurt to hear that the unpaid 
+interest of the American debt was considered as a 
+very uncertain revenue. I said every thing that was 
+proper on this subject ; but could not prevent that 
+being considered as a fact, which, hitherto, has proved 
+but too true. Full justice has been done to the 
+security of the capital ; but the punctuality of the 
+interest has been animadverted upon. M. de Calonne's 
+letter has met with some diflficulties from the farmers, which are going to be settled, so that the merchants need not be uneasy. The cloud that was 
+gathering on the Turks and Russians is, for the moment, clearing up. 
+</p><p>
+My health has been deranged during the Assembly, so far as to endanger a little my breast ; but a 
+good regimen, and a little patience, without interrupting public business, have got me in a very fair 
+way. Inclosed is a copy of my signed motion, which 
+I find in a newspaper. I would have translated it ; 
+but you will very easily have it done. When the 
+opinions of the several Committees shall be printed, 
+I will send them to America. 
+</p><p>
+My most affectionate respects, and those of Madame de Lafayette and family, wait on Mrs. Washington and you, my dear General. Remember me to 
+the whole family and all friends. Most respectfully 
+and tenderly I have the honor to be, my beloved 
+General, 
+</p><p>
+Your most devoted and grateful friend, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p><p>
+P. S. M. St. John de Crevecoeur, the French Consul at <a href='/results.php?city=new york' rel='city'>New York</a>, has requested my recommendation 
+for some information he wishes to have. I assured 
+him you would have no objections. Tarleton has printed a journal of the campaigns he has made, wherein 
+he treats Lord Cornwallis ver}'- severely. 
+</p>
+</letter>

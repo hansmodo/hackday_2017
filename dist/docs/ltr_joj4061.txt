@@ -1,0 +1,71 @@
+<letter id="joj4061">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='20'>20th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+By Capt. Barney I was favoured with yours of the 31st 
+May. By this time T hope you will have received several 
+letters from me, which were then on the way. Want of 
+health has long made much writing painful to me, so that 
+my letters in general are short. 
+</p><p>
+My jaunt to Normandy did me some service, but less 
+than I expected. The pare air of this place has been useful to me. The pain in my breast has abated, and I have 
+had no fever since 1 came here, which was about six weeks ago. 
+</p><p>
+<a href='/results.php?tla=gom' rel='colleague friend met'>Gouverneur</a> is happy in your esteem; it adds to mine 
+for him. I have Ions been attached to him, and sincerely 
+wish that our friendship, instead of being diminished, may 
+continue to erain strength with time. 
+</p><p>
+Your intended resignation alarmed me, and would have 
+been followed with ill consequences to our affairs. I rejoice 
+that you continue in office, and by no means regret that it 
+will be less in your power than inclination to retire soon. 
+I am well aware of the difficulties you will continue to experience. Everyman so circumstanced must expect them. 
+Your office is neither an easy nor a pleasant one to execute, 
+but it is elevated and important, and therefore envy, with 
+her inseparable companion injustice, will not cease to plague 
+you. Remember, however, that triumphs do not precede 
+victory, and that victory is seldom found in the smooth 
+paths of peace and tranquillity. Your enemies would be 
+happy to drive you to resign, and in my opinion both your 
+interest and that of your country oppose your gratifying 
+them. You have health, fortune, talents, and fortitude, and 
+you have children too. Each of these circumstances recommend perseverance. 
+</p><p>
+As to money this court will afford you no further supplies. The minister has said, it was easy to be a financier 
+and draw bills, when others provided the funds to pay them, 
+At another time, he intimated that his court was not treated 
+with a proper degree of delicacy on thai subject, and said, 
+"that you treated them as your cashiers." A French 
+officer from America, who is a friend ofyours, told me that 
+La Luzerne and Marbois were not pleased with the manner of your applications to them about money matters. I 
+mention these facts, because it may be useful for you to 
+know them. 
+</p><p>
+The loan in Holland goes on, and from that quarter your 
+bills must lie saved, if at all. <a href='/results.php?tla=jod' rel='colleague met friend'>Mr. Adams</a> sot out for Amsterdam the day before yesterday, and will push on that 
+business. If the Dutch began to draw benefit from our 
+trade, they would lend more cheerfully. 
+</p><p>
+The British ministry have not yet authorized Mr. Hartley 
+to consent to any thing as to commerce. They amuse him 
+and us, and deceive themselves. I told him yesterday that 
+they would find us like a globe ; not to be overset. They 
+wish to be the only carriers between their islands and other 
+countries; and though they are apprized of our right to 
+regulate our trade as we please, yet I suspect they flatter 
+themselves that the different States possess too little of a 
+national or continental spirit, ever to agree in any one 
+national system. I think they will find themselves mistaken. 
+</p><p>
+Believe me to be, dear sir, 
+</p><p>
+Your affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

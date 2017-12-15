@@ -1,0 +1,38 @@
+<letter id="frm3915">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephens' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 17th ult. came to hand. The men lately came out 
+from the enemy for six months duty. You must endeavor to seize Mrs. M's boat and negroes, and make prize of them, agreeable to the Governor's proclamation; a few men may do it easily. She has no 
+pass from the Governor, <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, or myself, nor no other person; 
+they wish a stop put to it. I have taken steps with Mrs. T . In respect to the regulation of trade, we must submit to superior power. 
+I believe that scoundrel you mention has misrepresented to the Governor, I do not know any letters of yours I have not answered. Mr. Dillon, or any other Continental commissary, have nothing to do with 
+the hides or tallow of the militia forces. Mr. Samuel Dwight is appointed by <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> commissary of issues, for the port of George 
+town, in the Continental line; White must act as commissary of purchases. I am sorry to see so few horses of your regiment to be had, 
+out of so great a number. The officers must give a particular account 
+how they are gone, or it can never be settled. Saunders is resigned. 
+You certainly have a right to make what regulation you think proper in your corps. I shall march from here on Sunday for . The 
+news is, that the Parliament have unanimously resolved that whoever 
+advises the King to continue the war in America, shall be deemed a 
+traitor and enemy to the country, and have petitioned him to discontinue the American war. His answer is, that he shall comply with the 
+wishes of his Parliament. All the offensive ministers are put out, and 
+Lord Rockingham is at the head of the administration, and it is expected 
+peace will soon be concluded. The letter sent by <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a> to Gen. 
+Greene proposes cessation of hostilities ; it is said this has taken place 
+at the -Northward. It is believed that Count de Grasse and six ships of 
+war were taken in the West Indies in the late fight; but the French 
+and Spaniards have yet got the superiority of those seas. Please send 
+the letters to Murrell, Allston and Long. It is necessary their companies should all be with you, to prevent the enemy from taking advantage when the troops are distant. I think there is little danger of the 
+enemy attempting your post at this time. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+P. S. Postell's men I shall take with me. Warden, Murrell and 
+Long, will send you half of their companies. 
+</p>
+</letter>

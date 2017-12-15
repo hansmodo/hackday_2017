@@ -1,0 +1,18 @@
+<letter id="usg7060">
+<recipient first="Henry" last="Halleck" type="individual"/>
+<p>
+</p><p>
+<a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a>, TENN., <a rel='month origin' value='2'>February</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1864' rel="origin">1864</a>. 
+</p><p>
+MAJOR-GENERAL H. W. HALLECK, 
+</p><p>
+General-in-Chief: 
+</p><p>
+Despatches just received from <a href='/results.php?tla=jms' rel='co-worker'>General Schofield</a> and conversation with General Foster, who is now here, have determined me 
+against moving immediately against <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a>. I will write more fully. No danger whatever to be apprehended in East Tennessee. 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General. 
+</p>
+</letter>

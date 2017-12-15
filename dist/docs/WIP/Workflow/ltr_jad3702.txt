@@ -1,0 +1,47 @@
+<letter id="jad3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='9'>9</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+I need not tell you, my dear General, what I felt 
+on the critical arrival of Count de Grasse's squadron. 
+Accept my warmest congratulations. The most decisive advantages may reasonably be expected from 
+this generous and formidable cooperation. But I will not anticipate. The Financier has relieved my solicitude for the <a href='/results.php?city=new york' rel='city'>New York</a> line. A month's pay, however inadequate to their claims, will raise their spirits ; at least, appease their discontent. 
+</p><p>
+I have this moment despatches from the northward, particularly from <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>. The Indians have, within a few days, revisited Cobus Kill 
+and Schoharie, burned several houses, and captivated 
+some of the inhabitants ; and there is reason to be 
+apprehensive that they will destroy the grain, which 
+is doubtless their principal object, in this incursion. 
+<a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> mentions that there are not less 
+than eighty or ninety thousand bushels of wheat at 
+Schoharie alone, which he has in vain essayed to 
+bring away. 
+</p><p>
+Since your Excellency's departure, we have thrown 
+the solitary remnant of our Marine into the management of our Financier. It will save a capital expense, 
+as the Admiralty, Navy Boards, and their subordinate 
+offices, are dissolved. When the number of our ships 
+and the circumstances of our Treasury justify it, the 
+appointment of the Minister of the Marine will be 
+seasonable. The Board of the Treasury, and its dependents, will, in a few days, undergo a similar reform. I expect those measures will prove a fruitful 
+source of invective against those who have introduced and pressed them ; and I am content to take 
+my share. 
+</p><p>
+I have the pleasure to transmit this letter by Lieutenant-<a href='/results.php?tla=jol' rel='colleage met'>Colonel Laurens</a>. In the execution of his 
+late mission, he has acquired great honor and given entire satisfaction. From having his report under 
+consideration, as a member of a Special Committee, I had an opportunity of minute inquiry; and I am 
+convinced he has done every thing which could be expected, under delicate circumstances, from an able 
+Minister. He has further increased his reputation by asking leave, immediately after his report, to take 
+the field, and by declining any recompense for his essential services ; a disinterestedness which forms a 
+striking contrast between him and some other characters. Congress have given him a testimonial of their approbation, which I do myself the honor to inclose. 
+I wish it may be in your Excellency's power to distinguish <a href='/results.php?tla=jol' rel='colleage met'>Colonel Laurens</a> by a command. You may 
+be assured that it will be highly pleasing to Congress. With every sentiment of affectionate attachment and respect, and the most sincere wishes for 
+your glory and success, I have the honor to be, dear 
+Sir, your Excellency's 
+</p><p>
+Most humble and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jad" rel="me">James Duane</a>. 
+</p>
+</letter>

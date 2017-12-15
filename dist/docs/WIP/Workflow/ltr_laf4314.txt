@@ -1,0 +1,63 @@
+<letter id="laf4314">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+MY DEAR General, 
+</p><p>
+It is with the utmost concern that I hear my letters have not come to hand, and, while I lament the 
+miscarriage, I hope you do not impute it to any 
+fault on my part. In these times of troubles, it has 
+become more difficult to know or to reach opportunities ; and how this will be carried, I leave to the care 
+of <a href='/results.php?tla=tmp' rel='colleague'>Mr. Paine</a>, who goes to London. 
+Our revolution is getting on as well as it can, with 
+a nation that has swallowed liberty at once, and is 
+still liable to mistake licentiousness for freedom. The 
+Assembly have more hatred to the ancient system 
+than experience on the proper organization of a new 
+and Constitutional Government. The Ministers are 
+lamenting their loss of power, and afraid to use that 
+which they have ; and, as every thing has been destroyed, and not much new building is yet above 
+ground, there is much room for critics and calumnies. 
+To this may be added, that we still are pestered by 
+two parties; the aristocratic, that is panting for a 
+counter revolution, and the factious, which aims at 
+the division of the empire, and destruction of all 
+authority, and perhaps of the lives of the reigning 
+branch; both of which parties are fomenting troubles. 
+</p><p>
+And after I have confessed all this, my dear General, I will tell you, with the same candor, that we 
+have made an admirable and almost incredible destruction of all abuses and prejudices; that every thing 
+not directly useful to, or coming from, the people, 
+has been levelled; that in the topographical, moral, 
+political situation of France, we have made more 
+changes in ten months than the most sanguine patriot could have imagined; that our internal troubles 
+and anarchy are much exaggerated ; and that, upon 
+the whole, this revolution, in which nothing will be 
+wanting but energy of government, just as it was in 
+America, will propagate and implant liberty, and make 
+it flourish throughout the world, while we must wait 
+for a Convention in a few years to mend some defects, which are not now perceived by men just escaped from aristocracy and despotism. 
+</p><p>
+You know that the Assembly have adjourned the 
+West India affairs, leaving every j;hing in the actual 
+state; namely, the ports opened, as we hear they 
+have been, to American trade. But it was impossible, 
+circumstanced as we are, to take a definitive resolve 
+on that matter. The ensuing Legislature will more 
+easily determine, after they have received the demands of . the Colonies, who have been invited to 
+make them, particularly on the objects of victualling. 
+Give me leave, my dear General, to present you 
+with a picture of the Bastille, just as it looked a few 
+days after I had ordered its demolition, with the 
+main key of the fortress of despotism. It is a tribute, which I owe as a son to my adoptive flither, 
+as an Aid-de-camp to my General, as a missionary of 
+liberty to its patriarch. Adieu, my beloved General. 
+My most affectionate respects wait on Mrs. Washington. Present me most affectionately to George, to Hamilton, Knox, Harrison, Humphreys, and all friends. 
+Most tenderly and respectfully. 
+</p><p>
+Your most affectionate and filial friend, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p>
+</letter>

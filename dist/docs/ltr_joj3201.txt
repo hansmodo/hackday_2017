@@ -1,0 +1,49 @@
+<letter id="joj3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p rel="heading">
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>. <a rel="day origin" value="26">26</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The questions contained in your favor of the 23d 
+instant, are as important as the manner of introducing them is delicate. While the maritime affairs of 
+the Continent continue under the direction of a Committee, they will be exposed to all the consequences 
+of want of system, attention, and knowledge. The 
+Marine Committee consists of a Delegate from each 
+State. It fluctuates, new members constantly coming 
+in, and old ones going out. Three or four, indeed, 
+have remained in it from the beginning, and have a 
+proportionate influence, or, more properly, interest in 
+it. Very few of the members understand even the 
+state of our naval affairs, or have time or inclination 
+to attend to them. But why is not this system 
+changed? It is, in my opinion, convenient to the family compact. The Commercial Committee are equally 
+useless. A proposition was made to appoint a Commercial Agent for the States, under certain regulations. Opposition was made ; the ostensible reasons 
+were various ; the true reason was, its interference 
+with a certain commercial agent in Europe, and his 
+connections. 
+</p><p>
+You will, if I mistake not^ find M. Gerard disposed 
+to be open and communicative. He has acquired an 
+extensive knowledge of our affairs. I have no reason 
+to believe he will use it to our prejudice. There is 
+as much intrigue in this State House as in the Vatican, but as little secrecy as in a boarding-school. It 
+mortifies me, on this occasion, to reflect, that the rules 
+of Congress on the subject of secrecy, which are far too general, and, perhaps for that reason, more frequently violated, restrain me from saying twenty 
+things to you, which have ceased to be private. 
+</p><p>
+The state of our currency is really serious. Where, 
+or by what means, the progress of its depreciation 
+will be prevented, is uncertain. The subject is deli 
+cate, but the conduct of some men really indicates at 
+least great indifference about it. It will not be many 
+days before measures^ having a great though not 
+immediate influence on this subject, will be either 
+adopted or rejected. I shall then have an opportunity of being more particular. I am, very dear Sir. 
+with perfect esteem and regard, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joj" rel="me">JOHN JAY</a>. 
+</p>
+</letter>

@@ -1,0 +1,73 @@
+<letter id="jod3572">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='19'>19</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+MRS. OTIS arrived, with her little rossignol, in good 
+health and spirits, the night before last, and brought 
+me your favor of 7th December. Why am I not so 
+fortunate as to be able to receive my best friend and 
+to spend my days with her, whose society is the principal delight of my life ? If I could make twelve 
+thousand dollars at a bargain, and several of such 
+bargains in a year : but silence. So it is ordained, 
+and we must not complain. 
+</p><p>
+If a suitable season should occur for ploughing, 
+our men may plough ; if not, they may leave it till 
+spring, I like your plan very well to stock one place 
+with young cattle, and to apply to Shaw, if Humphreys and Porter decline to take care of the dairy 
+in the other. I am pleased with Dr. Tufts's plan. 
+</p><p>
+Citizen Genet made me a visit yesterday while I 
+was in Senate, and left his card. I shall leave mine 
+at his hotel tomorrow, as several of the senators have 
+already hastened to return their visits. But we shall 
+be in an awkward situation with this minister. I write 
+you little concerning public affairs, because you will 
+have every thing in print. How a government can 
+go on, publishing all their negotiations with foreign 
+nations I know not. To me it appears as dangerous 
+and pernicious as it is novel ; but, upon this occasion 
+it could not, perhaps, have been avoided. You know 
+where, I think, was the error in the first concoction. 
+But such errors are unavoidable when the people in 
+crowds out of doors undertake to receive ambassadors, and to dictate to their supreme executive. 
+</p><p>
+I know not how it is, but in proportion as danger 
+threatens I grow calm. I am very apprehensive that 
+a desperate anti-federal party will provoke all Europe 
+by their insolence. But my country has, in its wisdom, contrived for me the most insignificant office 
+that ever the invention of man contrived or his imagination conceived : and as I can do neither good nor 
+evil, I must be borne away by others and meet the 
+common fate. 
+</p><p>
+The President has considered the conduct of Genet 
+very nearly in the same light with <a href='/results.php?city=columbus' rel='city'>Columbus</a>, and has 
+given him a bolt of thunder. We shall see how this 
+is supported by the two houses. There are who 
+gnash their teeth with rage which they dare not 
+own as yet. We shall soon see whether we have any 
+government or not in this country. If the President 
+has made any mistake at all, it is by too much partiality for the French republicans and in not preserving a neutrality between the parties in France as well 
+as among the belligerent powers ; but although he 
+stands at present as high in the admiration and confidence of the people as ever he did, I expect he will 
+find many bitter and desperate enemies arise in con 
+sequence of his just judgment against Genet. Be 
+sides that a party spirit will convert white into black 
+, and right into wrong, we have, I fear, very corrupt 
+individuals in this country, independent of the common spirit of party. The common movements of 
+ambition every day disclose to me views and hopes 
+and designs that are very diverting, but these I will 
+not commit to paper. They make sometimes a very 
+pretty farce for amusement after the great tragedy or 
+comedy is over. What I write to you must be in sacred confidence and strict discretion. 
+</p><p>
+Mrs. Washington prays me every time I see her to 
+remember her to you very affectionately. 
+I am, as ever, your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

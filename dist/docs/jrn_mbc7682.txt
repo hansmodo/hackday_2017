@@ -1,0 +1,28 @@
+<letter id="mbc7682">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va. <a href='/results.php?year=1863' rel="origin">1863</a>]. As we walked, Brewster reported a row he had had with <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a>. Brewster had told 
+those six young ladies at the Prestons that " old Sam " was in the habit of saying he would not marry if he could 
+any silly, sentimental girl, who would throw herself away upon a maimed creature such as he was. When Brewster 
+went home he took pleasure in telling Sam how the ladies had complimented his good sense, whereupon the General rose in his wrath and threatened to break his crutch over Brewster's head. To think he could be such a fool to go 
+about repeating to everybody his whimperings. 
+</p><p>
+I was taking my seat at the head of the table when the door opened and Brewster walked in unannounced. He 
+took his stand in front of the open door, with his hands in his pockets and his small hat pushed back as far as it could get from his forehead. 
+</p><p>
+" What! " said he, "you are not ready yet? The Generals are below. Did you get my note? " I begged my 
+husband to excuse me and rushed off to put on my bonnet and furs. I met the girls coming up with a strange man. 
+The flurry of two major-generals had been too much for me and I forgot to ask the new one's name. They went up to 
+dine in my place with my husband, who sat eating his dinner, with Lawrence's undivided attention given to him, 
+amid this whirling and eddying in and out of the world militant. Mary Preston and I then went to drive with the 
+generals. The new one proved to be Buckner, who is also a Kentuckian. The two men told us they had slept together 
+the night before Chickamauga. It is useless to try: legs 
+can't any longer be kept out of the conversation. So General Buckner said : Once before I slept with a man and he 
+lost his leg next day. He had made a vow never to do so again. When Sam and I parted that morning, we said : 
+You or I may be killed, but the cause will be safe all the same. 
+</p><p>
+After the drive everybody came in to tea, my husband in famous good humor, we had an unusually gay evening. 
+It was very nice of my husband to take no notice of my conduct at dinner, which had been open to criticism. All the 
+comfort of my life depends upon his being in good humor. 
+</p>
+</letter>

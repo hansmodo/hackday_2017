@@ -1,0 +1,24 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--jcc
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Calhoun
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jcc5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington 2 Decb <a href='/results.php?year=1822'>1822</a> 
+
+Dear Sir, 
+
+Feeling as I do deep solicitude in the prosperity of the Bank, I have been very much gratified with your nomination to the Presidency of that institution and most sincerely hope, that you may be elected. 
+
+... If at any time, I can render aid to the institution, it will afford me much pleasure, and should you be elected, 
+of which there can be no reasonable doubt, the pleasure would be still farther advanced by cooperating, as with the 
+present President, with one for whom I have so great an esteem. 
+</p>
+</letter>

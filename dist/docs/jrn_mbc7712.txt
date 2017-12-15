@@ -1,0 +1,11 @@
+<letter id="mbc7712">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Tom Fergurson walked home with me. He 
+told me of Colonel Dahlgren's death and the horrid memoranda found in his pocket. He came with secret orders to 
+destroy this devoted city, hang the President and his Cabinet, and burn the town ! <a href='/results.php?tla=wfl' rel=''>Fitzhugh Lee</a> was proud that the Ninth Virginia captured him. 
+</p><p>
+Found Mrs. Semmes covering her lettuces and radishes as calmly as if Yankee raiders were a myth. While 
+" Beast " Butler holds Fortress Monroe he will make things lively for us. On the alert must we be now. 
+</p>
+</letter>

@@ -1,0 +1,39 @@
+<letter id='thj1369'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, October 25,<a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+I take the liberty of enclosing to you letters from Governor Hamilton,
+for <a href="/results.php?city=New York" rel="city">New York</a>. On some representations received by Colonel Towles, that
+an indulgence to Governor Hamilton and his companions to go to <a href="/results.php?city=New York" rel="city">New York</a>,
+on parole, would produce the happiest,effect on the situation of our
+officers in Long Island, we have given him, Major Hay, and some of the
+same party at Winchester, leave to go there on parole. The two former go
+by water, the latter by land.
+</p><p>
+By this express I hand on, from <a href='/results.php?tla=hog' rel='co-worker met'>General Gates</a> to Congress, intelligence
+of the capture of Augusta, in Georgia, with considerable quantities of
+goods; and information, which carries a fair appearance, of the taking
+of Georgetown, in South Carolina, by a party of ours, and that an army
+of six thousand French and Spaniards had landed at Sunbury. This is
+the more credible, as Cornwallis retreated from Charlotte on the 12th
+instant, with great marks of precipitation. Since my last to you,
+informing you of an enemy's fleet, they have landed eight hundred men
+in the neighborhood of Portsmouth, and some more on the bay side of
+Princess Anne. One thousand infantry landed at New-ports-news, on the
+morning of the 23rd, and immediately took possession of Hampton. The
+horse were proceeding up the road. Such a corps as Major Lee's would be
+of infinite service to us. Next to a naval force, horse seems to be the
+most capable of protecting a country so intersected by waters.
+</p><p>
+I am, with the most sincere esteem,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

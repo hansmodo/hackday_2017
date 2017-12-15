@@ -1,0 +1,69 @@
+<letter id="ben4829">
+<recipient first="Joshua" last="Babcock" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1772' rel="origin">1772</a>
+</p><p>
+DEAR SIR, 
+</p><p>
+It was with great Pleasure I learnt by Mr. Marchant, 
+that you & Mrs. Babcock and all your good Family continue 
+well & happy. I hope I shall find you all in the same State 
+when I next come your Way, and take Shelter as often heretofore under your hospitable Roof. The Colonel, I am told, 
+continues an active and able Farmer, the most honourable 
+of all Employments, in my opinion, as being the most useful 
+in itself, and rend'ring the Man most independent. My 
+Namesake, his Son, will soon I hope be able to drive the 
+Plough for him. 
+</p><p>
+Clarke, and Mr. Broadstreet are the most popular. And amongst their 
+ministers, Mr. Thatcher, Mr. Oxenbridge, and Mr. Higginson. 
+</p><p>
+" There are no musicians by trade. One dancing school was set up, but 
+put down. A fencing school is allowed. All cordage, sailcloth, and nets 
+come from England. No cloth made there worth above 4'. a yard ; nor 
+linen worth above 2s. 6</. No allum, nor copperas, nor salt by the sun. 
+</p><p>
+" They take an oath of fidelity to the governor, but none to the King. 
+The governor is chosen by every freeman. A freeman must be orthodox, 
+above twenty years of age, and worth about ^200." S. 
+</p><p>
+I have lately made a Tour thro' Ireland and Scotland. 
+In those Countries a small Part of the Society are Landlords, 
+great Noblemen, and Gentlemen, extreamly opulent, living 
+in the highest Affluence and Magnificence : The Bulk of the 
+People Tenants, extreamly poor, living in the most sordid 
+Wretchedness, in dirty Hovels of Mud and Straw, and cloathed 
+only in Rags. 
+</p><p>
+I thought often of the Happiness of New England, where 
+every Man is a Freeholder, has a Vote in publick Affairs, 
+lives in a tidy, warm House, has plenty of good Food and 
+Fewel, with whole cloaths from Head to Foot, the Manufacture perhaps of his own Family. Long may they continue 
+in this Situation ! But if they should ever envy the Trade 
+of these Countries, I can put them in a Way to obtain a Share 
+of it. Let them with three fourths of the People of Ireland 
+live the Year round on Potatoes and Buttermilk, without 
+Shirts, then may their Merchants export Beef, Butter, and 
+Linnen. Let them, with the Generality of the Common 
+People of Scotland, go Barefoot, then may they make large 
+Exports in Shoes and Stockings : And if they will be content 
+to wear Rags, like the Spinners and Weavers of England, 
+they may make Cloths and Stuffs for all Parts of the World. 
+</p><p>
+Farther, if my Countrymen should ever wish for the honour 
+of having among them a gentry enormously wealthy, let them 
+sell their Farms & pay rack'd Rents ; the Scale of the Landlords will rise as that of the Tenants is depressed, who will 
+soon become poor, tattered, dirty, and abject in Spirit. Had 
+I never been in the American Colonies, but was to form my 
+Judgment of Civil Society by what I have lately seen, I should 
+never advise a Nation of Savages to admit of Civilization: 
+For I assure you, that, in the Possession & Enjoyment of the 
+</p><p>
+various Comforts of Life, compar'd to these People every 
+Indian is a Gentleman : And the Effect of this kind of Civil 
+Society seems only to be, the depressing Multitudes below 
+the Savage State that a few may be rais'd above it. My 
+best Wishes attend you and yours, being ever, with great 
+Esteem, Dear Sir, etc. B. [FRANKLIN.] 
+</p>
+</letter>

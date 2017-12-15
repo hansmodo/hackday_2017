@@ -1,0 +1,45 @@
+<letter id="cdr3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I had the honor to write to your Excellency that, 
+at my departure from York in Virginia, I would 
+leave in that place a detachment of four hundred 
+French troops, which were to he joined by a corps 
+of the Virginian militia, to assure the possession of 
+that harbour to the French navy now there, and that 
+may arrive in future. At the moment of my leaving 
+that place, the American militia were just beginning 
+to arrive ; and I have left M. de Lavalette, Brigadier-General, with four hundred French troops. I 
+have expressly recommended to him the American artillery, which remained there after the siege of York, 
+with orders to place it upon <a href='/results.php?city=west point' rel='city'>West Point</a>, to join it 
+to our siege artillery, in case superior land and sea 
+forces should oblige him to retreat on <a href='/results.php?city=west point' rel='city'>West Point</a>, 
+with the King's navy. I think that the quantity of 
+American artillery left at York is much greater than 
+is necessary for the conservation of that post, and 
+that at least one half may be taken away, whenever 
+your Excellency shall think fit. 
+</p><p>
+One battery of eight pieces at York, and another 
+of six at Gloucester, will be sufficient to protect the 
+harbour ; and I am of opinion that <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a> 
+will do very well to send his orders that the rest, 
+amounting to thirty pieces and upwards, according to 
+the best of my knowledge, may be removed. This is 
+my opinion. Sir, in answer to the letter which you 
+did me the honor to write me on that object yesterday. I am, with respect and personal attachment. 
+Sir, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdr" rel="me">Le <a href='/results.php?tla=cdr' rel='colleague'>Compte De Rochambeau</a></a>.
+</p><p>
+P. S. I send to your Excellency my answer to 
+Sir Guy Carleton, which I beg you would read, and 
+send by the first occasion to <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p>
+</letter>

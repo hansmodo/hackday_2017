@@ -1,0 +1,120 @@
+<letter id="jol4936">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+I was obliged to write you a hurried letter by the 
+hands of Gen'l Du Portail and had barely time to 
+acknowledge the receipt of your favour of the 15th . 
+Yesterday I had the pleasure of receiving your kind 
+letter of the 22 d with S. Carolina papers and letters 
+from England. Among them was the enclosed for 
+you, which I take to be from my wife. Her last date 
+to me is the 1st November, at which time she and your 
+granddaughter were well. I enclose you likewise the 
+last letter from Mr. Manning, the others were all of 
+old dates. As Gen'l Mclntosh is ordered with a 
+detachment on the other side Schuylkil, to cover the 
+passage of a large drove of cattle that have crossed 
+the Delaware at Sherard's ferry, I take the liberty of 
+detaining the N. papers till his return, which will be 
+in a day or two, that he may not miss what will be so 
+great a treat to him. He has mentioned to me several 
+times of late, that he fancied you were retaliating his 
+ancient delinquencies. 
+</p><p>
+I am grieved that you persevere in your resolution 
+of retiring from Congress. Your reelection is a 
+testimony of the good opinion of your countrymen, 
+and I think it is needless to urge the necessity of 
+increasing rather than diminishing the number of 
+able and virtuous men in the grand council of the 
+nation. 
+</p><p>
+The retiring of a single one at the present crisis 
+is a dangerous example, and may fatally strengthen 
+the hands of those who have not the cause of liberty 
+and the interest of their country at heart. I have 
+long anxiously desired to see you, but the unabating 
+flow of business in the general's family restrained 
+me from asking leave. Two of our gentlemen l are 
+appointed commissioners to meet General Howe at 
+German Town, for negociating the exchange of 
+prisoners. Their absence will render the presence 
+of the rest more than ever necessary; but if you 
+will give me notice when it will be convenient for 
+me to come, I will ask for a short furlough, that I 
+may have the happiness of embracing you, and saying many things which are not so well expressed in 
+writing. 
+</p><p>
+The <a href='/results.php?tla=frs' rel='co-worker'>Baron Steuben</a> has commenced the functions of 
+inspector general. Several officers whose character 
+and abilities give them influence, and are pledges of 
+success, are to be nominated as sub-inspectors ; intelligent active men are appointed to each brigade to 
+serve as brigade inspectors. The baron has given 
+some elementary lessons in writing, preparatory to 
+ulterior instructions ; and we hope by this institution 
+that the important end of establishing uniformity of 
+discipline and manoeuvres throughout the army will be accomplished. 
+</p><p>
+This I communicate to yourself only, for I don t know whether the general communicates this plan by this courier for ratification. 
+</p><p>
+The baron discovers the greatest zeal, and an 
+activity which is hardly to be expected at his 
+years. The officers in general seem to entertain 
+a high opinion of him, and he sets them an excellent 
+example in descending to the functions of a drillsergeant. 
+</p><p>
+A French gentleman of the name of Ternaut with 
+whom I was slightly acquainted at the cape Fraiois, 
+is arrived in camp, and offers himself as one of the 
+sub-inspectors. His talents qualify him in a superior 
+degree for the office. He has travelled so much 
+as to have worn off the characteristic manners of 
+his nation, and he speaks our language uncommonly 
+well. 
+</p><p>
+The baron is very desirous of having him as an 
+assistant, and says he is persuaded he will be an acquisition to the States. The only thing against him is, 
+that he comes without recommendatory letters. The 
+Congress have I think very wisely resolved against 
+employing any more foreigners unless they are forced 
+to it by the special contracts of their embassadors, or 
+very pointed recommendations. On this account the 
+General has, in order that the baron might not lose so 
+good an assistant, put the matter upon this footing : 
+that Mr. Ternaut may exercise the office of sub-inspector without rank for the present ; and that when 
+his practical abilities are as well known as his theoretical, Congress will determine a rank suitable to his 
+merit. It is to be observed that he studied engineering particularly, and would have wished to join the 
+corps here, but party differences were an invincible 
+obstacle. He has not, however, confined his views to 
+that branch of military science, but seems to be equally 
+well instructed in every other. 
+</p><p>
+If an exception to the generally established rule is 
+ever to be made, I think it can never be with more 
+propriety than in favour of a person who merits such 
+qualifications. 
+</p><p>
+The baron desires his friendly compliments to you. 
+Apropos to him, his secretary, and a Mon r de Pontieres have certificates signed by the president of 
+Congress setting forth that they are to have the rank 
+of captains. 
+</p><p>
+I think they were not announced as such to the General. <a href='/results.php?tla=frs' rel='co-worker'>Baron Steuben</a>'s secretary is desirous of 
+drawing his pay, and upon application to the General, who is not explicitly acquainted with the intentions of 
+Congress in this matter, was required to draw on account. This has created some uneasiness in the 
+Baron's mind, and he wishes to know whether Mr. Duponceau is not entitled to the pay, as well as rank of captain. 
+</p><p>
+I think if I could have half an hour's conversation 
+with you, my dear father, I could prove to you so 
+clearly how much the public interest is concerned in 
+your remaining in Congress, that you would not 
+refuse yourself to tins duty. Anticipating the pleasure 
+of embracing you, I am, my dear father, 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

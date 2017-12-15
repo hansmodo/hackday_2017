@@ -1,0 +1,32 @@
+<letter id="nib5295">
+<recipient first="Samuel" last="Breck" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>  <a rel="month origin" value="3">March</a> <a rel='day origin' value='1'>1st</a> <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+My dear Sir 
+</p><p>
+I have received today your favor of the 26 th inst. 
+with the copy of the Governor's Message. 2 I regret on many 
+accounts that paper. It will prolong the distress now existing 
+without effecting any good object, and it is melancholy to see 
+a Governor of Pennsylvania thus aiding in the destruction of 
+Pennsylvania interests. What makes it more shocking is, that 
+up to the very moment of sending the message, those who 
+visited him left him under the strongest conviction that he 
+was decidedly friendly to the Bank. In truth he ought to have 
+been, for so far from frustrating his loan, the Bank actually 
+furnished to Mess 8 . Allen the means of paying the last instalment, as the Governor well knew. Of the effect of his message 
+on the Bank and upon the financial concerns of Penns a . you will form some idea when I mention to you the following fact which is a little singular. 
+</p><p>
+A Committee from <a href='/results.php?city=new york' rel='city'>New York</a> has been visiting the Bank for the purpose of procuring some relief for that city which 
+would of course have reacted on our own State. Yesterday the Board was to have decided it, &amp; I have no doubt that the Bank 
+would have made an effort to give relief but when we saw the Governors message saw how totally useless the efforts 
+of the Bank had been to sustain the credit of the State in appeasing the spirit of the party and how little reliance 
+could be placed on the men in power, we determined that it was in vain to make an effort and accordingly, instead 
+of sending the relief expected, we wrote to the <a href='/results.php?city=new york' rel='city'>New York</a> 
+Committee that the conduct of the Governor of Pennsylvania obliged the Bank to look to its own safety, and that therefore 
+we declined doing any thing at present. 
+</p><p>
+So much for the first effect of the Governors patriotism 
+</p>
+</letter>

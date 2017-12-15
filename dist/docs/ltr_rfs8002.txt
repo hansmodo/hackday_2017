@@ -1,0 +1,18 @@
+<letter id='rfs8002'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+Headquarters, <a href='/results.php?city=san diego' rel='city origin'>San Diego</a>, 
+<a rel="month origin" value="12">December</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1846' rel="origin">1846</a>, half-past 6 o'clock p.m. 
+</p><p>
+Sir : I have this moment received your note of yesterday, by Mr. Stokes, and have ordered <a href="/results.php?tla=ahg" rel="colleague met">Captain Gillespie</a>, with a detachment of mounted riflemen and a field-piece, to your camp without delay. 
+</p><p>
+<a href="/results.php?tla=ahg" rel="colleague met">Captain Gillespie</a> is well informed in relation to the present state of things in California, and 
+will give you all needful information. I need not, therefore, detain him by saying anything on the subject. I will merely say that I have this evening received information, by two deserters 
+from the rebel camp, of the arrival of an additional force in this neighborhood of one hundred men, which in addition to the force previously here, makes their number about one hundred and fifty. 
+</p><p>
+I send with <a href="/results.php?tla=ahg" rel="colleague met">Captain Gillespie</a>, as a guide, one of the deserters, that you may make inquiries of him, and, if you see fit, endeavor to surprise them. Faithfully, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=rfs" rel="me">R. F. Stockton</a>, 
+Commander-in-Chief and Governor of the Territory of California. 
+</p>
+</letter>

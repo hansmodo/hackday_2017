@@ -1,0 +1,100 @@
+<letter id='thj1469'>
+<recipient first='J' last='Bannister' type='individual'/>
+<p>
+TO J. BANNISTER, JUNIOR.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, October 15,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+I should sooner have answered the paragraph in your letter, of September
+the 19th, respecting the best seminary for the education of youth,
+in Europe, but that it was necessary for me to make inquiries on the
+subject. The result of these has been, to consider the competition as
+resting between Geneva and Rome. They are equally cheap, and probably
+are equal in the course of education pursued. The advantage of Geneva
+is, that students acquire there the habit of speaking French. The
+advantages of Rome are, the acquiring a local knowledge of a spot so
+classical and so celebrated; the acquiring the true pronunciation of the
+Latin language; a just taste in the fine arts, more particularly those
+of painting, sculpture, architecture, and music; a familiarity with
+those objects and processes of agriculture, which experience has shown
+best adapted to a climate like ours; and lastly, the advantage of a
+fine climate for health. It is probable, too, that by being boarded in a
+French family, the habit of speaking that language may be obtained. I
+do not count on any advantage to be derived in Geneva from a familiar
+acquaintance with the principles of that government. The late revolution
+has rendered it a tyrannical aristocracy, more likely to give ill, than
+good ideas to an American. I think the balance in favor of Rome. Pisa is
+sometimes spoken of, as a place of education. But it does not offer
+the first and third of the advantages of Rome. But why send an American
+youth to Europe for education? What are the objects of an useful
+American education? Classical knowledge, modern languages, chiefly
+French, Spanish, and Italian; Mathematics, Natural Philosophy, Natural
+History, Civil History, and Ethics. In Natural Philosophy, I mean to
+include Chemistry and Agriculture, and in Natural History, to include
+Botany, as well as the other branches of those departments. It is
+true, that the habit of speaking the modern languages cannot be so well
+acquired in America; but every other article can be as well acquired
+at William and Mary College, as at any place in Europe. When college
+education is done with, and a young man is to prepare himself for public
+life, he must cast his eyes (for America) either on Law or Physic. For
+the former, where can he apply so advantageously as to Mr. Wythe? For
+the latter, he must come to Europe: the medical class of students,
+therefore, is the only one which need come to Europe. Let us view the
+disadvantages of sending a youth to Europe. To enumerate them all, would
+require a volume. I will select a few. If he goes to England, he learns
+drinking, horse-racing, and boxing. These are the peculiarities of
+English education. The following circumstances are common to education
+in that, and the other countries of Europe. He acquires a fondness for
+European luxury,and dissipation, and a contempt for the simplicity of
+his own country; he is fascinated with the privileges of the European
+aristocrats, and sees, with abhorrence, the lovely equality which the
+poor enjoy with the rich in his own country; he contracts a partiality
+for aristocracy or monarchy; he forms foreign friendships which will
+never be useful to him, and loses the season of life for forming in
+his own country those friendships, which, of all others, are the most
+faithful and permanent; he is led by the strongest of all the human
+passions into a spirit for female intrigue, destructive of his own and
+others' happiness, or a passion for whores, destructive of his health,
+and in both cases, learns to consider fidelity to the marriage bed as an
+ungentlemanly practice, and inconsistent with happiness; he recollects
+the voluptuary dress and arts of the European women, and pities and
+despises the chaste affections and simplicity of those of his own
+country; he retains, through life, a fond recollection, and a hankering
+after those places, which were the scenes of his first pleasures and
+of his first connections; he returns to his own country a foreigner,
+unacquainted with the practices of domestic economy necessary to
+preserve him from ruin, speaking and writing his native tongue as a
+foreigner, and therefore unqualified to obtain those distinctions, which
+eloquence of the pen and tongue ensures in a free country; for, I would
+observe to you, that what is called style in writing or speaking,
+is formed very early in life, while the imagination is warm, and
+impressions are permanent. I am of opinion, that there never was an
+instance of a man's writing or speaking his native tongue with elegance,
+who passed from fifteen to twenty years of age out of the country
+where it was spoken. Thus, no instance exists of a person's writing two
+languages perfectly. That will always appear to be his native language,
+which was most familiar to him in his youth. It appears to me then, that
+an American coming to Europe for education, loses in his knowledge, in
+his morals, in his health, in his habits, and in his happiness. I had
+entertained only doubts on this head, before I came to Europe: what I
+see and hear, since I came here, proves more than I had even suspected.
+Cast your eye over America: who are the men of most learning, of most
+eloquence, most beloved by their countrymen, and most trusted and
+promoted by them? They are those who have been educated among them, and
+whose manners, morals, and habits, are perfectly homogeneous with those
+of the country.
+</p><p>
+Did you expect by so short a question, to draw such a sermon on
+yourself? I daresay you did not. But the consequences of foreign
+education are alarming to me, as an American. I sin, therefore, through
+zeal, whenever I enter on the subject. You are sufficiently American
+to pardon me for it. Let me hear of your health, and be assured of the
+esteem with which I am, Dear Sir,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

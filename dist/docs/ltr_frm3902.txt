@@ -1,0 +1,25 @@
+<letter id="frm3902">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours by Mr. Cest came to hand. I wrote per Dragoon respecting 
+Capt. Howell and the flag. Messrs. Doughty and Ancruni are not to do 
+duty your way. I shall have such men returned as have served their 
+month. I cannot send you the militia law; have none by me. I wrote 
+you before that Capt. Weyman had it, and you might get it from him. 
+I sent Capt. Stephens to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, only to stay until his corps re 
+turned. I wrote the Governor respecting Mr. Wayne's account, and think he is rather impatient. I have had no answer yet to my letters, 
+and hope you will make yourself easy until I can fully satisfy you, 
+which will be as soon as I get an answer from the General. I have 
+some accounts of the enemy's coming over to St. Thomas , and wish I 
+had every horse you have that can be of any service, as I find I am 
+under the necessity of attacking them. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

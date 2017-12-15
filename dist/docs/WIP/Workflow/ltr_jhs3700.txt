@@ -1,0 +1,34 @@
+<letter id="jhs3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=exeter' rel='city origin'>Exeter</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General,
+</p><p>
+Very much fatigued, I arrived in New Hampshire 
+in seven days from the time I left you, and am 
+very happy to acquaint you that the people of New 
+Hampshire behave with the greatest spirit. The six 
+hundred men required, are, for the general part, on 
+their march ; the nine hundred, I hope, will be ready 
+to march by the middle of next week; and, by their 
+present exertions, I cannot doubt but by that time 
+they will be on the move. Some of them have already marched. I have directed them, at first, to 
+rendezvous at Springfield. The way of Claverac is 
+certainly much out of the route to the present station of the army; but, nevertheless, if you have any 
+particular reasons for their moving by Claverac, let 
+me know, and your orders shall be punctually complied with. 
+</p><p>
+I have conferred with the Committee. They tell 
+me they have wrote, and are surprised their letters 
+have not reached you. The State has collected, and 
+are still collecting, cattle for the use of the army. 
+Every one seems sanguinely determined to do something of importance this campaign. As soon as the 
+main body has moved, I shall follow. Springfield 
+will he my first stop. There I hope to hear from 
+you ; but, if not, shall move agreeably to my instructions. I am, dear Sir, with much respect and esteem, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter>

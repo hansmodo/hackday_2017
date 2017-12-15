@@ -1,0 +1,52 @@
+<letter id="joj4047">
+<recipient first="Robert" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='13'>13th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Robert, 
+</p><p>
+Almost ever since my arrival here I have had, and still 
+have, a sick family. The epidemic disorder which has 
+spread through the northern part of Europe has been severe 
+upon us. I am free from it at present, but it has taken from 
+me some flesh and much strength. Mrs. Jay has frequent 
+attacks of an irregular intermitting fever, and our little girl 
+is not yet wholly out of danger. 
+</p><p>
+Your letter of the 22d May, and the one enclosed with it 
+from your good mother, contain the first advices I received 
+of my father's death. My last letter from Frederick was 
+of an earlier date. That intelligence was not unexpected. 
+I wish I had been with him ; but it is a temporary separation, and I am resigned. It has added to the number of my 
+inducements to walk in his steps, and thereby arrive at the 
+same home. 
+</p><p>
+I feel very sensibly for Peter and Nancy. They are ever 
+in my thoughts. I thank you sincerely for becoming my 
+agent. <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a> had paid me nine months' salary a 
+few days before your letters arrived, and too great a part 
+of it was pre-engaged to admit of my repaying it and waiting for bills. 
+</p><p>
+I must request the favour of you to pay twenty pounds 
+York money to Miss Kitty Livingston on account of my 
+little boy, and one hundred and fifty pounds like money to 
+Frederick, Peter, and Nancy, — to each fifty pounds. Arrange this through Mr. Benson. I hear my father has 
+given some of the servants free, and that some other of the 
+older ones have been put out. Old servants are sometimes 
+neglected. Desire Mr. Benson to keep an eye over them, 
+and not let any of them want ; and for that purpose, place 
+fifty pounds in his hands, which he will apply according to 
+his discretion, as necessity may, from time to time, require. 
+He must also reimburse himself for any expenses he may 
+be at on this account. I should write to him also on this 
+subject, but have neither health nor time, having at present 
+a violent headache and a little fever, and my letter must be 
+sent to the Marquis de La Fayette's this evening. Adieu, 
+</p><p>
+my friend. 
+</p><p>
+Yours, &c. 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

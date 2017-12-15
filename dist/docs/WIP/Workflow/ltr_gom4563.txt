@@ -1,0 +1,50 @@
+<letter id="gom4563">
+<recipient first="Francis" last="Osborne" type="individual"/>
+<p>
+TO THE DUKE OF LEEDS. 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>, 
+</p><p>
+My Lord, 
+</p><p>
+At the close of a conversation with your Grace, and the Right 
+Honorable Mr Pitt, on the twenty-first of May last, I was told 
+that you would confer together, and transmit a reply to the letter, which I had the honor of addressing to your Grace on the 
+thirtieth of April. In expectation of that reply, I have patiently waited in this city to the present hour, though called by 
+many affairs to the continent. But my departure cannot be 
+much longer delayed, and therefore it becomes necessary to 
+intrude once more on your Grace's attention. 
+</p><p>
+I was led to believe, my Lord, that a friendly connexion 
+might have taken place between this country and that of which 
+I have the honor to be a citizen. How far it might be useful to Great Britain, I presume not to conjecture ; being perfectly convinced, from the wisdom and extensive information of 
+his Majesty's ministers, that the best rule for private judgment 
+must be derived from their conduct. But, my Lord, I candidly 
+own, that such connexion appears to be of great consequence 
+to America ; and therefore the hope of becoming instrumental 
+in the accomplishment of it was most pleasing ; nor am I ashamed to avow my concern at the disappointment. 
+</p><p>
+Your Grace will readily recollect the purport of the letter, which 
+you did me the honor to write on the twenty-eighth of April, 
+and that mine of the thirtieth entreated a communication of the 
+nature and extent of that redress, which his Majesty's ministers 
+expected upon the specific points of the treaty of peace, and the 
+kind and measure of compensation they would require in case, as 
+had been supposed, the specific performance on our part were 
+now impracticable. Months having elapsed in silence, your Grace 
+will, I hope, pardon me for observing that the pointed avowal of 
+a determination to withhold performance, unless upon certain 
+conditions, the communication of which is withheld, might be 
+construed into unconditional refusal. Your personal integrity 
+and honor, my Lord, the acknowledged justice of his Majesty, 
+and the pride of British faith, prohibit me from harboring that 
+idea. But it may perhaps be entertained by my countrymen, 
+and if it should, it may lead to measures, which in their consequences may eventually induce the two nations to seek rather 
+the means of reciprocal injury, than of mutual advantage. I 
+humbly hope that this may never happen. The sentiment of 
+America has long been conciliatory, and I should feel inexpressible satisfaction if your Grace would supply me with the means 
+of restoring activity to her friendly dispositions. 
+I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

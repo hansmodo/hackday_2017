@@ -1,0 +1,41 @@
+<letter id="jol4928">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I am to thank you for your kind letter of the 6th 
+inst., and the two camp shirts which accompanied it. 
+The presumption which would lead me to pursue my 
+project after what you have said upon it, would be 
+unpardonable ; praying your forgiveness therefor, my 
+dear friend, for the trouble which I have given you on 
+this eccentric scheme, I renounce it as a thing which 
+cannot be sanctified by your approbation. At the 
+same time, I must confess to you that I am very 
+sensibly affected by your imputing my plan in so large 
+a degree to ambition. I declare upon my honor that 
+I would not have desired any other than my present 
+rank, and that I would even have taken the title of 
+captain of an independent corps, for the pleasure of 
+serving my country so usefully, as I fondly hoped I 
+should have been able to do, had my scheme been 
+carried into execution. 
+</p><p>
+The scarlet cloth, four camp shirts (in all), a roll of 
+pomatum, a hair comb, two shirts for Berry, and a 
+hunting shirt, have been received at different times, 
+and I am exceedingly obliged to you for them. In 
+future I will be more careful to thank you for such 
+articles immediately after the receipt of them. 
+</p><p>
+The express is waiting only for my letter, which 
+circumstance has obliged me to write in haste, and 
+force me to take leave. I am 
+</p><p>
+Your most affectionate and dutiful 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

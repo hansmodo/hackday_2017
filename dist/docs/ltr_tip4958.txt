@@ -1,0 +1,37 @@
+<letter id="tip4958">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='31'>31st</a>, <a href='/results.php?year=1776' rel="origin">1776</a> . 
+</p><p>
+Sir, 
+</p><p>
+The General. Court of this Colony having, pursuant to 
+your request, issued orders for raising upwards of four 
+thousand men to serve, in the army that is under your Excellency's immediate command, till the first day of April 
+next, and of that number directed that ninety-one be en 
+listed in the town of Salem, in consequence thereof the 
+militia were mustered and the resolves of the Court read 
+to them, and the importance of manning the lines at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a> and Roxbury was urged ; but, great numbers of the 
+inhabitants being at sea, many impressed on board the 
+British ships, a considerable number in the American armed 
+vessels and privateers, one hundred employed as a sea-coast 
+guard, and perhaps double that number already in the army, 
+of the residue, two or three only presented themselves to 
+serve on the common establishment of the army. We were 
+therefore induced to try another method, and the Committee 
+of Safety gave the enlisting orders to a worthy man and 
+good soldier who had served as a Lieutenant in the army 
+the last campaign, and offered a month's pay in advance to 
+all who would enlist under him. But this measure also 
+proved ineffectual. Hence the persons whose names are 
+subjoined, inhabitants of the town of Salem, convinced that 
+tis of the last importance to the United Colonies, and essential to the safety of this Colony, to defend the lines at Cam 
+bridge and Roxbury, have agreed (as tis not in their power 
+to do anything more or better) to form themselves into a 
+company of volunteers, to serve in the army till the first 
+day of April next without pay ; and they now, Sir, beg 
+leave to tender themselves to your Excellency, to be employed as you shall think best ; and pray they may, by the 
+bearer, who is one of the company, be made acquainted 
+with your Excellency's pleasure. 
+</p></p>
+</letter>

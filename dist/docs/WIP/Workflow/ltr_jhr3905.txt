@@ -1,0 +1,26 @@
+<letter id="jhr3905">
+<recipient first="Christopher" last="Gadsden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR: 
+</p><p>
+I presume the draught has been made of a fourth part of your regiment, for patrol duty, according to the directions I gave some time ago, 
+and expected that the remainder would have been in town before now. I 
+think it necessary, that a field officer should be here with them you 
+will be pleased to repair hither, with such of the regiment as are not 
+to do patrol duty, as soon as possible. The persons belonging to your 
+regiment, who have taken protection, are to be tried here by a court 
+from that regiment. It is therefore necessary, in order that their case 
+may be decided, that a part of the regiment should be here you will 
+suffer such other as Mr. Harden names to go with him on a particular 
+piece of business, which I have committed to his charge; you will order 
+all the evidences against the plunderers you've sent down, to repair 
+hither immediately, that they may be brought to trial for their offences 
+before a Court Martial. 
+</p><p>
+I am, sir, your very humble servant, 
+</p><p>
+<a href="/results.php?tla=jhr" rel="me">J. RUTLEDGE</a>. 
+</p>
+</letter>

@@ -1,0 +1,32 @@
+<letter id="wih3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Garrison, <a href='/results.php?city=west point' rel='city origin'>West Point</a>, 7 o'clock P. M. ; 	<a rel='day origin' value='6'>6</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The inclosed this moment came to hand, which I 
+beg to submit to your Excellency. This wall be forwarded at gun-firing in the morning. I detain the 
+express, and wish your answer, if agreeable, by the 
+return of the bearer, that Colonel Hull may have notice as early as possible. Colonel Thomas mentioned 
+the matter in a letter to me yesterdays but, as it did not come from Colonel Hull, I took no notice of 
+it. If the plan should be approved, it will probably 
+be necessary to furnish the militia with some ammunition. As to burning the houses at Morrisania, although they are a nest for the nefarious enemy, yet, 
+as many of them belong to persons friendly to our 
+cause, who have been obliged to abandon their habitations, it may not only be impolitic but injurious to 
+do it. However, I will advise as your Excellency 
+may think fit to direct. 
+</p><p>
+I must confess, I do not well like the militia having so much to do in the matter. Notifying and 
+collecting men from three regiments, among whom 
+many disaffected persons reside, and upon the very 
+line of the enemy, is very likely to give air of the 
+design; and a knowledge of the design will tend to 
+blow the whole. I have the honor to be, with the 
+greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter>

@@ -1,0 +1,149 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--jse
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Sergeant
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jse5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington Dec 1 . 13, 1827 
+
+Dear Sir, 
+
+Tomorrow s paper will give you a resolution introduced to day by Mr . Barbour, and the remarks with which 
+he accompanied it, instructing the ComnV*. of Ways and 
+Means to enquire into the expediency of selling the Gov 13 . 
+stock in the Bank. It ought to have been decided at once, 
+and I think might have been, but before I could get the floor, 
+a motion was made to lay it on the table which supersedes 
+debate. I believe it will be rejected. In the mean time, however, 
+it will do some mischief, and, if considered as the beginning of 
+an attack, lead to permanent distrust in the stability of the 
+institution which will somewhat enfeeble it. The motion will 
+have the effect, too, of putting the Bank among the topics 
+to be handled by those who are seeking popularity. I am 
+sorry for it. 
+
+I have never heard a word about our cause, from which I am afraid there was nothing pleasant to say. 
+
+</letter><letter id="jse5351">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+Washington Mar: 2. 1833. 
+
+My dear Sir, 
+
+. . . Looking forward, tho the present excitement will cease, and the composition of Congress be different and less 
+favorable, there are still to be discerned the elements of hope. 
+The new state of parties will be founded upon a combination 
+of the South, and the leaders of it (the Southern party) are 
+friends of the Bank upon principle, and will be more so from 
+opposition to Jackson. If they succeed in their first object, 
+of uniting the South, they will carry the whole of it in favor 
+of the Bank, either actively or passively, those who cannot 
+act in that direction, becoming neutralised and Quiescent. 
+In the middle and Northern States, and in the West too, 
+their view as to the Bank question will be an argument to 
+gain friends for their party. Against a combination which 
+threatens to be so powerful, Van Buren will have to look for 
+alliances in the North, I think, and in so doing will be obliged 
+to give up his hostility to the Bank. It is quite possible, in 
+deed, that he may come into conjunction with some of its 
+most decided friends. In the mean time, Jackson s influence 
+will be diminishing, and his personal feelings will by no 
+means have the same weight as heretofore. And, besides, 
+I think he will be pressed by so powerful an opposition, 
+that even he will be obliged to behave himself with some 
+decency. 
+
+What I have thus hinted at, is no doubt the subject of 
+calculation with those who are looking to the future, and I 
+shall be surprized if even at the next session there be not 
+an altered tone towards the Bank in Congress, less ferocity 
+among its opponents, and more confidence on the part of its 
+friends, who, by the way, can never be too much commended 
+for the zeal and courage they have manifested under the most 
+unpromising circumstances. . . . 
+
+</letter><letter id="jse5352">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+(Private) Washington, Feb. 27. 1834 
+
+My dear Sir, 
+
+The first thing of real importance I have heard since I came here was communicated this morning by Mr . Calhoun. He asked me whether I had heard any thing from 
+M r . Southard. I told him no. Well, he said, there is a letter from Mr . S. in which he states as follows Tliat on his way 
+to Baltimore (on Tuesday) a New York Jackson man said to him, "As you are going from Washington, I will tell you 
+what I would not have told you there. We (meaning himself and some of his friends from New York) have been talking 
+with the President about the great and increasing distress, and endeavouring to convince him that this state of things 
+cannot continue that some thing must be done. He (President) admitted he had heard some thing, but by no means 
+to the extent we stated, of which he seemed to have no idea. The result was that the President drew up some questions 
+for his cabinet, who were to deliberate upon what was to be done." As Mr . Southard has been in Philad 3 . you will probably have heard all this, and heard it more accurately. The further fact, stated by M. Calhoun, is material, that there 
+are daily meetings of the cabinet. He told me this yesterday, and then thought they were about changes in the administration. To day, he thinks they are upon the subject of the 
+New Yorker s conversation, and considering the question "What is to be done." If they have come to that point, we 
+shall soon see some movement. Strange as it may seem, I should not be at all surprized if Mr . Taney were to give 
+up the Treasury, and some one else (perhaps Forsyth) take his place. In such an event we shall see a very queer game 
+played. Gen 1 . Jackson will look at the matter, as he does at every thing, singly with reference to himself, and will make 
+any sacrifice that may be necessary to save his own reputation. It is in such emergencies that his greatest skill is 
+exhibited, and it is quite unrestrained by any feeling for others. 
+
+M r . Calhoun thinks they are upon a question of a new Bank. If any project should be brought forward, it will open 
+the way for Mr . C. to bring forward his plan as a substitute. He is fully aware of the advantage would give him He 
+is at this time the most confident man in either house. He always speaks of the Administration as broken down and gone. . . . 
+
+</letter><letter id="jse5353">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+(Private) Washington, April 28 th . 1838. 
+
+My dear Sir, 
+
+Referring to what I wrote yesterday, I would now add, that there is a strong jealousy of New York rising in the 
+South. You know the schemes of the Southrons 2 for get moment that motives most unworthy have induced seven members of the House of 
+Representatives to forego the solemn and imposing duties which they owed their 
+constituents. . . . Here then we have before us a practical illustration of the immense and alarming power of the banks, whose agents have been and now are as thick as bees prowling about the halls of both houses of our legislature." Van Buren MSS. in Library of Congress. 
+
+
+ting their own trade into their own hands. What support they 
+have given to the Sub-Treasury has been to promote this 
+view. The mass of them have been sincere. Mr . Calhoun 1 
+has used it only to cloak his ambition. They are now alarmed 
+at the prospect of a new union of the money power, with the 
+political power by means of the free banking law of New 
+York. The question is whether in this jealousy, (the present 
+predominat feeling, whether well or ill founded) there is not 
+a ground for an union of the Bank U.S. with the South. If you 
+can make friends there, you will soon have Penns a ., for she 
+always goes with the South. I throw this out for your con 
+sideration. As you are to steer, of course you will observe 
+where the wind is to come from. . . . 
+
+We will have a great contest &amp; one which will fix our prosperity for 20 years, one 
+way or the other." And as Pickens viewed the subject the South would be foolish to 
+summit to cunning and fraud any longer. Hammond MSS. in Library of Congress. 
+
+However, a good explanation for the position of the South on the Sub-Treasury 
+and the motives which impelled it to stand by the Administration in these days is 
+given in a letter of Alfred Hager (?) to Poinsett, September I, 1838: "As to the 
+S.T. I really know very little about it ... but surely, a very little reflection must 
+teach every Southern man who is willing to be taught what our policy is. The Bank 
+&amp; the metallic basis &amp; the paper currency are all debatable questions but 
+the Black Currency is not. How am I to be benefited by either Bank or Sub. 
+Treasury without my land on Cooper River &amp; the Negroes that work there? What 
+signifies to me all the jargon about Whigs &amp; Conservatives etc. etc. if the abolitionists stand between me &amp; the White Gate at Longwood? these are the inquiries 
+that make me an administration man with me the very foundation of liberty is 
+slavery &amp; I go for Mr. Van Buren because Mr. Van Buren goes for me &amp; it would 
+be worse than hypocrisy in me to be hunting about for better reasons than this with 
+a strong current sitting against us, with the whole world looking angrily at our in 
+stitution &amp; the prevailing feeling of mankind plainly developing a disposition to 
+overthrow them, how can the South afford to talk about this man, or that man, with 
+the message of the President &amp; the actions conforming to his message staring us 
+in the face?" Poinsett MSS. in Pennsylvania Historical Society Library. 
+</p>
+</letter>

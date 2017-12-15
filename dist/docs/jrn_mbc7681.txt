@@ -1,0 +1,9 @@
+<letter id="mbc7681">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va. <a href='/results.php?year=1863' rel="origin">1863</a>]. A box has come from home for me. 
+Taking advantage of this good fortune and a full larder, have asked <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> to dine with me. Wade Hampton 
+sent me a basket of game. We had <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and Mr. and Mrs. Preston. After dinner we walked to the church to see 
+the Freeland-Lewis wedding. Mr. Preston had <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> on his arm. My husband and Mrs. Preston, and Burton 
+</p>
+</letter>

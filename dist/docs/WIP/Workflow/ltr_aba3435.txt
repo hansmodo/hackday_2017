@@ -1,0 +1,101 @@
+<letter id="aba3435">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1790" rel="origin">1790</a>. 
+</p><p>
+MY DEAR, 
+</p><p>
+I suppose you wish to hear from me and from your 
+little boy. He is very well, and very amusing, as 
+usual ; talks of William, and of the other papa ; is 
+as fond as ever of the " fosses," and has a great addition to his amusement and pleasures from a flock 
+of sheep, which are daily pastured by a shepherd and 
+his dog upon the lawn in front of our house. Bush 
+Hill, as it is called, though by the way there remains neither bush nor shrub upon it, and very few 
+trees, except the pine grove behind it, yet Bush 
+Hill is a very beautiful place. But the grand and 
+sublime I left at <a href='/results.php?city=richmond' rel='city'>Richmond</a> Hill. The cultivation in 
+sight and prospect are superior, but the Schuylkill is 
+no more like the Hudson, than I to Hercules. The 
+house is better finished within ; but, when you come 
+to compare the conveniences for store-room, kitchen, 
+closets, <&c, there is nothing like it in the whole 
+house. As chance governs many actions of my 
+life, when we arrived in the city, we proceeded to 
+the house. By accident, the vessel, with our furniture, had arrived the day before, and Briesler was 
+taking in the first load into a house all green-painted, 
+the workmen there with their brushes in hand. 
+This was a cold comfort in a house, where I suppose 
+no fire had been kindled for several years, except in 
+a back kitchen ; but, as I expected many things of 
+this kind, I was not disappointed nor discomfited. 
+As no wood nor fodder had been provided beforehand, we could only turn about, and go to the City 
+Tavern for the night. 
+</p><p>
+The next morning was pleasant, and I ventured 
+to come up and take possession ; but what confusion ! Boxes, barrels, chairs, tables, trunks, 6cc. ; 
+every thing to be arranged, and i'ew hands to accomplish it, for Briesler was obliged to be at the vessel. 
+The first object was to get fires ; the next to get up 
+beds ; but the cold, damp rooms, the new paint, 
+&c, proved almost too much for me. On Friday 
+we arrived here, and late on Saturday evening we 
+got our furniture in. On Sunday, Thomas was laid 
+up with the rheumatism ; on Monday, I was obliged 
+to give Louisa an emetic ; on Tuesday, Mrs. Briesler was taken with her old pain in her stomach ; 
+and, to complete the whole, on Thursday, Polly was 
+seized with a violent pleuritic fever. She has been 
+twice bled, a blister upon her side, and has not been 
+out of bed since, only as she is taken up to have her 
+bed made. And every day, the stormy ones excepted, from eleven until three, the house is filled 
+with ladies and gentlemen. As all this is no more 
+nor worse than I expected, I bear it without repining, 
+and feel thankful that I have weathered it out without 
+a relapse, though some days I have not been able to 
+sit up. 
+</p><p>
+Mrs. Bingham has been twice to see me. I think 
+she is more amiable and beautiful than ever. I have 
+seen many very fine women since I have been here. 
+Our Nancy Hamilton is the same unaffected, affable 
+girl we formerly knew her. She made many kind inquiries after you ; so did Mrs. Bingham. I have not 
+yet begun to return visits, as the ladies expect to find 
+me at home, and I have not been in a state of health 
+to do it ; nor am yet in a very eligible state to receive 
+their visits. I, however, endeavoured to have one 
+room decent to receive them, which, with my own 
+chamber, is as much as I can boast of, at present, 
+being in tolerable order. The difficulty of getting 
+workmen, Mr. Hamilton pleads as an excuse for the 
+house not being ready. Mrs. Lear was in to see me 
+yesterday, and assures me that I am much better off 
+than Mrs. Washington will be when she arrives, for 
+that their house is not likely to be completed this 
+year. And, when all is done, it will not be Broadway. If <a href='/results.php?city=new york' rel='city'>New York</a> wanted any revenge for the 
+removal, the citizens might be glutted if they would 
+come here, where every article has become almost 
+double in price, and where it is not possible for 
+Congress, and the appendages, to be half as well accommodated for a long time. One would suppose 
+that the people thought Mexico was before them, and 
+that Congress were the possessors. 
+</p><p>
+23 November. Sunday. 
+</p><p>
+I wrote you thus far on Sunday last. Polly is on 
+the recovery, but your brother Thomas is very ill, 
+and almost helpless with the rheumatism. You recollect how he formerly had it. It seems as if sickness followed me wherever I go. The President got 
+to town on Saturday ; I have not yet seen him or 
+Mrs. Washington. We have had two severe storms ; 
+the last was snow. Poor Mrs. Knox is in great 
+tribulation about her furniture. The vessel sailed the 
+day before the first storm, and had not been heard of 
+on Friday last. I had a great misfortune happen to 
+my best trunk of clothes = The vessel sprung a leak, 
+and my trunk got wet a foot high, by which means I 
+have several gowns spoiled ; and the one you worked 
+is the most damaged, and a black satin ; the blessed 
+effects of tumbling about the world. Adieu. Write 
+me soon. Love to all. 
+</p><p>
+A. A. 
+</p>
+</letter>

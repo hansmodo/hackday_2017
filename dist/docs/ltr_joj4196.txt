@@ -1,0 +1,140 @@
+<letter id="joj4196">
+<recipient first="John" last="Adams" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='31'>31st</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1818' rel="origin">1818</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I received your letter of the 9th by the mail which 
+arrived here on the 24th inst. 
+</p><p>
+I have not seen Mr. Wirt's book, nor heard of the " passage" in it, of which your letter contains a copy. You think that passage, as you understand it, is not correct, and 
+observe, that as I am the only man remaining alive who can perfectly correct it, " in your opinion it is my conscientious duty to do it." 
+</p><p>
+For your satisfaction, and pursuant to your opinion, I will proceed to give you a plain statement of facts. There 
+are entries in the printed journals of Congress of <a href='/results.php?year=1774'>1774</a> which 
+merit attention ; and I think the extracts from that journal, which I shall introduce, afford in erences which militate 
+against some of the incidents mentioned in the passage. That you may compare and examine both with the greater 
+ease to yourself, I will first insert the passage, and then the extracts. 
+</p><p>
+"A petition to the king, an address to the people of Great Britain, and a memorial to the people of British America 
+were agreed to be drawn. Mr. Lee, <a href='/results.php?tla=pah' rel='colleague'>Mr. Henry</a>, and 
+others were appointed for the first ; Mr. Lee, Mr. Livingston, and <a href='/results.php?tla=joj' rel=''>Mr. Jay</a> for the two last. The splendour of their 
+debut occasioned <a href='/results.php?tla=pah' rel='colleague'>Mr. Henry</a> to be designated by his committee to draw the petition to the king with which they 
+were charged, and Mr. Lee was charged with the address to the people of England. The last was firs' reported. 
+On reading it, great disappointment was expressed on every countenance, and a dead silence ensued for some minutes. 
+At length it was laid on the table for perusal and consideration till the next clay ; when first one member, and then 
+another arose, and, paying some faint compliment to the composition, observed that there were still certain considerations not expressed which should properly find a place in 
+it. His address was therefore committed for amendment ; 
+and one prepared by <a href='/results.php?tla=joj' rel=''>Mr. Jay</a>, and oiVered by Governor Livingston, was reported and adopted with scarcely an 
+alteration. These facts are stated by a gentleman, to whom 
+they were communicated by <a href='/results.php?tla=edp' rel='colleague'>Mr. Pendleton</a> and Mr. Harrison of the Virginia delegation (except that Mr. Harrison 
+erroneously ascribed the draught to Governor Livingston), 
+and to whom they were afterward confirmed by Governor Livingston himself. <a href='/results.php?tla=pah' rel='colleague'>Mr. Henry</a>'s draft of a petition to the 
+king was equally unsuccessful, and was recommitted for 
+amendment. Mr. John Dickinson (the author of the farmer's Letters) was added to the committee, ami a new 
+draught prepared by him was adopted." 
+</p><p>
+"Tuesday, October lltk, <a href='/results.php?year=1774'>1774</a>. — Resolved unanimously; 
+</p><p>
+That a memorial be prepared to the people of British 
+America, stating to them the necessity of a firm, united, and 
+</p><p>
+invariable observation of the measures recommended by 
+the Congress, as they tender the invaluable rights and liberties derived to them from the laws and constitution of 
+their country. 
+</p><p>
+" Also, that an address be prepared to the people of 
+Great Britain. 
+</p><p>
+" Ordered, That Mr. Lee, Mr. Livingston, and <a href='/results.php?tla=joj' rel=''>Mr. Jay</a> 
+be a committee to prepare a draught of the memorial and 
+address." 
+</p><p>
+The committee assigned the memorial, which was first 
+in order, and also deemed first in importance, to Mr. Lee. 
+Mr. Livingston, who was my superior both in age and 
+reputation, was desired to prepare the address. He declined it, and urged me to take it. I finally consented, and 
+did write it. 
+</p><p>
+" Tuesday, October l&th, <a href='/results.php?year=1774'>1774</a>. — The committee appointed 
+to prepare the address to the people of Great Britain brought 
+in a draught, which was read and ordered to lie on the table 
+for the perusal of the members, and to be taken into consideration tomorrow. 
+</p><p>
+" Wednesday, October 19th, <a href='/results.php?year=1774'>1774</a>. — The Congress resumed the consideration of the address to the people of 
+Great Britain ; and the same being debated by paragraphs, 
+and sundry amendments made, the same was recommitted, 
+in order that the amendments may be taken in." 
+</p><p>
+I was present in Congress, and attended to the proposed 
+amendments. Mr. Lee (one of the committee) moved that 
+the draught should be recommitted for the purpose mentioned in the journal ; and for that purpose it was recommitted. The amendments were made the next day, and 
+the draught was returned to Congress the ensuing morning. 
+</p><p>
+" Friday, October 21st, <a href='/results.php?year=1774'>1774</a>. — The address to the people of Great Britain being brought in, and the amendments 
+directed being made, the same was approved, and is as follows." 
+</p><p>
+Is it probable that the committee found il sary to assign both the memorial and the address to Mr. Lee, or 
+that he would readily undertake that double task, or that 
+notwithstanding his other avocations in and out of Congress, he could finish them both between the 11th October, 
+when they were ordered, and the 19th, when the drai of the memorial was reported ? 
+</p><p>
+According to the journal, the draught of the address was 
+recommitted, expressly for the purpose, and "in order that 
+the amendments might be taken in." Is it probable that the 
+committee did, nevertheless, lay aside that draught and 
+substitute a new one ? How could they have rendered such 
+a procedure reconcilable to the feelings of the writer of that 
+draught, or compatible with their recent approbation of it, 
+or consistent with the design and object of the recommitment ? Could any of the members have been so negligent 
+of delicacy and propriety, as to propose or concur in such 
+a measure ? Could the embarrassments and difficulties 
+attending it have been surmounted between the Wednesday, when the address was recommitted, and the ensuing 
+Friday, when (with the amendments taken in) it was read 
+and approved ? 
+</p><p>
+The subsequent occurrences you mention have not 
+escaped my recollection. I was informed, and I believe 
+correctly, that one person in particular of those you specify, 
+had endeavoured, by oblique intimations, to insinuate a suspicion that the address to the people of Great Britain was 
+not written by me, but by Cov. Livingston. That gentleman repelled the insinuation. He knew and felt what was 
+due to truth, and explicitly declared it. 
+</p><p>
+Those persons are dead and gone. Their design did not 
+succeed, and I have no desire that the memory of it should 
+survive them. As to the address or petition to the king — 
+who wrote the draught that was reported and recommitted 
+— how far it corresponded with the one that was adopted — 
+whether Mr. Dickinson, after he was added to the committee, prepared an entire new draught, or only co-operated 
+in amending the one then before the committee — are questions which you only, who have survived all the other 
+members of that committee, can answer with certainty. 
+</p><p>
+Considering who were the members of that committee, 
+viz. yourself, Mr. Lee, Mr. Johnson, <a href='/results.php?tla=pah' rel='colleague'>Mr. Henry</a>, and Mr. Rutlcdge, I think the idea of a new draught cannot be correct. That*Mr. Dickinson did write the subsequent or 
+second address or petition to the king, I have no reason to 
+doubt. 
+</p><p>
+To prepare an acceptable draught of the first petition 
+was no easy task. Instructions as to matters to be inserted 
+in it were given to the committee : and some were proposed which occasioned much debate. You may remember 
+that many of the m< mbers of that Congress were anxious 
+that too much might not be done or said ; and on the other 
+hand, that there were many members who were anxious 
+that too little might not be done or said. Hence there 
+arose and prevailed a more than ordinary degree of solicitude and watchfulness, both as to the purport of subjectmatter, and to the force and latitude of expressions. And 
+hence also it may have happened, that (except the draught 
+of a letter to the agents in England) every report made to 
+that Congress received amendments of one kind or other, 
+before they approved and adopted it. 
+</p><p>
+Be pleased to present my best respects to <a href='/results.php?tla=aba' rel=''>Mrs. Adams</a>. 
+It gives me pleasure to reflect, that your friendship for me 
+has from of " old"' continued steadfast, and that my estimation of it has constantly animated the attachment with which 
+I have so long been, and am, dear sir, 
+</p><p>
+Your affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,31 @@
+<letter id='mad1547'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Ocf 5th, <a href="/results.php?year=1786">1786</a>. 
+</p><p>
+DEAR SIR, I received yesterday your favor of the 2nd instant, which makes the third for which my acknowledgments 
+are due. The progression which a certain measure seems to be 
+making is an alarming proof of the predominance of temporary 
+and partial interests over those just and extended maxims of 
+policy which have been so much boasted of among us, and 
+which alone can effectuate the durable prosperity of the Union. 
+Should the measure triumph under the patronage of nine States, 
+or even of the whole thirteen, I shall never be convinced that 
+it is expedient, because I cannot conceive it to be just. 
+</p><p>
+There is no maxim, in my opinion, which is more liable to be 
+misapplied, and which, therefore, more needs elucidation, than 
+the current one, that the interest of the majority is the political 
+standard of right and wrong. Taking the word "interest" as 
+synonymous with " ultimate happiness," in which sense it is 
+qualified with every necessary moral ingredient, the proposition 
+is no doubt true. But taking it in the popular sense, as referring to immediate augmentation of property and wealth, nothing 
+can be more false. In the latter sense, it would be the interest 
+of the majority in every community to despoil and enslave the 
+minority of individuals; and in a federal community, to make a 
+similar sacrifice of the minority of the component States. In 
+fact, it is only re-establishing, under another name and a more 
+specious form, force as the measure of right; and in this light 
+the Western settlements will infallibly view it. 
+</p>
+</letter>

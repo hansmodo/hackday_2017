@@ -1,0 +1,16 @@
+<letter id="mbc7670">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='10'>October</a> <a rel='day origin' value='27'>27th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1863' rel="origin">1863</a>]. Young Wade Hampton has been here for a few days, a guest of our nearest neighbor and cousin, 
+Phil Stockton. Wade, without being the beauty or the athlete that his brother Preston is, is such a nice boy. We lent 
+him horses, and ended by giving him a small party. What was lacking in company was made up for by the excellence 
+of old Colonel Chesnut's ancient Madeira and champagne. If everything in the Confederacy were only as truly good 
+as the old Colonel's wine-cellars ! Then we had a salad and a jelly cake. 
+</p><p>
+<a href='/results.php?tla=jpj' rel=''>General Joe Johnston</a> is so careful of his aides that Wade has never yet seen a battle. Says he has always happened to be sent afar off when the fighting came. He does 
+not seem too grateful for this, and means to be transferred to his father's command. He says,  "No man exposes him 
+self more recklessly to danger than <a href='/results.php?tla=jpj' rel=''>General Johnston</a>, and no one strives harder to keep others out of it." But the 
+business of this war is to save the country, and a commander must risk his men's lives to do it. There is a French saying 
+that you can't make an omelet unless you are willing to break eggs. 
+</p>
+</letter>

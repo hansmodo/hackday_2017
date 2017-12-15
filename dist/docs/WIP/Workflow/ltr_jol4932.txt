@@ -1,0 +1,67 @@
+<letter id="jol4932">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, 	<a rel='day origin' value='28'>28th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I was obliged to write briefly and in haste, by the 
+last courier. I have since had several long conversations with the <a href='/results.php?tla=frs' rel='co-worker met'>Baron Steuben</a>, who appears to me a 
+man profound in the science of war, and well disposed 
+to render his best services to the United States. In 
+an interview between him and the general, at which I 
+assisted in quality of interpreter, he declared that he 
+had purposely waved making any contract with Congress, previous to his having made some acquaintance 
+with the Commander in chief, in order that he might 
+avoid giving offence to the officers of the army, and 
+that the general might decide, in what post he could 
+he the most useful. If I have conceived rightly of his 
+character and abilities, he would make us an excellent 
+quarter master general, in the military part of the 
+department; his office being confined to the choice 
+of positions, regulation of marches, etc. But as the 
+civil and military duties with us are blended, he can t 
+be disposed of in this way; his being a foreigner, 
+unfitting him totally for the latter. I think he would 
+be the properest man we could choose for the office 
+of inspector general, and there are several good assist 
+ants that might be given him. I have the highest 
+opinion of the service he would render in this line, as 
+he seems to be perfectly aware of the disadvantages 
+under which our army has labored from short enlistments and frequent changes; seems to understand 
+what our soldiers are capable of, and is not so staunch 
+a systematist as to be averse from adapting established 
+forms to stubborn circumstances. He will not give us 
+the perfect instructions, absolutely speaking, but the 
+best which we are in a condition to receive. We want 
+some kind of general tutoring in this way so much, 
+that as obnoxious as Conway is to most of the army, 
+rather than take the field without the advantages that 
+might be derived from a judicious exercise of his 
+office, I would wish every motive of dissatisfaction 
+respecting him for the present to be suppressed. 
+</p><p>
+The baron proposes to take the rank of major 
+general, with the pay, rations, etc. He does not wish 
+for any actual command, as he is not acquainted with 
+our language and the genius of our people. 
+</p><p>
+It gives great uneasiness to hear it whispered that 
+Congress will not probably ratify the arrangements 
+proposed for the benefit of the army. If we had as 
+much virtue as we ought to have, this would produce 
+no dangerous change ; but according to the present 
+interested ideas of men, many of our best officers will 
+very likely retire from the service. 
+</p><p>
+The whole corps of officers look up to the commit 
+tee of Congress, and anxiously wait the result of their 
+recommendations. The most disinterested lament the 
+delay, and tremble for the cause of their country. 
+My dearest friend and father, adieu. 
+</p><p>
+I am your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

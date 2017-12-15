@@ -1,0 +1,16 @@
+<letter id="nib5322">
+<recipient first="B" last="Leigh" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>  <a rel="month origin" value="9">Sept'r</a>. <a rel='day origin' value='7'>7</a>. <a href='/results.php?year=1837' rel="origin">1837</a> 
+</p><p>
+My Dear Sir, 
+</p><p>
+I had last night the pleasure of receiving your favor of the 4th inst. &amp; now inclose 
+</p><p>
+1. A certificate from the Transfer Dep . of the Bank of the U.S. as to transfers from &amp; to Mr. J. B. Harvie, &amp; 
+</p><p>
+2. Copies of the powers of Attorney by with which these transfers were effected. 
+</p><p>
+I shall look with great interest for the correspondence which you promise &amp; remain meanwhile, 
+</p>
+</letter>

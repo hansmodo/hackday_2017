@@ -1,0 +1,75 @@
+<letter id="gwa4518">
+<recipient first="William" last="Heath" type="individual"/>
+<p>[Head-Quarters, <a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a>]</p>
+<p>
+Instructions. 
+</p><p>
+Sir, 
+</p><p>
+You are to take the command of all the troops remaining in this department, consisting of the two regiments of New Hampshire, ten of Massachusetts, and 
+five of Connecticut infantry, the corps of invalids, Sheldon's legion, the third regiment of artillery, together with all such State troops and militia, as are retained in service, and who would have been under my own command. 
+</p><p>
+The security of <a href='/results.php?city=west point' rel='city'>West Point</a> and the posts in the Highlands is to be considered the first object of your attention. In order to effect this, you will make such dispositions as in your judgement the circumstances shall 
+from time to time require ; taking care to have as large a supply of salted provisions as possible constantly on hand ; to have the fortifications, works, and magazines 
+repaired and perfected as far as may be ; to have the garrison at least in all cases kept up to its present strength ; and to have the minuter arrangements and plans for the defence and support of this important post 
+perfectly understood and vigorously acted upon, in case of any attempt against it. Ample magazines of wood and forage are to be laid in against the approaching winter. The former should be cut on the margin of 
+the river, and transported by water to the garrison. The latter ought to be collected from the country below the lines, in the greatest quantities possible, and 
+deposited in such places as you shall judge proper. 
+</p><p>
+The force now put under your orders, it is presumed, 
+will be sufficient for all the purposes above mentioned ; 
+as well as to yield a very considerable protection and 
+cover to the country, without hazarding the safety of 
+the posts in the Highlands. This is to be esteemed, 
+as it respects the friendly inhabitants and resources of 
+the country, an extremely interesting object ; but, when 
+compared with the former, of a secondary nature. The 
+protection of the northern and western frontiers of the 
+State of <a href='/results.php?city=new york' rel='city'>New York</a>, as well as those parts of that and 
+other States most contiguous and exposed to the ravages and depredations of the enemy, will claim your 
+attention. But, as the contingencies, which are to be 
+expected in the course of the campaign, may be so 
+various, unforeseen, and almost infinite, that no particular line of conduct can be prescribed for them, upon 
+all such occasions you will be governed by your own 
+prudence and discretion, in which the fullest confidence 
+is placed. 
+</p><p>
+Although your general rule of conduct will be to act 
+on the defensive only, yet it is not meant to prohibit 
+you from striking a blow at the enemy's posts, or detachments, should a fair opportunity present itself. 
+</p><p>
+The most eligible position for your army, in my opinion, will be on the north side of Croton River ; as 
+well for the purpose of supporting the garrison of West 
+Point, annoying the enemy, and covering the country, 
+as for the security and repose of your troops, Waterbury's brigade, which may be posted towards the 
+Sound, Sheldon's corps, the State troops of <a href='/results.php?city=new york' rel='city'>New York</a>, 
+and other light parties, may occasionally be made use 
+of to hold the enemy in check, and carry on a petite 
+guerre with them ; but I would recommend keeping 
+your force as much collected and as compact as the 
+nature of the service will admit, doing duty by corps 
+instead of detachments whenever it is practicable, and 
+above all exerting yourself most strenuously and assiduously, while the troops are in a camp of repose, to 
+make them perfect in their exercise and manoeuvres, 
+and to establish the most regular system of discipline 
+and duty. The good of the service and the emulation 
+of corps will, I am persuaded, prompt the officers and 
+men to devote their whole time and attention to the 
+pleasing and honorable task of becoming masters of 
+their profession. The uncertainty, which the present 
+movements of the army will probably occasion with the 
+enemy, ought to be increased by every means in your 
+power, and the deception kept up as long as possible. 
+</p><p>
+It will not be expedient to prevent such militia as were ordered from coming in, until the arrival of the Count de Grasse, or something definite or certain is 
+known from the southward ; and even then (but of this you will be advised) circumstances may render it 
+advisable to keep the enemy at <a href='/results.php?city=new york' rel='city'>New York</a> in check, to prevent their detaching to reinforce their southern army, or to harass the inhabitants on the seacoast. 
+</p><p>
+The redoubt on the east side of Dobbs's Ferry is to be dismantled and demolished, and the platforms to be 
+taken up and transported up the river, if it can conveniently be done. The blockhouse on the other side is to be maintained, or evacuated and destroyed, as you 
+shall think proper. The water-guards and other precautions to prevent a surprise, you will be pleased to take into consideration, and regulate in such a manner 
+as you shall judge most expedient. You will be pleased, also, to keep me regularly advised of every important event, which shall take place in your department. 
+Given under my hand at Head-Quarters, this <a rel='day origin' value='19'>19th</a> day 
+of <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p>
+</letter>

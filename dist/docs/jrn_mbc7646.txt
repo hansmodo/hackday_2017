@@ -1,0 +1,35 @@
+<letter id="mbc7646">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='12'>12th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. New England's Butler, best known to us as " Beast" Butler, is famous or infamous now. His amazing 
+order to his soldiers at New Orleans and comments on it are in everybody's mouth. We hardly expected from Massachusetts behavior to shame a Comanche. 
+</p><p>
+One happy moment has come into Mrs. Preston's life. I watched her face to-day as she read the morning papers. 
+Willie's battery is lauded to the skies. Every paper gave him a paragraph of praise. 
+</p><p>
+South Carolina was at <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> feet after Fort Sumter. Since Shiloh, she has gotten up, and looks askance 
+rather when his name is mentioned. And without Price or <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> who takes charge of the Western forces? 
+" Can we hold out if England and France hold off? " cries Mem. No, our time has come. 
+</p><p>
+" For shame, faint heart ! Our people are brave, our cause is just ; our spirit and our patient endurance beyond 
+reproach." Here came in Mary Cantey's voice: " I may 
+not have any logic, any sense. I give it up. My woman's instinct tells me, all the same, that slavery's time has come. 
+If we don't end it, they will." 
+</p><p>
+After all this, tried to read Uncle Tom, but could not ; too sickening ; think of a man sending his little son to beat 
+a human being tied to a tree. It is as bad as Squeers beating Smike. Flesh and blood revolt ; you must skip that ; it 
+is too bad. 
+</p><p>
+Mr. Preston told a story of <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> as a boy. A party of boys at Abingdon were out on a spree, more boys 
+than horses; so <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> rode behind John Preston, who is his cousin. While going over the mountains they 
+tried to change horses and got behind a servant who was in charge of them all. The servant's horse kicked up, threw 
+<a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>, and broke his leg; a bone showed itself. " Hello, boys ! come here and look : the confounded bone 
+has come clear through, called out Joe, coolly. 
+</p><p>
+They had to carry him on their shoulders, relieving guard. As one party grew tired, another took him up. 
+They knew he must suffer fearfully, but he never said so. He was as cool and quiet after his hurt as before. He was 
+pretty roughly handled, but they could not help it. His father was in a towering rage because his son's leg was to 
+be set by a country doctor, and it might be crooked in the process. At Chickahominy, brave but unlucky Joe had 
+already eleven wounds. 
+</p>
+</letter>

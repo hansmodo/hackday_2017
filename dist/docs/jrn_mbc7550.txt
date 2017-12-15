@@ -1,0 +1,61 @@
+<letter id="mbc7550">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a href='/results.php?year=1861' rel="origin">1861</a>]. Yesterday Mrs. Wigfall and I made a few visits. At the first house they wanted Mrs. Wigfall to settle a dispute. " Was she, indeed, fifty-five? " Fancy her face, more than ten years bestowed upon her so freely. 
+Then Mrs. Gibbes asked me if I had ever been in Charleston before. Says Charlotte Wigfall (to pay me for my 
+snigger when that false fifty was flung in her teeth), " and she thinks this is her native heath and her name is McGregor." She said it all came upon us for breaking the Sabbath, for indeed it was Sunday. 
+</p><p>
+Allen Green came up to speak to me at dinner, in all his soldier's toggery. It sent a shiver through me. Tried to 
+read Margaret Fuller Ossoli, but could not. The air is full of war news, and we are all so restless. 
+</p><p>
+Went to see Miss Pinckney, one of the last of the old-world Pinckneys. She inquired particularly about a portrait of her father, Charles Cotesworth Pinckney, which she said had been sent by him to my husband's grand father. I gave a good account of it. It hangs in the place 
+of honor in the drawing-room at Mulberry. She wanted to see my husband, for " his grandfather, my father's 
+friend, was one of the handsomest men of his day." We came home, and soon Mr. Robert Gourdin and Mr. Miles 
+called. Governor Manning walked in, bowed gravely, and seated himself by me. Again he bowed low in mock heroic 
+style, and with a grand wave of his hand, said: " Madame, your country is invaded." When I had breath to speak, 
+I asked, " What does he mean? " He meant this: there are six men-of-war outside the bar. Talbot and Chew have 
+come to say that hostilities are to begin. <a href='/results.php?tla=wfp' rel='acquaintance met'>Governor Pickens</a> 
+and <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> are holding a council of war. Mr. Chesnut 
+then came in and confirmed the story. Wigfall next entered in boisterous spirits, and said: " There was a sound 
+of revelry by night." In any stir or confusion my heart is apt to beat so painfully. Now the agony was so stifling 
+I could hardly see or hear. The men went off almost immediately. And I crept silently to my room, where I sat down to a good cry. 
+</p><p>
+Mrs. Wigfall came in and we had it out on the subject of civil war. We solaced ourselves with dwelling on all its 
+known horrors, and then we added what we had a right to expect with Yankees in front and negroes in the rear. 
+" The slave-owners must expect a servile insurrection, of course," said Mrs. Wigfall, to make sure that we were unhappy enough. 
+</p><p>
+Suddenly loud shouting was heard. We ran out. Cannon after cannon roared. We met Mrs. Allen Green in 
+the passageway with blanched cheeks and streaming eyes. 
+Governor Means rushed out of his room in his dressing-gown and begged us to be calm. " <a href='/results.php?tla=wfp' rel='acquaintance met'>Governor Pickens</a>," 
+said he, " has ordered in the plenitude of his wisdom, . 
+seven cannon to be fired as a signal to the Seventh Regiment. Anderson will hear as well as the Seventh Regiment. Now you go back and be quiet; fighting in the streets has not begun yet. 
+</p><p>
+So we retired. Dr. Gibbes calls Mrs. Allen Green Dame Placid. There was no placidity to-day, with cannon bursting and Allen on the Island. No sleep for anybody last night. The streets were alive with soldiers, men shouting, 
+marching, singing. Wigfall, the " stormy petrel," is in his glory, the only thoroughly happy person I see. To-day 
+things seem to have settled down a little. One can but 
+hope still. <a href='/results.php?tla=abl' rel=''>Lincoln</a>, or <a href='/results.php?tla=wls' rel=''>Seward</a>, has made such silly advances and then far sillier drawings back. There may be a chance for peace after all. Things are happening so fast. 
+My husband has been made an aide-de-camp to <a href='/results.php?tla=pgb' rel='met'>General Beauregard</a>. 
+</p><p>
+Three hours ago we were quickly packing to go home. The Convention has adjourned. Now he tells me the attack 
+on Fort Sumter may begin to-night ; depends upon Anderson and the fleet outside. The Herald says that this show 
+of war outside of the bar is intended for Texas. John Manning came in with his sword and red sash, pleased as a boy 
+to be on <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> staff, while the row goes on. He has gone with Wigfall to Captain Hartstein with instructions. Mr. Chesnut is finishing a report he had to make 
+to the Convention. 
+</p><p>
+Mrs. Hayne called. She had, she said, but one feeling; pity for those who are not here. Jack Preston, Willie 
+Alston, the take-life-easys, as they are called, with John Green, " the big brave," have gone down to the islands 
+volunteered as privates. Seven hundred men were sent over. Ammunition wagons were rumbling along the streets 
+all night. Anderson is burning blue lights, signs, and signals for the fleet outside, I suppose. 
+</p><p>
+To-day at dinner there was no allusion to things as they stand in Charleston Harbor. There was an undercurrent 
+of intense excitement. There could not have been a more brilliant circle. In addition to our usual quartette (Judge 
+Withers, Langdon Cheves, and Trescott), our two ex-Governors dined with us, Means and Manning. These men all 
+talked so delightfully. For once in my life I listened. That over, business began in earnest. Governor Means had 
+rummaged a sword and red sash from somewhere and brought it for Colonel Chesnut, who had gone to demand 
+the surrender of Fort Sumter. And now patience we must wait. 
+</p><p>
+Why did that green goose Anderson go into Fort Sumter? Then everything began to go wrong. Now they have 
+intercepted a letter from him urging them to let him surrender. He paints the horrors likely to ensue if they will 
+not. He ought to have thought of all that before he put his head in the hole. 
+</p>
+</letter>

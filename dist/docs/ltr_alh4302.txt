@@ -1,0 +1,58 @@
+<letter id="alh4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='25'>25</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+The inclosed I write more in a public than in a 
+private capacity. Here I write as a citizen zealous 
+for the true happiness of this country; as a soldier, 
+who feels what is due to an army which has suffered 
+every thing, and done much for the safety of America. 
+</p><p>
+I sincerely wish ingratitude was not so natural to 
+the human heart as it is. I sincerely wish there 
+were no seeds of it in those who direct the counsels 
+of the United States. But while I urge the army 
+to moderation, and advise your Excellency to take 
+the direction of their discontents, and endeavour to 
+confine them within the bounds of duty, I cannot, as 
+an honest man, conceal from you, that I am afraid 
+their distrust has too much foundation. Republican 
+jealousy has in it a principle of hostility to an arm}', 
+whatever be their merits, whatever be their claims to 
+the gratitude of the community. It acknowledges 
+their services with unwillingness, and rewards them 
+with reluctance. I see this temper, though smothered 
+with great care, involuntarily breaking out upon too 
+many occasions. I often feel a mortification, which 
+it would be impolitic to express, that sets my passions at variance with my reason. Too many, I perceive, if they could do it with safety or color, would 
+be glad to elude the just pretensions of the army. I 
+hope this is not the prevailing disposition. 
+</p><p>
+But, supposing the country ungrateful, what can 
+the army do? It must submit to its hard fate. To 
+seek redress by its arms, would end in its ruin. The 
+army would moulder by its own weight, and for want 
+of the means of keeping together; the soldiery would 
+abandon their officers ; there would be no chance of 
+success, without having recourse to means that would 
+reverse our revolution. I make these observations, 
+not that I imagine your Excellency can want motives 
+to continue your influence in the path of moderation, 
+but merely to show why I cannot myself enter into 
+the views of coercion, which some gentlemen entertain ; for, I confess, could force avail, I should almost wish to see it employed. I have an indifferent 
+opinion of the honesty of this country, and ill forebodings as to its future system. 
+</p><p>
+Your Excellency will perceive I have written with 
+sensations of chagrin, and will make allowance for 
+coloring ; but the general picture is too true. God 
+send us all more wisdom! I am, very sincerely and 
+respectfully, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>.
+</p>
+</letter>

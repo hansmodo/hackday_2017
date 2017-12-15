@@ -1,0 +1,42 @@
+<letter id='mad1485'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, ESQ. [SR.]
+</p><p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, May 20th, <a href="/results.php?year=1782">1782</a>. 
+</p><p>
+HON D Sm, Having written a letter and enclosed it with 
+a large collection of newspapers for you, which was to have 
+been carried by Mr. J. Smith, but which I have now put into 
+the hands of Captain Walker, whose return will be quicker, 
+little remains for me to add here. 
+</p><p>
+Our anxiety on account of the West India news, published at 
+<a href="/results.php?city=new york" rel="city">New York</a>, is still supported by contradictory reports and conjectures. The account, however, to which Rodney's name is 
+prefixed, renders our apprehensions too strong for our hopes. 
+Rivington has been very bold in several of his spurious publications, and at this conjuncture might venture as far to serv.a 
+particular turn as at any. But it is scarcely credible that he 
+would dare or be permitted to sport with so high an official 
+name. 
+</p><p>
+If <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a> will be so obliging as to superintend the 
+legal studies of William, I think he cannot do better than prosecute the plan he has adopted. The interruption occasioned 
+by the election of Mr. J., although inconvenient in that respect, 
+is by no means a decisive objection against it. 
+</p><p>
+I did not know before that the which Mr. Walker was 
+to have carried last fall had met with the fate which it seems 
+they did. I shall be more cautious hereafter. The papers 
+missing in your list were, I presume, for I do not recollect, contained in them. 
+</p><p>
+If Continental money passes here at all, it is in a very small quantity, at very great discount, and merely to serve particular 
+local and temporary ends. 
+</p><p>
+It has at no time been more difficult for me to fix my probable 
+return to Virginia. At present all my colleagues have left 
+Congress except Colonel Bland, and it is a crisis which calls 
+for a full representation from every State. Anxious as I am to 
+visit my friends, as long as I sustain a public trust I shall feel a 
+principle which is superior to it. 
+</p>
+</letter>

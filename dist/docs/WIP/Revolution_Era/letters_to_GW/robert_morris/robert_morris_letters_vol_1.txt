@@ -1,0 +1,229 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.Mzh1rs on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--rom
+--DOC-AUTHOR-FIRST--Robert
+--DOC-AUTHOR-LAST--Morris
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="rom3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have just received yours of yesterday, and will 
+duly attend to those things you recommend to my 
+consideration. At present I have to inclose you a 
+letter from Congress, which I suppose contains their 
+resolves of the 20th instant; but as the President 
+does not say, in his letter to me, that they are in 
+closed to you, and as it is necessary you should 
+have them, I take the liberty to send herewith a copy of them.
+</p><p>
+I am well pleased to see the attention they pay 
+General Lee ; and I shall make it a point to collect 
+and send your Excellency, soon as possible, the 
+one hundred half Johannes they order. You will 
+observe Mr. Clymer, Mr. Walton, and myself are appointed a Committee to transact the Continental business here, that may be necessary and proper ; and I 
+apprehend that it will frequently be necessary that 
+we should know the substance of your correspondence with Congress.! Your letters to the President, 
+if sent open under our cover, shall always meet despatch, and their contents kept secret; and when you 
+think it improper we should see them before the 
+Congress, seal them, and they shall go forward untouched ; and, if you do not approve of submitting 
+them to our inspection at all, write us freely, and 
+your wishes in that respect shall be complied with. 
+</p><p>
+We have just heard of your success at <a href='/results.php?city=trenton' rel='city'>Trenton</a>. The account is but imperfect ; but we learn you are 
+master of that place, and all the baggage and stores our enemy had there, and of three hundred prisoners and that your troops were still in pursuit of the 
+flying enemy. I have just wrote to Congress, and 
+told them thus much, as the substance of an account 
+just come down; and I told them further, I had been 
+informed that you had executed in this matter your 
+part of a well-concerted plan; that <a href='/results.php?tla=wih' rel='colleague'>General Heath</a>,- at Hackensack, had orders from you, and that General Ewing and Colonel Cadwalader, also, had orders to 
+cross the Delaware at the same time you did, but had been prevented by driving ice. 
+</p><p>
+Good news sets all the animal spirits to work. 
+The imagination is heated, and I could not help adding , that I expected <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> was to continue 
+his march towards Brunswick, which would draw the 
+attention of any troops posted there and at Prince 
+ton, while you would pursue the flying heroes to Bordentown and Burlington, where Ewing and Cadwalader would stop them, and cut off their communication with the two thousand Hessians and 
+Highlanders, that came after Griffin ; nay, I almost 
+promised them that you should, by following up this 
+first blow, finish the campaign of <a href="http://www.familytales.org/results.php?year=1776">1776</a> with that 
+eclat that your numerous friends and admirers have 
+long wished for. I congratulate you most heartily on 
+what is done ; and am, with perfect esteem, dear Sir, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p>
+</letter><letter id="rom3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have just received your favor of this day, and 
+sent to <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> to detain the express until 
+I collect the hard money you want, which you may 
+depend shall be sent, in one specie or other, with this 
+letter, and a list thereof shall be inclosed herein. 
+</p><p>
+I had long since parted with very considerable 
+sums of hard money to Congress; therefore must collect from others, and, as matters now stand, it is no 
+easy matter. I mean to borrow silver, and promise 
+payment in gold, and will then collect the gold in 
+the best manner I can. Whilst on this subject, let 
+me inform you that there are upwards of twenty 
+thousand dollars in silver at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. They have 
+no particular use for it, and I think you might as 
+well send a party to bring it away, and lodge it in 
+a safe place convenient for any purposes for which 
+it may hereafter be wanted. 
+</p><p>
+I gave Mr. Commissary Wharton an order for forty 
+thousand dollars this morning, and pressed him to at 
+tend most diligently to your supplies. I will send 
+for him again, know what is done, and add springs 
+to his movements, if I can. I wish he was more 
+silent, prudent, &c. : but I fancy he is active. What 
+ever I can do shall be done for the good of the service. I ever am, dear Sir, 
+</p><p>
+Your Excellency's obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p><p>
+P. S. Hearing that you are in want of a quarter cask of wine, I have procured a good one, which Mr. Commissary Wharton will send up. 
+</p>
+</letter><letter id="rom3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I was honored with your favor of yesterday by 
+Mr. Ho well, late last night, and, ever solicitous to 
+comply with your requisitions, I am up very early 
+this morning to despatch a supply of fifty thousand 
+dollars to your Excellency. You will receive that 
+sum with this letter; but it will not be got away so 
+early as I could wish, for none concerned in this 
+movement, except myself, are up. I shall rouse them 
+immediately. It gives me great pleasure that you have engaged the troops to continue, and if further 
+occasional supplies of money are necessary, you may 
+depend on my exertions either in a public or private capacity. 
+</p><p>
+The year <a href="http://www.familytales.org/results.php?year=1776">1776</a> is over. I am heartily glad of it, 
+and hope you nor America will ever be plagued with 
+such another. Let us accept the success at <a href='/results.php?city=trenton' rel='city'>Trenton</a> 
+as a presage of future fortunate events; and under 
+that impression, I do most sincerely wish you a successful campaign in <a href="http://www.familytales.org/results.php?year=1777">1777</a>, to crown you with immortal honors, in reward of the dangers and fatigues of 
+war; and that you may, for many, many years after, 
+enjoy the sweets of peace and domestic happiness, in 
+reward of your social virtues. With sincere esteem 
+and regard, I ever am, Sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p>
+</letter><letter id="rom3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="3">March</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am honored with yours of the 2d instant. The 
+good opinion you are pleased to entertain of me, 
+makes me very happy, because there is no man's 
+opinion I reverence more ; and that very circumstance 
+is, at the same time, the source of trouble in my 
+mind, as you force me to abandon that idea of security which I was desirous of maintaining. It is 
+truly lamentable, that we have never been able to 
+this day to conquer that fundamental error made in 
+the outset by short enlistments. It was not until 
+conviction of the absolute necessity__of it, stared every 
+man in the face, that frltr -wholesome measure of enlisting for three years, or during the war, could be 
+carried in Congress; and since it was carried there, 
+it meets with insuperable obstacles, raised by the 
+former practice ; for the bounties, high wages, and 
+short service, have vitiated the minds of all that class of people, and they are grown the most mercenary beings that exist. 
+</p><p>
+I do not confine this observation to the soldiery 
+merely, but extend it to those who get their livings 
+by feeding and entertaining them. These are the 
+harpies that injure us much at this time. They keep 
+the fellows drunk while the money holds out ; when 
+it is gone, they encourage them to enlist for the 
+sake of bounty, then to drinking again ; that bounty 
+gone, and more money still wanted, they must enlist 
+again with some other officer, receive a fresh bounty 
+and get more drink, &c. This scene is actually carrying on here daily, and does immense injury to the 
+recruiting service ; but still I hope our new army 
+will be got together before long, at least so many as 
+will enable you to put a good face towards your 
+enemies ; and if that is accomplished, I think they 
+will not venture this way at present. It seems to be 
+their object ; and, in your situation, I really do not 
+see what is to f prevent their taking possession of it, 
+unless the want of stores, forage, &c., retards their 
+movements, or renders it impracticable for them to 
+come on. In the mean time, the public stores are 
+removing, and Congress has adjourned back to this 
+place, many of the members are come up, and the 
+rest on the road. I do not expect they will make a 
+House sooner than Monday; but your late despatches 
+shall be delivered to the President as soon as he 
+arrives. 
+</p><p>
+I wish with you, Sir, that they had complied with 
+General Lee's request; and when I sent forward those despatches to <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, I wrote my sentiments to 
+some of the members ; and although it would have 
+been inconvenient for me, and I urged not to be 
+appointed on that errand, yet I would have gone rather than he should have been disappointed. Whether they will take up the matter again, I do not 
+</p>
+</letter><letter id="rom3004">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="5">May</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have not taken the liberty of giving you any 
+trouble for some time past; and, indeed, I never do 
+it but with great reluctance, because I know how 
+much your attention and time must be engaged in 
+the most important pursuits. 
+</p><p>
+The bearer of this, the Marquis Armand de la Rouerie, is entitled to my warmest recommendations, 
+because he brought from his own country letters to 
+me that I am obliged to attend to, and put great 
+faith in, as they come from persons worthy of the 
+utmost credit. One of them is from Mr. Deane, who 
+not only mentions him as a gentleman of rank., good 
+family, and fortune, but also as a man of great merit ; desiring my particular attention to him, and that 
+I should supply him with money, which will be repaid in France by a gentleman to whom America 
+is under the most important obligations. You will, 
+therefore, excuse and oblige me at the same time by 
+your favorable attention to Monsieur Armand, for he 
+chooses to pass by that name ; and, should he want 
+money, I will pay his drafts for what he stands in 
+need of. I find he is a little disgusted at an appointment made for him by Congress this day; and 
+I believe it was through the inattention of a committee, which I shall get set right again in a short 
+time. I am, dear Sir, with the greatest esteem and 
+affection, 
+</p><p>
+Your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p>
+</letter>

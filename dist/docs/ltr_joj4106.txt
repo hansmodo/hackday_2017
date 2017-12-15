@@ -1,0 +1,39 @@
+<letter id="joj4106">
+<recipient first="John" last="Dumont" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I was favoured with yours of the 28th ultimo as I was 
+preparing to go out of town. It was not until last evening 
+that I returned, or I should have taken an earlier opportunity of answering your letter. 
+</p><p>
+Accept my thanks tor your friendly congratulations. I 
+believe them sincere, and value them accordingly. It would 
+give me great pleasure to see your situation more comfortable. On these occasions it is best to be very explicit ; it 
+would neither be friendly nor candid to excite delusory 
+expectations, or to make promises without a good prospect 
+of performing them. There is not a single office in my 
+gift ; nor do I recollect that there is more than one in the 
+appointment of the court, I mean their clerk. As to offices 
+in the gift of other departments, I think it my duty not to 
+interfere, nor to ask favours, it being improper for a judge 
+to put himself under such obligations. 
+</p><p>
+I am sincerely disposed to serve my friends, and you 
+among others ; but it can only be in a way perfectly consistent with the duties and proprieties of my public station. 
+These considerations will, I am persuaded, have their due 
+weight with you, and rather increase than diminish the 
+esteem and attachment you have always expressed and 
+manifested for me. I regret that on this occasion I cannot say things more consonant with your wishes ; but 
+sincerity, though not always pleasing, is preferable to mere 
+civility. 
+</p><p>
+Be assured of my constant regard, and that I remain 
+</p><p>
+Your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

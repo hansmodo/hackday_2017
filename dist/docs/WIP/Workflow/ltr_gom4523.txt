@@ -1,0 +1,21 @@
+<letter id="gom4523">
+<recipient first="Robert" last="Morris" type="individual"/>
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Friend, 
+</p><p>
+I have received yours of the third of February, and reply shortly, that I may reply immediately. My reason for which 
+is, that I am told that the London Gazetteers have killed me, besides burning my house, and other little pleasantries of the 
+same kind. Now as these accounts may be republished, I apprize you thereof, and pray you to vouch, that it was not 
+true at the time of publication. 
+</p><p>
+You tell me that, in my place, you would resign and come home ; but this is not quite so easily done as said. In the 
+first place, I must have leave to resign from the President ; but further, you will consider that the very circumstances, 
+which you mention, are strong reasons for abiding, because it is not permitted to abandon a post in the hour of difficulty. 
+T think the late decrees respecting our commerce will show you, that my continuance here has not been without some 
+use to the United States. I am always and truly yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

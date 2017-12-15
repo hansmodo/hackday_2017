@@ -1,0 +1,55 @@
+<letter id="joj4199">
+<recipient first="John" last="Murray" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1819' rel="origin">1819</a>. 
+</p><p>
+I thank you, my good friend, for the kind letter (without 
+date) which my son lately delivered to me, and for the 
+pamphlets which were enclosed with it. 
+</p><p>
+The observations of your friend (inserted in your letter) 
+are well written. I am pleased with the writer. He reasons with ability, and abstains from declamation. The 
+lawfulness of the invasion and conquest of Canaan, being 
+made by express Divine command, is indubitable. It does 
+not decide the question, whether any wars, unless so commanded, are permitted by the moral law, and consequently 
+by the gospel. Such wars occurred both before and after 
+the time of Moses, and are recorded in Scripture without 
+reproof. It does not appear that the war of Abraham 
+against the kings was made by Divine command, nor that 
+Jacob was commanded to take " out of the hand of the 
+Amorite, with His sword and his how," the portion which 
+he gave to Josepii ; nor does it appear that the war of 
+David against Ilanun, and divers other wars, were so 
+commanded. 
+</p><p>
+That the theocracy admitted of no other wars by the 
+Israelites hut such as were expressly commanded by the 
+Almighty, is not clear to me. Had Solomon heen of that 
+opinion, I think he could not with propriety have taught 
+that "by counsel thou shalt make war ; and in a multitude 
+of counsellors there is safety. Every purpose is established 
+by counsel; and with good advice make war." 
+</p><p>
+This, and other topics with which it is connected, open a 
+wide field for investigation; but as the state of my health 
+does not permit me to be more particular, I will only add, 
+that when the arguments in favour of just and necessary 
+war shall be shown to be fallacious, I shall not only think, 
+but also act accordinglv. 
+</p><p>
+The extract from William Penn forms a useful tract ; 
+and among other reasons, because it declares that '-'the 
+Scriptures were given forth by holy men of God in divers 
+ages, as they were moved by the Holy Spirit." I observe 
+that this great truth is also inculcated by the trustees of the 
+African Free School in their address. 
+</p><p>
+I did hope to have found in your letter some tidings respecting your brother. When you write to him, assure 
+him of my esteem and regard ; and he pleased to accept 
+the like assurance from 
+</p><p>
+Your friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

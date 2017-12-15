@@ -1,0 +1,51 @@
+<letter id="nic3013">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="5">May</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's favor, in which you assure me 
+you will recommend this unhappy Colony to the continental Congress, hath been laid before the General 
+Assembly, to whom it gave great satisfaction. 
+</p><p>
+I inclose you a copy of Colonel Babcock's dismis 
+sion. The office of Brigadier-General is still kept 
+vacant, in hopes that the brigade will be put upon 
+the Continental establishment, and that a Commander-in-chief will be appointed by Congress. 
+</p><p>
+I also inclose a copy of an act, discharging the inhabitants of this Colony from allegiance to the King of Great Britain, which was carried in the House of Deputies, after a debate, with but six dissentient voices, there being upwards of sixty members present. I may also inform your Excellency, that the Delegates 
+from this Colony are instructed and authorized to 
+join with the major part of the Delegates in entering  into a treaty with any Prince, State, or Potentate for the security of the Colonies, and to adopt 
+any other measures that may be thought prudent and 
+effectual. This instruction passed ncm. con. 
+</p><p>
+The Lower House afterwards passed a vote for 
+taking the sense of the inhabitants at large, upon 
+the question of Independence ; but the Upper House 
+having represented to them, that it would probably 
+be discussed in Congress before the sense of the 
+inhabitants could be taken, and transmitted to the 
+Delegates, in which case the Colony would lose their 
+voice, as the Delegates would be laid under the necessity of waiting for instructions from their constituents, and further observed that the Delegates, 
+when they should receive a copy of the vote, renouncing  allegiance to the British King, and their instructions, could not possibly be at a loss to know the 
+sentiments of the General Assembly, upon this the 
+matter was dropped. 
+</p><p>
+I have also the satisfaction to inform your Excellency that, at a very full town-meeting of the inhabitants of Newport, held last Monday, it was unanimously voted to enter into the defence of the town; 
+and last Thursday a considerable body of them began 
+to work upon the fort to be erected upon Brenton's 
+Point. This happy event, I have great hopes, will 
+make us an united people, and root up every seed 
+of disaffection in the Colony. 
+</p><p>
+I take the liberty, once more, to press your Excellency in behalf of the Colony, the defence of which must be abandoned unless we receive assistance from 
+the Congress. I am, with great respect, Sir, your 
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p><p>
+P. S. By this day's post I have forwarded to Mr. Hopkins an instruction from the General Assembly, 
+directing him to make immediate application to congress to put our troops upon the Continental establishment. 
+</p>
+</letter>

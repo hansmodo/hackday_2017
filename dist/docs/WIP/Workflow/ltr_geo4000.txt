@@ -1,0 +1,71 @@
+<letter id="geo4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, 	<a rel='day origin' value='19'>19th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1822' rel="origin">1822</a>. 
+</p><p>
+Sir, 
+</p><p>
+I did not receive your very kind and very gratifying communication of the 13th January, <a href='/results.php?year=1821'>1821</a>, until after I had rejoined my family in this place ; and consequently, not till 
+after it was too late to profit, in passing homeward, of your very obliging permission to pay you my respects personally ; a satisfaction which I regret in proportion to the just sense I have of its value. 
+</p><p>
+Your remarks on the first volume of Botta, confirmed as they were by Presidents <a href='/results.php?tla=jod' rel=''>Adams</a> and <a href='/results.php?tla=thj' rel='colleague'>Jefferson</a>, were communicated to the reviewers of my translation of that author, 
+and were by them introduced into their account of the work published in the North American Review for July, 1821. 
+</p><p>
+An apprehension of appearing to press with ten little consideration on your indulgent courtesy, has hitherto deterred me from solicit in your judgment of the remaining volumes. 
+</p><p>
+The prospect, however, of an approaching call for another edition, induces me to hazard the prayer that if your health 
+and leisure admit, you would have the compli e to favour me with any remarks which may have occurred to you for the interest of truth, relative to the second and third volumes of this history. 
+</p><p>
+With respect to the animadversions which you did me the honour to address to me upon the first volume, and which I 
+took the liberty to communicate to the late Presidents Adams and Jefferson, the former of these gentlemen wrote me as follows : 
+</p><p>
+"I cannot refrain from expressing the pleasure I have 
+received from the reasoning of <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a> upon the passage 
+in Botta, ' that anterior to the revolution there existed in 
+the colonies a desire of independence.' There is great ambiguity in this expression, ' there existed in the colonies a desire of independence? It is true, there always existed in the 
+colonies a desire of independence of parliament in the articles of internal taxation and internal policy, and a very 
+general, if not an universal opinion, that tiny were constitutionally entitled to it, and as general a determination, if 
+possible, to maintain and defend it ; hut there never existed 
+a desire of independence of tin; crown, or of general regulations of commerce, for the equal and impartial benefit of 
+all parts of the empire. It is true, there might be times 
+and circumstances in which an individual or a few individuals might entertain and express a wish, that America was 
+independent in all respects ; but these were " rari nantes 
+in gurgite vasto." For example, in one thousand seven hundred and fifty-six, seven, and eight, the conduct of the 
+British Generals Shirley, Braddock, Loudon, Webb, and 
+Abercrombie. was so absurd, disastrous, and destructive, that 
+a very general opinion prevailed that the war was conducted 
+by a mixture of ignorance, treachery, and cowardice ; and 
+some persons wished we had nothing to do with Great 
+Britain for ever. Of this number, I distinctly remember, I 
+was myself one ; fully believing that we were able to defend 
+ourselves against the French and Indians, without any assistance or embarrassments from Great Britain. In fifty-eight and fifty-nine, when Amherst and Wolfe had changed 
+the fortune of the war, by a more able and faithful conduct 
+of it, I again rejoiced in the name of Briton, and should 
+have rejoiced in it to this day, had not the king and parliament committed high treason and rebellion against America, as soon as they had conquered Canada and made peace 
+with France. That there existed a general desire of independence of the crown, in any part of America, before the 
+revolution, is as far from truth as the zenith is from the nadir. 
+The encroaching disposition of Great Britain, it was early 
+foreseen by many wise men in all the States, would one day 
+attempt to enslave them by an unlimited submission to parliament, and rule them with a rod of iron; that this attempt would 
+produce resistance on the part of America, and an awful 
+struggle, was also foreseen, but dreaded and deprecated as 
+the greatest calamity that could befall them. For my own 
+part, there was not a moment during the revolution when 
+I would not have given every thing I possessed for a 
+restoration to the state of things before the contest began, 
+provided we could have had a sufficient security for its continuance," &c. &c." 
+</p><p>
+<a href='/results.php?tla=thj' rel=''>Mr. Jefferson</a> says, in fewer words, "I confirm, by my belief, <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a>'s criticisms on the passages quoted from 
+Botta. I can answer for its truth from this State southwardly, and northwardly I believe to <a href='/results.php?city=new york' rel='city'>New York</a>, for which 
+State <a href='/results.php?tla=joj' rel='colleague'>Mr. Jay</a> himself is a competent witness. What, eastward of that, might have been the dispositions towards 
+England before the commencement of hostilities, I know not; before that I never had heard a whisper of a 
+disposition to separate from Great Britain ; and after that, its possibility was contemplated with affliction by all," &c. 
+With many acknowledgments for the attentions with which you have deigned to honour my undertaking, and the 
+encouraging tone with which you were pleased to cheer me on to its accomplishment. I pray you to be assured of the 
+profound veneration and perfect esteem of, sir, 
+</p><p>
+Your much obliged, and most humble servant, 
+</p><p>
+<a href="/results.php?tla=geo" rel="me">George Alexander Otis</a>. 
+</p>
+</letter>

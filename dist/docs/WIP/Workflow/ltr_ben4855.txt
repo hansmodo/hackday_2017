@@ -1,0 +1,29 @@
+<letter id="ben4855">
+<recipient first="Anthony" last="Benezet" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='22'>22</a> : <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR FRIEND, 
+</p><p>
+I made a little extract from yours of April 27, of the number 
+of slaves imported and perishing, with some close remarks 
+on the hypocrisy of this country, which encourages such a 
+detestable commerce by laws for promoting the Guinea trade ; 
+while it piqued itself on its virtue, love of liberty, and the 
+equity of its courts, in setting free a single negro. This was 
+inserted in the London Chronicle, of the 2Oth of June last. 
+</p><p>
+I thank you for the Virginia address, which I shall also 
+publish with some remarks. I am glad to hear that the disposition against keeping negroes grows more general in North 
+America. Several pieces have been lately printed here 
+against the practice, and I hope in time it will be taken into 
+consideration and suppressed by the legislature. Your 
+labours have already been attended with great effects. I 
+hope, therefore, you and your friends will be encouraged 
+to proceed. My hearty wishes of success attend you, being 
+</p><p>
+ever, my dear friend, yours affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

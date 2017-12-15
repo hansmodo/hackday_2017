@@ -1,0 +1,53 @@
+<letter id="jol4919">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+This will be delivered to you by the Chevalier de 
+Mauduit de Plessis, whose name I mentioned to you 
+in one of my late letters. I am happy in having an 
+opportunity of recommending so worthy a man to your 
+protection. he was employed by the Commander in 
+chief, to act at Red Bank in the capacities of engineer 
+and commandant of artillery, and acquitted himself 
+so well as to obtain panegyricks approaching to rapture from the officers who were witnesses of his conduct. The alterations which he made in the works of 
+his post shew'd that he had not contained himself to 
+one branch of military knowledge, but had extended 
+his studies with success to one which is generally held 
+as a mystery apart. His admirable behaviour during 
+the action which proved fatal to so many daring Hessians ; his saving some valuable artillery and stores by 
+preferring the public interest to his own safety; his 
+exposing his life by blowing up the magazine at Fort 
+Mercer without the preparation which is usually made 
+in such cases for the security of the operator, and his 
+gallant conduct on all occasions, entitle him to the 
+promotion which his Excellency solicits for him. The 
+letter which Mr. Duplessis now carries to Congress 
+would have gone in the order of time, if his modesty 
+had not made him backward in speaking of himself. 
+I interest myself greatly in his success because I know 
+his merit. As this is the only reason that can prevail 
+with you to befriend any man who is soliciting public 
+reward, I recommend this gentleman with confidence ; 
+and if it is in your power to assist him in procuring a 
+brevet of lieutenant colonel, expressing the reasons 
+for his promotion, and bearing date the 26th November, in order that those who are not his seniors in 
+France may not have a right to command him here, 
+I entreat you to do it, as you will essentially serve a 
+young man, whose military ardour and talents make 
+him valuable to the United States. 
+</p><p>
+I am with every sentiment of filial affection your 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+As there is a great demand for commissions, his 
+</p><p>
+Excellency desires me to apply for a large number of 
+blanks to be sent by the next courier. 
+The Honble Henry Laurens, Esq r ., 
+President of Congress. 
+</p>
+</letter>

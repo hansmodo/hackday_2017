@@ -1,0 +1,51 @@
+<letter id="bel4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Your Excellency will find, by the papers of yesterday, which I do myself the pleasure to inclose, that 
+the Governor has taken his seat as President of the 
+Convention; and that he came forward with a motion 
+for the adoption of the Constitution, and subjoined a 
+recommendation that some alterations may take place 
+in it. The motion has taken up a considerable time. 
+Those in the opposition Vv^ant the Constitution to be 
+accepted upon condition that the alterations be made. 
+This they will not be able to carry. 
+</p><p>
+Yesterday noon, a motion was made that the motion under consideration should be committed. This 
+was agreed to, and a large Committee was raised, 
+consisting of two members from each of the large 
+counties, and of one for two small ones. It was also 
+agreed that each county should nominate their own 
+members, and that they should take one who had 
+given his opinion for, and one who had given his 
+opinion against, the Constitution, in each county wherein two were chosen. I expect they will report tomorrow afternoon, to which time the Convention stands 
+adjourned. I hope good will arise from the measure, 
+and that the main question will be taken by Wednesday next. The gentlemen in the opposition urge that 
+the Governor's motion ought to be divided, and that 
+the first question be taken simply, " Whether they will 
+or will not accept the Constitution." They are opposed in this, and I hope the large Committee will 
+adjust the matter, and put an end to any further 
+dispute upon the question. 
+</p><p>
+We find ourselves exceedingly embarrassed by the 
+temper which raged the last winter in some of the 
+counties. Many of the insurgents are in the Convention; even some of Shays's officers. A great proportion of those men are high in the opposition. We 
+could hardly expect any thing else ; nor could we, I 
+think, justly suppose that those men, who were so 
+lately intoxicated with large draughts of liberty, and 
+who were thirsting for more, would, in so short a 
+time, submit to a Constitution which would further 
+take up the reins of Government which, in their 
+opinion, were too strait before. I hope people abroad 
+will consider this matter, and make proper allowances for a clog of this kind. I think the Constitution will pass. I have the honor of being, my 
+dear General, 
+</p><p>
+With perfect esteem, &c., 
+</p><p>
+<a href="/results.php?tla=bel" rel="me">Benjamin Lincoln</a>. 
+</p>
+</letter>

@@ -1,0 +1,8 @@
+<letter id="mbc7607">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='24'>24th</a>  [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Congress and the newspapers render one desperate, ready to cut one's own throat. They represent everything in our country as deplorable. Then comes some one back from our gay and gallant army at the front. 
+The spirit of our army keeps us up after all. Letters from the army revive one. They come as welcome as the flowers 
+in May. Hopeful and bright, utterly unconscious of our weak despondency. 
+</p>
+</letter>

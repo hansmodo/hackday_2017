@@ -1,0 +1,51 @@
+<letter id="mbc7601">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a rel='month origin' value='9'>September</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1861' rel="origin">1861</a>. Home again at Mulberry, the fever in full possession of me. My 
+sister, Kate, is my ideal woman, the most agreeable person I know in the world, with her soft, low, and sweet 
+voice, her graceful, gracious ways, and her glorious gray eyes, that I looked into so often as we confided our very 
+souls to each other. 
+</p><p>
+God bless old Betsey's yellow face ! She is a nurse in a thousand, and would do anything for Mars Jeems wife. 
+My small ailments in all this comfort set me mourning over the dead and dying soldiers I saw in Virginia. How feeble 
+my compassion proves, after all. 
+</p><p>
+I handed the old Colonel a letter from his son in the army. He said, as he folded up the missive from the seat 
+of war, " With this war we may die out. Your husband is the last of my family." He means that my husband is 
+his only living son ; his grandsons are in the army, and they, too, may be killed even Johnny, the gallant and gay, 
+may not be bullet-proof. No child have I. 
+</p><p>
+Now this old man of ninety years was born when it was not the fashion for a gentleman to be a saint, and being 
+lord of all he surveyed for so many years, irresponsible, in the center of his huge domain, it is wonderful he was not a 
+greater tyrant the softening influence of that angel wife, no doubt. Saint or sinner, he understands the world about 
+him au fond. 
+</p><p>
+Have had a violent attack of something wrong about my heart. It stopped beating, then it took to trembling, creaking and thumping like a Mississippi high-pressure steamboat, and the noise in my ears was more like an ammunition 
+wagon rattling over the stones in Richmond. That was yesterday, and yet I am alive. That kind of thing makes one feel very mortal. 
+</p><p>
+Russell writes how disappointed Prince Jerome Napoleon was with the appearance of our troops, and " he did 
+not like <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> at all." Well ! I give Bogar up to him. But how a man can find fault with our soldiers, as I have 
+seen them individually and collectively in Charleston, Richmond, and everywhere that beats me. 
+</p><p>
+The British are the most conceited nation in the world, the most self-sufficient, self-satisfied, and arrogant. But 
+each individual man does not blow his own penny whistle ; they brag wholesale. Wellington he certainly left it for 
+others to sound his praises though Mr. Binney thought the statue of Napoleon at the entrance of Apsley House was a 
+little like " Who killed Cock Robin? I, said the sparrow, with my bow and arrow. : But then it is so pleasant 
+to hear them when it is a lump sum of praise, with no private crowing praise of Trafalgar, Waterloo, the Scots Greys. 
+</p><p>
+Fighting this and fighting that, with their crack corps stirs the blood and every heart responds three times three ! Hurrah! 
+</p><p>
+But our people feel that they must send forth their own reported prowess : with an, "I did this and I did that." I 
+know they did it ; but I hang my head. 
+</p><p>
+In those Tarleton Memoirs, in Lee's Memoirs, in Moultrie's, and in Lord Rawdon's letters, self is never brought 
+to the front. I have been reading them over and admire their modesty and good taste as much as their courage and 
+cleverness. That kind of British eloquence takes me. It is not, " Soldats! marclions, gloire! " Not a bit of it; but, 
+</p><p>
+" Now, my lads, stand firm ! " and, " Now up, and let them have it! " 
+</p><p>
+Our name has not gone out of print. To-day, the Examiner, as usual, pitches into the President. It thinks 
+Toombs, Cobb, Slidell, Lamar, or Chesnut would have been far better in the office. There is considerable choice in that 
+lot. Five men more utterly dissimilar were never named in the same paragraph. 
+</p>
+</letter>

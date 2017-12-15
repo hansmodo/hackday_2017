@@ -1,0 +1,112 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.sAXuR5 on line 207
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--rol
+--DOC-AUTHOR-FIRST--Robert
+--DOC-AUTHOR-LAST--Livingston
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="rol3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My anxiety for the supplies of the army has 
+brought me to this place, in order that I might satisfy myself as to the quantity on hand, and the 
+means of forwarding them. <a href='/results.php?tla=hek' rel='met'>General Knox</a> has communicated to me your Excellency's orders on this 
+subject. Nothing short of them would, I am fully 
+persuaded, be of' sufficient force to produce the desired effect; and the knowledge of them will, in a 
+great measure, render the execution of them unnecessary. Impressed with this idea, I have been long 
+laboring to bring Congress to assume the power which 
+will enable them to call forth the resources of the 
+States, but unhappily without effect. However, I hope| 
+much from their pressing and reiterated demands.
+What principally induced me to trouble your Excellency at this time, is an apprehension which I, in 
+common with many other gentlemen, entertain of the 
+propriety of leaving the command at <a href='/results.php?city=west point' rel='city'>West Point</a> in the hands of <a href='/results.php?tla=roh' rel=''>General Howe</a>. Having no personal acquaintance with him, I can have no prejudices, but 
+the gentlemen from the southward by no means speak 
+so favorably of him as I could wish. But in this, 
+I conceive, that as yet he has had no opportunity of 
+acquiring a military character. But confidence, which 
+is so necessary to inspire courage, especially in militia, will, I fear, be wanting in him. If I might presume so far, I should beg leave to submit it to your 
+Excellency, whether this post might not be most safely confided to <a href='/results.php?tla=bea' rel=''>General Arnold</a>, whose courage is undoubted, who is the favorite of our militia, and who will agree perfectly with our Governor. 
+</p><p>
+Your Excellency will not consider this as designed to convey the most distant reflection on <a href='/results.php?tla=roh' rel=''>General Howe</a>, of whom I know nothing but by report, which 
+may very possibly be ill grounded; but, if the most 
+distant doubt remains, in a matter of so much moment, I conceive it should be removed. I make no 
+other apology for the liberty I take, than the motive 
+that suggests it, which has before now induced your 
+Excellency to pardon an interference in matters to 
+which I was no more competent than the present. 
+This hasty letter is written while the express waits, 
+whom I am unwilling to detain longer than while I 
+declare the respect and esteem with which I am, 
+your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rol" rel="me">Robert R. Livingston.</a>. 
+</p><p>
+</letter><letter id="rol3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In compliance with the directions of Congress, contained in the inclosed resolution, I have the honor 
+to inform your Excellency that our last despatches, 
+dated in October, announced a disposition in the belligerent powers to terminate the war by a general 
+peace. The Court of London, whose sincerity was 
+most suspected because it was to make the greatest 
+sacrifices, appears to have smoothed the way, by the 
+commission to Mr. Oswald, which your Excellency 
+has seen, empowering him to treat with the Thirteen 
+United States of America. Mr. Hayneval, brother to 
+Mr, Gerard, having been sent from France to sound 
+the intentions of the British Ministry, returned perfectly satisfied of their sincerity, 
+</p><p>
+A little before our despatches were closed, our Ministers had delivered three ji'opositions to the Court 
+of London. They consisted of three general heads, 
+which comprised our right to the fisheries, the extent 
+of our territories, and commercial objects. Though these propositions contained all we could ask, under 
+each of these heads, yet Mr. Oswald gave our Ministers reason to conclude that they would be granted; 
+which I am inclined to believe they have been, in 
+their fullest extent, from the lead which our Ministers 
+have taken in signing Provisional Articles. 
+</p><p>
+France, Spain, and Holland had made their proposals, so that the King of Great Britain was perfectly 
+apprised of their demands before he met his Parliament. There is little room, therefore, to doubt, when 
+these facts are compared with the speech of His Britannic Majesty, that, unless some unforeseen event 
+should arise, a general peace will be concluded before the opening of the next campaign. 
+</p><p>
+I was honored by your letter of the 18th, and 
+have delivered the one inclosed to <a href='/results.php?tla=thj' rel='colleague met'>Mr. Jefferson</a>, who 
+is detained, by order of Congress, till they receive 
+more certain advices as to the issue of the negotiation. I should also acknowledge the receipt of your 
+favor of the 8th of January, which I found here on 
+my return from the country. I think with you, that 
+the British Administration will choose to take the advice of Parliament on the terms of peace, before they 
+agree to them. Yet they have gone every length 
+with respect to us. In this, however, they are perfectly safe ; as the opposition have, all along, dictated 
+that measure, so that, on This quarter, they are secure from their attacks. More circumspection will be 
+necessary in adjusting the Articles with the other 
+belligerent powers. To this cause we may probably 
+attribute the delays that the business still seems to 
+struggle with. 
+</p><p>
+Be pleased. Sir, to accept my compliments, and 
+those of my family, who join me in returning our 
+best respects to Mrs. Washington. I have the honor 
+to be, dear Sir, with great respect and esteem, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rol" rel="me">Robert R. Livingston.</a>. 
+</p>
+</letter>

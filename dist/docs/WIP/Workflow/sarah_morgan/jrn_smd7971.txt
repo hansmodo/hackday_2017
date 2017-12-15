@@ -1,0 +1,21 @@
+<letter id="smd7971">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], Thursday night, <a rel="month origin" value="12">December</a> <a rel='day origin' value='31'>31st</a>, <a href='/results.php?year=1863' rel="origin">1863</a>. 
+</p><p>
+The last of eighteen sixty-three is passing away as I write. . . . Every New Year since I was in my 
+teens, I have sought a quiet spot where I could whisper to myself Tennyson's " Death of the Old Year," 
+and even this bitter cold night I steal into my freezing, fireless little room, en robe de nuit, to keep up my 
+old habit while the others sleep. . . . 
+</p><p>
+"Old year, you shall not die; 
+We did so laugh and cry with you, 
+I've half a mind to die with you, 
+Old year, if you must die." 
+</p><p>
+No! Go and welcome! Bring Peace and brighter 
+days, O dawning New Year. Die, faster and faster, 
+Old One; I count your remaining moments with al 
+most savage glee. 
+</p><p>
+</letter>

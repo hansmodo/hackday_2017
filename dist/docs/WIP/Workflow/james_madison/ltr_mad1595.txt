@@ -1,0 +1,37 @@
+<letter id='mad1595'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, February 8, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, The prospect in Massachusetts seems to brighten, 
+if I view in the true light the following representation of it: 
+" This day, (January 30,) for the first time, our President, Mr. 
+Hancock, took his seat in Convention, and we shall probably 
+terminate our business on Saturday or tuesday next. I cannot 
+predict the issue, but our hopes are increasing. If <a href='/results.php?tla=joh' rel='co-worker'>Mr. Hancock</a> does not disappoint our present expectations, our wishes 
+will be gratified." Several reflections are suggested by this 
+paragraph which countenance a favorable inference from it. I 
+hope, from the rapid advance towards a conclusion of the business, that even the project of recommendatory alterations has 
+been dispensed with. 
+</p><p>
+The form of the ratification of Georgia is contained in one 
+of the papers herewith enclosed. Every information from 
+South Carolina continues to be favorable. I have seen a letter 
+from North Carolina, of pretty late date, which admits that a 
+very formidable opposition exists, but leans towards a federal 
+result in that State. As far as I can discover, the state of the 
+question in North Carolina is pretty analogous to that in Virginia. The body of the people are better disposed than some 
+of a superior order. The Resolutions of <a href="/results.php?city=new york" rel="city">New York</a> for calling 
+a convention appear, by the paper, to have passed by a majority 
+of two only in the House of Assembly. I am told this proceeded in some degree from an injudicious form in which the 
+business was conducted, and which threw some of the federalists into the opposition. 
+</p><p>
+I am just informed by a gentleman who has seen another letter from <a href="/results.php?city=boston" rel="city">Boston</a>, of the same date with mine, that the plan of 
+recommendatory alterations has not been abandoned, but that 
+they will be put into a harmless form, and will be the means of 
+saving the Constitution from all risk in Massachusetts. 
+</p><p>
+With the highest respect and attachment, I remain, Dear 
+Sir, y r affect 6 and hum 16 serv. 
+</p>
+</letter>

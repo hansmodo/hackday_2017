@@ -1,0 +1,48 @@
+<letter id="wlg4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1785' rel="origin">1785</a>, 
+</p><p>
+Dkvr Sir, 
+</p><p>
+The inclosed letters were handed to me the other 
+day by young <a href='/results.php?tla=jqa' rel='met'>Mr. Adams</a>, son of <a href='/results.php?tla=jod' rel='colleague'>Mr. John Adams</a>, 
+who has arrived in the last packet ; and, no private 
+opportunity offering, I do myself the honor of transmitting them by post. 
+</p><p>
+Congress are informed, by a letter from <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a>, 
+that he has been introduced to the King of Great Britain in due form, and received as a public Minister from the United States of America. They have 
+also received from the Commissioners for forming commercial treaties, projects of two treaties ; the one with 
+the King of Prussia, the other with the Grand Duke 
+of Tuscany. The former, it is expected, is signed 
+before this by the American Ministers. Don Diego 
+de Gardoqui, who has plenipotentiary powers, has 
+been received; and Congress have passed a commission to INIr. Jay, Secretary for Foreign Affairs, to negotiate with him. 
+</p><p>
+Congress have lately paid great attention to the 
+proposed alteration of the ninth article of the Confederation, and it has been debated several times. I 
+did myself the honor to inclose this paper some time 
+ago. There seem to be three opinions. Some are 
+for the alteration as reported, provided eleven, and 
+not nine States, have the exercise of the powers. 
+Others are for forming a act, and submitting 
+</p><p>
+the same to the States. A third opinion is against 
+any change whatever. I expect, after the subject has 
+been thoroughly investigated, it will, by consent, be 
+put off till the members have had an opportunity of 
+consulting the Legislatures. The requisition for the 
+current year is nearly finished. By this the States 
+are called upon to pay three millions of dollars, that 
+is, one million in specie, and two millions in interest 
+on liquidated certificates ; the whole containing a provision as well for the purposes of government as for 
+the interest on the foreign and domestic debt. 
+</p><p>
+I beg leave to inclose propositions respecting the 
+coinage of gold, silver, and copper, which are at present before Congress. 
+</p><p>
+I have the honor to be, &c., &c., 
+</p><p>
+<a href="/results.php?tla=wlg" rel="me">William Grayson</a>. 
+</p>
+</letter>

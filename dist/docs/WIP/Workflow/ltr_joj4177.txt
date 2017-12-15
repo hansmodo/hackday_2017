@@ -1,0 +1,49 @@
+<letter id="joj4177">
+<recipient first="Peter" last="Munro" type="individual"/>
+<p>
+TO PETER JAY MUNRO. 
+</p><p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1812' rel="origin">1812</a>. 
+</p><p>
+Dear. Peter, 
+</p><p>
+It is said that the manufacturing company at Mamaroneck have applied to the Legislature for an act to empower 
+them (on paying damages) to overflow and drown as much 
+of the adjacent farms, and without the consent of the owners, as may be necessary to make a pond that will afford a 
+more ample supply of water than they can otherwise obtain 
+there. The country abounds in plentiful streams. Why 
+did they not fix on one that would answer their purpose ? 
+</p><p>
+When a piece of ground is wanted for a use important 
+to the State, I know that the State has a right to take it 
+from the owner, on paying the full value of it ; but certainly 
+the Legislature has no right to compel a freeholder to part 
+with his land to any of his fellow-citizens, nor to deprive 
+him of the use of it, in order to accommodate one or more 
+of his neighbours in the prosecution of their particular trade 
+or business. Such an act. by violating the rights of property, would be a most dangerous precedent. 
+</p><p>
+The injury which the pond would doubtless cause to the 
+health of the neighbourhood deserves attention ; but interesting as it is, I think it of less importance than that of 
+exposing, by such an act, the rights of property to invasion 
+and disturbance. It may be said that the pond, by facilitating manufactures, will be productive of good to the 
+public ; but will it not produce more loss than gain, if any 
+of the essential rights of freemen are to be sunk in it. 
+</p><p>
+If the company want any thing belonging to their neighbours, let them, like all other individuals, obtain it by voluntary, and not by compelled purchase. It would be strange 
+if the Legislature appointed to guard our equal rights, 
+should be prevailed upon to furnish means for such compulsion. 
+</p><p>
+These remarks are made on the supposition that what 1 
+have heard may possibly be true ; but to me it appears so 
+extraordinary, that I am inclined to suspect that it has not 
+been fully and fairly represented. Be so good as to inform 
+me, what the application made by the company to the Legislature really is. 
+</p><p>
+I am, dear Peter, 
+</p><p>
+Your affectionate uncle, 
+</p><p>
+John J a v. 
+</p>
+</letter>

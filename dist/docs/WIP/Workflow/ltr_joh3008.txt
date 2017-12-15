@@ -1,0 +1,63 @@
+<letter id="joh3008">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I had the honor of receiving, yesterday, yours of 
+the 19th, containing the agreeable information of the 
+Ministerial troops having abandoned <a href='/results.php?city=boston' rel='city'>Boston</a>. The 
+partial victory we have obtained over them, in that 
+quarter, I hope will turn out a happy presage of a 
+more general one. Whatever place may be the object of their destination, it must certainly give a sincere pleasure to every friend of this country, to see 
+the most diligent preparations everywhere making to 
+receive them. What may be their views, it is in 
+deed impossible to tell with any degree of exactness. 
+We have all the reason, however, from the rage of 
+disappointment and revenge, to expect the worst. 
+Nor have I any doubt that, as far as their power 
+extends, they will inflict every species of calamity 
+upon us. The same <a href='/results.php?city=providence' rel='city'>Providence</a> that has baffled their 
+attempt against the Province of Massachusetts Bay 
+will, I trust, defeat the deep-laid scheme they are 
+now meditating against some other part of our country. 
+</p><p>
+The intelligence that our army had got possession 
+of <a href='/results.php?city=boston' rel='city'>Boston</a>, you will readily suppose gave me heart 
+felt pleasure. I beg/ Sir, you will he pleased to accept my warmest thanks for the attention you have 
+showed to my property in that town. I have only 
+to request that Captain Cazneau will continue to 
+look after it, and take care that it be no ways destroyed or damaged. 
+</p><p>
+This success of our arms naturally calls on me to 
+congratulate you, Sir, to whose wisdom and conduct 
+it has been owing. Permit me to add, that, if a 
+constant discharge of the most important duties, and 
+the fame attending thereon, can afford genuine satis 
+faction, the pleasure you feel must be the most rational and exalted. 
+</p><p>
+I have it in charge from Congress to direct, that 
+you send an account of the troops in your camp, 
+who are deficient in arms, to the several Assemblies 
+or Conventions of the Colonies to which those men 
+belong, and request them to send a sufficient number of arms for the men coining from the respective 
+Colonies ; and that, if arms cannot be procured, such 
+as have not arms be dismissed the service. 
+</p><p>
+The Congress being of opinion, that the reduction 
+of Quebec and the general security of the Province 
+of Canada, are objects of great concern, I am commanded to direct that you detach four battalions 
+into Canada from the army under your command, as 
+soon as you shall be of opinion, that the safety of 
+<a href='/results.php?city=new york' rel='city'>New York</a> and the Eastern service will permit. 
+</p><p>
+Your several letters are at this time under the 
+consideration of a Committee. As soon as any determination is made thereon, I will immediately for 
+ward it to you. I have the honor to be, with the 
+greatest esteem, Sir, your most obedient and very 
+humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

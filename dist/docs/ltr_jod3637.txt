@@ -1,0 +1,46 @@
+<letter id="jod3637">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='11'>11</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+ON Tuesday, when I waited, as usual, on Mrs. Washington, after attending the levee, she congratulated 
+me very complaisantly and affectionately on my election, and went farther and said more than I expected. 
+She said it gave them great pleasure to find that the 
+votes had turned in my favor, &c. I doubted whether 
+their prudence would have ventured so far. I believe it sincere. Kidd, however, the steward, was very active and busy for Jefferson. This was from 
+jealousy of Briesler, no doubt. He expected that 
+Jefferson would have taken him, I suppose, and his 
+principle was as good as McKean's. Gerry is 
+steady, while so many prove as slippery as eels. 
+</p><p>
+Dined yesterday with Major Jackson, in company 
+with <a href='/results.php?tla=bel' rel='colleague met friend'>General Lincoln</a> who lodges there. Married to 
+Miss Willing who is an agreeable woman, and comfortably provided for by an office, he lives in a neat 
+and elegant taste, but I believe prudently. Mr. Ames 
+and a few more made a very social set, and we en 
+joyed ourselves without alloy. 
+</p><p>
+The most unpleasant part of the prospect before me is 
+that of remaining here until June or July. I can t see 
+my grass and barley grow, nor my wall rise. I have, 
+however, almost forgotten my farm. It appears very 
+differently to me. It seems as if I ought not to think 
+about it. The river is frozen so that nothing can get 
+out. Besides, flour is dearer here than at <a href='/results.php?city=boston' rel='city'>Boston</a> by 
+one third. It has rained to-day like a flood, but the 
+weather must be very warm, and continue so many 
+days before the river can open. There is no probability of it for some time. If it opens in season, I 
+shall send some grass seeds. I will not suffer the 
+bushes I have cut down to grow again ; but I shall 
+not attend much to my farm. My whole time and 
+thoughts must be devoted to the public. 
+</p><p>
+I think of you and dream of you and long to be 
+with you. But I suppose this must not be yet. My 
+duty and love to all. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

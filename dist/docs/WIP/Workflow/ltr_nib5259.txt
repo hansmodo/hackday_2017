@@ -1,0 +1,18 @@
+<letter id="nib5259">
+<recipient first="Nathaniel" last="Silsbee" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philad'a</a>. <a rel="month origin" value="11">Nov'r</a>. <a rel='day origin' value='21'>21</a>. <a href='/results.php?year=1831' rel="origin">1831</a> 
+</p><p>
+My dear Sir 
+</p><p>
+Without having come to any determination in regard 
+to an application to Congress at the aproaching session for 
+a recharter of the Bank, it is thought better to provide against 
+such a contingency by relieving our friends in both houses 
+from an embarrassment which might grow out of their connexion with the Bank. With this view in the elections of Directors for the present year, we have omitted those who are members of Congress. In writing today to Mr Greene I have suggested the same course in respect to yourself. As we have 
+already claimed your services whenever we could obtain them, 
+&amp; I hope we will long continue to enjoy them, it is unnecessary to say a word in regard to this omission, which under 
+existing circumstances, I am sure you will perfectly understand, and I trust appreciate. Hoping soon to see you on 
+your passage southward, I remain with great respect and regard. 
+</p>
+</letter>

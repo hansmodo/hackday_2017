@@ -1,0 +1,33 @@
+<letter id="leb4554">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='3'>3d</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter, which you addressed to me on 
+the 29th of last month. 
+</p><p>
+The affection of the French Republic for the United States 
+is too marked to admit the possibility of an unfavorable interpretation being given to the accident, which befel you on the 
+28th instant. The precautionary measures taken on that day 
+extended to all the inhabitants of the city of Paris, and a proof 
+that they had no reference to you personally is, that at the moment your name and rank were known, you obtained the justice due to you. 
+</p><p>
+The domiciliary visits were an equally general measure, 
+from which no house in Paris was exempt. I see with pleasure, that the Commissaries of the Section, who entered your 
+house, withdrew after the explanation you gave them. The 
+respect, which they have shown you, is proof of the belief of 
+my fellow citizens, that the Minister of a free nation, an ally of 
+France, is incapable of receiving into his house disaffected 
+persons. The exemption, which you claim, would have had 
+the pernicious effect of affording the ill disposed a facility for 
+calumniating your motives, in order to disturb the entire harmony, which subsists between the two nations. 
+</p><p>
+I herewith send the papers, which you requested me to authenticate. I have the honor to be, &c. 
+</p><p>
+<a href="/results.php?tla=leb" rel="me">LEBRUN</a>. 
+</p>
+</letter>

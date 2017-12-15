@@ -1,0 +1,30 @@
+<letter id="jhm3920">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I have every reason to believe the information you enclosed me to be 
+well founded. A note I got two days ago, from a person of good 
+information, agrees substantially with yours. I think a fortnight more 
+will decide the enemy's real intentions. By a woman from town last 
+night, I am informed the enemy's plundering fleet sailed for George 
+town yesterday morning. I am in hopes they will not be so successful 
+there as they were at Santee. I enclose you an order on Mr. Richard 
+son for 200 stand of arms, as the presumption is they are arrived, as I 
+have notice of their leaving <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> the end of June. I have, 
+also, enclosed in the order, a box of sugar for your use, which is now 
+there at Richardson s. Enclosed is a brevet for Dr. Neufville. I find 
+there is some uneasiness in Maham's corps about rank j I could wish 
+you to order a board of officers to sit and determine in the dispute as 
+soon as possible, or as circumstances will admit. As you agree with 
+me that it is best to mount the whole corps to act as cavalry, it is more 
+necessary to have all disputes about rank settled as soon as possible, as 
+a new arrangement must necessarily take place; and I suppose the 
+youngest officers must go out, as was the case in the late arrangement. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

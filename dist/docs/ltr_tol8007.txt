@@ -1,0 +1,28 @@
+<letter id='tol8007'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+Consulate of the U. S. of America, 
+</p><p>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="4">April</a> 	<a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: In giving my first information to the department respecting <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont's</a> arrival in California, I did not anticipate such an extensive 
+correspondence as it has now reached. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> was well received in this place, and to the last day we heard of him, by the natives individually, 
+who sold him provisions, and liked his presence. During his encampment, 
+thirty or forty miles from here, despatches were received by the commandant, <a href="/results.php?tla=jsc" rel="adversary">General Jose Castro</a> (a native of Monterey), from Mexico, ordering him 
+to drive <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> out of this department; which order, with one hundred and seventy or two hundred men present, and over one hundred 
+more daily expected, he pretended to execute. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> left his camp a few hours after he received the undersigned's letter of the 9th of 
+March (not from fright of <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>), as he had been preparing the week before to travel. It is supposed he has gone to Santa Barbara, where 
+an American was sent by the undersigned in February, with funds and provisions for his use. From there he proceeds on his journey, according to 
+his instructions from his department in Washington. Although from the correspondence it may appear that in the centre of a strange country, among 
+a whole people with real or apparent hostile intentions towards him, that <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> was in much danger, it can be believed that he was only 
+annoyed. Whether he will visit Monterey after this unexpected affair or not, is uncertain. 
+</p><p>
+The undersigned has not supposed, during the whole affair, that <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> wished to go after <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, and was very confident that 
+with all California he would not have attacked him, even had he been sure of destroying the whole party, as five times their number could have taken 
+their place before the expected battle. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> received verbal applications from English and Americans to join his party, and could have 
+mustered as many men as the natives. He was careful not to do so. Although he discharged five or six of his men, he took no others in their 
+place. On the return of <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>, he published a flaming proclamation to the citizens, informing them that a band of bandoleros (highwaymen 
+or freebooters), under <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> of the United States Army, had come into this district; but with the company of two hundred patriots he 
+had driven them away, and exhorted his companions and countrymen to be always ready to repel others of the same class. This proclamation was missing, from the place it was put up, on the third day. 
+</p>
+</letter>

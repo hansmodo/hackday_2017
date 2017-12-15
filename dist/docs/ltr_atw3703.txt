@@ -1,0 +1,41 @@
+<letter id="atw3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=mount kemble' rel='city origin'>Mount Kemble</a>, 	<a rel='day origin' value='2'>2</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The most general and unhappy mutiny suddenly 
+took place in the Pennsylvania line, about nine 
+o'clock last night. It yet subsists. A great proportion of the troops, with some artillery, are marching 
+towards <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+Every exertion has been used by the officers to 
+divide them in their determination to revolt. It has 
+succeeded, in a temporary manner, with near one 
+half How long it will last, God knows ! I have ordered the Jersey brigade to Chatham, where the militia are also assembled, lest the enemy should take 
+advantage of this alarming crisis. Indeed, the alarmguns have been fired, and the beacons kindled, 
+towards <a href='/results.php?city=elizabethtown' rel='city'>Elizabethtown</a> ; perhaps it was occasioned 
+by our unhappy affair. I am, this moment, with 
+Colonels Butler and Stewart, taking horse to try to 
+halt those on their march towards <a href='/results.php?city=princeton' rel='city'>Princeton</a>. As a last resort, I am advised to collect them, and move 
+on slowly towards Pennsylvania. 
+</p><p>
+What their temper may he, I cannot tell. We 
+had our escapes last night. Perhaps we may he 
+equally fortunate to-day. If not, adieu, my dear General, and believe me 
+</p><p>
+Yours, most affectionately, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=atw" rel="me">Anthony Wayne</a>.
+</p><p>
+P. S. Captain Billings is killed ; Captain Talbot, 
+mortally wounded ; some others are also hurt. Major Fishbourn, who carries this, will be able to give you 
+a particular account of last night's and this morning's 
+transactions. I am happy to inform you that not an 
+officer was absent on this occasion, nor have any of 
+the soldiers gone towards the enemy. Their general 
+cry is, to be discharged, and that they will again enlist, and fight for America, a few excepted. General Potter and Colonel Johnson, who were eye-witnesses of the W'hole, as far as it is yet gone, go 
+express to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p>
+</letter>

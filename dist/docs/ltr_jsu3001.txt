@@ -1,0 +1,58 @@
+<letter id="jsu3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=winter hill' rel='city origin'>Camp on Winter Hill</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="12">December</a>. <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+MUCH RESPECTED GENERAL, 
+</p><p>
+Agreeably to your order, have again waited on 
+Major Rogers, and strictly examined him. Have 
+seen his several permits, and think them genuine, 
+and in every respect agreeable to the copy sent you. 
+He says he left <a href='/results.php?city=new york' rel='city'>New York</a> about the 10th of October, being ill with the fever-and-ague, was ten days 
+in getting to <a href='/results.php?city=albany' rel='city'>Albany</a> ; that there, and at the place 
+called Stone Arabia, he tarried ten days more ; he 
+then passed through Iloosick, Standford, Draper, and 
+Hinsdale, in his way to his brother, who lives in 
+Kent ; he was three days in performing this route, 
+and tarried with his brother five or six days more ; 
+he was then three days in going to Westminster, and 
+in his way passed through by Dartmouth College, 
+and saw Mr. Wheelock ; from thence he went to his 
+farm, in Pennicook, where he tarried six or eight 
+days ; from thence he went to Newbury, and from 
+thence to <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, and, after tarrying there some few days, laid his permit before the Committee of Safety. 
+</p><p>
+He owns every thing in Mr. Wheelock's letter except that of his having been in Canada, which he 
+warmly denies, and says lie can prove the route he 
+took, and prove himself to have been in the several 
+towns at or near the days he has mentioned. I 
+asked him why he came to the camps, as he had 
+no business with any particular persons, and had no 
+inclination to offer his service in the American cause; 
+to which he replied, that he had voluntarily waited 
+upon the Committees of several Colonies, as he thought it a piece of respect due to them, and would 
+probably prevent his being suspected and treated as 
+a person unfriendly to us ; that he likewise thought 
+it his duty to wait on your Excellency, and acquaint 
+you with the situation of his affairs, and, if he could, 
+to obtain your license to travel unmolested. 
+</p><p>
+These, Sir, are the facts as handed to me by him. 
+What may be his secret designs I am unable to say, 
+and what steps are most proper to be taken respecting  him, your Excellency can best judge. I am far 
+from thinking that he has been in Canada ; but, as he 
+was once Governor of Michilimackinac, it is possible 
+he may have a commission to take that command, 
+and stir up the Indians against us, and only waits 
+for an opportunity to get there ; for which reason I 
+would advise, lest some blame might be laid upon 
+your Excellency in future, not to give him any other 
+permit, but let him avail himself of those he has ; 
+and, should he prove a traitor, let the blame centre 
+upon those who enlarged him. I beg pardon for intruding my opinion; and subscribe myself 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>.
+</p>
+</letter>

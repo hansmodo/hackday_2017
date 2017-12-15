@@ -1,0 +1,72 @@
+<letter id="sid5011">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='6'>6th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+The only letters I have received from you were 4th and 5th of June last, five months ago, during which time vessels have arrived from almost every part of America to every part of France and Spain, and I am informed of letters from Mr Morris to his correspondents, dated late in July. If the 
+Congress do not mean to apply for foreign alliances, let me entreat you to say so, and rescind your resolutions published 
+on that head, which will he but justice to the powers of 
+Europe, to whom you gave reason to expect such an application. If I am not the proper person to announce your Independency, and solicit in your behalf, let me entreat you to 
+tell me so, and relieve me from an anxiety, which is become so intolerable that my life is a burthen. Two hundred pieces 
+of brass cannon, and arms, tents and accoutrements for thirty thousand men, with ammunition in proportion, and between 
+twenty and thirty brass mortars have been granted to my request, but the unaccountable silence on your part has delayed the embarkation some weeks already. I yesterday got 
+them again in motion, and a part are already at Havre de Grace and Nantes, and the rest on their way thither, but I 
+am hourly trembling for fear of counter orders. Had I received proper powers in season, this supply would before 
+this have been in America, and that under the convoy of a strong fleet ; the disappointment is distracting, and I will 
+dismiss the subject, after taking the liberty to which a freeman and an American is entitled, of declaring, that by this 
+neglect the cause of the United States has suffered in this and the neighboring Courts, and the blood that will be spilt 
+through the want of these supplies, and the devastation, if any, must be laid at this door. 
+</p><p>
+Captain Cochran having arrived at Nantes, I sent to him 
+to come to me. He is now with me, and by him I send this 
+with a packet of letters. He can inform you of the price of 
+American produce in Europe, the very advance on which 
+will pay you for fitting out a navy. Rice is from 30 to 50 
+livres per cwt., tobacco 8d and 9d per lb., flour and wheat 
+are growing scarce and rising, masts, spars, and other naval 
+stores are in demand, and the more so as a war with Great 
+Britain is considered as near at hand. 
+Mons. du Coudray, who has the character of being one of 
+the best officers of artillery in Europe, has been indefatigable 
+in our service, and I hope the terms I have made with him 
+will not be thought exorbitant, as he was a principal means 
+of engaging the stores. The rage, as I may say, for entering into the American service increases, and the consequence 
+is, that I am pressed with offers and proposals, many of 
+them from persons of the first rank and eminence, in the sea 
+as well as land service. Count Broglio, who commanded 
+the army of France during the last war, did me the honor to 
+call on me twice yesterday with an officer who served as his 
+Quarter Master General the last war, and has now a regiment in this service, but being a German, and having travelled through America a few years since, he is desirous of 
+engaging in the service of the United States of North America. I can by no means let slip an opportunity of engaging a 
+person of so much experience, and who is by every one recommended as one of the bravest and most skilful officers in 
+the kingdom, yet I am distressed on every such occasion for want of your particular instructions. This gentleman has an 
+independent fortune, and a certain prospect of advancement here, but being a zealous friend to liberty, civil and religious, 
+he is actuated by the most independent and generous principles in the offer he makes of his services to the States of 
+America. 
+</p><p>
+Enclosed you have also the plan of a French naval officer for burning ships, which he gave me, and at the same time 
+showed me his draughts of ships, and rates for constructing and regulating a navy, of which I have the highest opinion ; 
+he has seen much service, is a person of study and letters, as 
+well as fortune, and is ambitious of planning a navy for America, which shall at once be much cheaper and more 
+effectual than any thing of the kind which can be produced on the European system. He has the command of a ship of 
+the line in this service, but is rather disgusted at not having his proposed regulations for the navy of France attended to. 
+His proposal generally is to build vessels something on the model of those designed by the Marine Committee, to carry 
+from 24 to 36 heavy guns on one deck, which will be as formidable a battery as any ship of the line can avail itself of, 
+and by fighting them on the upper deck a much surer one. Had I power to treat with this gentleman, I believe his 
+character and friends are such, that he could have two or three such frigates immediately constructed here on credit 
+and manned and sent to America, but the want of instruction, or intelligence, or remittances, with the late check on 
+Long Island, has sunk our credit to nothing with individuals, 
+and the goods for the Indian contract cannot be shipped, unless remittances are made to a much greater amount than at 
+present. Not ten thousand pounds have been received for 
+forty thousand delivered in America as early as last February, and I am ignorant what has become of the effects 
+shipped. Under these circumstances I have no courage to urge a credit, which I have no prospect of supporting ; but I 
+will take Mr Morris's hint, and write a letter solely on business ; but politics and my business are almost inseparably 
+connected. I have filled this sheet, and will therefore bid you adieu until I begin another. 
+</p><p>
+I am, with the utmost esteem, &:c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

@@ -1,0 +1,71 @@
+<letter id="cde3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=at sea' rel='city origin'>At Sea</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+It is difficult to console one's self for the obstacles, 
+as numerous as insurmountable, which stopped me at 
+Sandy Hook. The importance of <a href='/results.php?city=new york' rel='city'>New York</a>, the happiness of fighting the English fleet, and the extreme 
+satisfaction of acting directly with you, made me desire, with the greatest ardor, the possibility of entering. I offered, to too little purpose, in an assembly 
+of your experienced pilots, a recompense of fifty 
+thousand crowns to him who should find us a sufficiency of water. It is only by action that my regret 
+can be diminished, and as yet we do nothing. Your foresight and your orders have, nevertheless, anticipated my wants, and rendered my delays less long. 
+The re enforcement you have so properly sent, will, as 
+I am informed, arrive this evening, and it will, most 
+assuredly, be on the part you have so wisely and expeditiously taken, that our success will depend. 
+</p><p>
+<a href='/results.php?tla=jsu' rel='colleague met'>General Sullivan</a> has done me the honor to come 
+and see me, and to communicate his views. I will 
+second them with all my power. He is full of that 
+spirit of activity and combination, with which you 
+inspire all those who have served under your orders. 
+I believe him as fully persuaded as I am of the necessity of acting. The intrenchments that are visible 
+above Connanicut increase daily. They are numerous. 
+The time I have been at sea begins to make me lose a number of men with the scurvy. The extreme 
+difficulty of procuring water at Shrewsbury, and the 
+tardiness with which it is collected here from different places, have long since obliged me to retrench 
+our allowance. The officers and men support this terrible privation with courage and patience ; and we 
+have acquired a virtue which has, hitherto, been re 
+fused us, the virtue of perseverance. We doubtless 
+owe it to the flattering hope of being useful to allies, 
+whom our national taste had itself given us, before 
+the orders of the King had prescribed it. 
+</p><p>
+The gentlemen, your Generals, will acquit them 
+selves better than I of the duty of rendering you an 
+account of the certain state of the preparations going 
+on, and of the small burning of three English vessels, 
+which guarded the eastern channel. I will confine myself by repeating to you, what I cannot well describe, the zeal and the infinite pains of Lieutenant <a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a>. He is on the wing the four-and-twenty hours round, to procure us refreshments and, 
+when this is done, remains on board during a very 
+long day with all the patience of an old sailor. We 
+are indebted to him for a hospital established on 
+shore, and for disembarrassing us of our prisoners; 
+which, in our situation, form two important articles. 
+</p><p>
+I desire much that the present expedition may be 
+speedily terminated, to give me leisure to employ 
+myself with purging the Sound of the English vessels which now infest the navigation. I have received Colonel Sears with all the consideration and all 
+the confidence which those merit whom you are pleased to send me, and, when it shall be time for it, 
+I will consult him with the greatest eagerness. Accept the homage of the attachment and respect, with 
+which I have the honor to be, Sir, 
+</p><p>
+Your most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cde" rel="me">ESTAING</a>. 
+</p><p>
+P. S. Since writing my letter, I received that 
+which you had the goodness to address me, on the 
+26th of July, by <a href='/results.php?tla=nag' rel='colleague'>Major-General Greene</a>. I am going 
+to look for him on shore, that he may not lose any 
+of the present precious moments. The reputation of 
+this General Officer made his arrival to be wished. 
+His influence on his countrymen, and his knowledge 
+of the country, will render him formidable to our common enemy. You know how to divine whatever 
+we stand in need of; and, from what I have seen, 
+the discerning and employing men proper to the business in hand, seems to be one of the qualities which 
+compose the illustrious character you bear. This is, 
+perhaps, the most important part of the great General. 
+</p>
+</letter>

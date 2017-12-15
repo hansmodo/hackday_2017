@@ -1,0 +1,75 @@
+<letter id="joj4169">
+<recipient first="William" last="Wilberforce" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='8'>8th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1809' rel="origin">1809</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On the 28th ult. I received your letter of the 1st of August last, and I thank you for it, and for the pamphlets 
+enclosed with it. 
+I am well persuaded that your sentiments relative to me 
+are such as you describe ; and I assure you that mine relative to you correspond with them. 
+</p><p>
+The patrons of the abolition act, and of the African Institution, certainly do honour, and will probably do more than 
+ordinary good to Great Britain ; against whom complaints 
+have ascended both from Asia and Africa. It is pleasing 
+to behold a nation assiduously cultivating the arts of peace 
+and humanity in the midst of war, and while strenuously 
+fighting for their all, kindly extending the blessings of Christianity and civilization to distant countries. 
+</p><p>
+That your and our governments should co-operate in 
+rendering their respective laws against the slave trade 
+effectual, is to me very desirable, and I believe that a convention for the purpose would be approved by all, who 
+think and feel as you and I do respecting that base and 
+cruel traffic. Whether the times are propitious to such a 
+convention, is another question. Negotiations are said to 
+be pending between our government and Mr. Jackson. I 
+can discern no objection to his being instructed to propose 
+such a measure. They who offer to do what is fit and right 
+to be done, cannot be losers by it. I can do but little — 
+that little shall be done. 
+</p><p>
+The information you give me respecting your family, 
+and your friendly inquiries concerning mine, gratify me 
+not a little. I rejoice that while perturbation reigns abroad, 
+you enjoy in tranquillity at home the comforts mentioned 
+in the 128th Psalm. 
+</p><p>
+In my family there have been, since the date of my last 
+letter, some painful and some pleasing events. Death has 
+deprived my eldest daughter of an excellent husband, and 
+of the only two children which she had. On the other 
+hand, my son has gradually recovered his health, and has 
+married an amiable young lady, who, about a year ago, 
+brought him a son. My other children- are well, and doing 
+well. 
+As to myself, sickness confined me to the house last winter, and I am still more of an invalid than a convalescent. 
+However difficult the task, such visitations should be received and borne with grateful, as well as patient resignation. 
+</p><p>
+The observation you cite from Hooker is very just, and 
+so are your remarks on this turbulent and transitory scene. 
+To see things as they are, to estimate them aright, and to 
+act accordingly, is to be wise. But you know, my dear 
+sir, that most men, in order to become wise, have much to 
+unlearn as well as to learn, much to undo as well as to do. 
+The Israelites had little comfort in Egypt, and yet they 
+were not very anxious to go to the promised land. Figuratively speaking, we are all at this day in Egypt, and a 
+prince worse than Pharaoh reigneth in it. Although the 
+prophet " like unto Moses" offers to deliver from bondage, 
+and invites us to prepare and be ready to go with him, 
+under Divine guidance and protection, to the promised land ; 
+yet great is the number who prefer remaining in slavery 
+and dying in Egypt. 
+</p><p>
+If this letter should reach you, be so good as to let me 
+know it, and name some person in London to whose care 
+I may transmit future ones for you. 
+</p><p>
+With the best wishes for your health and happiness, and 
+with real esteem and regard, I am, dear sir, 
+</p><p>
+Your faithful and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

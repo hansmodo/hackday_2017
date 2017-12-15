@@ -1,0 +1,37 @@
+<letter id='thj1467'>
+<recipient first='' last='Desbordes' type='individual'/>
+<p>
+TO MONSIEUR DESBORDES.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, October 12,<a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+There are, in the prison of St. Pol de Léon, six or seven citizens of
+the United States of America, charged with having attempted a contraband
+of tobacco, but, as they say themselves, forced into that port by
+stress of weather. I believe that they are innocent. Their situation
+is described to me to be as deplorable, as should be that of men found
+guilty of the worst of crimes. They are in close jail, allowed three
+sous a day only, and unable to speak a word of the language of the
+country. I hope their distress, which it is my duty to relieve, and the
+recommendation of Mr. Barclay to address myself to you, will apologize
+for the liberty I take, of asking you to advise them what to do for
+their defence, to engage some good lawyer for them, and to pass to them
+the pecuniary reliefs necessary. I write to Mr. Lister Asquith, the
+owner of the vessel, that he may draw bills on me, from time to
+time, for a livre a day for every person of them, and for what may be
+necessary to engage a lawyer for him. I will pray the favor of you to
+furnish him money for his bills drawn on me for these purposes, which I
+will pay on sight. You will judge if he should go beyond this allowance,
+and be so good as to reject the surplus. I must desire his lawyer to
+send me immediately a state of their case, and let me know in what
+court their process is, and when it is likely to be decided. I hope the
+circumstances of the case will excuse the freedom I take; and I have the
+honor to be, with great respect, Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

@@ -1,0 +1,40 @@
+<letter id="jol4961">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+I have barely time, paper and ink to write my dear father a hurried official letter. 
+</p><p>
+Upon my arrival here with dispatches from the 
+General to Admiral D'Estaing, I found that the 
+fleet laboured under the greatest difficulty in procuring water ; its distance from the shore was too great 
+to roll the casks down to the place of embarcation ; 
+the disaffected inhabitants either refused their waggons, or granted them only at an exorbitant price. 
+I have done every thing in my power to remedy this evil; but as we cannot have too many resources, I would propose that any fast sailing small craft in the 
+Delaware may be immediately employed in bringing water round. The southerly winds which prevail on 
+the coast at this season, will give them a quick voyage, and they will be in time if they arrive with La Chimere. 
+</p><p>
+It would give me pleasure to speak to you, particularly of the great qualities of the admiral. He has 
+inspired me in the short acquaintance I have had with 
+him, with uncommon respect. He laments the insipid 
+part he is playing keeping the English fleet blocked 
+up within Sandy Hook ; and taking prizes within their 
+view every day does not satisfy a man of his great 
+ideas. When six prizes were brought into him yesterday, he desired the major of the fleet to give some 
+directions about those Drugs, and sighed at not being 
+engaged in a way in which more honour was to be acquired. 
+</p><p>
+Two of the prizes that have been taken since my 
+being here were armed, one with 4 and the other 
+with 10 guns. One had a quantity of specie on 
+board the profits of prizes taken from us. The 
+fleet, men and officers appear to be in fine health, 
+and eager to distinguish themselves in a naval combat. 
+As much as it is against my desire, I must break off, 
+an express rider must be diligent. 
+</p><p>
+My dearest friend and father, I pray God to protect you. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+<a href='/results.php?city=black point' rel='city origin'>Black Point</a>, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p>
+</letter>

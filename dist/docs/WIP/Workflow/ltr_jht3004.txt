@@ -1,0 +1,40 @@
+<letter id="jht3004">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's favor of the 2d instant was 
+delivered to me last night. This afternoon I received <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> s, of the 31st of August. 
+He has ordered the lead to <a href='/results.php?city=albany' rel='city'>Albany</a>, with directions 
+to forward it by the most direct route to your camp. 
+</p><p>
+We are infested by ministerial ships and transports. I gave your Commissary-General a narrative 
+yesterday, and beg leave to refer you to him, from 
+the haste of this express. Our coasts are kept in 
+continual alarm. Three ships of war, with thirteen 
+other vessels of divers sorts, were seen off Fisher's 
+Island, and in the Sound, yesterday. They have 
+gained no provisions from the main. Have heard 
+nothing from Montauk, or any part of Long Island. 
+New London is in great fears, and Stonington expects another attack. I have ordered the new-raised 
+levies to guard and defend those two places, and 
+the coasts as far as Connecticut River. There are 
+likewise four companies of them beyond the river, for defence in those parts. This appears absolutely necessary for their security at present. Hope this use 
+of them, till these dangers are over, will neither injure nor hinder any of your operations. 
+</p><p>
+Whether these are the same ships your Excellency noticed us of, remains uncertain. Yesterday, ordered 
+the best intelligence to be gained, to render that matter more certain. 
+</p><p>
+Lord's day morning, constrained by the weather, came into the harbour at New London a schooner, taken by the Rose, Captain Wallace, at Stonington; 
+four hands on board ; one, a white man, sent to Windham gaol; the other three, negroes, two belonging to <a href='/results.php?tla=nic' rel='colleague'>Governor Cooke</a> and one to Newport, ordered to be 
+returned to their masters, and the schooner to her owner. <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>'s army is moved forward a few days will determine the event. 
+</p><p>
+I have ordered our Commissaries in the several counties to send to your camp all the hunting shirts they can procure. I am, with great esteem and regard, Sir, your very obedient and 
+</p><p>
+Most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

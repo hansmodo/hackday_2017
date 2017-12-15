@@ -1,0 +1,49 @@
+<letter id="ben4805">
+<recipient first="Jonathan" last="Williams" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1771' rel="origin">1771</a> 
+</p><p>
+LOVING COUSIN, 
+</p><p>
+I suppose Jonathan has told you, that the lottery is drawn, 
+and your two new tickets had the same success as the former, 
+namely, one twenty-pound prize, and one blank. Would 
+you go on any further? 
+</p><p>
+Josiah is very happy in being under the tuition of Mr. Stanley, who very kindly undertook him at my request, 
+though he had left off teaching. Josiah goes constantly, too, 
+to several concerts, besides operas and oratorios, so that his 
+thirst for music is in a way of being thoroughly satiated. 
+This is the principal expense; for, in all other respects, I 
+never saw two young men from America more prudent and 
+frugal, than he and his brother are. 
+</p><p>
+Jonathan seems to have an excellent turn for business, 
+and to be a perfect master of accounts. In the latter he has 
+been of great use to me, having put all mine in order for me. 
+There is a proposal from his uncle of his going to East India, 
+as a writer in the Company's service, which I wish may take 
+place, as I think, if he lives, he cannot fail bringing home a fortune. He had ordered a cargo of goods to be sent you for 
+cousin Wood's shop, and had given expectations of paying 
+ready money. But, one of your bills being protested, there 
+seemed a necessity of asking some credit of the merchant. 
+I advised him to take what was wanting of me, rather than 
+fail in punctuality to his word, which is sacred here among all 
+that would maintain a character in trade. He did so; and 
+thereby also saved the discount without putting me to the 
+least inconvenience, provided the money is replaced in six 
+months ; and I was glad I had it in my power to accommodate him. 
+</p><p>
+I hope you have before this time got another tenant for 
+your house, and at the former rent. However, I would have 
+you go on advancing to my sister the amount of it, as I am 
+persuaded she cannot well do without it. She has, indeed, 
+been very unfortunate in her children. I am glad to hear, 
+that, as soon as the weather permits, the tomb will receive 
+a thorough repair. Your kind care in this matter will greatly 
+</p><p>
+oblige your affectionate uncle, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

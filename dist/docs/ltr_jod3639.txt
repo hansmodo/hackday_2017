@@ -1,0 +1,22 @@
+<letter id="jod3639">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='26'>26</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE only time to enclose you something. Dr. Priestley breakfasted with me. I asked him whether 
+it was his opinion that the French would ultimately establish a republican government. He said it was, 
+and his opinion was founded upon the prophecy. 
+France appeared to him to be one of the horns that 
+were to fall off. He acknowledged, however, the 
+uncertainty, and related a paragraph from a French 
+writer who travelled in England immediately before 
+the restoration of Charles the second. " That the 
+people were much engaged in disputing about a form 
+of government, but that all agreed there would never 
+be any kings in England again." 
+</p><p>
+When statesmen found their judgments upon prophecies I can never confide in their opinions. 
+</p>
+</letter>

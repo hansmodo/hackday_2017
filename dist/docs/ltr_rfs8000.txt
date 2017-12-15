@@ -1,0 +1,20 @@
+<letter id='rfs8000'>
+<recipient first='John' last='Sloat' type='individual'/>
+<p>
+<a href='/results.php?city=u.s. frigate congress' rel='city origin'>U. S. Frigate Congress</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+My Dear Commodore : It is very important to take <a href="/results.php?tla=jas" rel="adversary">General Castro</a> or to drive him out of the country. Until one or the other is done, I see no hope of restoring peace and good order to this territory. 
+</p><p>
+I wish to send the Cyane with <a href="/results.php?tla=jhf" rel="colleague">Captain Fremont's</a> men to the southward, to head him off. and drive him back here. 
+</p><p>
+Had you not better send me an order to take command at once, and make my own arrangements ? 
+</p><p>
+It will facilitate operations, and relieve you from a great deal of trouble. 
+</p><p>
+Faithfully your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=rfs" rel="me">R. F. Stockton</a>. 
+</p><p>
+To Commodore J. D. Sloat, etc., etc., Flag-Ship Savannah. 
+</p>
+</letter>

@@ -1,0 +1,37 @@
+<letter id="joj4176">
+<recipient first="William" last="Miller" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='7'>7th</a> <a rel="month origin" value="11">Nov.</a>, <a href='/results.php?year=1811' rel="origin">1811</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On the 4th inst. your letter of the 23d of last month was 
+delivered to me. It gave us all pleasure to find from it 
+that you and your family were then well. If all the productions of your farm are as fine as tiie sample of one 
+kind of them, which you sent me, you have much reason to 
+praise it. 
+You have certainly had no inconsiderable share of difficulties, dangers, and troubles, and as you justly observe, Providence has carried you through them all, and has also 
+given you consolations and enjoyments. Such is more or 
+less the lot of all men. If, my good friend, there were no 
+trials in this world, it would not be what it certainly is, a 
+state of probation ; some are tried by adversity, some by 
+prosperity, and many by both. If in our journey through 
+life, we were to meet with nothing but what was pleasant, 
+we should probably be too little mindful of home, and too 
+little disposed to take a rough road to it, even though it 
+should be the most direct one. We have neither of us 
+much further to travel. If, on our arrival, we find it a 
+paradise, our enjoyments will not be diminished by the 
+recollection that we had suffered much on the way. 
+</p><p>
+I still flatter myself with the expectation of again seeing 
+you here, especially as your health is good, and your business would be attended to during your absence. We should 
+have new affairs as well as old affairs to talk over. Those 
+among the new ones, which concern the welfare of yourself 
+and family, will be particularly interesting to 
+</p><p>
+Your friend, 
+</p><p>
+John J a v. 
+</p>
+</letter>

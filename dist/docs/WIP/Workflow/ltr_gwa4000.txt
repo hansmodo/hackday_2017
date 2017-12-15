@@ -1,0 +1,40 @@
+<letter id="gwa4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+[Private.] 
+</p><p>
+<a href='/results.php?city=middlebrook' rel='city origin'>Middlebrook</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have been a little surprised, that the several important 
+pieces of intelligence lately received from Europe (such 
+parts of it. I mean, as are circulated without reserve in conversation), have not been given to the public in a manner 
+calculated to attract the attention and impress the minds of 
+the people. As they are now propagated, they run through 
+the country in a variety of forms, are confounded in the 
+common mass of general rumours, and lose a real part of 
+their effect. It would certainly be attended with many 
+valuable consequences if they could be given to the people 
+in some more authentic and pointed manner. It would 
+assist the measures taken to restore our currency, promote 
+the recruiting of the army and our other military arrangements, and give a certain spring to our affairs in general. 
+</p><p>
+Congress may have particular reasons for not communicating the intelligence officially (which would certainly be 
+the best mode if it could be done), but if it cannot, it were 
+to be wished that as much as is intended to be commonly 
+known could be published in as striking a way, and with as 
+great an appearance of authority as may be consistent with 
+propriety. 
+</p><p>
+I have taken the liberty to trouble you with this hint, as 
+sometimes things the most obvious escape attention. If 
+you agree with me in sentiment, you will easily fall upon 
+the most proper mode for answering the purpose. 
+With great esteem and regard, I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">Geo. Washington</a>. 
+</p>
+</letter>

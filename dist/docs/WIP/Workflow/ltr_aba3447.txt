@@ -1,0 +1,56 @@
+<letter id="aba3447">
+<recipient first="Thomas" last="Adams" type="individual"/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Washington</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1800" rel="origin">1800</a>. 
+</p><p>
+Well, my dear son, South Carolina has behaved as 
+your father always said she would. The consequence to us, personally, is, that we retire from 
+public life. For myself and family, I have few regrets. At my age, and with my bodily infirmities, 
+I shall be happier at <a href='/results.php?city=quincy' rel='city'>Quincy</a>. Neither my habits, 
+nor my education or inclinations, have led me to an 
+expensive style of living, so that on that score I have 
+little to mourn over. If I did not rise with dignity, 
+I can at least fall with ease, which is the more difficult task. I wish your father's circumstances were 
+not so limited and circumscribed, as they must be, 
+because he cannot indulge himself in those improvements upon his farm, which his inclination 
+leads him to, and which would serve to amuse him, 
+and contribute to his health. I feel not any resentment against those who are coming into power, and 
+only wish the future administration of the government may be as productive of the peace, happiness, 
+and prosperity of the nation, as the two former ones 
+have been. I leave to time the unfolding of a drama. I leave to posterity to reflect upon the times 
+past ; and I leave them characters to contemplate. 
+My own intention is to return to <a href='/results.php?city=quincy' rel='city'>Quincy</a> as soon as 
+I conveniently can ; I presume in the month of January. 
+</p><p>
+Governor Davie arrived yesterday with the treaty. 
+Judge Ellsworth was landed in England for the 
+benefit of his health. The public curiosity will be 
+soon satisfied. Peace with France, a revenue increased beyond any former years, our prospects 
+brightening upon every side. What must be the 
+thoughts and the reflections of those, who, calling 
+themselves Federalists, have placed their country in 
+a situation full of dangers and perils ; who have 
+wantonly thrown away the blessings Heaven seemed 
+to have in reserve for them ? The defection of 
+<a href='/results.php?city=new york' rel='city'>New York</a> has been the source. That defection was 
+produced by the intrigues of two men. One of 
+them sowed the seeds of discontent and division 
+amongst the Federalists, and the other seized the 
+lucky moment of mounting into power upon the 
+shoulders of Jefferson. The triumph of the Jacobins 
+is immoderate, and the Federalists deserve it. It is 
+an old and a just proverb, " Never halloo until you are 
+out of the woods." So completely have they gulled 
+one another by their Southern promises, which have 
+no more faith, when made to Northern men, than 
+lovers' vows. 
+</p><p>
+I have not heard from <a href='/results.php?city=new york' rel='city'>New York</a> since I wrote you last. 
+</p><p>
+I am, my dear Thomas, 
+</p><p>
+Your ever affectionate mother, 
+</p><p>
+A. Adams. 
+</p>
+</letter>

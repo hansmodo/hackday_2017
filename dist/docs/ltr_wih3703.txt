@@ -1,0 +1,43 @@
+<letter id="wih3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Nothing of consequence has transpired since I had 
+the honor last to write to you. The British fleet continue off the harbour, sometimes at anchor, at other 
+times cruising. Yesterday afternoon I counted twelve 
+sail, principally large ships, at anchor, and four sail 
+of frigates and sloops of war, cruising ; the former 
+to the east of Block Island, the latter between that 
+place and Point Judith. Their intention, undoubtedly, is to block up the squadron under the command 
+of <a href='/results.php?tla=cdt' rel='colleague met'>Monsieur De Ternay</a>, intercept the expected second 
+division of our allies, cut ofi all supplies by water, 
+and impede the operations of the campaign; and, I 
+fear, without the arrival of a further naval force, they 
+have laid an embargo on the squadron now here. 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> arrived here the last 
+evening. Universal joy was diffused throughout the 
+camp. I have the honor to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p><p>
+P. S. The troops, which put into <a href='/results.php?city=boston' rel='city'>Boston</a>, arrived here last night, by the way of <a href='/results.php?city=providence' rel='city'>Providence</a>. Inclosed is a return of the platform plank, at this place, belonging to the public. 
+</p><p>
+Upon the appearance of the British fleet, standing 
+in for this place, I ordered <a href='/results.php?tla=chg' rel='colleague met'>Colonel Greene</a>'s regiment, 
+and the recruits for the Rhode Island line, who were 
+under orders to march to the army, to take post at 
+Howland's and Bristol Ferry, Butts's Hill, and the 
+dock where our flat-bottomed boats lie. This gave 
+great satisfaction to <a href='/results.php?tla=cdr' rel='colleague met'>Count Rochambeau</a>, who, under 
+present appearances, is very earnest to have them 
+remain a few days longer, for the security of the 
+ferry, flat-bottomed boats, &c. The <a href='/results.php?tla=laf' rel='colleague met'>Marquis</a> is of the 
+same opinion. 
+</p>
+</letter>

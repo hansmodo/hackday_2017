@@ -1,0 +1,62 @@
+<letter id="pjs3020">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort edward' rel='city origin'>Fort Edward</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I did myself the honor to address you from Saratoga on the 14th instant. On the next day, Amsbury and Adams (mentioned in <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a>'s 
+letter, copy whereof I transmitted to Congress by 
+letter under cover to your Excellency) arrived at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>. What passed between us, and what information he gave, is noted in paper Number One. Number Two is the letter which was inclosed between 
+the bottoms of the canteen. 
+</p><p>
+If the information which Amsbury gives is to be 
+relied upon, as I think it is, we shall soon be attacked at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> ; and although I think the 
+force now there may be sufficient to hold that important post, yet I have no troops to oppose either Sir 
+John Johnson, if he should penetrate to the Mohawk River, or any to prevent the communication between 
+this and Fort George from being cut off; nor have I force, if these should not be attempted by the enemy, 
+to march to the relief of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. In this situation, I am under the necessity of applying to your 
+Excellency for a reenforcement. 
+</p><p>
+From the time I left <a href='/results.php?city=albany' rel='city'>Albany</a> till my return to 
+that place, nothing, comparatively speaking, has been 
+done towards throwing into <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> a stock of 
+provisions of the meat kind ; and of the little that is 
+left there, I fear to learn that a very considerable 
+part is damaged ; and what is equally bad, if not 
+worse, is, that we have very little hopes of a supply 
+of fresh meat. A week or two may remedy the 
+latter, but it may then be too late to convey a quantity to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. If, therefore, any salted pork 
+or beef can be spared from <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, or elsewhere, 
+I wish it may be ordered up, without the least delay. 
+</p><p>
+Should your Excellency order me a re-enforcement, 
+permit me to suggest, that, if there are no vessels 
+at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a> or <a href='/results.php?city=fishkill' rel='city'>Fishkill</a> to transport the troops to 
+<a href='/results.php?city=albany' rel='city'>Albany</a>, it may be proper, by express, to direct the 
+commanding officer at <a href='/results.php?city=albany' rel='city'>Albany</a> to send down from 
+thence a sufficient number of sloops. 
+</p><p>
+Such is the inattention, in this department, that 
+not less than a thousand barrels of flour are now 
+lying at this post, and only five wagons employed to 
+carry it to Fort George, the distance of fifteen miles. 
+</p><p>
+Permit me to beg that your Excellency will communicate the contents of this despatch to Congress, 
+as I cannot find time to do myself the honor to 
+write to them. 
+</p><p>
+I shall (consulting with the General Officers at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>) try to send an answer to Mr. Levius's 
+letter, as from <a href='/results.php?tla=jsu' rel='colleague'><a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a></a>, in which I shall 
+leave him to suppose (what I do not by any means 
+believe) that <a href='/results.php?tla=jsu' rel='colleague'><a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a></a> has entered into his 
+views. Your Excellency will please to mention my 
+intention to <a href='/results.php?tla=jsu' rel='colleague'><a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a></a>, and to assure him that 
+my only view is to serve the public. I am, dear 
+Sir, most sincerely, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

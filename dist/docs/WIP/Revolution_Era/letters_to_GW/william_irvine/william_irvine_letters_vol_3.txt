@@ -1,0 +1,594 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.hcCMIR on line 213
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--wli
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Irvine
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wli3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='2'>2</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+At the time Congress directed me to repair to this place, I took for granted your Excellency would have 
+information thereof through different channels ; and 
+knowing how very particularly you were at that moment engaged, I did not think proper to give unnecessary trouble. This, I flatter myself, will excuse 
+me to your Excellency for not writing sooner. Previous to my arrival, Colonel Gibson had received 
+your letter directing him to take the command, which 
+was acquiesced in by <a href='/results.php?tla=dab' rel='colleague'>Colonel Brodhead</a> ; and things 
+went on in the usual channel, except that the dispute occasioned Colonel Gibson's intended expedition 
+against Sandusky being laid aside, and perhaps it the intention of Congress by consulting with and employing the assistance of the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a>, in accelerating the supplies which 
+may be afforded by his Most Christian Majesty for the use of the United States ; 
+</p><p>
+" That the Superintendent of Finance, the Secretary for Foreign 
+Affairs, and the Board of War, make such communications to the 
+<a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a>, touching the affairs of their respective departments, as will best enable him to fulfil the purpose of the two resolutions immediately preceding ; 
+</p><p>
+" That the Superintendent of Finance take order for discharging the 
+engagement entered into by the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> with the merchants of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, referred to in the act of the 24th of May last. 
+</p><p>
+" Ordered, That the Superintendent of Finance furnish the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> with a proper conveyance to France; 
+</p><p>
+" That the Secretary for Foreign Affairs report a letter to his Most 
+Christian Majesty, to be sent by the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a>." 
+</p><p>
+When Lafayette was marching from the Head of Elk to Virginia, 
+the citizens of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a> contributed very liberally to assist him in 
+furnishing supplies of clothing to his troops. On the 24th of May, the 
+following resolve, alluded to above, was passed; — 
+</p><p>
+" Resolved, That Congress entertain a just sense of the patriotic and 
+timely exertions of the merchants of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, who so generously supplied the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> with about two thousand guineas, to 
+enable him to forward the detachment under his command; 
+</p><p>
+"That the <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> be assured that Congress will take 
+proper measures to discharge the engagements he has entered into with 
+the merchants." 
+</p><p>
+also prevented many other necessary arrangements. 
+The examination of evidences, on the charges against <a href='/results.php?tla=dab' rel='colleague'>Colonel Brodhead</a>, are still taking, and I am informed will continue some weeks. 
+</p><p>
+Agreeably to my orders from Congress, to retain 
+no more officers here than sufficient for the men, I 
+have made the following arrangements. Reformed the 
+remains of the late eighth Pennsylvania regiment into 
+two companies, and call them a detachment from the 
+Pennsylvania line, to be commanded by Lieutenant-Colonel Bayard. <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> had some time as-o 
+directed Colonel Gibson to reform his regiment also 
+into two companies, retaining with him the Staff of 
+the regiment; and to send all the supernumerary 
+officers down into Virginia. The reformation w\is so 
+made ; but the officers were so distressed, for want of 
+clothing and other necessaries, that they were not 
+able to proceed ; however they are now making exertions, and I hope will soon set out. I have ordered 
+the supernumerary officers of the Pennsylvania line 
+to repair forthwith to their proper regiments in the 
+line. The whole of the troops, here, are thrown into 
+four companies. I have been trying to economize ; 
+but every thing is in so wretched a state, that there 
+is very little in my power. I never saw troops cut 
+so truly a deplorable, and at the same time despicable, a figure. Indeed, when I arrived, no man would 
+believe, from their appearance, that they were soldiers ; nay, it would be difficult to determine whether 
+they were ivldte men. Though they do not yet come up to my wishes, they are somewhat better. 
+</p><p>
+As it does not rest with me to decide on the propriety or impropriety of any person's conduct, I shall 
+only make a few general observations. The consumption of public stores has, in my opinion, been enormous ; particularly military stores. And I fear the reasons given for it will not be justifiable ; namely, that 
+the militia would all fly, if they had not powder and 
+lead given them, not only when in service, but also 
+to keep in their houses. It is true, the County Lieutenants, and others who are called responsible men, 
+have promised to be accountable; but I am certain, 
+that not an ounce can ever be again collected. I 
+find, by the returns, that near two thousand pounds 
+of powder, and four thousand pounds of lead, have 
+been issued to the militia since the dispute commenced between Colonels Brodhead and Gibson, chiefly 
+by orders of the former, beside arms, accoutrements, 
+&c., and not a man called into actual service. The 
+magazine is nearly exhausted. There is not now as 
+much remaining as has been issued since the first of 
+last September. 
+</p><p>
+I presume your Excellency has been informed by the Governor of Virginia, or General Clark, of the 
+failure of his expedition. But lest that should not 
+be the case, I will relate all the particulars that have 
+come to my knowledge. Captain Craig, with the detachment of artillery under him, returned here the 
+26th instant. He got up with much difficulty, and 
+great fatigue to the men, being forty days on the 
+way, occasioned by the lowness of the river. He 
+was obliged to throw away his gun-carriages, but 
+brought his pieces and best stores safe. He left 
+General Clark at the Rapids ; and says the General was not able to prosecute his intended plan 
+of operation, for want of men, being able to collect, 
+in the whole, only about seven hundred and fifty, 
+and the buffalo meat was all rotten; and adds, the 
+General is apprehensive of a visit from Detroit, and 
+is not without fears the settlement will be obliged to 
+break up, unless reenforcements soon arrive from Virginia. The Indians have been so numerous in that 
+country, that all the inhabitants have been obliged to 
+keep close in forts, and the General could not venture 
+out to fight them. 
+</p><p>
+A Colonel Lochrey, Lieutenant of Westmoreland 
+county, in Pennsylvania, with about one hundred men 
+in all, composed of volunteers, and a company raised 
+by Pennsylvania for the defence of said county, followed General Clark, who, 'tis said, ordered Lochrey 
+to join him at the mouth of Miami, up which river 
+it had previously been agreed on to proceed. But 
+General Clark, having changed his plan, left a small 
+party at Miami, with directions to Lochrey to proceed on to the Falls after him, with the main body. 
+Sundry accounts agree that this party, and all Lochrey's, to a man, were waylaid by Indians and regulars 
+(for it is asserted they had artillery), and all killed 
+or taken. No man, however, escaped either to join 
+General Clark or return home. When Captain Craig 
+left the General, he could not be persuaded but that Lochrey with his party had returned home. These 
+misfortunes throw the people of this country into the 
+greatest consternation and almost despair, particularly 
+Westmoreland county, Lochrey's party being all the 
+best men of that frontier. At present they talk of 
+flying early in spring to the eastern side of the 
+mountain, and are daily flocking to me to inquire 
+what support they may expect. 
+</p><p>
+I think there is but too much reason to fear that 
+General Clark's and Colonel Gibson's expeditions falling through, will greatly encourage the savages to 
+fall on the country with double fury, or perhaps the 
+British, from Detroit, to visit this post, which, instead 
+of being in a tolerable state of defence, is in fact nothing but a heap of ruins. I need not inform 
+your Excellency that it is, at best, but a bad situation for defence. I have been viewing all the ground 
+in this vicinity, and find none equal for a post to 
+the mouth of Shirter's Creek, about four miles down 
+the river. This was pointed out to me by Captain 
+Hutchins before I left <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, who says there 
+is no place equal to it anywhere within forty miles of <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>. 
+</p><p>
+I think it best calculated on many accounts. First, 
+the ground is such that works may be constructed to 
+contain any number of men you please, from fifty to 
+one thousand. It is by nature almost inaccessible on 
+three sides, and on the fourth no commanding ground 
+within three thousand yards. Secondly, as it would 
+effectually cover the settlement on Shirter's Creek, 
+the necessity of keeping a post at Fort Mcintosh 
+will of course cease. In case of making that the 
+main post. <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> should be demolished, all except 
+the north bastion, on which a strong block-house 
+should be built. A small party in it would as effectually keep up the communication with the settlements on Monongahela, as the whole garrison now 
+does; for the necessary detachments to Fort Mcintosh, Wheeling, &c., so divide the troops, that no one 
+place can ever be held without a large body of troops. 
+Indeed, I do not like Fort Mcintosh being kept a 
+post in the present situation of things. 
+</p><p>
+If the enemy from Detroit should take into their 
+heads to make us a visit, that would be an excellent 
+place for them to take by surprise; from whence 
+they could send out Indians and other partisans to 
+lay the whole country waste before we could dislodge 
+them. We have (I think idly) too much of our 
+stores there. I have been making efforts to bring up the greater part; but, though it is almost incredible, yet 'tis true that, of all the public boats 
+built here, not a single one was there to be found 
+when I came here, except one barge and one flat. I 
+expect two boats up, loaded, this day. It is, I believe, universally agreed that the only way to keep 
+Indians from harassing the country, is to visit them. 
+But we find, by experience, that burning their empty 
+towns has not the desired effect. They can soon 
+build others. They must be followed up and beaten, 
+or the British, whom they draw support from, totally 
+driven out of their country. 
+</p><p>
+I believe, if Detroit was demolished, it would be 
+a good step towards giving some, at least temporary, ease to this country. It would take at least a 
+whole summer to rebuild and establish themselves ; 
+for, though we should succeed in reducing Detroit, I 
+do not think there is the smallest probability of our 
+being able to hold it; it is too remote from supplies. 
+I have been endeavouring to form some estimates; 
+and, from such information as I can collect, I really 
+think that the reduction of Detroit would not cost 
+much more, nor take many more men than it will 
+take to cover and protect the country by acting on 
+the defensive. If I am well informed, it would take 
+seven or eight hundred regular troops, and about a 
+thousand militia; which number could pretty easily 
+be obtained for that purpose, as it appears to be a 
+favorite scheme over all this country. The principal 
+difficulty would be to get provision and stores transported. As to taking a heavy train of artillery, I 
+fear it would not only be impracticable, but an incumbrance ; two field-pieces, some howitz, and perhaps 
+a mortar. I do not think, especially under present 
+circumstances, that it would be possible to carry on an expedition in such a manner as to promise success 
+by a regular siege. I would therefore propose to 
+make every appearance of sitting down before the 
+place, as if to reduce it by regular approaches ; as 
+soon as I found the enemy fully impressed with This 
+idea, attempt it at once by assault. 
+</p><p>
+I mean to write Congress for leave to go down the 
+country in January, to return in March, if they make 
+a point I should continue here. I can scarcely think 
+they will wish me to remain with four companies of 
+men. The power of calling out the militia of this 
+country, is more ideal than real, especially till the 
+lines between Virginia and Pennsylvania are determined, and actually run. Neither civil nor military 
+law will take place till then. Whether I am to be 
+continued here or not, I am pretty certain it might 
+be of use for me to go down, in order the better to 
+concert measures proper to be taken, either with your 
+Excellency or Congress ; for, as matters now stand, it 
+is clear to me this country must be given up. The 
+militia, however, promise pretty fair, and I have had 
+no ground for differing with them yet. There is no 
+provision laid in, nor is there even sufficient from day 
+to day. The contract made by <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a> for supplying this post, has not been fulfilled on the part of 
+the contractor in any tolerable degree ; nor would the 
+contract answer here, even if complied with. However, as I must write particularly to the Board of 
+War on this subject, and have exceeded moderate 
+bounds for a letter, I fear I have already tired, and 
+taken up too much of your Excellency's time. I have 
+the honor to be, Sir, your Excellency's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p><p>
+P. S. I have been told of three persons who were 
+prisoners with the enemy, and have hitely made their 
+escape. I have sent in search of them, but could not 
+find them out. The Lieutenant of Washington county has promised to bring one of them to me as soon 
+as possible. If they have any material accounts, I shall 
+inform your Excellency the earliest possible. They 
+have come from different places, and I am told all 
+agree that great preparations are making to attack 
+this country, at several places, at the same time. 
+Speaking of prisoners, leads me to beg your Excellency's opinion or instructions respecting an exchange 
+in this quarter, or a negotiation carried on with the 
+Commander at Detroit. I find numbers of poor people are taken in this district ; some were taken at 
+the commencement of the war, and are yet languishing in prison, in Canada, for they send all down to 
+<a href='/results.php?city=quebec' rel='city'>Quebec</a> or <a href='/results.php?city=montreal' rel='city'><a href='/results.php?city=montreal' rel='city'>Montreal</a></a>. I cannot learn that any attempt 
+has ever been made, on either side, to exchange them. 
+</p><p>
+John Hynds and Myndat Fisher have both been 
+confined here a whole year, and are under sentence 
+of a Court-Martial. I request your Excellency's orders 
+respecting them. I am informed the proceedings of 
+the Court were sent to head-quarters a considerable 
+time since. W. I. 
+</p>
+</letter><letter id="wli3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='7'>7</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+The present strength of the garrison at <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> 
+is two hundred and thirty. At least thirty of these 
+are unfit for field duty, and several, even garrison 
+duty From this number, detachments are made to 
+garrison Forts Mcintosh and Wheeling, the first distant thirty miles, the latter eighty. <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> is in a 
+bad state for defence ; Fort Mcintosh, pretty easily repaired. If <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> were in the best state, the work 
+is too extensive for less than a garrison of at least 
+four hundred and fifty men, to make a tolerable defence. Fort Mcintosh would take one hundred and 
+fifty to defend it properly, and be able to send patrolling parties towards Wheeling. 
+</p><p>
+Wheeling should have twenty-five or thirty men, 
+and an equal number at some intermediate post. From 
+<a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> to the Laurel Hill, northwards, it would take 
+two hundred men in actual service, from the first of 
+April to the last of October, to guard that quarter 
+from the incursions of the savages. By this arrangement, it would take nine hundred and fifty men to 
+act on the defensive The whole of the summer season. 
+The number of militia in Washington county is said 
+to he two thousand; in Westmoreland, one thousand. 
+The inhabitants are dispirited, and talk much of making their escape early in the spring to the east side 
+of the mountain, unless they see a prospect of support. 
+</p><p>
+The Indians have all left us, except ten men ; and, 
+by the best accounts, are preparing to make a stroke 
+in the spring, either against General Clark, at the 
+Rapids, or on <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>; which, my informant could 
+not with certainty say, but was positive one or the 
+other was intended. I am apprehensive, from the 
+steps taken by the Commandant at Detroit, that something serious is intended. First, thirteen nations of 
+Indians have been treated with, in the beginning of 
+November; at the conclusion, they were directed to 
+keep themselves compact, and ready to assemble on 
+short notice. Secondly, the Moravians are carried into captivity, and strictly watched, and threatened with 
+severe punishment, if they should attempt to give us 
+information of their movements. Thirdly, part of five 
+nations are assembled at Sandusky. The Shawanese 
+and lowas have settled nearer Detroit than formerly. 
+There is no magazine of provision laid in at any of 
+our posts, to hold out a siege ; ammunition exhausted ; 
+no craft to transport materials for repairing the fort, 
+or to keep up a communication with Fort Mcintosh 
+or Wheeling, or to supply these posts with provision 
+or stores, in case of exigence. 
+</p><p>
+To carry on an expedition against Detroit would 
+take two thousand men, to give a tolerable certainty 
+of success ; the time would be three months, and the 
+best season to march from <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>, the 1st of August. Then the waters are low; morasses, and soft, rich 
+meadows dried up ; by land totally, preferable to any 
+part by water, the enemy having entire command of 
+the lake with armed vessels ; the navigation of rivers 
+uncertain ; besides, the number of boats, and waste of 
+time, would make it more expensive than land carriage. Pack-horses to carry provision would be better 
+and more certain than wagons ; but, as a road must 
+be cut for artillery, the ammunition and military stores 
+would be transported with greater facility and more 
+safety in wagons. One thousand horses would carry 
+flour for two thousand men for three months. Beef 
+must be driven on foot. Twenty-five wagons would 
+carry military stores sufficient for the train, which 
+should consist of two twelve-pounders, two sixes, one 
+three-pounder, one eight-inch howitzer, and one royal. 
+At least one half should be regular troops. If it is 
+necessary to keep half the number of troops to act 
+on the defensive that it will to act offensively, and 
+three months are sufficient to complete the expedition, 
+then the only difference in the expense will be transportation of provision and stores; as acting on the defensive, seven months will be the least, and the same 
+quantity of provision will be consumed, and ammunition wasted. If we act offensively, it will draw the 
+whole attention of the enemy to their own defence, 
+by which our settlements will have peace; and such of 
+the militia, as do not go on the expedition, will have 
+time to raise crops. On the contrary, continual alarms 
+will keep them from these necessary duties. The garrison at Detroit is three hundred regular troops, the 
+militia (Canadians), from seven hundred to one thousand ; the number of Indians that could assemble in 
+ten days' notice, to a certain point, about one thousand. 
+</p><p>
+Query. Should we be able to take Detroit, shall we hold it ? If not, what advantage will the bare reduction of the place be of, if immediately evacuated ? 
+</p><p>
+Answer. The reduction of Detroit, in the fall of 
+the year, will prevent an intercourse with the Western 
+Indians for a whole year, as it would be late in the 
+succeeding summer before the British could reestablish 
+themselves, during which time we might either open 
+a trade with such savages as would ask for peace, or, 
+by frequently penetrating into, and establishing posts 
+in their country, oblige them to retire to such a distance as would put it out of their power to harass 
+the back inhabitants. It would be attended with 
+great expense, and vast risk, to support a garrison at 
+Detroit, as long as the British possess the lower part 
+of Canada, and have the command of Lake Erie. 
+</p><p>
+The present garrison is too weak to repair the fort, 
+and perform other necessary duties ; no cash to pay 
+artificers ; the troops in bad temper for want of pay ; 
+under very bad discipline; too long in one station, as 
+they have formed such connections as make them tenacious of the rights of citizens, while they at the 
+same time retain all the vices common to a soldiery. 
+What is contained in the foregoing report, is all that 
+occurs to my memory at present, necessary to trouble your Excellency with. I have the honor to be, 
+with perfect respect. Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter><letter id="wli3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I arrived here the 25th of March. At that time 
+things were in greater confusion than can well be 
+conceived. The country people were, to all appearance, in a fit of frenzy. About three hundred had 
+just returned from the Moravian towns, where they 
+found about ninety men, women, and children, all of 
+whom they put to death, it is said, after cool deliberation, and considering the matter for three days. 
+The whole were collected into their church, and tied 
+when singing hymns. On their return, a party came 
+and attacked a few Delaware Indians, who have yet remained with us, on a small island close by this 
+garrison, killed two who had Captain's commissions in 
+our service, and several others ; the remainder effected 
+their escape into the fort, except two who ran to the 
+woods, and have not since been heard of. There was 
+an officer's guard on the island at the same time, but 
+he either did not do his duty, or his men connived 
+at the thing; which, I am not yet able to ascertain. 
+This last outrage was committed the day before 1 
+arrived ; nothing of this nature has been attempted since. 
+</p><p>
+A number of wrong-headed men had conceived an 
+opinion, that Colonel Gibson was a friend to Indians, 
+and that he must be killed also. These transactions, 
+added to the then mutinous disposition of the regular 
+troops, had nearly brought on the loss of this whole 
+country. I am confident, if this post was evacuated, 
+the bounds of Canada would be extended to the Laurel Hill in a few weeks. I have the pleasure, however, to inform your Excellency that things now 
+wear a more favorable aspect. The troops are again 
+reduced to obedience, and I have had a meeting, or 
+Convention, of the County Lieutenants and several 
+Field-Officers, with whom I have made arrangements 
+for defending their frontiers, and who promise to exert themselves in drawing out the militia, agreeably 
+to law, on my requisitions. The few remaining Indians, chiefly women and children, are exceeding troublesome to us, as they dare not stir out of the fort ; 
+not one of the warriors will even venture on a reconnoitring party. I think they would be better in 
+some more interior part of the country, where they 
+could be both cheaper fed and clothed. Besides, it 
+is not only inconvenient, but improper, to have them 
+among the troops, who are, without them, crowded in dirty, bad barracks. I beg your Excellency's instructions how to dispose of them. Their Chief, Killbuck, 
+has a son and brother at <a href='/results.php?city=princeton' rel='city'>Princeton</a> College, whom he 
+is anxious to see. 
+</p><p>
+Captain Springer, of the Virginia line, marched, 
+some time since, with three Indians and as many 
+white men, towards Sandusky, for the purpose of 
+gaining intelligence ; but the Indians proved too timid 
+for him to venture to go all the way. He of course 
+returned, without being able to accomplish any thing. 
+I thought it too great a risk, but it was by his request, and that of the Indians, who were very solicitous. It was proved on one of the party, named 
+Eells, that he intended betraying Captain Springer, 
+and all the party, into the hands of the enemy. I 
+directed a Board of Officers to inquire into his conduct, who were of opinion he should suffer death. I 
+ordered him executed ; he was shot on the 12th instant, seemingly much to the satisfaction of the other 
+Indians. 
+</p><p>
+Civil authority is by no means properly established 
+in this country, which I doubt proceeds in some degree from inattention in the Executives of Virginia 
+and Pennsylvania. Not running the boundary line 
+is, I think, a proof of this, which is at present an 
+excuse for neglects of duty of all kinds, for at least 
+twenty miles on each side of the line. More evils 
+will arise from this neglect, than people are aware of 
+Emigrations and New States are much talked of 
+Advertisements are set up, announcing a day to assemble at Wheeling, for all who wish to become 
+members of a new State on the Muskingum. A certain Mr. Johnson is at the head of this party ; he is 
+ambitious, restless, and some say disaffected. Most 
+people, however agree, he is open to co|ruption ; he 
+has been in England since the commencement of the 
+present war. ShoukI these people actually emigrate, 
+they must be either entirely cut off, or immediately 
+take protection from the British, which I fear is the 
+real design of some of the party, though I think a 
+great majority have no other views than to acquire 
+lands. As I apprehended taking cognizance of these 
+matters would come best from the civil authority, I 
+have written to the Governors of Virginia and Pennsylvania on the subject, which I should not have 
+done, till I had first acquainted your Excellency thereof, but for this consideration, namely, that the 20th 
+of May is the day appointed for the emigrants to 
+rendezvous ; consequently a representation from you 
+would be too late, in case the States should think 
+proper to take measures to prevent them. I am 
+much embarrassed by the scanty and irregular supply of provision. I intend to write to <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a> on 
+this head. I have the honor to be. Sir, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter><letter id="wli3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+A number of the principal people of this country 
+made application to me, about two weeks since, for 
+my consent to their collecting a body of volunteers 
+to go against Sandusky, which I agreed to on these 
+express conditions; — that they did not mean to extend 
+their settlements, nor had any thing in view but to 
+harass the enemy, with an intention to protect the 
+frontier, and that any conquests they might make 
+should be in behalf and for the United States; that 
+they would be governed by military laws as militia; 
+that they must collect such numbers as might probably be successful ; and, lastly, that they would equip 
+themselves and victual at their own expense. They 
+are accordingly assembling this day at the Mingo 
+bottom, all on horseback, with thirty days' provision. 
+They have asked of me only a few flints, and a small 
+supply of powder. 
+</p><p>
+As they will elect their officers, I have taken some 
+pains to get Colonel Crawford appointed to command, 
+and hope he will be. He left me yesterday, on his 
+way down to the place of rendezvous. He does not 
+wish to go with a smaller number than four hundred; 
+whether this number will assemble, I cannot say. He 
+pressed me for some officers. I have sent with him 
+Lieutenant Rose, my Aid-de-camp, a very vigilant, 
+active, brave, young gentleman, well acquainted with 
+service ; and a surgeon. These two are all I could 
+venture to spare. Several were solicitous for my going, but I did not think myself at liberty, consistent 
+with the spirit of your Excellency's instructions ; nor 
+are we in such a situation that I could take a single 
+Continental soldier along, particularly as the volunteers are all mounted. If their number exceeds three 
+hundred, I am of opinion they may succeed, as their 
+march will be so rapid they will probably, in a great 
+degree, effect a surprise. 
+</p><p>
+I cannot find a man in This country, who has a 
+tolerable knowledge of the road to Niagara. There 
+are numbers who are acquainted to the heads of Alleghany; from thence I think the people of the State 
+of <a href='/results.php?city=new york' rel='city'>New York</a> are better acquainted than any this 
+way. I have the honor to be, with perfect respect, 
+Sir, your Excellency's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p><p>
+P. S. The volunteers have sent requesting my instructions (which I will send) for the officer who may 
+be appointed to command. The troops behave remarkably well, since a few examples have been made. 
+</p>
+</letter><letter id="wli3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='16'>16</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+In my letter of the 21st of May, I mentioned to 
+your Excellency that a body of volunteer militia were 
+assembling at the Mingo Bottom, to go against Sandusky. The inclosed letters, one from Colonel Williamson, second in command, and the other from 
+Lieutenant Rose, my Aid-de-camp, contain all the particulars of this transaction which have yet come to 
+my knowledge. I am of opinion, had they reached 
+the place in seven days, instead of ten, which might 
+have been done, especially as they were chiefly mounted, they would have succeeded. They should also 
+have pushed the advantage evidently gained at the 
+commencement of the action. They failed in another 
+point, which they had my advice, and indeed positive 
+orders for, namely, to make the last day's march as long as possible, and attack the place in the night; 
+but they halted in the evening, within nine miles, and 
+fired their rifles at seven in the morning, before they 
+marched. These people now seem convinced that 
+they cannot perform as much by themselves as they 
+some time since thought they could. Perhaps it is 
+right that they should put more dependence on regular troops. I am sorry I have not more, to afford 
+them assistance. I have the honor to be. 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter><letter id="wli3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='11'>11</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+Dr. Knight, a surgeon I sent with Colonel Crawford, returned the 4th instant to this place. He brings 
+an account of the melancholy fate of poor Crawford. 
+The day after the main body retreated, the Colonel, 
+Doctor, and nine others, were overtaken, about thirty 
+miles from the field of action, by a body of Indians, 
+to whom they surrendered. They were taken back to Sandusky, where they all, except the Doctor, were 
+put to death. The unfortunate Colonel, in particular, was burned and tortured in every manner they could invent. 
+</p><p>
+The Doctor, after being a spectator of this distressing scene, was sent, under guard of one Indian, to the 
+Shawanese Town, where he was told he would share 
+the same fate next day; but fortunately found an opportunity of demolishing the fellow, and making his 
+escape. The Doctor adds, that a certain Simon Girty, 
+who was formerly in our service, and deserted with McKee, and is now said to have a commission in the 
+British service, was present at torturing Colonel Crawford, and that he, the Doctor, was informed by an 
+Indian, that a British Captain commands at Sandusky; 
+that he believes he was present, also, but is not certain; but says that he saw a person there who was 
+dressed and who appeared like a British officer. He 
+also says the Colonel begged of Girty to shoot him, 
+but he paid no regard to the request. A certain Slover has also come in yesterday, who was under sentence at the Shawanese Town. He says a Mr. William 
+Harrison, son-in-law to Colonel Crawford, was quartered and burned. Both he and the Doctor say they 
+were assured, by sundry Indians they formerly knew, 
+that not a single soul should in future escape torture ; 
+and gave, as a reason for this conduct, the Moravian 
+affair. A number of people inform me, that Colonel Crawford ought to be considered as a Continental officer, and are of opinion retaliation should take place. 
+These, however, are such facts as I have been able 
+to get. Dr. Knight is a man of undoubted veracity.
+</p><p>
+Slover was employed as a guide to the party under Colonel 
+This account has struck the people of this country 
+with a strange mixture of fear and resentment. their 
+solicitations for making another excursion are increasing daily, and they are actually beginning to prepare 
+for it. I have the honor to he, with perfect respect, 
+Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter>

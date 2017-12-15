@@ -1,0 +1,12 @@
+<letter id="mbc7632">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='30'>30th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. The last day of this month of calamities. Lovell left the women and children to be shelled, and took 
+the army to a safe place. I do not understand why we do 
+not send the women and children to the safe place and let 
+the army stay where the fighting is to be. Armies are to 
+save, not to be saved. At least, to be saved is not their 
+raison d etre exactly. If this goes on the spirit of our people will be broken. One ray of comfort comes from Henry 
+Marshall. Our Army of the Peninsula is fine ; so good I do not think <a href='/results.php?tla=gbm' rel=''>McClellan</a> will venture to attack it. So mote it be. 
+</p>
+</letter>

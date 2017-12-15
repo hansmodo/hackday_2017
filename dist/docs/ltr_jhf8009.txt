@@ -1,0 +1,33 @@
+<letter id='jhf8009'>
+<recipient first='Thomas' last='Benton' type='individual'/>
+<p>
+<a href='/results.php?city=sacramento river' rel='city origin'>Sacramento River</a> (latitude 40 ), <a rel="month origin" value="4">May</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1846' rel="origin">1846</a>.
+</p><p>
+My Dear Sir : Most unexpectedly, and in a remote region of the Northern Mountains, I had the great pleasure to receive your letters. An 
+express from <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> overtook me, the man being Neal, whom you will remember as having been left by me here in the last expedition. No 
+other man here would have had the courage and resolution to follow us. I had the good fortune to save the lives of <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> and party from the 
+Indians. In a charge at night by the Tlamath Indians I lost three men killed and had one dangerously wounded, being then with a detached party 
+of fourteen men. You will regret to hear that among the killed was my old companion, Basil Lajeunesse. We afterwards fought the nation from 
+one extremity to the other, and have ever since been fighting, until our entrance into the Lower Sacramento valley. I have but a faint hope that 
+this note will reach you before I do; but the object for which I write is a pressing one, and therefore I make the experiment. The Tlamath Lake 
+on our last map I find to be only an expansion of the river above, which passes by an outlet through a small range of mountains into a large body 
+of water to the southward. This is the true Tlamath Lake, and the heart of the Tlamath nation. It is on the east side of a range of mountains (the 
+Cascade). Directly west, and comparatively near at hand, is the Umpqua River. Here the British have a - post. Why do they keep it there ? The 
+fur trade will not justify it. If there is to be any war with England, it is of great importance that they should instantly be driven from this and 
+similar posts before they furnish the Indians with firearms, and engage them in their service. These Indians are considered by the Willamette 
+missionaries (who have been able to have only a slight knowledge of those on the north) as the most savage and warlike Indians on the continent. 
+So said Mr. Lee. This post maintains an intercourse with the Tlamaths and other mountain Indians, and furnishes them with the tomahawks and 
+iron arrow-heads with which they fought us. They are the bravest Indians we have ever seen ; our people (my camp, Carson, etc.) consider them far 
+beyond the Blackfeet, who are by no means so daring. You know that the Indians along the line of the Columbia are well supplied with firearms, 
+ammunition, and horses - hardly a man having less than forty or fifty of the latter - that they are brave, friendly to the British, and unfriendly to us. These things may be worthy of <a href="/results.php?tla=jeb" rel="">Mr. Buchanan's</a> attention. Your 
+letter led me to expect some communication from him, but I received nothing. I shall now proceed directly homewards, by the Colorado, but cannot 
+arrive at the frontier until late in September. I saw a notice of your illness in the papers, and your letter relieved me of much anxiety. I trust that I 
+will be able to force my way through this rough voyage, and find all well on the frontier. We certainly commenced our voyage when some malicious and inauspicious star was in the ascendant, for we find enemies and 
+difficulty everywhere. I detain <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie's</a> courier to write only to yourself ; believing, too, that when this reaches you I shall be near at hand. 
+The letters from home have taken off half the length of the journey, and I have courage now for the rest. 
+</p><p>
+Very truly and respectfully, 
+</p><p>
+<a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>. 
+</p>
+</letter>

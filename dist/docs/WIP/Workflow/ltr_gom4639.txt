@@ -1,0 +1,72 @@
+<letter id="gom4639">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="1">January</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The late King of this country has been publicly executed. 
+He died in a manner becoming his dignity. Mounting the 
+scaffold, he expressed anew his forgiveness of those who persecuted him, and a prayer that his deluded people might be 
+benefitted by his death. On the scaffold he attempted to 
+speak, but the commanding officer, Santerre, ordered the 
+drums to be beat. The King made two unavailing efforts, 
+but with the same bad success. The executioners threw him 
+down, and were in such haste as to let fall the axe before his 
+neck was properly placed, so that he was mangled. It would 
+be needless to give you an affecting narrative of particulars. 
+I proceed to what is more important, having but a few minutes to write in by the present good opportunity. 
+</p><p>
+The greatest care was taken to prevent a concourse of 
+people. This proves a conviction, that the majority was not 
+favorable to that severe measure. In effect the great mass of 
+Parisian citizens mourned the fate of their unhappy Prince. 
+I have seen grief, such as for the untimely death of a beloved 
+parent. Everything wears an appearance of solemnity, which 
+is awfully distressing. I have been told by a gentleman from 
+the spot, that putting the King to death would be a signal for 
+disbanding the army in Flanders. I do not believe this, but 
+incline to think it will have some effect on that army, already 
+perishing by want, and mouldering fast away. The people of 
+that country, if the French army retreats, will, I am persuaded, take a severe vengeance for the injuries they have felt, 
+and the insults they have been exposed to. Both are great. 
+The war against France is become popular in Austria, and is 
+becoming so in Germany. If my judgment be good, the testament of Louis the Sixteenth will be more powerful against 
+the present rulers of this country, than an army of a hundred 
+thousand men. You will learn the effect it has in England. 
+</p><p>
+I believe that the English will be wound up to a pitch of 
+enthusiastic horror against France, which their cool and steady 
+temper seems to be scarcely susceptible of. 
+</p><p>
+I enclose you the translation of a letter from Sweden, which 
+I have received from Denmark. You will see thereby, that 
+the Jacobin principles are propagated with zeal in every 
+quarter. Whether the regent of Sweden intends to make himself King, is a moot point. All the world knows that the 
+young Prince is not legitimate, although born under circumstances which render it, legally speaking, impossible to question his legitimacy. 
+</p><p>
+I consider a war between Britain and France as inevitable. The continental powers opposed to France are making 
+great and prompt efforts, while on this side I as yet see but 
+little done to oppose them. There is a treaty on foot, I believe, between England and Austria, whose object is the 
+dismemberment of France. I have not proof, but some very 
+leading circumstances. Britain will, I think, suspend her 
+blow till she can strike very hard, unless indeed they should 
+think it advisable to seize the moment of indignation against 
+late events for a declaration of war. This is not improbable, 
+because it may be coupled with those general declarations 
+against all Kings under the name of tyrants, which contain a 
+determination to destroy them, and the threat, that if the 
+ministers of England presume to declare war, an appeal shall 
+be made to the people, at the head of an invading army. Of 
+course, a design may be exhibited of entering into the heart 
+of Great Britain to overturn the constitution, destroy the 
+rights of property, and finally to dethrone and murder the 
+King. All which are things the English will neither approve 
+of, nor submit to. 
+</p><p>
+Yours of the seventh of November is just received. I will 
+reply to it by the first good opportunity. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

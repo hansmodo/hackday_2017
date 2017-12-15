@@ -1,0 +1,178 @@
+<letter id="arc3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort edward' rel='city origin'>Fort Edward</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="7">July</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's letters of the 12th and 13th instant, to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, have been by him communicated to me. Considering that my letter to him 
+of the 5th, the day before I left <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, was 
+not delivered, and one I wrote to him whilst on the 
+march to this place has miscarried, and that your 
+Excellency has had no intimation of the motions and 
+destination of our army, I do not wonder that you 
+should have some doubts about the propriety of my 
+conduct, though it gives me a very painful sensation 
+to know myself, but for a moment, the subject of 
+a doubt with you. I have, however, the strongest 
+hopes, when your Excellency comes to be fully in 
+formed of our situation and force, you will not condemn me ; and, although I am not solicitous about 
+the opinion of the world, though very far from Disregarding it, I wish to hold a character with your 
+Excellency something more than merely negative. 
+</p><p>
+Returns of the strength of my garrison were regularly transmitted to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, and by him, no 
+doubt, to you. By them, your Excellency will see, 
+that our force consisted of little more than two thou 
+sand effectives. With these, I had lines and redoubts 
+of more than a league in extent to defend. Judge how poorly they could have been defended by these 
+numbers, had they been perfected, which they were 
+very far from being. In fact, they were not defensible at all upon the <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> side, unless the enemy would have been so complaisant as to attack us 
+in front of the old French lines, and take no notice 
+of the flanks of them, which were both open. We 
+had, last year, nine thousand men at these posts, and 
+they were found barely, sufficient for the defence of 
+the works. The system was a little altered this sea 
+son, but not so as to make a smaller number answer, 
+but to make a greater number necessary. 
+</p><p>
+The enemy had nearly invested us, nothing being 
+wanting to complete it but their occupying a -narrow 
+neck of land, betwixt the East Creek and the Lake, 
+on the Mount Independence side. This, I had information, would certainly take place in the course of 
+the next twenty-four hours, and had been left open so 
+long only with a view to intercept any cattle that 
+we might bring in from the country, and then our 
+communication would have been effectually cut off. 
+We could have received neither supplies of provisions 
+nor reenforcements, for, depend upon it, Sir, the militia of this country cannot yet be brought on to raise a siege. 
+</p><p>
+But, it may be asked, why I had not called in the militia to assist in the defence of the posts. For 
+this plain reason, I had not provision for them, and 
+very little prospect of an effectual supply. When I 
+first had notice of the approach of the enemy, there 
+was no more than ten days provision in store for the 
+troops then upon the ground. To have called in the 
+militia, in that situation, would have been certain 
+ruin. So soon as a supply arrived, although but a 
+scanty one, I did call for them, and about nine hundred joined me the day before the resolution to evacuate the posts was taken. They had come out in 
+such a hurry, and almost entirely without clothes, 
+they did not propose to remain but a very few days 
+at the utmost. The term of Learned and Wells's 
+regiments, which made part of the garrison, expired 
+also in two days, and the commanding officers had 
+acquainted me that they could not prevail upon the 
+men to remain beyond the time they were engaged 
+for. Your Excellency knows, but too well, the disposition of these people on such occasions. 
+</p><p>
+The batteries of the enemy were ready to open in 
+three different quarters, and our whole camp, on the 
+<a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> side, was exposed to the fire of each ; 
+and, as soon as they did open, every man I had 
+must have been constantly on duty, as, from our 
+weakness, of which the enemy could not be ignorant, 
+I had reason, every moment, to expect an assault. 
+Judge, Sir, how long we could have sustained it, or 
+whether our resistance must not have been a very 
+feeble one indeed, especially when you take into the 
+account that a great number were mere boys, and 
+that not more than a tenth part were furnished with 
+bayonets. 
+</p><p>
+Revolving these circumstances in my mind, I was 
+at no loss to determine what part I ought to take ; 
+but I thought it prudent to take the sense of the 
+other General Officers. A copy of the Council has 
+been transmitted to your Excellency by General Schuy-ler. They were unanimously of opinion that the posts 
+ought to be evacuated immediately; wisely, in my 
+judgment, considering that a retreat, even with the 
+loss of our cannon and stores, if it could be effected, 
+would be of infinitely greater service to the country, 
+and bring less disgrace upon our arms, than an army, 
+although a small one, taken prisoners, with their 
+cannon and stores. I was fully in sentiment with 
+them, and believe I should have ordered the retreat, 
+if they had been of a contrary way of thinking. 
+</p><p>
+But here, again, it may be asked why, when I 
+found myself in the situation I have described, I did not retreat sooner, when every thing might have been 
+saved. I have only to answer that, until the enemy 
+sat down before the place, I believed the small garrison I had to be sufficient. The intelligence that 
+Congress had received, that no serious attempt in 
+that quarter was intended, as it gained credit with 
+them, I never doubted, and was unwilling to be the 
+occasion of- drawing off any part of your army, as 
+your operations might thereby be rendered less vigorous; and I knew, too, that you could very ill spare 
+them. Besides, until the case became so urgent that 
+I had no alternative but the evacuation of my posts, 
+or the loss of the army, it did not lie with me to 
+determine upon. 
+</p><p>
+The retreat was begun a little before day, on the 
+6th instant, unperceived by the enemy, after having 
+embarked as much of the stores and provision, and 
+as many of the cannon, as was possible in the course 
+of one very short night ; and our march would probably have been unperceived for some time, if General Ferrnoy's house had not been set on fire. How 
+that happened, I know not. I had previously given 
+orders against burning any of the buildings, that our 
+march might be the longer concealed ; but it served 
+to the enemy as the signal of our leaving the place, 
+and, in consequence, they were upon the Mount be 
+fore our rear was clear of it, and fired a few times 
+upon it, but without effect. 
+</p><p>
+Colonel Long, with his regiment, and a detachment 
+from the other regiments, and the invalids with the 
+hospital, were sent to Skenesborough, by water ; while 
+I took the road to the same place, through Castleton, 
+with the body of the army. As the enemy were at 
+least four times my numbers, I had nothing for it 
+but a forced march ; and I pressed it as much as 
+possible, and reached Castleton that night, thirty miles 
+from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, having, on our way, fallen in with 
+and dispersed a party of the enemy, from whom we 
+took twenty head of cattle, three British prisoners, 
+and five Canadians. 
+</p><p>
+The rear guard, under Colonel Warner, which, with 
+those that had failed upon the march, amounted to a 
+thousand, imprudently halted six miles short of Castleton, and wasted so much time in the morning, that 
+they were overtaken and surprised by a strong detachment from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, which had been sent up 
+the East Bay, which runs into the country very near 
+the place where he was. They sustained the attack 
+with great bravery, but were finally obliged to give 
+way, with the loss of about fifty killed and wounded. 
+On the first of the firing, I sent orders to two regiments of militia, who had left me the night before, 
+and were lodged within two miles of Colonel Warner's post, to move up to his assistance, which had 
+they done, that party would have been cut off. But, 
+instead of that, they made all possible haste to rejoin 
+me, and at the same instant I received the account 
+of the enemy's being in possession of Skenesborough, 
+and having taken and destroyed every thing that 
+had been sent there. 
+</p><p>
+I was then constrained to change my route, both that 
+I might avoid the being put between two fires, and 
+that I might be able to bring off Colonel Warner. I 
+therefore sent him orders to retire to Rutland, where 
+he would find me to cover him. A considerable part 
+of his detachment joined me at that place, and he, 
+with about ninety more, two days afterwards, at Man 
+chester. A great many are still missing, though few, 
+I believe, have fallen into the enemy's hands, as they 
+did not pursue Colonel Warner but a very small distance, and, from all accounts, suffered much in the 
+action. The ninth regiment followed Colonel Long 
+towards Fort Ann, and were almost entirely cut off. 
+I have despatched officers to Bennington and Number Four to pick up the stragglers who, I suppose, 
+have taken these routes to New England; and, on the 12th instant, I joined <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, at this place, after a very fatiguing march. 
+</p><p>
+Thus, Sir, I have laid before you, without the least 
+reserve, every thing I can recollect respecting <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and the retreat from thence. Happy should I 
+be, if my conduct therein meets with your approbation ; and I can, with the strictest truth, affirm I was 
+actuated by no motives but what sprang from a sincere regard for the public welfare. I have the honor 
+to be your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+ARTHUR ST. CLAIR. 
+</p>
+</letter>

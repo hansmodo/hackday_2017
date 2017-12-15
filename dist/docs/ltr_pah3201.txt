@@ -1,0 +1,54 @@
+<letter id="pah3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Inclosed I have the honor to transmit you an ac 
+count of necessaries sent off in nine wagons, for the 
+Virginia regiments in Continental service. The goods have been delivered to Colonel Finnic, the Quarter 
+master, and he has put them under the escort of 
+Lieutenant Mennis and a party of soldiers, who, I 
+trust, will deliver them safely. It is my wish that 
+the troops of Virginia shall have them. I also send a list of some other articles, chiefly linens, that will 
+shortly set out from our public store, for the same 
+uses. 
+</p><p>
+Added to this supply, fifteen thousand pounds 
+worth of woollens, &c., proper for the soldiers, will 
+set out from Petersburg in a few days. These last 
+are procured under an act of Assembly, empowering 
+me to seize necessaries for our troops wherever they 
+may be found. I have given orders, in consequence. 
+to proper persons in different parts of the State, which 
+I expect will produce many necessaries, if not enough 
+for the Virginia troops". Orders are sent to both Carolinas for blankets, particularly, and soldiers clothes ; 
+and nothing, possible for me to effect, will be left undone, in getting whatever the troops are in want of. 
+</p><p>
+I should be more particular, as to the goods seized, 
+but the Commissioners have as yet sent me no distinct account of their proceedings. If it happens that 
+the wants of your army are supplied in any short 
+time, I beg to know it, that the execution of the 
+present law for seizing goods may be stopped. 
+</p><p>
+I take the liberty to send, under cover to your Excellency, two letters from France, to the Marquis de la Fayette. One of them is from his lady, I believe. 
+I beg to be presented to him in the most acceptable 
+manner. I greatly revere his person and amiable 
+character. 
+</p><p>
+The lenity of your publications respecting deserters 
+is very apparent. But, nevertheless, a great many of 
+them are yet skulking on the Eastern Shore, and 
+really I think their case peculiar. Their officers took 
+up the general opinion, that their service would be 
+confined to that shore, and promised them to remain there. Their desertion followed upon orders to march 
+away. I beg leave to observe, that, if your Excellency would offer them a pardon upon their enlistment to serve this State, it would forward the general service by enabling us to spare so many more 
+troops for the Grand Army. I beg leave to assure 
+you of the highest esteem and regard, with which I 
+have the honor to be, Sir, your Excellency's 
+Most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pah" rel="me">PATRICK HENRY</a>. 
+</p>
+</letter>

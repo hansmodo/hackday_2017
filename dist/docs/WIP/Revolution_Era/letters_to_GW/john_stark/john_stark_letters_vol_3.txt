@@ -1,0 +1,191 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.rgXghX on line 208
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--jhs
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Stark
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jhs3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=exeter' rel='city origin'>Exeter</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General,
+</p><p>
+Very much fatigued, I arrived in New Hampshire 
+in seven days from the time I left you, and am 
+very happy to acquaint you that the people of New 
+Hampshire behave with the greatest spirit. The six 
+hundred men required, are, for the general part, on 
+their march ; the nine hundred, I hope, will be ready 
+to march by the middle of next week; and, by their 
+present exertions, I cannot doubt but by that time 
+they will be on the move. Some of them have already marched. I have directed them, at first, to 
+rendezvous at Springfield. The way of Claverac is 
+certainly much out of the route to the present station of the army; but, nevertheless, if you have any 
+particular reasons for their moving by Claverac, let 
+me know, and your orders shall be punctually complied with. 
+</p><p>
+I have conferred with the Committee. They tell 
+me they have wrote, and are surprised their letters 
+have not reached you. The State has collected, and 
+are still collecting, cattle for the use of the army. 
+Every one seems sanguinely determined to do something of importance this campaign. As soon as the 
+main body has moved, I shall follow. Springfield 
+will he my first stop. There I hope to hear from 
+you ; but, if not, shall move agreeably to my instructions. I am, dear Sir, with much respect and esteem, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter><letter id="jhs3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=west point' rel='city origin'>West Point</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The impaired state of my health and the situation 
+of my family, together with the unsettled state of 
+my accounts with New Hampshire, render my presence there, the ensuing winter, very necessary. I 
+have never, as yet, settled my depreciation, nor received any cash, on that head, from them. I should 
+be very glad to do it this winter, without which 
+it will be in a manner impossible for me to subsist 
+in the army. 
+</p><p>
+The brigade that I have had the honor to command; are now ordered to join their respective States' 
+troops; therefore it is not probable that it will be in 
+my power to render my country any essential service until the opening of another campaign. 
+</p><p>
+The many favors I have received, and the known 
+zeal you have shown for your officers, together with 
+your care of their interest, strongly invite me to 
+ask the favor of absence until the spring. That 
+this request may be granted, is the ardent desire of 
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter><letter id="jhs3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=derryfield' rel='city origin'>Derryfield</a>, <a rel='day origin' value='9'>9</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The lingering illness, which occasioned my leaving 
+camp, still attends me. But notwithstanding my physical ills, I have undertaken the business of sending 
+the recruits of this State to the army, and have detained several officers that were on furlough in the 
+State, to conduct parties. I hope that this measure, 
+which has every appearance to be for the public good, 
+will meet your approbation. With this letter, I suppose you will be joined by about fifty levies. Between 
+forty and fifty have already marched from Exeter, 
+and I expect about fifty more will march, by the last 
+of this week. 
+</p><p>
+A number of deserters have come voluntarily and 
+delivered themselves up to me, since my arrival in 
+the State. I could wish that their treatment might 
+be as favorable as possible. I am persuaded, if an 
+act of grace was published, a great number of soldiers, now prevented from delivering themselves up, 
+for fear of punishment, would return to their duty 
+with pleasure. 
+</p><p>
+I attended the General Assembly last week, and 
+urged all in my power their exertions for filling up 
+the quota of troops for the army ; and am happy to 
+acquaint you, that I think they will do as well as 
+their abilities will permit. It is entirely uncertain, when I shall be able to join the army ; but as soon 
+as the situation of my health will justify the measure, 
+I shall lose no time in repairing to my duty. In 
+the mean time, that health may attend you, and success your glorious undertakings, is the ardent wish 
+of, my dear Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter><letter id="jhs3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=derryfield' rel='city origin'>Derryfield</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I now acknowledge the receipt of your letter of 
+the 25th ultimo, which was delivered a few days ago. I shall set out for <a href='/results.php?city=saratoga' rel='city'>Saratoga</a> The beginning of 
+next week, and on my passage shall hold a treaty 
+with the Green Mountain Boys. But not having seen, 
+or been acquainted with those turbulent sons of freedom, for several years, I am at a loss to determine 
+my reception; but hope it will be such as shall tend 
+to the general good. I shall endeavour to give you 
+a more particular account on my arrival at <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>. 
+</p><p>
+My health is not fully restored, but perhaps competent to my new command. That the operations of 
+the campaign may be such as shall render the American arms glorious in the eyes of the world, and the 
+conclusion produce a peace, honorable and lasting, is 
+the ardent desire of, dear Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter><letter id="jhs3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=derryfield' rel='city origin'>Derryfield</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Since my arrival at New Hampshire, I have been 
+exercised with almost every perplexity, pain and trouble, that a shattered constitution could entail. During the course of the winter, and greater part of the 
+spring and summer, I was scarce able to ride five 
+miles; but, as the autumn begins to advance, I find 
+my health gradually returning, and had thoughts of 
+taking a ride to camp, in case I could have found 
+cash enough in the State to defray my expenses. 
+But, after repeated applications for a sum voted me 
+by Congress in the month of September, <a href='/results.php?year=1781'>1781</a>, I am 
+at length informed (trifling as the sum is) that the 
+money is not in the Treasury of the State, and no 
+immediate prospect of matters being in a better situation. In this case, I would beg your Excellency's 
+advice. Money I have none, and my private fortune 
+scarce competent to the support of a numerous offspring, which Heaven has been pleased to bestow. 
+Congress undoubtedly expected that the State would 
+pay me what they voted, and the requisition the 
+General Assembly agreed to accept ; but the Treasury 
+is empty, and no money in the State to replenish it. 
+However, should your Excellency think my presence 
+at any place in the army necessary for the good of 
+my country, I will endeavour, upon the shortest notice, 
+to prepare myself to comply with your commands. 
+</p><p>
+This State has exceeded all expectations in raising 
+their recruits ; yet there is still a number deficient, 
+which probably may not be got very soon. And, 
+indeed, it is not surprising that the affairs of this 
+State should be very irregular, during its present 
+complicated, unsettled form of government. 
+</p><p>
+The General Assembly, sensible of the impracticability of paying the tax for this year in cash, have 
+resolved the same be paid in the different species 
+of the produce of the country; in consequence of 
+which, a considerable number of beef-cattle has been collected, and many more will no doubt be soon raised, for the use of the army. 
+</p><p>
+Most sincerely wishing you success, that your path 
+on the theatre of glory may still continue to shine 
+with its usual splendor, and that you may soon be 
+able to restore to your country a safe, honorable, 
+and lasting tranquillity, is the ardent desire of your 
+most obedient, 
+</p><p>
+Most devoted, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter>

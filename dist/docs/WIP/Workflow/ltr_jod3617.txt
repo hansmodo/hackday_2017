@@ -1,0 +1,72 @@
+<letter id="jod3617">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='15'>15</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THIS morning I have your favor of the 3d, which 
+raised my spirits again after the mortification of passing the whole of last week without one. 
+</p><p>
+Benjamin has grown very dull. No abuse no 
+lies no terrors, no panics, no rant, in comparison 
+of what he used to have. 
+</p><p>
+The subject which you think will excite all their 
+feelings is well known to every body in public life, 
+but is talked of by nobody but in confidence. I could name yon, however, as good federalists, and as good 
+men as any, who think and say that he will retire, 
+and that they would if they were he. And who 
+would not? I declare upon my honor I would. After 
+twenty years of such service with such success, and 
+with no obligation to any one, I would retire, before 
+my constitution failed, before my memory failed, be 
+fore I should grow peevish and fretful, irresolute or 
+improvident. I would no longer put at hazard a character so dearly earned, at present so uncontarninated, 
+but liable by the weakness of age to be impaired in 
+a moment. He has, in the most solemn manner, 
+sworn before many witnesses at various times and on 
+several occasions, and it is now, by all who are in the 
+secret, considered as irrevocable as the laws of Medes and Persians. Your comments to Knox were perfectly delicate and perfectly wise. You need not tremble to think of the subject. In my opinion there is 
+no more danger in the change, than there would be 
+in changing a member of the senate, and whoever 
+lives to see it, will own me to be a prophet. If Jay 
+or even Jefferson (and one or the other it certainly 
+will be) if the succession should be passed over, 
+should be the man, the government will go on as well 
+as ever. Jefferson could not stir a step in any other 
+system than that which is begun. Jay would not 
+wish it. The votes will run for three persons. Two, 
+I have mentioned ; the third, being the heir apparent, 
+will not probably be wholly overlooked. If Jefferson 
+and Jay are President i nd Vice-President, as is not 
+improbable, the other retires without noise, or cries, or 
+tears to his farm. If either of these two is President 
+and the other Vice-President, he retires without 
+murmur or complaint to his farm forever. If this 
+other should be President and Jefferson or Jay Vice- 
+President, four years more, if life last, of residence 
+in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> will be his and your portion, after 
+which we shall probably be desirous of imitating the 
+example of the present pair ; or if, by reason of 
+strength and fortitude, eight years should be accomplished, that is the utmost limit of time, that I will 
+ever continue in public life at any rate. 
+</p><p>
+Be of good courage therefore, and tremble not. I 
+see nothing to appal me, and I feel no ill forebodings 
+or faint misgivings. I have not the smallest dread of 
+private life nor of public. If private life is to be my 
+portion, my farm and my pen shall employ the rest 
+of my days. 
+</p><p>
+The money of the country, the paper money is the 
+most unpleasant object I see. This must have a 
+remedy, and I fear it will be reserved for me to stem 
+the torrent, a worse one than the western rebellion, 
+or the opposition to the treaty. 
+</p><p>
+This is all in confidence and affection. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

@@ -1,0 +1,52 @@
+<letter id="gom4638">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="1">January</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+As I have good reason to believe that this letter will go safely, I shall mention some things which may serve as a clue to 
+lead through mysteries. Those who planned the revolution, 
+which took place on the tenth of August, sought a person to 
+head the attack, and found a M. Westermann, whose morals 
+were far from exemplary. He has no pretensions to science, 
+or to depth of thought; but he is fertile in resources, and endued with the most daring intrepidity. Like Cresar, he believes in his fortune. When the business drew towards a point 
+the conspirators trembled, but Westermann declared they 
+should go on. They obeyed, because they had trusted him 
+too far. On that important day his personal conduct decided 
+in a great measure their success. Rewards were due, and 
+military rank, with opportunities to enrich himself, was grant 
+ed. 
+</p><p>
+You know something of Dumouriez. The Council distrusted him. Westermann was commissioned to destroy him, 
+should he falter. This commission was shown to the General. It became the bond of union between him and Wester 
+mann. Dumouriez opened a treaty with the King of Prussia. 
+The principal emigrants, confident of force, and breathing vengeance, shut the royal ear. Thionville was defended, because 
+a member of the Constituent Assembly saw in Lafayette's 
+fate his own. Metz was not delivered up, because nobody 
+asked for the keys, and because the same apprehensions were 
+felt which influenced in Thionville. The King of Prussia 
+waited for these evidences of loyalty until his provisions were 
+consumed. He then found it necessary to bargain for a re 
+treat. It was worth to Westermann about ten thousand pounds, 
+The Council, being convinced that he had betrayed their bloody 
+secret, have excited a prosecution against him for old affairs of 
+no .higher rank than petit larcency. He has desired a trial by 
+court martial. 
+</p><p>
+You will judge whether cordial union can subsist between the 
+Council and their Generals. Vergniaud, Gaudet, &c. are now, 
+I am told, the intimates of Dumouriez, and that the present 
+administration is to be overturned, beginning with Pache, the 
+minister of War. You will have seen a denunciation against 
+these members of Assembly for a letter they wrote to Thierry, 
+the King's valet-de-chambre. This affair needs explanation, 
+but it can be of no present use. 
+</p><p>
+The King's fate is to be decided next Monday, the fourteenth. That unhappy man, conversing with one of his counsel on his own fate, calmly summed up the motives of every 
+kind, and concluded that a majority of the Convention would vote for referring his case to the people, and that in consequence he should be massacred. I think he must die or reign. 
+I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,26 @@
+<letter id="mbc7541">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. We stood on the balcony to see our Confederate flag go up. Roars of cannqn, etc., etc. Miss Sanders 
+complained (so said Captain Ingraham) of the deadness of the mob. "It was utterly spiritless", she said "no cheering, or so little, and no enthusiasm." Captain Ingraham suggested that gentlemen " are apt to be quiet," and this 
+was " a thoughtful crowd, the true mob element with us just now is hoeing corn." And yet! It is uncomfortable 
+that the idea has gone abroad that we have no joy, no 
+pride, in this thing. The band was playing Massa in the cold, cold ground. Miss Tyler, daughter of the former 
+President of the United States, ran up the flag. 
+</p><p>
+Captain Ingraham pulled out of his pocket some verses sent to him by a Boston girl. They were well rhymed and 
+amounted to this: she held a rope ready to hang him, 
+though she shed tears when she remembered his heroic rescue of Koszta. Koszta, the rebel ! She calls us rebels, too. 
+So it depends upon whom one rebels against whether to save or not shall be heroic. 
+</p><p>
+I must read <a href='/results.php?tla=abl' rel=''>Lincoln's</a> inaugural. Oh, " comes he in peace, or comes he in war, or to tread but one measure as 
+Young Lochinvar? " <a href='/results.php?tla=abl' rel=''>Lincoln's</a> aim is to seduce the border States. 
+</p><p>
+The people, the natives, I mean, are astounded that I calmly affirm, in all truth and candor, that if there were 
+awful things in society in Washington, I did not see or hear of them. One must have been hard to please who did 
+not like the people I knew in Washington. 
+</p><p>
+Mr. Chesnut has gone with a list of names to the President de Treville, Kershaw, Baker, and Robert Rutledge. 
+They are taking a walk, I see. I hope there will be good places in the army for our list. 
+</p>
+</letter>

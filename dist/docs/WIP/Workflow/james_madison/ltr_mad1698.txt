@@ -1,0 +1,43 @@
+<letter id='mad1698'>
+<recipient first='Egbert' last='Pleasants' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, October 30, <a href="/results.php?year=1791">1791</a>. 
+</p><p>
+SIR, The delay in acknowledging your letter of the 6th 
+June last proceeded from the cause you conjectured. I did not 
+receive it till a few days ago, when it was put into my hands 
+by Mr. James Pemberton, along with your subsequent letter of 
+the 8th August. 
+</p><p>
+The petition relating to the Militia bill contains nothing that 
+makes it improper for me to present it. I shall, therefore, readily comply with your desire on that subject. I am not satisfied 
+that I am equally at liberty with respect to the other petition. 
+Animadversions such as it contains, and which the authorized 
+object of the petitioners did not require, on the slavery existing 
+in our country, are supposed by the holders of that species of 
+property to lessen the value by weakening the tenure of it. 
+Those from whom I derive my public station are known by me 
+to be greatly interested in that species of property, and to view 
+the matter in that light. It would seem that I might be chargeable at least with want of candour, if not of fidelity, were I to 
+make use of a situation in which their confidence has placed me 
+to become a volunteer in giving a public wound, as they would 
+deem it, to an interest on which they set so great a value. I 
+am the less inclined to disregard this scruple as I am not sensible that the event of the petition would in the least depend on 
+the circumstance of its being laid before the House by this or 
+that person. 
+</p><p>
+Such an application as that to our own Assembly, on which 
+you ask my opinion, is a subject, in various respects, of great 
+delicacy and importance. The consequences of every sort ought 
+to be well weighed by those who would hazard it. From the 
+view under which they present themselves to me, I cannot but 
+consider the application as likely to do harm rather than good. 
+It may be worth your own consideration whether it might not 
+produce successful attempts to withdraw the privilege now allowed to individuals, of giving freedom to slaves. It would at 
+least be likely to clog it with a condition that the persons 
+freed should be removed from the country; there being arguments of great force for such a regulation, and some would concur in it, who, in general, disapprove of the institution of 
+slavery. 
+</p><p>
+I thank you, sir, for the friendly sentiments you have expressed towards me, and am, with respect, your obt, humble serv. 
+</p>
+</letter>

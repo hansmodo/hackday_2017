@@ -1,0 +1,53 @@
+<letter id="joj4170">
+<recipient first="" last="Morse" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='16'>16th</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1809' rel="origin">1809</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I this morning received your letter of the 9th inst., with 
+the interesting sermon which it enclosed, and I thank you 
+for them both. 
+</p><p>
+A proper history of the United States would have much 
+to recommend it : in some respects it would be singular, or 
+unlike all others ; it would develop the great plan of <a href='/results.php?city=providence' rel='city'>Providence</a>, for causing this extensive part of cur world to be 
+discovered, and these "uttermost parts of the earth" to be 
+gradually filled with civilized and Christian people and 
+nations. The means or second causes by which this great 
+plan has long been and still is accomplishing, arc materials 
+for history, of which the writer ought well to know the use 
+and bearings, and proper places. In my opinion, the historian, in the course of the work, is never to lose sight of that 
+great plan. 
+</p><p>
+Remarkable interpositions of Divine <a href='/results.php?city=providence' rel='city'>Providence</a> arc fine 
+subjects, but the exhibition cannot have a full effect, unless 
+accompanied with a distinct view of the objects and state 
+of things to which they relate ; it is by discerning how 
+admirably they are accommodated and fitted to answer 
+their intended purposes, that the reader is made to reflect 
+and feel properly. 
+</p><p>
+Few anions us have time and talent for such a work. I 
+am pleased with the prospect of your undertaking it ; and I 
+do believe, that with a due allowance of time, that is, of several years, you would execute it well. 
+</p><p>
+As to aid from me, I am far more willing than able to 
+assist you. I became sick last autumn, and have not had a 
+well day since. Although better, I am still feeble ; and can 
+neither bear much exercise, nor much employment of any 
+kind : even in reading and in writing, I find it necessary to 
+be abstemious. 
+</p><p>
+I regret the circumstances which deprived me of the 
+pleasure of receiving a visit from you; for no conversations 
+are more agreeable to me, than those with persons whom I 
+esteem, and in which the utile and the duke arc blended. 
+With the best wishes for your health and happiness, 
+</p><p>
+I am, dear sir, 
+Your affectionate and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

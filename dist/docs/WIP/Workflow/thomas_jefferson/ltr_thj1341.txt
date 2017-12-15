@@ -1,0 +1,42 @@
+<letter id='thj1341'>
+<recipient first='William' last='Small' type='individual'/>
+<p>
+May 7, <a href="http://www.familytales.org/results.php?year=1775">1775</a>.
+</p><p>
+Dear Sir,
+</p><p>
+Within this week we have received the unhappy news of an action of
+considerable magnitude, between the King's troops and our brethren of
+<a href="http://www.familytales.org/results.php?city=Boston" rel="city">Boston</a>, in which, it is said, five hundred of the former, with the Earl
+of Percy, are slain. That such an action has occurred, is undoubted,
+though perhaps the circumstances may not have reached us with truth.
+This accident has cut off our last hope of reconciliation, and a phrenzy
+of revenge seems to have seized all ranks of people. It is a lamentable
+circumstance, that the only mediatory power, acknowledged by both
+parties, instead of leading to a reconciliation his divided people,
+should pursue the incendiary purpose of still blowing up the flames, as
+we find him constantly doing, in every speech and public declaration.
+This may, perhaps, be intended to intimidate into acquiescence, but the
+effect has been most unfortunately otherwise. A little knowledge
+of human nature, and attention to its ordinary workings, might have
+foreseen that the spirits of the people here were in a state, in which
+they were more likely to be provoked, than frightened, by haughty
+deportment. And to fill up the measure of irritation, a proscription of
+individuals has been substituted in the room of just trial. Can it be
+believed, that a grateful people will suffer those to be consigned to
+execution, whose sole crime has been the developing and asserting their
+rights? Had the Parliament possessed the power of reflection, they would
+have avoided a measure as impotent, as it was inflammatory. When I saw
+Lord Chatham's bill, I entertained high hope that a reconciliation could
+have been brought about. The difference between his terms, and those
+offered by our Congress, might have been accommodated, if entered on,
+by both parties, with a disposition to accommodate. But the dignity of
+Parliament, it seems, can brook no opposition to its power. Strange,
+that a set of men, who have made sale of their virtue to the minister,
+should yet talk of retaining dignity. But I am getting into politics,
+though I sat down only to ask your acceptance of the wine: and express
+my constant wishes for your happiness.
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

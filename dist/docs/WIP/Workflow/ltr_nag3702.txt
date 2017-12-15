@@ -1,0 +1,80 @@
+<letter id="nag3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=verplancks point' rel='city origin'>Verplanck's Point</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+The more I have thought upon the subject of explaining the reasons and causes of our movements to 
+the army, and through them to the country, the more 
+I am confirmed in my opinion of the propriety and 
+necessity for it. 
+</p><p>
+Your Excellency "will consider this is a great movement and has been very rapid; the march of the 
+army has been very fatiguing ; the teams of the 
+country have been impressed, and every kind of property laid hold on, to pave the way to a certain 
+plan of operations. If it is all relinquished, without 
+any explanation, the natural reflections that will arise 
+upon the occasion will be, why has the army been 
+thus harassed without an object; why have the people 
+been dragged from their homes, with their teams, and 
+the public subjected to a most enormous expense ; 
+and why has the property of the people been laid 
+hold on by the hand of power, when there appears 
+nothing to warrant these extraordinary measures ? 
+</p><p>
+Without some explanations we shall not do justice 
+to ourselves, nor will your Excellency to your own 
+military character. The enterprise was great, the object noble, and the end for which it was undertaken 
+appears to have been partly answered, if not fully 
+so. To explain the reasons for the movement will 
+give the army a high opinion of the confidence you 
+have in their spirit and enterprise, and perfectly reconcile them to all the past fatigues, and to those 
+which may follow, in regaining our former position. 
+It will strike the enemy with the boldness of the design; it will be pleasing to the French army, as a measure calculated to give the most speedy relief; 
+it will reconcile the country to all the inconveniences 
+they have felt, and prepare their minds for future 
+exertions of a similar nature, in full confidence that 
+the object is worthy the preparation. 
+</p><p>
+Though I am no advocate, in common, for giving 
+reasons, either to the army or the community, for our 
+movements, yet there are cases when substantial advantages can be drawn from it; and when the people's curiosity can be gratified and the public be 
+benefited at the same time, I think it will be justifiable to adopt the measure. It is unnecessary to 
+gasconade highly upon the occasion; but I think we 
+may, with great reason, suppose the enemy's return 
+to be in consequence of our movements, and that 
+gives us the reputation of having saved our allies 
+from an injury, and subjected the enemy to the mortification of having been obliged to relinquish their 
+project. 
+</p><p>
+If the explanation takes place, there will be no inconvenience in our recrossing the river. Without it, 
+I think there will; for, both the army and the country will think all is given up, and there will be no 
+preparations proportionable to the business in contemplation. Your Excellency may remember that 
+Sir Henry Clinton explained his movement up to 
+Stony Point last campaign, after <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a> took 
+that place. He had not half the reasons for that 
+explanation as you have for this. 
+</p><p>
+I wish your Excellency to determine upon your 
+further operations, as soon as possible, as boards and 
+teams are impressing, collecting, and coming to camp, 
+as fast as possible. If the teams are not likely to 
+be wanted immediately, they had better be discharged without loss of time, as it will save a great expense, and free the people from no small inconveniences. 
+</p><p>
+Colonel Hay has sent down a considerable quantity of hoards to King's Ferry, and more are coming. 
+Mr. Clarke, of Danhury, writes me that he has got 
+an account of one hundred thousand feet, which may 
+be had, but not without great inconvenience to the 
+inhabitants, as they were got to rebuild the houses 
+burnt by the enemy last campaign. There is a great 
+number of impressed teams at King's Ferry, on the 
+other side, which I wish to dismiss, if there is not 
+an immediate necessity for them. I am, with great 
+respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

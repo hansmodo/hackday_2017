@@ -1,0 +1,99 @@
+<letter id="laf3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=head of elk' rel='city origin'>Head Of Elk</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+Contrary winds, heavy rains, disappointments of vessels, and every inconvenience for which we had no 
+remedy, have been, from the day of my arrival, combined against our embarkation. I hope, however, we 
+shall be on board to-morrow morning ; and, as nothing 
+certain has been heard from the French ships, no time 
+will be lost on our part for the celerity of the expedition. The troops will embark five miles below 
+this place, and three miles higher up than the point 
+where <a href='/results.php?tla=roh' rel='colleague'>General Howe</a> landed. There will be more 
+room for the arrangement of our vessels, and the shallowness of water insures us against the enterprises of 
+any vessel of force. In this situation we may wait 
+for intelligences from our friends. 
+</p><p>
+The State of Maryland have made to me every offer in their power. I will improve this opportunity 
+of making up some deficiencies in the Quarter-master's 
+and Engineer's departments, and of insuring to us a 
+good stock of provisions. Upon the intelligence received that <a href='/results.php?tla=frs' rel='colleague met'>Baron Steuben</a> was gone with a large detachment to the southward, I had hinted the possibility of getting some militia from the lower counties, 
+and repairing some cannon at <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. But, having 
+read the inclosed letter from the Baron, I will write 
+again to Governor Lee (as my letter has been gone 
+but two days), and save the State from any expense 
+of that kind. 
+</p><p>
+To the obtaining of the vessels, has been joined 
+the difficulty of getting them up the river, as they 
+were taking every opportunity to slip off. All the 
+vessels, three excepted, are only Bay crafts, and our 
+Admiral ship mounts twelve guns. I have prepared 
+some kind of orders for that fleet, but hope to be relieved from my naval command by the arrival of a 
+French frigate, and have, at all events, sent for Commodore Nicholson, of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. Mr. McHenry has 
+been very active in accelerating the measures of his 
+State. 
+</p><p>
+By a letter from Colonel Gouvion, dated Wicomico 
+River, I find that, after many adventures, he had 
+landed there on the 4th, and was proceeding by land 
+to his destination. The wind is fair enough to come 
+up the Bay, and I hope soon to hear from our friends. 
+The inclosed letter from the Baron, having first come 
+into my hands, and being on public service, as it was 
+written upon io he forwarded uith desjxdch, I took the 
+liberty to open it, but was very sorry to have done 
+it after a letter of the same date had come also to 
+my hands. Both say the same thing (at least in 
+every material point), and I am happy to find that 
+the Baron's preparations are going on rapidly. 
+</p><p>
+Whatever may be the Baron's opinion upon the 
+facility of taking, sword in hand, the fortifications at 
+<a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, I will not hazard any thing before I have 
+considered the matter with my own eyes. Arnold had 
+so much time to prepare, and plays so deep a game; 
+nature has made the position so respectable ; and some 
+of the troops under his orders have been in so many 
+actions, — that I do not flatter myself to succeed so 
+easily as it may be thought. The prospect of preserving naval superiority must, I think, decide, if we 
+are to have blood shed by regular approaches, or to 
+risk our men in the dangers of an assault. But I 
+would like to destroy the works in some measure, 
+before we attempt to storm them. A conversation 
+with the Baron, with Colonel Gouvion, and some other 
+officers, joined to what I can see myself, will better 
+fix my mind on the matter than it can be at present. 
+</p><p>
+When I left <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a> was not 
+far from hoping he could soon collect a thousand 
+men. But I am not so sanguine in my expectations. 
+I am, however, trying to prepare matters for these 
+men, but think that a sufficiency of vessels (unless 
+ours are sent back) will not be obtained within a few 
+days. Let <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a> arrive in time, or not, 
+when he comes under my direction I wish to know, 
+if, in case we succeed, he must be sent on to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. Supposing he is to go tliere, would your 
+Excellency think of selecting some riflemen for the 
+Grand Army ? It seems to me that I heard you once mentioning this matter. 
+</p><p>
+The State of Virginia, I am told, finds difficulties 
+in the keeping of prisoners. Suppose something of 
+the kind was stated to me, am I to alter any thing 
+in what you said to me on the subject ? I am in a 
+great hurry to go, my dear General, but, let us succeed or fail in the object we have in view, I shall 
+not be less hurried to return with the detachment to 
+head-quarters, where I hope to be again as soon as 
+you may possibly expect. 
+</p><p>
+With the highest respect, and most tender affection, I have the honor to be, my dear General, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p><p>
+P. S. I beg you will present my respects to Mrs. 
+Washington and Mrs. Hamilton, and my compliments 
+to the family. 
+</p>
+</letter>

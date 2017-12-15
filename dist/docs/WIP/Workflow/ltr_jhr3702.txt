@@ -1,0 +1,74 @@
+<letter id="jhr3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Chei'aw, on <a href='/results.php?city=pedee river' rel='city origin'>Pedee River</a>, in South Carolina, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I received your Excellency's letter of September 
+12th, about the latter end of October; and should 
+ere now have transmitted to you an account of the 
+several matters which you desired to know, if I could 
+have obtained an authentic one ; but I have never 
+been able to procure such information, even of the 
+enemy's force and posts, as I conceived to be so, till 
+lately. That, I communicated to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, 
+who, I doubt not, made you acquainted with it. Inclosed is a state of their strength and posts at present, and an answer to the several questions proposed 
+by your letter. 
+</p><p>
+I presume your Excellency will receive from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, by this opportunity, a return of the troops 
+under his command. It is therefore unnecessary for 
+me to say any thing on that head. But I cannot 
+avoid lamenting that they are so few, and that I do 
+not see the probability of their being soon much increased. 
+</p><p>
+I am sorry that circumstances have not admitted 
+of your detaching, to the southward, any force from 
+the main army, or from the troops of his most Christian Majesty; and I fear that the effects of the enemy's possessing the two southernmost States much 
+longer, will be altogether ruinous to many individuals 
+(some of whom are already reduced to the greatest 
+misery and distress), and injurious to the common 
+cause. Several, "whose characters were much respected, have declared themselves British subjects ; many 
+others will soon follow their example, unless we 
+speedily receive considerable aid. The unfortunate 
+affair near Camden ; the want of support ever since 
+(for there has not been a Continental soldier in the 
+State since that defeat, till within these three days); 
+the little prospect of any; and the representation 
+made by the enemy, of the inability or unwilliness 
+of the other States to send any powerful aid, — have 
+chagrined, and made unfavorable impressions on many, 
+who were formerly our good friends. 
+</p><p>
+Some of the stanch inhabitants of <a href='/results.php?city=charleston' rel='city'>Charleston</a> have 
+been lately sent to St. Augustine, and others are to 
+follow. The enemy have hanged many people, who, 
+from fear, or the impracticability of removing, had 
+received protections or given paroles, and, from attachment to, had afterwards taken part with us. 
+They have burnt a great number of houses, and turned many women, formerly of good fortune, with their 
+children (whom their husbands or parents, from an unwillingness to join the enemy, had left), almost naked, 
+into the woods. In short, they seem determined to 
+break the spirit of every man, if they can, or to ruin 
+him. Their cruelties, and the distresses of the people 
+are indeed beyond description. I entreat your Excellency, therefore, seriously to consider the unhappy 
+state of South Carolina and Georgia ; and I rely on 
+your humanity and on your knowledge of their importance to the Union, for such speedy and effectual 
+support, as may compel the enemy to evacuate every 
+part of these countries. 
+</p><p>
+I have pressed the Governor, and several members of the Legislature of North Carolina, to raise its 
+complement of Continental troops, according to the 
+last requisition of Congress and the present arrangement of the army; and I am certain that Virginia 
+and North Carolina mighty with proper exertions, soon 
+bring five thousand such troops into the field. But 
+I fear that North Carolina will persevere in her old 
+plan of drafting militia for that service, and am persuaded that no other recommendation or influence 
+than yours, will prevail on Virginia to relinquish the 
+same system, and to raise a respectable number of 
+troops for the war. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhr" rel="me">John Rutledge</a>. 
+</p>
+</letter>

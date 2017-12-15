@@ -1,0 +1,74 @@
+<letter id="jod3549">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel="day origin" value='27'>27</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+<block>
+" L AMBITION dans Poisivete, la bassesse dans Por- 
+geuil, le desir de's enrichir sans travail, Paversion 
+pour la verite, la flatterie, la trahison, la perfidie, 
+Pabandon de tous ses engagemens, le mepris des de 
+voirs du citoyen, la crainte de la vertu du prince, 
+Pesperance de ses foiblesses, et plus que tout cela, le 
+ridicule perpetuel jette sur la vertu, forment, je crois, 
+le caractere du plus grand nombre des courtisans, 
+marque dans tous les lieux et dans tous les temps."
+</block>
+It is Montesquieu who draws this picture, and I 
+think it is drawn from the life, and is an exact resemblance. You cannot wonder, then, that I am weary, 
+and wish to be at home upon almost any terms. 
+Your life would be dismal in a high degree, you 
+would be in a hideous solitude among millions. None 
+of them would be society for you that you could endure. Mrs. Jay is in this situation, ardently longing to 
+come home. Yet she is much better circumstanced 
+than you are, to be abroad, as her family is smaller 
+and younger. You must leave a part of your family. 
+</p><p>
+No. Let us live in our own country, and in our 
+own way, educate our children to be good for some 
+thing. Upon no consideration whatever would I have 
+any of my children educated in Europe. In con 
+science I could not consent to it. 
+</p><p>
+If Congress had been steady and continued in force 
+my commission to make a treaty of commerce with 
+Great Britain, I should have gone to <a href='/results.php?city=london' rel='city'>London</a>, and 
+have finished the treaty before now ; but I should not 
+have thought of residing in <a href='/results.php?city=london' rel='city'>London</a> long. I should 
+have resigned and returned to America in a year or 
+two at farthest. If Congress should now revive my 
+commission and send me a new one, which I think 
+altogether improbable, but believe they will complete 
+their work by sending another man upon that errand, 
+I would not stay longer in England than a year or 
+two at farthest. I cannot bear the thought of a long 
+banishment from my own native soil where alone I 
+can ever be happy or comfortable. 
+</p><p>
+I write you by every opportunity, lest you should 
+embark for Europe when I am upon my passage 
+home, which would be a terrible disappointment to 
+both. My intention, is to come home, whether I receive the acceptance of my resignation or not, unless 
+1 receive a commission to St. James's. Don t you 
+embark, therefore, until you receive a letter from 
+me desiring you to come. If I should receive such 
+a commission, I will write you immediately by way 
+of France, Holland and England, and shall wish you 
+to come to me on the wings of the wind. But the 
+same influence, French influence I mean, which induced Congress to revoke my commission, will still 
+continue to prevent the revival of it. And I think it 
+likely, too, that English influence will now be added to 
+French, for I don t believe that George wishes to see 
+my face. In this case I shall enjoy the satisfaction 
+of coming, where I wish most to be, with all my 
+children, living in simplicity, innocence and repose. 
+</p><p>
+What I write you upon this subject is in confidence, 
+and must not be communicated but with great discretion. 
+</p><p>
+Yours entirely and forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

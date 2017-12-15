@@ -1,0 +1,35 @@
+<letter id="mbc7554">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a rel='month origin' value='4'>April</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1861' rel="origin">1861</a>. Home .again at Mulberry. In those last days of my stay in Charleston I did not find time to write a word. 
+</p><p>
+And so we took Fort Sumter, nous autres ; we Mrs. Frank Hampton, and others in the passageway of the 
+Mills House between the reception-room and the drawingroom, for there we held a sofa against all comers. All the 
+agreeable people South seemed to have flocked to Charles ton at the first gun. That was after we had found out that 
+bombarding did not kill anybody. Before that, we wept and prayed and took our tea in groups in our rooms, away from the haunts of men. 
+</p><p>
+Captain Ingraham and his kind also took Fort Sumter from the Battery with field-glasses and figures made with 
+their sticks in the sand to show what ought to be done. 
+</p><p>
+Wigfall, Chesnut, Miles, Manning, took it rowing about the harbor in small boats from fort to fort under the 
+enemy's guns, with bombs bursting in air. 
+</p><p>
+And then the boys and men who worked those guns so faithfully at the forts they took it, too, in their own way. 
+</p><p>
+Old Colonel Beaufort Watts told me this story and many more of the jeunesse doree under fire. They took the 
+fire easily, as they do most things. They had cotton bag bomb-proofs at Fort Moultrie, and when Anderson's shot 
+knocked them about some one called out " Cotton is falling." Then down went the kitchen chimney, loaves of bread flew out, and they cheered gaily, shouting, " Breadstuffs are rising." 
+</p><p>
+Willie Preston fired the shot which broke Anderson's flag-staff. Mrs. Hampton from Columbia telegraphed him, 
+Well done, Willie ! ! She is his grandmother, the wife, or widow, of General Hampton, of the Revolution, and the 
+mildest, sweetest, gentlest of old ladies. This shows how the war spirit is waking us all up. 
+</p><p>
+Colonel Miles (who won his spurs in a boat, so William Gilmore Simms J said) gave us this characteristic anecdote. 
+They met a negro out in the bay rowing toward the city with some plantation supplies, etc. " Are you not afraid 
+of Colonel Anderson's cannon? " he was asked. No, sar, Mars Anderson ain't daresn't hit me ; he know Marster 
+wouldn't low it." 
+</p><p>
+I have been sitting idly to-day looking out upon this beautiful lawn, wondering if this can be the same world 
+I was in a few days ago. After the smoke and the din of the battle, a calm. 
+</p>
+</letter>

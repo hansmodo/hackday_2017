@@ -1,0 +1,42 @@
+<letter id='mad1636'>
+<recipient first='Edmund' last='Randolph' type='individual'/>
+<p>
+<a href="/results.php?city=alexandria" rel="city">ALEXANDRIA</a>, March 1st, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+MY DEAR FRIEND, This is the first convenient opportunity 
+I have had for dropping you a line since I last came into the 
+State. Your sanction to my remaining in <a href="/results.php?city=new york" rel="city">New York</a> during 
+the crisis of the elections, conveyed through Col. Carrington, 
+never came to hand till I had arrived in <a href="/results.php?city=orange" rel="city">Orange</a>. It coincided 
+BO fully with my inclination, and, indeed, with my judgment, that 
+had it been received in due time, I do not know but I should 
+have disregarded all the pressing exhortations which stood opposed to your opinion. I am persuaded, however, that my appearance in the district was more necessary to my election than 
+you then calculated. In truth, it has been evinced by the experiment that my absence would have left a room for the calumnies of anti-federal partizans, which would have defeated 
+much better pretensions than mine. In Culpeper, which was 
+the critical County, a continued attention was necessary to repel the multiplied falsehoods which circulated. Whether I 
+ought to be satisfied or displeased with my success, I shall hereafter be more able to judge. My present anticipations are not 
+flattering. I see on the lists of Representatives a very scanty 
+proportion who will share in the drudgery of business. And I 
+foresee contentions, first between federal and anti-federal parties, and then between Northern and Southern parties, which 
+give additional disagreeableness to the prospect. Should the 
+State Elections give an anti-federal colour to the Legislatures, 
+which, from causes not anti-federal in the people, may well happen, difficulties will again start up in this quarter, which may 
+have a still more serv.us aspect on the Congressional proceedings. 
+</p><p>
+In my last, or one of my last, was enclosed a quere 
+from Mr. St. John, the French Consul at <a href="/results.php?city=new york" rel="city">New York</a>, relating 
+to the law here which regulates the recording of deeds, &c. As 
+I shall on my return be applied to for an answer, I will thank 
+you for the proper one as soon as your leisure will allow. 
+</p><p>
+I shall go on from this to-morrow. On my arrival I shall 
+attend as far as I can to whatever may deserv. your perusal. 
+Besides the private satisfaction which I shall have in the continuance of our correspondence, I promise myself the benefit of 
+your suggestions on public subjects. 
+</p><p>
+Present me respectfully to Mrs. R., and rely on the affection 
+with which I remain, yours truly. 
+</p><p>
+As your neighborhood gives you frequent interviews with the President of William and Mary, remind him of my best regards to him. 
+</p>
+</letter>

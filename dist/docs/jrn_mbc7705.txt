@@ -1,0 +1,13 @@
+<letter id="mbc7705">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='17'>17th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Found everything in Main Street twenty per cent dearer. They say it is due to the new currency bill. 
+</p><p>
+I asked my husband : Is <a href='/results.php?tla=jpj' rel=''>General Johnston</a> ordered to 
+reenforce Polk? They said he did not understand the order." "After five days delay," he replied. They 
+say <a href='/results.php?tla=wts' rel=''>Sherman</a> is marching to Mobile. When they once get inside of our armies what is to molest them, unless it be 
+women with broomsticks ? : <a href='/results.php?tla=jpj' rel=''>General Johnston</a> writes that " the Governor of Georgia refuses him provisions and the 
+use of his roads. The Governor of Georgia writes : "The roads are open to him and in capital condition. I have furnished him abundantly with provisions from time to time, as he desired them." I suppose both of these letters are 
+placed away side by side in our archives. 
+</p>
+</letter>

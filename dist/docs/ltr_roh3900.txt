@@ -1,0 +1,242 @@
+<letter id="roh3900">
+<recipient first="John" last="Rutledge" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+SIR: 
+</p><p>
+The command of the Military Department in this State devolving 
+upon me, I feel it my duty to lay before your Excellency, and by your 
+means before the Honorable Council and Assembly, my sentiments 
+respecting the situation of this country, and the measures which appear 
+to me necessary to place it in a proper state of defence. I am happy 
+to find that the works at Fort Moultrie, and those requisite for establishing, in case of accident, a secure retreat to the garrison, are progressing so rapidly. When the fort is finished, I have no doubt of its 
+being able to repel any attack made upon it in front; but, without a 
+considerable number of works to secure it from being assailed in reverse, 
+it would not, in my opinion, be long maintained against any formidable 
+attempt in that quarter. The methods best calculated to preserve it, 
+would be to erect proper works on the point of Sullivan's Island, next 
+to Long Island, where it is probable the enemy would attempt to land; 
+and by a chain of redoubts, or other works, from thence to the fort, be 
+prepared to dispute the ground with them, inch by inch, should they 
+effect a landing. I at present imagine it may be necessary to throw up 
+some defence where Colonel Moultrie kept his quarter guard; but the 
+transient view I had of the island leaves me unprepared to speak with 
+precision, either as to the number or form of the works, or the particular 
+spots on which they ought to be erected. It is sufficient, however, that 
+a variety of them are wanted, that a great many hands are requisite to 
+carry thorn on ; the number need not be ascertained, as the more there 
+are employed the sooner we shall finish, and that the necessity for erecting such works is absolute and immediate. The post at Haddrel's 
+ought directly to be put in a much more respectable state than it is in 
+at present ; that station would be important even if it had no connection with Sullivan s. How much more so must it appear when we con 
+sider that, should the enemy possess it, our soldiers on Sullivan's could 
+neither retreat or be supported; indeed, circumstances that make it 
+important multiply upon me as I write. I shall, however, suppress the 
+expression of them, as I presume the consideration I have mentioned 
+is alone sufficient to induce the attention of your Legislature. 
+</p><p>
+The walls of Fort Johnston require to be well cased with palmetto 
+logs, without which, I conceive a smart cannonade would so shock the 
+foundation, that it would not support the superstructure. But, was 
+there no danger of this, it ought not to remain as it is, as the fragments 
+of brick, which would be shattered off by the shot, would inevitably destroy a great number of our men, and this both policy and humanity 
+call upon us to prevent. I confess myself not pleased with the construction of the lower battery, and, if we have time after we get over 
+those matters more immediately wanted, I should wish for an alteration. 
+</p><p>
+I come next to an object very near my heart. I mean the preservation of this capital. The spirited conduct of its inhabitants, in opposition to the encroachments of tyranny, even at a time when their property was likely to fall a sacrifice to their laudable zeal, demonstrates 
+that they nobly prefer public good to private considerations, however 
+interesting, and gives them a just claim to assistance from their neighbors, though the common cause was not concerned in their safety. 
+But, sir, when we contemplate the situation of this town, fixed at the 
+confluence of several rivers, which open a passage into the very bosom 
+of your country, commanding almost your whole inland navigation; and, 
+if possessed by the enemy, all your exterior , with houses sufficient to barrack comfortably a great body of troops, and an harbor 
+extensive enough to admit almost any number of ships, surrounded 
+almost by water, which the enemy would command, and approachable 
+only by a narrow neck of land, which they would fortify it would 
+be, perhaps, the most secure and noble place of arms for them imagin 
+able, from which they could, with the same body of troops, execute the 
+purposes of despotism on three different States, and the possession give 
+their arms an eclat, the influence of which might be dreadfully diffusive. 
+It would bring upon our backs every tribe of Indians, and call to their 
+banners a host of domestic insurgents. All these circumstances must 
+make it a capital object to them, and combine to prove, that the loss of this town may be reckoned among the deepest wounds the cause of 
+freedom could receive in this department. Public good, therefore, and 
+private interest, unite to induce us immediately to put it into a proper 
+state of defence. To hesitate one moment might possibly be to lose 
+the opportunity which <a href='/results.php?city=providence' rel='city'>Providence</a> has lent us; and all idea of expense, 
+however great, should be lost in the importance of the object. One 
+step towards obtaining this desirable end, would be to prevent, if possible, the approach of ships to the town; and this, I conceive, may probably be effected, by throwing obstructions across the channel opposite 
+to Fort Moultrie, at those places which would expose them most to the 
+fire of the fort. I am made happy at being informed this work is 
+begun, and trust such hands are employed as will execute it properly. 
+I must, however, take the liberty to say, that when I consider the 
+amazing impetus with which ships, under full sail, come in contact 
+with any body that obstructs their motion, that I doubt whether any 
+single work can be made sabstantial enough to be effectual. The 
+method I should recommend would be to have one work within another 
+the second so near the first, that it should take up the vessel, if she 
+surmounted the first difficulty, before she had time to regain her way. 
+</p><p>
+The next thing, sir, is to put the town in such a state of defence that 
+the enemy, in case they get up with their ships, may meet with the 
+most obstinate opposition. It gives me concern to think, that it is far 
+from being in this state at present. Several of the batteries having 
+capital errors, require to be pulled down and re-built; and it \vill, I am 
+persuaded, be found necessary to erect others at different places. The 
+extempore works thrown up about the town are by no means to be de 
+pended upon; they were executed in a hurry, and under the expectation of an immediate attack. They ought to be altered in many 
+places, and at all to be made more effectual. As the interest of the 
+inhabitants, and good of the common cause, will, I doubt not, dispose 
+the people of this country to defend their capital to the last extremity; 
+and, as the working of a number of traverses across the streets are not 
+only necessary to the obstinate defence of it, but will prevent the great 
+execution which might otherwise happen from an enfilade, the materials 
+for building these works should directly be provided. They would at 
+present, perhaps, incommode the passage of the inhabitants, so need 
+not be immediately erected; but the necessary apparatus should be de 
+posited at convenient places, to be ready occasionally. I have much to 
+regret the exceeding weak state of the back part of your town. Assail 
+able at many places, at none prepared to repel an attack, it requires our 
+immediate attention. Nor am I less anxious about the Neck ; that 
+leads out of town. The officer we may have to deal with this winter is 
+an officer of enterprise and resources, with judgment to discern, and a 
+disposition to take all advantages he can not but observe, should the 
+Neck remain as it is. How easy it would be for an inferior army to 
+shut in a superior; and it admits not of a doubt but he will, if he can, 
+avail himself of it. To prevent this, many works are requisite, and 
+the sooner they are undertaken the better. 
+</p><p>
+I shall now, sir, proceed to some circumstances of defence of a more 
+general tendency. Among these, the building of some row-gallies 
+appear to me as very consequential. I think it far from being improbable, that they may be so constructed as to be formidable to men-of-war in their progress over the bar; and, if it is certain they must be 
+so, should the ships ever get up and lay before the town, they will 
+prevent all tenders, or other small armed vessels, from marauding those 
+inhabitants who live upon the river make it difficult, if not impossible, 
+for the enemy to transport their troops by water into the country a 
+circumstance essentially important to the very being of this State. 
+They will convey your troops to Georgia with safety and expedition, 
+should that State require your aid, and facilitate the arrival of theirs, 
+should your exigencies make it necessary; in short, the advantages of 
+them are so manifold, that I earnestly hope they may claim your attention. 
+</p><p>
+As this State, and some neighboring ones are, unhappily, unequal in 
+themselves to any formidable invasion, they must depend entirely upon 
+that assistance they can mutually yield to each other. Every thing, 
+therefore, which can retard the march of troops should be removed, and 
+every measure fallen upon, which can contribute to bring them up with 
+the utmost expedition. If North Carolina and Georgia would join 
+your State in establishing magazines of provisions at proper places 
+between your countries, it would certainly prevent a great delay; but 
+this, I am afraid, will be a work of time. 
+</p><p>
+I beg leave, sir, to urge the absolute necessity of keeping a great 
+number of waggons always in the public service. Experience has 
+taught me how difficult it is to procure them when suddenly wanted; 
+and the time is probably at hand when the least delay may be attended 
+with very fatal consequences. 
+</p><p>
+The great delay I have met with in marching men at the ferries of 
+every State, and at none more particularly than in this, induces me to 
+wish that in future they may be better provided with boats. Few, if 
+any of them, have more than one flat, and that generally not a good 
+one, so that it will take a whole day to get over a battalion and its bag
+gage. I leave you, sir, to judge what may be the event of this, when 
+the fate of a country may depend upon a single hour. 
+</p><p>
+The roads at all times an object of public notice become of peculiar 
+importance at this crisis, as upon the goodness of them an expeditious 
+march in a great measure depends. 
+</p><p>
+I would urge as a circumstance exceedingly necessary, the collecting 
+and keeping for public use, a great number of canoes, and other rowing 
+boats; as in a country so cut to pieces with water courses, and penetrable 
+at such a variety of places, it is very uncertain where you may have 
+occasion to convey your troops, or from whence to bring them. A 
+provision of this kind, therefore, seems to be an act of necessity. Certain I am, that in the late military operations of this country, the want 
+of them was severely felt by the General, and the service greatly injured 
+by it. 
+</p><p>
+The short time I have been in this country renders it impossible for 
+me to be so well acquainted with the geography of it as I wish, or as I 
+hope soon to be. I, therefore, cannot undertake to point out every 
+place where it may be necessary to erect works, or take other methods 
+to prevent, or render difficult, the enemies access. I am happy, how 
+ever, in the consideration that you, sir, and many members of your 
+Legislature, from your perfect knowledge of this country, are adequate 
+to this, and in the firm persuation that it will properly be attended to. 
+</p><p>
+The building of barracks at those places where, in case of invasion, 
+we should be obliged to station troops, particularly at Haddrell s, is a 
+matter that ought, by no means, to be neglected. The inconveniences 
+which the soldiers suffered for want of them, and the ill effect it had 
+upon their health, even in the summer season, makes it evident that 
+they cannot endure a winter campaign without them. 
+</p><p>
+I am loth to mention a provision which I am fearful it will be difficult 
+to make; I mean of clothes and blankets for the men. But I should 
+be wanting in attention to them not to express a wish that every method 
+may be fallen upon to procure them. 
+</p><p>
+I know not whether the islands along your sea-board have any live 
+stock upon them; but, if they have, and are suffered to remain there, I 
+cannot but consider them as the absolute property of the enemy. I, 
+therefore, think it my duty, in the most earnest manner to urge, that 
+they be immediately removed ; indeed, I think the proprietors of these 
+islands ought not to be suffered to occupy them at all at present, that 
+the enemy may have no temptation to make or receive benefit, by 
+making a lodgment on them. 
+</p><p>
+There are other matters which strike me as necessary to the defence 
+of this country, and from further observation many may occur to me; 
+but, as I presume Government, in the recess of Assembly, will be 
+furnished with powers to provide for contingencies, I ha^e no occasion 
+to trouble you with them now. I enter into the next object of my 
+consideration with exceeding diffidence and anxiety, lest I should be 
+thought to have exceeded the bounds of propriety, by touching upon 
+it at all. If, sir, unfortunately for me that should be the case, will your 
+Legislature do me the justice to impute it to the zeal I lave for the 
+service of this State, and kindly admit the cause to excuse the effect ? 
+The number of regular troops allotted to this country is lot enough 
+for its defence, though all the battalions were full. This, si-, militates 
+strongly in favor of a well-regulated militia, and I am happy to hear it 
+is the subject of your present deliberation; but, as a military system, 
+exclusive of militia, has been established in Virginia, which experience 
+has shown to be a very good one, I presume just to hint it o you. I 
+mean the establishment of minute battalions. In order to do this, their 
+State was divided into districts, and each district furnished A battalion 
+of minute men. Persons of the greatest consequence an&lt;| influence 
+were appointed as officers, who enlisted the men from the body of the 
+militia. These men, beside attending a number of private musters, 
+were at stated periods obliged to embody in battalion fora specified 
+number of days, and go through all the discipline and maneuvers of a 
+camp. During this time they were paid and provisioned by tie public, 
+and were at all times liable to be called into service. I had the honor 
+to command a great number of them the last winter, and it is but justice to them to say, that they deserved to be ranked among the best of 
+our troops. The men of these battalions being enlisted upon the 
+express condition of turning out occasionally, are always in expectation 
+of, and will be always prepared for it. They are, generally, better 
+armed, and will probably be better disciplined, than militia; and may 
+either make it unnecessary to call out the latter at all, or make a stand 
+against the enemy while they are collecting. But whether such establishment may suit the policy of this country, the wisdom of your Legislature will determine. 
+</p><p>
+Permit me, sir, again, in the most earnest manner, to urge the absolute necessity of immediately taking measures to place us in the best 
+state of defence possible. Our private interest, and our fidelity to the 
+common cause, exact it of us. To lose the opportunity we now have, 
+is to neglect the first, and betray the latter. Happy should I have 
+been, had not the necessity of service deprived you of the Commander-in-chief of the Southern department at this critical juncture, from 
+whose indefatigable attention to his duty, and from whose spirit and 
+abilities in the execution of it, you could not but have derived every 
+possible benefit. 
+</p><p>
+I, sir, have nothing to offer you but an assurance of the most unwearied attention to the duties of my station the utmost exertion of 
+such abilities as I have; and that I shall, by my most strenuous efforts, 
+in the servi&lt;e of your country, demonstrate the zeal and attachment I 
+feel for the glorious cause of freedom, to which I have devoted myself. 
+</p><p>
+I have tie honor to be, with the greatest respect, sir, 
+</p><p>
+YOUR Excellency's most obdt. and very humble servant, 
+</p><p>
+<a href="/results.php?tla=roh" rel="me">ROBERT HOWE</a>. 
+</p>
+</letter>

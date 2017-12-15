@@ -1,0 +1,22 @@
+<letter id='jbm8005'>
+<recipient first='Archibald' last='Gillespie' type='individual'/>
+<p>
+U. S. Ship Portsmouth,<br>
+<a href='/results.php?city=san francisco' rel='city origin'>Yerba Buena</a>, <a rel="month origin" value="7">July</a> 	<a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: I have just received your note by Captain Hall, requesting, in the name of <a href="/results.php?tla=jhf" rel="colleague">Captain Fremont</a>, that one of the medical officers of the Portsmouth might be ordered to his command. 
+However happy, sir, I should feel in complying with the wishes of <a href="/results.php?tla=jhf" rel="colleague">Captain Fremont</a> in this respect, there are reasons why, in my view, it would be improper to detach one of them for an 
+indefinite period of time from the ship ; but be pleased with my respectful regards to <a href="/results.php?tla=jhf" rel="colleague">Captain Fremont</a> to assure him of my readiness to send one my medical officers to his camp, wherever 
+that may be, at anytime he may require his services, and also, that I will receive such of my sick 
+or wounded countrymen, or others under his command, as shall stand in need of accommodation and medical attendance on board the Portsmouth. 
+</p><p>
+I am, sir, very respectfully, 
+</p><p>
+Your obedient servant, 
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>, 
+</p><p>
+Commanding U. S. Ship Portsmouth. 
+</p><p>
+To Lieutenant A. H. Gillespie, Sausalito. 
+</p>
+</letter>

@@ -1,0 +1,13 @@
+<letter id="mbc7744">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='10'>October</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Ten pleasant days I owe to my sister. Kate has descended upon me unexpectedly from the mountains of Flat Rock. We are true sisters; she understands me without words, and she is the cleverest, sweetest woman 
+I know, so graceful and gracious in manner, so good and unselfish in character, but, best of all, she is so agreeable. Any 
+time or place would be charming with Kate for a companion. General Chesnut was in Camden; but I could not 
+wait. I gave the beautiful bride, Mrs. Darby, a dinner, which was simply perfection. I was satisfied for once in 
+my life with my own table, and I know pleasanter guests were never seated around any table whatsoever. 
+</p><p>
+My house is always crowded. After all, what a number of pleasant people we have been thrown in with by war's 
+catastrophes. I call such society glorious. It is the windup, but the old life as it begins to die will die royally. General Chesnut came back disheartened. He complains that such a life as I lead gives him no time to think. 
+</p>
+</letter>

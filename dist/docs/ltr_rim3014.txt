@@ -1,0 +1,53 @@
+<letter id="rim3014">
+<recipient first="David" last="Wooster"/>
+<p rel="heading">
+Head-Quarters, before <a href='/results.php?city=quebec city' rel='city origin'>Quebec</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The bearer, Mr. Melchior, I sent express to <a href='/results.php?city=st johns' rel='city'>St. John's</a> for artillery stores. Be so good as to give him all the assistance in 
+your power, particularly in money matters. Yesterday we opened 
+a battery of five guns and a howitzer, and, with very little effect, 
+I attempted to summon the Governor by a flag of truce. He 
+would not receive any letter. The enemy have very heavy 
+metal, and I think will dismount our guns very shortly. Some 
+they have already rendered almost useless. This gives very little 
+uneasiness ; I never expected any other advantage from our artillery, than to amuse the enemy, and blind them as to my real intention. 
+</p><p>
+I propose, the first strong northwester, to make two attacks by 
+night, one with about a third of the troops on the Lower Town, 
+having first set fire to some houses, which will in all probability 
+communicate their flames to the stockade lately erected on the 
+rock, near St. Roc suburbs; the other upon Cape Diamond bastion, by escalade. I have not time to point out my reasons for 
+this particular attack. Let it suffice that it is founded on the 
+nature of the ground, works, and the best intelligence I have been 
+able to procure. However, I am not certain whether or no the 
+troops relish this mode of proceeding. I am fully convinced of the 
+practicability. But should it not appear in the same advantageous 
+light to the men, I shall not press it upon them, well knowing 
+the impossibility of making troops act with the necessary vigor, 
+on such an occasion, if their minds are possessed with imaginary terrors . 
+</p><p>
+We are exceeding weak, it is true, but the enemy are so too, 
+in proportion to the extent of their works ; and as they know 
+not where they will be attacked, all must be guarded. Indeed, 
+their apprehensions for the Lower Town, induce them to bestow 
+their greatest attention on that quarter. I hope the arms, lead, 
+and flints are on their way. I could wish for a reinforcement, 
+if to be spared. We have not much above eight hundred men 
+fit for duty, exclusive of a few ragamuffin Canadians. 
+</p><p>
+I believe you will not think it proper to let the contents of this 
+letter go abroad. Should you have no accounts of any cash on 
+the way, I must beg you will send an express to hasten it. I 
+shall soon be exceedingly distressed, if a supply don t arrive. I 
+must therefore beg you to raise what you can, for fear of accidents. Let a considerable number of shirts be sent down as 
+soon as possible. Our men are much in want of them. I must 
+refer you to Mr. Melchior for particulars. Believe me, dear Sir, 
+with much esteem, 
+</p><p>
+Your affectionate, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

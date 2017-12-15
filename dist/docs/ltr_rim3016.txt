@@ -1,0 +1,81 @@
+<letter id="rim3016">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+Head- Quarters, before <a href='/results.php?city=quebec city' rel='city origin'>Quebec</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+When last I had the honor to write, I hoped before now to have had it in my power to give you some good news. I then 
+had reason to believe the troops well inclined for a coup-de-main. I have since discovered, to my great mortification, that 
+three companies of <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a>'s detachment are very averse 
+from the measure. There is strong reason to believe their difference of sentiment from the rest of the troops arises from the 
+influence of their officers. Captain  , who has incurred <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a>'s displeasure by some misconduct, and thereby 
+given room for harsh language, is at the bottom of it, and has 
+made some declarations which I think must draw upon him the 
+censure of his country, if brought to trial. Captain and Hubbard seem to espouse his quarrel. A Field-Officer is concerned in it, who wishes, I suppose, to have the separate command of those companies, as the above-mentioned Captains have 
+made application for that purpose. This dangerous party threatens the ruin of our affairs. I shall at any rate be obliged to 
+change my plan of attack, being too weak to put that in execution I had formerly determined on. I am much afraid my 
+friend is deeply concerned in this business. I will have an eclaircissement with him on the subject. I will hereafter acquaint you more particularly with this matter. In the mean 
+time, I wish you would not mention names, for I know not 
+whether the situation of affairs will admit of doing the public 
+the justice I could wish. 
+</p><p>
+Strain every nerve to send a large corps of troops down, the 
+instant the Lake is passable. It is of the utmost importance 
+we should be possessed of <a href='/results.php?city=quebec city' rel='city'>Quebec</a> before succours can arrive ; and 
+I must here give it to you as my opinion, and that of several 
+sensible men acquainted with this Province, that we are not to 
+expect a union with Canada till we have a force in the country sufficient to insure it against any attempt that may be 
+made for its recovery. I believe I have mentioned this in my 
+last, but I can t help repeating it again. One difficulty occurs 
+to me. How are those troops to be paid here? The Continental money will not be received by the inhabitants. I had 
+distributed part of it to the troops at <a href='/results.php?city=montreal' rel='city'>Montreal</a> ; few would receive it. The consequence was, the soldier offered it for less 
+than its value, and so it became depreciated. One scheme has 
+occurred to me, which I shall communicate by this opportunity 
+to Price and our other friends at <a href='/results.php?city=montreal' rel='city'>Montreal</a>. If they can send 
+down to the army such articles as soldiers choose to lay out 
+their money upon, employing sutlers for that purpose, who will 
+receive our paper, the troops may then be paid in Continental 
+currency, which will not be depreciated ; the soldier will not 
+grumble, as he may be regularly paid ; and, by degrees, the 
+inhabitants may acquire confidence in it, seeing our merchants 
+take it freely. What hard cash can be mustered might pay 
+the contingencies of the army, such as transportation of bag 
+gage, &c., and purchase provisions. 
+</p><p>
+I am amazed no money is yet arrived. The troops arc uneasy, and I shall by and by be at my wits end to furnish the 
+army with provisions. I am the more surprised, as I am 
+credibly informed cash arrived from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> three weeks since. I have almost exhausted Price, having 
+had upwards of five thousand pounds York from him. I must take this opportunity of acknowledging his services. He has 
+been a faithful friend to the cause indeed. His advice and 
+assistance, upon every occasion, I have been much benefited 
+by ; and when I consider that he has been the first mover of 
+those measures which have been attended with so many and 
+great advantages to the United Colonies, I can t help wishing 
+the Congress to give him an ample testimony of their sense 
+of his generous and spirited exertions in the cause of freedom. 
+</p><p>
+Having so early reported to you my determination to return 
+home, I take it for granted measures are taken to supply my 
+place. Should not anybody arrive shortly for that purpose, I 
+must conclude Congress mean to leave the management of affairs in <a href='/results.php?tla=daw' rel='colleague met'>General Wooster</a>'s hands ; and therefore, if this business should terminate in a blockade, I shall think myself at 
+liberty to return. However, if possible, I shall make an effort 
+for the reduction of the town. I will shortly comply with 
+several articles of directions, which I have received from you, 
+and which I deferred in hopes of complying with them before 
+now, in peaceable possession of <a href='/results.php?city=quebec city' rel='city'>Quebec</a>. The strange divided 
+state of the troops all this campaign has prevented my sending 
+returns, having never been able to get one with any tolerable 
+exactness. The three discontented companies are within a few 
+days of being free from their engagements. I must try every 
+means to prevent their departure, and in this matter I am much 
+embarrassed. Their officers have offered to stay, provided they 
+may join some other corps. This is resentment against Arnold, 
+and will hurt him so much, that I don t think I can consent to 
+it. I am, dear Sir, with great respect and esteem, 
+</p><p>
+Your most obedient and affectionate, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

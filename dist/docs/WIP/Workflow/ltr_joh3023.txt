@@ -1,0 +1,31 @@
+<letter id="joh3023">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+Sm, 
+</p><p>
+Yesterday evening, the Congress completed the business of the Medical Department, and on so large 
+and liberal an establishment that we may rationally 
+expect the most beneficial effects will flow from it. 
+Every encouragement is given to gentlemen of skill 
+and reputation in that art to enter into our army ; 
+and a variety of regulations adopted to carry the 
+plan more effectually into execution. As I have the 
+honor of inclosing the resolves on this subject, I beg 
+leave to refer your attention to them. 
+</p><p>
+It is with particular pleasure I transmit the resolution of Congress directing monuments to be erected 
+to the memory of Major-General Warren and Brigadier-General Mercer. Every mark of distinction shown 
+to those illustrious men, who offer up their lives and 
+liberty for the happiness of mankind, reflects the 
+highest honor upon those who pay the tribute, and, 
+by holding up to others the prospects of fame and 
+immortality, will animate them to tread in the same 
+path. I have the honor to be, with the greatest respect and esteem, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

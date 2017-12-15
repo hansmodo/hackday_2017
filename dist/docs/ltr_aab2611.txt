@@ -1,0 +1,13 @@
+<letter id="aab2611">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+Friday, <a rel="month origin" value="8">August</a> [<a rel="day origin" value="9">9th</a> <a href="/results.php?year=1807" rel="origin">1807</a>]
+</p><p>
+I perceive the advantages from your presence, but am not at this moment able to decide whether the thing be 
+practicable. One or more of our counsel will wait on you this afternoon, to confer on this and other points. 
+</p><p>
+I am surrounded by visitors, which prevents me from adding more than the assurances of my respect and attachment. 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>.
+</p>
+</letter>

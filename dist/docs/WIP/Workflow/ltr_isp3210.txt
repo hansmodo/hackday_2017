@@ -1,0 +1,33 @@
+<letter id="isp3210">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+<a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, ten o clock, P.M., <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>. <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GOVERNOR, 
+</p><p>
+Upon your letter, and some intelligence I received from below, 
+I am fully of opinion the enemy intended a desperate effort to 
+relieve <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>. I had the advice of the General 
+Officers here, and we were of opinion, that to keep our force collected would be the best means of preserving our safety. As it 
+is uncertain which side of the river the enemy will take, and 
+having it in their power to make their election (in which we 
+shall be unable to follow them), to throw our main force on the 
+west side of the river would leave our principal stores a prey, 
+and expose the resources of this and the Northern army to be 
+cut off. 
+</p><p>
+I have thought it advisable to order Colonel Brinkerhoff's regiment immediately to march and join you ; and, should the enemy 
+succeed in weighing the chevaux-de-frise, and proceed up the 
+river, I should think it advisable for you to proceed to <a href='/results.php?city=albany' rel='city'>Albany</a> 
+with despatch ; and, should the number of cannon you have incumber your march, you will convey as many of them as you 
+shall think proper to some place of safety, and proceed on with 
+the rest. The militia of Connecticut, I hear, are coming in. I 
+shall do every thing in my power to oppose the enemy, and to 
+give succour to you, trusting .that, through the smiles of Heaven, 
+we shall yet be free. With great esteem and respect, 
+</p><p>
+I am, your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p>
+</letter>

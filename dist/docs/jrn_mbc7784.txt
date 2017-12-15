@@ -1,0 +1,14 @@
+<letter id="mbc7784">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='7'>7th</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Richmond has fallen and I have no heart to write about it. <a href='/results.php?tla=usg' rel=''>Grant</a> broke through our lines and <a href='/results.php?tla=wts' rel=''>Sherman</a> cut through them. Stoneman is this side of Danville. They are too many for us. Everything is lost in Richmond, 
+even our archives. Blue black is our horizon. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> says we shall all be obliged to go West to Texas, I mean, for 
+our own part of the country will be overrun. 
+</p><p>
+Yes, a solitude and a wild waste it may become, but, as to that, we can rough it in the bush at home. 
+</p><p>
+De Fontaine, in his newspaper, continues the old cry. Now Richmond is given up, he says, it was too heavy 
+a load to carry, and we are stronger than ever." " Stronger than ever ? : Nine-tenths of our army are under ground 
+and where is another army to come from? Will they wait until we grow one ? 
+</p>
+</letter>

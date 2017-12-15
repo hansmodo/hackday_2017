@@ -1,0 +1,81 @@
+<letter id="gom4633">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="12">December</a> <a rel='day origin' value='24'>24th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I wrote to you on the twenty- fourth of October, and have 
+not since received any of your letters. In that I acknowledged yours of the 22d of June. You will have seen from the 
+public prints the wonderful success of the French arms, arising from the following causes. 1. That the enemy, deceived 
+by the emigrants, counted too lightly on the opposition he was 
+to meet with. 2. That from like misinformation, instead of 
+attacking on the northern frontier, backed by the resources of 
+Flanders, and those which the ocean would supply, they came 
+across the Ardennes to that part of Champaign, nicknamed 
+the lousy, from its barrenness and misery. 3. That in this expedition, where the difficulty of the roads, transportation and 
+communication was the greatest they expected, it so happened 
+that the season, usually dry and fair, (when those bad roads 
+are at the best) was one continued rain for two months, so that 
+at length they were nearly stuck fast, and had as much as they 
+could do to drag back their cannon, &c. through the mud. 
+Lastly, that France brought into the field, and has kept up until very lately, the immense number of six hundred thousand 
+troops. This has been done at an average expense of about 
+five millions sterling per month beyond their resources, and 
+yet they have ordered a like army for the next campaign, and 
+talk boldly of meeting Great Britain also upon her element. 
+What say you to that, Monsieur le Financier? But I will tell 
+you in your ear, that in spite of that blustering, they will do 
+much to avoid a war with Great Britain, if the people will let 
+them, but the truth is, that the populace of Paris influence in 
+a great degree the public councils. I think they will have 
+quite as many men as they can maintain ; but what that may 
+amount to is hard to determine. 
+</p><p>
+The ministers here are most extraordinary people. They 
+make nothing of difficulties, as you shall judge by a single trait 
+of M. Pache, the minister at War. He had sent Beurnonville 
+to occupy the Moselle river down to Coblentz, taking Treves 
+and other places in his way. Now this way lies through a very difficult mountainous country, in which the snow is very 
+deep, therefore Beurnonville, having got a little neck of land 
+between the Saar and the Moselle, puts his troops into winter 
+quarters, pleading their nakedness as an excuse. The minister has sent him a brace of commissioners, who have power 
+to impress in the neighborhood whatever may be needful for 
+the troops, and then (their wants supplied) summon him to 
+obey his orders. T have given to Mr Jefferson a pretty full 
+account of the state of things, so that if you see that account, 
+which I take it is of course, you may measure by the standard 
+now given you all other affairs. 
+</p><p>
+If I may venture to judge from appearances, there is now in the wind a storm not unlike that of the second of September, 
+Whether it will burst or blow over, it is impossible to determine. 
+</p><p>
+It has occurred to me, that I never yet assigned a reason 
+why the completion of payment of six million livres, which at 
+Mr Short's request I had stipulated for with the government 
+lately abolished, appeared to me desirable. In effect, I left 
+this as I do many other things to the sense of the gentle reader, but as readers are sometimes ungentle, it is not amiss to 
+communicate that reason to a friend. I saw that the new 
+government would be hungry, and would urge us for money in 
+the double view of obtaining an acknowledgment of them, as 
+well as of supplying their wants. It was therefore, I thought, 
+right to take a position where we might say there is nothing 
+due. This would leave open a question, which it would be 
+very delicate to answer either way, as things appeared then, 
+and as they are now that appearances have changed. You 
+will have seen the manoeuvres to force me in that intrenchment ; but at last, like your friend General Lee, I was quite 
+at the worst for a retrograde manoeuvre. 
+</p><p>
+But I concluded that supplies of money to support the 
+colony of St Domingo would, in all events, have been considered as a good and effectual payment on our part, and, had my 
+offer of recommending such supplies been accepted, I would 
+on that ground have proposed the measure, which, anticipating 
+the next instalments, would have still kept open the main 
+point as long as you should think proper. And thus my 
+apparent retreat was in effect a mode of more permanent 
+defence, and this is more, I believe, than poor Lee could say 
+for himself. I am truly yours, &ic. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,43 @@
+<letter id="chl3006">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+My destination is altered. Instead of going to 
+Canada, I am appointed to command at the south 
+ward. There has been a great promotion of Brigadier-Generals ; Armstrong, Thompson, Lewis, Moore, 
+Stirling, and Howe, are the six. Four are to serve 
+under my orders, namely, Armstrong, Lewis, Moore, 
+and Howe. As I am the only general officer on the 
+Continent, who can speak and think in French, I confess I think it would have been more prudent to have 
+sent me to Canada; but I shall obey with alacrity, 
+and hope with success. Griffin has resigned, as he 
+flatters himself he can do better in the commercial 
+line. I have, in his room, appointed one of the sons 
+of Lewis Morris, to whom I was under a sort of engagement. Lord Stirling will take the command until 
+the arrival of Schuyler. His Lordship is active and 
+distinct. 
+</p><p>
+In my last I gave you my plan of defence for this 
+city and environs; but, from want of men, I shall be 
+obliged to leave it in a poor condition. A regiment 
+of Associators are, I am told, ordered from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. I have likewise sent for a battalion from the 
+Jerseys ; but, on the other hand, Ward's and Waterbury's regiments will, I suppose, according to their 
+laudable custom, leave the place the moment their 
+time is expired, which is the 12th of this month. I 
+heartily pray that you may give Mr. Howe a hand 
+some salute on his leaving <a href='/results.php?city=boston' rel='city'>Boston</a>. I am not yet 
+informed who is to take the command in Canada. No 
+time, I am sure, is to be lost. As I am ordered away immediately, I must consign the affairs of <a href='/results.php?city=new york' rel='city'>New York</a> 
+to Lord Stirling. He will acquit himself well. I 
+have nothing material to trouble you with at present, 
+further than to assure you that I am, and ever shall 
+be, dear General, 
+</p><p>
+Yours, most sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

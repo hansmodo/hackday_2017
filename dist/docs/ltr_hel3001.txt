@@ -1,0 +1,50 @@
+<letter id="hel3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I had the honor of writing to your Excellency, the 
+4th, by Jones ; since which I have presented to Congress your Excellency's favors of the 1st, 3d, and 4th. 
+Upon reading the first, I took occasion to intimate 
+to Mr. Duer the distressed situation of his friend 
+<a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, as described by the General himself in a late letter of the 15th of March, and this 
+morning suggested again to the House the demands 
+of all the General Officers, subjects of the suspended 
+inquiry. I shall repeat the same to-morrow ; and, 
+having just now obtained the concurrence of gentlemen in private conversation, that Congress are 
+guardians of the honor of their officers, I flatter 
+myself there will be no further delay of this business. 
+</p><p>
+Your Excellency will receive, under the present inclosure, an act of Congress of the 7th, for promoting 
+Captain Lee to the rank of Major of horse, and to 
+the command of a separate corps. I perceive it is 
+not expressed in the act; but I am warranted to as 
+sure your Excellency it is the particular desire of 
+Congress that suitable declarations of that gentleman's 
+merit should be expressed, either within the intended 
+commission, or by annexing to it the above-mentioned 
+act, a certified copy of which Major Lee will receive 
+by the present despatch.* 
+</p><p>
+Consideration of Colonel Lee and Major Swasey's 
+application is postponed a few days for particular reasons. I shall direct the Secretary of Congress to 
+collect the dates of the late resignations of Colonels 
+in the Virginia line, and transmit an account to your Excellency, when obtained. 
+</p><p>
+Your Excellency's last letter of the 4th is at present the subject of a special Committee. It is probable a report will be offered to-morrow morning. 
+</p><p>
+Previous to the receipt of your Excellency's ad 
+vis, Congress had determined to make a purchase 
+of divers articles, set forth in Captain Cottineau's 
+schedule of his cargo ; and for this purpose a gentle 
+man will proceed, to-morrow, on his journey to Cape 
+Lookout, by whom your Excellency's letter will go 
+forward. I have the honor to be, with the highest esteem and regard, Sir, 
+</p><p>
+Your Excellency's obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hel" rel="me">HENRY LAURENS</a>, President. 
+</p>
+</letter>

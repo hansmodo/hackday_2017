@@ -1,0 +1,18 @@
+<letter id="gwa4468">
+<recipient first="Benjamin" last="Lincoln" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am pleased to hear so flattering accounts of the 
+prospects of obtaining men and some kinds of supplies ; but so great are my apprehensions, on the score 
+of provisions, that I am sending <a href='/results.php?tla=wih' rel='co-worker'>General Heath</a> purposely to the eastern States to represent our distresses, and to endeavour to fix a plan for our regular 
+supply in future. I refer you to him for particulars, 
+which I do not choose to trust to paper. After <a href='/results.php?tla=wih' rel='co-worker'>General Heath</a> has finished this business, his private affairs will detain him some time at home ; and, as he 
+will be able at the same time to attend to what you have at present in charge, you may, upon his return 
+from New Hampshire to <a href='/results.php?city=boston' rel='city'>Boston</a>, come to the army. 
+You will have my warmest thanks for the zeal, with 
+which you have promoted and forwarded every measure tending to the good of the service. I am, &c. 
+</p>
+</letter>

@@ -1,0 +1,48 @@
+<letter id='mad1581'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, October 14, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+DEAR SIR, The letter herewith enclosed was put into my 
+hands yesterday by Mr. de Crevecceur, who belongs to the Consular establishment of France in this country. I add to it a 
+pamphlet which Mr. Pinckney has submitted to the public, or 
+rather, as he professes, to the perusal of his friends, and a 
+printed sheet containing his ideas on a very delicate subject, 
+too delicate, in my opinion, to have been properly confided to 
+the press. He conceives that his precautions against any further 
+circulation of the piece than he himself authorizes are so effectual as to justify the step. I wish he may not be disappointed. 
+In communicating a copy to you, I fulfil his wishes only. 
+</p><p>
+No decisive indications of the public mind in the Northern 
+and middle States can yet be collected. The reports continue to 
+be rather favorable to the act of the Convention from every quarter; but its adversaries will naturally be latest in shewing themselves. <a href="/results.php?city=boston" rel="city">Boston</a> is certainly friendly. An opposition is known 
+to be in petto in Connecticut, but it is said not to be much 
+dreaded by the other side. Rhode Island will be divided on 
+this subject in the same manner that it has been on the question 
+of paper money. The newspapers here have contained sundry 
+publications animadverting on the proposed Constitution, and 
+it is known that the Government party are hostile to it. There 
+are on the other side so many able and weighty advocates, and 
+the conduct of the Eastern States, if favorable, will add so much 
+force to their arguments, that there is at least as much ground 
+for hope as for apprehension. I do not learn that any opposition is likely to be made in New Jersey. The temper of Pennsylvania will be best known to you from the direct information 
+which you cannot fail to receive through the newspapers and 
+other channels. 
+</p><p>
+Congress have been of late employed chiefly in settling the 
+requisition, and in making some arrangements for the Western 
+country. The latter consist of the appointment of a Governor 
+and Secretary, and the allotment of a sum of money for Indian 
+treaties, if they should be found necessary. The requisition, so 
+far as it varies our fiscal system, makes the proportion of Indents receivable independently of specie, and those of different 
+years indiscriminately receivable for any year, and does not, as 
+heretofore, tie down the States to a particular mode of obtaining them. <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> has been permitted to return home after 
+February next, and <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a>'s appointment continued for 
+three years longer. 
+</p><p>
+With the most perfect esteem, and most affectionate regard, 
+I remain, dear sir, 
+</p><p>
+Your obt friend and serv. 
+</p>
+</letter>

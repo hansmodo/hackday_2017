@@ -1,0 +1,9 @@
+<letter id="smd7929">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Wednesday, <a rel="month origin" value="2">February</a> <a rel='day origin' value='18'>18th</a>. [<a href='/results.php?year=1863' rel='origin'>1863</a>]
+</p><p>
+Gibbes has gone back to his regiment. I can't say how dreary I felt when he came to tell me good-bye. 
+I did not mean to cry ; but how could I help it when he put his arms around me? . . . 
+</p><p>
+</letter>

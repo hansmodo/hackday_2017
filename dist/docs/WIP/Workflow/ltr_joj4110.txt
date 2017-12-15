@@ -1,0 +1,64 @@
+<letter id="joj4110">
+<recipient first="Egbert" last="Benson" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='31'>31st</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My good Friend, 
+</p><p>
+I have had the pleasure of seeing Senor Ceracchi, and 
+his model of a monument in honour of the revolution. The 
+design appears to me to be a noble one, worthy the attention 
+of the United States, and honourable to the taste and 
+talents of the artist. It cannot fail of being interesting to 
+all who contributed to the revolution, and to that glorious 
+triumph of liberty which it exhibited, and which well deserves a magnificent monument. The ancient republics, 
+to whose very imperfections we are sometimes partial, 
+afford precedents. Why should not the Congress adopt 
+and carry this design into execution ? The expense ? for 
+my part I think the expense proper, and therefore confide 
+in the sense and sentiment of the public. If the money 
+was now to be provided, the measure would be iinseasonable, on account of the Indian war. That obstacle will be 
+of short duration. We need not begin the monument this 
+year. To adopt the plan will cost nothing. The work 
+must necessarily be long on hand, and as the expense will 
+be gradually incurred, so also it will be gradually defrayed. 
+The sum annually requisite can be but small compared 
+with the object, and with our resQurces. Although it would 
+better become the nation, than individuals, to undertake it, 
+yet provided the nation assume the task, the aid of subscriptions, and even State donations, might, if necessary, be 
+recurred to. If you would say, it shall be begun as soon 
+as a certain sum is subscribed, there is reason to believe it 
+would be subscribed. If the ways and means be referred 
+to <a href='/results.php?tla=alh' rel='colleague met'>Colonel Hamilton</a>, he will indicate the most eligible. 
+His official station, information, and talents, would render it 
+proper. 
+</p><p>
+The gentleman who formed the design, will be the most 
+proper person to execute it. Another artist would not feel 
+the same degree of interest in it, nor is it certain that 
+another of equal talents could easily be had. 
+</p><p>
+As to his reward, — it is a matter which I think should 
+not (// present be contemplated. Let the work be finished, 
+and then make him such an acknowledgment as would 
+become the nation on the one hand, and him on the other. 
+I can conceive of no other rule on such occasions, and in 
+relation to such objects. 
+</p><p>
+I confess to you that the effect which this measure would 
+naturally have on the president's feelings, is with me an 
+additional inducement. We shall not be reproached for 
+letting him die by an executioner, or in chains, or in exile, 
+or in neglect and disgrace, as many Greek and Roman 
+patriots died. On the contrary, we shall be commended 
+throughout all generations for the part we have hitherto 
+acted respecting him. It is only while he lives that we can 
+have the satisfaction of offering the fruits of gratitude and 
+affection to his enjoyment. Posterity can have only the 
+pensive pleasure of strewing flowers on his grave. 
+</p><p>
+Yours affectionately, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

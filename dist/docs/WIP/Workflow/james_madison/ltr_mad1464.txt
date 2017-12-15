@@ -1,0 +1,64 @@
+<letter id='mad1464'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO COLONEL JAMES MADISON. [SR.]
+</p><p>
+<a href="/results.php?city=williamsburg" rel="city">WILLIAMSBURG</a>, December 8, <a href="/results.php?year=1779">1779</a>. 
+</p><p>
+HONORED SIR, The assembly have not yet concluded their 
+plan for complying with the requisitions from Congress. It 
+may be relied on that that cannot be done without very heavy 
+taxes on every species of property. Indeed, it is thought questionable whether it will not be found absolutely impossible. 
+No exertions, however, ought to be omitted to testify our zeal 
+to support Congress in the prosecution of the war. It is also 
+proposed to procure a large sum on loan by stipulating to pay 
+the interest in tobacco. A tax on this article necessary for 
+that purpose is to be collected. Being very imperfectly acquainted with the proceedings of the Assembly on this matter, 
+I must refer you for the particulars to the return of Major Moore, or some future opportunity. The law for escheats and 
+forfeitures will be repealed as it respects orphans, &c. The 
+effects of the measures taken by the Assembly on the credit of 
+our money and the prices of things cannot be predicted. If 
+our expectations had not been so invariably disappointed, they 
+ought to be supposed very considerable. But from the rapid 
+progress of depreciation at present, and the universal struggle 
+among sellers to bring up prices, I cannot flatter myself with 
+the hope of any great reformation. Corn is already at 20, 
+and rising. Tobacco is also rising. Pork will probably command any price. Imported goods exceed everything else many 
+hundreds per cent. 
+</p><p>
+I am much at a loss how to dispose of Willey. I cannot 
+think it would be expedient in the present state of things to 
+send him out of the State. From a new arrangement of the 
+college here, nothing is in future to be taught but the higher 
+and rarer branches of science. The preliminary studies must, 
+therefore, be pursued in private schools or academies. If the 
+academy at Prince Edward is so far dissolved that you think 
+his return thither improper, I would recommend his being put 
+under the instruction of Mr. Maury, rather than suffer him to be 
+idle at home. The languages, (including English,) geography, 
+and arithmetic, ought to be his employment, till he is prepared 
+to receive a finish to his education at this place. 
+</p><p>
+By the late change, also, in the college, the former custom of 
+furnishing the table for the president and professors is to be 
+discontinued. I am induced by this consideration to renew my 
+request for the flour mentioned to you. It will perhaps be the 
+only opportunity I may have of requiting received and singular 
+favors; and, for the reason just assigned, will be extremely convenient. I wish to know without any loss of time how far this 
+supply may be reckoned on. Perhaps Mr. E. Burnley would 
+receive and store it for me. 
+</p><p>
+I am desired by a gentleman here to procure for him two 
+bear skins to cover the foot of his chariot. ]f they can be 
+bought anywhere in your neighborhood, I beg you or Ambrose 
+will take the trouble to inquire for them, and send them to 
+Captain Anderson, at Hanover town. If the flour should come 
+down, the same opportunity will serv.for them. Captain Anderson may be informed that they are for Mr. Norton. If 
+they can be got without too much trouble, I should be glad of 
+succeeding, as he will rely on my promise to procure them for 
+him. 
+</p><p>
+Having nothing to add under the head of news, I subscribe 
+myself your dutiful son. 
+</p>
+</letter>

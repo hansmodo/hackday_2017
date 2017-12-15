@@ -1,0 +1,16 @@
+<letter id="mbc7539">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. Everybody in fine spirits in my world. 
+They have one and all spoken in the Congress to their own perfect satisfaction. To my amazement the Judge 
+took me aside, and, after delivering a panegyric upon him self (but here, later, comes in the amazement), he praised 
+my husband to the skies, and said he was the fittest man of all for a foreign mission. Aye ; and the farther away they 
+send us from this Congress the better I will like it. 
+</p><p>
+Saw Jere Clemens and Nick Davis, social curiosities. They are Anti -Secession leaders ; then George Sanders and 
+George Deas. The Georges are of opinion that it is folly to try to take back Fort Sumter from Anderson and 
+the United States : that is, before we are ready. They saw in Charleston the devoted band prepared for the sacrifice; 
+I mean, ready to run their heads against a stone wall. Dare devils they are. They have dash and courage enough, 
+but science only could take that fort. They shook their heads. 
+</p>
+</letter>

@@ -1,0 +1,88 @@
+<letter id='jhf8012'>
+<recipient first='Thomas' last='Benton' type='individual'/>
+<p>
+<a href='/results.php?city=mission of carmel' rel='city origin'>Mission of Carmel</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='25'>25</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+My Dear Sir : When <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> overtook me in the middle of May, we were encamped on the northern shore of the greater Tlamath Lake. Snow was falling steadily and heavily in the 
+mountains, which entirely surround and dominate the elevated valley region into which we had penetrated; in the east, and north, and west, barriers absolutely impassable barred our road ; we 
+had no provisions ; our animals were already feeble, and while any other way was open, I could not bring myself to attempt such a doubtful enterprise as a passage of these unknown mountains in 
+the dead of winter. Every day the snow was falling; and in the face of the depressing influence exercised on the people by the loss of our men, and the unpromising appearance of things, I 
+judged it inexpedient to pursue our journey further in this direction, and determined to retrace my steps, and carry out the views of the Government by reaching the frontier on the line of the 
+Colorado River. I had scarcely reached the Lower Sacramento, when <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>, then in 
+the north (at Sonoma, in the Department of Sonoma, north of the bay of San Francisco, commanded by General Vallejo), declared his determination immediately to proceed against the foreigners settled in the country, for whose expulsion an order had just been issued by the governor 
+of the Californias. For these purposes <a href="/results.php?tla=jsc" rel="adversary">Castro</a> immediately assembled a force at the Mission of Santa Clara, a strong place, on the northern shore of the Francisco Bay. You will remember 
+how grossly outraged and insulted we had already been by this officer ; many in my own camp, 
+and throughout the country, thought that I should not have retreated in March last. I felt humiliated and humbled ; one of the main objects proposed by this expedition had been entirely 
+defeated, and it was the opinion of the officers of the squadron (so I was informed by Mr. Gillespie) that I could not again retreat consistently with any military reputation. Unable to procure supplies elsewhere, I had sent by <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> to <a href="/results.php?tla=jbm" rel="colleague">Captain Montgomery</a>, commanding the 
+United States ship of wax Portsmouth, then lying at Monterey, a small requisition for such supplies as were indispensably necessary to leave the valley ; and my animals were now in such a 
+state that I could not get out of the valley, without reaching the country which lies on the east side of them in an entirely destitute condition. Having carefully examined my position, and 
+foreseeing, I think, clearly, all the consequences which may eventuate to me from such a step, 
+I determined to take such active and anticipatory measures as should seem to me most expedient to protect my party and justify my own character. I was well aware of the grave responsibility which I assumed, but I also determined that, having once decided to do so, I would assume it and its consequences fully and entirely, and go through with the business completely to the 
+end. I regret that, by a sudden emergency, I have only an hour for writing to all friends, and that therefore from the absence of detail, what I say to you will not be clearly understood. 
+<a href="/results.php?tla=jsc" rel="adversary">Castro's</a> first measure was an attempt to incite the Indian population of the Joaquin and Sacramento valleys, and the neighboring mountains, to burn the crops of the foreigners and otherwise 
+proceed immediately against them. These Indians are extremely numerous, and the success of his measure would have been very destructive ; but he failed entirely. On the 6th of June I 
+decided on the course which I would pursue, and immediately concerted my operations with the foreigners inhabiting the Sacramento valley. A few days afterwards, one of <a href="/results.php?tla=jsc" rel="adversary">Castro's</a> officers, 
+with a party of fourteen men, attempted to pass a drove of two hundred horses from Sonoma to Santa Clara, via New Helvetia, with the avowed purpose of bringing troops into the country. 
+On the nth they were surprised at daylight on the Consumne River by a party of twelve from 
+my camp. The horses were taken, but they were (the men) dismissed without injury. At daybreak on the 15th, the military fort of Sonoma was taken by surprise, with 9 brass pieces of 
+artillery, 250 stands of muskets, some other arms, and a quantity of ammunition. General Vallejo, his brother (Captain Vallejo), Colonel Prudon, and some others were taken prisoners, 
+and placed at New Helvetia, a fortified post under my command. In the meantime a launch 
+had reached New Helvetia with stores from the ship Portsmouth, now lying at Verba Buena, on Francisco Bay. News of <a href="/results.php?tla=jsc" rel="adversary">General Castro's</a> proceedings against me in March had reached <a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a> at Mazatlan at the end of that month, and he had immediately despatched the ship Portsmouth to Monterey, with general instructions to protect American interests in California. 
+</p><p>
+These enterprises accomplished I proceeded to the American settlements on the Sacramento, and the Rio de los Americanos, to obtain reinforcements of men and rifles. 
+</p><p>
+The information brought by <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> to <a href="/results.php?tla=jbm" rel="colleague">Captain Montgomery</a>, in relation to my position, induced that officer immediately to proceed to Yerba Buena, whence he despatched his 
+launch to me. I immediately wrote to him, by return of the boat, describing to him fully my position and intentions, in order that he might not, by supposing me to be acting under orders 
+from our Government, unwittingly commit himself in affording me other than such assistance as his instructions would authorize him naturally to offer an officer charged with an important 
+public duty ; or, in fine, to any citizen of the United States. 
+</p><p>
+Information having reached me from the commanding officer at Sonoma, that his post was threatened with an attack by a force under <a href="/results.php?tla=jsc" rel="adversary">General Castro</a>, I raised camp on the American Fork 
+on the afternoon of the 23d, and, accompanied by <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a>, at two in the morning of the 
+25th, reached Sonoma, with ninety mounted riflemen, having marched eighty miles. Our people still held the place, only one division of <a href="/results.php?tla=jsc" rel="adversary">Castro's</a> force, a squadron of cavalry, numbering 
+seventy men, and commanded by Joaquin de la Torre (one of his best officers), having succeeded in crossing the straits (Francisco Bay). This force had attacked an advanced party of twenty 
+Americans, and (was) defeated with the loss of two killed and two or three wounded. The Americans lost none. This was an unexpected check to the Californians, who had announced 
+their intentions to defeat our people without firing a gun ; to beat out their brains with their "tapaderos," and destroy them "con cuchillos puros." They were led to use this expression 
+from the circumstance that a few days previous they had captured two of our men (an express), 
+and after wounding, had bound them to trees, and cut them to pieces while alive, with an exaggeration of cruelty which only Indians would be capable of. In a few days de la Torre was 
+driven from the country, having barely succeeded in effecting his escape across the straits, the guns (six large and handsome pieces) spiked at the fort on the south side of the entrance to 
+Francisco Bay, and the communication with the opposite side entirely broken off, the boats and launches being either destroyed or in our possession. Three of <a href="/results.php?tla=jsc" rel="adversary">Castro's</a> party having 
+landed on the Sonoma side in advance, were killed on the beach ; and beyond this there was 
+no loss on either side. In all these proceedings, <a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a> has acted with me. We reached Sonoma again on the evening of July 4th, and in the morning I called the people together, and spoke to them in relation to the position of the country, advising a course of operations which 
+was unanimously adopted. California was declared independent, the country put under martial law, the force organized and officers elected. A pledge, binding themselves to support these 
+measures, and to obey their officers, was signed by those present. The whole was placed under 
+my direction. Several officers from the Portsmouth were present at this meeting. Leaving Captain Grigsby with fifty men in command of Sonoma, I left that place on the 6th, and reached my 
+encampment on the American Fork in three days. Before we arrived at that place, <a href="/results.php?tla=jsc" rel="adversary">General Castro</a> had evacuated Santa Clara, which he had been engaged in fortifying, and with a force of 
+about four hundred men, and two pieces of artillery, commenced his retreat upon St. John's, a fortified post, having eight pieces of artillery, principally brass. On the evening of the 10th 
+we were electrified by the arrival of an express from <a href="/results.php?tla=jbm" rel="colleague">Captain Montgomery</a>, with the information 
+that <a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a> had hoisted the flag of the United States at Monterey, and taken possession of the country. <a href="/results.php?tla=jbm" rel="colleague">Captain Montgomery</a> had hoisted the flag at Yerba Buena, and sent one 
+to Sonoma, to be hoisted at that place. One also was sent to the officer commanding at New Helvetia, requesting that it might be hoisted at his post. 
+</p><p>
+Independence and the flag of the United States are synonymous terms to the foreigners here (the northern, which is the stronger part, particularly), and accordingly I directed the flag 
+to be hoisted with a salute the next morning. The event produced great rejoicing among our people. The next day I received an express from <a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a>, transmitting to me his 
+proclamation, and directing me to proceed with the force under my orders to Monterey. The 
+registered force, actually in arms, under my orders, numbered two hundred and twenty riflemen, with one piece of field artillery, and ten men, in addition to the artillery of the garrison. 
+</p><p>
+We were on the eve of marching on <a href="/results.php?tla=jsc" rel="adversary">Castro</a> when this intelligence arrived ; accordingly, I directed my march upon Monterey, where I arrived on the evening of the 19th, with a command 
+of one hundred and sixty mounted riflemen, and one piece of artillery. I found also there <a href="/results.php?tla=rfs" rel="colleague">Commodore Stockton</a> in command of the Congress, and Admiral Seymour, in command of her 
+Britannic majesty's ship Collingwood, of eighty guns. I have been badly interrupted, and shall scarcely be able to put you in full possession of occurrences. 
+</p><p>
+To come briefly to a conclusion, <a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a> has transferred the squadron, with California and its appurtenances, into the hands of <a href="/results.php?tla=rfs" rel="colleague">Commodore Stockton</a>, who has resolved to make good 
+the possession of California. This officer approves entirely of the course pursued by myself and 
+<a href="/results.php?tla=ahg" rel="colleague met">Mr. Gillespie</a>, who, I repeat, has been hand-in-hand with me in this business. I received this 
+morning from <a href="/results.php?tla=rfs" rel="colleague">Commodore Stockton</a> a commission of major in the United States army, retaining command of my battalion, to which a force of eighty marines will be attached. We are 
+under orders to embark to-morrow morning on board the Cyane sloop of war, and disembark at 
+San Diego, immediately in the rear of <a href="/results.php?tla=jsc" rel="adversary">Castro</a>. He is now at the Puebla de los Angeles, an interior city, with a force of about five hundred men, supposed to be increasing. The design 
+is to attack him with my force at that place. He has there seven or eight pieces of artillery. 
+</p><p>
+<a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a>, who goes home by way of Panama, promises to hand or send you this 
+immediately on his arrival at Washington, to which he goes direct. It is my intention to leave 
+this country, if it is within the bounds of possibility, at the end of August. I could then succeed in crossing without fear on account of the snow ; and by that time a territorial government 
+will be in operation here. 
+</p><p>
+Yours very truly, 
+</p><p>
+<a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>.
+</p><p>
+Hon. Thomas H. Benton, United States Senate, Washington City, D. C. 
+</p>
+</letter>

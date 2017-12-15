@@ -1,0 +1,149 @@
+<letter id='thj1472'>
+<recipient first='William' last='Carmichael' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, November 4, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+I had the honor of writing you on the 18th of October, and again on
+the 25th of the same month. Both letters, being to pass through the
+post-offices, were confined to particular subjects. The first of them
+acknowledged the receipt of yours of September the 29th.
+</p><p>
+At length a confidential opportunity arrives for conveying to you a
+cipher; it will be handed you by the bearer, Mr, Lambe. Copies of it are
+in the hands of <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>, at London, Mr. Barclay, who is proceeding to
+Morocco, and Mr. Lambe, who is proceeding to Algiers. This enables us
+to keep up such correspondences with each other, as maybe requisite.
+Congress, in the spring of <a href="/results.php?year=1784">1784</a>, gave powers to <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>, <a href="/results.php?tla=ben" rel="co-worker met">Benjamin Franklin</a>,
+and myself, to treat with the Barbary States. But they gave us no money
+for them, and the other duties assigned us rendered it impossible for
+us to proceed thither in person. These things having been represented to
+them, they assigned to us a certain sum of money, and gave us powers
+to delegate agents to treat with those States, and to form preliminary
+articles, but confining to us the signing of them in a definitive form.
+They did not restrain us in the appointment of the agents; but the
+orders of Congress were brought to us by Mr. Lambe, they had waited for
+him four months, and the recommendations he brought, pointed him out, in
+our opinion, as a person who would meet the approbation of Congress. We
+therefore appointed him to negotiate with the Algerines. His manners
+and appearance are not promising. But he is a sensible man, and seems to
+possess some talents which may be proper in a matter of bargain. We have
+joined with him, as secretary, a Mr. Randall, from <a href="/results.php?city=New York" rel="city">New York</a>, in whose
+prudence we hope he will find considerable aid. They now proceed to
+Madrid, merely with the view of seeing you, as we are assured they
+will receive from you lights which may be useful to them. I hear that
+D'Expilly and the Algerine ministers have gone from Madrid. Letters
+from Algiers, of August the 24th, inform me, that we had two vessels and
+their crews in captivity there, at that time. I have never had reason to
+believe certainly, that any others had been captured. Should Mr. Lambe
+have occasion to draw bills, while in Spain, on <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>, you may
+safely assure the purchasers that they will be paid.
+</p><p>
+An important matter detains Mr. Barclay some days longer, and his
+journey to Madrid will be circuitous. Perhaps he may arrive there a
+month later than Lambe. It would be well if the Emperor of Morocco
+could, in the mean time, know that such a person is on the road. Perhaps
+you may have an opportunity of notifying this to him officially, by
+asking from him passports for Mr. Barclay and his suite. This would
+be effecting too[sp.] good purposes at once, if you can find an
+opportunity.
+</p><p>
+Your letter of September the 2d did not get to my hands till these
+arrangements were all taken between <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> and myself, and the
+persons appointed. That gave me the first hint that you would have acted
+in this business. I mean no flattery when I assure you, that no person
+would have better answered my wishes. At the same time, I doubt whether
+<a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> and myself should have thought ourselves justifiable in
+withdrawing a servant of the United States from a post equally important
+with those, which prevented our acting personally in the same business.
+I am sure, that, remaining where you are, you will be able to forward
+much the business, and that you will do it with the zeal you have
+hitherto manifested on every occasion.
+</p><p>
+Your intercourse with America being less frequent than ours, from this
+place, I will state to you, generally, such new occurrences there,
+as may be interesting; some of which, perhaps, you will not have been
+informed of. It was doubtful, at the date of my last letters, whether
+Congress would adjourn this summer. They were too thin, however, to
+undertake important business. They had begun arrangements for the
+establishment of a mint. The Dollar was decided on as the money unit
+of America. I believe, they proposed to have gold, silver, and copper
+coins, descending and ascending decimally; viz. a gold coin of ten
+dollars, a silver coin of one tenth of a dollar (equal to a Spanish
+bit), and a copper, of one hundredth of a dollar. These parts of the
+plan, however, were not ultimately decided on. They have adopted the
+late improvement in the British post-office, of sending their mails by
+the stages. I am told, this is done from New Hampshire to Georgia, and
+from <a href="/results.php?city=New York" rel="city">New York</a> to Albany. Their treasury is administered by a board,
+of which Mr. Walter Livingston, Mr. Osgood, and Dr. Arthur Lee, are
+members. <a href='/results.php?tla=jhr' rel='colleague'>Governor Rutledge</a> who had been appointed minister to the Hague,
+on the refusal of Governor Livingston, declines coming. We are
+uncertain whether the States will generally come into the proposition of
+investing. Congress with the regulation of their commerce. Massachusetts
+has passed an act, the first object of which seemed to be, to retaliate
+on the British commercial measures, but in the close of it, they impose
+double duties on all goods imported in bottoms not wholly owned by
+citizens of our States. New Hampshire has followed the example. This
+is much complained of here, and will probably draw retaliating measures
+from the States of Europe, if generally adopted in America, or not
+corrected by the States which have adopted it. It must be our endeavor
+to keep them quiet on this side the water, under the hope that our
+countrymen will correct this step; as I trust they will do. It is no
+ways akin to their general system. I am trying here to get contracts
+for the supplying the cities of France with whale-oil, by the <a href="/results.php?city=Boston" rel="city">Boston</a>
+merchants. It would be the greatest relief possible to that State,
+whose commerce is in agonies, in consequence of being subjected to alien
+duties on their oil in Great Britain, which has been heretofore their
+only market. Can any thing be done, in this way, in Spain? Or do they
+there light their streets in the night?
+</p><p>
+A fracas, which has lately happened in <a href="/results.php?city=Boston" rel="city">Boston</a>, becoming a serious
+matter, I will give you the details of it, as transmitted to <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>
+in depositions. A Captain Stanhope, commanding the frigate Mercury,
+was sent with a convoy of vessels from Nova Scotia to <a href="/results.php?city=Boston" rel="city">Boston</a>, to get a
+supply of provisions for that colony. It had happened, that two persons
+living near <a href="/results.php?city=Boston" rel="city">Boston</a>, of the names of Dunbar and Lowthorp, had been taken
+prisoners during the war, and transferred from one vessel to another,
+till they were placed on board Stanhope's ship. He treated them most
+cruelly, whipping them frequently, in order to make them do duty against
+their country, as sailors, on board his ship. The ship going to Antigua
+to refit, he put all his prisoners into jail, first giving Dunbar
+twenty-four lashes. Peace took place, and the prisoners got home
+under the general liberation. These men were quietly pursuing their
+occupations at home, when they heard that Stanhope was in <a href="/results.php?city=Boston" rel="city">Boston</a>.
+Their indignation was kindled. They immediately went there, and meeting
+Stanhope walking in the mall, Dunbar stepped up to him, and asked him
+if he recollected him, and the whipping him on board his ship. Having
+no weapon in his hand, he struck at Stanhope with his fist. Stanhope
+stepped back, and drew his sword. The people interposed, and guarded him
+to the door of a Mr. Morton, to which he retreated. There Dunbar again
+attempted to seize him; but the high-sheriff had by this time arrived,
+who interposed and protected him. The assailants withdrew, and here
+ended all appearance of force. But Captain Stanhope thought proper to
+write to the Governor, which brought on the correspondence published in
+the papers of Europe. Lest you should not have seen it, I enclose it, as
+cut from a London paper; though not perfectly exact, it is substantially
+so. You will doubtless judge, that <a href='/results.php?tla=jab' rel='colleague'>Governor Bowdoin</a> referred him
+properly to the laws for redress, as he was obliged to do, and as would
+have been done in England, in a like case. Had he applied to the courts,
+the question would have been whether they would have punished Dunbar.
+This must be answered now by conjecture only; and, to form that
+conjecture, every man must ask himself, whether he would not have done
+as Dunbar did; and whether the people should not have permitted him to
+return to Stanhope the twenty-four lashes. This affair has been stated
+in the London papers, without mixing with it one circumstance of truth.
+</p><p>
+In your letter of the 27th of June, you were so good as to tell me that
+you should shortly send off some of the books I had taken the liberty to
+ask you to get for me, and that your correspondent at Bayonne would give
+me notice of their arrival there. Not having heard from him, I mention
+it to you, lest they should be stopped any where.
+</p><p>
+I am, with great respect, Dear Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

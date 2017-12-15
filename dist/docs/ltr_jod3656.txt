@@ -1,0 +1,45 @@
+<letter id="jod3656">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, 	<a rel="day origin" value='27'>27</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1799' rel="origin">1799</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE received yours of 24th, and thank you for 
+your relation of our little domestic affairs at <a href='/results.php?city=quincy' rel='city'>Quincy</a>. 
+Briesler did not arrive last night, as you calculated. 
+His children may detain him longer than you expected. Some of the public offices are about re 
+moving to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> this week. I can send James 
+with my horses and chariot to meet you at Hoboken 
+ferry or <a href='/results.php?city=elizabethtown' rel='city'>Elizabethtown</a>, or any other place you may 
+appoint, and at any time you will appoint, if you can 
+be sure of your plans and measures. 
+</p><p>
+I have been, forenoon and afternoon, to church to 
+hear Parson Waddell, who gave us two discourses 
+good and wholesome for soul, body, and estate. He 
+is a good picture of " stalled theology," and is said to 
+have a good estate. Last Sunday I went to the Presbyterian church and heard Mr. Grant, an ingenious 
+young gentleman. There is something more cheerful and comfortable in an Episcopalian than in a 
+Presbyterian church. I admire a great part of the 
+Divine service at church very much. It is very humane and benevolent, and sometimes pathetic and 
+affecting, but rarely gloomy, if ever. Their creeds 
+I could dispense with very well, because the Scriptures being before us contain the creed the most certainly orthodox. But you know I never write nor 
+talk upon divinity. I have had more than I could do 
+of humanity. Benevolence and beneficence, indus 
+try, equity and humanity, resignation and submission, 
+repentance and reformation, are the essence of my 
+religion. Alas ! how weakly and imperfectly have I 
+fulfilled the duties of my own religion ! I look back 
+upon a long life very poorly spent in my own estimation. Busy as it has appeared to some, to me it ap 
+pears to have been very much too idle, inactive, 
+slothful, and sluggish. I fear it is too late to amend. 
+My forces are far spent, and by too much exertion I. should soon exhaust them all. I am not in the 
+vapors, but in very good spirits, notwithstanding this 
+penitent confession of my faults. 
+</p><p>
+Write me every day. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

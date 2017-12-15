@@ -1,0 +1,8 @@
+<letter id="mbc7653">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='30'>30th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. First came Dr. Trezevant, who announced Burnet Rhett's death. " No, no ; I have just seen the bulletin-board. It was Grimke Rhett's. When the doctor went out it was added : Howell Trezevant's death is there, too. 
+The doctor will see it as soon as he goes down to the board. The girls went to see Lucy Trezevant. The doctor was lying 
+still as death on a sofa with his face covered. 
+</p>
+</letter>

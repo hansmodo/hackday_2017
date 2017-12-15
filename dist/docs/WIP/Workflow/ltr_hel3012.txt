@@ -1,0 +1,142 @@
+<letter id="hel3012">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I feel myself doubly honored by your favor of the 
+14th instant, from the confidence of <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> in the free communication of his sentiments, 
+and in the coincidence of his ideas with my own 
+upon a question, upon the wise decision of which the 
+inheritance, possibly the establishment of the freedom 
+and independence of these States, seem to depend. 
+The respect, Sir, that I owe you demands an immediate reply, and yet the variety of avocations in 
+which I am engaged does not afford me moments for 
+arranging or expressing my thoughts suitably to the 
+importance of the subject. I am, nevertheless, encouraged to proceed, without hesitation, from a conviction that, were I to deliver my opinions at full 
+length, I should be obliged to borrow your Excellency's words, which I have the honor of assuring 
+you, Sir, are, in more than one instance, repetitions 
+of my own, and that in every other, one excepted, 
+our sentiments on this momentous discussion exactly 
+accord. 
+</p><p>
+I believe, and upon good ground, the scheme for 
+an expedition into Canada, in concert with the arms 
+of France, originated in the breast of the <a href='/results.php?tla=laf' rel=''>Marquis De Lafayette</a>, encouraged, probably, by conferences with 
+<a href='/results.php?tla=cde' rel=''>Count D Estaing</a>, and I also believe it to be the off 
+spring of the purest motives, so far as respects that 
+origin; but this is not sufficient to engage my concurrence in a measure big with eventual mischiefs. 
+As deeply as my very limited time and faculties had 
+suffered me to penetrate, I had often contemplated 
+our delicate connection with France ; and, although it 
+is painful to talk of one's own foresight; had viewed 
+and foretold, fifteen months ago, the humiliating state 
+to which our embryo independence would be reduced 
+by courting from that nation the loan of more money 
+than should be actually necessary for the support of 
+the army and of our unfortunate navy. 
+</p><p>
+I was one of the six unsuccessful opponents to the 
+resolution for borrowing money from France for paying the interest of our Loan-Office certificates. We 
+have, in this single article, plunged the Union into a 
+vast amount of debt; and, from neglecting to exert 
+our very small abilities, or even to show a leading disposition to cancel any part of the former demand 
+against us, our bills for that interest are now floating, 
+in imminent danger of dishonor and disgrace. Fully 
+persuaded of the true value of national honor, I 
+anxiously wished to support our own by a propriety 
+and consistency of conduct, and I dreaded the consequences of subjecting our happiness to the disposal 
+of a powerful creditor, who may, upon any specious 
+grounds, interpret national honor to our destruction. 
+I warned my friends against the danger of mortgaging these States to foreign powers. Every million 
+of livres you borrow implies a pledge of your lands ; 
+and it is optional in your creditor to be repaid at 
+the Bank of England, with an exorbitant premium, 
+or to collect the money due to him in any of your ports, and according to his own mode, whenever national interest shall require the support of pretended 
+national honor. 
+</p><p>
+Hence your Excellency will perceive what were 
+my feelings, when the propositions for subduing Canada, by the aid of a French fleet and army, were 
+first broached to me. I demurred exceedingly to the 
+Marquis's scheme, and expressed some doubts of the 
+concurrence of Congress. This was going as far as 
+I dared, consistently with my office, or considering 
+him as a gentleman of equal honor and tenacity. 1 
+trusted the issue of his application to the sagacity 
+of Congress; the business was referred to a Commit 
+tee., who conferred with the Marquis; their report 
+was framed agreeably to his wishes; but the House 
+very prudently determined to consult the Commander-in-chief previously to a final determination; and al 
+though your Excellency's observations are committed, 
+I am much mistaken if every member in Congress is 
+not decided in his opinion in favor of them. If the 
+prosecution of so extensive an object is, from the 
+present state of our army and funds, impracticable 
+on our part, it becomes altogether unnecessary to 
+discuss the point in a political view. And I trust 
+the Marquis will be satisfied with such reasonings, in 
+apology for our desisting from the pursuit of his favorite enterprise, as our circumstances will dictate. 
+</p><p>
+The immense debts which we are involved in, 
+abroad and at home, demand the utmost serious attention, and call for an exertion of the collected wisdom of all these States, in order to secure what we 
+have saved from the ravages of the enemy. I am 
+very short-sighted if there be, at this time, any encouragement for attempting distant conquests. I have 
+been uniformly averse from every proposition which 
+is intended to dissipate our strength and to accumu 
+late our debt. Events have confirmed my opinion; 
+and at this instant, taking in view all circumstances, 
+I have doubts of the policy, and more of the success, 
+of the pending expedition against East Florida. Congress will probably recommend to the States to raise a tax of near twenty millions the ensuing year. This, 
+I hope, will have a good effect, by returning many 
+of us to first principles, from which we have been too 
+long wandering. This almost intolerable burden will 
+rouse and animate our fellow-citizens ; they will probably send men of ability to investigate causes, to 
+inquire into expenditures, and to call delinquents for 
+unaccounted millions to severe reckonings ; they will 
+do, what they have hitherto shamefully neglected, pass 
+necessary laws for this purpose. 
+</p><p>
+This heavy tax, and the prospect of increasing impositions, will show our constituents the necessity for 
+consolidating our strength, as well as the impropriety 
+and danger of new extensive military enterprises. 
+Virtue and patriotism were the motto of our banners, 
+when we entered this contest. Y/here is virtue, 
+where is patriotism, now; when almost every man 
+has turned his thoughts and attention to gain and pleasures, practising every artifice of change-alley, or 
+Jonathans ; when men of abilities disgracefully neglect the important duties for which they were sent 
+to Congress, tempted by the pitiful fees of practising 
+attorneys; when members of that body artfully start a point, succeed, and then avail themselves of the 
+secrets of the House, and commence monopolizers, 
+and accumulate the public debt for their private 
+emoluments ? I believe many such tricks have been 
+acted. The particular instance which I allude to cost 
+these States a large sum of money without putting 
+the criminal to the expense of a blush. When men, 
+in almost every important public department, are actually concerned in commerce, incompatible with the 
+strict duties of their respective officers; when the most 
+egregious delinquents meet with support in Congress, 
+and escape examination. I am tired, and fear tiring 
+you, Sir, with this horrible, half-finished picture. 1 
+will therefore leave it, but not before I add that the 
+United States of America are in most deplorable circumstances ; that the requisitions of a foreign Minister 
+have fixed the eyes of Europe upon them; that their 
+weaknesses, their wickednesses, are no longer hidden, 
+and that the States respectively are much to blame, 
+and that, without speedy reformation, their shame 
+and ruin collectively will follow. 
+</p><p>
+The disaster of Admiral Byron's fleet, and the 
+successful departure of <a href='/results.php?tla=cde' rel=''>Count D Estaing</a>'s, are events 
+much in our favor; that is to say, if we are pleased 
+to make a wise improvement of them; but, from experience fearing the contrary, I am almost tempted 
+to wish they had not happened. These fortunate circumstances will lull us to sleep again, and, while ourally is gaining honor, aggrandizement, and the highest national advantages, we shall be sinking into a 
+state little better than tributary and dependent. Be 
+this as it may, the world will ever honor by acknowledging the virtues of the man, who, from my inmost 
+soul, I believe keeps us at this moment from crumbling. I have the honor to be, with the most sincere 
+respect and esteem, dear Sir, 
+Your much obliged and obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hel" rel="me">HENRY LAURENS</a>. 
+</p>
+</letter>

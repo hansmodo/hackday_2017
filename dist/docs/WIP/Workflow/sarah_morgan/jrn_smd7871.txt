@@ -1,0 +1,40 @@
+<letter id="smd7871">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='23'>23d</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Yesterday Anna and I spent the day with Lilly, and the rain in the evening obliged us to stay all 
+night. Dr. Perkins stopped there, and repeated the same old stories we have been hearing, about the 
+powder placed under the State House and Garrison, to blow them up, if forced to evacuate the town. 
+He confirms the story about all the convicts being set free, and the town being pillaged by the negroes and 
+the rest of the Yankees. He says his own slaves told him they were allowed to enter the houses and help 
+themselves, and what they did not want the Yankees either destroyed on the spot, or had it carried to the 
+Garrison and burned. They also bragged of having stopped ladies on the street, cut their necklaces 
+from their necks, and stripped the rings from their fingers, without hesitation. It may be that they 
+were just bragging to look great in the eyes of their masters; I hope so, for Heaven help them if they fall into the hands of the Confederates, if it is true. 
+</p><p>
+I could not record all the stories of wanton destruction that reached us. I would rather not believe that the Federal Government could be so disgraced by its own soldiers. Dr. Day says they left 
+nothing at all in his house, and carried everything 
+off from Dr. Enders's. He does not believe we have 
+a single article left in ours. I hope they spared Miriam's piano. But they say the soldiers had so many 
+that they offered them for sale at five dollars apiece ! 
+We heard that the town had been completely evacuated, and all had gone to <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> except three 
+gunboats that were preparing to shell, before leaving. 
+</p><p>
+This morning Withers's battery passed Mr. Elder's on their way to Port Hudson, and stopped to get 
+water. There were several buckets served by several servants ; but I took possession of one, to their great 
+amusement. What a profusion of thanks over a can of water! It made me smile, and they smiled to see 
+my work, so it was all very funny. It was astonishing to see the number of Yankee canteens in the possession of our men. Almost all those who fought at 
+<a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a> are provided with them. In their canvas and wire cases, with neat stoppers, they are 
+easily distinguished from our rough, flat, tin ones. I declare I felt ever so important in my new situation as waiting-maid ! 
+</p><p>
+There is very little we would not do for our soldiers, though. There is mother, for instance, who got on 
+her knees to bathe the face and hands of a fever-struck soldier of the Arkansas, while the girls held 
+the plates of those who were too weak to hold them and eat at the same time. Blessed is the Confederate 
+soldier who has even toothache, when there are women near! What sympathies and remedies are volunteered ! I always laugh, as I did then, when I 
+think of the supposed wounded man those girls discovered on that memorable Arkansas day. I must first acknowledge that it was my fault; for seized 
+with compassion for a man supported by two others who headed the procession, I cried, "Oh, look! he is wounded!" "Oh, poor fellow!" screamed the 
+others, while tears and exclamations flowed abundantly, until one of the men, smiling humorously, cried out, "Nothing the matter with him!" and on 
+nearer view, I perceived it was laziness, or perhaps something else, and was forced to laugh at the streaming eyes of those tender-hearted girls. 
+</p><p>
+</letter>

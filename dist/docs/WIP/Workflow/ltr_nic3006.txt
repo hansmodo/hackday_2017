@@ -1,0 +1,49 @@
+<letter id="nic3006">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am to acknowledge the receipt of your Excellency's letter of the 6th instant, and to inform you, 
+that, zealous to do every thing in our power to 
+serve the common cause of America, the Committee 
+have determined, instead of the small armed sloop, 
+to send the large vessel, with fifty men, upon the 
+Bermuda enterprise ; with orders to Captain Whipple 
+to cruise ten days off Sandy Hook for the packet 
+expected from England; and, if he is so fortunate as 
+to meet her, to put the letters ashore at South 
+Hampton, and send them by express to your Excellency. She will sail, wind and weather permitting, 
+the beginning of the week. 
+</p><p>
+There is in this town a Mr. De Ville. a French 
+man, who hath made several voyages from this port 
+during the last four or five years, and is esteemed a 
+person every way well qualified, and to be depended 
+upon, for the execution of the plan he proposes. 
+He was with Captain Hopkins the last voyage, 
+when lie imported the ammunition, &c,, lately purchased of Messrs. Clarke & Nightingale for the 
+army; and hath brought with him a set of papers 
+to qualify a brig as a French bottom. 
+</p><p>
+His scheme is to proceed to Bayonne, in France, 
+where he is well acquainted, and there to take in a 
+load of powder, which he says can be effected in 
+three days. This despatch will be so great, that intelligence of the vessel cannot be sent to England 
+timely enough for any measures to be taken to intercept her upon her return. I think the plan practicable, and likely to be attended with success. We 
+have here a brig, a fast sailer, and otherwise a suitable vessel for the voyage, which will bring about eighty tons, and we will undertake to fit one quarter of her, and to supply the money to purchase one quarter part of the quantity of powder; which is the most we can do here. 
+</p><p>
+I have written to <a href='/results.php?tla=jht' rel='colleague'>Governor Trumbull</a> upon this subject, and desired him, if the plan meets with his 
+approbation, to despatch a trusty person to confer with you upon it ; who can return through <a href='/results.php?city=providence' rel='city'>Providence</a>, and let me know the result, so that we may 
+immediately equip the vessel for the voyage. 
+</p><p>
+I have communicated to Messrs. Clarke & Nightingale that part of your letter that related to them. 
+They desire me to present to you their respectful thanks for the polite notice you have taken of them. 
+</p><p>
+I have the honor to be, with much esteem and 
+regard, &c., &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

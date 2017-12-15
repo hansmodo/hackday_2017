@@ -1,0 +1,54 @@
+<letter id="pjs3007">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+I did myself the honor to address you in a long 
+letter of the 20th, which I hope will come safe to 
+hand. 
+</p><p>
+The day before yesterday I was favored with a 
+letter from <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a> (copy of which in 
+closed), on the contents of which, and on the report 
+of the Indian deputies, I do myself the pleasure to 
+congratulate your Excellency. I have made some 
+explanatory notes on <a href='/results.php?tla=rim' rel='colleague met'><a href='/results.php?tla=rim' rel='colleague met'>General Montgomery</a></a>'s letter, 
+which I conceived might be necessary for you. I 
+made a short speech to the Indian deputies, gave 
+them a present, and they left me in high good humor, 
+and with a very good opinion of our army. 
+</p><p>
+The vexation of spirit under which I labor, that a 
+barbarous complication of disorders should prevent me 
+from reaping those laurels for which I have unweariedly wrought, since I was honored with this command ; the anxiety I have suffered since my arrival 
+here, lest the army should starve, occasioned by a 
+scandalous want of subordination and inattention to 
+my orders, in some of the officers that I left to command at the different posts ; the vast variety of 
+disagreeable and vexatious incidents, that almost every 
+hour arise in some department or other, not only 
+retard my cure, but have put me considerably back 
+for some days past. If Job had been a General in 
+my situation, his memory had not been so famous for 
+patience. But the glorious end we have in view, 
+and which I have confident hope will be attained, 
+will atone for all. 
+</p><p>
+I have discharged, or ordered to be discharged, 
+every man that was so ill as to be rendered unfit for 
+further service during this campaign, and that was 
+able to return to the place of his abode. Those that 
+were not, I have sent to the hospital. The former 
+already amount to seven hundred and twenty-six, as 
+per the inclosed return. 
+</p><p>
+My best wishes attend your Excellency and the 
+gentlemen with you. I am, dear Sir, with the most 
+sincere esteem, 
+</p><p>
+Your very obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

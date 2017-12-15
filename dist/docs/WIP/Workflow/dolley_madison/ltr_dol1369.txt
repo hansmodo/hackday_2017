@@ -1,0 +1,20 @@
+<letter id='dol1369'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1369'>
+<recipient first='Anna' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, July 29, <a href="/results.php?year=1805">1805</a>. 
+</p><p>
+If my beloved sister has received my last from <a href="/results.php?city=washington" rel="city">WASHINGTON</a>, she will be unhappy 
+to find that I was obliged to take this journey in such dangerously hot weather, but 
+it proved not unpleasant, for I was easier riding than in any other position. My 
+health and spirits revived every day with the drive, and here I am on my bed, with 
+my dear husband sitting anxiously by me, who is my most willing nurse. But you 
+know how delicate he is. I tremble for him ; one night on the way he was taken 
+very ill with his old complaint, and I could not fly to aid him as I used to do. Heaven 
+in its mercy restored him next morning, and he would not pause until he heard my 
+fate from Doctor Physic. 
+</p><p>
+Your devoted sister, <a href="/results.php?tla=dol" rel="me">DOLLY </a>. 
+</p>
+</letter></letter>

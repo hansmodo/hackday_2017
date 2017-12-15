@@ -1,0 +1,115 @@
+<letter id="aba3416">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>. <a rel="day origin" value="30">30</a> <a rel="month origin" value="9">September</a>. <a href="/results.php?year=1785" rel="origin">1785</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+Your kind letters of July and August are before 
+me. I thank you most sincerely for the particular 
+manner in which you write. I go along with you, 
+and take an interest in every transaction which concerns those I love ; and I enjoy more pleasure from 
+those imaginary scenes than I do from the drawingroom at St. James's. In one, I feel myself your 
+friend and equal. In the other, I know I am looked 
+down upon with a sovereign pride, and the smile of 
+royalty is bestowed as a mighty boon. As such, 
+however, I cannot receive it. I know it is due to 
+my country, and I consider myself as complimenting 
+the power before which I appear as much as I am 
+complimented by being noticed by it. With these 
+ideas, you may be sure my countenance will never 
+wear that suppliant appearance, which begs for notice. 
+Consequently, I never expect to be a Court favorite. 
+Nor would I ever again set my foot there, if the 
+etiquette of my country did not require it. But, 
+whilst I am in a public character, I must submit to the 
+penalty ; for such I shall ever esteem it. 
+</p><p>
+You will naturally suppose that I have lately been 
+much fatigued. This is very true. I attended the 
+drawing-room last week, upon the anniversary of 
+the coronation of their Majesties. The company 
+were very brilliant, and her Majesty was stiff with 
+diamonds ; the three eldest Princesses and the Prince 
+of Wales were present. His Highness looked much 
+better than when I saw him before. He is a stout, 
+well-made man, and would look very well if he had 
+not sacrificed so much to Bacchus. The Princess 
+Elizabeth I never saw before. She is about fifteen ; 
+a short, clumsy miss, and would not be thought handsome if she was not a princess. The whole family 
+have one complexion, and all are inclined to be 
+corpulent. I should know them in any part of the 
+world. Notwithstanding the English boast so much 
+of their beauties, I do not think they have really so 
+much of it as you will find amongst the same proportion of people in America. It is true that their 
+complexions are undoubtedly fairer than the French, 
+and in general their figure is good. Of this they 
+make the best ; but 1 have not seen a lady in England who can bear a comparison with Mrs. Bingham, 
+Mrs. Piatt, and a Miss Hamilton, who is a <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+vou no- ladv. Amongst the most celebrated of their 
+beauties stands the Duchess of Devonshire, who is 
+masculine in her appearance. Lady Salisbury is 
+small and genteel, but her complexion is bad ; and 
+Lady Talbot is not a Mrs. Bingham, who, taken 
+altogether, is the finest woman I ever saw. The intelligence of her countenance, or rather, I ought to 
+say, animation, the elegance of her form, and the 
+affability of her manners, convert you into admiration ; 
+and one has only to lament too much dissipation and 
+frivolity of amusement, which have weaned her from 
+her native country, and given her a passion and thirst 
+after all the luxuries of Europe. 
+</p><p>
+The finest English woman I have seen is the 
+eldest daughter of Mr. Dana, brother to our Mr. 
+Dana ; he resides in the country, but was in <a href='/results.php?city=london' rel='city'>London</a> 
+with two of his daughters, when I first came here. 
+I saw her first at Ranelagh. I was struck with her 
+appearance, and endeavoured to find who she was ; 
+for she appeared like Calypso amongst her nymphs, 
+delicate and modest. She was easily known from 
+the crowd, as a stranger. I had not long admired 
+her, before she was brought by her father and introduced to me, after which she made me a visit, with 
+her sister, who was much out of health. At the 
+same time that she has the best title of anv English 
+woman I have seen to the rank of a divinity, I would 
+not have it forgotten that her father is an American, 
+and, as he was remarkably handsome, no doubt she 
+owes a large share of her beauty to him. 
+</p><p>
+I dread to hear from my dear aunt, lest melancholy tidings should reach me with respect to her. 
+She is at the same critical period of life which 
+proved fatal to Mrs. B. I will, however, hope that 
+she may yet be spared to her friends. Though her 
+health would never permit her to engage in the 
+active business of her family, she was attentive to 
+the interest and welfare of every individual of it. 
+Like Sarah, she was always to be found in her tent. 
+A more benevolent heart never inhabited a human 
+breast. It was well-matched and seconded in a 
+partner equally benevolent and humane, who has 
+shared with us our former griefs, and will find us 
+equally sympathetic towards himself, should so great 
+a misfortune attend him as 1 fear. Indeed, I know 
+not how to take my pen to write to him. I do not 
+wonder that your heart was affected, or your spirits 
+low, under the apprehension of losing one so deservedly dear to us all. Should this ornament be 
+broken from the original building, it will be another 
+memento to us of the frailty of the whole, and that 
+duration depends not upon age. Yet who would 
+desire to stand, the last naked pillar of the whole? 
+I believe our social affections strengthen by age ; 
+as those objects and amusements which gratified our 
+youthful years lose their relish, the social converse 
+and society of friends becomes more necessary. 
+</p><p>
+" Needful auxiliars are our friends, to give 
+To social man true relish of himself." 
+</p><p>
+But I must close, as I am going to dine to-day 
+with my friend Mrs. Rogers, where I have given 
+myself an invitation, the occasion of which I will 
+reserve for the subject of another letter, and subscribe myself affectionately yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

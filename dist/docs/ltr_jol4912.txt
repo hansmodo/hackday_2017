@@ -1,0 +1,48 @@
+<letter id="jol4912">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="11">Novem.</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have just received and hastily read over your kind 
+letter of the 27th and could write a great deal in answer 
+to it if time or discretion would permit. This will 
+merely serve as a cover to a newspaper, part of which 
+I copied in my last. It goes by a man who is to set 
+off immediately for York as I am informed by Col. Tilghman. I am exceedingly obliged to you for the 
+</p><p>
+gloves, and am ever 
+</p><p>
+Your affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I must detain the messenger, who ever he be, while 
+I relate an anecdote, which will give you some idea 
+of the general misbehaviour of our navy. 
+</p><p>
+When their retreat up the river was expected, the 
+Delaware frigate was given over for lost her guns 
+were taken out, and only a few men left in her who 
+were to make their escape immediately upon an attack 
+from our fleet which was looked upon as an event that 
+would certainly happen and that could not be other 
+wise than successful on our side. 
+</p><p>
+If it were the custom for generals to proclaim their 
+intentions, we had a right to expect an attack to-day ; 
+however, it is not amiss to he prepared for it. <a href='/results.php?tla=nag' rel='co-worker met'>Gen'l Greene</a> has joined us, and our forces are reunited. 
+The enemy after razing Bilingsport and Red Bank 
+have quitted the Jerseys altogether. It appears that 
+two British captains were kill'd and two wounded in 
+the <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De La Fayette</a>'s combat. 
+</p><p>
+Upon looking into your letter again I see that I am 
+indebted to a lady for the gloves; you will oblige me 
+by saying something handsome for me. My letter 
+alluded to, began in the manner which you describe ; 
+it was a kind of journal which I had begun, and laid 
+by in order to add to it occasionally. 
+</p>
+</letter>

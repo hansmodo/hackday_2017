@@ -1,0 +1,155 @@
+<letter id="gom4594">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="5">May</a> <a rel='day origin' value='27'>27th</a> <a href='/results.php?year=1791' rel="origin">1791</a>. . 
+</p><p>
+Dear Sir, 
+</p><p>
+I have the honor to enclose a letter and sundry papers relating to it, from Messieurs Shweizer, Jeannerst & Co. I have 
+referred these gentlemen to Mr Short, telling them that it is 
+most fitting in many respects that they should apply to him. 
+</p><p>
+As it is possible, however, that this business may come before 
+you, I think it a duty to convey some observations which occur 
+to me, and which may not perhaps strike you, because matters 
+of that sort have not, I believe, much occupied your attention. 
+Previous thereto I beg leave, however, to give you a history of 
+my acquaintance with it. In a letter to <a href='/results.php?tla=alh' rel='colleague'>Colonel Hamilton</a>, of the 
+31st of January, <a href='/results.php?year=1790'>1790</a>, I mentioned what had passed between M. 
+Necker and me respecting the debt due by the United States to 
+France, and I hinted the means of turning to useful account a 
+very precipitate step of the public agents in Holland. About 
+this time I received your orders to communicate with the British 
+ministers, and although I did by no means consider that in the of duty on American ships, without any particular object except to 
+punish Lafayette. This may seem a strange reason, but it is a true 
+one. The Aristocrats, as such, are his enemies, and those who wished 
+to preserve the valuable revenue upon tobacco were mortified, at seeing it thrown away in the manner I have related. Some of my particular acquaintances in the Assembly, to whom I mentioned the ill 
+policy of these decrees, assured me that they would not have been 
+passed had <a href='/results.php?tla=laf' rel='colleague met'>Monsieur De Lafayette</a>, who was present, opposed them ; 
+but he being there, they left him to step forward, it being as it were his 
+particular business ; and he being silent, they were taken by surprise , 
+whereas had he been absent they would certainly have made head, and 
+obtained an adjournment at least. The exclusion of our ships, also, 
+from being admitted as French bottoms, arises from the same desire to 
+show that his support of America is useless, and at the same time they 
+have circulated that he prefers America to France, in consequence of 
+which he is afraid to do anything pointed, lest he should lose his 
+popularity. 
+light of an appointment to office, yet from motives of delicacy I 
+determined to extricate myself from the affairs of the debt, as 
+speedily as I could with propriety. Various applications were 
+made to me from different quarters, to which I replied evasively ; but in my arrival in this city last November, I informed the parties that I had reasons of a private nature, which deter 
+red me from holding any share in their speculation. I con 
+versed with Mr Short on the same subject, and communicated 
+to him confidentially my reasons for declining an interest, as 
+well as my opinion respecting the use which might be derived 
+from such negotiation. 
+</p><p>
+A few days after the President of the Committee of Finance, 
+happening to meet me at the Count de Montmorin s, mentioned some proposals then before them, which to the best of my 
+remembrance were extravagant I declined giving an opinion 
+without previously seeing and considering the terms, upon 
+which he and M. de Montmorin agreed together, that before 
+anything was concluded the various propositions which might 
+be made should be submitted to my examination. Here the 
+thing dropped, and the enclosed papers show the reason why, 
+for it appears from them that a bargain was made shortly after 
+by the Controleur General with a different company. Mr Short mentioned this to me on his return hither in the end of 
+March, telling me that the parties concerned were, as he was 
+informed in Amsterdam, men of no credit nor capital. I of 
+course agreed with him in opinion, that if so, it was not worth 
+while to listen to them. 
+</p><p>
+A few days after one of them called on me, and after giving a history of the affair, begged me to make use of my good 
+offices. I told him at once that it was ridiculous to ask a com 
+mission of five per cent on changing the nature of our debt. 
+That it was quite as convenient to owe France as to owe the 
+subjects of France ; and further, that before any treaty was offered, persons of credit and capital should appear. As soon 
+as I made this last observation, he drew out the letter of the 
+Comptroller General, and showing me the second clause of it, replied; that after what was there contained no man had a right 
+to question the solidity of the society. He then added, that 
+for my private satisfaction he would prove that people of the 
+first fortune were connected therein, and indeed he gave me 
+such proof. I told him upon this, that they must apply to 
+Mr Short, or to their own ministry, whose support would be 
+much more efficacious than the sentiments of any private individual. I mentioned nevertheless to Mr Short, the substance 
+of this conversation. While he was in the country the enclosed letter was received. He returned to town yesterday, and 
+called on me in the evening, when I communicated to him the 
+purport of it. 
+</p><p>
+I have ever been of opinion, that as we are not in condition 
+to pay our debt to France, a bargain by which the period can 
+be prolonged, without loss to either party, is desirable. I say 
+without loss, because the conduct of this nation has been so 
+generous to us, that it would be very ungrateful indeed to take 
+advantage of those necessities, which the succor afforded to 
+America has occasioned. Such bargain must be either with 
+the government or with individuals. But after the repeated 
+delays on our part, to ask longer time would not look well. 
+Indeed no such treaty could be made without the consent of 
+the Assembly, and their observations would not be pleasant. 
+A bargain with individuals has the advantage of bringing in 
+the aid of private interest to the support of our credit, and 
+what is of very great consequence, it would leave us at liberty 
+to make use of that credit for the arrangement of our domestic 
+affairs. And on this head I must mention to you, my dear 
+Sir, that it has been my good fortune to prevent some publications, which would have been particularly injurious to us. 
+Their object was to complain of the United States for speculating in their own effects with the funds of France ; urging that 
+while we owed heavy instalments already due here, all the 
+loans we obtain in Holland ought to be applied to the discharge of them, and therefore that the speculations in our domestic debt were a double violation of good faith, &ic. &c. 
+The present state of things here has occasioned so great a 
+fall in the exchange, that money borrowed in Holland is remitted with great gain, consequently loans made there just 
+now answer well, and it is evident that the parties, who are 
+endeavoring to contract, count on a considerable profit from 
+that circumstance. Much however is to be said on this part 
+of the subject. 
+</p><p>
+First, it is questionable whether our reputation may not be 
+a little affected, for you will recollect that about one third of 
+our debt to France arose from a loan made on our account in 
+Holland of five millions of florins, for which the King paid us here 
+ten millions of livres, without any deduction for charges of any 
+sort. The nation is now obliged to pay this five millions in 
+Holland, and for us to borrow that amount there, and then 
+squeeze them in an exchange, which distresses both their commerce and finances, looks hard. There was a good deal of 
+murmuring about it when the last operation of 1,500,000 guilders took place, and I should not be at all surprised if some 
+patriot, by way of showing his zeal, should make a violent at 
+tack in the Assembly when the next payment is made. There 
+are many of these patriots, who if they can inculpate ministers 
+and distress those of different sentiments, do not care a jot for 
+consequences. 
+</p><p>
+But supposing this not to happen, it is not possible for a 
+nation to make the advantage, which individuals do in such 
+things, because they must employ individuals, each of whom 
+will be too apt to look a little to his own advantage. There is 
+a difference also between the gain made upon parts, and that 
+which would arise on the whole, for even if we could borrow all 
+at once so large a sum, there can be no doubt that the remittance of it hither would greatly alter the exchange. But it is 
+not possible to borrow it speedily, and the present unnatural 
+state of things will, in all probability, be changed. In fact the 
+leading characters are very seriously alarmed at it. If their 
+paper currency should be either redeemed, or annihilated, 
+or abolished tomorrow, the exchange would immediately turn 
+in favor of France, and then we should lose on remittances. 
+</p><p>
+So much for this affair in its little details ; but there is a 
+great view of it, which forcibly strikes my mind. If we were at 
+liberty to turn all our efforts towards our domestic debt, we 
+should by raising its value prevent speculations, which are very 
+injurious to the country, if not to the government. Millions 
+have already been bought at a low price, and afterwards negotia 
+ted in Europe. Neither is that all, for if we can borrow at 
+five per cent and buy up our six per cent debt at par, we gain 
+at once by that operation one fifth of the interest, or twenty per 
+cent, which, besides all the other good consequences, is much 
+more than ever we shall get by any management of our debts 
+on this side of the water. 
+</p><p>
+I have given you, my dear Sir, these hints in abridgement, 
+because my time will not admit of dilating them ; attribute them, 
+I pray you, to the true cause, and believe me always very sincerely yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

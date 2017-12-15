@@ -1,0 +1,58 @@
+<letter id="joj4078">
+<recipient first="Gilbert Du Motier" last="Lafayette" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='19'>19th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+It was not before this morning that I was informed that 
+the bearer of this letter was going to France, and to sail tomorrow ; and business and company have not till now (late 
+in the evening), permitted me to sit down to write to you. 
+I cannot, however, omit this opportunity of sending you a 
+few lines, which, though not very interesting, will nevertheless evince my attention to a correspondence, from which 
+I promise myself much pleasure as well as much information. 
+</p><p>
+The removal of Congress to this place necessarily occasioned a suspension of business, and delayed their maturing 
+several matters which they had under consideration. They 
+have, within a few days past, made a house, and as they 
+possess both talents and temper, there is reason to presume that the Union will derive advantage from their 
+measures. 
+</p><p>
+Advices from Kentucky inform us that they are threatened 
+with an Indian war ; and there is some room to conjecture 
+that such an event would not be disagreeable to our western 
+neighbours, who, if they do interfere, will certainly be more 
+cunning than wise. That settlement increases with a degree 
+of rapidity heretofore unknown in this country, and increase 
+it will, notwithstanding any attempt of anybody to prevent it. 
+</p><p>
+Federal ideas begin to thrive in this city, and I suspect 
+in a few days to communicate to you a circumstance which 
+will strongly manifest it. 
+</p><p>
+Although we cannot be immediately interested in the 
+war, which it is thought will take place between the emperor 
+and the Dutch, yet we may be affected by its consequences, 
+and, therefore, must wish to know who will, and who will 
+not, probably take sides with this or that party, in case of a 
+rupture. 
+</p><p>
+Have we any reason to flatter ourselves that you will 
+encourage us to drink your wines, by permitting your islands 
+to eat our bread ? or will Bordeaux (as is said) constrain 
+Versailles to patronise a provincial monopoly at the expense 
+of a more liberal policy ? Commercial privileges, granted 
+to us by France, at this season of British ill-humour, would 
+be particularly grateful; and afford conclusive evidence 
+against its being the plan of the two kingdoms to restrain 
+our trade to the islands. You know how uneasy we are 
+under these restraints, and we confide fully in your exertions 
+to remove them. I write very freely, but you are my fellow-citizen, and therefore it does not appear to me necessary to attempt to dress my ideas a la mode de Paris. 
+Believe me to be, dear sir, 
+</p><p>
+AYith great regard and esteem, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

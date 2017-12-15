@@ -1,0 +1,21 @@
+<letter id="mbc7536">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='28'>28th</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. In the drawing-room a literary lady began a violent attack upon this mischief-making South 
+Carolina. She told me she was a successful writer in the magazines of the day, but when I found she used " incredible " for " incredulous," I said not a word in defense of 
+my native land. I left her incredible. Another person came in, while she was pouring upon me her home troubles, 
+and asked if she did not know I was a Carolinian. Then she gracefully reversed her engine, and took the other tack, 
+sounding our praise, but I left her incredible and I remained incredulous, too. 
+</p><p>
+Brewster says the war specks are growing in size. Nobody at the North, or in Virginia, believes we are in ear 
+nest. They think we are sulking and that Jeff Davis and Stephens are getting up a very pretty little comedy. The Virginia delegates were insulted at the peace conference; 
+Brewster said, " kicked out." 
+</p><p>
+The Judge thought Jefferson Davis rude to him when the latter was Secretary of War. Mr. Chesnut persuaded the Judge to forego his private wrong for the pub 
+lic good, and so he voted for him, but now his old grudge 
+has come back with an increased venomousness. What a 
+pity to bring the spites of the old Union into this new one ! 
+It seems to me already men are willing to risk an injury to 
+our cause, if they may in so doing hurt Jeff Davis. 
+</p>
+</letter>

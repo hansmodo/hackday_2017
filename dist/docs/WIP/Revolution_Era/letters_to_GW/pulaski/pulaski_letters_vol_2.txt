@@ -1,0 +1,281 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.6DTZ1q on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--kap
+--DOC-AUTHOR-FIRST--Kazimierz
+--DOC-AUTHOR-LAST--Pulaski
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="kap3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+[<a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>.] 
+</p><p>
+SIR, 
+</p><p>
+I make no doubt but your Excellency is acquainted with the present ineffective state of the cavalry. 
+In this situation it cannot be appropriated to any other service than that of orderlies, or reconnoitering 
+the enemy's lines, which your Excellency must be 
+persuaded is not the only service expected from a 
+corps, which, when on a proper footing, is so very 
+formidable. Although it is the opinion of many, that, 
+from the construction of the country, the cavalry can 
+not act to advantage, your Excellency must be too 
+well acquainted with the many instances wherein the 
+cavalry have been decisively serviceable, to be of this 
+opinion, and not acknowledge that this corps has more 
+than once completed victories. To this end I would 
+wish to discipline the cavalry ; and I flatter myself by 
+next campaign to render it essentially serviceable. 
+</p><p>
+What has greatly contributed to the present weak 
+state of the cavalry was, the frequent detachments 
+ordered to the suite of general and other officers, 
+while a Colonel commanded, which were appropriated 
+to every use, and the horses drove at the discretion 
+of the dragoons. 
+</p><p>
+The confidence, with which the Congress and your Excellency have honored me, is a sure guaranty to 
+the zeal I shall ever act with, in the service of the 
+United States. But, notwithstanding my great desire 
+of rendering the cavalry as useful as its first institution intended, I find it impracticable, seeing it is deficient in its principal requisitions ; my reflections on 
+which, I have judged necessary to communicate to 
+your Excellency, as a proof of my attachment to the 
+good of the service, and desire of executing your Excellency's designs ; hoping for an opportunity of 
+deserving the favor conferred on me by your Excellency. 
+</p><p>
+ARTICLE I. It is absolutely necessary, that the cavalry have a Master of Exercise, who should instruct 
+the commissioned and non-commissioned officers in the 
+rules of service, as, having the command,, I am obliged 
+to act with precaution; but this officer, actuated by 
+different motives, would remove the bad habits and 
+correct the defects of the superior officers. There is 
+an officer now in this country, whose name is Kowacz. 
+I know him to have served with reputation in the 
+Prussian service, and assure your Excellency that he 
+is every way equal to this undertaking. 
+</p><p>
+II. That twenty-four dragoons be drafted from the 
+different regiments to form a separate corps, who shall 
+be taught the use of the pike or lance, of which two 
+or three days will render them masters. For this purpose I must have chosen men. 
+</p><p>
+III. A Quartermaster-General to the cavalry is essentially necessary to procure winter-quarters, stables, 
+and provender, also to provide arms, accoutrements, 
+and clothing. An intelligent officer, acquainted with 
+the cavalry, should be chosen for this purpose. I 
+would recommend to your Excellency, Major Blackden, of Colonel Sheldon's regiment, a gentleman who 
+has displayed his knowledge in the equipment of said 
+regiment, and whom I think sufficiently qualified to 
+merit this trust. 
+</p><p>
+IV. It is full time the Quartermaster-General was 
+sent to the place assigned for winter-quarters, in order to provide magazines, that the cavalry may be 
+kept embodied and conveniently exercised and disciplined. The horse service has ever been respected. 
+One third of the cavalry is generally on duty, often 
+the whole. When it returns to camp, it should draw 
+provision, and cook it agreeably to orders ; but their 
+full allowance is seldom granted. This I know by 
+experience, being the worst served of any General in 
+the service. To prevent this evil, a Commissary should 
+be appointed to the cavalry. The cavalry in an army 
+generally forms a separate division, and has greater 
+privileges than the infantry, which the honor of the 
+service exacts ; but here I find it is the contrary. Not 
+that I aim at a superiority over the rest of the army, 
+but am desirous of having justice done the corps I 
+command. It is my duty. For my own part I wish to 
+be subject to your Excellency's order only, agreeably 
+to my request upon entering the service, which is 
+the limit of my ambition. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=kap" rel="me">PULASKI</a>. 
+</p>
+</letter><letter id="kap3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value="19">19</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+In my preceding representations, I have been particular respecting the present state of the cavalry, 
+and the means by which it may be augmented and 
+completed ; but, on this head, I must necessarily know 
+your Excellency's determination. The advantages that 
+would arise from a superiority in cavalry are too obvious to be unnoticed. It may be further observed 
+that, during this war, the country will daily become 
+more open and clear of woods and fens, and consequently better adapted to the manoeuvres and service 
+of the cavalry. 
+</p><p>
+While we are superior in cavalry, the enemy will 
+not dare to extend their force, and, notwithstanding 
+we act on the defensive, we shall have many opportunities of attacking and destroying the enemy by 
+degrees ; whereas, if they have it in their power to 
+augment their cavalry, and we suffer ours to diminish 
+and dwindle away, it may happen that the loss of a 
+battle will terminate in our total defeat. Our army, 
+once dispersed and pursued by their horse, will never 
+be able to rally. Thus our retreat may early be cut 
+off, our baggage lost, our principal officers taken, and 
+many other events occur not less fatal. 
+</p><p>
+Your Excellency must be too much occupied to 
+take cognizance of the detail of every department, 
+A workman requires proper tools to carry on his 
+business, and, if he does not use them in their place, 
+he cannot be perfect. Your Excellency is undoubtedly acquainted with yours ; therefore a person, possessing your confidence, and properly authorized, is 
+essentially necessary to answer decisively such proposals as I have made in my late representations respecting the cavalry. 
+</p><p>
+I must not omit to mention, here, the dissatisfaction 
+you have expressed at my seeming inattention to 
+your orders. Your Excellency may be assured, that 
+the good of the service is my constant study, but the 
+weak state of the corps I command, renders it impossible to perform every service required ; nay, my reputation is exposed, as, being an entire stranger in 
+the country, the least accident would suffice to injure 
+me ; but, notwithstanding, I cannot avoid harding 
+every thing that is valuable in life. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=kap" rel="me">PULASKI</a>. 
+</p>
+</letter><letter id="kap3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I arrived here yesterday with the cavalry, where I 
+expected to have found forage sufficient to subsist the 
+cavalry, at least for a few days. My Brigade Forage-master had been informed, by Colonel Biddle, that such 
+provision was made, and that he would have nothing 
+more to do than issue the same ; but, so far to the 
+contrary, there was not a load of hay in town. With 
+the greatest difficulty we have "been enabled to put 
+our heads under cover. I applied to the civil magistrates for directions relative to the forming a magazine. In the mean while, the horses must subsist. I 
+am, therefore, obliged to divide them into several 
+squads, and send them out about two miles in the 
+rear of the town, until the necessary provision, both 
+for forage and quarters, can be made. 
+</p><p>
+It will be impossible for me to quarter the cavalry 
+in this place, unless the galley-men are removed ; but 
+they say they have an order from the Governor and 
+Council to remain here ; and, having prior possession, 
+think they are entitled to hold it. I wait your Excellency's positive order in what manner to proceed; 
+and if, in this case, I must execute my first orders, 
+it will be necessary that the galley-men should receive orders to evacuate the town. I have the honor 
+to assure your Excellency that the cavalry is in want 
+of every article. It must be exercised and taught 
+the service, from the Colonel to the private. Colonel Kowacz is a man of great merit, and deserves the 
+charge of Master of Exercise. He is an officer worthy 
+of research ; and, exclusive of a thorough knowledge 
+of his abilities, I request his being employed by your Excellency. I can recommend, and assure your Excellency will never have reason to repent your confidence in him. If this proposal should be agreeable 
+to your Excellency, the sooner I am informed the 
+better, as he will be of infinite service to the cavalry 
+this winter in quarters. 
+</p><p>
+I have met with an armourer, who lives at Easton. 
+He undertakes to furnish me with pikes, pistols, carbines, &c. If your Excellency approves of him, the 
+Quartermaster-General will take your orders on that head. 
+</p><p>
+There are some excellent horses in this country ; 
+and; as Colonel Luterloh has received orders to press 
+all horses fit for the service, he may procure a number here ; but this must not be delayed, as I am in 
+formed many persons buy them for the use of the 
+enemy. I am, with respect, your Excellency's 
+</p><p>
+Very humble, and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=kap" rel="me">PULASKI</a>. 
+</p>
+</letter><letter id="kap3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+Without going into a detailed history of my life, 
+which would be too long, it will suffice to say to 
+you, in the language of an old soldier and of a 
+citizen, that, in coming to America, my sole object 
+has been to devote myself entirely to her welfare 
+and glory, in using every exertion in my individual 
+power to secure her freedom. 
+</p><p>
+I think the nation was satisfied of my sentiments 
+when it saw that I accepted the post of Brigadier General of cavalry, though a long service, and my 
+former rank of Commander-in-chief of the army of 
+Poland, had given me a right to expect a higher position. But the sole desire to distinguish myself by 
+my zeal in the cause of the United States, has disposed me to sacrifice my repose and my life to its 
+support, at all times, and in whatever position. I 
+venture to flatter myself, Sir, that my conduct at the 
+head of the cavalry has proved this to the complete 
+satisfaction of the people and the Honorable Congress ; 
+happy, General, if I may now be assured of that confidence, on your part, to which I aspire, and if, as I 
+hope, you will honor with your approbation a plan 
+which I have conceived with a sole view to the 
+public good. Here it is, just as I have conceived it 
+to be best adapted to benefit the army and the 
+public. 
+</p><p>
+The corps placed under my command shall be in 
+dependent, and formed of the two companies of 
+horse and of six companies of infantry. If the Board 
+of War, on which it will depend, shall see fit to en 
+large it, on seeing, by experience of its courage and 
+conduct, that it might be thus made of greater utility, it will be for them to decide. 
+</p><p>
+The duty of the Commandant-m-chief of this corps 
+will be always to observe, very close at hand, all the 
+movements of the enemy ; to take upon himself different enterprises, of the nature of surprises, ambuscades, affairs of posts, rear-guards, protecting flanks, 
+&c., and to advise the Commander-in-chief of the 
+army, and the Board of War, of every thing which 
+he shall find to be of interest. It is easy to see 
+that the whole system of the Commander of such a 
+corps is simply one of active operation. So that, 
+without enlarging on the advantages to be derived 
+from it, it is easy to see that a corps which shall 
+have no other object than to surprise the enemy, to 
+watch them incessantly, and attack them at all points 
+by continual surprises, must be of great utility. 
+</p><p>
+The corps will be recruited from the people of the 
+country, from deserters, and from prisoners of war, 
+agreeably to the letter of General <a href='/results.php?city=washington' rel='city'>Washington</a>. 
+</p><p>
+I would propose, for my subaltern, an experienced 
+officer, by name Kow r acz, formerly a Colonel and partisan in the Prussian service. And as my plan is to 
+employ all the other officers whom I personally know 
+to be capable of serving with distinction and honor, 
+after obtaining the consent of the Honorable Congress for the execution of the plan, I shall have the 
+honor to mention them. 
+</p><p>
+The muskets for the infantry, the pistols for the 
+lancers, the sabres, and the horses, to be furnished 
+me as soon as possible. I will undertake to execute 
+the rest; and as it is difficult to find leather for 
+boots, saddles, &c., I request an order upon the Commissary of Leather to furnish it to me, and upon the 
+different Commandants where my recruits may be, for 
+quarters and rations. 
+</p><p>
+I hope that the instructions may be such, that one third of the cost of equipping the corps may be furnished at once ; another third, in proportion as the 
+corps is filled up ; and so on. 
+</p><p>
+You enjoy, General, the most distinguished, estimation in our army. I reverence your virtue and your valor; and your military knowledge gives me a 
+confident hope, in presenting this view, of the success 
+of a plan which is only interesting to me through 
+my desire to make myself useful to the nation. 
+</p><p>
+I hope, General, that you will do me the favor to 
+obtain a prompt decision. 
+</p><p>
+C. <a href="http://www.familytales.org/results.php?tla=kap" rel="me">PULASKI</a>. 
+</p>
+</letter>

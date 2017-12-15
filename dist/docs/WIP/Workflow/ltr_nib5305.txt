@@ -1,0 +1,20 @@
+<letter id="nib5305">
+<recipient first="James" last="Webb" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9th</a> . <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+Dear Sir 
+</p><p>
+I have this morning had the pleasure of receiving your favor of the 8th inst. We have waited for the adjournment of 
+Congress before taking any final course in regard to the Bank, because till then the movement of the Government was uncertain. The subject is now under examination by a Commit 
+tee of the Board who will probably report in a day or two. My own individual opinion is, that having reached the point 
+of entire safety &amp; being in some sort divorced from the Executive, the Bank is now at liberty to consult exclusively the 
+interest of the Stockholders and the Community. In such a 
+state of things it seems inexpedient to impose or to continue 
+curtailments merely for the sake of any effect they might be 
+presumed to produce abroad, and I shall not be surprized if 
+further reductions of the loans should be suspended. No 
+determination, however, is yet made, and therefore nothing 
+should be said about it in your journal I should think at present. 
+</p>
+</letter>

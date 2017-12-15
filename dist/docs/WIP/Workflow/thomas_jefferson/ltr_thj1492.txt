@@ -1,0 +1,25 @@
+<letter id='thj1492'>
+<recipient first='Lister' last='Asquith' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, January 13, <a href="/results.php?year=1786">1786</a>.
+</p><p>
+Sir,
+</p><p>
+I have duly received your letter of the 2nd instant. The delays, which
+have attended your enlargement, have been much beyond my expectation.
+The reason I have not written to you for some time, has been the
+constant expectation of receiving an order for your discharge. I have
+not received it however. I went to Versailles three days ago, and made
+fresh applications on the subject. I received assurances which give me
+reason to hope that the order for your discharge will soon be made out.
+Be assured it shall not be delayed a moment after it comes to my hands,
+and that I shall omit no opportunity of hastening it. In the mean time,
+I think you may comfort yourself and companions with the certainty of
+receiving it ere long.
+</p><p>
+I am, Sir, your most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p><p>
+
+</letter>

@@ -1,0 +1,19 @@
+<letter id="smd7843">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana] <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Brother writes that rumors of the capture of <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a> by our troops have made him very uneasy 
+about us; and he wishes us to go down to <a href='/results.php?city=new orleans' rel='city'>New Orleans</a> if possible. I wish we could. The impression 
+here, is that an attack is inevitable, and the city papers found it necessary to contradict the rumor 
+of Ruggles having occupied it already. I wish mother would go. I can see no difference there or here, 
+except that there, we will be safe, for a while at least. . . . 
+</p><p>
+I grow desperate when I read these Northern papers reviling and abusing us, reproaching us for 
+being broken and dispersed, taunting us with their victories, sparing no humiliating name in speaking of 
+us, and laughing as to what " we ll see" when we vile rebels are " driven out of Virginia, and the glorious 
+Union firmly established." I can't bear these taunts! I grow sick to read these vile, insulting papers that 
+seem written expressly to goad us into madness ! . . . There must be many humane, reasonable men in 
+the North ; can they not teach their editors decency in this their hour of triumph? 
+</p><p>
+</letter>

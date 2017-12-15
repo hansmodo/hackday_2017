@@ -1,0 +1,44 @@
+<letter id="joj4087">
+<recipient first="Benjamin" last="Franklin" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your grandson, whom it gave me great pleasure to see, 
+delivered to me a few days ago your kind letter of the 21st 
+of last month. Your being again with your family, the 
+manner in which the French court parted with you, the 
+attention you experienced from your English friends, and 
+the reception you met with from your fellow-citizens, are 
+circumstances that must give you great satisfaction. 
+</p><p>
+It strikes me that you will find it somewhat difficult to 
+manage the two parties in Pennsylvania. It is much to be 
+wished that union and harmony may be established there, 
+and if you accomplish it. much honour and many blessings 
+will result from it. Unless you do it, I do not know who 
+can ; for, independent of experience and talents, you possess 
+their confidence, and your advice and measures must derive 
+very great weight from the reputation and consideration 
+you enjoy. 
+</p><p>
+We are happy to find that you think of visiting NewYork. By the road from Burlington and Amboy, which is 
+smooth and but short, you might doubtless come with very 
+little inconvenience ; especially as you may travel at your 
+leisure, and take as many days for it as your ease and the 
+weather may require. Mrs. Jay is exceedingly pleased 
+with this idea, and sincerely joins with me in wishing to see 
+it realized. Her attachments are strong, and that to you, 
+being founded in esteem and the recollection of kind offices, 
+is particularly so. I suspect your little friend has forgotten 
+your person. Your name is familiar to her, as, indeed, it 
+will be to every generation. 
+</p><p>
+With the best wishes, I am, dear sir, 
+</p><p>
+Your obliged and affectionate servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,45 @@
+<letter id="jod3619">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='27'>27</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I DINED yesterday with <a href='/results.php?tla=mad' rel='colleague met'><a href='/results.php?tla=mad' rel='colleague met'>Mr. Madison</a></a>. <a href='/results.php?tla=dol' rel='acquaintance met'>Mrs. Madison</a> is a fine woman, and her two sisters are equally so. 
+One of them is married to George Washington, one of the two nephews of the President who were some 
+times at our house. <a href='/results.php?tla=gwa' rel='colleague met'>Mr. Washington</a> came and civilly inquired after your health. These ladies, whose name was Payne, are of a Quaker family, once of North Carolina. 
+</p><p>
+The treaty with Spain is arrived, and is according 
+to our wishes. The Algerine treaty is horridly costly. 
+It is worse than the British, but will not be so fiercely 
+opposed. 
+</p><p>
+There is no vessel here for <a href='/results.php?city=boston' rel='city'>Boston</a>. I cannot yet 
+send any seeds. 
+</p><p>
+The great affair is as it was. I hear frequent reflections which indicate that Jefferson, although in 
+good hands, he might do very well ; yet, in such 
+hands as will hold him, he would endanger too much. 
+Some persons of high consequence have spoken to 
+me confidentially, but in general there is great delicacy on that head, and I hold an entire reserve. The 
+question with me is between entire ease and entire 
+disquietude. I will not fly from the latter, nor will I 
+court it. I can live as happily without a carriage as Hamilton. 
+</p><p>
+Two great political questions have been agitated in 
+the Supreme Court, one about Virginia debts paid 
+into the treasury, the other, the constitutionality of 
+the carriage tax. Hamilton argued this last with his 
+usual splendor of talents and eloquence, as they say. 
+In the course of his argument he said no man was 
+obliged to pay the tax. This he knew by experiment ; for after having enjoyed the pleasure of riding 
+in his carriage for six years, he had been obliged to 
+lay it down again and was happy. 
+</p><p>
+There is no hope of getting away till June. The House never went so slowly on. 
+</p><p>
+I am 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

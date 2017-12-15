@@ -1,0 +1,123 @@
+<letter id="alh3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I arrived here last night from <a href='/results.php?city=albany' rel='city'>Albany</a>. Having 
+given <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> a little time to recollect himself, 
+I renewed my remonstrances on the necessity and 
+propriety of sending you more than one brigade of 
+the three he had detained with him, and finally prevailed upon him to give orders for Glover's, in addition to Patterson's brigade, to march this way. As 
+it was thought conducive to expedition to send the 
+troops by water, as far as it could be done, I pro 
+cured all the vessels that could be had at <a href='/results.php?city=albany' rel='city'>Albany</a> fit 
+for the purpose, but could not get more than sufficient to take in Patterson's brigade. It was embarked the 7th instant, and I expected would have been 
+here before this, but the wind has been contrary, 
+though they must, in all probability, be here to-day. 
+General Glover's brigade marched at the same time 
+on the east side of the river, the road being much 
+better there than on this side. I am this moment 
+informed that one sloop, with a part of Patterson's, 
+is arrived, and that the others are in sight. They 
+will immediately proceed by water to King's Ferry, 
+and thence take the shortest route to you. 
+</p><p>
+I am pained, beyond expression, to inform your Excellency that, on my arrival here, I find every thing 
+has been neglected and deranged by <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, 
+and that the two brigades, Poor's and Learned's, still 
+remained here and on the other side the river at 
+<a href='/results.php?city=fishkill' rel='city'>Fishkill</a>. Colonel Warner's militia, I am told, have 
+been drawn to <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, to aid in an expedition 
+against <a href='/results.php?city=new york' rel='city'>New York</a>, which, it seems, is at this time the 
+hobby-horse with <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>. Not the least attention has been paid to my order, in your name, fora detachment of one thousand men from the troops 
+hitherto stationed at that post. Every thing is sacrificed to the whim of taking <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+The two brigades of Poor and Learned, it appears, 
+would not march for want of money and necessaries, 
+several of the regiments having received no pay for 
+six or eight months past. There has been a high 
+mutiny among the former on this account, in which a 
+Captain killed a man, and was shot himself by his 
+comrade. These difficulties, for want of proper management, have stopped the troops from proceeding. 
+<a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> has been the only man who has 
+done any thing towards removing them ; but, for want 
+of <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>'s cooperation., has not been able 
+to effect it. He has only been able to prevail with 
+Learned's brigade to agree to march to Goshen, in 
+hopes, by getting them once on the go, to get them 
+to continue their march. On coming here, I immediately sent for Colonel Bayley, who now commands 
+Learned's brigade ; and have gotten him to engage 
+for carrying the brigade on to head-quarters as fast 
+as possible. This he expects to effect by means of 
+live or six thousand dollars, which <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> 
+was kind enough to borrow for me, and which Colonel 
+Bayley thinks will keep the men in good humor till 
+they join you. They marched this morning towards 
+Goshen. 
+</p><p>
+I shall, as soon as possible, see General Poor, and 
+do every thing in my power to get him along. I 
+hope I shall be able to succeed. 
+</p><p>
+The plan I before laid having been totally deranged, a new one has become necessary. It is now 
+too late to send Warner's militia. By the time they 
+get to you, their term of service would be out. The 
+motive for sending them, which was to give you a 
+speedy reenforcement, has, by the past delay, been 
+superseded. By <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a>'s advice, I have 
+sent an order, in the most emphatical terms, to General 
+Putnam, immediately to despatch all the Continental 
+troops under him to your assistance ; and to detain 
+the militia instead of them. 
+</p><p>
+My opinion is, that the only present use for troops 
+in this quarter is to protect the country from the 
+depredations of little plundering parties, and for carrying on the works necessary for the defence of the 
+river. Nothing more ought to be thought of. It is 
+only wasting time, and misapplying men, to employ 
+them in a fancied parade against <a href='/results.php?city=new york' rel='city'>New York</a>; for in 
+this it will undoubtedly terminate. <a href='/results.php?city=new york' rel='city'>New York</a> is no 
+object, if it could be taken ; and, to take it, would 
+require more men than could be spared from more 
+substantial purposes. <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a>'s ideas coincide with mine. He thinks that there is no need of 
+more Continental troops here than a few to give a 
+spur to the militia in working upon the fortifications. 
+In pursuance of this, I have given the directions be 
+fore mentioned ; if <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> attends to them, 
+the troops under him may be with you nearly as 
+early as any of the others (though he has unluckily 
+marched them down to Tarrytown), and General Glover's brigade, when it gets up, will be more than sufficient to answer the purposes of this post. 
+</p><p>
+If your Excellency agrees with me in opinion, it 
+will be well to send instant directions to <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> to pursue the objects I have mentioned; for I 
+doubt whether he will attend to any thing I shall 
+say, notwithstanding it comes in the shape of a positive order. I fear, unless you interpose, the works 
+here will go on so feebly, for want of men, that they 
+will not be completed in time ; whereas, it appears to 
+me of the utmost importance they should be pushed 
+with the utmost vigor. <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> will do 
+every thing in his power. I wish <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> 
+was recalled from the command of this post, and <a href='/results.php?tla=gec' rel='colleague'>Governor Clinton</a> would accept it. The blunders and ca 
+prices of the former are endless. 
+</p><p>
+Believe me, Sir, nobody can be more impressed 
+with the importance of forwarding the reinforcements 
+coming to you, with all speed, nor could anybody 
+have endeavoured more to promote it than I have 
+done ; but the ignorance of some, and the design of 
+others, have been almost insuperable obstacles. I am 
+very unwell; but I shall not spare myself to get 
+things immediately in a proper train; and, for that 
+purpose, intend, unless I receive other orders from yon, 
+to continue with the troops in the progress of their 
+march. As soon as I get General Poor's brigade in 
+march, I shall proceed to <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. I have the honor to be, with much regard and 
+respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

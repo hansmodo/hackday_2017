@@ -1,0 +1,68 @@
+<letter id='mad1652'>
+<recipient first='Edmund' last='Randolph' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, May 31, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+MY DEAR FRIEND, I have been favored with yours of the 
+19th instant, and thank you for the answer to Mr. S" John's 
+enquiries. The apprehensions of Mrs. Randolph give me unfeigned concern, but I indulge strong hopes that they proceed 
+from an imaginary cause. There are so many symptoms which 
+mimic the cancerous that it would be wrong to suffer appearances to prevail against the favorable chances. At the same 
+time, it is impossible to disapprove of the forecast with which 
+the occasion inspires you. 
+</p><p>
+Our business here goes on very slowly, though in a spirit of 
+moderation and accommodation which is so far flattering. The 
+bill for regulating the quantum of duties is not yet come back 
+from the Senate. Some alterations will be made, but none that 
+affect the substance of the plan, unless it be the abolition of a 
+small favor to the Nations in alliance with us. copied from the 
+laws of Virginia. One of our Senators, whose ideas on another 
+point excite animadversions among his constituents, seems not 
+to consult their sentiments on this. I think myself that it is 
+impolitic, in every view that can be taken of the subject, to put 
+Great Britain at once on the footing of a most favored nation. 
+The bill for collecting the duties is now before the House of 
+Representatives, and I fear will not be very quickly despatched. 
+It has passed through several hands, legal as well as Mercantile, and, notwithstanding, is in a crude state. It might certainly have been put into a better ; though in every step the 
+difficulties arising from novelty are severely experienced, and 
+are an ample as well as just source of apology. Scarcely a day 
+passes without some striking evidence of the delays and perplexities springing merely from the want of precedents. Time 
+will be a full remedy for this evil, and will, I am persuaded, 
+evince a greater facility in legislating uniformly for all the 
+States than has been supposed by some of the best friends of the 
+Union. 
+</p><p>
+Among the subjects on the anvil is the arrangement of the 
+subordinate Executive departments. A unity in each has been 
+resolved on, and an amenability to the President alone, as well 
+as to the Senate by way of impeachment. Perhaps it would 
+not be very consistent with the Constitution to require the concurrence of the Senate in removals. The Executive power seems 
+to be vested in the President alone, except so far as it is qualified by an express association of the Senate in appointments; 
+in like manner as the Legislative is vested in Congress, under 
+the exception in favour of the President's qualified negative. 
+Independently of this consideration, I think it best to give the 
+Senate as little agency as possible in Executive matters, and to 
+make the President as responsible as possible in them. Were 
+the heads of departments dependent on the Senate, a faction in 
+this branch might support them against the President, distract 
+the Executive department, and obstruct the public business. 
+The danger of undue power in the President from such a regulation is not to me formidable. I see and politically feel that 
+that will be the weak branch of the Government. With a full 
+power of removal, the President will be more likely to spare 
+unworthy officers through fear than to displace the meritorious 
+through caprice or passion. A disgusted man of influence would 
+immediately form a party against the administration, endanger 
+his re-election, and at least go into one of the Houses and torment him with opposition. 
+</p><p>
+I cannot close this without a disagreeable recollection of the 
+date of my last. I am most negligent towards my best friends 
+perhaps, because I have most confidence in their forgiveness. I 
+will at least, in future, inclose the newspapers, when I can do 
+no more. I never had less time that I could truly call my own 
+than at present, of which I hope you will consider my irregular 
+correspondence as the fullest proof. 
+</p><p>
+Very truly and most affec. 
+</p>
+</letter>

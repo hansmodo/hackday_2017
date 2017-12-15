@@ -1,0 +1,54 @@
+<letter id="jod3646">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='17'>17</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HOPE to get into the house on Monday next, but 
+shall purchase no nice furniture till you come. I 
+shall make a little establishment for myself and keep 
+bachelors hall for some time. I have procured 
+some horses and a carriage, and ride on horseback as 
+often as the weather will permit. 
+</p><p>
+We have no authentic news from Europe. These 
+long east winds may bring us something. I sent you 
+the last letters from our sons dated about the middle 
+of December. Mr. Murray is to go to Holland arid 
+Mr. Dandridge as his secretary, so that Thomas will 
+come home directly, I hope. I would not even ad 
+vise him to go to France. I hope to have one of my 
+children near me. It would have given me great 
+pleasure to have had some ( f my family present at my 
+inauguration, which was the most affecting and over 
+powering scene I ever acted in. I was very unwell, 
+had no sleep the night before, and really did not know 
+but I should have fainted in presence of all the world, 
+I was in great doubt whether to say any thing or not 
+besides repeating the oath. And now, the world is 
+as silent as the grave. All the federalists seem to be 
+afraid to approve any body but Washington. The 
+Jacobin papers damn with faint praise, and undermine 
+with misrepresentation and insinuation. If the federalists go to playing pranks, I will resign the office, 
+and let Jefferson lead them to peace, wealth and power if he will. 
+</p><p>
+From the situation where I now am, I see a scene 
+of ambition beyond all my former suspicions or imaginations ; an emulation which will turn our government topsy-turvy. Jealousies and rivalries have been 
+my theme, and checks and balances as their antidotes 
+till I am ashamed to repeat the words ; but they 
+never stared me in the face in such horrid forms as 
+at present. I see how the thing is going. At the 
+next election England will set up Jay or Hamilton, 
+and France, Jefferson, and all the corruption of Po 
+land will be introduced ; unless the American spirit 
+should rise and say, we will have neither John Bull nor 
+Louis Baboon. 
+</p><p>
+Silence. 
+</p><p>
+Yours affectionately, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

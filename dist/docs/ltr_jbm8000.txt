@@ -1,0 +1,32 @@
+<letter id='jbm8000'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+U. S. Ship Portsmouth,<br>
+<a href='/results.php?city=san francisco' rel='city origin'>Bay of San Francisco</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : On the 31st ulto., the day previous to my sailing from <a href='/results.php?city=monterey' rel='city'>Monterey</a>, a courier from <a href="/results.php?tla=ahg" rel="colleague">Lieut. Gillespie</a> to the U. S. Consul arrived bringing the only 
+definite intelligence of your movements and position since my arrival at that 
+port on the 22d of April last. The instructions under which I am now serving and which may detain me until late in the fall, or longer, upon this coast, 
+have relation specifically to the objects of affording protection to the persons and property of citizens of the United States, and of maintaining a 
+watchful care over the general interests of our country. Without reference in any manner to the enterprise in which you are so actively engaged, the 
+nature and subject of which, except so far as I may have been rightly informed by paragraph casually met with in public prints, I am totally ignorant. 
+</p><p>
+I beg leave, however prevailing myself of the return of the messenger, to assure you, sir, of the interest I feel in the successful prosecution 
+and issue of the public interests committed to your direction, and without desiring information further than you may deem necessary to enable me to aid and facilitate your operations, to express my sincere 
+desire and readiness to serve you in any manner consistent with other duties. 
+</p><p>
+Permit me to say, sir, that if you should find it convenient to visit the U. S. Ship Portsmouth during her stay in this port, that I, with the officers of the ship, will be most happy to see you. 
+</p><p>
+I shall remain here probably three weeks unless unforeseen circumstances require an earlier movement, and my present intention is to return to <a href='/results.php?city=monterey' rel='city'>Monterey</a>. 
+</p><p>
+I am, sir, very respectfully, 
+</p><p>
+Your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>, 
+</p><p>
+Commander U. S. N. 
+</p><p>
+To Capt. J. C. Fremont, Upper California. 
+</p>
+</letter>

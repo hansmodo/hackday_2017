@@ -1,0 +1,116 @@
+<letter id="nib5304">
+<recipient first="William" last="Appleton" type="individual"/>
+<p>
+<a href='/results.php?city=phil'a' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4th</a> <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+Dear Sir 
+</p><p>
+Your favor of the 2y th ult was duly received and the letter inclosed in it will not fail to receive the respectful attention due to the signers of it. 
+</p><p>
+The Board have deemed it inexpedient to change the course 
+of the Bank during the session of Congress, but when it was 
+ascertained that nothing could be done, upon the adjournment, a Committee was appointed, to consider what measures 
+would be necessary in consequence of that event. This Committee will report in a few days, and in their deliberations, 
+the views contained in the communication you have for 
+warded will have their due weight. In the mean time, I think 
+it right to say that the paper is written under an entire misapprehension of the course and situation of the Bank. These 
+gentlemen say "it is well understood that the Bank is pursuing a regular system of curtailment apparently at the rate ,. 
+of about a million of dollars per month." Now the fact is that the Bank is not curtailing its business a single dollar; no curtailment of any description has been ordered since January 
+last, and all that was then directed has with a few exceptions 
+been executed, so that the Bank has not I believe a wish to 
+reduce its present amount of loans and certainly has adopted 
+no regular system of curtailment. In respect to your own 
+Office, you know perfectly, that you have been under no 
+restriction of any kind as to the amount of your loans, and 
+that since the removal of the deposits, <a href='/results.php?city=boston' rel='city'>Boston</a> is the only point 
+in the whole establishment except <a href='/results.php?city=savannah' rel='city'>Savannah</a> (where the business voluntarily fell off after the run upon it) where no reduction was directed, and it is moreover the only place where 
+the discounts have increased, they being at this moment 
+more than half a million of dollars beyond the amount in 
+October. 
+</p><p>
+What has probably induced the belief of this curtailment is the diminition of the apparent aggregate of Loans in the published statements, but these intelligent men of business must 
+perceive that this is the natural result of this season of the 
+year of the maturity of the bills from the South, which can 
+not be replaced by other bills from the South, as the sea 
+son of purchasing them goes by, so that these reductions are 
+not compulsory but voluntary and inevitable. Of the nature 
+of these presumed curtailments I can offer no better illustration than what is furnished by the accounts up to the I 8t . of 
+July now lying before me showing the following comparison 
+of the discounts during the last month. 
+</p><p>
+Local Foreign 
+</p><p>
+Discounts Dom. Bills Totals Bills of Ecc. Aggregate 
+</p><p>
+June I, <a href='/results.php?year=1834'>1834</a> 34&gt;739)87i.2i 17,462,041.67 52,201,912.88 1,995,291.80. 54,197,204.68 
+</p><p>
+July I, <a href='/results.php?year=1834'>1834</a> 34.4 2 3&gt;92i-72 16,601,051.00 51,031,972.72 3,827,413.03. 54,852,385.75 
+</p><p>
+315,949.49 860,990.67 1,176,940.16 1,832,121.23 655,181.07 
+</p><p>
+Now there is an actual increase of discounts (for the purchase 
+of a foreign Bill is as much a loan as the purchase of an inland 
+Bill) amounting to $655,181.07, altho of those two classes 
+of Loans, the local discounts and Domestic Bills there is a 
+diminition, but this diminition is voluntary, and so far as 
+concerns the present subject is worth remarking. 
+</p><p>
+The whole diminition in local Discounts is 3I5&gt;<a href='/results.php?year=9494'>9494</a>9 
+</p><p>
+of this the diminition at <a href='/results.php?city=boston' rel='city'>Boston</a> is 201,137.13 
+</p><p>
+Now you are perfectly aware that the diminition was not directed, nor advised, nor suggested by the Bank that as 
+I far as the Bank is concerned, it is voluntary and forms no part "of a regular system of curtailment." Again; the diminition of the domestic bills is $860,990.67. This is composed \ 
+mainly of the diminished purchases at <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>, Mobile I 
+&amp; <a href='/results.php?city=charleston' rel='city'>Charleston</a> to the amount of 851,024.05, of diminished purchases at other Western and South Western Offices amount-/ 
+ing to 374,540.27. While at <a href='/results.php?city=boston' rel='city'>Boston</a> your Domestic Bills of 
+Exchange have increased $385,091.28. Your aggregate business in local Discounts &amp; Domestic Bills has increased $127,- 
+932.14 during the month of June moreover the loans of the Office are larger, much larger than they generally are at this season of the year, thus, 
+</p><p>
+Local Discounts Bills Totals 
+</p><p>
+June 24, <a href='/results.php?year=1830'>1830</a> 563,349-S9 5i7,i9i-0l 1,080,533.60 
+</p><p>
+30, <a href='/results.php?year=1831'>1831</a> 259,428.86 612,585.11 872,013.97 
+</p><p>
+28, <a href='/results.php?year=1832'>1832</a> 961,732.22 1,044,698.69 2,006,430.91 
+</p><p>
+27, <a href='/results.php?year=1833'>1833</a> 770,071 3,422,938.08 4,212,955.09 
+</p><p>
+26, <a href='/results.php?year=1834'>1834</a> 1,248,964.32 1,587,631.16 2,839,595.98 
+</p><p>
+From all this, I think our friends will perceive 1st . That 
+the Bank is not pursuing any course of curtailment at all. 
+2nd . That the last months operations have been in fact a considerable expansion of Loans and 3 rd . that of all the Cities 
+of the United States, that which has the least reason to 
+complain is <a href='/results.php?city=boston' rel='city'>Boston</a> I say emphatically <a href='/results.php?city=boston' rel='city'>Boston</a>, because 
+<a href='/results.php?city=boston' rel='city'>Boston</a> is the only Branch where no curtailments were 
+ordered, the only Branch which has actually and largely 
+increased its Loans the only Branch which from the removal of the Deposits to the present day, has had no restriction put upon the amount of its Loans. If the Board have 
+found in the situation of the Branch enough to justify the 
+exemption from these restraints, it was not certainly to be 
+presumed the party most favored should most complain. 
+</p><p>
+Having said this much, I could wish to go no farther and 
+yet I ought to add a few words more in regard to the suggestion that "it may even create a necessity for the whigs self 
+defence to separate themselves entirely from that Institution." ! regret extremely the use of such phrases since they 
+resolve themselves at last into this, that if the Bank does not 
+do what the Gentlemen wish, the political party to which 
+they belong will denounce the Bank. Now it is true that the 
+Gentlemen who administer the Bank concur in their individual characters with the party just named, and will al 
+ways be disposed to cooperate with them for general benefit, nothing could be more immediately &amp; decidedly fatal to 
+that cooperation than the appearance of any disposition to 
+coerce the Bank by political denunciations. IfjJoerefore any Political party or association desires to separate itself from the 
+Bank be it so. The parting will be a source of deep regret, but there would be deeper regret at doing wrong to avoid 
+i^ The Bank looks only to what it views the interest of the Stockholders and of the country and it will never yield any 
+art of those interests to create or relieve political friends. Already the very suggestion is calculated to be injurious. 
+I did not even venture to read that letter to the Board, be 
+cause I knew that the tone of it would excite unpleasant feelings and that that portion of the Board connected with the 
+Government might turn to the very great injury of the political party, in whose name these Gentlemen speak, the declarations contained in it. For the same reason I make this 
+a private letter to you, with liberty to communicate these 
+explanations to them. They will I hope perceive in the temper which dictates them a very strong desire that they should 
+be satisfied in regard to the general position of the Bank and especially of its disposition towards them and the community 
+around them. If we are so unfortunate as to fail in this, and are destined to have the ranks of the enemy swelled by alienated friends, much as we regret the accession of so much respectibility to the adverse party, we certainly will be less inclined to capitulate to their hostility, than to yield to their 
+friendly suggestions. In a few days I have to apprize you of the determination of the Board and mean while remain, with great regard 
+</p>
+</letter>

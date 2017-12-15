@@ -1,0 +1,66 @@
+<letter id="rim3006">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+Camp, near <a href='/results.php?city=st johns' rel='city origin'>St. John's</a>, <a rel="day origin" value="3">3</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I have the pleasure to acquaint you the garrison surrendered 
+last night. This morning, we take possession ; to-morrow, I hope 
+the prisoners will set off. Inclosed you have the capitulation, 
+which I hope will meet your approbation and that of Congress. 
+</p><p>
+I have ventured to permit an officer or two to go to their 
+families, which are in some distress, at <a href='/results.php?city=montreal' rel='city'>Montreal</a>, upon their pa 
+role. They can t do us any harm, and there would have been 
+a degree of inhumanity in refusing them. When we had played 
+on the fort some hours from our battery of four twelve-pounders, 
+on the north-west, and another, of two twelve-pounders and two 
+four-pounders, on the east side, some prisoners arrived who had 
+been taken in an action with Governor Carleton, at Longueil. He 
+made an attempt to land with thirty-four boats, full of men. 
+Warner's detachment, consisting of the Green Mountain Boys 
+and second regiment of Yorkers, repulsed them with loss ; took 
+two Indians and two Canadians prisoners. We have buried three 
+Indians, and it is supposed many in the boats must have been 
+killed ; we had not a man even wounded. This, I believe, is his 
+last effort. 
+</p><p>
+One of the above-mentioned prisoners I sent into the fort to 
+inform Major Preston of the circumstances of the action, that he 
+might judge what prospect he had of relief. It had the desired 
+effect; the garrison having been on half allowance for some time. 
+</p><p>
+I am making the necessary preparation to proceed immediately 
+to <a href='/results.php?city=montreal' rel='city'>Montreal</a>, by way of Laprairie, as the enemy have armed vessels in the Sorel. Send everybody you possibly can immediately 
+down, as it is much to be apprehended many of the men on this service will insist on returning home when their times are Expired. It will not be necessary to keep people with arms for the 
+present at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. Several men of rank in Canada are 
+among the prisoners. I have permitted them to remain at Crown 
+Point till the return of two gentlemen they send to their friends 
+for money, &c. They pleaded hard to return home ; but they 
+are too dangerous to let loose again. 
+</p><p>
+I have this moment received your letter of the 27th October. 
+Not a word of Arnold yet. I have sent two expresses to him 
+lately ; one by an Indian, who promised to return with expedition. The instant I have any news of him, I will acquaint you 
+by express. 
+</p><p>
+Colonel Easton and Major Brown, with that corps, and Mr. 
+Livingston, with, I believe, one thousand Canadians, are going to 
+wards the mouth of the Sorel, and pushing Colonel Allan Mc 
+Lean before them. McLean had many Canadians, but they 
+joined him through fear of fire and sword; you may judge easily 
+how they will fight. I send you a list of stores, articles, &c., 
+and am, my dear Sir, with respect and esteem, 
+</p><p>
+Your much obliged, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p><p>
+Neither Macpherson nor Rensselaer have commissions. 
+</p><p>
+P. S. Half after six. Just received your favor of the 31st 
+October; a good deal of artillery stores, but we have not time 
+to ascertain them. 
+</p>
+</letter>

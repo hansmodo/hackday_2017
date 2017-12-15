@@ -1,0 +1,35 @@
+<letter id="joj4130">
+<recipient first="David" last="Hartley" type="individual"/>
+<p>   	 
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='8'>8th</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Accept my thanks for the pamphlet you was so obliging 
+as to send me. It does not appear probable to me that 
+Europe is very speedily to be blessed with a general and 
+lasting peace, or that the period has already arrived when 
+reason and virtue will govern the conduct of the mass of 
+mankind. There is much reason to believe that the majority of men are neither reasonable nor virtuous ; and hence 
+it has happened, that so many systems which were calculated on the supposed prevalence of reason and virtue, have 
+proved delusive. 
+</p><p>
+The time, doubtless, will come, and is approaching, when 
+a new order of things will be introduced, and when, as the 
+human passions and vices cease to predominate, the checks 
+necessary to control them will become proportionably less 
+necessary. To see things as being what they are, to estimate then i accurately, and to act accordingly, are requisites 
+no less essential to sound politics than to sound philosophy 
+or religion. 
+</p><p>
+These are general remarks, and not made with reference 
+to the political questions agitating in this kingdom, and with 
+which (being a citizen of another country) it would not 
+become me to interfere. With the best wishes for your 
+health and happiness, I am, dear sir, 
+</p><p>
+Your friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

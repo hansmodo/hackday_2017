@@ -1,0 +1,30 @@
+<letter id="mbc7592">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. A brother of Doctor Garnett has come fresh and straight from Cambridge, Mass., and says (or is 
+said to have said, with all the difference there is between the 
+two), that " recruiting up there is dead." He came by Cincinnati and Pittsburg and says all the way through it 
+was so sad, mournful, and quiet it looked like Sunday. 
+</p><p>
+I asked Mr. Brewster if it were true Senator Toombs had turned brigadier. " Yes, soldiering is in the air. 
+Every one will have a touch of it. Toombs could not stay 
+in the Cabinet." " Why? " " Incompatibility of temper. He rides too high a horse; that is, for so despotic a 
+person as Jeff Davis. I have tried to find out the sore, but I can't. Mr. Toombs has been out with them all for 
+months." Dissension will break out. Everything does, but it takes a little time. There is a perfect magazine of 
+discord and discontent in that Cabinet; only wants a hand to apply the torch, and up they go. Toombs says old Memminger has his back up as high as any. 
+</p><p>
+Oh, such a day! Since I wrote this morning, I have been with Mrs. Randolph to all the hospitals. I can never 
+again shut out of view the sights I saw there of human misery. I sit thinking, shut my eyes, and see it all ; thinking, yes, and there is enough to think about now, God knows. Gilland's was the worst, with long rows of ill men 
+on cots, ill of typhoid fever, of every human ailment; on dinner-tables for eating and drinking, wounds being 
+dressed ; all the horrors to be taken in at one glance. 
+</p><p>
+Then we went to the St. Charles. Horrors upon horrors again; want of organization, long rows of dead and 
+dying. ;_8JEf ill sights. A boy from home had sent for me. He was dying in a cot, ill of fever. Next him a man died 
+in convulsions as we stood there. I was making arrangements with a nurse, hiring him to take care of this lad ; but 
+I do not remember any more, for I fainted. Next that I knew of, the doctor and Mrs. Randolph were having me, a 
+limp rag, put into a carriage at the door of the hospital. Fresh air, I dare say, brought me to. As we drove home 
+the doctor came along with us, I was so upset. He said: 1 Look at that Georgia regiment marching there ; look at 
+their servants on the sidewalk. I have been counting them, making an ertimate. There is $16,000 sixteen thousand 
+dollars worth of negro property which can go off on its own legs to the Yankees whenever it pleases." 
+</p>
+</letter>

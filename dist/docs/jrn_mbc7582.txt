@@ -1,0 +1,55 @@
+<letter id="mbc7582">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='1'>1st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mrs. Wigfall, with the " Lone Star " flag in her carriage, called for me. We drove to the fair 
+grounds. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> landau, with her spanking bays, rolled along in front of us. The fair grounds are as covered with tents, soldiers, etc., as ever. As one regiment moves off to the army, a fresh one from home comes to be mustered in and take its place. 
+</p><p>
+The President, with his aides, dashed by. My husband was riding with him. The President presented the flag to 
+the Texans. Mr. Chesnut carne to us for the flag, and bore it aloft to the President. We seemed to come in for part of 
+the glory. We were too far off to hear the speech, but Jeff Davis is very good at that sort of thing, and we were satisfied that it was well done. 
+</p><p>
+Heavens! how that redoubtable Wigfall did rush those poor Texans about! He maneuvered and marched them 
+until I was weary for their sakes. Poor fellows; it was a hot afternoon in August and the thermometer in the nine 
+ties. <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> uncovered to speak. Wigfall replied with his hat on. Is that military ? 
+</p><p>
+At the fair grounds to-day, such music, mustering, and marching, such cheering and flying of flags, such firing of 
+guns and all that sort of thing. A gala day it was, with double-distilled Fourth-of-July feeling. In the midst of 
+it all, a messenger came to tell Mrs. Wigfall that a telegram had been received, saying her children were safe across the 
+lines in Gordonsville. That was something to thank God for, without any doubt. 
+</p><p>
+These two little girls came from somewhere in Connecticut, with Mrs. Wigf all's sister the one who gave me my 
+Bogotsky, the only person in the world, except Susan Rutledge who ever seemed to think I had a soul to save. Now 
+suppose <a href='/results.php?tla=wls' rel=''>Seward</a> had held Louisa and Fanny as hostages for Louis Wigfall's good behavior ; eh ? 
+</p><p>
+Excitement number two : that bold brigadier, the Georgia General Toombs, charging about too recklessly, got 
+thrown. His horse dragged him up to the wheels of our carriage. For a moment it was frightful. Down there 
+among the horses hoofs was a face turned up toward us, purple with rage. His foot was still in the stirrup, and he 
+had not let go the bridle. The horse was prancing over him, tearing and plunging ; everybody was hemming him in, and 
+they seemed so slow and awkward about it. We felt it an eternity, looking down at him, and expecting him to be 
+killed before our very faces. However, he soon got it all straight, and, though awfully tousled and tumbled, dusty, 
+rumpled, and flushed, with redder face and wilder hair than ever, he rode oft gallantly, having to our admiration 
+bravely remounted the recalcitrant charger. 
+</p><p>
+Now if I were to pick out the best abused one, where all catch it so bountifully, I should say Mr. Commissary-General Northrop was the most cussed and villified man in the Confederacy. He is held accountable for everything 
+that goes wrong in the army. He may not be efficient, but having been a classmate and crony of Jeff Davis at West 
+Point, points the moral and adorns the tale. I hear that 
+alluded to oftenest of his many crimes. They say <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> writes that his army is upon the verge of starvation. 
+Here every man, woman, and child is ready to hang to the first lamp-post anybody of whom that army complains. 
+Every Manassas soldier is a hero dear to our patriotic hearts. Put up with any neglect of the heroes of the 21st July never ! 
+</p><p>
+And now they say we did not move on right after the flying foe because we had no provisions, no wagons, no 
+ammunition, etc. Rain, mud, and Northrop. Where were the enemy's supplies that we bragged so of bagging? Echo 
+answers where ? Where there is a will there is a way. We stopped to plunder that rich convoy, and somehow, for a 
+day or so, everybody thought the war was over and stopped 
+to rejoice: so it appeared here. All this was our dinnertable talk to-day. Mr. Mason dined with us and Mr. Barnwell sits by me always. The latter reproved me sharply, but Mr. Mason laughed at " this headlong, unreasonable 
+woman's harangue and female tactics and their war- ways. A freshet in the autumn does not compensate for a drought 
+in the spring. Time and tide wait for no man, and there 
+was a tide in our affairs which might have led to Washing 
+ton, and we did not take it and lost our fortune this 
+round. Things which nobody could deny. 
+</p><p>
+<a href='/results.php?tla=gbm' rel=''>McClellan</a> virtually supersedes the <a href='/results.php?tla=wfs' rel=''>Titan Scott</a>. Physically <a href='/results.php?tla=wfs' rel=''>General Scott</a> is the largest man I ever saw. 
+Mrs. Scott said, " nobody but his wife could ever know how little he was." And yet they say, <a href='/results.php?tla=wfs' rel=''>old Winfield Scott</a> 
+could have organized an army for them if they had had patience. They would not give him time. 
+</p>
+</letter>

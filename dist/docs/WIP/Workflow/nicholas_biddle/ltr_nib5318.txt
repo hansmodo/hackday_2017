@@ -1,0 +1,43 @@
+<letter id="nib5318">
+<recipient first="Thomas" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="5">May</a> <a rel='day origin' value='8'>8</a>. <a href='/results.php?year=1837' rel="origin">1837</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+I have had the pleasure of receiving your favor of the 
+29th ult, and rejoice to see in it the same vigor of mind &amp; of 
+style which I have admired for five &amp; twenty years. I hope 
+it may carry you through many Presidential Olympiads. 
+</p><p>
+1 The Van Buren MSS. in the Library of Congress show clearly that Van Buren 
+thought he ought to follow in the footsteps of President Jackson. 
+</p><p>
+I thank you for your approbation of my public conduct, 
+which, whatever may be the result, has been dictated by a 
+very honest desire to protect the great interests of the country. 
+</p><p>
+In relation to the friendly suggestion which forms the pur 
+pose of your letter, I have received from various quarters 
+intimations of a disposition to connect my name with the 
+next election of President. These I have never considered 
+seriously, nor indeed noticed at all : but to you I will speak 
+for the first time &amp; without reserve. 
+</p><p>
+I believe that the prosperity &amp; the character of the country 
+require that those who now govern it should be removed and 
+that all true men should unite to expel them each taking 
+the position, either of chief or subaltern, which the general 
+voice assigns to him. I am quite sure that I have not the 
+least affectation in saying, that to myself personally, the office 
+has not the slightest attraction. Its dignity has been degraded 
+by the elevation to it of unworthy men and as to mere 
+power, I have been for years in the daily exercise of more 
+personal authority than any President habitually enjoys. But 
+I stand ready for the country's service. If therefore you think 
+that my name can be productive of good, I am content to 
+place it as I now do, at your disposal under a conviction 
+of the friendly &amp; discreet manner in which alone it will be 
+employed. 
+</p>
+</letter>

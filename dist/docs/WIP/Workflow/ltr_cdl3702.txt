@@ -1,0 +1,28 @@
+<letter id="cdl3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to send to your Excellency an open packet for the <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>. You will 
+there find the copy of a letter to me from M. Destouches. I lament the ill success of an expedition. 
+which, if it had succeeded, would have been doubly 
+agreeable to us by its utility to our allies, and by 
+the honor it would have reflected upon the arms of 
+the King. As to the rest, it appears that our Commanders have fulfilled this latter point; and all the 
+world is satisfied that, having a superior force to 
+contend against, the manner of the contest has been 
+highly honorable to them. 
+</p><p>
+I wait for happier events. Sir, from the campaign 
+which is now about to open ; and I doubt not the 
+<a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a> has given you, in detail, the 
+news which he has received from France. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

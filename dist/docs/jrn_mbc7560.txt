@@ -1,0 +1,30 @@
+<letter id="mbc7560">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='19'>19th</a>  [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mrs. Fitzpatrick says <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> is too gloomy for her. He says we must prepare for a long war 
+and unmerciful reverses at first, because they are readier for war and so much stronger numerically. Men and 
+money count so in war. " As they do everywhere else," said I, doubting her accurate account of <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> 
+spoken words, though she tried to give them faithfully. We need patience and persistence. There is enough and to 
+spare of pluck and dash among us, the do-and-dare style. 
+</p><p>
+I drove out with <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>. She finds playing Mrs. President of this small confederacy slow work, after leaving friends such as Mrs. Emory and Mrs. <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> in Washington. I do not blame her. The wrench has been 
+awful with us all, but we don't mean to be turned into pillars of salt. 
+</p><p>
+Mr. Mallory came for us to go to Mrs. Toombs's reception. Mr. Chesnut would not go, and I decided to remain 
+with him. This proved a wise decision. First <a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a> came. In college they called him from his initials, R. 
+M. T., " Run Mad Tom " Hunter. Just now I think he is the sanest, if not the wisest, man in our new-born Confederacy. I remember when I first met him. He sat next to me at some state dinner in Washington. Mr. Clay had taken me in to dinner, but seemed quite satisfied that my other side should take me off his hands. 
+</p><p>
+<a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a> did not know me, nor I him. I suppose he inquired, or looked at my card, lying on the table, as I looked at his. At any rate, we began a conversation which 
+lasted steadily through the whole thing from soup to dessert. <a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a>, though in evening dress, presented a 
+rather tumbled-up appearance. His waistcoat wanted pulling down, and his hair wanted brushing. He delivered unconsciously that day a lecture on English literature which, if printed, I still think would be a valuable addition to 
+that literature. Since then, I have always looked forward to a talk with the Senator from Virginia with undisguised 
+pleasure. Next came Mr. Miles and Mr. Jameson, of South Carolina. The latter was President of our Secession 
+Convention; also has written a life of Du Guesclin that is not so bad. So my unexpected reception was of the most 
+charming. Judge Frost came a little later. They all remained until the return of the crowd from Mrs. Toombs's. 
+</p><p>
+These men are not sanguine I can't say, without hope, exactly. They are agreed in one thing: it is worth while 
+to try a while, if only to get away from New England. Captain Ingraham was here, too. He is South Carolina to 
+the tips of his fingers ; yet he has it dyed in the wool it is part of his nature to believe the United States Navy can 
+whip anything in the world. All of these little inconsistencies and contrarieties make the times very exciting. One never knows what tack any one of them will take at the next word. 
+</p>
+</letter>

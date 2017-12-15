@@ -1,0 +1,45 @@
+<letter id="aba3452">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1804" rel="origin">1804</a>. 
+</p><p>
+SIR 
+</p><p>
+Had you been no other than the private inhabitant of 
+<a href='/results.php?city=monticello' rel='city'>Monticello</a>, I should, ere this time, have addressed 
+you with that sympathy which a recent event has 
+awakened in my bosom ; but reasons of various kinds 
+withheld my pen, until the powerful feelings of my 
+heart burst through the restraint, and called upon me 
+to shed the tear of sorrow over the departed remains 
+of your beloved and deserving daughter. An event 
+which I most sincerely mourn. 
+The attachment which I formed for her, when 
+you committed her to my care upon her arrival 
+in a foreign land, under circumstances peculiarly 
+interesting, has remained with me to this hour ; 
+and the account of her death, which I read in a 
+late paper, recalled to my recollection the tender 
+scene of her separation from me, when with the 
+strongest sensibility, she clung around my neck and 
+wet my bosom with her tears, saying, " Oh ! now I 
+have learned to love you, why will they take me 
+from you." 
+</p><p>
+It has been some time since I conceived that any 
+event in this life could call forth feelings of mutual 
+sympathy. But I know how closely entwined around 
+a parent's heart are those cords which bind the 
+parental to the filial bosom ; and when snapped 
+asunder, how agonising the pangs. I have tasted of 
+the bitter cup and bow with reverence and submission 
+before the great Dispenser of it, without whose permission and overruling <a href='/results.php?city=providence' rel='city'>Providence</a>, not a sparrow 
+falls to the ground. That you may derive comfort 
+and consolation in this day of your sorrow and affliction from that only source calculated to heal the 
+wounded heart, a firm belief in the being, perfections and attributes of God, is the sincere and ardent 
+wish of her, who once took pleasure in subscribing 
+herself your friend 
+</p><p>
+Abigail Adams. 
+</p>
+</letter>

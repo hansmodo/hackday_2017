@@ -1,0 +1,28 @@
+<letter id="nib5296">
+<recipient first="Charles" last="Hammond" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="3">March</a> <a rel='day origin' value='11'>11</a>. <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+Dear Sir 
+</p><p>
+. . . Your remarks in regard to the proposed reduction of the loans at <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a> have been read with great 
+attention and interest. Situated as the Bank has been for some time past, its first object was necessarily its own protection, for in its safety the whole ultimate security of the 
+currency must be found. This we have striven to accomplish with the least possible pressure on the community and 
+thus far the reductions compared with the deposits are so small, that our friends rather reproach us with not having 
+done enough, than to have curtailed excessively. The de 
+posit Banks being now in full possession of the public revenue may employ it in discounts and leave the Bank of the 
+United States the opportunity of gently diminishing its business. That with so wide a circulation as 18 or 19 millions 
+which the receipts of the public revenue may place in the hands of officers who know that no service more acceptable 
+can be rendered than to employ the funds in injuring the 
+Bank, and so many vulnerable points to protect, we shall 
+deem it expedient to reduce the present amount of our loans, 
+cannot be doubted. The Executive, by removing the public 
+revenues has relieved the Bank from all responsibility for the 
+currency, and imposed upon it a necessity to look primarily 
+to the interest of the Stockholders committed to our charge. 
+Our friends must therefore bear with us, if in the midst of 
+the present troubles, we should endeavor to strengthen the 
+Bank so as to make it able here after to interpose effectively 
+for the relief of the Country. . . . 
+</p>
+</letter>

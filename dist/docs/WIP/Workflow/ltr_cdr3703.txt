@@ -1,0 +1,32 @@
+<letter id="cdr3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=princeton' rel='city origin'>Princeton</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to send to your Excellency a 
+letter, which the <a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a> begs you would send by the dragoons established on the road 
+to <a href='/results.php?city=boston' rel='city'>Boston</a> for carrying on the correspondence. It 
+contains a generous offer made by Congress to the King of a seventy-four gun ship. 
+</p><p>
+The news which I have here of the British fleet, 
+are that Admiral Pigot is got into <a href='/results.php?city=new york' rel='city'>New York</a> with 
+very few ships, himself in a bad state of health, and 
+that Admiral Hood, with the greatest part of the 
+fleet, has sailed for <a href='/results.php?city=halifax' rel='city'>Halifax</a>. If your Excellency has 
+the same intelligence confirmed, I beg you would 
+send my letter to M. de Vaudreuil. It is, however, 
+certain that M. Dumas, Deputy Quartermaster-General, 
+has seen yesterday a great part of the fleet under 
+sail before the Hook. I expect that I shall arrive, 
+with the first division, on the 14th, at Haverstraw. 
+The second division will arrive on the loth; and I 
+promise to myself a great pleasure in embracing your 
+Excellency. I am, with respect and personal attachment. Sir, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdr" rel="me">Le <a href='/results.php?tla=cdr' rel='colleague'>Compte De Rochambeau</a></a>. 
+</p>
+</letter>

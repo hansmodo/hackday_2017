@@ -1,0 +1,24 @@
+<letter id="nib5302">
+<recipient first="Solomon" last="Etting" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12</a>. <a href='/results.php?year=1834' rel="origin">1834</a> 
+</p><p>
+Dear Sir 
+</p><p>
+I have had the pleasure of receiving your favor of the 
+10th inst. which I assure you requires no apology, as I am al 
+ways not merely willing, but anxious to learn the opinion of 
+judicious friends of the Bank. 
+</p><p>
+Since the Bank has ceased to be the depository of the public revenue, the indulgence formerly given to the State } 
+Banks could scarcely be expected as it would be unreasonable and unjust to the Stockholders of the Bank of the 
+U.S. to let the State Banks have the use of a large part of its capital without interest, while they were making interest
+on it. The Board have therefore made a recent order for the J 
+periodical settlement of those balances from the State Banks. The general object was to keep down this accumulation of 
+debt from those institutions at the same time, nothing was 
+more remote from the desire of the Bank than to oppress the 
+State Institutions. On the contrary we should be disposed to give every reasonable facility in the settlement of the balances. 
+It was probably some misapprehension of the design of the Bank which occasioned the excitement to which you allude 
+&amp; which I trust will cease when the nature of these periodical regulations of the balances is better known from practice. 
+</p>
+</letter>

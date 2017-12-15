@@ -1,0 +1,21 @@
+<letter id="nib5278">
+<recipient first="John" last="Tilford" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="9">Sept'r</a> <a rel='day origin' value='26'>26th</a> <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+Dear Sir 
+</p><p>
+I send by this mail <a href='/results.php?tla=web' rel='colleague'>Mr. Webster</a>s speech on the Veto Message, and also another article reviewing that message. It 
+is desirable that these should be circulated so as to counter 
+act the injurious impressions which the message was destined 
+to make against the Institution. You will therefore cause the 
+papers, as well as <a href='/results.php?tla=hec' rel='colleague'>Mr. Clay's</a> &amp; Mr. Ewing's speeches on the 
+same subject or any other well written articles in regard to 
+the Bank to be printed and dispersed. If you think any of 
+these I have mentioned too long or elaborate for general reading, you can substitute any other matter which may have the same object. All that I wish to caution you against is, that abstaining as the Bank does from all connexion with 
+what are called party politics, you will confine your efforts exclusively to the distribution of what may be explanatory 
+of the operations and conduct of the Bank. Confined to that 
+object exclusively, you may cause to be printed and circulated any amount of such papers as you may consider necessary for the vindication of the Bank and give me an account 
+of the expense, which you will of course endeavor to make as reasonable as may consist with the object in view. 
+</p>
+</letter>

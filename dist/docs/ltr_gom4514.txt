@@ -1,0 +1,83 @@
+<letter id="gom4514">
+<recipient first="George" last="Washington" type="individual"/>
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='26'>26th</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The conduct, which the enemy may pursue, with relation 
+to us, is not quite decided. But I have not a doubt, that their efforts during the next campaign will be chiefly towards our 
+frontiers, with a view to weary us into submission. At the same time they will perhaps endeavor to keep such posts in 
+our country, as to render the communications tedious, difficult, and expensive. My ideas as to our power of carrying on the 
+war differ in some respects from those, whose opinions I respect. The .resources of the country may be drawn forth by 
+our paper, at the same time it must be confessed, that this paper will thereby be less valuable. After all, the debt does not 
+increase, for a certain sterling sum, which would have paid it 
+one year ago, will pay it now. The depreciation in the interim has operated as a tax. 
+</p><p>
+I very sincerely lament, that this tax has fallen heavy on 
+those, who have served and continue to serve their country. 
+It is a peculiar hardship upon us, that fully to relieve the evils 
+they labor under is not in our power. This leads me to the 
+petition you mention, or representation, which I have not yet 
+seen, and never wish to see. I cannot easily express to you how much I was hurt at being informed of it. Not indeed as 
+to the matter, for that I really am a stranger to, but as to the manner in which it was procured. For, in the first place, it 
+gave my enemies, (who were such in some degree for my earnest support of the claims of the army heretofore,) no small 
+cause of triumph. This, say they, is the consequence of your zeal for an establishment. Besides this, I considered myself 
+in some measure as an advocate for the army. I loved them, 
+from my acquaintance with some individuals, and for the sufferings which as a body they had bravely and patiently endured ; and, therefore, I could not but suffer when I found them taking steps, which in my opinion cannot do them honor, and 
+which incapacitated me from urging, as I otherwise should have done, every redress in our power of their grievances. 
+</p><p>
+But what chiefly affected v me was, that this meeting of delegates from brigades, in a mixture of civil and military capacity, carries with it the air of deeper design, than I believe to 
+be in the bosoms of those, who were immediately concerned. 
+It was by procedures such as these, that the good Fairfax made way for a crafty Cromwell, and that he dismissed a 
+tedious wrangling Parliament, and established a military despotism. It is a melancholy truth, that when one faction takes 
+possession of the human heart, men are hurried into extremes, 
+which make considerate people tremble. I will not do your 
+army the injustice even to permit a thought, that they wish to 
+get rid of their General. But, Sir, their, and your, and our 
+enemies, do not want the confidence to say so, and indeed to 
+say that they can prove it, and to attempt that proof from the 
+manner of procuring (agitating as they term it) the petition 
+in question. Certainly could such ideas be inculcated, it 
+would answer their views. It would also answer their views 
+to instil into the army a distrust of Congress, and therefore I 
+doubt not but the enemies of both are assiduous in this business. I find also the British commissioners are so bare faced, 
+as to hold out the bait of promotion in the royal army to such, 
+as will fall in with their designs, and doubtless a peculiar portion of their bounty will be dispensed to those, who shall sow 
+the seeds of dissensions in an army, which, as they cannot 
+conquer it, it is their only resource to divide. 
+</p><p>
+Thinking on this subject as I do, it did and does appear to me my duty, as a good citizen, thoroughly to discountenance every measure of this kind, particularly when it is 
+ushered forth, as the first mention of this affair was to me, by 
+an observation that the army had it in their power to do themselves justice. It makes me unhappy to learn, that such 
+discourse prevails I am certain that they who use it have no design ; but they should consider that it affords matter for 
+the designs of others to work upon. It has not made any serious impression, I believe, on the minds of those, whose opinions have real weight, because it is considered as one of those 
+light expressions, which flow from the luxuriance of the imagination. Little do those, who say such things, know the difficulties of subsisting an army. 
+</p><p>
+The Marquis will hand you a plan, on which I shall say 
+nothing, because I have already had a great deal of trouble 
+with it, and he could say more than I can write in a week, 
+and you know more of the subject than all of us together. 
+</p><p>
+We have no news. Let me then tell you what has the 
+merit of truth, if not the charms of novelty, that I am, dear 
+General, very sincerely yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p><p>
+P. S. <a href='/results.php?tla=chl' rel=''>General Lee's</a> affair hangs by the eyelids. We 
+spent one day upon it without even touching upon its merits. 
+The debate Was, in what manner to proceed to a decision. 
+Some contended for the propriety of resolving simply to approve or disapprove of the sentence. Others were for entering into the considerations of the charges, and the evidence 
+on them separately, without however making any entry on the 
+minutes. A third for doing this, and making the entries. 
+This, as the most systematic method, I supported, for truly I 
+know not how to determine in the lump. Granting him 
+guilty of all the charges, it is too light a punishment. And 
+if he is not guilty, in the opinion of Congress, of any one, 
+there would be an injustice in not declaring their opinion. 
+</p><p>
+Conway has again applied for a certificate of his good services, and I have again opposed the grant of it. This letter 
+lies on the table. Again, my friend, adieu.
+</p>
+</letter>

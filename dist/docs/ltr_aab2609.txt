@@ -1,0 +1,14 @@
+<letter id="aab2609">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+Sunday, <a rel="month origin" value="8">August</a> <a rel="day origin" value="4">4th</a>. [<a href="/results.php?year=1807" rel="origin">1807</a>]
+</p><p>
+MY DEAR SIR: You may take it an ill compliment that I tell you I am heartily glad to hear of your arrival. 
+<a href="/results.php?tla=joa" rel="met kin">Mr. Alston</a> and Mr. Neville successively made attempts to see you at the tavern, but were denied. Having this 
+minute heard that you have gone to my late quarters, I send to inquire of your health, of that of Mrs. Blennerhassett's, and in what I can be useful to you. What counsel shall I send you ? 
+</p><p>
+Faithfully yours, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

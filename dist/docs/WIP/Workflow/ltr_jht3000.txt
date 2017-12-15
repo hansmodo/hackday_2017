@@ -1,0 +1,49 @@
+<letter id="jht3000">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Suffer me to join in congratulating you, on your 
+appointment to be General and Commander-in-Chief of 
+the troops raised, or to be raised, for the defence of 
+American liberty. Men, who have tasted freedom, 
+and who have felt their personal rights, are not 
+easily taught to bear with encroachments on either, 
+or brought to submit to oppression. Virtue ought 
+always to be made the object of government. Justice is firm and permanent. 
+</p><p>
+His Majesty's ministers have artfully induced the 
+Parliament to join in their measures, to prosecute 
+the dangerous and increasing difference between Great 
+Britain and these Colonies with rigor and military 
+force y whereby the latter are driven to an absolute 
+necessity to defend their rights and properties by 
+raising forces for their security. 
+</p><p>
+The Honorable Congress have proclaimed a Fast to be 
+observed by the inhabitants of all the English Colonies 
+on this continent, to stand before the Lord in one day, 
+with public humiliation, fasting, and prayer, to deplore 
+our many sins, to offer up our joint supplications to 
+God, for forgiveness, and for his merciful interposition 
+for us in this day of unnatural darkness and distress. 
+</p><p>
+They have, with one united voice, appointed you to 
+the high station you possess. The Supreme Director 
+of all events hath caused a wonderful union of hearts 
+and counsels to subsist among us. 
+</p><p>
+Now, therefore, be strong and very courageous. May the God of the armies of Israel shower down 
+the blessings of his Divine <a href='/results.php?city=providence' rel='city'>Providence</a> on you, give you wisdom and fortitude, cover your head in the 
+day of battle and danger, add success, convince our 
+enemies of their mistaken measures, and that all their 
+attempts to deprive these Colonies of their inestimable 
+constitutional rights and liberties are injurious and 
+vain. I am, with great esteem and regard, Sir, 
+Your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

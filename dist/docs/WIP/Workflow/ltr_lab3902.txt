@@ -1,0 +1,29 @@
+<letter id="lab3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=st. davids' rel='city origin'>ST. DAVID'S</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours from Watbo I answered, ind expect it will be handed you 
+with this, as also yours from land's Ferry, of the 26th, is just come 
+to my hands. One-third of my regiment 1 have under orders to join 
+you, and expect with this will come in about fifty men, in addition to 
+Major Thomas division, and those that may remain behind I will send 
+with all possible expedition, so that if in my power the public service 
+may not be hindered. As to the men's being relieved monthly, it is so late 
+now that it will be impossible for me to get them in camp until near the 
+middle of the ensuing month. I am very sensible that it will make a 
+considerable confusion in the regiment, as the men do not look upon 
+themselves liable to go to camp yet, and the law will not oblige them until 
+each division does two months duty agreeably to law ; therefore, I must 
+beg to be excused in that particular, and I will send relief early in 
+October, when their tour will be out, according to law. 
+</p><p>
+I remain, with all due regard, your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=lab" rel="me">LAMB BENTON</a>, Lieut.- Col. Commandant. 
+</p><p>
+N. B. Excuse my paper, &c., which hindered me from writing more fully. L. B. 
+</p>
+</letter>

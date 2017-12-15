@@ -1,0 +1,50 @@
+<letter id="jod3581">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='12'>12</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE all along flattered myself with hopes that I 
+might with propriety have taken leave of the Senate 
+and returned home as soon as the roads might be settled, but such is the critical state of our public affairs, 
+and I daily hear such doctrines advanced and supported 
+by almost and, sometimes, quite one half of the Sen 
+ate, that I shall not prevail on myself to abandon my 
+post. This day, the senators were equally divided 
+upon a question, which seemed to me to involve no 
+thing less than peace and war, and I was obliged to 
+decide it, to the no small chagrin of a number. If 
+this country is involved in war, it shall not be by my 
+fault ; but if it comes either from the malice of our 
+enemies or the imprudence of our own people, it may 
+perhaps be found that I shall not shrink from its difficulties sooner than some who now seek it in disguise. 
+Business is now carried on with rapidity in both 
+houses, and I shall have a month of severe duty. I 
+have not been absent a day. It is, to be sure, a punishment to hear other men talk five hours every day 
+and not be at liberty to talk at all myself, especially 
+as more than half I hear appears to me very young, 
+inconsiderate, and inexperienced. 
+</p><p>
+The <a href='/results.php?city=boston' rel='city'>Boston</a> town meetine, as it terminated, did a 
+service to the public. If government must be affronted or intimidated by popular clubs and partial 
+meetings of the people, it is a pity that our cities are 
+not all as capable as <a href='/results.php?city=boston' rel='city'>Boston</a> of discussing great questions. But in <a href='/results.php?city=new york' rel='city'>New York</a> and <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> there is 
+meeting against meeting, and club against club, to 
+the utter confusion of the public opinion. 
+</p><p>
+It is rumored that we are to lose two ministers of 
+state l by resignation, but I would not have the report 
+propagated from me. I suffer many melancholy 
+hours on account of my dear mother, and as many 
+on your account. Your trial must be severe, and I 
+often wish I were with you to cheer up your spirits 
+and share a part of your cares. The spring opens, 
+the birds sing, the weather is fine, and all things cheerful, but my thoughts about my home and our public 
+prospects. 
+</p><p>
+Adieu, my dear partner, ever your 
+</p><p>
+JOHN ADAMS, 
+</p>
+</letter>

@@ -1,0 +1,58 @@
+<letter id="ben4783">
+<recipient first="Jonathan" last="Williams" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR COUSIN, 
+</p><p>
+Your favour of January 8th came duly to hand, but I 
+have been so much engaged during the sitting of Parliament, 
+that I could not correspond regularly with all my friends, 
+and have of course trespassed most with those on whose good 
+nature and indulgence I could most rely. I am, however, 
+ashamed of being so long silent. It was but the other day, 
+that I inquired after the fate of your tickets, when I received 
+the enclosed answer, whereby you will see that the whole 
+cost has not been lost. I only wished to see three ciphers 
+more following the sum. I have not any further orders from 
+you, but think to take at a venture two tickets more on your 
+account. If you disapprove and choose to rest where you 
+are, signify it by a line, before the drawing, directed to Messrs. 
+Smith, Wright, and Grey, who may then dispose of the 
+tickets. 
+</p><p>
+I am glad to hear the old gentleman, your father, is still 
+alive and happy. Please to remember me to him respectfully. Probably he can recollect but little of me, as it is a 
+good deal more than half a century since he has seen me; 
+but I remember him well, a lively, active, handsome young 
+man, with a fine full flowing head of hair. I suppose he 
+must now be near fourscore. 
+</p><p>
+If I could have given you any intimation of the intentions of government with regard to America, that might be 
+depended upon, you should have had them in good time for 
+use, in the views of trade you hint at. But there have been 
+this winter such changes of men and of minds, and such continual expectations of more and other changes, that nothing 
+was certain; and I believe that to this day the ministry are 
+not all of a mind, nor determined what are the next steps 
+proper to be taken with us. Some are said to be for severe, 
+others for lenient measures ; others for leaving things as they 
+now are, in confidence that we shall soon be tired of our 
+non-importation agreements, manufacturing schemes, and 
+self-denying frugalities, submit to the duties, and return by 
+degrees to our dear luxuries and idleness, with our old course 
+of commercial extravagance, folly, and good humour. Which 
+of these opinions will prevail and be acted on, it is impossible 
+yet to say. I only know, that generally the dispute is thought 
+a dangerous one, and that many wish to see it well compromised in time, lest by a continuance of mutual provocations 
+the breach should become past healing. 
+</p><p>
+I am much obliged to you and cousin Hubbard for your 
+kindness to my friend Hughes, of which he informed me, 
+with many expressions of gratitude for your civilities. He 
+would have been very happy in that station, and in your 
+acquaintance so nigh him ; but he is now removed to Carolina. 
+</p><p>
+My love to your good wife and children, and believe me 
+ever your affectionate uncle, B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,54 @@
+<letter id='mad1617'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, August 15, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, I have been duly favoured with yours of the 3rd 
+instant. The length of the interval since my last has proceeded 
+from a daily expectation of being able to communicate the final 
+arrangements for introducing the new government. The place 
+of meeting has undergone much discussion, as you conjectured, 
+and still remains to be fixed. <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> was first named, 
+and negatived by a voice from Delaware. <a href="/results.php?city=new york" rel="city">New York</a> came 
+forward next, Lancaster was opposed to it, and failed. <a href="/results.php?city=baltimore" rel="city">Baltimore</a> was next tried, and, to the surprise of every one, had seven 
+votes. It was easy to see that that ground, had it been free 
+from objections, was not maintainable. Accordingly, the next 
+day <a href="/results.php?city=new york" rel="city">New York</a> was inserv.d in the place of it, with the aid of 
+the vote of Rhode Island. Rhode Island, however, has refused 
+to give a final vote in the business, and has actually retired 
+from Congress. The question will be resumed between New 
+York and <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>. - It was much to be wished that a fit 
+place for a respectable outset to the government could be found 
+more central than either. The former is inadmissible, if any 
+regard be to be had to the Southern or Western country. It is 
+so with me for another reason; that it tends to stop the final 
+and permanent seat short of the Potowmac certainly, and probably in the State of New Jersey. I know this to be one of the 
+views of the advocates for <a href="/results.php?city=new york" rel="city">New York</a>. The only chance the 
+Potowmac has, is to get things in such a train that a coalition 
+may take place between the southern and Eastern States on the 
+subject, and still more, that the final seat may be undecided for 
+two or three years, within which period the Western and south 
+Western population will enter more into the estimate. Where ever Congress may be, the choice, if speedily made, will not be 
+sufficiently influenced by that consideration. In this point of view, I am of opinion <a href="/results.php?city=baltimore" rel="city">Baltimore</a> would have been unfriendly to 
+the true object. It would have retained Congress but a moment, so many States being north of it, and dissatisfied with it; 
+and would have produced a coalition among those States, and a 
+precipitate election of the permanent seat, and an intermediate 
+removal to a more northern position. 
+</p><p>
+You will have seen the circular letter from the Convention 
+of this State. It has a most pestilent tendency. If an early 
+general Convention cannot be parried, it is serv.usly to be 
+feared that the system which has resisted so many direct attacks may be at last successfully undermined by its enemies. It 
+is now, perhaps, to be wished that Rhode Island may not accede till this new crisis of danger be over. Some think it 
+would have been better if even <a href="/results.php?city=new york" rel="city">New York</a> had held out till the 
+operation of the government could have dissipated the fears 
+which artifice had created, and the attempts resulting from 
+those fears and artifices. 
+</p><p>
+We hear nothing yet from North Carolina more than comes 
+by the way of Petersburg. 
+</p><p>
+With the highest respect and attachment, I remain, D'r Sir, 
+your affect 6 serv. 
+</p>
+</letter>

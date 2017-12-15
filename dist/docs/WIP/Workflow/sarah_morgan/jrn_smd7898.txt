@@ -1,0 +1,44 @@
+<letter id="smd7898">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], Saturday, <a rel="month origin" value="10">October</a> <a rel='day origin' value='11'>11th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Miriam went off to <a href='/results.php?city=clinton' rel='city'>Clinton</a> before daylight yesterday, with Mr. Carter and Mrs. Worley. She would 
+not let me go for fear mother should keep us. At 
+midnight they got back last night, tired, sleepy, and 
+half-frozen, for our first touch of cool weather came 
+in a strong north wind in the evening which grew 
+stronger and stronger through the night, and they 
+had worn only muslin dresses. I shall never cease 
+to regret that I did not go too. Miriam says mother 
+is looking very sad. Sad, and I am trying to forget 
+all our troubles, and am so happy here! O mother, 
+how selfish it was to leave you ! I ask myself whether 
+it were best to stay there where we would only be 
+miserable without adding anything to your comfort 
+or pleasure, or to be here, careless and happy while 
+you are in that horrid hole so sad and lonesome. 
+According to my theory, Miriam would remind me 
+that I say it is better to have three miserable persons 
+than two happy ones whose happiness occasions the misery of the third. That is my doctrine only in 
+peculiar cases; it cannot be applied to this one. 
+I say that if, for example, Miriam and I should love 
+the same person, while that person loved only me, 
+rather than make her unhappy by seeing me marry 
+him, I would prefer making both him and myself 
+miserable, by remaining single. She says "Fudge!" 
+which means, I suppose, nonsense. But our happiness here does not occasion mother's unhappiness. 
+She would rather see us enjoying ourselves here than 
+moping there. One proof is, that she did not suggest 
+our return. She longs to get home, but cannot leave 
+poor Lilly alone, for Charlie is in Granada. Oh, how 
+willingly I would return to the old wreck of our home ! 
+All its desolation could not be half so unendurable 
+as <a href='/results.php?city=clinton' rel='city'>Clinton</a>. But Lilly cannot be left. Poor Lilly! 
+When I look at her sad young face, my heart bleeds 
+for her. With five helpless little children to care 
+for, is she not to be pitied? I think that such a 
+charge, in such dreadful days, would kill me. How 
+patiently she bears it! 
+</p><p>
+</letter>

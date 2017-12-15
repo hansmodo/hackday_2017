@@ -1,0 +1,101 @@
+<letter id="aba3425">
+<recipient first="Elizabeth" last="Shaw" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1786" rel="origin">1786</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+Mr. S called upon us a day or two ago, and delivered me your kind letter of July the 20th. It 
+was of a later date than any I had received from 
+you, though near four months old. It was a little 
+unfortunate for the gentleman, that <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> entered immediately into an inquiry of him respecting 
+the state and commerce of the Massachusetts, of 
+which, be sure, the gentleman drew a most gloomy 
+picture, and finished the whole by saying, that the 
+people in the United States were as much oppressed 
+by taxes as they were in Europe. This being so 
+wholly groundless, it roused the quick feelings of 
+<a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>, who replied, a little warmly, " Give me 
+leave to tell you, Sir, that people who hold this 
+language, betray a total ignorance of the subject. 
+Name the article in this country, even to the light 
+of heaven, the air you breathe, and the water you 
+drink, which is not taxed. Loaded down with accumulated burdens is this free people, yet the whole 
+is not sufficient to pay even the interest of the national debt, and the charges of government. Mr. 
+Pitt's surplus is a vision, and new methods of taxation must be devised. Pray, are our farmers perishing in the midst of plenty, as in Ireland ? Are 
+our fishermen starving ? Cannot the laborer find a 
+subsistence ? Or has the price of labor fallen to 
+sixpence, and subsistence risen to a shilling ? Or 
+is it only trade that languishes ? Thank God, that 
+necessity, then, will oblige those who have lived 
+luxuriously at the expense of others, and upon property which was not their own, to do so no longer. 
+There is not a merchant in England, France, or 
+Holland, with a capital which could buy fifty of our 
+most opulent merchants, that lives at half the expense which I have been informed many of ours 
+have run into during the war, and since.'" 
+</p><p>
+By this time I had got into that part of your letter, 
+which informed me that Mr. S had been unfortunate in business. I knew Mr. Aclasis was a perfect 
+stranger to this, and could design nothing against the 
+gentleman ; but still I felt pained for him, as I presumed he had never had such a lesson before. He 
+drew in his horns, and was more upon his guard the 
+remainder of the time. We asked him to dine with 
+us the next day, but he was engaged. <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> 
+will return his visit, and then we shall send him a 
+card of invitation. In his manners and address he 
+appears much of a gentleman. 
+</p><p>
+The accounts you gave me of the singing of your 
+birds, and the prattle of your children, entertained 
+me much. Do you know that European birds have 
+not half the melody of ours ? Nor is their fruit 
+half so sweet, nor their flowers half so fragrant, nor 
+their manners half so pure, nor their people half so 
+virtuous ; but keep this to yourself, or I shall be 
+thought more than half deficient in understanding 
+and taste. I will not dispute what every person 
+must assent to ; that the fine arts, manufactures, 
+and agriculture have arrived at a greater degree of 
+maturity and perfection. But what is their age ? 
+What their individual riches, when compared with 
+us ? Far removed from my mind may the national prejudice be, of conceiving all that is good and 
+excellent comprised within the narrow compass of 
+the United States. The Universal Parent has dispensed his blessings throughout all creation, and, 
+though to some he hath given a more goodly heritage than to others, we have reason to believe that 
+a general order and harmony are maintained by 
+apportioning ta each his proper station. Though 
+seas, mountains, and rivers are geographical boundaries, they contract not the benevolence and good will 
+of the liberal mind, which can extend itself beyond 
+the limits of country and kindred, and claim fellowship with Christian, Jew, or Turk. What a lesson 
+did the great Author of our religion give to mankind 
+by the parable of the Jew and the Samaritan ; but 
+how little has it been regarded ! To the glory of the 
+present age, they are shaking off that narrow, contracted spirit of priestcraft and usurpation, which has 
+for so many ages tyrannized over the minds of mankind, and deluged the world in blood. They consider religion not as a state stalking-horse, to raise 
+men to temporal power and dignity ; but as a wise 
+and benevolent system, calculated to still the boisterous passions, to restrain the malevolent ones, to 
+curb the ambitious, and to harmonize mankind to 
+the temper of its great Author, who came to make 
+peace, and not to destroy. The late act of toleration, passed by Virginia, is esteemed here as an example to the world. 
+</p><p>
+We are now really in the gloomy month of November, such as I have heard it described, but did 
+not last year experience. Now we have it, all 
+smoke, fog, and darkness ; and the general mourning for the Princess Amelia adds to the gloom of 
+the scene. I was yesterday at the drawing-room, for 
+the first time since her death ; and, though I cannot 
+say all faces gathered blackness, all bodies appeared 
+</p><p>
+so. As she had given her fortune lo her German 
+nephews, it would have been absurd to have shown 
+any appearance of grief. Poor John Bull is vastly 
+angry and mortified. Had it been given to the 
+Prince of Wales, his liberal hand would soon have 
+poured forth the golden shower ; and, as his aunt 
+acquired it all in this nation, here it ought to have 
+remained, says John ; but he cannot alter it, so he 
+vents himself, as usual, in abuse and bellowing. 
+Adieu. Your sister, 
+</p><p>
+A. A, 
+</p>
+</letter>

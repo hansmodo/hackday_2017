@@ -1,0 +1,42 @@
+<letter id="tip4967">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>PHILADELPHIA</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+On the 28th of July we arrived on the banks of the 
+River Delaware, at Cory ell's Ferry, about thirty-two miles 
+from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> by land, and there we halted. Last night 
+the General and his family arrived here. Yesterday morn 
+ing, about half after nine o clock, an express came to the 
+General to inform him of the arrival of the enemy's fleet 
+at the Capes of the river. Orders were immediately issued 
+for all the troops upon the river (being eight brigades) to 
+cross with all despatch possible ; two more brigades at <a href='/results.php?city=morristown' rel='city'>Morristown</a>, under <a href='/results.php?tla=jsu' rel='co-worker'>General Sullivan</a>, and two more from Peeks- 
+kill, are to follow as expeditiously as they can. All, we 
+trust, will arrive before the enemy can take any decisive 
+measures. The militia from this State, Jersey, and Mary 
+land will, no doubt, turn out with spirit. The people of 
+the city seem to be quite at ease, and not by any means to 
+dread the enemy's approach. Fighting there must be, no 
+doubt. God grant we may give them an overthrow, which, 
+if general, must probably decide the contest. The army is 
+in high spirits, and the order to march this way gave universal joy. The General and all the principal officers much 
+prefer the enemy's coming here to their going up the North 
+River, or to New England. For to this place the army will 
+have but little way to march ; and, as it is an event long 
+expected, it is presumed the people are better prepared to 
+give the enemy a proper reception. However, if they 
+should even gain this city, the cause will not be given up 
+as lost; the enemy will, I trust, have a great deal more 
+work to do before they conquer America. Though we have 
+met with many losses, yet even now the inhabitants of 
+America seem not to be actuated by a becoming ardor. 
+Greater sufferings will show us the necessity of more universally spirited exertions ; and, when they take place, we shall 
+undoubtedly, under <a href='/results.php?city=providence' rel='city'>Providence</a>, prevail over our enemies. 
+Tis now past noon, and I have heard nothing more of the 
+enemy's fleet, except a slight report that they were still at 
+the Capes, which, I am inclined to think, is true ; for, if 
+they had made any considerable progress, we should 
+doubtless have heard of it. So much for news. . . . 
+</p>
+</letter>

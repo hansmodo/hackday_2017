@@ -1,0 +1,50 @@
+<letter id="joj4071">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My good Friend, 
+</p><p>
+Your favour of the 4th November last found me in England, where, though I suffered much sickness, I left the pain 
+in my breast ; but a sore throat I caught there still remains 
+obstinate and troublesome. 
+</p><p>
+The resolution of Congress of 1st October last, did not 
+reach me until in December. On my return here last 
+month, I wrote in pursuance of it to Mr. Carmichael to 
+come here without delay with the books and vouchers. I 
+daily expect to hear from him, and shall be happy to see 
+that business settled before I embark, which I hope will be 
+in April, but from or to what port, and in what vessel, is as 
+yet uncertain. 
+</p><p>
+There is no doubt but that you have had much to struggle 
+with, and will have more. Difficulties must continue inseparable from your office for some time yet, and they will 
+be the means either of increasing or diminishing your reputation. In my opinion you must go on. Success generally 
+attends talents and perseverance, and these thorns will in 
+due season probably bear flowers, if not fruit. 
+</p><p>
+There are parts of your letter, on which, though I concur with you in sentiment, I forbear to make remarks, 
+because this may not pass to you uninspected. I hope we 
+shall meet in the course of a few months more, and then 
+reserve will cease to be necessary. 
+</p><p>
+What you say of <a href='/results.php?tla=gom' rel='colleague friend met'>Gouverneur</a> accords with my opinion 
+of him. I have never broken the bands of friendship in 
+my life, nor when once broken, have I ever been anxious 
+to mend them. Mine with him will, I hope, last as long as 
+we do, for though my sentiments of mankind in general are 
+less favourable than formerly, my affection for certain individuals is as warm and cordial as ever. 
+</p><p>
+Mrs. Jay presents her affectionate compliments to you 
+and Mrs. Morris, to whom we join in sincerely wishing all 
+the happiness with which amiable merit should be ever 
+blessed. Tell <a href='/results.php?tla=gom' rel='colleague friend met'>Gouverneur</a> I long to take him by the hand, 
+and believe me to be, my dear sir, 
+</p><p>
+With constant attachment, 
+Your affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

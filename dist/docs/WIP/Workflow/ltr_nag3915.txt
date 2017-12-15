@@ -1,0 +1,25 @@
+<letter id="nag3915">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD QUARTERS, <a href='/results.php?city=ashley' rel='city origin'>Ashley Hill</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='31'>31</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR: 
+</p><p>
+I most sincerely congratulate you upon the very honorable check you 
+gave the enemy, and I am happy to hear you give such ample testimony 
+to the bravery and firmness of the militia. I wish in every part of the 
+State they were equally deserving the same applause. From what has 
+passed, you may see how little dependence is to be placed in the enemy's 
+peaceable professions. It gives me the highest satisfaction to find that 
+they are disappointed in their expectations of finding you off your guard, 
+from the arts that had been practised to effect it. At the close of every 
+month, you will give me a return of the Continental and State troops, 
+and the militia serving under your command, specifying where they are 
+employed, and for what purpose, as I want to give the minister of war 
+as satisfactory an account as possible of the force of this country. 
+I am, dear sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

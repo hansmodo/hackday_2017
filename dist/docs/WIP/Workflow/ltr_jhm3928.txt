@@ -1,0 +1,24 @@
+<letter id="jhm3928">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Those gentlemen who have for some time been so much indisposed, 
+as to prevent their attendance in Council, having recovered their health, 
+enabled me yesterday to convene a Council, when I laid before them 
+your letter respecting the propriety of altering the mode of punishment 
+for persons carrying on a clandestine trade with the enemy, from that 
+pointed out by my proclamation of the 14th March last, to that pointed 
+out under the Sedition Act; when, after mature deliberation, the 
+Council were of opinion that an alteration in the mode of punishment 
+would by no means be advisable at this juncture; but, at the same 
+time, earnestly recommended that the proclamation before mentioned 
+should be carried vigorously into execution, which, in their opinion, 
+was very well calculated to put a stop to that iniquitous commerce. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

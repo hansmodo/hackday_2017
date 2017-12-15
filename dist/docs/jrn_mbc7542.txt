@@ -1,0 +1,32 @@
+<letter id="mbc7542">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. Judge Campbell, of the United States Supreme Court, has resigned. Lord! how he must have 
+hated to do it. How other men who are resigning high positions must hate to do it. 
+</p><p>
+Now we may be sure the bridge is broken. And yet in the Alabama Convention they say Reconstructionists abound and are busy. 
+</p><p>
+Met a distinguished gentleman that I knew when he was in more affluent circumstances. I was willing enough 
+to speak to him, but when he saw me advancing for that purpose, to avoid me, he suddenly dodged around a corner 
+William, Mrs. de Saussure's former coachman. I remember him on his box, driving a handsome pair of bays, 
+dressed sumptuously in blue broadcloth and brass buttons; a stout, respectable, fine-looking, middle-aged mulatto. He was very high and mighty. 
+</p><p>
+Night after night we used to meet him as fiddler-in-chief of all our parties. He sat in solemn dignity, making faces 
+over his bow, and patting his foot with an emphasis that shook the floor. We gave him five dollars a night ; that was 
+his price. His mistress never refused to let him play for any party. He had stable-boys in abundance. He was far 
+above any physical fear for his sleek and well-fed person. How majestically he scraped his foot as a sign that he was 
+tuned up and ready to begin ! 
+</p><p>
+Now he is a shabby creature indeed. He must have felt his fallen fortunes when he met me one who knew him in 
+his prosperity. He ran away, this stately yellow gentle man, from wife and children, home and comfort. My 
+Molly asked him " Why? Miss Liza was good to you, I know." I wonder who owns him now; he looked forlorn. 
+</p><p>
+Governor Moore brought in, to be presented to me, the President of the Alabama Convention. It seems I had 
+known him before; he had danced with me at a dancing-school ball when I was in short f Kocks, with sash, flounces, 
+and a wreath of roses. He was one of those clever boys of 
+our neighborhood, in whom my father saw promise of better things, and so helped him in every way to rise, with 
+books, counsel, sympathy. I was enjoying his conversation immensely, for he was praising my father without stint, 
+when the Judge came in, breathing fire and fury. Congress has incurred his displeasure. We are abusing one another 
+as fiercely as ever we have abused Yankees. It is disheartening. 
+</p>
+</letter>

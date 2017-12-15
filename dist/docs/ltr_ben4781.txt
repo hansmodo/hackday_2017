@@ -1,0 +1,38 @@
+<letter id="ben4781">
+<recipient first="Samuel" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I suppose Gov r Pownall acquaints you with what has 
+passed this Session relating to our American Affairs: All 
+Europe is attentive to the Dispute between Britain and the 
+Colonies, & I own I have a Satisfaction in seeing, that our 
+Part is taken Everywhere; because I am persuaded, that 
+that circumstance will not be without its Effect here in our 
+favour. At the same time the malignant Pleasure, which 
+other Powers take in British Divisions, may convince us on 
+both sides of the Necessity of our uniting. 
+</p><p>
+In France they have translated and printed the principal 
+Pieces, that have been written on the American Side of the 
+Question; and, as French is the political Language of 
+Europe, it has communicated an Acquaintance with our 
+Affairs very extensively. M. Beaumont, a famous Advocate 
+</p><p>
+of Paris, the defender of the Family of Galas, wrote the Reflexions d'un Etranger desinteress6, which I send you. The 
+manuscript is an original Letter from a Gentleman, (of 
+Note, I am told,) as far off as the Austrian Silesia, who, 
+being concern'd for us, wrote it to the Parliament, directing 
+it to the late Speaker. The Speaker read only the first 
+Side, was offended at the Freedom, and Impertinence, (as 
+he calPd it,) and returned the Letter to the Office, refusing 
+to pay the Postage. Accept it as a Curiosity. I send you 
+also a late Edition of Molyneux's Case of Ireland, with a new 
+Preface, shrewdly written. Our part is warmly taken by 
+the Irish in general, there being in many points a similarity 
+in our cases. My respects to <a href='/results.php?tla=jab' rel='met'>Mr. Bowdoin</a>, and believe me 
+ever, dear Sir, yours affectionately, B. FRANKLIN. 
+</p>
+</letter>

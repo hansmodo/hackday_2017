@@ -1,0 +1,47 @@
+<letter id="jht4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, 	<a rel='day origin' value='9'>9</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+With great satisfaction I have the honor to inform 
+you that, last evening, the Convention of this State, 
+by a great majority, voted to ratify and adopt the 
+new proposed Constitution for the United States ; yeas 
+one hundred and twenty-seven, nays forty. With additional pleasure I can inform you, that the debates 
+on this subject have been conducted with a spirit of 
+great candor, liberality, and fairness, and the decision 
+received with the universal applause of a numerous 
+body of the people of the State, who attended the 
+public deliberations of their Convention, and expressed 
+their cordial assent, on the moment of decision, with 
+a general clap. 
+</p><p>
+The great unanimity with which this decision has 
+been made, and the liberality with which its previous 
+deliberations have been conducted in this State, I 
+hope will have a happy influence on the minds of 
+our brethren in Massachusetts. Their Convention is 
+now collecting, and will be favored with this information to-morrow. It may not be amiss to mention that, 
+in the list of affirmants in this State, stand the names 
+of all our principal characters, with the men of liberality, sentiment, and influence. 
+</p><p>
+Although not honored with the appointment as a 
+Delegate (being, in my particular circle, under the 
+cloud of Commutation and <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a>), I have attended 
+the debates of this Convention from their beginning 
+to the close, and have been amply compensated by 
+the pleasure, the satisfaction, and instruction I have 
+participated on the occasion. With all those sentiments of sincere cordiality and respect with which I 
+have ever had the honor to address you, my dear Sir, 
+</p><p>
+I now have the pleasure to subscribe myself, &c., 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p><p>
+P. S. While I take the pleasure of congratulating 
+you. Sir, on this joyous occasion, I pray you to indulge my wishes in begging you to present my sincerest respects to Mrs. Washington, with my tender 
+solicitations for her health and happiness. 
+</p>
+</letter>

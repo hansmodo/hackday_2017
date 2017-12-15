@@ -1,0 +1,93 @@
+<letter id="wli3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I arrived here the 25th of March. At that time 
+things were in greater confusion than can well be 
+conceived. The country people were, to all appearance, in a fit of frenzy. About three hundred had 
+just returned from the Moravian towns, where they 
+found about ninety men, women, and children, all of 
+whom they put to death, it is said, after cool deliberation, and considering the matter for three days. 
+The whole were collected into their church, and tied 
+when singing hymns. On their return, a party came 
+and attacked a few Delaware Indians, who have yet remained with us, on a small island close by this 
+garrison, killed two who had Captain's commissions in 
+our service, and several others ; the remainder effected 
+their escape into the fort, except two who ran to the 
+woods, and have not since been heard of. There was 
+an officer's guard on the island at the same time, but 
+he either did not do his duty, or his men connived 
+at the thing; which, I am not yet able to ascertain. 
+This last outrage was committed the day before 1 
+arrived ; nothing of this nature has been attempted since. 
+</p><p>
+A number of wrong-headed men had conceived an 
+opinion, that Colonel Gibson was a friend to Indians, 
+and that he must be killed also. These transactions, 
+added to the then mutinous disposition of the regular 
+troops, had nearly brought on the loss of this whole 
+country. I am confident, if this post was evacuated, 
+the bounds of Canada would be extended to the Laurel Hill in a few weeks. I have the pleasure, however, to inform your Excellency that things now 
+wear a more favorable aspect. The troops are again 
+reduced to obedience, and I have had a meeting, or 
+Convention, of the County Lieutenants and several 
+Field-Officers, with whom I have made arrangements 
+for defending their frontiers, and who promise to exert themselves in drawing out the militia, agreeably 
+to law, on my requisitions. The few remaining Indians, chiefly women and children, are exceeding troublesome to us, as they dare not stir out of the fort ; 
+not one of the warriors will even venture on a reconnoitring party. I think they would be better in 
+some more interior part of the country, where they 
+could be both cheaper fed and clothed. Besides, it 
+is not only inconvenient, but improper, to have them 
+among the troops, who are, without them, crowded in dirty, bad barracks. I beg your Excellency's instructions how to dispose of them. Their Chief, Killbuck, 
+has a son and brother at <a href='/results.php?city=princeton' rel='city'>Princeton</a> College, whom he 
+is anxious to see. 
+</p><p>
+Captain Springer, of the Virginia line, marched, 
+some time since, with three Indians and as many 
+white men, towards Sandusky, for the purpose of 
+gaining intelligence ; but the Indians proved too timid 
+for him to venture to go all the way. He of course 
+returned, without being able to accomplish any thing. 
+I thought it too great a risk, but it was by his request, and that of the Indians, who were very solicitous. It was proved on one of the party, named 
+Eells, that he intended betraying Captain Springer, 
+and all the party, into the hands of the enemy. I 
+directed a Board of Officers to inquire into his conduct, who were of opinion he should suffer death. I 
+ordered him executed ; he was shot on the 12th instant, seemingly much to the satisfaction of the other 
+Indians. 
+</p><p>
+Civil authority is by no means properly established 
+in this country, which I doubt proceeds in some degree from inattention in the Executives of Virginia 
+and Pennsylvania. Not running the boundary line 
+is, I think, a proof of this, which is at present an 
+excuse for neglects of duty of all kinds, for at least 
+twenty miles on each side of the line. More evils 
+will arise from this neglect, than people are aware of 
+Emigrations and New States are much talked of 
+Advertisements are set up, announcing a day to assemble at Wheeling, for all who wish to become 
+members of a new State on the Muskingum. A certain Mr. Johnson is at the head of this party ; he is 
+ambitious, restless, and some say disaffected. Most 
+people, however agree, he is open to co|ruption ; he 
+has been in England since the commencement of the 
+present war. ShoukI these people actually emigrate, 
+they must be either entirely cut off, or immediately 
+take protection from the British, which I fear is the 
+real design of some of the party, though I think a 
+great majority have no other views than to acquire 
+lands. As I apprehended taking cognizance of these 
+matters would come best from the civil authority, I 
+have written to the Governors of Virginia and Pennsylvania on the subject, which I should not have 
+done, till I had first acquainted your Excellency thereof, but for this consideration, namely, that the 20th 
+of May is the day appointed for the emigrants to 
+rendezvous ; consequently a representation from you 
+would be too late, in case the States should think 
+proper to take measures to prevent them. I am 
+much embarrassed by the scanty and irregular supply of provision. I intend to write to <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a> on 
+this head. I have the honor to be. Sir, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter>

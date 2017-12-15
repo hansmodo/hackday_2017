@@ -1,0 +1,195 @@
+<letter id="ben4700">
+<recipient first="Henry" last="Home" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='11'>11</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+MY DEAR LORD, 
+</p><p>
+I received your obliging favour of January the ipth. You 
+have kindly relieved me from the pain I had long been under. 
+You are goodness itself. I ought to have answered yours 
+of December 25. <a href='/results.php?year=1765'>1765</a>. I never received a letter that 
+contained sentiments more suitable to my own. It found 
+me under much agitation of mind on the very important 
+subject it treated. It fortified me greatly in the judgment I 
+was inclined to form (though contrary to the general vogue) 
+on the then delicate and critical situation of affairs between 
+Great Britain and her Colonies, and on that weighty point, 
+their Union. You guessed aright in supposing that I would 
+not be a mute in that play. I was extremely busy, attending 
+Members of both Houses, informing, explaining, consulting, 
+disputing, in a continual hurry from morning to night, till 
+the affair was happily ended. During the course of it, being 
+called before the House of Commons, I spoke my mind pretty 
+freely. Inclosed I send you the imperfect account that was 
+taken of that examination. " You will there see how entirely 
+we agree, except in a point of fact, of which you could not but 
+be misinformed ; the papers at that time being full of mistaken 
+assertions, that the colonies had been the cause of the war, 
+and had ungratefully refused to bear any part of the expence 
+of it. 
+</p><p>
+I send it you now, because I apprehend some late incidents 
+are likely to revive the contest between the two countries. I 
+fear it will be a mischievous one. It becomes a matter of 
+great importance that clear ideas should be formed on solid 
+principles, both in Britain and America, of the true political 
+relation between them, and the mutual duties belonging to 
+that relation. Till this is done, they will be often jarring. 
+I know none whose knowledge, sagacity and impartiality 
+qualify him so thoroughly for such a service, as yours do you. 
+I wish therefore you would consider it. You may thereby 
+be the happy instrument of great good to the nation, and of 
+preventing much mischief and bloodshed. I am fully persuaded with you, that a Consolidating Union, by a fair and 
+equal representation of all the parts of this empire in Parliament, is the only firm basis on which its political grandeur 
+and prosperity can be founded. Ireland once wished it, 
+but now rejects it. The time has been, when the colonies 
+might have been pleased with it: they are now indifferent 
+about it; and if it is much longer delayed, they too will refuse it. But the pride of this people cannot bear the thought 
+of it, and therefore it will be delayed. Every man in England seems to consider himself as a piece of a sovereign over 
+America; seems to jostle himself into the throne with the 
+King, and talks of our subjects in the Colonies. The Parliament cannot well and wisely make laws suited to the Colonies, 
+without being properly and truly informed of their circumstances, abilities, temper, &c. This it cannot be, without 
+representatives from thence : and yet it is fond of this power, 
+and averse to the only means of acquiring the necessary knowledge for exercising it ; which is desiring to be omnipotent, without being omniscient. 
+</p><p>
+I have mentioned that the contest is likely to be revived. 
+It is on this occasion. In the same session with the stamp 
+act, an act was passed to regulate the quartering of soldiers 
+in America; when the bill was first brought in, it contained 
+a clause, empowering the officers to quarter their soldiers in 
+private houses : this we warmly opposed, and got it omitted. 
+The bill passed, however, with a clause, that empty houses, 
+barns, &c., should be hired for them, and that the respective 
+provinces where they were should pay the expence and furnish 
+firing, bedding, drink, and some other articles to the soldiers 
+gratis. There is no way for any province to do this, but 
+by the Assembly's making a law to raise the money. The 
+Pennsylvanian Assembly has made such a law: the New 
+York Assembly has refused to do it: and now all the talk 
+here is of sending a force to compel them. 
+</p><p>
+The reasons given by the Assembly to the Governor, for 
+the refusal, are, that they understand the act to mean the 
+furnishing such things to soldiers, only while on their march 
+through the country, and not to great bodies of soldiers, to 
+be fixt as at present, in the province; the burthen in the 
+latter case being greater than the inhabitants can bear: 
+That it would put it in the power of the Captain- General to oppress the province at pleasure, &c. But there is supposed to be another reason at bottom, which they intimate, 
+though they do not plainly express it ; to wit, that it is of the 
+nature of an internal tax laid on them by Parliament, which 
+has no right so to do. Their refusal is here called Rebellion, 
+and punishment is thought of. 
+</p><p>
+Now waving that point of right, and supposing the Legislatures in America subordinate to the Legislature of Great 
+Britain, one might conceive, I think, a power in the superior 
+Legislature to forbid the inferior Legislatures making particular laws ; but to enjoin it to make a particular law contrary to its own judgment, seems improper; an Assembly 
+or Parliament not being an executive officer of Government, 
+whose duty it is, in law-making, to obey orders, but a deliberative body, who are to consider what comes before them, 
+its propriety, practicability, or possibility, and to determine 
+accordingly : The very nature of a Parliament seems to be 
+destroyed, by supposing it may be bound, and compelled 
+by a law of a superior Parliament, to make a law contrary to 
+its own judgment. 
+</p><p>
+Indeed, the act of Parliament in question has not, as in 
+other acts, when a duty is enjoined, directed a penalty on 
+neglect or refusal, and a mode of recovering that penalty. 
+It seems, therefore, to the people in America as a mere 
+requisition, which they are at liberty to comply with or not, 
+as it may suit or not suit the different circumstances of different provinces. Pennsylvania has therefore voluntarily complied. <a href='/results.php?city=new york' rel='city'>New York</a>, as I said before, has refused. The 
+Ministry that made the act, and all their adherents, call for 
+vengeance. The present Ministry are perplext, and the 
+measures they will finally take on the occasion, are yet unknown. But sure I am, that, if Force is used, great mischief 
+will ensue; the affections of the people of America to this 
+country will be alienated ; your commerce will be diminished ; 
+and a total separation of interests be the final consequence. 
+</p><p>
+It is a common, but mistaken notion here, that the Colonies 
+were planted at the expence of Parliament, and that therefore 
+the Parliament has a right to tax them, &c. The truth is, 
+they were planted at the expence of private adventurers, who 
+went over there to settle, with leave of the King, given by 
+charter. On receiving this leave, and those charters, the adventurers voluntarily engaged to remain the King's subjects, 
+though in a foreign country ; a country which had not been 
+conquered by either King or Parliament, but was possessed 
+by a free people. 
+</p><p>
+When our planters arrived, they purchased the lands of 
+the natives, without putting King or Parliament to any expence. Parliament had no hand in their settlement, was 
+never so much as consulted about their constitution, and took 
+no kind of notice of them, till many years after they were 
+established. I except only the two modern Colonies, or 
+rather attempts to make Colonies, (for they succeed but 
+poorly, and as yet hardly deserve the name of Colonies), I 
+mean Georgia and Nova Scotia, which have hitherto been 
+little better than Parliamentary jobs. Thus all the colonies 
+acknowledge the King as their sovereign; his Governors 
+there represent his person : Laws are made by their Assemblies or little Parliaments, with the Governor's assent, subject still to the King's pleasure to confirm or annul them: 
+Suits arising in the Colonies, and differences between Colony 
+and Colony, are determined by the King in Council. In 
+this view, they seem so many separate little states, subject 
+to the same Prince. The sovereignty of the King is therefore 
+easily understood. But nothing is more common here than 
+to talk of the sovereignty of PARLIAMENT, and the sovereignty 
+of THIS NATION over the Colonies; a kind of sovereignty, 
+the idea of which is not so clear, nor does it clearly appear 
+on what foundation it is established. On the other hand, it 
+seems necessary for the common good of the empire, that a 
+power be lodged somewhere, to regulate its general commerce : 
+this can be placed nowhere so properly as in the Parliament 
+of Great Britain; and therefore, though that power has in 
+some instances been executed with great partiality to Britain, 
+and prejudice to the Colonies, they have nevertheless always 
+submitted to it. Custom-houses are established in all of 
+them, by virtue of laws made here, and the duties constantly 
+paid, except by a few smugglers, such as are here and in all 
+countries; but internal taxes laid on them by Parliament, 
+are still and ever will be objected to, for the reasons that you 
+will see in the mentioned Examination. 
+</p><p>
+Upon the whole, I have lived so great a part of my life in 
+Britain, and have formed so many friendships in it, that I 
+love it, and sincerely wish it prosperity ; and therefore wish 
+to see that Union, on which alone I think it can be secured 
+and established. As to America, the advantages of such a 
+union to her are not so apparent. She may suffer at present 
+under the arbitrary power of this country; she may suffer 
+for a while in a separation from it ; but these are temporary 
+evils that she will outgrow. Scotland and Ireland are differently circumstanced. Confined by the sea, they can scarcely 
+increase in numbers, wealth and strength, so as to overbalance England. But America, an immense territory, 
+favoured by Nature with all advantages of climate, soil, 
+great navigable rivers, and lakes, &c. must become a great 
+country, populous and mighty ; and will, in a less time than 
+is generally conceived, be able to shake off any shackles that 
+may be imposed on her, and perhaps place them on the imposers. In the mean time, every act of oppression will sour 
+their tempers, lessen greatly, if not annihilate the profits of 
+your commerce with them, and hasten their final revolt; 
+for the seeds of liberty are universally found there, and nothing can eradicate them. And yet, there remains among 
+that people, so much respect, veneration and affection for 
+Britain, that, if cultivated prudently, with kind usage, and 
+tenderness for their privileges, they might be easily governed 
+still for ages, without force, or any considerable expence. 
+But I do not see here a sufficient quantity of the wisdom, 
+that is necessary to produce such a conduct, and I lament 
+the want of it. 
+</p><p>
+I borrowed at Millar's the new edition of your Principles 
+o) Equity, and have read with great pleasure the preliminary 
+discourse on the Principles of Morality. I have never before 
+met with any thing so satisfactory on the subject. While 
+reading it, I made a few remarks as I went along. They are 
+not of much importance, but I send you the paper. 
+</p><p>
+I know the lady you mention ; ' having, when in England 
+before, met her once or twice at Lord Bath's. I remember I 
+then entertained the same opinion of her that you express. 
+On the strength of your kind recommendation, I purpose 
+soon to wait on her. 
+</p><p>
+This is unexpectedly grown a long letter. The visit to 
+Scotland, and the Art of Virtue, we will talk of hereafter. It 
+is now time to say, that I am, with increasing esteem and 
+affection, my dear friend, yours ever, B. FRANKLIN. 
+</p>
+</letter>

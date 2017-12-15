@@ -1,0 +1,55 @@
+<letter id="joj4143">
+<recipient first="George" last="Hammond" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Accept my thanks for your friendly letter of the 14th 
+March last. I am happy in resuming my correspondence 
+with my friends in England, and regret that it has been so 
+long suspended. As <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a> will be the bearer of this 
+letter, I refer you to him for information respecting the 
+state of affairs here. You have heard of the appointment of 
+this gentleman to succeed Mr. Pinckney. You are well 
+acquainted with his qualifications for that place, and with his 
+character, public and private. 
+</p><p>
+I thank you for making to <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a> the intimation 
+I requested relative to the intended present. I shall deem 
+myself sufficiently honoured and gratified, if my endeavours 
+should prove conducive to permanent peace and conciliation between our countries. This can, and I hope will, be 
+accomplished. Nature has made few difficulties within 
+the sphere of honest and rational policy, that are insuperable to prudence and perseverance. Mutual justice, mutual 
+kindness, and a little mutual forbearance will ensure success. But it is to be remembered, that political, like other 
+fields, require constant attention ; when neglected, they 
+soon become unproductive, and fresh weeds, briers, and 
+thorns will gradually spring up. 
+</p><p>
+The tide in human affairs, of which the poet speaks, now 
+runs favourably, and will present a proper occasion for 
+arranging our West India commerce. The war has, in a 
+great degree, suspended the importance of it to us. When 
+that suspension ceases, a strong sense of it will return, and 
+will excite uneasiness which should be obviated or allayed by 
+regulations as satisfactory as can well be made. Although 
+a system more liberal than that in the twelfth article, if it 
+had been immediately made, might have been ascribed to 
+the pressure of circumstances, rather than to motives more 
+pleasing and friendly : yet that objection has nearly lost its 
+force, and passed its time ; for the treaty is now in operation, with the approbation of a decided and great majority 
+of the people, and success attends your arms. 
+</p><p>
+While America has no just cause of complaint against 
+Britain, nor Britain against America, their commercial and 
+friendly relations will operate freely and effectually, and the 
+designs of those who aim at discord between them will 
+prove abortive. 
+</p><p>
+I am, dear sir, 
+</p><p>
+Yours very sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

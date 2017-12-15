@@ -1,0 +1,21 @@
+<letter id="gwa4469">
+<recipient first="" last="de Barras" type="individual"/>
+<p>
+TO COUNT DE BARRAS. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have had the honor of receiving your Excellency's 
+letter of the 11th instant. Give me leave to congratulate you on your safe arrival, and your appointment to 
+the command of his Most Christian Majesty's fleet and 
+sea forces upon these coasts. It affords me no small 
+degree of pleasure to find the command devolve upon 
+an officer of your Excellency's distinguished character. 
+I have appointed Monday, the 21st of this month, for 
+the time of our interview at Weathersfield ; and I shall 
+very impatiently wait for the opportunity of convincing 
+you personally, that I am, &.c. 
+</p>
+</letter>

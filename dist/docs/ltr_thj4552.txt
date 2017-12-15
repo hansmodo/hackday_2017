@@ -1,0 +1,18 @@
+<letter id="thj4552">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='3'>3d</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have the honor to inform you, that I have resigned the office of Secretary of State, and that Mr Randolph, late Attorney General of the United States, is appointed by the President, and approved by the Senate, as Secretary of State. He 
+will be so good as to acknowledge the receipt of your several 
+letters not yet acknowledged by me, and will answer in detail 
+such parts of them as may require special answer. I beg 
+leave to conclude this last of public correspondence with you, 
+with very sincere assurances of the great esteem and respect, 
+with which I have the honor to be, dear Sir, your most obedient, and most humble servant, 
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Thomas Jefferson</a>.
+</p>
+</letter>

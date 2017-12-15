@@ -1,0 +1,23 @@
+<letter id="mbc7734">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. We have conflicting testimony. Young Wade Hampton, of <a href='/results.php?tla=jpj' rel=''>Joe Johnston's</a> staff, says <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> lost 
+12,000 men in the battles of the 22d x and 24th, but Brewster, of <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood's</a> staff, says not three thousand at the utmost. 
+Now here are two people strictly truthful, who tell things so differently. In this war people see the same things so 
+oddly one does not know what to believe. 
+</p><p>
+Brewster says when he was in Richmond <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> said <a href='/results.php?tla=jpj' rel=''>Johnston</a> would have to be removed and <a href='/results.php?tla=wts' rel=''>Sherman</a> blocked. 
+He could not make Hardee full general because, when he had command of an army he was always importuning the 
+War Department for a general-in-chief to be sent there over him. Polk would not do, brave soldier and patriot as 
+he was. He was a good soldier, and would do his best for his country, and do his duty under whomever was put over 
+him by those in authority. <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> did not once intimate to him who it was that he intended to promote to the head of the Western Army. 
+</p><p>
+Brewster said to-day that this " blow at <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>, cutting off his head, ruins the schemes of the enemies of the 
+government. Wigf all asked me to go at once, and get <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> to decline to take this command, for it will destroy him if 
+he accepts it. He will have to fight under Jeff Davis's orders ; no one can do that now and not lose caste in the Western Army. <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> does not exactly say that Jeff Davis betrays his plans to the enemy, but he says he dares 
+not let the President know his plans, as there is a spy in the 
+War Office who invariably warns the Yankees in time. consulting the government on military movements is played out. That's Wigf all's way of talking. Now," added Brewster, " I blame the President for keeping a man at 
+the head of his armies who treats the government with open scorn and contumely, no matter how the people at 
+large rate this disrespectful general.
+</p>
+</letter>

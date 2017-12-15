@@ -1,0 +1,20 @@
+<letter id="jhm3905">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I understand there has been some regulation of prices lately attempted 
+at the port of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. Such a measure is highly impolitic, and 
+must inevitably ruin the commerce that is attempted to be established 
+there, in its very infancy. It is, therefore, my particular orders, that you 
+give no countenance to any such measures; but, on the contrary, use 
+your best endeavors to suppress it, and give every encouragement to a 
+free uninterrupted trade. 
+</p><p>
+I am, sir, your most obedient servant
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

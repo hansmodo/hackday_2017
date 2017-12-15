@@ -1,0 +1,34 @@
+<letter id="wih3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=mandevilles' rel='city origin'>Mandeville's</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I was honored with your favor of yesterday, on 
+my way from <a href='/results.php?city=bald hill' rel='city'>Bald Hill</a> to this place. I had before 
+ordered Parsons's brigade to encamp near Robinson's ; 
+Huntington's, near the place where Parsons's encamped 
+before they left this place; Patterson's, between that 
+place and Danforth's ; Nixon's, at the gorge of the 
+mountains. Glover's is not yet arrived. May I be 
+permitted to request that, when it does, it may be 
+attached to General Howe's division? 
+</p><p>
+By intelligence received since I had the honor to 
+write in the morning, I learn that the enemy's advanced sentinels and videttes were posted, the last 
+night, on the New Bridge. They appear to advance 
+with the greatest caution. I think Major-General 
+Howe was very fortunate in making his retreat the 
+instant he did. Had he remained, I think he would 
+have been Burgoyned; his intelligence being good, 
+he escaped it. I have taken measures to obtain intelligence from every quarter on this side the river. 
+Such as I receive shall be transmitted. I have ordered the light-horse to the left, and am determined 
+to harass the enemy, if possible. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="jhc3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Maryland, <a rel="day origin" value="12">12</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR ; 
+</p><p>
+I should have troubled you with a few lines if any 
+thing had occurred to me that might, in the least, 
+tend to promote the service. You receive such a multitude of letters, that I can hardly think myself excused in taking up so much of your time as to thank 
+you for the civilities I received from you at camp. 
+</p><p>
+I shall be happy to hear that you have passed the 
+winter undisturbed; and that you have been able to 
+keep your army together. My fears about provisions 
+and forage, I confess, still give me great pain. 
+</p><p>
+Recruiting in this and the next county below succeeds better than I expected. One half of the quota 
+required of each county is, I am well informed, made up, and the remainder will soon be completed. The 
+farmers are in great fear of a law to draft the militia; and they are exerting themselves to the utmost 
+in assisting the recruiting officers. 
+</p><p>
+There is no person who more sincerely wishes success to the cause of America than I do ; and I should 
+have esteemed it an honor to have been continued in 
+the command I had in Pennsylvania, if the Government had been such a one as promised that freedom 
+and happiness for which we are contending with 
+Great Britain. I now no longer look upon myself asa resident of that State, and am at a loss to know 
+what part I shall act in this. As soon as the campaign opens, I shall endeavour to make myself useful 
+in some way or other. 
+</p><p>
+The importance of Billingsport to us, if we should 
+be able to act offensively, has not, I dare say, escaped 
+your notice. But I am apprehensive the enemy know too well its consequence to neglect to take possession 
+of it before we dare to do it. Five or six hundred 
+men might defend it against a storm ; but would it 
+be possible to keep it till we could collect force 
+enough to make an attempt by siege dangerous to 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>? The possession of this post may re 
+quire such a variety of movements, that it appears to 
+me a very considerable number of boats will be necessary. 
+</p><p>
+Be pleased to present my compliments to Mrs. 
+<a href='/results.php?city=washington' rel='city'>Washington</a>. With the sincerest esteem and respect, 
+I remain, 
+</p><p>
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhc" rel="me">JOHN CADWALADER</a>. 
+</p>
+</letter>

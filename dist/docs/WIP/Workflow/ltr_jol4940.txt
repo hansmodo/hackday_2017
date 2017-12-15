@@ -1,0 +1,121 @@
+<letter id="jol4940">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have read with attention your kind favour of the 2d inst., and have frequently had occasion to discuss 
+the subject matter of it. I have more than once contended, that supposing the Congress should be guilty 
+of the greatest injustice towards the officers of the army, a general abandonment of the service at this 
+perilous crisis, the consequences of which must evidently be the ruin of our cause, would merit eternal 
+infamy. A majority, composed perhaps only of ten men, conduct the present system, will you, to punish them for acting either unadvisedly or even with ill 
+design, sacrifice the liberties of America, and desperately involve yourselves in the perdition which 
+you bring upon them? That man, however injured by the representatives of the people, who will desert the public interest, is destitute of virtue and unworthy to be free. 
+</p><p>
+I must confess to you, with grief, my dearest friend, 
+that upon a nearer view, I have a far less respectable 
+idea of my countrymen than when I beheld their 
+struggle from afar, and could not distinguish the vices 
+with which they are oppressed. I was thunderstruck 
+at hearing a system adopted of governing men by 
+their vices, and putting public virtue and patriotism 
+out of the question, as nonentities, a system so subversive of republicanism that if it prevails, we may bid adieu to our liberties. 
+</p><p>
+Before I received your letter, I was generally against 
+the pensionary half pay establishment, but had not 
+seen in their full extent the inconveniences that would 
+arise from it. You have developed some ideas that 
+had but slightly and feebly presented themselves to 
+me, and have confirmed my opinion ; but, at the same 
+time that I require such virtue in those of the army, 
+as to esteem the loss of estate a cheap price to pay for 
+the honour of establishing the liberties of their country, 
+I would wish the burthens of society as equally distributed as possible, that there may not be one part of 
+the community appropriating to itself the summit of 
+wealth and grandeur, while another is reduced to 
+extreme indigence in the common cause. By what 
+means this is to be effected wise legislators must 
+determine. The power of our enemies and their perfection in the military science, opposed to our inexperience, seem to render it impolitic to arrive at this by 
+alternation in military service. Our safety requires 
+that we should retain those officers and soldiers who 
+are most enured to arms, in order to oppose veterans. 
+Can it be effected by taxes on luxuries, which would 
+be felt only by the rich ? In a republic there ought 
+to be the penalties of sumptuary laws, and should be 
+so severe as to amount to a prohibition ; consequently 
+no fund could be established by these means, to 
+answer any extensive purpose. 
+If we were as virtuous as we ought to be, we should 
+have those who are enriching themselves by commerce, privateering and farming, supplying the army 
+with every necessary convenience at a moderate rate ; 
+but as experience proves that it is in vain to expect this, 
+all I would demand of Congress, is that they would 
+contrive some means of furnishing us with articles 
+which nature cannot forego, and which are useful in 
+giving respectability to the military state, at such 
+prices as bear some proportion to our pay. 
+</p><p>
+I would wish to see the military state rendered 
+honorable, and all odious distinctions of jealousy laid 
+aside, for we are all citizens, and have no separate 
+interests. If mediocrity could be established Gen. rally, by any means, it would be well ; it would ensure 
+us virtue and render our independency permanent. 
+But there never will be virtue in the poor, when there 
+are rich in the same community. By imperceptible 
+and indirect methods, we should labour to establish 
+and maintain equality of fortunes as much as possible, 
+if we would continue to be free. 
+</p><p>
+It is a fact that our officers cannot satisfy the simple 
+wants of nature, much less make that appearance 
+which is annexed to the military state, with their pay. 
+It is no less a fact that in every town on the continent, 
+luxury nourishes as it would among a people who had 
+conquered the world, and were about to pay for their 
+victories, by their decline. This I hope Congress will 
+take seriously into consideration. 
+</p><p>
+I would by no means wish our pay to be increased, 
+but I would wish to see temptations to peculation in 
+weak men removed, and the honest man delivered 
+from the necessity of reducing himself to beggary. 
+This will best be effected by a public establishment 
+for supplying wants at a moderate price. 
+</p><p>
+I have received your favour, inclosing a note for Bringhurst, which will be sent to him by the first good opportunity. 
+</p><p>
+Your favour of the 9th is just received, with the blue 
+cloth and the buttons, for which I return you my best 
+thanks. The last paragraph makes me the more 
+uneasy, as I do not know in what way we are menaced 
+and what is the extent of the danger. 
+</p><p>
+"We have heard nothing from our commissioners 
+since their arrival at New Town, from whence WQ 
+conclude that they are going on well. They were 
+exceedingly chagrined at the distrust of their abilities 
+which was conspicuous in the resolves of Congress. 
+They had been perfectly satisfied with the prospects 
+which they had at their first interview, at German 
+Town. 
+</p><p>
+Inclosed you will receive the Kutledge papers. 
+The General has been so much occupied that I 
+have not given them him to read, and though he 
+has got over his great business of a long official 
+letter, I fear to detain them any longer. Altho he 
+is an advocate for the half pay establishment, on the 
+principles of economy and justice to the officers, I 
+apprehend that if any other mode were proposed 
+for rendering commissions honorable, and enabling 
+the officers to subsist with decency, he is not inviolably attached to this. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+My best respects to <a href='/results.php?tla=wid' rel=''>Mr. Drayton</a> ; I will be looking 
+out for quarters for him. 
+</p>
+</letter>

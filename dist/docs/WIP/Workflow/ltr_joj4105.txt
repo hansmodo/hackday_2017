@@ -1,0 +1,23 @@
+<letter id="joj4105">
+<recipient first="Fisher" last="Ames" type="individual"/>
+<p>   	 
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1789' rel="origin">1789</a>, 
+</p><p>
+Dear Sir. 
+</p><p>
+I have this moment been favoured with your letter of the 
+10th of this month. Mr. Sedgwick has given me the same 
+character of Mr. Tucker that you do. There are at present several candidates for the place in question,* and probably the number will be increased before the appointment 
+takes place. As it should be the result of mutual information and joint consultation between the judges, it appears to 
+me proper that I should in the mean time remain free from 
+engagements, express or implied, to or for any gentleman, 
+however well recommended. The reserve which this consideration imposes will not permit me to enlarge upon this 
+subject ; but I know of no consideration which should restrain 
+me from assuring you very explicitly of the esteem with 
+which I am, dear sir, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

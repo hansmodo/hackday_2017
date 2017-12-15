@@ -1,0 +1,21 @@
+<letter id="mbc7754">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. And now the young ones are in bed and I am wide awake. It is an odd thing; in all my life 
+how many persons have I seen in love? Not a half-dozen. And I am a tolerably close observer, a faithful watcher 
+have I been from my youth upward of men and manners. Society has been for me only an enlarged field for character study. 
+</p><p>
+Flirtation is the business of society; that is, playing at love-making. It begins in vanity, it ends in vanity. It is 
+spurred on by idleness and a want of any other excitement. Flattery, battledore and shuttlecock, how in this game flattery is dashed backward and forward. It is so soothing to self-conceit. If it begins and ends in vanity, vexation of 
+spirit supervenes sometimes. They do occasionally burn their fingers awfully, playing with fire, but there are no 
+hearts broken. Each party in a flirtation has secured a sympathetic listener, to whom he or she can talk of himself 
+or herself somebody who, for the time, admires one exclusively, and, as the French say, excessivement. It is a 
+pleasant, but very foolish game, and so to bed. 
+</p><p>
+<a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> and Thomas have had a fearful fight, with carnage and loss of generals excessive in proportion to numbers. That means they were leading and urging their men up to the enemy. I know how Bartow and Barnard Bee 
+were killed bringing up their men. One of Mr. Chesnut's sins thrown in his teeth by the Legislature of South Carolina was that he procured the promotion of Gist, " State Rights " Gist, by his influence in Richmond. What have 
+these comfortable, stay-at-home patriots to say of General Gist now? " And how could man die better than facing fearful odds," etc. 
+</p><p>
+So Fort McAlister has fallen ! Good-by, Savannah ! Our Governor announces himself a follower of Joe Brown, of Georgia. Another famous Joe. 
+</p>
+</letter>

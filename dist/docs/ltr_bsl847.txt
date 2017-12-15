@@ -1,0 +1,17 @@
+<letter id='bsl847'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=santa barbara' rel='city origin'>Santa Barbara</a><br/>  
+May <a rel='day origin' value='18'>18th</a>, <a href="/results.php?year=1853">1853</a><br/>  
+Mr. B.D. Wilson,
+</p><p>
+Dear Sir,
+</p><p>
+Your favor came to hand after some delay and I did not answer it expecting every week to start for Los Angeles, but not being able to get farther south this time, I hasten to write you in relation to the subject we were speaking of.
+</p><p>
+Your wrote that the spring had partially dried up; it must certainly fine vent somewhere in the same neighborhood and should you succeed in procuring possession, I will pay half the expenses by a draft on my through Palmer, Cook, and Co. Machinery and apparatus has been forwarded to this state by Gov. Purdy's brother who will be prepared to operate as soon as he arrives. I feel assured in stating to you nothing can be lost by a moderate outlay to secure the right to the spring and a small quantity of land adjacent. Should you judge it of sufficient importance to claim your time and attention for a short time, please acquaint me at your earliest convenience.
+</p><p>
+respectfully, Yr. obdt. servt.<br/>  
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>

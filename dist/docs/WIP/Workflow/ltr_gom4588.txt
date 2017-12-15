@@ -1,0 +1,65 @@
+<letter id="gom4588">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+When this letter reaches your hands it will probably find you 
+meditating on the situation of France, which is not perhaps en 
+viable, but it is by no means so dreadful as would at first sight 
+appear. This country is arming, and I am convinced with a 
+determination to compel not only Spain, but every other power, 
+to subscribe such terms as she may choose to dictate. You 
+will strive in vain to deprecate the blow, therefore you must 
+prepare to meet it, to return it, or rather so to strike as may 
+prevent it. 
+</p><p>
+The enclosed letter is left open for your perusal ; pray for 
+ward it. I do not think that France can be prepared before 
+September ; but it is not improbable that under existing circumstances the King of Hungary would cede, as a don de famille, 
+his rights to the low countries upon assurances of effectual aid 
+to support his claims to Silesia, and elsewhere in that quarter. 
+Certainly a good understanding might be obtained with the party of General Vandermersch, and measures might be taken to 
+secure the surrender of the few garrison towns, which are in 
+that country. These things being ripened, two armies, composed in a great measure of militia, might march, the one from 
+Luxembourg and take post in Liege, so as to oppose there effectually with any army of good troops the efforts of Prussia ; 
+the other might go along the sea coast. But a detachment of 
+each army might move so as to form a junction at Brussels, 
+and go thence down the Scheldt to Antwerp. The mode of co 
+operating against Holland seems to me to be from Dunkirk, 
+with vessels which Jones will describe to you, so as to fall in up 
+on Amsterdam ; which being effected would, with the aid of 
+the popular party, give possession of the whole country. Or, 
+allowing a great part, or even the whole of this plan to fail at 
+first, it would eventually succeed in uniting all Flanders to the 
+Kingdom of France, and, by obliging this country to fight at 
+land, would greatly exhaust her. 
+</p><p>
+Previous to striking a blow, preparations should be made in 
+your islands, by laying an embargo on all ships there on the 
+same day that an embargo is laid on ships in your own ports ; 
+and if the nation should not be able to fit out all your ships of 
+war, the smaller ones might be disposed of to great advantage 
+to merchants, who would fit them out as privateers. Such 
+ships of war as you can fit out might be selected from the fastest sailers, and cruise upon the commerce, with orders to destroy whatever they can, and to secure the seamen. The Dutch 
+commerce should be respected, let them do what they will ; by 
+which means you will secure friends in that country and excite 
+contention between the allies. 
+</p><p>
+The difference between France and Britain is, that the former can exist without commerce, but the latter cannot. Secure 
+their seamen, and never exchange them ; you will by that 
+means ruin both their Marine and Finance ; and, if you send 
+those seamen into the interior parts of the kingdom, and em 
+ploy them in public works upon the highways, &ic. &tc. they 
+will cost you nothing, and by degrees lose their habits of seamanship. 
+</p><p>
+I hear you cry out that the Finances are in a deplorable situation. This should be no obstacle. I think that they may 
+be restored during war better than in peace. You want also 
+something to turn men's attention from their present discontents. Admitting, however, everything that can be said on the 
+chapter of Finance, surely it is better to strike than to be 
+struck; and you will strive in vain to parry the blow. Adieu, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,19 @@
+<letter id="sid5065">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I take the liberty of addressing you on the subject of a memorial I presented to Congress, and to pray you would 
+inform me what the determination of Congress has been thereon. 
+</p><p>
+I have the honor to be, with the most sincere respect 
+</p><p>
+and attachment, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

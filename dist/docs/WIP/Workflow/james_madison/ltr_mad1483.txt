@@ -1,0 +1,29 @@
+<letter id='mad1483'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, ESQ. [SR.]
+</p><p>
+Feb. 12th, <a href="/results.php?year=1782">1782</a>. 
+</p><p>
+HON'D SIR,
+</p><p>
+The disappointment in forwarding the money by Mr. Brownlow has been sorely felt by me, and the more so as the Legislature has made no provision for the subsistence of the Delegates 
+that can be relied on. I hope some opportunity will soon put it 
+in your power to renew the attempt to transmit it, and that the 
+delay will have made considerable addition to it. Besides the 
+necessity of this supply for the common occasions, I have frequent opportunities here of purchasing many scarce and necessary books at a fourth of the price which, if to be had at all, 
+they will hereafter cost me. If an immediate conveyance does 
+not present itself for the cash, I would recommend that a bill 
+of exchange on some merchant here be got of Mr. Hunter, Mr. Maury, or other respectable merchant, and forwarded by the 
+post. This is a safer method than the first, and I make no 
+doubt is very practicable. I wish, at all events, the trial to be 
+made, and that speedily. 
+</p><p>
+I recollect nothing new which is not contained in some of the 
+late papers. 
+</p><p>
+Present my affectionate regards to all the family. I have not 
+time to add more than that I am, 
+Your dutiful son. 
+</p>
+</letter>

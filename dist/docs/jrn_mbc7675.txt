@@ -1,0 +1,41 @@
+<letter id="mbc7675">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. Bragg begs to be relieved of his command. The army will be relieved to get rid of him. He 
+has a winning way of earning everybody's detestation. Heavens, how they hate him ! The rapid flight of his army 
+terminated at Ringgold. Hardie declines even a temporary command of the Western army. Preston Johnston has been 
+sent out post-haste at a moment's warning. He was not even allowed time to go home and tell his wife good-by or, 
+as Browne, the Englishman, said, to put a clean shirt into his traveling bag." <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> and <a href='/results.php?tla=grm' rel=''>Meade</a> are facing each other gallantly. 
+</p><p>
+The first of December we went with a party of Mrs. Quid's getting up, to see a French frigate which lay at 
+anchor down the river. The French officers came on board our boat. The Lees were aboard. The French officers were 
+not in the least attractive either in manners or appearance, but our ladies were most attentive and some showered bad 
+French upon them with a lavish hand, always accompanied by queer grimaces to eke out the scanty supply of French 
+words, the sentences ending usually in a nervous shriek. " Are they deaf? " asked Mrs. Randolph. 
+</p><p>
+The French frigate was a dirty little thing. Doctor Garnett was so buoyed up with hope that the French were 
+coming to our rescue, that he would not let me say " an 
+English man-of-war is the cleanest thing known in the world. " Captain said to <a href='/results.php?tla=mnc' rel='acquaintance met'>Mary Lee</a>, with a foreign 
+contortion of countenance, that went for a smile, " I's bashlor. " Judge Ould said, as we went to dinner on our 
+own steamer, " They will not drink our President's health. 
+They do not acknowledge us to be a nation. Mind, none 
+of you say Emperor, not once." Doctor Garnett interpreted the laws of politeness otherwise, and stepped for 
+ward, his mouth fairly distended with so much French, and said: " Vieff Emperor." Young Gibson seconded him 
+quietly, "A la sante de I Empereur." But silence prevailed. Preston Hampton was the handsomest man on 
+board the figure of Hercules, the face of Apollo, cried an enthusiastic girl. Preston was as lazy and as sleepy as 
+ever. He said of the Frenchmen "They can't help not being good-looking, but with all the world open to them, to 
+wear such shabby clothes ! "
+</p><p>
+The lieutenant's name was Rousseau. On the French frigate, lying on one of the tables was a volume of Jean 
+Jacques Rousseau's works, side by side, strange to say, with a map of South Carolina. This lieutenant was courteously 
+asked by <a href='/results.php?tla=mnc' rel='acquaintance met'>Mary Lee</a> to select some lady to whom she might introduce him. He answered: " I shuse you," with a bow 
+that was a benediction and a prayer. 
+</p><p>
+And now I am in a fine condition for Hetty Gary's starvation party, where they will give thirty dollars for the 
+music and not a cent for a morsel to eat. Preston said contentedly, I hate dancing, and I hate cold water ; so I will 
+eschew the festivity to-night." 
+</p><p>
+Found John R. Thompson at our house when I got home so tired to-night. He brought me the last number of the 
+Cornhill. He knew how much I was interested in Trollope's story, Framley Parsonage. 
+</p>
+</letter>

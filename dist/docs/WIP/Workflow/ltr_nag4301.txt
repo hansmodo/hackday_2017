@@ -1,0 +1,43 @@
+<letter id="nag4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I beg leave to congratulate your Excellency upon 
+the returning smiles of peace, and the happy establishment of our independence. This important event 
+must be doubly welcome to you, who have so successfully conducted the war, through such a variety 
+of difficulties, to so happy a close. If universal respect, and the general affections of a grateful country, 
+can compensate for the many painful hours which 
+you have experienced in your country's cause, you 
+are richly rewarded. Every heart feels, and every 
+tongue confesses, the merit and importance of your 
+services. The polite attention, which I have experienced since I have had the honor to serve under 
+your command, claims my particular acknowledgments ; and I feel a singular satisfaction in having 
+preserved your confidence and esteem through the 
+whole progress of the war, notwithstanding man}'- jarring interests. 
+</p><p>
+This pleasing event has relieved me from a load 
+of anxiety on account of this country. I was much 
+perplexed about withdrawing the troops from these 
+States. 
+</p><p>
+I wished to comply fully with the spirit of your 
+orders on this subject, but was at a loss how, without involving us both in difficulties. Happily for us, 
+these are removed. I have sent an express-boat to 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, to get your final orders respecting the 
+troops, and to see if transports can be got to take 
+the army to the northward, as I am anxious to get 
+it away from here as early as possible. I hope this 
+may find you in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and that you will be 
+able to return me an answer in a few days. The 
+cavalry must march by land, unless the horses are 
+sold here. I suppose I shall have liberty to come to 
+the northward, as soon as I can make it convenient, 
+where I have many calls, both of a public and private nature. I have the honor to be, with great respect and esteem, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

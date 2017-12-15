@@ -1,0 +1,28 @@
+<letter id='bsl845'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=san jose' rel='city origin'>San Jose</a> Jany 	<a rel='day origin' value='28'>28th</a>, <a href="/results.php?year=1851">1851</a><br/>  
+Senate Chambers<br/>  
+Jno L. Stephens, Esq.
+</p><p>
+Dr. Jn.
+</p><p>
+Your last favor was recd just previous to the convening of the Legislature. In relation to the Vallejo Scheme, I hve secured from Genl. Vallejo and Capt. Frisbee (his agent) two shares--one for yourself and myself, and the other between Col Geo McDougal and myself. The bill for the removal of the capital from this place has passed our body by a vote of eleven to two. Fears are entertained for its safety in this house, but I can assure you, young politicians as we are, deeper intriguew wee never resorted to. This is a school calculated to make one better acquainted with human nature than any I have ever been connected with.
+</p><p>
+You will notice our friend D.W. Broderick Esq. is our president, the Lieut. Gov. filling the place of P.H. Burnett who resigned.
+</p><p>
+I was waited upon by a committee to take the appointment and also by David, but declined. Much feeling exists between Northern and Southern members. This ultraism of the South and fanaticism of the North I despise and have kept all off from either party. My course has been independent.
+</p><p>
+The Legislature is very nearly a tie and with two friends who go with me, I shall be able to paralize the action of wither unless the movements are formidable. Questions have been made me by prominent men aiming at the Senatorship, but always through third persons. Apon all occasions I listen. The candidates now before us are <a href="/results.php?tla=jhf" rel="colleague met">J.C. Fremont</a>, Jno. W. Geary, Jno B. Nelles, T.Butler King, and Soloman Heydenfelt. All have their strong friends, and should each party conform to a caucus nomination, I predict a Democrat will be returned. I was shown a letter written by King this morning intended to this steamer, reccommending to <a href="/results.php?tla=mif" rel="">Millard Filmore</a> my appointment as one of the U.S. Com[missioners] to settle the old Cal. claims. It was not at my request, but would accept--it may have been a "feeler." Constant intimacy with these Gents. show the influence at work and Gov. patronage is freely distributed.
+</p><p>
+I was not sufficiently explicit in relation to the seat of Gov. The city is divided into thirty shares, and for each share secured to the shareholders, it is necessary they should give bonds for the payment of $7500 dolls per share to be paid in two years from the time the Gov. signs the Bill or so soon as property can be sold, the proceeds to be paid to the Board of Directors. All this I can easily arrange already many are desirous to take hold and advance for an interest. I have no doubt a most profitable investment will be made again. The influences used by Genl Green as agent for influential individuals at home are carrying their due weight.
+</p><p>
+You will observe by the papers the disturbance with the Indians. I fear a protracted war. They number 8 or 9000--subsisting on roots and acorns and taking refuge in their mountain fastnesses. The Governor has ordered out a force in connection with a force dispatched by Genl P.F. Smith. I have just recd from Senator Woodsworth a recommendation to <a href="/results.php?tla=mif" rel="">President Fillmore</a> in favor of myself as a commissioner to settle claims of our citizens against the U.S. Govt. It was signed by every senator. I understand there is also one in circulation in the House. It will do no harm to forward them. 29th Jany.--T.B. King has opened (privately) a serious question in relation to the Quicksilver mines of this place. The Almaden Mine yields now at the rate of $1,200,000 per annum and other equally rich veins are in the vicinity. I have certain knowledge of some facts that should prove profitable--More anon.
+</p><p>
+Before the receipt of your letter, I had your circular published in the "Herald" and forwarded some copies to your, desiring to draw attention here to the completion of your giant work in which our people are vitally interested. Any service I can be, I will willingly lend my attention. Some of my plans must obtain, for instance, being chairman of the committee on public buildings and state prisons. I have a scheme to report a bill in which the Gov. will have the appointing power of superintendents and be authorized to let to parties the care of the prisoners for their clothing and subsistance, in the lieu of the labour to be performed--at the rate of labour here a most profitable arrangement will be made--of course through third persons.
+</p><p>
+Your old friend Dennis is dong well. I never meet [him] that he does not speak of you--Please give my best respects (he will say) if you write. I also met Jno. Mc[--?--]. He has done well. Casserly who brought a letter form you has his paper in full blast in San Francisco. Please remember me to Uncle Benj. By last mail I had recd from home all well. With due respect, Your obdt servt.
+</p><p>
+<a href="/results.php?tla=bsl" rel="me">Benjamin S. Lippincott</a>
+</p>
+</letter>

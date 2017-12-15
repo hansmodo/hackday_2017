@@ -1,0 +1,13 @@
+<letter id="mbc7699">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='1'>1st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> gave her " Luncheon to La 
+dies Only " on Saturday. Many more persons there than at any of these luncheons which we have gone to before. 
+Gumbo, ducks and olives, chickens in jelly, oysters, lettuce salad, chocolate cream, jelly cake, claret, champagne, etc., 
+were the good things set before us. 
+</p><p>
+To-day, for a pair of forlorn shoes I have paid $85. Colonel Ives drew my husband's pay for me. I sent Lawrence for it (Mr. Chesnut ordered him back to us; we needed a man servant here). Colonel Ives wrote that he was 
+amazed I should be willing to trust a darky with that great bundle of money, but it came safely. Mr. Petigru says you 
+take your money to market in the market basket, and bring home what you buy in your pocket-book. 
+</p>
+</letter>

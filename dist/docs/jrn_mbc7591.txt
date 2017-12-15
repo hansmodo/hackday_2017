@@ -1,0 +1,37 @@
+<letter id="mbc7591">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Found it quite exciting to have a spy 
+drinking his tea with us perhaps because I knew his profession. I did not like his face. He is said to have a 
+scheme by which Washington will fall into our hands like an overripe peach. 
+</p><p>
+Mr. Barnwell urges Mr. Chesnut to remain in the Senate. There are so many generals, or men anxious to be. He 
+says Mr. Chesnut can do his country most good by wise counsels where they are most needed. I do not say to the 
+contrary ; I dare not throw my influence on the army side, for if anything happened ! 
+</p><p>
+Mr. Miles told us last night that he had another letter from <a href='/results.php?tla=pgb' rel='met'>General Beauregard</a>. The General wants to know 
+if Mr. Miles has delivered his message to Colonel Kershaw. Mr. Miles says he has not done so ; neither does he mean to 
+do it. They must settle these matters of veracity according to their own military etiquette. He is a civilian once more. 
+It is a foolish wrangle. Colonel Kershaw ought to have reported to his commander-in-chief, and not made an independent report and published it. He meant no harm. He is not yet used to the fine ways of war. 
+</p><p>
+The New York Tribune, is so unfair. It began by howling to get rid of us : we were so wicked. Now that we are 
+so willing to leave them to their overrighteous self-consciousness, they cry : Crush our enemy, or they will subjugate us." The idea that we want to invade or subjugate anybody; we would be only too grateful to be left alone. We ask no more of gods or men. 
+</p><p>
+Went to the hospital with a carriage load of peaches and grapes. Made glad the hearts of some men thereby. When 
+my supplies gave out, those who had none looked so wistfully as I passed out that I made a second raid on the mar 
+ket. Those eyes sunk in cavernous depths and following me from bed to bed haunt me. 
+</p><p>
+Wilmot de Saussure, harrowed my soul by an account of a recent death by drowning on the beach at Sullivan's 
+Island. Mr. Porcher, who was trying to save his sister's life, lost his own and his child's. People seem to die out 
+of the army quite as much as in it. 
+</p><p>
+Mrs. Randolph presided in all her beautiful majesty at an aid association. The ladies were old, and all wanted 
+their own way. They were cross-grained and contradictory, and the blood mounted rebelliously into Mrs. Randolph's 
+clear-cut cheeks, but she held her own with dignity and 
+grace. One of the causes of disturbance was that Mrs. Randolph proposed to divide everything sent on equally with 
+the Yankee wounded and sick prisoners. Some were enthusiastic from a Christian point of View ; some shrieked in 
+wrath at the bare idea of putting our noble soldiers on a par with Yankees, living, dying, or dead. Fierce dames were 
+some of them, august, severe matrons, who evidently had not been accustomed to hear the other side of any question from 
+anybody, and just old enough to find the last pleasure in life to reside in power the power to make their claws felt. 
+</p>
+</letter>

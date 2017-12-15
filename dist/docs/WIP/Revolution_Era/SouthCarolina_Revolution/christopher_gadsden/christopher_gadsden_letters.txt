@@ -1,0 +1,385 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.eLinft on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--crg
+--DOC-AUTHOR-FIRST--Christopher
+--DOC-AUTHOR-LAST--Gadsden
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="crg3900">
+<recipient first="Morton" last="Wilkinson" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>PHILADELPHIA</a>, <a rel="month origin" value="9">Sept.</a> 	<a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1782' rel="origin">1782</a> 
+<p>
+You have my ardent and sincere wishes for your safe and speedy 
+junction with our common friends. Our cause is good ; the cause of 
+humanity itself, and as it would be blasphemy in the highest degree, 
+to think a Good Being would create human nature to make it unhappy, 
+and countenance its being deprived of those natural rights without 
+which our existence would not be tolerable; our cause may, therefore, be 
+justly called the cause of God also. These were my sentiments at the 
+time of the Stamp Act, the beginning of our dispute, they have continued 
+to be so ever since, and with the blessing of God, I am ready and willing 
+to undergo any thing Heaven may still think proper to call me to suffer 
+in support of it. We are tried, but I firmly trust not given over, and 
+that God will once more restore us to our country and our rights, and 
+that soon, when we shall have reason to look up to Him, and be convinced that his correction has been necessary, kind and proper, such as 
+no father in our quandam circumstances could avoid giving to his children, unless he had totally delivered them up to their own wild and 
+perverse imaginations, and abandoned us altogether. That we may 
+pursue every prudent, reasonable, humble and truly political step, devoid 
+of passion and vindictive resolutions is my warmest wish, Revenue is 
+below a brave man; vengeance belongeth to the Almighty; He has 
+claimed it expressly as His right, wisely foreseeing the shocking havoc 
+man would make with such a weapon left to his discretion. However, 
+a just retaliation, upon an abandoned and cruel enemy, may be some 
+times absolutely necessary and unavoidable, but then that necessity 
+should glaringly appear, be used sparingly and with propriety, that is, 
+as near as possible on the offenders themselves. This even humanity 
+may require ; might show steadiness and firmness, and would meet the 
+approbation of all the candid part of mankind. Instead of bayoneting 
+poor soldiers for the cruelty of their officers, when we have them at our 
+mercy when the unexampled cruel treatment of our friends in their 
+power absolutely required a return, and when they have unjustly tortured or taken away the lives of any of them, a retaliation in such cases, 
+in my humble opinion, would be much better taken of the officers; I 
+would save them in the field, and immediately hang a few of the heads 
+of them on the lines, in presence of the soldiers taken with them declaring publicly the reasons why it was done, and afterwards if the enemy s 
+lines were near, offer them the bodies of such officers to honor them 
+with what funeral they thought proper. The higher the rank of the 
+officer that fell into our hands, the nearer should we come to and 
+punish the cause of the cruelties our friends had suffered, and in my 
+opinion show the greater spirit and propriety in taking such a method, 
+and the sooner prevent the repetition of their barbarities. Even Lord 
+Cornwallis himself, if Fame says true, has been guilty of numberless 
+cruelties, in cold blood, and if he fell into our hands, it would be the 
+highest justice to make him suffer in an exemplary manner for them. 
+</p><p>
+You will let our friends know our situation, and that though perhaps 
+they cannot without great inconvenience detain all the prisoners they take, and are, perhaps, obliged, from peculiar circumstances, to parole 
+must have been the case heretofore, yet such miscreants as have acted in high stations, have done us great mischief 
+by the example of their defection, and otherwise are continually playing 
+us tricks, and by no means are to be trusted, we hope they will for our 
+sakes, keep such perfidous wretches at such a distance from Charlestown, 
+and parolled if they think proper, at least, where they can do no more 
+mischief. This, common fellow-feeling for our friends absolutely requires ; indeed, a contrary conduct will encourage these worst of enernies, and make them contrive to throw themselves artfully in the way 
+to be captured that they may carry on their cool, sly, detestable villainy 
+with more security. I beg pardon, my dear friend, for troubling you 
+with this long scrawl. My love to all our friends; tell them I hope to 
+be with them soon, and to set out from hence as soon as possible after 
+my family arrives the beginning of next month at farthest ; particularly make my compliments to Gen. Marion. I am much obliged to 
+him for his friendship at my plantation on Black River; entreat he 
+will continue it. If you cannot see him, contrive, if you can, to let him 
+know it. If any thing from thence, by his means or through any of 
+my other friends, can be transmitted to my family here, it would be of 
+great service to them, and what they will stand in need of. 
+</p><p>
+I am, dear sir, your most affectionate humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=crg" rel="me">CHRISTOPHER GADSDEN</a>. 
+</p><p>
+P. S. Poor Kriapp should not be forgot. His firmness and integrity 
+under the severe trials we have been witness to, entitle him to particular 
+attention. 
+</p>
+</letter><letter id="crg3901">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a rel="month origin" value="10">October</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+MAY IT PLEASE YOUR EXCELLENCY : 
+</p><p>
+As your Excellency has taken the whole matter of the late agreement 
+with the British on yourself, and that by the executive authority, and 
+executive, &c., mentioned in the fourth article, your Excellency is to 
+be understood. I was in doubt with myself (and took a day or two to 
+consider further of it) whether there would be occasion to trouble your 
+Excellency with the little mentioned; but, as I still unhappily differ 
+from your Excellency in opinion, and am persuaded, if from nothing 
+else, from the want of precision, at least, in the expression of that 
+article, the State at large will be led to think the Privy Council are 
+made a party thereto, and, of course, myself, a member thereof. As I 
+dislike the agreement, very cogent reasons oblige me to send your 
+Excellency my formal disapprobation thereof, nearly in the words. I 
+drew immediately a rough sketch on seeing it, which I then showed to 
+those gentlemen of the Council I mentioned to your Excellency, and 
+should have sent it to your Excellency had not the Council been summoned so soon. The doctrine broached at the last Council, which I 
+never heard or suspected before, that the Privy Council is in no case 
+part of the executive, is, in my opinion, very alarming; it tends to 
+make them insignificant, and the next step is, when an opportunity 
+offers, to expunge that body altogether from the Constitution, and pre 
+pare the way to reduce this Government to a kind of Principality. I 
+have frequently, in the Assembly, taken notice how great an eye-sore 
+the Privy Council seemed to be to some gentlemen amongst us, and 
+what indirect strokes were aimed at them. That the Governor is the 
+sole ostensible executive of the State, is readily granted; further, that 
+in all acts wherein he is not particularly retrained by law, he may be 
+said to be absolutely so; but, in such laws wherein it is expressly 
+directed that he shall not act but by the advice and consent of the 
+Privy Council, there they are certainly part of the executive. For I 
+have ever learned, that whatever is essentially necessary to a thing, that 
+that thing cannot exist without it, most belong to it and participate of 
+its nature so in this last case, .whenever the law requires that when a 
+Governor is inclinable to a certain executive act, that executive act 
+shall not be done but by the advice and consent of the Privy Council. 
+If it be done without such advice and consent, it is illegal; therefore, 
+they are certainly a sine qua non to make the Governor act legally in 
+such instance, and, consequently, in such cases, are a necessary part of 
+the executive, and the individual members thereof may be said to be 
+parties thereof. What confusion this can occasion, or how by this 
+omission there can be ten Governors in this State instead of one, not 
+withstanding what a learned, or any number of learned lawyers what 
+ever may say, I cannot conceive. Besides, in case of the death of a 
+Governor, during the recess of the Assembly, will not the Lieutenant-Governor immediately succeed, and, in case of his death, too, one of 
+Privy Council? Does not this show they belong to the executive? 
+</p><p>
+Their participation of the executive is but sometimes in particular cases, 
+and that only internally or privately (as a Privy Council) without any 
+external authority whatever; this belongs solely to the Governor or 
+Commander-in-Chief. This, or something like it, I take to be the intention of the words in the eleventh article of the Constitution " in 
+manner herein mentioned," placed immediately after to modify and re 
+strain the words " that the executive authority be vested in the Governor and Commander-in-Chief;" otherwise, those words must be altogether nugatory, and put for no purpose whatever. I will now beg 
+leave to trouble your Excellency with the letter already mentioned. 
+" May it please your Excellency I have seen the agreement with the 
+British, dated the 10th, and find by its fourth clause that, as a particle 
+of the executive, though unconsulted, I seem to be made a party therein 
+to promote its acceptance with the public, which occasions my troubling 
+your Excellency by letter, as my conscience and duty oblige me to 
+declare that I disapproved almost every article. Indeed, I am not able 
+to see any pressing occasion we had for any further meeting with the 
+enemy s commissioners, after the last, convened at their request, broke 
+up, which I was not sorry for, as we have so greatly the advantage of 
+them, in point of British property, to lay our hands on when we please. 
+This they well knowing, no doubt occasioned so much anxiety on their 
+side for a further meeting. The agreement itself appears to me extremely injurious to the public, and fear it will involve us in endless 
+ill consequences. With British lawsuits, no doubt, our courts will be 
+filled; but these are trifles to what might be mentioned. The exception in the first article is not only, in my humble opinion, imprudent 
+and impolitic with regard to ourselves; but, when taken with the 
+second, has an unfriendly (if not inimical) aspect towards our sister 
+States. Its eighth article is, in the last degree, humiliating. The greatest and tenderest care seem to be taken of the British interest, honor, 
+and even delicacy, throughout the agreement, while our rights, and 
+what is essential to our honor and interest, are totally omitted, or not 
+mentioned with that unequivocal plainness and precision, and that decisive firmness we had room to expect. The whole agreement carries 
+such manifest appearance of timid and over-cautious fear of offending 
+the British, that instead of hastening, it has a natural tendency, when 
+considered with the situation of the State for this last campaign, to 
+retard their departure to the last moment they possibly can, in hopes 
+that (as only interior disadvantages on their side oblige them to think 
+of an evacuation) some external good luck may turn up in the interim, 
+to bring about a recall of their orders. The plentiful markets and 
+great trade they have already had with our people during the whole 
+summer, the prospect of still greater when the crops come in, together 
+with no small advantages they may promise to themselves if they can 
+but stay, to dabble through their emissaries at our ensuing election, 
+must of themselves be strong allurements to a watchful enemy not to 
+hurry away until it is absolutely unavoidable; and must not their inducements be still stronger when they consider what is too glaring to 
+escape them, the lax situation of our Government for want of courts, 
+notwithstanding the parade of an Assembly sitting at Jacksonborough. 
+The preference too currently given them, of all kind of necessaries 
+for their specie and goods, rather than to our own army, which has 
+been more than once in want, even of our common staple, rice, and 
+beef, for several days together (and I wish I may not soon experience 
+more alarming wants than any they have hitherto felt, if something 
+more vigorous than in terrorem threats are not speedily and resolutely 
+fallen upon) is no small addition to their other advantages. Above all, 
+are not the enemy sure that our army cannot compel them to go away, 
+or restrain them from making incursions almost anywhere for many 
+miles, but just about the spot they occupy? These must be great incitements for them to stay, if possible. The first article will be of more 
+service than ever, as having experienced, they can put a confidence in 
+them, and of the most dreadful consequences to us, by having such 
+powerful arguments to induce others to join them, and exert themselves 
+to the utmost to do us as much mischief as they possibly can, finding 
+they will thereby recommend themselves the more to the British, and 
+stand the better chance to insure them protection upon a pinch. In 
+my humble opinion, better the whole value of these fellows should be 
+lost altogether than that the public should countenance so dreadful a 
+mischief. 
+</p><p>
+" My duty to the State, and regard to my own reputation, (not desiring to be looked upon as a party to promote what I disapprove of,) has 
+extorted this letter from me, which I hope will not give your Excellency any offence, which is far from my intention; for believe me, sir, 
+no man more sincerely wishes that your administration, in these very 
+difficult times, may prove not only serviceable to the public, but also 
+honorable to yourself, and meet with general applause, than I do. I 
+had some thoughts of reserving my opinion on this measure in my own 
+breast till the Assembly sat ; but, upon further consideration, it appeared uncandid to your Excellency, and looked too much like cunning, which 
+I abhor. 
+</p><p>
+I am, with great respect, your Excellency s &c., &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=crg" rel="me">CHRISTOPHER GADSDEN</a>. 
+</p><p>
+N. B. The former part of this letter does not enter into the merits, 
+whether the Governor had a right to exercise that particular act of 
+agreement with the British solely of himself; but only takes up Mr. Rutledge's assertion in the Governor's favor, that the Privy Council 
+were a part of the executive in no case whatever. 
+</p>
+</letter><letter id="crg3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+(NEAR THE GOVERNOR'S QUARTERS), <a rel="month origin" value="10">October</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your favor of the 18th I received by Mr. Ferguson, on his return 
+from Accabe, his commission about the negroes being at an end. The 
+British, it seems, make a pretence that it was because Major Rudolph 
+had taken a small party near their lines, and unless <a href='/results.php?tla=nag' rel='colleague'>Gen. Greene</a> returned them, they would not send a negro out; but this is a mere pretence, they had not the least right to make such a demand on the 
+General. I should be extremely happy to have it in my power to oblige 
+you, and serve <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>, whose perseverance, firmness and merit, 
+must be evident to everybody. Should the agreement be received, 
+which I think there is little probability of, you may be assured that 
+nothing in my power shall be wanting to serve him, <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>; and, 
+as Col. Moncrieff has the negroes, who is one of the principal opposers 
+of the agreement being complied with, I will use my endeavors with 
+the Governor, if he can do it with propriety, to make a particular demand for them. The measure was certainly amazingly to the advantage of the British nation ; and, if their troops here had not as little 
+spirit with regard to them as our people manifestly show with regard to this State (by that d -d communication with the town, which has 
+now over-run all bounds) they would gladly have complied with the 
+agreement to a title; but private interest on their side has overset it. 
+Leslie has been very anxious about it for months past, and seen the 
+advantages we had over him, and made several overtures before it was 
+brought to a point. For my part, my friend, I was always for keeping 
+coolly the ground the Assembly left us, pointing out to the enemy the 
+glaring superiority we had, and, at the same time, hinting that, if they 
+wantonly distressed us, the Assembly, however willing of themselves, 
+would certainly make use of the means in their power to do the State 
+justice. This, as often as I had opportunity in private conversation 
+with the Governor, I constantly gave as my opinion; however, his 
+Excellency thought otherwise, and, without consulting the Privy 
+Council at all, made the agreement himself. As soon as I saw it, I 
+was very sorry for it, looking upon it as weak in itself, unnecessary, 
+impolitic, humiliating, and pregnant with bad consequence to the State. 
+Finding by the penning of the fourth article that the Privy Council 
+seemed to be made parties thereto, though never consulted upon that 
+ground, I took the liberty to write to his Excellency, expressed my disapprobation of it in the warmest terms, and pointed out many of its 
+defects. This I mention to you as a friend. We are all indebted to 
+you my dear sir, and I shall always be happy to have it in my power 
+to discharge part of my public debt to you, by rendering you any agree 
+able service. They still talk of the enemy s evacuating soon. I cannot 
+but hear of the motions tending thereto as well as others; but seeing 
+no reasons from within ourselves to oblige them to go away, but too 
+many for their staying, I am still, and shall not think they intend absolutely to go until 1 hear they are over the bar. All their manoeuvring 
+seems to be attended with a mixture of as much delay as possible, as if 
+they still waited further orders, and were determined not to go a moment 
+before they could possibly avoid. 
+</p><p>
+Pray remember me to <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>, and all enquiring friends with you. 
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=crg" rel="me">CHRISTOPHER GADSDEN</a>. 
+</p>
+</letter><letter id="crg3903">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+(NEAR THE GOVERNOR'S QUARTERS), <a rel="month origin" value="10">October</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+Hearing my friend Ferguson was unwell, I made an elopement to see 
+him, and just returned last evening, a little before your express called on 
+me, much fatigued, which prevented your favor by him of the 24th. 
+I am obliged to you for the paper you sent, and think it would be of 
+general information to have it printed ; but Dunlap is so unwell, that 
+he has left off printing, and, besides, his paper is so small, and types 
+so large, that I am persuaded one of his gazettes could not hold a 
+fourth part of it. This would make it far less useful and entertaining 
+than if it came out all together. Should any opportunity unexpectedly 
+offer of giving it to the public, I will not slip it. The more I consider 
+the late intended agreement, the more disgraceful (and that unnecessarily so altogether, in my opinion,) it appears to the State. On the 
+Privy Council not being consulted, and yet seeming to be made a party 
+thereto, I immediately wrote a letter to his Excellency, to disavow my 
+approbation of it; but previous to my sending it, receiving a summons 
+to Council, I kept it back till that should be over, expecting the matter 
+might be opened there; but finding we were called on a different business, and no probability of its being then touched upon, as I saw, I 
+took hold of something that seemed to tend that way, and purposely 
+brought it in indirectly in my argument on what was before us, pleading 
+as an excuse that as a particle of the executive, by the inaccurate wording of the fourth article, I was brought in as a kind of party to an 
+agreement which I almost totally disliked; upon which Mr. E. R., to 
+my astonishment, said that the Privy Council was, in no case whatever, 
+any part of the executive, which he said was also the opinion of another 
+distinguished lawyer he named; and the Governor himself said, that 
+old Col. Pinckney, who is conveniently dead, had told him the same. 
+This, I think, as well as some other circumstances, leaves great room 
+to think, that though the natural Council, appointed by the State, was 
+not consulted on that most important occasion, yet that certain lawyers 
+at least, if not others, were. This novel and dangerous doctrine, so 
+contrary to the spirit of our Constitution and plain letter of many of 
+our laws, so roundly and positively asserted, and, although Lowndes 
+lieutenant during his administration, and during the greater part of J. Rutledge's, I had never heard a title of, or had the least suspicion that 
+any such tenet could be advanced, till this morning I heard it declared 
+in the strongest terms in Council, and a little before by that gentleman, 
+openly in the GOVERNOR'S porch. This induced me, when I went home, 
+to add a note, by way of preface, to the letter I had prepared to send 
+to his Excellency, a copy of which I now enclose you; the proceeding 
+on the cause of it will serve by way of an explanation thereto. We 
+have been wanting, my dear sir, more troops for the General all this 
+campaign, but, in my opinion, we have wanted still more an efficacious civil power; and, if the enemy leaves Charlestown, which still is a 
+doubt with me notwithstanding I cannot help seeing appearances as 
+well as others, their advantages over the country, which at this instant 
+are so amazingly beyond any they ever had I say, in case of an evacuation, and the sword has a little rest, we must lose no time to join 
+shoulder to shoulder to check the rapaciousness, tyranny and insolence 
+of too many of our lawyers, or this State will never be at peace, or in 
+a respectable situation again, or the citizens thereof upon an equal footing with regard to the possession of their property, which, in my 
+opinion, for many years past, the poor and middling people have only 
+held rather from courtesy than right, owing principally to that cause. 
+Nothing but the infinite number of our laws, and what is quoted as 
+authority in our courts (which, without exaggeration, a room of mode 
+rate size would not hold) together with the perplexity and confusion, 
+give these gentlemen their importance, or, indeed, any importance at 
+all. These may be reduced, I am persuaded, to an octavo volume; at 
+most, very few of them will ever help, we may be sure. But the 
+business is of such necessity, that it must be done, as soon as possible, or we shall, in all probability, be undone; for otherwise their 
+insolence as lawyers will be soon equal to what the famous Roman 
+Catholic Bishop Becket said to a gentleman he was not well pleased 
+with. He told him very haughtily that he hoped to see the day when 
+no jack gentleman would dare to stand with his hat on before the lowest 
+priest. Without great care this, or something like it, will be soon the 
+case with regard to the lawyers here. I never thought there was much 
+riddle and finesse necessary in a good Government that honest men 
+of good plain common understanding, who would take pains to judge, 
+and always judge for themselves, not suffering their understanding to 
+be in any man s keeping, were fully equal to the task; but how is the 
+case? The people may appoint whom they think proper (as in a Privy 
+Council), these may be consulted occasionally to pick the gilding off 
+of gingerbread, or some such trifling matter; but in an affair of the 
+utmost consequence to the safety, honor and interest of the State, it 
+cannot be expected they are fit judges (though, perhaps, a matter not 
+even depending on any difficult principle of law); no! without the 
+lawyers have the principal hand in it, or, indeed, the whole cooking of 
+it, all is undone. I wish this may not have been nearly the case, my 
+friend, on a late occasion, which I think almost as disgraceful to the 
+State as was the agreement itself. The public are extremely obliged 
+to you for your vigilance with regard to the gentlemen sending provisions to town. I believe I cannot be reckoned a severe man in my 
+politics ; but I assure you I have done all in my power, for many 
+months, to no purpose, to get means used to have some of them tried 
+by the sedition laws. If convicted, perhaps my bowels might yearn 
+over a poor necessitous man, so as to endeavor to procure his pardon; 
+but if a rich fellow, if I had ten thousand votes they should all go for 
+a halter for him, and nothing else. Owing to the too great encouragement of these rascals, the army has given over, since the beginning of 
+the campaign, to that villainous, destructive trade with the town ; and 
+to that impolitic infatuation, from Christmas last, of propagating the 
+enemy s hums about an evacuation, we are brought to the present 
+dilemma which is, if the enemy actually goes, they even then leave 
+us with the highest contempt, and may return; but, should any external 
+advantage to them make Sir Guy revoke his orders, what becomes of 
+us all then? In that shocking, corrupted state, the people are now in, 
+tis heads or tails with us, and the stake, I am afraid, is no less than 
+the whole State. Sir Guy is looked upon as aa excellent officer, having 
+the good of his nation disinterestedly at heart. No doubt so wary a 
+commander must have men here on whom he can depend to give him 
+information of our situation in all respects. Pardon me, my dear sir, 
+for troubling you with so long a letter, when your time is so important 
+to the public. Believe me to be, with sincere esteem, 
+Your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=crg" rel="me">CHRISTOPHER GADSDEN</a>. 
+</p><p>
+P. S. I send to the GOVERNOR'S every day for my rations of beef; 
+this moment my boy has returned without any, bringing a note that 
+there is none, and that the army is dissatisfied about it. I wish these 
+dissatisfactions may not increase daily more and more, and bring on some dangerous crisis. The whole proceeds from the d- d town 
+trade, where they live in clover. The same note mentions that the 
+Augustine fleet is arrived. 
+</p><p>
+</letter>

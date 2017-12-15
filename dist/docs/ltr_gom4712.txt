@@ -1,0 +1,119 @@
+<letter id="gom4712">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hamburg' rel='city origin'>Hamburg</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='30'>30th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+At this late hour, and from this remote corner, J am to ac 
+knowledge your favors of the 19th and 25th of June. I did 
+not reply from Paris, because I wished for a safe conveyance ; 
+and although none offers itself at present, yet I will write what 
+occurs for communication, and take a future chance for transmission. 
+</p><p>
+The assurances of friendly esteem, which your letters convey, are very pleasing ; but, indeed, I never doubted of the 
+sentiments you express, and even go so far as to natter myself, 
+that the measure in question was not agreeable to you. It 
+was highly so to me, and although I am persuaded that you 
+will believe me, on my word, I will nevertheless assign some 
+reasons why a change of situation was desirable. 
+</p><p>
+And first, you will see from what is publicly known respecting those, who administered the French despotism, how painful it must have been to represent our virtuous Republic to 
+such persons. I had stayed, at some risk, after the 10th of 
+August, because I thought the interests of America required 
+it, and I did not ask my recall at a subsequent period, because 
+it would not have been honorable to abandon a post which, if 
+no longer unsafe, was at least very unpleasant. I felt that I 
+was useless, and indeed that nobody could be useful, until 
+some permanent system should be established. I saw misery 
+and affliction every day, and all around me, without power to 
+mitigate, or means to relieve ; and I felt myself degraded by 
+the communications I was forced into with the worst of man 
+kind, in order to obtain redress for the injuries sustained by 
+my fellow citizens. 
+</p><p>
+During that state of things, I was grossly insulted by the arrest of a lady in my house, by order of the Committee of 
+General Safety. I could not resent this, as I ought to have done, by quitting the country, because a great number of our 
+citizens were then detained in France, with much of their 
+property, and I knew the violence which those who administered the government were capable of. Moreover, I saw with 
+regret, that the temper of America was not such as her best 
+citizens could have wished ; and the conduct of Britain, rendered a temporizing conduct with France indispensable. My 
+representations obtained a half apology and promise of satisfaction, but occasioned the order to solicit my recall ; of which I 
+was apprised within four and twenty hours after it was given, 
+and might easily have shown whence it originated ; but, to tell 
+you the truth, I was inclined to wish that I might be removed 
+on their application. I really believe it was necessary to my 
+reputation. So long as they believed in the success of their 
+demand, they treated my representations with indifference and 
+contempt ; but at last, hearing nothing from their Minister on 
+that subject, or indeed on any other, they took it into their 
+heads that I was immovable, and made overtures of conciliation. 
+</p><p>
+At this time I began to apprehend, that we should be plunged into a war with England, in which case it would have be 
+come my duty to aid the French as far as my abilities might 
+go; but as I knew their temper, I replied to the advances 
+made, that I was not to be affected by smooth words, so that 
+they must begin by complying with the various demands I had 
+made, and show me by facts that they were well disposed. 
+Shortly after this, I received a volunteer letter from the Commissary of Exterior Relations, (a poor creature, who scarce 
+dared to do anything without an order from the Committee of 
+Safety), assuring me that he had transmitted my various representations to the Commissary of the Marine, and expected 
+soon to give me satisfactory answers. It was written ten days 
+before the death of Robespierre, shortly after which, Mr Monroe arrived. He was fortunate in not reaching France at an 
+earlier period ; for, if I may judge by what fell within my observation, he would have been a little too well with that party, 
+to be viewed in a neutral light by their opponents. I hope he may succeed in obtaining the redress of those grievances, 
+which our countrymen labored under ; but on the 12th of October, when I left Paris, nothing was done. I build my present hopes, however, on Mr Jay's treaty, for they will now be 
+somewhat more cautious respecting us than they have been. 
+</p><p>
+In reply to what you say about my return to America, I 
+must tell you, that I could not depart in such season as that 
+my communications could be of much importance, and there 
+fore as I must have exposed myself to the inconveniences of 
+a winter's passage, I deferred my voyage ; and the rather, as I 
+have some affairs in London which I wish to wind up. I 
+should have gone thither for that purpose direct, but the 
+French would have harbored jealousies respecting my journey, which for many reasons I wished not to excite, and 
+therefore I came round through Switzerland to this city, in 
+which I am now weather bound. So much for my history. 
+</p><p>
+As to the state of political affairs, the Polish insurrection 
+is, as you know, completely subdued, and of course the attention of Europe is all turned to France, which has lately 
+triumphed in every quarter by the extreme misconduct of her 
+enemies. It seems at present that they are coming to their 
+senses, and if I am rightly informed, they have at length 
+abandoned the idea of a dismemberment, and mean to pursue 
+simply the re-establishment of the throne. If they act wisely 
+and vigorously in that direction, it seems to to me that they 
+must succeed, for the French are wearied and exhausted by 
+the contest. They detest and despise their present rulers, 
+and as far as I have been able to judge, they ardently desire 
+the restoration of their Prince. 
+</p><p>
+You will ask, perhaps, why then do they not restore him ? 
+It is because they dare not act, nor even speak, so that they 
+do not know each other's opinions, and of course each individual apprehends from the general mass ; but everything 
+which has taken place leaves them to look back with regret 
+to their ancient situation. In judging the French, we must 
+not recur to the feelings of America during the last war. We 
+were in the actual enjoyment of freedom, and fought not to 
+obtain, but to secure its blessings. The people elected their 
+magistrates during the continuance of the war. The property 
+of the country was engaged in the Revolution, and the oppressions which it occasioned were neither great, extensive, 
+nor of long duration. 
+</p><p>
+But in France they have been lured by one idle hope after 
+another, until they are plunged in the depth of misery and 
+servitude ; servitude so much the more degrading, as they 
+cannot but despise their masters. I have long, you know, 
+predicted a single despotism, and you have seen how near 
+they have been to that catastrophe. Chance, or rather the 
+want of mettle in the usurper, has alone saved them to the 
+present moment ; but I am still convinced, that they must end 
+their voyage in that port, and they would probably reach it, 
+should they make peace with all their foreign enemies, through 
+the channels of a civil war. Adieu, my dear Sir. I wish you 
+many and happy years, and am very truly yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

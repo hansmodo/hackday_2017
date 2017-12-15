@@ -1,0 +1,26 @@
+<letter id="mbc7669">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='10'>October</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1863' rel="origin">1863</a>]. James Chesnut is at home on his way back to Richmond; had been sent by the President to 
+make the rounds of the Western armies; says Polk is a splendid old fellow. They accuse him of having been 
+asleep in his tent at seven o clock when he was ordered to attack at daylight, but he has too good a conscience to sleep so soundly. 
+</p><p>
+The battle did not begin until eleven at Chickamauga when Bragg had ordered the advance at daylight. Bragg 
+and his generals do not agree. I think a general worthless whose subalterns quarrel with him. Something is wrong 
+about the man. Good generals are adored by their soldiers. See Napoleon, Caesar, Stonewall, <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a>. 
+</p><p>
+Old Sam (Hood) received his orders to hold a certain bridge against the enemy, and he had already driven the 
+enemy several miles beyond it, when the slow generals were still asleep. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> has won a victory, though he has only 
+one leg to stand on. 
+</p><p>
+Mr. Chesnut was with the President when he reviewed our army under the enemy's guns before Chattanooga. He 
+told <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> that every honest man he saw out West thought well of <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>. He knows that the President detests <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> for all the trouble he has given him, and General Joe returns the compliment with compound 
+interest. His hatred of Jeff Davis amounts to a religion. With him it colors all things. 
+</p><p>
+<a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> advancing, or retreating, I may say with more truth, is magnetic. He does draw the good-will of 
+those by whom he is surrounded. Being such a good hater, it is a pity he had not elected to hate somebody else than 
+the President of our country. He hates not wisely but too well. Our friend Breckinridge received Mr. Chesnut with 
+open arms. There is nothing narrow, nothing self-seeking, about Breckinridge. He has not mounted a pair of green 
+spectacles made of prejudices so that he sees no good except in his own red-hot partizans. 
+</p>
+</letter>

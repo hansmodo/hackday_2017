@@ -1,0 +1,47 @@
+<letter id='abl424'>
+<recipient first='Samuel' last='Curtis' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a><br/>
+JANUARY 2, <a href="/results.php?year=1863">1863</a>
+</p><p>
+MAJOR-GENERAL CURTIS.
+</p><p>
+MY DEAR SIR:--Yours of December 29 by the hand of Mr. Strong is just received. The day I telegraphed you suspending the order in relation
+to Dr. McPheeters, he, with Mr. Bates, the Attorney-General, appeared
+before me and left with me a copy of the order mentioned. The doctor
+also showed me the Copy of an oath which he said he had taken, which
+is indeed very strong and specific. He also verbally assured me that
+he had constantly prayed in church for the President and government,
+as he had always done before the present war. In looking over the
+recitals in your order, I do not see that this matter of the prayer,
+as he states it, is negatived, nor that any violation of his oath is
+charged nor, in fact, that anything specific is alleged against him.
+The charges are all general: that he has a rebel wife and rebel
+relations, that he sympathies with rebels, and that he exercises
+rebel influence. Now, after talking with him, I tell you frankly I
+believe he does sympathize with the rebels, but the question remains
+whether such a man, of unquestioned good moral character, who has
+taken such an oath as he has, and cannot even be charged with
+violating it, and who can be charged with no other specific act or
+omission, can, with safety to the government, be exiled upon the
+suspicion of his secret sympathies. But I agree that this must be
+left to you, who are on the spot; and if, after all, you think the
+public good requires his removal, my suspension of the order is
+withdrawn, only with this qualification, that the time during the
+suspension is not to be counted against him.  I have promised him
+this. But I must add that the United States Government must not, as
+by this order, undertake to run the churches. When an individual in
+a church or out of it becomes dangerous to the public interest, he
+must be checked; but let the churches, as such, take care of
+themselves. It will not do for the United States to appoint
+trustees, supervisors, or other agents for the churches.
+</p><p>
+Yours very truly,
+</p><p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</p><p>
+P. S.--The committee composed of Messrs. Yeatman and Filley (Mr. Broadhead not attending) has presented your letter and the memorial
+of sundry citizens. On the whole subject embraced exercise your best judgment, with a sole view to the public interest, and I will not interfere without hearing you.
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>, January 3, <a href="/results.php?year=1863">1863</a>.
+</letter>

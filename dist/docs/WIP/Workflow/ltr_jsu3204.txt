@@ -1,0 +1,56 @@
+<letter id="jsu3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, before <a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The Fates have decreed that you shall receive no 
+thing but disagreeable intelligence from this quarter. 
+<a href='/results.php?tla=nag' rel='colleague'>Major-General Greene</a> and <a href='/results.php?tla=laf' rel='colleague'>the Marquis</a> returned, the 
+night before last, from the French Admiral. My letter, their entreaties, and <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>'s written remonstrance, drawn up on board the Languedoc, have 
+only produced the letter which I inclose. It seems 
+that the Captains of the French fleet are so incensed 
+at the <a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a>'s being put over them, he being but a land officer, that they are determined to 
+prevent his doing any thing that may redound to his 
+credit or our advantage. The Count himself wished 
+to come in, but his Captains were, to a man, for leaving us. I then drew up a letter, in behalf of all the 
+officers of the army, and sent on board ; but he, though 
+the wind was not fair for <a href='/results.php?city=boston' rel='city'>Boston</a>, put oil to sea night 
+before last. This letter was followed by the inclosed 
+protest, both of which I have ordered after him, in ;i 
+fast-sailing privateer. I am, however, well persuaded 
+that nothing will alter the determinations of the Captains, and that he will follow their counsel, though ho 
+knows they wish his ruin. 
+</p><p>
+This sudden and unexampled procedure renders my 
+situation exceeding delicate. The enemy have twice 
+attempted to relieve the place by reinforcements ; the 
+last fleet had four thousand troops on board. Should 
+they make another attempt, they must succeed. They 
+will then have near ten thousand troops on the Is 
+land, and the command of the water on every side of us, as we have been obliged to dismantle our forts 
+at Bristol and Tiverton to forward our operations 
+against the town. 
+</p><p>
+I inclose to your Excellency a copy of the questions proposed by me to the General Officers and 
+Commandants of brigades this day. I also inclose to 
+your Excellency a copy of the protest sent after the 
+<a href='/results.php?tla=cde' rel='colleague'>Count D Estaing</a>. As my situation, at present, can 
+promise nothing to advantage, except from a sudden 
+attack, I wish the opinions of the officers may justify 
+me in making this last effort. I have the honor to 
+be, my dear General, 
+</p><p>
+Yours, most affectionately, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p><p>
+P. S. I offered the Count, in my letter, to make 
+the attack the moment he would land the troops, and 
+put them in the boats I had prepared for them. 
+<a href='/results.php?tla=nag' rel='colleague'>General Greene</a> and the Marquis assured him that 
+we would not require the stay of his fleet and troops 
+more than forty-eight hours. But nothing could induce him to assist us with either, a single moment. 
+</p>
+</letter>

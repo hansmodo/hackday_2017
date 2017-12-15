@@ -1,0 +1,54 @@
+<letter id="jod3587">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='19'>19</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+SENATE has been three days in debate upon the appointment of <a href='/results.php?tla=joj' rel='colleague met'>Mr. Jay</a> to go to <a href='/results.php?city=london' rel='city'>London</a>. It has this 
+day been determined in his favor eighteen versus eight. 
+</p><p>
+You cannot imagine what horror some persons are 
+in, lest peace should continue. The prospect of peace 
+throws them into distress. Their countenances length 
+en at the least opening of an appearance of it. 
+Glancing gleams of joy beam from their faces when 
+ever all possibility of it seems to be cut off. You 
+can divine the secret source of these feelings as well 
+as I. The opposition to <a href='/results.php?tla=joj' rel='colleague met'>Mr. Jay</a> has been quickened 
+by motives which always influence every thing in an 
+elective government. Pretexts are never wanting to 
+ingenious men, but the views of all the principal 
+parties are always directed to the election of the first 
+magistrate. If Jay should succeed, it will recommend him to the choice of the people for President, 
+as soon as a vacancy shall happen. This will weak 
+en the hopes of the southern States for Jefferson. 
+This I believe to be the secret motive of the opposition to him, though other things were alleged as ostensible reasons; such as, his monarchical principles, 
+his indifference about the navigation of the Mississippi, his attachment to England, his aversion to France, 
+none of which are well founded, and his holding the 
+office of Chief Justice, &c. 
+</p><p>
+The day is a good omen. May the gentle zephyrs 
+waft him to his destination, and the blessing of heaven succeed his virtuous endeavors to preserve peace. 
+I am so well satisfied with this measure, that I shall 
+run the venture to ask leave to go home, if Congress 
+determines to sit beyond the middle of May. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>Mr. Adams</a> is to be Governor, it seems, by a great 
+majority of the people; and I am not surprised at it. 
+I should have thought human nature dead in the Massachusetts if it had been otherwise. I expect now he 
+will be less anti-federal. Gill is to be Lieutenant. 
+We will go to <a href='/results.php?city=princeton' rel='city'>Princeton</a> again to congratulate him. 
+I thought, however, that Gerry would have been the man. 
+</p><p>
+We are ill-treated by Britain, and you and I know 
+it is owing to a national insolence against us. If they 
+force us into a war, it is my firm faith, that they will 
+be chastised for it a second time, worse than the first. 
+I am, with an affection too tender to be expressed, 
+</p><p>
+Your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

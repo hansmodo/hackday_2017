@@ -1,0 +1,19 @@
+<letter id="mbc7706">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='20'>20th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Mrs. Preston was offended by the story of Buck's performance at the Ive's. General Breckinridge 
+told her " it was the most beautifully unconscious act he ever saw. The General was leaning against the wall, Buck standing guard by him " on her two feet." The crowd surged that way, and she held out her arm to protect him 
+from the rush. After they had all passed she handed him his crutches, and they, too, moved slowly away. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> 
+said: " Any woman in Richmond would have done the same joyfully, but few could do it so gracefully. Buck is 
+made so conspicuous by her beauty, whatever she does can not fail to attract attention. 
+</p><p>
+Johnny stayed at home only one day; then went to his plantation, got several thousand Confederate dollars, and 
+in the afternoon drove out with Mrs. K . At the Bee Store he spent a thousand of his money; bought us gloves 
+and linen. Well, one can do without gloves, but linen is next to life itself. 
+</p><p>
+Yesterday the President walked home from church with me. He said he was so glad to see my husband at church ; 
+had never seen him there before ; remarked on how well he looked, etc. I replied that he looked so well " because you 
+have never before seen him in the part of the right man in the right place/ ! My husband has no fancy for being 
+planted in pews, but he is utterly Christian in his creed. 
+</p>
+</letter>

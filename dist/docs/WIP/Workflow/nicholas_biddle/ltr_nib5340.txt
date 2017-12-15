@@ -1,0 +1,28 @@
+<letter id="nib5340">
+<recipient first="Henry" last="Clay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="9">Sept</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir 
+</p><p>
+Your introduction of Mr Burnley, Commissioner of Texas, makes it not unnatural to confer with you on the subject of the loan which he is endeavoring to negotiate. 
+</p><p>
+The subject of Texas is one familiar to me since my connection in Paris, thirty three years ago, with the treaty of Louisiana, the execution of a great portion of which fell under my own personal inspection. On that subject I hold very decided opinions. But the question which now occupies my attention is this : The Minister of Texas, just arrived &amp; in this city, 
+means to withdraw, formally, the proposal to enter the Union. 
+So far, the embarrassments and troubles which that measure 
+threatened are, for the present at least, removed. The question then becomes an open one, and it offers for consideration this point: Whether, if we are to consider the revolution 
+there as complete, if this country will not permit Texas to be conquered by a new master, or reconquered by its old 
+one, then it is not of great importance that her prosperity should be of our own creation, and that she should not be 
+obliged to incur obligations to any other country? She now wants money to consolidate her power &amp; fix her institutions. 
+Is it not better far better that she should obtain it from us than from any other power? Now I am inclined to make 
+the loan. At the same time I mean to do nothing rashly 
+nothing which shall not, in my judgment, be highly beneficial to our Country. But I do not wish to take any decided 
+step without the opinion of some friends on whose judgment I rely. Allow me then to ask what you think of the question ? 
+Do you think that Texas will maintain its independence, or that the United States would permit any power to deprive 
+her of it. Do you think it would be wise to take the loan and not suffer her to owe her success to England ? 
+</p><p>
+If you feel any the slightest reluctance to say anything about the matter, you will of course say nothing. But if you 
+feel disposed to give any opinion, let it be such as, hereafter, if I deem it useful to use your authority as confirming my 
+own views, I may quote, and if necessary, make public. I mention this that you may limit, precisely, the nature &amp; extent of your communication. 
+</p>
+</letter>

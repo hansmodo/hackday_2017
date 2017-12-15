@@ -1,0 +1,28 @@
+<letter id="jod3529">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE just sent Mr. Thaxter, Johnny and Stevens 
+with the things on board. I shall go with Charles at 
+four o clock. It is now three. I have seen the captain and the navy board, etc. It is proposed to sail tomorrow ; perhaps, however, it may not be till next day. Mr. Dana will come on board at nine tomor 
+row. <a href='/results.php?tla=joh' rel='colleague met'>Mr. Hancock</a> has sent me a card to invite me 
+to go on board with him in the castle barge. Don t 
+make many words of this. Your aunt has given me 
+a barrel of cranberries. I shall make a good use of 
+them, I hope. 
+</p><p>
+Let me entreat you to keep up your spirits and 
+throw off cares as much as possible. Love to Abby 
+and Tommy. We shall yet be happy, I hope and pray, 
+and I don t doubt it. I shall have vexations enough, 
+as usual. You will have anxiety and tenderness 
+enough, as usual. Pray strive not to have too much. 
+I will write by every opportunity I can get. 
+Yours ever, ever yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

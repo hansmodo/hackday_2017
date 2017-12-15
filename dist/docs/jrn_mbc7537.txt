@@ -1,0 +1,12 @@
+<letter id="mbc7537">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='1'>1st</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. Dined to-day with Mr. Hill from Georgia, 
+and his wife. After he left us she told me he was the celebrated individual who, for Christian scruples, refused to 
+fight a duel with Stephens. She seemed very proud of him for his conduct in the affair. Ignoramus that I am, I 
+had not heard of it. I am having all kinds of experiences. Drove to-day with a lady who fervently wished her husband 
+would go down to Pensacola and be shot. I was dumb with amazement, of course. Telling my story to one who knew 
+the parties, was informed, " Don't you know he beats her ? : So I have seen a man who lifts his hand against 
+a woman in aught save kindness." 
+</p>
+</letter>

@@ -1,0 +1,79 @@
+<letter id="nag3719">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, at <a href='/results.php?city=mccords ferry' rel='city origin'>Mc Cord's Ferry</a>, on the Congarce, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I wrote your Excellency on the 5th, from near 
+Camden, by Captain O'Hara. On the 10th, that place 
+was evacuated by the enemy. They left it with 
+great precipitation, after burning the greater part of 
+their baggage, and stores belonging to the inhabitants. 
+They also burnt the jail, mill, and several other houses, 
+and left the town little better than a heap of rubbish. They left all our men, wounded on the 25th, 
+amounting to thirty-one, and fifty-eight of their own, 
+and three officers, who were all too badly wounded to 
+be moved. It is confidently asserted, by several people 
+of the place, that the enemy suffered, in the late action, not less, in killed and wounded, than three hundred men. 
+</p><p>
+Upon the enemy's evacuation, we immediately took 
+possession of the place, and the works are levelling, 
+a plan of which is herewith inclosed. Had the Virginia militia arrived in time, the garrison would have 
+fallen into our hands, as they would have enabled us 
+to have invested it on all sides, and the garrison had 
+neither provision nor stores to hold out a siege, the 
+detachments below, operating under <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a> 
+and Lieutenant-Colonel Lee, having cut olT their supplies, particularly the article of salt, of which the garrison was entirely destitute. 
+</p><p>
+On the 9th, the army marched for this place. On 
+the 11th, the post of Orangeburg, commanded by a Colonel, and consisting of upwards of eighty men and 
+several officers, part British, surrendered to General Sumpter, who, by his address, so intimidated the garrison, in the disposition of his artillery and troops, as 
+to produce a surrender of a very strong post, -without 
+loss of time or men. Great quantities of provision, 
+and some other stores, were found at this. 
+</p><p>
+On the 12th, Fort Mott surrendered to <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>. The garrison consisted of upwards of one 
+hundred and forty men, one hundred and twenty of 
+whom were British and Hessian, and seven or eight, 
+officers. The place was invested on the 8th, and the 
+approaches carried to the foot of the ahatis before it 
+surrendered. The redoubt was exceedingly strong, and 
+commanded by Lieutenant Macpherson, a very gallant 
+officer. Great credit is due to <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>, and 
+the few militia that continued with him in the reduction of this post. Lieutenant-Colonel Lee's legion, and 
+the detachments serving with him under Major Eaton, 
+Captains Finley, of the artillery, and Oldham and 
+Smith, of the infantry, were indefatigable in prosecuting the siege. There were taken at the fort, one 
+carronade, about one hundred and forty stand of arms, 
+a quantity of salt, provisions, and other stores, returns 
+of which shall be forwarded hereafter. 
+</p><p>
+When vQ began our march towards Camden, from 
+Deep River, I wrote to <a href='/results.php?tla=anp' rel='colleague met'>General Pickens</a> to endeavour 
+to collect a body of the militia to lay siege to <a href='/results.php?city=augusta' rel='city'>Augusta</a> and Ninety Six ; and both places are now invested. As soon as the Virginia militia join us, I am 
+in hopes to be able to make such detachments from 
+this army as will effect their reduction. The fort at 
+Friday's Ferry will be invested by to-morrow morning. Lieutenant-Colonel Lee, with his legion, and 
+some of the detachment serving under him, marched 
+for this purpose last evening. The army marches for that place this morning. 
+</p><p>
+The last intelligence I had from Lord Rawdon, he 
+was near Nelson's Ferry, where the enemy have a 
+post, the stores at which were moving for <a href='/results.php?city=charleston' rel='city'>Charleston</a>, 
+which indicates an evacuation. Generals Sumpter and Marion are watching their motions. If proper exertions were made to support the southern war, the 
+enemy would soon he convinced that, if they divide 
+their force, they will fall by detachments, and, if they operate collectively, they cannot command the country. Captain Pierce, one of my Aids, who is out 
+watching the motions of Lord Cornwallis, informs me 
+that he is on his march towards <a href='/results.php?city=halifax' rel='city'>Halifax</a>, from Duplin 
+Court-House. Should he push his operations in that 
+quarter, I shall leave the army here, under the command of General Huger, to effect the reduction of the 
+remaining posts, and join the troops collecting to the 
+northward. Inclosed I send your Excellency copies 
+of several letters found among the papers of Lieutenant Macpherson. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

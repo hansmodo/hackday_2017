@@ -1,0 +1,28 @@
+<letter id="nib5225">
+<recipient first="Richard" last="Rush" type="individual"/>
+<p>
+(private) <a href='/results.php?city=philadelphia' rel='city origin'>Phila</a>. <a rel="month origin" value="11">Nov</a> <a rel='day origin' value='25'>25</a>, <a href='/results.php?year=1828' rel="origin">1828</a> 
+</p><p>
+My dear Sir 
+</p><p>
+... I am very much obliged to you for the intimation of your purpose of mentioning the Bank in your next report. 
+Independant of the pleasure of seeing its usefulness recognized from so high a source, it may perhaps be useful with 
+regard to others who have hitherto not been so well disposed &amp; who now seemed destined to have an influence hereafter 
+over that subject, so far as respects the country I am perfectly satisfied from as intimate a knowledge as I possess of 
+any subject, that [but] for the presence of the Bank the currency of the country would in two months time relapse into 
+confusion, &amp; that the public revenue, becoming of unequal value at every part of the Union would be subject to loss &amp; 
+delay &amp; expence in making transfers which would be incalculable injurious. It occurs to me &amp; I therefore venture the 
+suggestion that the subject might be appropriately introduced at that part of the report, which will naturally state 
+the amount of debt extinguished during the last four years. It would then be satisfactory to add, that the whole of this 
+amount, in addition to the ordinary receipts &amp; disbursements, after being collected in various quarters of this extensive 
+country are transferred to the several points where the public debt is payable, &amp; actually disbursed for that purpose 
+without the delay of amount, or the expense of a dollar or the slightest risk the Bank being responsible for the con 
+duct of the agents while in England, the Gov pay more than a million of dollars annually for the management of its 
+debt by the Bank of England. What is scarcely less important is, that from the arrangements made by the Bank for these 
+payments, the inconvenience of a great accumulation of money in the vaults of the Gov* followed by an immediate 
+distribution of it is entirely obviated. The Bank as the period of payment approaches, anticipates in the form of discounts 
+the disbursement of a considerable portion of the Stock and the rest becomes absorbed in the mass of its operations 
+so that many millions are paid on a given day, without the slightest previous pressure, or any consciousness on the part 
+of the community of such an operation, which unless skilfully made, may produce inconvenient shocks &amp; fluctuations. . . . 
+</p>
+</letter>

@@ -1,0 +1,19 @@
+<letter id="usg7061">
+<recipient first="John" last="Schofield" type="individual"/>
+<p>
+[<a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a>, <a rel='day origin' value='12'>12th</a>, <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a>]
+</p><p>
+MAJOR-GENERAL J. M. SCHOFIELD, 
+</p><p>
+<a href='/results.php?city=knoxville' rel='city origin'>Knoxville</a>, Tenn. : 
+</p><p>
+You need not attempt the raid with the cavalry you now have. If that in Kentucky can recruit up it may do hereafter to 
+send it on such an expedition. I have asked so often for a cooperative movement from the troops in West Virginia that I 
+hardly expect to see anything to help us from there. <a href='/results.php?tla=hwh' rel='co-worker met'>General Halleck</a> says they have not got men enough. Crook, however, 
+has gone there, and may undertake to strike the road about New River. 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General.
+</p>
+</letter>

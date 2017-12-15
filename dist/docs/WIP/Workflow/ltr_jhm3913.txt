@@ -1,0 +1,32 @@
+<letter id="jhm3913">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The evacuation of <a href='/results.php?city=savannah' rel='city'>Savannah</a>, and the highest probability that St. 
+Augustine is likewise evacuated, offer so fair an opportunity of obliging the enemy to abandon the post they hold in this State, that it would 
+be criminal not to make the attempt. I must, therefore, desire you 
+would immediately draft one-half of your brigade, and as many more 
+within eighty miles of Charlestown (agreeably to the law) as will be 
+consistent with the safety of the country, and immediately put them in 
+motion, and join the army under the command of <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. If 
+the men will now do their duty with cheerfulness and punctuality, I think 
+I may almost venture to assure them this will be the last grand effort 
+they will be called upon to make. I hope you have finished the business you are at present upon, before you receive this; if not, pray expedite it as much as possible, so that that may not interfere with the 
+great object. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p><p>
+P. S. It will be so long between the time of your receiving this 
+and your orders respecting this brigade, and the service of, at least, a 
+part of the men being immediately required, that I have given the 
+necessary orders to these three regiments. The Commanding Officer at 
+<a href='/results.php?city=georgetown' rel='city'>Georgetown</a> is to forward this letter by express, with all possible expedition. 
+</p><p>
+J. M. 
+</p>
+</letter>

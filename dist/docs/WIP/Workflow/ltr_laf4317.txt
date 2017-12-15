@@ -1,0 +1,67 @@
+<letter id="laf4317">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+]\Iy DEAR General, 
+</p><p>
+I wish it was in my power to give you an assurance, that our troubles are at an end, and our Constitution totally established. But, although dark clouds 
+are still before us. we come so far as to foresee the 
+momeut when a Legislative corps will succeed this 
+Convention ; and unless foreign powers interfere, I 
+hope that within four months your friend will have 
+reassumed the life of a private and quiet citizen. 
+</p><p>
+The rage of parties, even among the patriots, is 
+gone as far as it is possible, short of bloodshed ; but, 
+although hatreds are far from subsiding, matters do 
+not appear so ill disposed as they formerly were towards a collision among the supporters of the popular 
+cause. I myself am exposed to the envy and attacks 
+of all parties, for this simple reason, that, whoever 
+acts or means wrong, finds me an insuperable obstacle ; 
+and there appears a kind of phenomenon in my situation ; all parties against me, and a national popularity 
+which, in spite of every effort, has been unshakable. 
+A proof of this I had lately, when disobeyed by the 
+guard, and unsupported by the administrative powers 
+who had sent me, unnoticed by the National Assembly, who had taken fright. The King I do not mention, as he could do but little in the affair, and yet 
+the little he did was against me. Given up to all 
+the madness of license, faction, and popular rage, I 
+stood alone in defence of the law, and turned the 
+tide up into the Constitutional channel. 
+</p><p>
+I hope this lesson will serve my country, and help towards establishing the principles of good order. 
+But, before I could bring my fellow-citizens to a sense of legal subordination, I must have conducted them 
+through the fear to lose the man they love. Inclosed is the speech I delivered on the occasion. I send it, 
+not for any merit of it, but on account of the great effect it had on the minds of the people, and the 
+discipline of an army of five-and-forty thousand men; upward of thirty [thousand] of them are volunteers ; 
+and who, to a man, are exposed to all the suggestions of a dozen of parties, and the corruptions of all kinds of pleasure and allurement. 
+</p><p>
+The Committee of Revision is going to distinguish, 
+in our immense materials, every article that deserves 
+to be constitutional; and as I hope to convene, in a 
+tolerable state of union, the members of that Committee, as their votes will in the House influence the 
+popular part of the Assembly, I hope that, besides 
+the restoration of all natural rights, the destruction 
+of all abuses, we may present to the nation some 
+very good institutions of government, and organize 
+it so as to ensure to the people the principal consequences and enjoyments of a free Constitution, leaving the remainder to the Legislative corps to mend 
+into well digested bills, and waiting until experience 
+has fitted us for a more enlightened and less agitated 
+National Convention. 
+</p><p>
+In the mean while, our principles of liberty and 
+equality are invading all Europe, and popular revolutions preparing everywhere. Should foreign powers 
+employ this summer with attacks against our Constitution, there wiU be great bloodshed; but our liberty 
+cannot fail us. We have done every thing for the 
+general class of the country people ; and, in case the 
+cities were frightened into submission, yet the peasants would swarm round us and fight to death, rather 
+than give up their rights. 
+</p><p>
+Adieu, my beloved General. My best respects wait on Mrs. Washington. Remember me to Hamilton, 
+Jay, Jefferson, Knox, and all friends. Most respectfully and affectionately I am, my dear General, 
+</p><p>
+Your filial friend, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p>
+</letter>

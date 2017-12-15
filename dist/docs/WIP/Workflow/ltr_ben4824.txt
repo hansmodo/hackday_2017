@@ -1,0 +1,25 @@
+<letter id="ben4824">
+<recipient first="Alexander" last="Dick" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> n. <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+My last Expedition convinced me that I grow too old for 
+Rambling, and that 'twas probable I should never make such 
+another Journey. 'Tis an uncomfortable Thing, the Parting with Friends one hardly expects ever again to see. This, 
+with some occasional Hindrances, prevented my calling at 
+Preston Field after my Return from Glasgow: But my 
+Heart was with you and your dear Family, and my best 
+Wishes attended you all. Sir John Pringle rejoic'd with me 
+on the Account I gave him of the Recovery of your Health, 
+which I pray God may long continue. Pray present my 
+respectful Compliments to Lady Dick, & to Miss Dick. 
+Many happy New Years to you & all yours. I am, with the 
+sincerest Esteem, Dear Friend, 
+</p><p>
+Yours most affectionately 
+</p><p>
+B. FRANKLIN 
+</p>
+</letter>

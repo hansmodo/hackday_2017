@@ -1,0 +1,71 @@
+<letter id="laf3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+My letter of the 23d to your Excellency will, I 
+hope, be safely transmitted, as the bearer of it. Major McLane, assured me that in case he was obliged to 
+lose the despatch-boat, he could find means to get 
+ashore and forward the despatches by land.'" In that 
+letter, I gave to your Excellency an account of what 
+had passed since I left <a href='/results.php?city=annapolis' rel='city'>Annapolis</a>, and communicated the intelligence of a British fleet having anchored in 
+Lynn Haven Bay. This account, however, you will 
+have sooner received from the Governor of Virginia, 
+than you might possibly from me. My position with 
+the troops near <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a> being intended to reconnoitre the works, and get, on board of ships in Hampton Road, intelligence from the Capes was more speedily forwarded through <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, than it might 
+have been in going around to Suffolk. 
+</p><p>
+;My surprise at not hearing of the French fleet was, 
+I confess, very great, nor could I reconcile my mind 
+to this uncertainty. But intelligence, received yesterday, has put it out of doubt, that they have done 
+their best endeavours towards the cooperation ; and my 
+accounts being gathered from many quarters, and 
+some men who were at the first engagement, your 
+Excellency may depend upon their veracity. 
+</p><p>
+On the 16th instant, both fleets fell in near the 
+Capes with each other. They both consisted of eight 
+ships of the line, fifties included, with the difference 
+of twenty guns in favor of the enemy. Each ship of 
+the line, and each frigate, singly engaged a partner, 
+and the action lasted during three glasses. The enemy had two seventy-fours, much worsted ; one of them 
+had sixty-five men killed. The London suffered in 
+her rigging, and the British fleet sheered off for the 
+Chesapeake, while the French stood in a line formed 
+in good order. The enemy have sent their wounded 
+up to <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, taken all the sailors and marines 
+at that place, and refitted their damaged ships. They 
+were also reenforced from <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a> by the Charon, 
+a forty-four, that can be made a fifty, and two large 
+frigates. But it appears that our allies are determined to carry the point, and that the addition to the 
+British force has not prevented them from appearing 
+near the Capes. Last morning the whole British 
+fleet, with the reenforcement, went to sea, and about 
+eleven o'clock we heard a furious cannonade, which 
+lasted more than three hours. 
+</p><p>
+The action must have been bloody and obstinate. 
+Upon its event depends the fate of our expedition. 
+I wish it had been in my power not to make your 
+Excellency a partaker of our anxiety, until I might 
+have known on what side victory has been. But the 
+fresh winds that blew last night make it impossible 
+to have any account this morning. I shall, therefore, 
+send off the present intelligence, which has come last 
+night to hand; and, as expresses with proper officers 
+are stationed at Hampton, I shall speedily forward 
+every account that appears to be certain and interesting. 
+</p><p>
+I have directed that Arnold be circumscribed within 
+his works on both sides of the Dismal Swamp. 
+The water is still open to him, but every armed vessel in the river is getting ready to do what little 
+service can be expected from them. The detachment 
+at <a href='/results.php?city=annapolis' rel='city'>Annapolis</a> is also ordered to be in the most perfect readiness. With the highest respect, 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

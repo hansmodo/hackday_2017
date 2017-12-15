@@ -1,0 +1,33 @@
+<letter id="cdr3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, Rhode Island, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+The enemy are doing what they ought to do. 
+Graves, immediately after having joined Arbuthnot, 
+comes to cruise before us with nine or ten ships of 
+the line, five frigates, and four other small vessels. 
+He moors at present at Block Island, with the object 
+of opposing our designs, and intercepting the second division from France. Our despatch-boat, charged 
+with letters, and escorted by three frigates, has been 
+obliged to return yesterday, chased by all the enemy's fleet. I see that it "will be good to have cruisers at the Capes of Delaware and Chesapeake, to advertise our second convoy, as soon as it shall appear, 
+to debark at the south, or at <a href='/results.php?city=boston' rel='city'>Boston</a> ; the former will 
+be best. I pray my General to transmit this to the 
+<a href='/results.php?tla=cdl' rel='colleague'>Chevalier De La Luzerne</a>, that he may act in consequence. 
+</p><p>
+We are going to try to convey our letters to France 
+in a vessel from one of the ports in the State of 
+Massachusetts. I wait here that part of the Bourbonne which have fortunately debarked at <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+We have more than six hundred sick, besides one 
+hundred whom the Bourbonne left at <a href='/results.php?city=boston' rel='city'>Boston</a>. The 
+fleet has more than one thousand sailors, and has not 
+here wherewith to change them, as Graves did at 
+<a href='/results.php?city=new york' rel='city'>New York</a>. A good month's refreshment will reestablish the greatest part. 
+</p><p>
+I am, with respect, &c. &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdr" rel="me">Le <a href='/results.php?tla=cdr' rel='colleague'>Compte De Rochambeau</a></a>. 
+</p>
+</letter>

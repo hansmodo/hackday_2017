@@ -1,0 +1,54 @@
+<letter id="jhs3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=derryfield' rel='city origin'>Derryfield</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Since my arrival at New Hampshire, I have been 
+exercised with almost every perplexity, pain and trouble, that a shattered constitution could entail. During the course of the winter, and greater part of the 
+spring and summer, I was scarce able to ride five 
+miles; but, as the autumn begins to advance, I find 
+my health gradually returning, and had thoughts of 
+taking a ride to camp, in case I could have found 
+cash enough in the State to defray my expenses. 
+But, after repeated applications for a sum voted me 
+by Congress in the month of September, <a href='/results.php?year=1781'>1781</a>, I am 
+at length informed (trifling as the sum is) that the 
+money is not in the Treasury of the State, and no 
+immediate prospect of matters being in a better situation. In this case, I would beg your Excellency's 
+advice. Money I have none, and my private fortune 
+scarce competent to the support of a numerous offspring, which Heaven has been pleased to bestow. 
+Congress undoubtedly expected that the State would 
+pay me what they voted, and the requisition the 
+General Assembly agreed to accept ; but the Treasury 
+is empty, and no money in the State to replenish it. 
+However, should your Excellency think my presence 
+at any place in the army necessary for the good of 
+my country, I will endeavour, upon the shortest notice, 
+to prepare myself to comply with your commands. 
+</p><p>
+This State has exceeded all expectations in raising 
+their recruits ; yet there is still a number deficient, 
+which probably may not be got very soon. And, 
+indeed, it is not surprising that the affairs of this 
+State should be very irregular, during its present 
+complicated, unsettled form of government. 
+</p><p>
+The General Assembly, sensible of the impracticability of paying the tax for this year in cash, have 
+resolved the same be paid in the different species 
+of the produce of the country; in consequence of 
+which, a considerable number of beef-cattle has been collected, and many more will no doubt be soon raised, for the use of the army. 
+</p><p>
+Most sincerely wishing you success, that your path 
+on the theatre of glory may still continue to shine 
+with its usual splendor, and that you may soon be 
+able to restore to your country a safe, honorable, 
+and lasting tranquillity, is the ardent desire of your 
+most obedient, 
+</p><p>
+Most devoted, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhs" rel="me">John Stark</a>.
+</p>
+</letter>

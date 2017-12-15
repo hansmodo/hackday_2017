@@ -1,0 +1,38 @@
+<letter id="joj4109">
+<recipient first="Frederick" last="Jay" type="individual"/>
+<p>   	 
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+My dear Brother, 
+</p><p>
+A person who says he left New-York last Friday, reports 
+that a putrid disorder prevailed there, and that among many 
+others, it had rendered your house a house of mourning. 
+This unexpected event affects me greatly. I can easily 
+conceive what your feelings on the occasion must be, and 
+sympathize with you very sincerely. I much regret my 
+absence from you, for although friendly attentions cannot 
+heal the wounds of affliction, they in some degree assuage 
+their anguish. I know, and that by experience, that more 
+consolation is to be derived from a firm confidence in the 
+wisdom of Him who governs the world, and from resignation to His will who never errs, than from all other circumstances and considerations united. Our departed friends 
+are but gone home before us. We must all follow, and, if 
+prepared to follow, shall after a little while rejoin them, 
+where death or pain can never intrude. 
+It is true, that in the mean time we neither can nor ought 
+to obliterate the impressions which such events naturally 
+make on the human heart and mind. But there certainly 
+is a difference between sustaining the burden of affliction 
+as Christians, and sinking under it as men without fortitude 
+or hope. 
+</p><p>
+May God grant you those consolations which the world 
+cannot give nor take away. 
+</p><p>
+Believe me to be, 
+</p><p>
+Your very affectionate brother, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

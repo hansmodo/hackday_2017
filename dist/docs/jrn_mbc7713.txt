@@ -1,0 +1,12 @@
+<letter id="mbc7713">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='7'>7th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Shopping, and paid $30 for a pair of gloves; $50 for a pair of slippers; $24 for six spools of 
+thread; $32 for five miserable, shabby little pocket hand kerchiefs. When I came home found Mrs. Webb. At her 
+hospital there was a man who had been taken prisoner by 
+Dahlgren's party. He saw the negro hanged who had misled them, unintentionally, in all probability. He saw Dahlgren give a part of his bridle to hang him. Details are melancholy, as Emerson says. This Dahlgren had also lost a leg. 
+</p><p>
+Constance Gary, in words too fine for the occasion, described the homely scene at my house ; how I prepared sandwiches for my husband; and broke, with trembling hand, the last bottle of anything to drink in the house, a bottle I 
+destined to go with the sandwiches. She called it a Hector and Andromache performance. 
+</p>
+</letter>

@@ -1,0 +1,91 @@
+<letter id="aba3454">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1804" rel="origin">1804</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letter of July 22 was by some mistake in the 
+post-office at <a href='/results.php?city=boston' rel='city'>Boston</a> sent back as far as <a href='/results.php?city=new york' rel='city'>New York</a>, 
+so that it did not reach me until the eleventh of this 
+month. Candor requires of me a reply. Your statement inspecting Callender, and your motives for 
+liberating him wear a different aspect as explained 
+by you, from the impression which the act had 
+made, not only upon my mind, but upon the minds 
+of all those whom 1 have ever heard speak upon 
+the subject. With regard to the law under which 
+he was punished, different persons entertain different opinions respecting it. It lies not with me to 
+determine its validity or constitutionality. That devolved upon the Supreme Judges of the nation. I 
+have ever understood that the power which makes a 
+law is only competent to the repeal of it. If a 
+Chief Magistrate can by his will annul it, where is 
+the difference between a republican and a despotic 
+government ? 
+</p><p>
+That some restraint should be laid upon the 
+assassin who stabs reputation, all civilized nations 
+have assented to. In no country have calumny, falsehood and reviling stalked abroad more licentiously 
+than in this. No political character has been secure 
+from its attacks ; no reputation so fair as not to be 
+Wounded by it, until truth and falsehood lie in one 
+undistinguished heap. If there is no check to be 
+resorted to in the laws of the land, and no reparation 
+to be made to the injured, will not man become the 
+Judge and avenger of his own wrongs, and, as in a 
+late instance, the sword and pistol decide the contest ? All christian and social virtues will be banished the land. All that makes life desirable and 
+softens the ferocious passions of man will assume 
+a savage deportment, and like Cain of old, every 
+man's hand will be against his neighbor. Party 
+spirit is blind, malevolent, uncandid, ungenerous, 
+unjust and unforgiving. It is equally so under federal as under democratic banners, and it would be 
+difficult to decide which is the least guilty. Upon 
+both sides are characters who possess honest views 
+and act from honorable motives ; who disdain to be led 
+blindfold, and who, though entertaining different sentiments, have for their object the public welfare and 
+happiness. These are the characters who abhor calumny and evil speaking, and who will never descend 
+to newspaper reviling. You have done <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> 
+justice in believing him incapable of such conduct. 
+He has never written a line in any newspaper to 
+which his signature has not been affixed since he 
+w r as first elected President of the United States. The 
+writers in the public papers and their employers are 
+altogether unknown to him. 
+</p><p>
+I have seen and known that much of the conduct 
+of a public ruler is liable to be misunderstood and 
+misrepresented. Party hatred, by its deadly poison, 
+blinds the eyes and envenoms the heart. It is fatal 
+to the integrity of the moral character it sees not 
+that wisdom dwells with moderation, and that firmness of conduct is seldom united with outrageous 
+violence of sentiment. Thus blame is too often liberally bestowed upon actions, which if fully understood and candidly judged, would merit praise. And 
+it is only by the general issue of measures producing 
+baneful or beneficial effects, that they ought to be 
+tested. You exculpate yourself from any intentional 
+act of unkindness towards any one. I will, however, 
+freelv state that which I considered as such. Soon 
+after my eldest son's return from Europe, he was 
+appointed by the District Judge to an office in which 
+no political concerns entered. Personally known to 
+you, and possessing all the qualifications, you yourself being judge, which you had designated for office, 
+as soon as Congress gave the appointments to the 
+President, you removed him. This looked so particularly pointed, that some of your best friends in 
+<a href='/results.php?city=boston' rel='city'>Boston</a> at that time expressed their regret that you 
+had done so. I must do him the justice to say that 
+I never heard an expression from him of censure or 
+disrespect towards you in consequence of it. With 
+pleasure I say, that he is not a blind follower of any 
+party. 
+</p><p>
+I have written to you with a freedom which only 
+former friendship would warrant ; and to which I 
+would gladly return, could all causes but mere difference of opinion be removed. I wish to lead a tranquil and retired life under the administration of the 
+government, disposed to heal the wounds of contention, to cool the raging fury of party animosity, 
+to soften the rugged spirit of resentment, and desirous of seeing my children and grandchildren heirs 
+to that freedom and independence which you and 
+your predecessor united your efforts to obtain. 
+With these sentiments, I reciprocate my sincere 
+wishes for your health and happiness.
+</p><p>
+Abigail Adams. 
+</p>
+</letter>

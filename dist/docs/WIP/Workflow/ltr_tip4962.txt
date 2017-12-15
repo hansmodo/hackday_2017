@@ -1,0 +1,81 @@
+<letter id="tip4962">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . SIR, 
+</p><p>
+I sent, by the express, an answer to your letter respecting the office of Adjutant-General, and gave what appeared 
+to me sufficient reasons to excuse my declining to accept it ; 
+but I have since been uneasy lest you should deem them 
+otherwise, and that I was too willing, under the civil offices 
+I sustain, to shelter myself from the dangers and fatigues 
+of war, an opinion which, if it has taken place, I wish 
+to remove. 
+</p><p>
+The case was this : I had concluded to accept the office, 
+but, meeting with a number of unavoidable interruptions in 
+the way of business, was unable to give my answer to the 
+express till the evening, at eight o clock, at which time I 
+had directed him to call ; and it was then, in fact, sealed up, 
+and ready to be delivered, the same which I now enclose 
+to your Excellency. But, the express delaying his coming 
+a full hour, I of course continued to revolve the matter in 
+my mind, and, upon a review of the reasons on both sides 
+of the question, those against my accepting the post, in 
+creased by the suggestions of my nearest friend, whose 
+happiness and tranquillity of mind lay near my heart, preponderated, and occasioned the answer your Excellency has 
+already received. Besides the reasons there given, others 
+weighed with me, which I had not time to mention. The 
+civil offices I sustain yield me an income that contents me, 
+and, in a time of peace, would maintain my family. These 
+I must have relinquished, without an expectation of reassuming them. Consequently, had I taken the post of Adjutant-General, and some cause had arisen (an event far from 
+impossible) rendering it expedient for me to quit the camp, 
+I should have returned divested of the principal means of 
+supporting my family. 
+</p><p>
+Whenever I thought of a military employment, the condition of my eyes was no small discouragement to me. I 
+am so near-sighted that I, although placed in the best situation, cannot, with any degree of accuracy, discern the position of a body of men beyond the size of a single regiment. 
+It is true, in viewing distant objects, my spectacles help me 
+to see nearly as well as people in general do with the naked 
+eye ; but they are frail things, and rain or snow beating 
+against them (I found in the winter's campaign) so obstructs the vision as to render them almost useless. My 
+business as Register of Deeds had, by my absence, got 
+behindhand ; it seemed to be daily increasing, and my office 
+was not in such order as I wished to leave it in to a successor. These, with the reasons mentioned in my former 
+letter, and many others of lesser moment, determined my 
+answer in the negative. I regretted the proposal could not 
+have been made me while at head-quarters, where I could 
+have inquired particularly into the nature and extent of the 
+office of Adjutant-General, and thence judged more certainly whether or not I was able to discharge the duties of 
+it. The want of such information left doubts on my mind 
+that were no small obstacle to my accepting it. 
+On the other hand, I am sensible, that to support the 
+army is of essential importance ; that, on the failure of it, 
+besides the general calamity of my country, every prospect 
+of advantage or enjoyment to me must vanish. I have 
+been, therefore, ever ready to serve the public to the utmost 
+of my power. But perhaps the comforts of civil life, the 
+love of ease, the enjoyment of my friends, and the powerful allurements springing from the nearest connection on 
+earth, have led me to mistake the object. From a sacred 
+regard, therefore, to the interests of my country ; from the 
+ardent desire I have to approve myself to your Excellency ; 
+from the pain it has given me to deny the request of the 
+last of men to whom I would refuse anything, I submit 
+the whole matter to your Excellency's determination. If, 
+upon a view of all circumstances, you judge it my duty to 
+exchange the civil for a military life, I will do it. And 
+then, should the office of Adjutant-General (for, from what 
+conception I have of it, none would be more agreeable) be 
+once more vacant, or any other post or employment present, 
+to which you shall deem me competent, I will not again 
+confer with flesh and blood, but instantly obey your Excellency's commands. 
+I beg your Excellency's pardon for imposing on your 
+patience this second long letter. But I feared lest, by my 
+backwardness, I might have offended. And I was led to 
+make the above tender of my services because your Excellency's good opinion of me, and the urgency of your 
+request, have raised me to some importance with myself. 
+I am, with the highest veneration and esteem for your 
+Excellency, your Excellency's most obedient and most humble servant, 
+</p><p>
+TIMOTHY PICKERING, JR.
+</p>
+</letter>

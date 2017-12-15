@@ -1,0 +1,72 @@
+<letter id="aba3456">
+<recipient first="" last="Packard" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1805" rel="origin">1805</a>. 
+</p><p>
+With the only beloved daughter of my late venerable and respected friend, I pour the tear of sympathy, 
+and with a full heart participate in the sorrowful 
+event, which has deprived her of one of the most 
+tender and affectionate of parents ; one of the best 
+of mothers ; one of the kindest friends ; one of the 
+pleasantest companions ; and one of the most exemplary of women. 
+</p><p>
+To me she was a u Friend of more than fifty years 
+ripening," my earliest, my constant, and my oldest 
+friend. Dear departed spirit, wilt thou still be my 
+friend in those regions of immortal bliss, to which I 
+trust thou art translated, and whither I hope ere long 
+to follow thee. With Dr. Johnson, I can say " hope 
+dictates what revelation does not confute ; that the 
+union of souls may still remain, and we who are 
+struggling with sin, sorrow, and infirmities, may have 
+our part in the attention and kindness of those who 
+have finished their course and are now receiving their 
+reward." 
+</p><p>
+" Hope wipes the tear from sorrow's eye, 
+And faith points upward to the sky." 
+</p><p>
+Scarcely had the grave closed over the remains of 
+my esteemed friend Madam Sargent, relict of the 
+late Judge, ere it was again opened to receive those 
+of one still dearer to me. It is more than fifty years 
+since my acquaintance commenced with her, who in 
+that period became your mother. I was then a 
+child, and carried by my grandmother, to visit with 
+her, your grandmother, whom she taught me from 
+my earliest infancy to venerate, as well as to love 
+and respect her daughter. And this, before any 
+connexion in the family, united us in closer bonds. 
+The early impressions I received, were indelibly 
+stamped by time, and impressed by my own judgment, as I advanced in life, and became more capable 
+of appreciating the many virtues of your late excellent parent, in the various relations she sustained, of 
+daughter, wife, and mother, in each of which she 
+had few equals, and I know not her superior. You 
+have reason. for gratitude and thankfulness, that she 
+was spared to you, to a very advanced age, and with 
+as few of its infirmities as is the lot of humanity ; 
+always possessing a cheerfulness and vivacity, which 
+whilst it enlivened, delighted, for it was chastened 
+with dignity and decorum. 
+</p><p>
+" Peace, and esteem, is all that age can hope," 
+these she enjoyed through life, and having fixed her 
+hopes and expectations upon a solid foundation, she 
+is gone to reap the fruit of a well-spent life. 
+</p><p>
+" Heaven gives us friends to bless the present scene, 
+Resumes thern, to prepare us for the next." 
+Let ns, my afflicted friend, improve this dispensation, to that useful purpose, and whilst I reflect upon 
+the many endearing virtues and bright qualities, 
+which adorned the life and conversation of your 
+dear departed parent, strive to emulate her example, 
+and transplant them into our own lives. Thus shall 
+we honor her memory, and transmit it with lustre to 
+posterity. 
+</p><p>
+This is the fervent wish, and ardent desire, of 
+your sympathizing friend, 
+</p><p>
+Abigail Adams. 
+</p>
+</letter>

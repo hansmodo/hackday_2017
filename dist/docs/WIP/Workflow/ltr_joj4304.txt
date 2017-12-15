@@ -1,0 +1,30 @@
+<letter id="joj4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+I congratulate you, my dear Sir, on the adoption of the Constitution by Virginia. That event has disappointed the expectation of opposition here, which 
+nevertheless continues pertinacious. The unanimity 
+of the southern district, and their apparent determination to continue under the wings of the Union, operate powerfully on the minds of the opposite party. 
+The Constitution constantly gains advocates among the people, and its enemies in the Convention seem to be much embarrassed. 
+</p><p>
+8 July, <a href='/results.php?year=1788'>1788</a>. 
+</p><p>
+We have gone through the Constitution in a Committee of the Whole. We finished yesterday morning. 
+The amendments proposed are numerous. How we are 
+to consider them, is yet a question, which a day or 
+two more must answer. A bill of rights has been 
+offered, with a view, as they say, of having it incorporated in the rcdificaiion. The ground of rejection, 
+therefore, seems to be entirely deserted. We understand that a Committee will this day be appointed to 
+arrange the amendments. We learn from <a href='/results.php?city=albany' rel='city'>Albany</a> that 
+an affray happened there, on the 4th instant, between the two parties, in which near thirty were wounded, 
+some few very dangerously. From what I have just heard, the party begins to divide in their opinions. Some insist on pi'evious conditional amendments. A 
+greater number will be satisfied with siihsecjucnt conditional amendments ; or, in other words, they are for 
+ratifying the Constitution on condition that certain amendments take place within a given time. These 
+circumstances afford room for hope. With the greatest respect and esteem, I am, dear Sir, 
+</p><p>
+Your affectionate and humble servant, 
+</p><p>
+John Jay. 
+</p>
+</letter>

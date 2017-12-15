@@ -1,0 +1,41 @@
+<letter id="mbc7658">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. My husband has come. He believes from 
+what he heard in Richmond that we are to be recognized as 
+a nation by the crowned heads across the water, at last. <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> was very kind; he asked him to stay at his house, 
+which he did, and went every day with <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> and <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> to the battle-field as a sort of amateur aide to the 
+President. Likewise they admitted him to the informal 
+Cabinet meetings at the President's house. He is so hopeful 
+now that it is pleasant to hear him, and I had not the heart 
+to stick the small pins of Yeadon and Pickens in him yet 
+a while. 
+</p><p>
+Public opinion is hot against Huger and Magruder for <a href='/results.php?tla=gbm' rel=''>McClellan's</a> escape. Doctor Gibbes gave me some letters 
+picked up on the battle-field. One signed " Laura," tells her lover to fight in such a manner that no Southerner can 
+ever taunt Yankees again with cowardice. She speaks of a man at home whom she knows, " who is still talking of his 
+intention to seek the bubble reputation at the cannon's mouth. "Miserable coward ! " she writes, I will never 
+speak to him again. It was a relief to find one silly young person filling three pages with a description of her new 
+bonnet and the bonnet still worn by her rival. Those fiery Joan of Arc damsels who goad on their sweethearts bode us no good. 
+</p><p>
+Rachel Lyons was in Richmond, hand in glove with <a href='/results.php?tla=rog' rel=''>Mrs. Greenhow</a>. Why not ? "So handsome, so clever, so angelically kind," says Rachel of the Greenhow, " and she offers to matronize me." 
+</p><p>
+Mrs. Philips, another beautiful and clever Jewess, has been put into prison again by Beast Butler because she 
+happened to be laughing as a Yankee funeral procession went by. 
+</p><p>
+Captain B. told of John Chesnut's pranks. Johnny was riding a powerful horse, captured from the Yankees. The 
+horse dashed with him right into the Yankee ranks. A dozen Confederates galloped after him, shouting, <a href='/results.php?tla=jes' rel=''>Stuart</a> ! 
+Stuart! " The Yankees, mistaking this mad charge for <a href='/results.php?tla=jes' rel=''>Stuart's</a> cavalry, broke ranks and fled. Daredevil Camden 
+boys ride like Arabs ! 
+</p><p>
+Mr. Chesnut says he was riding with the President when 
+Colonel Browne, his aide, was along. The General commanding rode up and, bowing politely, said : "Mr. President, am I in command here? " " Yes." " Then I for bid you to stand here under the enemy's guns. Any expo 
+sure of a life like yours is wrong, and this is useless exposure. You must go back." <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> answered: 
+" Certainly, I will set an example of obedience to orders. Discipline must be maintained." But he did not go back. 
+</p><p>
+Mr. Chesnut met the Haynes, who had gone on to nurse their wounded son and found him dead. They were standing in the corridor of the Spotswood. Although Mr. Chesnut was staying at the President's, he retained his room at 
+the hotel. So he gave his room to them. Next day, when he went back to his room he found that Mrs. Hayne had 
+thrown herself across the foot of the bed and never moved. No other part of the bed had been touched. She got up and 
+went back to the cars, or was led back. He says these heart broken mothers are hard to face. 
+</p>
+</letter>

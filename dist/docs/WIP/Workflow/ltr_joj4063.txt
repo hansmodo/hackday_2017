@@ -1,0 +1,37 @@
+<letter id="joj4063">
+<recipient first="Robert" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Robert, 
+</p><p>
+At your farm with your family, in peace, and in plenty, 
+how happy is your situation! I wish you may not have 
+retired too soon. It is certain you may do much good 
+where you are. and perhaps in few things more than in impressing by precept, influence, and example, the indispensable necessity of rendering the continental and State governments vigorous and orderly. 
+Europe hears much, and wishes to hear more of divisions, 
+seditions, violences, and confusions among us. The tories 
+are generally and greatly pitied, more indeed than they deserve. The indiscriminate expulsion and ruin of that whole 
+class and description of men, would not do honour to our 
+magnanimity or humanity, especially in the opinion of those 
+nations who consider with more astonishment than pleasure 
+the terms of peace which America has obtained. <a href='/results.php?tla=gwa' rel='colleague met friend'>General Washington's</a> letter does him credit as a soldier, patriot, 
+and Christian. I wish his advice may meet with the 
+attention it merits. 
+</p><p>
+Mr. Hartley is gone to London, and expects soon to return and resume the discussion of commercial regulations, 
+&c. He has assured us officially, that Britain is not resolved to adhere to the line marked out in their proclamation respecting the West India trade. I doubt their 
+knowing themselves what tiny mean to do. In my opinion, 
+we should adhere to exact reciprocity with all nations, and 
+were we well united, they would yield to it. He assured us, also, that orders were given for the evacuation of New York. 
+</p><p>
+We have had much cool weather lately, and I find myself the better for it. All the people are running after airglobes. The invention of them may have many consequences, and who knows but travellers may hereafter literally pass from country to country on the wings of the 
+wind. 
+</p><p>
+Assure your good family of our sincere regard, and believe me to be, dear Robert, 
+</p><p>
+Your affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

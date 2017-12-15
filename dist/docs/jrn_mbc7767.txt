@@ -1,0 +1,29 @@
+<letter id="mbc7767">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. The Pfeifers, who live opposite us here, are descendants of those Pfeifers who came South with Mr. Chesnut's ancestors after the Fort Duquesne disaster. They have now, therefore, been driven out of their Eden, the 
+valley of Virginia, a second time. The present Pfeifer is the great man, the rich man par excellence of Lincolnton. 
+They say that with something very near to tears in his eyes he heard of our latest defeats. "It is only a question of 
+time with us now," he said. " The raiders will come, you know. 
+</p><p>
+Met a Mr. Ancrum of serenely cheerful aspect, happy and hopeful. " All right now," said he. " <a href='/results.php?tla=wts' rel=''>Sherman</a> sure 
+to be thrashed. <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> is in command. Dr. Darby says, when the oft-mentioned Joseph, the malcontent, gave 
+up his command to <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a>, he remarked with a smile, " I hope you will be able to stop <a href='/results.php?tla=wts' rel=''>Sherman</a> ; it was more than I 
+could do." <a href='/results.php?tla=jpj' rel=''>General Johnston</a> is not of Mr. Ancrum's way of thinking as to his own powers, for he stayed here several 
+days after he was ordered to the front. , He must have known he could do no good, and I am of his opinion. 
+</p><p>
+When the wagon, in which I was to travel to Flat Rock, drove up to the door, covered with a tent-like white cloth, 
+in my embarrassment for an opening in the conversation I asked the driver's name. He showed great hesitation in 
+giving it, but at last said : "My name is <a href='/results.php?tla=wts' rel=''>Sherman</a>", adding, "and now I see by your face that you won't go with me. 
+My name is against me these times". Here he grinned and remarked : "But you would leave Lincolnton". 
+</p><p>
+That name was the last drop in my cup, but I gave him Mrs. Glover's reason for staying here. <a href='/results.php?tla=jpj' rel=''>General Johnston</a> 
+had told her this might be the safest place after all. He thinks the Yankees are making straight for Richmond and 
+<a href='/results.php?tla=rel' rel='acquaintance met'>General Lee's</a> rear, and will go by Camden and Lancaster, leaving Lincolnton on their west flank. 
+</p><p>
+The McLeans are kind people. They ask no rent for their rooms only $20 a week for firewood. Twenty dollars ! 
+and such dollars mere waste paper. 
+</p><p>
+Mrs. Munroe took up my photograph book, in which I have a picture of all the Yankee generals. I want to see the men who are to be our masters," said she. Not mine " I answered, " thank God, come what may. This was a free fight. We had as much right to fight to get out as they had to fight to keep us in. If they try to play the masters, anywhere upon the habitable globe will I go, never to see a Yankee, and if I die on the way so much the better. Then I sat down and wrote to my husband in language much worse than anything I can put in this book. As I wrote I was blinded by tears of rage. Indeed, I nearly wept myself away. 
+</p>
+</letter>

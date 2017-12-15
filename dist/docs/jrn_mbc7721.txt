@@ -1,0 +1,7 @@
+<letter id="mbc7721">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='31'>31st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Met Preston Hampton. Constance Cary was with me. She showed her regard for him by taking his overcoat and leaving him in a drenching rain. What boyish nonsense he talked ; said he was in love with Miss Dabney now, that his love was so hot within him that he was 
+waterproof, the rain sizzed and smoked off. It did not so much as dampen his ardor or his clothes. 
+</p>
+</letter>

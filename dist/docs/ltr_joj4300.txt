@@ -1,0 +1,24 @@
+<letter id="joj4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='2'>2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+At and for some time after the arrival of your kind and friendly letter by Mr. Taylor, official business obliged me to postpone writing the letters due 
+to my private correspondents. In December, a young man, under the influence of more important advisers, made an attack in the papers, which rendered the 
+publication of my correspondence with him expedient. The first edition being replete with errors of the press, a second became indispensable ; and, from the 
+moment of the attack, I concluded to delay answering your letter until I could transmit with it a proper state of facts. A new edition has just been completed, and I have the honor of inclosing a copy of 
+it with this. 
+</p><p>
+Now, my dear Sir, let me tell you, and very sincerely, that no letter since my return has given me more pleasure than yours. As civilities, like true and 
+counterfeit coins, are sometimes difficult to distinguish, and as commendation, having no intrinsic value, borrows the chief of its worth from the merit 
+of those who bestow it, I feel, on this occasion, all the satisfaction which can result from approbation 
+under the most advantageous circumstances. An apprehension that this letter may not reach the post-office in time, presses me not to enlarge at present. 
+Mrs. Jay, whose best wishes you enjoy, desires me to tell you so, and, with me, requests the favor of you to present the like to Mrs. Washington. 
+</p><p>
+With perfect esteem and attachment, I am, &c., 
+</p><p>
+John Jay. 
+</p>
+</letter>

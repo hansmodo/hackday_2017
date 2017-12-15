@@ -1,0 +1,31 @@
+<letter id="usg7050">
+<recipient first="Robert" last="Lee" type="individual"/>
+<p>
+[<a href='/results.php?city=headquarters armies of the united states' rel='city origin'>HEAD-QUARTERS ARMIES OF THE UNITED STATES</a>]
+</p><p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1865' rel="origin">1865</a>. 
+</p><p>
+GENERAL R. E. LEE 
+</p><p>
+Commanding Confederate States Armies: 
+</p><p>
+Your two letters of the 2d instant were received yesterday. In regard to any apprehended misunderstanding in reference to 
+the exchange of political prisoners, I think there need be none. 
+General Ord and <a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a> have probably misunderstood what I said to the former on the subject, or I may have 
+failed to make myself understood possibly. A few days before the interview between Generals <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> and Ord I had received a despatch from General Hoffman, Commissary-General of 
+Prisoners, stating in substance that all prisoners of war who were or had been in close confinement or irons, whether under charges 
+or sentence, had been ordered to City Point for exchange. I forwarded the substance of that despatch to Lieutenant-Colonel Mulford, Assistant Agent of Exchange, and presumed it probable 
+that he had communicated it to Colonel Robert Ould. A day or two after, an officer who was neither a prisoner of war nor a 
+political prisoner, was executed, after a fair and impartial trial, and in accordance with the laws of war and the usage of civilized 
+nations. It was in explanation of this class of cases I told General Ord to speak to <a href='/results.php?tla=jml' rel='colleague adversary met'>General Longstreet</a>. Reference to my letter 
+of February 16 will show my understanding on the subject of releasing political or citizen prisoners. 
+</p><p>
+In regard to meeting you on the 6th instant, I would state that I have no authority to accede to your proposition for a conference on the subject proposed. Such authority is vested in the President of the United States alone. General Ord could only 
+have meant that I would not refuse an interview on any subject on which I have a right to act, which, of course, would be such 
+as are purely of a military character, and on the subject of exchanges which has been intrusted to me. 
+</p><p>
+(Signed) U. S. GRANT, 
+</p><p>
+Lieutenant- General. 
+</p>
+</letter>

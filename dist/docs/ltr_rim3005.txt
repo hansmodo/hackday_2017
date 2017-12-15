@@ -1,0 +1,26 @@
+<letter id="rim3005">
+<recipient first="" last="Preston"/>
+<p rel="heading">
+GENERAL MONTGOMERY TO MAJOR PRESTON. 
+</p><p>
+<a rel="day origin" value="1">1</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+SIR, 
+</p><p>
+The advanced season of the year will not admit of your proposal. I do assure you, upon the honor of a gentleman, that 
+what the prisoner has informed you of is true, as far as has 
+come to my knowledge. However, if it wants further confirmation, Mr. Depane, of <a href='/results.php?city=montreal' rel='city'>Montreal</a>, who is also my prisoner, will, I 
+believe, give you the same intelligence. 
+</p><p>
+Having now acquitted my conscience, I must, to save time 
+and prevent trouble, acquaint you, if you do not surrender this 
+day, it will be unnecessary to make any future proposals. The garrison shall be prisoners of war without the honors of 
+and I cannot insure the officers their baggage. Should you wish 
+to send an officer to Mr. Depane, who is on board the sloop, you 
+have my permission. Captain Stewart carries an order for that 
+purpose. Should you still be inclined to persist in a useless 
+defence, you will immediately fire a cannon without shot, as a 
+signal. I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

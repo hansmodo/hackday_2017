@@ -1,0 +1,12 @@
+<letter id="mbc7707">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. At the President's, where <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> breakfasted, a man named Phelan told <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> all he 
+ought to do; planned a campaign for him. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> smiled blandly the while, though he did permit himself a 
+mild sneer at the wise civilians in Congress who refrained 
+from trying the battle-field in person, but from afar dictated the movements of armies. My husband said that, to 
+his amazement, <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> came into his room at the Executive Office to pay his respects and have a talk. " " Dear 
+me! Goodness gracious!" said I. " That was a compliment from the head of the army, the very first man in the 
+world, we Confederates think." 
+</p>
+</letter>

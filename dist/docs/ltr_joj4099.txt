@@ -1,0 +1,64 @@
+<letter id="joj4099">
+<recipient first="John" last="Adams" type="individual"/>
+<p>   	 
+Office for Foreign Affairs, <a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='1'>1st</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1786' rel="origin">1786</a>
+</p><p>
+Dear Sir, 
+</p><p>
+My report on the answer of the British minister to your 
+memorial respecting our frontier posts, is under the consideration of Congress. Your ideas and mine on those subjects very nearly correspond, and I sincerely wish that you 
+may be enabled to accommodate every difference between 
+us and Britain, on the most liberal principles of justice and 
+candour. The result of my inquiries into the conduct of 
+the States relative to the treaty, is, that there has not been 
+a single day since it took effect, on which it has not been 
+violated in America, by one or other of the States ; and this 
+observation is just, whether the treaty be supposed to have 
+taken effect either at the date or exchange of the provisional 
+articles, or on the day of the date of the definitive treaty, or 
+of the ratifications of it. 
+</p><p>
+Our affairs are in a very unpleasant situation, and 
+changes become necessary, and in some little degree probable. When government, either from defects in its construction or administration, ceases to assert its rights, or is 
+too feeble to afford security, inspire confidence, and overawe the ambitious and licentious, the best citizens naturally 
+grow uneasy and look to other systems. 
+</p><p>
+How far the disorders of Massachusetts may extend, or 
+how they will terminate, is problematical ; nor is it possible 
+to decide whether the people of Rhode Island will remain 
+much longer obedient to the very extraordinary and exceptionable laws passed, for compelling them to embrace the 
+doctrine of the political transubstantiation of paper into 
+gold and silver. 
+</p><p>
+I suspect that our posterity will read the history of our 
+last four years with much regret. 
+</p><p>
+I enclose for your information a pamphlet, containing the 
+acts of the different States granting an impost to Congress. 
+</p><p>
+You will also find enclosed a copy of an act of Congress, 
+of 20th and 21st ult., for raising an additional number of 
+troops. This measure was doubtless necessary, although 
+the difficulty of providing for the expense of it is a serious 
+one. I flatter myself you will be able to obviate any improper suspicions which the minister may be led to entertain respecting the object of this force. I have pressed the 
+policy of deciding on my report on the infractions of the 
+treaty without delay, that you may thence be furnished 
+with conclusive arguments against the insinuations of those 
+who may wish to infuse and support opinions unfavourable 
+to us on these points. 
+</p><p>
+The newspapers herewith sent will give you information 
+in detail of Indian affairs, but they will not tell you what, 
+however is the fact, that our people have committed several 
+unprovoked acts of violence against them. These acts 
+ouo-ht to have excited the notice of government, and been 
+punished in an exemplary manner. 
+</p><p>
+With great and sincere esteem and regard, I have the 
+honour to be, dear sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

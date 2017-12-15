@@ -1,0 +1,11 @@
+<letter id='abl435'>
+<recipient first='William' last='Seward' type='individual'/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>, March, 7,<a href="/results.php?year=1863">1863</a>.
+</p><p>
+Mr. M. is now with me on the question of the <a href='/results.php?city=honolulu' rel='city'>Honolulu</a> Commissioner. It pains me some that this tilt for the place of Colonel Baker's
+friend grows so fierce, now that the Colonel is no longer alive to defend him. I presume, however, we shall have no rest from it. In
+self-defense I am disposed to say, "Make a selection and send it to me."
+</p>
+<p>[<a href="/results.php?tla=abl" rel="me">A. LINCOLN</a>]</p>
+</letter>

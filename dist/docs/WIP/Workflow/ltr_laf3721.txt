@@ -1,0 +1,109 @@
+<letter id="laf3721">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Forks of <a href='/results.php?city=york river' rel='city origin'>York River</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+Your letter of the 15th has safely come to hand. 
+I am going to give you an account of matters in 
+this quarter. The greater part of the enemy are at 
+York, which they do not as yet fortify ; but are very 
+busy upon Gloucester Neck, where they have a pretty 
+large corps under Colonel Dundas. They have at York a forty-four gun ship; frigates and vessels are 
+scattered lower down. There is still a small garrison 
+at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>. Should they intend to evacuate, at 
+least, they are proceeding with alarming slowness. 
+</p><p>
+From the enemy's preparations I should infer that 
+they are working for the protection of a fleet, and 
+for a defence against another ; that in case they 
+hold <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, the main body would he at York, 
+and a detached corps upon Gloucester Neck, to protect the water hattery. Their fortifications are much 
+contracted. From the enemy's cautious and partial 
+movements, I should conclude their intelligence is not 
+very good, and they wish to come at an explanation 
+of my intentions and prospects. We have hitherto 
+occupied the Forks of York River, thereby looking 
+both ways. Some militia have prevented the enemy's 
+parties from remaining any time at or near <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, and false accounts have given them some alarms. 
+Another body of militia, under Colonel Innes, has kept 
+them pretty close in Gloucester town, and foraged in 
+their vicinity. 
+</p><p>
+Upon the receipt of your orders, I wrote to the 
+Governor that the intelligence of some plans of the 
+enemy rendered it proper to have six hundred militia collected upon Blackwater. I wrote to General Gregory, near <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, that I had an account the 
+enemy intended to push a detachment to Carolina, 
+which would greatly defeat a scheme we had there. 
+I have requested <a href='/results.php?tla=atw' rel='colleague met'>General Wayne</a> to move towards the 
+southward, and be ready to cross James River at Westover. A battalion of light infantry, and our only one 
+hundred dragoons, being in Gloucester county, I call 
+them my van-guard, and shall take my quarters there 
+for one or two days, while the troops are filing off 
+towards James River. Our little army will conseqiiently again assemble upon the waters of the Chickahominy ; and should Jamestown Island be thought a 
+good place for a junction, we shall be in a situation 
+to form it, while we render it more difficult for the 
+enemy to attempt a journey to Carolina. 
+</p><p>
+I shall to-day write to the gentleman. Nothing as 
+yet has appeared. I will take measures that he may 
+hear from me the moment he arrives ; taking whatever is in the rivers, and taking possession of the 
+rivers themselves, while the main body defends the 
+Bay; forming a junction of land forces at a convenient and safe point ; checking the enemy, but giving 
+nothing to chance, until properly reenforced. This is 
+the plan I mean to propose. Some days ago I sent 
+Washington to contrive the Maryland new levies out 
+of their State. These Marylanders will be five hundred ; Virginians, four hundred ; Pennsylvanians, six 
+hundred ; light infantry, eight hundred and fifty ; 
+dragoons, one hundred and twenty. Such is the Continental force ; and in the course of eight days the 
+already called for militia will make three thousand. 
+Every thing I put at the lowest estimate ; but we 
+may depend upon two thousand five hundred Continentals, rank and file, exclusive of artillery, and three, 
+or, if more are wanted, four thousand miUtia. Maryland would send six hundred militia at least. I have 
+two hundred more dragoons and horses ready, and am 
+waiting for accoutrements. 
+</p><p>
+There is such a confusion in affairs in this part of 
+the world, that immense difficulties are found for a 
+perfect formation of magazines. I have, however, 
+strongly urged the matter. The moment I received 
+your first letter, I sent Mr. McHenry to <a href='/results.php?city=richmond' rel='city'>Richmond</a>, 
+who had long conversations about it with the Governor and Council. I have recommended such plans 
+as might answer your purposes. This State has a 
+large quantity of beef, corn, some flour, very little 
+rum. Maryland ought to be early called upon. Water transportation will, I hope, ease our difficulties. 
+Had we any thing like money, matters would go on 
+very well. The dry season has rendered most of the 
+mills useless. We have no clothing of any sort ; no 
+heavy artillery in order. Some arms will be wanting, 
+some horse accoutrements, and a great deal of ammunition. Nothing but your own entreaties may have a 
+sufficient quantity of those articles transported to 
+the head of the Bay. In the present state of affairs, 
+my dear General, I hope you will come yourself to 
+Virginia, and that, if the French army moves this 
+way, I shall have, at least, the satisfaction of beholding you myself at the head of the combined armies ; 
+in which case I beg leave to recommend you may 
+be accompanied by the heads of departments, which 
+will save you an immense deal of trouble. The men 
+we have here would not be equal to the task of a 
+campaign upon so large a scale. 
+</p><p>
+In two days I will write again to your Excellency, 
+and keep you particularly and certainly informed, unless something is done the very moment, and it will 
+probably be difficult. Lord Cornwallis must be attacked with a pretty great apparatus. But when a 
+French fleet takes possession of the Bay and rivers, 
+and we form a land force superior to his, that army 
+must, soon or late, be forced to surrender, as we may 
+get what reenforcements we please. Adieu, my dear 
+General. I heartily thank you for having ordered me 
+to remain in Virginia; and to your goodness to me 
+I am owing the most beautiful prospect I may ever 
+behold. With the most affectionate respect, I have 
+the honor to be, my dear General, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

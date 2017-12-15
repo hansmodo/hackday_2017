@@ -1,0 +1,37 @@
+<letter id='jbm8001'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+U. S. Ship Portsmouth, 
+<br>
+<a href='/results.php?city=san francisco' rel='city origin'>Bay of San Francisco</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: Since writing you by Neal on the 3d inst., I have been by <a href="/results.php?tla=ahg" rel="colleague">Lieut. Gillespie</a> informed of your present position and circumstances, and made acquainted with your design to proceed south with your party as far as <a href='/results.php?city=santa barbara' rel='city'>Santa Barbara</a> before striking across the country for the United States. I am 
+also informed by <a href="/results.php?tla=ahg" rel="colleague">Lieut. G.</a> of your having expressed to him a desire for the presence of a vessel of war at Santa Barbara, during the period of your temporary sojourn in the vicinity of that port. 
+</p><p>
+Now, sir, I am happy to say that I feel myself at liberty to visit any or all ports upon this coast should the public interest require it, and if, on the 
+receipt of this, you shall still think that the presence of a ship of war at <a href='/results.php?city=santa barbara' rel='city'>Santa Barbara</a> may prove serviceable to you in carrying out the views of our 
+Government, and will do me the favor by the return boat to communicate your wishes with information as to the time you will probably reach that 
+part of the coast, I shall not fail (Providence permitting) to meet you there with the Portsmouth. 
+</p><p>
+I feel gratified, sir, in having it in my power to forward you by Lieut. Hunter the amount of funds asked for in your name by <a href="/results.php?tla=ahg" rel="colleague">Lieut. Gillespie</a>, 
+with most of the articles of store, etc., required to meet the demand of your urgent necessity, regretting only my inability to furnish the whole. You 
+will oblige me by signing the Requisitions and Receipts annexed to the several invoices transmitted by <a href="/results.php?tla=hst" rel="colleague met">Lieut. Hunter</a>, and with a view to the settlement of Purser James H. Watmough's accounts at the Navy Department, 
+be pleased to give an order or bill (in duplicate) on the proper Department of Government, payable to Purser Watmough's order to the Fourth Auditor of the Treasury for the aggregate amount of money and purser's 
+stores supplied. Articles having no prices affixed need only be receipted for. 
+</p><p>
+<a href="/results.php?tla=ahg" rel="colleague">Lieut. Gillespie</a> informs me that you may find it convenient to visit the Portsmouth at <a href='/results.php?city=santa barbara' rel='city'>Santa Barbara</a> should we have occasion to go there; with 
+this prospect in View I beg leave again to assure you that we shall all on board be most happy to see you. 
+</p><p>
+Very respectfully, 
+</p><p>
+I am your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>, 
+</p><p>
+Commander U. S. N. 
+</p><p>
+To Capt. J. C. Fremont, 
+</p><p>
+Bt. Capt. U. S. Topol. Engineers, N. California. 
+</p>
+</letter>

@@ -1,0 +1,18 @@
+<letter id="smd7909">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], <a rel="month origin" value="11">November</a> <a rel='day origin' value='10'>10th</a>, Monday. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+In spite of its being Sunday, no sooner was dinner concluded yesterday than we adjourned, as usual, to the sugar-house to see how much damage we could 
+do. Each took from a negro his long paddle, and for more than half an hour skimmed the kettles industriously, to the amazement of half a dozen strange 
+soldiers who came to see the extraordinary process of sugar-making. At one time the two boys taking possession of the two other paddles, not a negro was 
+at the kettles, but stood inspecting our work. The hardest part we found to be discharging the batteries, which none of us could do without their assistance. 
+We had no sooner relinquished our paddles than some one announced two gentlemen at the house. While we were discussing the possibility of changing 
+our dresses before being seen, enter Mr. Enders and Gibbes Morgan of Fenner's battery. No retreat being possible, we looked charmed and self-possessed 
+in spite of plain calicoes and sticky hands. . . . Mr. Enders very conveniently forgot to bring my nuage. He says he started expressly to do so, but 
+reflecting that I might then have no inducement to pay that visit to Port Hudson, he left it for another 
+time. . . . We arranged a visit to Gibbes, and Mr. Enders made me promise to call at General Beale's 
+headquarters for a pass. "They will want you to go to the Provost Marshal's for it, but you just come to General Beale's, and send a courier for 
+me, and I will bring it myself!" - and half in fun, half in earnest, I promised. 
+</p><p>
+</letter>

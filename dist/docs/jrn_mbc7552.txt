@@ -1,0 +1,28 @@
+<letter id="mbc7552">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='13'>13th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a href='/results.php?year=1861' rel="origin">1861</a>]. Nobody has been hurt after all. How gay we were last night. Reaction after the dread of all the 
+slaughter we thought those dreadful cannon were making. Not even a battery the worse for wear. Fort Sumter has 
+been on fire. Anderson has not yet silenced any of our guns. So the aides, still with swords and red sashes by 
+way of uniform, tell us. But the sound of those guns makes regular meals impossible. None of us go to table. 
+Tea-trays pervade the corridors going everywhere. Some of the anxious hearts lie on their beds and moan in solitary 
+misery. Mrs. Wigfall and I solace ourselves with tea in my room. These women have all a satisfying faith. God 
+is on our side," they say. When we are shut in Mrs. Wigfall and I ask " Why? " " Of course, He hates the Yankees, we are told. You ll think that well of Him." 
+</p><p>
+Not by one word or look can we detect any change in the demeanor of these negro servants. Lawrence sits at 
+our door, sleepy and respectful, and profoundly indifferent. So are they all, but they carry it too far. You could 
+not tell that they even heard the awful roar going on in the bay, though it has been dinning in their ears night and 
+day. People talk before them as if they were chairs and tables. They make no sign. Are they stolidly stupid ? or . 
+wiser than we are ; silent and strong, biding their time ? 
+</p><p>
+So tea and toast came; also came Colonel Manning, red sash and sword, to announce that he had been under fire, 
+and didn't mind it. He said gaily: " It is one of those things a fellow never knows how he will come out until he 
+has been tried. Now I know I am a worthy descendant of 
+my old Irish hero of an ancestor, who held the British officer before him as a shield in the Revolution, and backed 
+out of danger gracefully." We talked of St. Valentine's eve, or the maid of Perth, and the drop of the white doe's 
+blood that sometimes spoiled all. 
+</p><p>
+The war-steamers are still there, outside the bar. And there are people who thought the Charleston bar " no 
+good " to Charleston. The bar is the silent partner, or sleeping partner, and in this fray it is doing us yeoman service. 
+</p>
+</letter>

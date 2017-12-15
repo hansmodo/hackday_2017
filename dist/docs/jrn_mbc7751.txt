@@ -1,0 +1,33 @@
+<letter id="mbc7751">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Isabella and I put on bonnets and shawls and went deliberately out for news. We determined 
+to seek until we found. Met a man who was so ugly, I could not forget him or his sobriquet ; he was awfully in love with 
+me once. He did not know me, but blushed hotly when Isabella told him who I was. He had forgotten me, I hope, or 
+else I am changed by age and care past all recognition. He gave us the encouraging information that Grahamville had 
+been burned to the ground. 
+</p><p>
+When the call for horses was made, Mrs. McCord sent in her fine bays. She comes now with a pair of mules, and 
+looks too long and significantly at my ponies. If I were not so much afraid of her, I would hint that those mules would 
+be of far more use in camp than my ponies. But they will seize the ponies, no doubt. 
+</p><p>
+In all my life before, the stables were far off from the house and I had nothing to do with them. Now my ponies 
+are kept under an open shed next to the back piazza. Here I sit with my work, or my desk, or my book, basking in our 
+Southern sun, and I watch Nat feed, curry, and rub down the horses, and then he cleans their stables as thoroughly as 
+Smith does my drawing-room. I see their beds of straw comfortably laid. Nat says, " Ow, Missis, ain't lady's business to look so much in de stables." I care nothing for his grumbling, and I have never had horses in better condition. 
+Poor ponies, you deserve every attention, and enough to eat. Grass does not grow under your feet. By night and 
+day you are on the trot. 
+</p><p>
+To-day General Chesnut was in Charleston on his way from Augusta to Savannah by rail. The telegraph is still 
+working between Charleston and Savannah. Grahamville certainly is burned. There was fighting down there to-day. 
+I came home with enough to think about, Heaven knows! And then all day long we compounded a pound cake in 
+honor of Mrs. Cuthbert, who has things so nice at home. The cake was a success, but was it worth all that trouble ? 
+</p><p>
+As my party were driving off to the concert, an omnibus rattled up. Enter Captain Leland, of General Chesnut's 
+staff, of as imposing a presence as a field-marshal, handsome and gray-haired. He was here on some military errand and 
+brought me a letter. He said the Yankees had been repulsed, and that down in those swamps we could give a 
+good account of ourselves if our government would send men enough. With a sufficient army to meet them down 
+there, they could be annihilated. " Where are the men to come from? " asked Mamie, wildly. " <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a> has 
+gone off to Tennessee. Even if he does defeat Thomas there, what difference would that make here? " 
+</p>
+</letter>

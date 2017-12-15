@@ -1,0 +1,33 @@
+<letter id='mad1659'>
+<recipient first='Edmund' last='Randolph' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, July 15, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+MY DEAR FRIEND, I have been favored with yours of the 
+30th ultimo, and thank you for your remarks on the Judiciary 
+bill. 
+</p><p>
+I am glad to find you concurring in the decision as to the 
+power of removal. It seems to meet with general approbation 
+North of Virginia, and there, too, as far as I yet learn. Mr. 
+Pendleton is fully in opinion with you. So is Monroe, I am 
+told. The more the question is weighed the more proper I think 
+it will be found to reduce the ex-agency of the Senate to the 
+very minimum that will satisfy the Constitution. To say nothing of their being the least responsible member of the Government, the nature of their other functions forbids an extension 
+of their executive. As a judiciary body for impeachments, they 
+ought not to be called on for a summary opinion in cases that 
+may come judicially before them; and as a controul on the passions of the House of Representatives, they ought to have as 
+little as possible to do with those personal questions, which are 
+sources in all Governments of the most frequent and violent 
+animosities and factions. The Senate have not yet declared 
+themselves on the question. The event there is doubtful. 
+</p><p>
+You will find among the enclosed papers the impost act, as it 
+finally passed. The Collection Bill is gone to the Senate. It 
+is very long, has cost a great deal of trouble, and is by no means 
+in a very correct state. It will do only to begin with. We endeavored to make the regulations for Virginia more palatable 
+than the State laws, by relaxing the plan of the port Bills. 
+</p><p>
+Adieu. 
+</p>
+</letter>

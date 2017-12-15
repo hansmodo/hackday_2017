@@ -1,0 +1,69 @@
+<letter id='mad1725'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+July 30, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+DEAR SIR, My last was of the 22d instant. I have since received yours covering the paper now returned, that covering 
+the report of the Commissioners of accounts between the United 
+States and the particular States, and that of the 21st instant. 
+The intermediate one of the 14th was left by mistake in a secure 
+place by the person who was to bring it up from <a href="/results.php?city=fredericksburg" rel="city">Fredericksburg</a>, 
+and is not yet arrived. The delay has been inconvenient, as it 
+deprives me of part of the publication, which I wish to see in all 
+its parts before I formed a regular view of any. As I intimated 
+in my last, I have forced myself into the task of a reply. I can 
+truly say I find it the most grating one I ever experienced; and 
+the more so, as I feel at every step I take the want of counsel 
+on some points of delicacy, as well as of information as to sundry matters of fact. I shall be still more sensible of the latter 
+want when I get to the attack on French proceedings, and perhaps to the last topic proposed by the writer, if I ever do get to 
+it. As yet I have but roughly and partially gone over the first; 
+and being obliged to proceed in scraps of time, with a distaste 
+to the subject, and a distressing lassitude from the excessive and 
+continued heat of the season, I cannot say when I shall finish 
+even that. One thing that particularly vexes me is, that- 1 foreknow, from the prolixity and pertinacity of the writer, that the 
+business will not be terminated by a single fire, and, of course, 
+that I must return to the charge in order to prevent a triumph 
+without a victory. 
+</p><p>
+Do you know what is the idea of France with regard to the 
+defensive quality of the guaranty, and of the criterion between 
+offensive and defensive war, which I find differently defined by different jurists; also, what are the ideas of the President on these 
+points? I could lay my course with more advantage through 
+some other parts of the subject if I could also know how far he 
+considers the Proclamation as expressing a neutrality, in the 
+sense given to that term, or how far he approves the vindication 
+of it on that ground. 
+</p><p>
+I am sorry to find the journey to Virginia, from which useful 
+lessons were hoped, ending in a confirmation of errors. I can 
+only account for it by supposing the public sentiment to have 
+been collected from tainted sources, which ought to have suggested to a cautious and unbiassed mind the danger of confiding in them. The body of the people are unquestionably attached to the Union, and friendly to the Constitution; but that 
+they have no dissatisfaction at the measures and spirit of the 
+Government, I consider as notoriously untrue. I am the more 
+surprised at the misconception of our Friend, as the two latest 
+sources consulted, the two brothers, I mean, are understood to 
+be both of them rightly disposed, as well as correctly informed. 
+</p><p>
+I have got my ploughs at last. They are fine ones, and much 
+admired. Repeat my thanks to D'r Logan, if you have an opportunity and think of it. The patent plough is worth your looking at, if you should visit his farm. You will see your theory 
+of a mould-board more nearly realized than in any other instance, and with the advantage of having the iron wing, which 
+in common bar shares or in great lies useless under the wood, 
+turned up into the sweep of the board, and relieving it from the 
+brunt of the friction. By fixing the colter, which is detached, 
+to the point of the share, it will, I think, be nearly complete. I 
+propose to have one so constructed. The detached form may 
+answer best in old, clear ground, but will not stand the shocks 
+of our rough and rooty land, especially in the hands of our 
+ploughmen. 
+Little wheat having been yet tried in bread, I cannot say how 
+the quality will turn out. The more I see and hear of it, the 
+more I fear it will be worse than was at first supposed. The 
+corn suffers now for want of rain, but appearances as to that 
+article are, on the whole, very flattering. The worst effect of 
+the dry weather at present felt is the extreme hardness of the 
+earth, which makes ploughing, particularly in fallow land, but 
+barely possible. So many heavy rains on ground wet for six 
+months, succeeded by the present hot spell, has almost beat it 
+and baked it into brick. 
+</p>
+</letter>

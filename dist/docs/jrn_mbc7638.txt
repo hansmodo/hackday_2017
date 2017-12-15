@@ -1,0 +1,23 @@
+<letter id="mbc7638">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. A battle is said to be raging round Richmond. I am at the Prestons . James Chesnut has gone to 
+Richmond suddenly on business of the Military Department. It is always his luck to arrive in the nick of time 
+and be present at a great battle. 
+</p><p>
+Wade Hampton shot in the foot, and Johnston Pettigrew killed. A telegram says <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> and Davis were both on 
+the field: the enemy being repulsed. Telegraph operator said: " Madam, our men are fighting." " Of course they 
+are. What else is there for them to do now but fight? " " But, madam, the news is encouraging." Each army is 
+burying its dead : that looks like a drawn battle. We haunt the bulletin-board. 
+</p><p>
+Back to McMahan -s. Mem Cohen is ill. Her daughter, Isabel, warns me not to mention the battle raging around 
+Richmond. Young Cohen is in it. Mrs. Preston, anxious and unhappy about her sons. John is with General Huger 
+at Richmond; Willie in the swamps on the coast with his company. Mem tells me her cousin, Edwin de Leon, is sent 
+by <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> on a mission to England. 
+</p><p>
+Rev. Robert Barnwell has returned to the hospital. Oh, that we had given our thousand dollars to the hospital and 
+not to the gunboat! " <a href='/results.php?tla=tjj' rel=''>Stonewall Jackson's</a> movements, " 
+the Herald says, " do us no harm ; it is bringing out volunteers in great numbers." And a Philadelphia paper abused 
+us so fervently I felt all the blood in me rush to my head with rage. 
+</p>
+</letter>

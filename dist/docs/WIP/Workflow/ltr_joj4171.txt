@@ -1,0 +1,88 @@
+<letter id="joj4171">
+<recipient first="Richard" last="Peters" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='26'>26th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1810' rel="origin">1810</a>:, 
+</p><p>
+Dear Sir, 
+</p><p>
+After lingering through the summer, I found my disorder 
+gradually returning in the autumn. Since the middle of 
+November I have been confined to the house ; but have as 
+yet suffered less this winter than I did the last. At times, 
+however, I seemed to be approaching that state, in which 
+" a grasshopper is a burden.'' When I took up my pen, it 
+was not because it was pleasant, but because it was necessary. The late tine weather has done me good. I have 
+walked on the piazza, and breathed mild fresh air. I feel 
+less relaxed, and think it probable that the spring will again 
+relieve me. The " carpe diem" reminds me that I should 
+take this opportunity of writing to you, and to a few others 
+whom I have apparently neglected. 
+</p><p>
+From your letter I can perceive what your feelings have 
+been and are. When afflictions make us wiser and better, 
+they answer their purpose ; and they do so when they produce the acquiescence and resignation you mention. A 
+traveller has great reason for regret, when a faithful and 
+affectionate friend and companion leaves him on the road j 
+but that regret is softened by the expectation of meeting 
+again at the end of the journey. To you it will readily 
+occur that we are all travellers ; some in coaches, others 
+on foot ; some lodge in good inns, and others where the 
+night finds them. Some press forward with an eye to 
+" the promised land," while many others loiter and revel 
+on the way, with as little concern about where they are 
+going, as the horses by which they are drawn or carried, 
+•fee. &c. He did not speak much at random, who said, 
+" The greatest miracle to man is man." 
+</p><p>
+Our political sky still continues to grow more and more 
+dark and threatening. Whether the clouds will quietly 
+disperse and disappear, or whether they portend a storm, 
+is uncertain. The present tempestuous state of the world 
+does not encourage us to expect a long season of uninterrupted fair weather. If peace has been and is in our 
+power, it would be mortifying to be involved in war unnecessarily. There came forth with the French revolution a 
+spirit of delusion, which, like an influenza, passed over and 
+infected all Europe. Even our distant country has not 
+entirely escaped. Great is the number among us, of whom 
+it may be said, that, "Seeing they have not perceived, and 
+hearing they have not understood." Delusions have their 
+errands, and are sent for some purpose different from that 
+of promoting unanimity and peace. But be these things 
+as they may, it is a consoling reflection that He who rules 
+all, rules wisely. 
+</p><p>
+I will now turn to a more pleasing topic. On conversing 
+with a gentleman who visited me last summer, about the 
+damage said to be often done to pear-trees by lightning, he 
+observed that the damage in question proceeded, in his 
+opinion, more frequently from disease than from lightning. 
+That on seeing the upper branches of one of his pear-trees 
+to be withering, he examined them often, and found them 
+to be dying from the extremities downwards. After some 
+time he took off all those branches below the mortification, 
+cutting through sound healthy wood. The tree soon began 
+to flourish. It put forth new and strong shoots, and has 
+since been as thrifty as the others. 
+</p><p>
+Something a little like this happened last year in my 
+garden. A frost took my watermelons when they were 
+about as large as a marble. They turned black, and 
+dropped off. The ends of the vines began to die, and continued to do so for some days. I then had the vines cut 
+below the mortified part, and the whole well sprinkled with 
+plaster. They recovered, and brought some, though not 
+much fruit to perfection.. 
+</p><p>
+I believe that you and I derive more real satisfaction 
+from attending to our vines and fruit-trees, than most conquerors do from cultivating their favourite laurels. 
+</p><p>
+At present I indulge the expectation of being able to bid 
+a cheerful welcome to the spring, and to participate a little 
+in the enjoyments of it, notwithstanding the wickedness or 
+folly which may abound in high places. That you may 
+share largely and for many years in these and other enjoyments, is sincerely the wish of, 
+</p><p>
+Dear sir, 
+Your affectionate and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

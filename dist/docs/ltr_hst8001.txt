@@ -1,0 +1,15 @@
+<letter id='hst8001'>
+<recipient first='John' last='Sloat' type='individual'/>
+<p>
+<a href='/results.php?city=san diego' rel='city origin'>San Diego</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Commodore : In compliance with your verbal instructions to examine and report upon the condition of the public horses turned over to me, for the use of C Company, First Dragoons, I 
+have the honor to state that, in my opinion, not one of the horses referred to is fit for dragoon service, being too poor and weak for any such purpose ; also, that the company of dragoons 
+under my command can do much better service on foot than mounted on those horses. 
+</p><p>
+I am, sir, with high respect, your obedient servant, 
+</p><p>
+<a href="/results.php?tla=hst" rel="me">H. S. Turner</a>,<br>
+Captain First Dragoons, Commanding Company C. 
+</p>
+</letter>

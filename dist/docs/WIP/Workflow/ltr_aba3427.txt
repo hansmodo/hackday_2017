@@ -1,0 +1,124 @@
+<letter id="aba3427">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1787" rel="origin">1787</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+Captain Davis called yesterday to let me know 
+that he should sail in the course of the week. Captain Barnard will not be long after him, and I almost wish I was going to embark with him. I think 
+I should not feel more anxious if I was in the midst 
+of all the disturbances, than I do at this distance, 
+where imagination is left at full liberty. When law 
+and justice are laid prostrate, who or what is secure ? 
+I received your letters, which came by Captain Scott, 
+just as I was going to step into the carriage to go into 
+the City upon some business. As I was alone, I 
+took them with me to read ; and, when I came to that 
+part of your letter wherein you say that you had 
+hoped to have seen only peace in future, after surmounting the horrors of one war, the idea was too 
+powerful for me, and the tears involuntarily flowed. 
+I was obliged to quit the letter till I had finished my 
+business ; the thoughts which naturally occurred to me 
+were, " For what have we been contending against 
+the tyranny of Britain, if we are to become the sacrifice of a lawless banditti ? Must our glory be thus 
+shorn and our laurels thus blasted ? Is it a trifling 
+matter to destroy a government ? Will my countrymen justify the maxim of tyrants, that mankind are 
+not made for freedom ? I will, however, still hope 
+that the majority of our fellow-citizens are too wise, 
+virtuous, and enlightened, to permit these outrages to 
+gain ground and triumph. Solon, the wise lawgiver 
+of Athens, published a manifesto for rendering infamous all persons who, in civil seditions, should remain spectators of their country's danger by a criminal neutrality. The spirit shown by the gentleman 
+volunteers, and the capture of Shattuck, does honor 
+to our State. More energy in government would 
+have prevented the evil from spreading so far as it 
+has done. 
+</p><p>
+" Mercy but gives sedition time to rally. 
+Every soft, pliant, talking, busy rogue, 
+Gathering a flock of hot-brained fools together, 
+Can preach up new rebellion, 
+Spread false reports of the Senate, working up 
+Their madness to a fury quick and desperate, 
+Till they run headlong into civil discords, 
+And do our business with their own destruction." 
+</p><p>
+This is a picture of the civil dissensions in Rome, 
+and to our mortification we find, that human nature 
+is the same in all ages. Neither the dread of tyrants, the fall of empires, the havoc and desolation 
+of the human species, nor the more gloomy picture 
+of civil discord, are sufficient to deter mankind from 
+pursuing the same steps which have led others to 
+ruin ; selfishness and spite, avarice and ambition, 
+pride and a levelling principle, are qualities very unfavorable to the existence of civil liberty. But, whatever is to be the fate of our country, we have determined to come home and share it with you. Congress have never given <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> a recall from 
+Holland, and he is vested (with <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a>) with 
+powers to form treaties with several other countries. 
+His commission to this Court will terminate this 
+time twelve months, and he has written to Congress 
+his fixed and full determination to resign his commission and return at that period, if not before. So 
+that, my dear sister, I most joyfully accept your invitation, and will come home, God willing, ere 
+another year expires. Disagreeable as the situation 
+of my native State appears, I shall quit Europe with 
+more pleasure than I came into it, uncontaminated, I 
+hope, with its manners and vices. I have learned to 
+know the world and its value ; I have seen high life ; 
+I have witnessed the luxury and pomp of state, the 
+power of riches and the influence of titles, and have 
+beheld all ranks bow before them as the only shrine 
+worthy of worship. Notwithstanding this, I feel that 
+I can return to my little cottage, and be happier than 
+here ; and, if we have not wealth, we have what is 
+better, integrity. 
+</p><p>
+I bad written you thus far with an intention of 
+sending by Davis, but received a card to-day from 
+Captain Barnard, that he will sail at the same time, 
+which is a fortnight sooner than I expected. I have 
+concluded to send by him. I wrote you by Captain Cushing, on board of whom I got Mr. Elworthy to 
+put a small present for you, but was much mortified 
+a day or two after to find, by a <a href='/results.php?city=boston' rel='city'>Boston</a> paper, that 
+they were prohibited articles. I hope you will not 
+meet with trouble on account of them. I cannot but 
+approve the spirit which dictated the measure ; the 
+causes which gave rise to it must be deplored, for it 
+is evidently a work of necessity rather than choice. 
+The luxury, which had made such rapid strides 
+amongst our countrymen, was more criminal than 
+that which is founded upon real wealth, for they have 
+rioted upon the property which belonged to others. It 
+is a very just observation, that those who have raised 
+an empire have always been grave and severe ; they 
+who have ruined it have been uniformly distinguished for their dissipation. We shall wait with impatience for the result of <a href='/results.php?tla=bel' rel=''>General Lincoln</a>'s expedition. 
+Much depends upon his success. Government seem 
+afraid to use the power they have, and recommend 
+and entreat, where they ought to command ; which 
+makes me apprehend that the evil lies deeper than 
+the heads or hands of Shays or Shattuck. From 
+letters received here both from <a href='/results.php?city=boston' rel='city'>Boston</a> and New 
+York, it is to be feared that visionary schemes and 
+ambitious projects are taking possession of men of 
+property and science ; but, before so important an 
+edifice as an established government is altered or 
+changed, its foundation should be examined by skilful artists, and the materials of which it is composed, 
+duly investigated. 
+</p><p>
+The " Defence of the American Constitutions " is 
+a work which may, perhaps, contribute to this end, 
+and I most sincerely wish it may do the good intended. 
+</p><p>
+I lament with you the loss of a worthy man, for 
+such indeed was the friend of my dear Eliza. Our 
+own duration is but a span ! then shall we meet those 
+dear friends and relatives who have gone before us, 
+and be engaged together in more elevated views, and 
+purer pleasures and enjoyments, than mortality is capable of. Let this idea soothe the afflicted mind, and 
+administer balm to the wounded heart. All things 
+are under the government of a supreme, all- wise 
+Director ; to Him commit the hour, the day, the 
+year. 
+</p><p>
+Affectionately your sister, 
+</p><p>
+A A. 
+</p>
+</letter>

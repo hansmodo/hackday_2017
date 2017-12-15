@@ -1,0 +1,34 @@
+<letter id="frm3911">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+NEAR <a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.
+</p><p>
+SIR: 
+</p><p>
+I am posted here, two miles in front of the Continental army, within 
+three-quarters of a mile of the above bridge. The General, according 
+to custom, keeps me between him and the enemy. By what I can 
+learn, we shall not move from here until the army move. Gen. Pickens 
+brigade is here under me; Capt. Gee's men are come here. You will 
+relieve those at Cat Island by some other men. I hope by this you 
+</p><p>
+have received the arms. Send me by the first opportunity a general 
+return of your corps, of men, horses, saddles and arms; as you have 
+all the officers except Maxwell, you cannot be at a loss. If any officers 
+or men are on a furlough, you must call them in, and give no more leave 
+of absence on any account. I shall send a waggon for rum, sugar and 
+coffee; please get it ready for me. This place is a starving hole, where 
+nothing can be had, and nothing can be expected but hard knocks. 
+Gen. O'Hara and seventeen empty transports are arrived, and Gen. 
+Leslie is going away, said for Jamaica. Deserters just come in say 
+they are levelling their works, and are to contract their garrison ; some 
+say part of the troops are going with <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a>. I wrote you in 
+my last that you may do as you please with Shad's daughter. Tell 
+Capt. Roux he is retained in the service, and is in the second regiment. 
+I have not time to write him. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

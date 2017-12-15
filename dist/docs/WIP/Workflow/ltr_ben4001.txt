@@ -1,0 +1,103 @@
+<letter id="ben4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='2'>2d</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I received duly and in good order the several letters 
+you have written to me of August 16th, 19th, September 
+8th, and 22d. The papers that accompanied them of your 
+writing gave me the pleasure of seeing the affairs of our 
+country in such good hands, and the prospect, from your 
+youth, of its having the service of so able a minister for a great number of years. But the little success that has 
+attended your late applications for money mortified me 
+exceedingly ; and the storm of bills which I found coming 
+upon us both, has terrified and vexed me to such a degree 
+that I have been deprived of sleep, and so much indisposed 
+by continual anxiety, as to be rendered almost incapable of writing. 
+</p><p>
+At length I got over a reluctance that was almost invincible, and made another application to the government 
+here for more money. I drew up and presented a state of 
+debts and newly-expected demands, and requested its aid 
+to extricate me. Judging from your letters that you were 
+not likely to obtain any thing considerable from your court, 
+I put down in my estimate the 25,000 dollars drawn upon 
+you, with the same sum drawn upon me, as what would 
+probably come to me for payment. I have now the pleasure to acquaint you that my memorial was received in the 
+kindest and most friendly manner, and though the court 
+here is not without its embarrassments on account of 
+money, I was told to make myself easy, for that I should 
+be assisted with what was necessary. Mr. Searle arriving 
+about this time, and assuring me there had been a plentiful 
+harvest, and great crops of all kinds ; that the Congress 
+had demanded of the several States contributions in produce, which would be cheerfully given ; that they would 
+therefore have plenty of provisions to dispose of; and I 
+being much pleased with the generous behaviour just experienced, I presented another paper, proposing, in order 
+to ease the government here, which had been so willing to 
+ease us, that the Congress might furnish their army in 
+America with provisions in part of payment for the services lent us. This proposition, I was told, was well 
+taken ; but it being considered that the States having the 
+enemy in their country, and obliged to make great expenses 
+for the present campaign, the furnishing so much provisions 
+as the French army might need, might straiten and be 
+inconvenient to the Congress, his majesty did not at this 
+time think it right to accept the offer. You will not 
+wonder at my loving this good prince : he will win the 
+hearts of all America. 
+</p><p>
+If you are not so fortunate in Spain, continue however 
+the even good temper you have hitherto manifested. 
+Spain owes us nothing ; therefore, whatever friendship she 
+shows us in lending money or furnishing clothes, &c. 
+though not equal to our wants and wishes, is however tant de gagne ; those who have begun to assist us, are more 
+likely to continue than to decline, and we are still so much 
+obliged as their aids amount to. But I hope and am confident, that court will be wiser than to take advantage of 
+our distress, and insist on our making sacrifices by an 
+agreement, which the circumstances of such distress would 
+hereafter weaken, and the very proposition can only give 
+disgust at present. Poor as we are, yet as I know wc 
+shall be rich, I would rather agree with them to buy at a 
+great price the whole of their right on the Mississippi, 
+than sell a drop of its waters. A neighbour might as well 
+ask me to sell my street door. 
+</p><p>
+I wish you could obtain an account of what they have 
+supplied us with already in money and goods. 
+</p><p>
+Mr. Grand, informing me that one of the bills drawn on 
+you having been sent from hence to Madrid, was come 
+back unaccepted, I have directed him to pay it ; and he has, at my request, undertaken to write to the Marquis D'Yranda, to assist you with money to answer such bills 
+as you are not otherwise enabled to pay, and to draw on 
+him for the amount, which drafts I shall answer here as far 
+as 25,000 dollars. If you expect more, acquaint me. But 
+pray write to Congress as I do, to forbear this practice, 
+which is so extremely hazardous, and may, some time or 
+other, prove very mischievous to their credit and affairs. 
+I have undertaken, too, for all the bills drawn on <a href='/results.php?tla=hel' rel='colleague'>Mr. Laurens</a>, that have yet appeared. He was to have sailed 
+three days after Mr. Searle, that is, the 18th July. Mr. Searle begins to be in pain for him, having no good opinion 
+of the little vessel he was to embark in. 
+</p><p>
+We have letters from America to the 7th August. The 
+spirit of our people was never higher. Vast exertions 
+making preparatory for some important action. Great 
+harmony and affection between the troops of the two nations. The new money in good credit, &c. 
+</p><p>
+I will write to you again shortly, and to Mr. Carmichael. 
+I shall now be able to pay up your salaries complete for the 
+year ; but as demands unforeseen are continually coming 
+upon me, I still retain the expectations you have given me 
+of being reimbursed out of the first remittances you 
+receive. 
+</p><p>
+If you find any inclination to hug me for the good news 
+of this letter, I constitute and appoint Mrs. Jay my attorney, 
+to receive in my behalf your embraces. With great and sincere esteem, 
+</p><p>
+I have the honour to be, dear sir, 
+</p><p>
+Your most obedient and most humble servant, 
+</p><p>
+<a href="/results.php?tla=ben" rel="me">Benjamin Franklin</a>. 
+</p>
+</letter>

@@ -1,0 +1,35 @@
+<letter id="joj4154">
+<recipient first="William" last="Wilberforce" type="individual"/>
+<p>   	 
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1799' rel="origin">1799</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+It was not until the last week, that I had the pleasure of 
+receiving from Mr. Naylor your obliging and very friendly 
+letter of the 24th Feb., <a href='/results.php?year=1798'>1798</a>. Accept my thanks for it. 
+</p><p>
+Permit me to congratulate you on the promising aspect 
+of affairs in Europe. England stands high, and while just, 
+no one ought to repine at her prosperity. In my opinion, 
+she does not pass for more than she is worth. \ our tax 
+on income does honour to the minister who devised it, to 
+the parliament who adopted it, and to the people who bear 
+it. If hereafter accommodated to a state of peace, it would 
+be a powerful auxiliary to your sinking fund. 
+</p><p>
+Our conversation here turns so much on Great Britain 
+and (as some phrase it) her doings, that I find myself insensibly led to these interesting topics. Not only Great Britain, but every other civilized country, will have reason to 
+rejoice when the present atrocious war, and the pestiferous 
+principles which generated and have protracted it, shall 
+cease to distress and to corrupt mankind. May that happy 
+period not be distant. 
+</p><p>
+With great esteem and regard, and the best wishes for 
+your health and happiness, I am, dear sir, 
+</p><p>
+Your most obedient and faithful servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

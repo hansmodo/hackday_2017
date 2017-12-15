@@ -1,0 +1,58 @@
+<letter id="joa2401">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="http://www.familytales.org/results.php?city=the oaks" rel="city">OAKS</a>, <a rel="month origin" value="6">June</a> <a rel="day origin" value="22">22d</a>, <a href="http://www.familytales.org/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+DEAR SIR : You perceive, from the very first word I have written, that I address you with the same feelings 
+with which we parted. There are certain expressions in your letter of April last, which, if you recollect, you must 
+acknowledge, are not calculated to conciliate : they spring, however, so manifestly from a zealous attachment to <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a>, and a misapprehension of my feelings, that they 
+have produced none of those sensations which, under different circumstances, they would not fail to excite. I 
+pass them over, too, the more readily, as I am persuaded from your temper, the moment of discovering your error 
+will be the moment of regret at having indulged it. Suffer me then to assure you, I have inflicted none of 
+those wounds upon my " friends or relatives " which you apprehend. <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a> feels that he has not the smallest grounds of resentment against me ; he is perfectly satisfied ; nor does there exist a shadow of that animosity 
+between us that you deprecate. The fact is, from not having a view of the whole ground, you have judged 
+precipitately and erroneously of my error, in giving faith to the letter attributed to <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a> by Gen. Wilkinson, 
+I have long been satisfied from several quarters. Nothing but the shape, apparently so unquestionable, in which 
+it came, could have gained it credit with me, for a moment. These things, however, will shortly be put to 
+rights. As soon as the trial, now pending at <a href="http://www.familytales.org/results.php?city=richmond" rel="city">Richmond</a>, 
+is over, the event of which, I am persuaded, can not but be favorable, <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a> will be with us. A letter from him, of the 12th instant, announces health, spirits and 
+confidence. Your letter was received the beginning of the present month, and, but for the necessity of ascertaining the intentions of <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a> upon the subject of it, 
+should have been acknowledged immediately. I forwarded it to him directly, and have just heard from him. 
+He informs me that the bill-holders have instituted no suit against you, but are at present expecting payment 
+from him; that he has hopes of shortly effecting an arrangement by which he shall be able to meet the bills 
+himself, which will, of course, relieve you, and render a reference to me unnecessary. He adds, that a gentleman, 
+as agent for him, was to set out in a few days for the western country, through whom you should hear further 
+and more amply upon the subject. These expectations of Col. B., I trust, will be accomplished. I have this day 
+written to him, making certain offers which, I hope, will facilitate them ; but should they unfortunately fail, I shall 
+certainly consider myself bound, both in honor and justice, to fulfill my engagement to you. The total 
+failure of my crop, caused by the storm of last fall, has occasioned me a temporary embarrassment; but should 
+your reimbursement devolve upon me, I shall cheerfully make any arrangement for a settlement which may prove 
+satisfactory : the troubles and vexations you have under gone, the dreadful solicitudes and painful situation, so 
+long endured by your amiable family, have my liveliest sympathies. The energy of mind, which distinguishes 
+Mrs. Blennerhassett, has had a painfully ample field for exertion ; but the storm is past, and better moments, I 
+trust, are about to arrive. Of the friendly attentions and unremitting hospitalities received from you during our 
+tour through the western country, allow me to assure you of my grateful recollections. Were it within the scope 
+of probabilities, I need not tell you how much pleasure the presence of yourself and family, at the Oaks, would 
+give us. Tender, I pray you, to Mrs. Blennerhassett, my profound and most friendly respects. 
+</p><p>
+Believe me, with much esteem, your very obedient, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joa" rel="me">JOSEPH ALSTON</a>. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hnb" rel="">HARMAN BLENNERHASSETT</a>, ESQ. 
+</p><p>
+P. S. Being unwell myself, Mrs. Alston has acted as my amanuensis. It is so customary at this time to publish extracts from every letter in which the name of <a href="http://www.familytales.org/results.php?tla=aab" rel="met colleague kin">Col. Burr</a> happens to be mentioned, that I was about to 
+observe to you, what you will readily perceive without the observation, that this is not meant for the same purpose, but merely for your own perusal. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joa" rel="me">J. A.</a> 
+</p><p>
+Having acted as amanuensis for Mr. Alston, I now believe to speak for myself, and inquire after the health of 
+Mrs. Blennerhassett ; her fortitude has, I hope, supported her through the troubles of the winter. May they be 
+the last she has ever to encounter. I wrote to her last autumn, but I suppose my letter has not reached her. 
+The fulfillment of our mutual promise of corresponding would afford me great pleasure ; for it will now be the 
+only means of supporting a friendship, which I flatter myself commenced in conformity of sentiment and sincerity ; but whatever may be the length of our separation 
+or discontinuance of intercourse, the happy days I spent on the Ohio, and the character of Mrs. B., will remain 
+indelibly impressed on the mind of her friend and 
+admirer. <a href="http://www.familytales.org/results.php?tla=tba" rel="me">T. B. ALSTON</a>. 
+</p>
+</letter>

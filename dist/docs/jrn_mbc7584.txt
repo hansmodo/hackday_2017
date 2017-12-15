@@ -1,0 +1,41 @@
+<letter id="mbc7584">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. A heavy, heavy heart. Another missive from Jordan, querulous and fault-finding; things are all 
+wrong <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> Jordan had been crossed, not the stream " in Canaan's fair and happy land, where our possessions lie. They seem to feel that the war is over here, except the President and Mr. Barnwell ; above all that foreboding friend of mine, Captain Ingraham. He thinks it hardly begun. 
+</p><p>
+Another outburst from Jordan. <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> is not seconded properly. Helas! To think that any mortal General (even though he had sprung up in a month or so from captain of artillery to general) could be so puffed up with 
+vanity, so blinded by any false idea of his own consequence as to write, to intimate that man, or men, would sacrifice 
+their country, injure themselves, ruin their families, to spite the aforesaid general ! Conceit and self-assertion can 
+never reach a higher point than that. And yet they give you to understand <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> does riot like <a href='/results.php?tla=pgb' rel='met'>Beauregard</a>. In 
+point of fact they fancy he is jealous of him, and rather than <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> shall have a showing the President (who 
+would be hanged at least if things go wrong) will cripple the army to spite <a href='/results.php?tla=pgb' rel='met'>Beauregard</a>. Mr. Mallory says, "How 
+we could laugh, but you see it is no laughing matter to have our fate in the hands of such self-sufficient, vain, army 
+idiots." So the amenities of life are spreading. 
+</p><p>
+In the meantime we seem to be resting on our oars, debating in Congress, while the enterprising Yankees are 
+quadrupling their army at their leisure. Every day some of our regiments march away from here. The town is 
+crowded with soldiers. These new ones are fairly running in ; fearing the war will be over before they get a sight of 
+the fun. Every man from every little precinct wants a place in the picture. 
+</p><p>
+Tuesday. The North requires 600,000 men to invade us. Truly we are a formidable power! The Herald says it is 
+useless to move with a man less than that. England has made it all up with them, or rather, she will not break with them. 
+Jerome Napoleon is in Washington and not our friend. 
+</p><p>
+Doctor Gibbes is a bird of ill omen. To-day he tells me eight of our men have died at the Charlottesville Hospital. 
+It seems sickness is more redoubtable in an army than the enemy's guns. There are 1,100 there liors de combat, and 
+typhoid fever is with them. They want money, clothes, and nurses. So, as I am writing, right and left the letters 
+fly, calling for help from the sister societies at home. Good and patriotic women at home are easily stirred to their work. 
+</p><p>
+Mary Hammy has many strings to her bow a fiance in the army, and Doctor Berrien in town. To-day she drove 
+out with Major Smith and Colonel Hood. Yesterday, Custis Lee was here. She is a prudent little puss and needs no 
+good advice, if I were one to give it. 
+</p><p>
+Lawrence does all our shopping. All his master's money 
+has been in his hands until now. I thought it injudicious when gold is at such a premium to leave it lying loose in 
+the tray of a trunk. So I have sewed it up in a belt, which I can wear upon an emergency. The cloth is wadded and 
+my diamonds are there, too. It has strong strings, and can be tied under my hoops about my waist if the worst comes 
+to the worst, as the saying is. Lawrence wears the same bronze mask. No sign of anything he may feel or think of 
+my latest fancy. Only, I know he asks for twice as much money now when he goes to buy things. 
+</p>
+</letter>

@@ -1,0 +1,79 @@
+<letter id="ben4744">
+<recipient first="John" last="Alleyne" type="individual"/>
+<p>
+Craven Street,  [<a href='/results.php?city=london' rel='city origin'>London</a>] [<a rel="month origin" value="8">August</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1768' rel="origin">1768</a>] 
+</p><p>
+DEAR SIR 
+</p><p>
+You made an Apology to me for not acquaint' me sooner 
+with your Marriage. I ought now to make an Apology to 
+you for delaying so long the Answer to your Letter. It was 
+mislaid or hid among my Papers and much Business put 
+it out of my Mind, or prevented my looking for it and writing 
+when I thought of it. So this Account between us if you 
+please may stand balanced. I assure you it gave me great 
+Pleasure to hear you were married, and into a Family of 
+Reputation. This I learnt from the Public Papers. The 
+Character you give me of your Bride (as it includes every 
+Qualification that in the married State conduces to mutual 
+Happiness) is an Addition to that Pleasure. Had you consulted me, as a Friend, on the Occasion, Youth on both sides 
+I should not have thought any Objection. Indeed, from the 
+matches that have fallen under my Observation, I am 
+rather inclin'd to think, that early ones stand the best 
+Chance for Happiness. The Tempers and habits of young 
+People are not yet become so stiff and uncomplying, as 
+when more advanced in Life ; they form more easily to each 
+other, and hence many Occasions of Disgust are removed. 
+And if Youth has less of that Prudence, that is necessary to 
+conduct a Family, yet the Parents and elder Friends of young 
+married Persons are generally at hand to afford their Advice, 
+which amply supplies that Defect; and, by early Marriage, 
+Youth is sooner form'd to regular and useful Life; and 
+possibly some of those Accidents, Habits or Connections, that 
+might have injured either the Constitution, or the Reputation, 
+or both, are thereby happily prevented. 
+</p><p>
+Particular Circumstances of particular Persons may 
+possibly sometimes make it prudent to delay entering into 
+that State; but in general, when Nature has render'd our 
+Bodies fit for it, the Presumption is in Nature's Favour, 
+that she has not judg'd amiss in making us desire it. Late 
+Marriages are often attended, too, with this further Inconvenience, that there is not the same Chance the parents 
+shall live to see their offspring educated. "Late Children" 
+says the Spanish Proverb, "are early Orphans" A melancholy Reflection to those, whose Case it may be ! With us 
+in America, Marriages are generally in the Morning of 
+Life; our Children are therefore educated and settled in 
+the World by Noon ; and thus, our Business being done, we 
+have an Afternoon and Evening of chearful Leisure to ourselves; such as your Friend at present enjoys. By these 
+early Marriages we are blest with more Children; and from 
+the Mode among us, founded in Nature, of every Mother 
+suckling and nursing her own Child, more of them are raised. 
+Thence the swift Progress of Population among us, unparalleled in Europe. 
+</p><p>
+In fine, I am glad you are married, and congratulate you 
+most cordially upon it. You are now more in the way of 
+becoming a useful Citizen; and you have escap'd the unnatural State of Celibacy for Life, the Fate of many here, 
+who never intended it, but who, having too long postponed the 
+Change of their Condition, find at length, that 'tis too late 
+to think of it, and so live all their Lives in a Situation that 
+greatly lessens a Man's Value. An odd Volume of a Set of 
+Books you know is not worth its proportion of the Set, and 
+what think you of the Usefulness of an odd Half of a Pair 
+of Scissors ? It cannot well cut any thing. It may possibly 
+serve to scrape a Trencher. 
+</p><p>
+Pray make my Compliments and best Wishes acceptable 
+to your Spouse. I am old and heavy and grow a little indolent, or I should ere this have presented them in Person. 
+I shall make but small Use of the old Man's Privilege, that 
+of giving Advice to younger Friends. Treat your Wife 
+always with Respect; it will procure Respect to you, not 
+from her only but from all that observe it. Never use a 
+slighting Expression to her, even in jest, for Slights in Jest, after frequent bandyings, are apt to end in angry earnest. 
+Be studious in your Profession, and you will be learned. 
+Be industrious and frugal, and you will be rich. Be sober 
+and temperate, and you will be healthy. Be in General virtuous, and you will be happy. At least, you will, by 
+such Conduct, stand the best Chance for such Consequences. 
+I pray God to bless you both; being ever your affectionate 
+Friend, B. FRANKLIN. 
+</p>
+</letter>

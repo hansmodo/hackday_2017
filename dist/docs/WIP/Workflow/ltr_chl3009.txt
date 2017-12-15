@@ -1,0 +1,123 @@
+<letter id="chl3009">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I have the happiness to congratulate you on a very signal success (if I may not call it a victory), 
+which we have gained over the mercenary instruments of the British tyrant. I shall not trouble you with a detail of their manoeuvres or delays, but defer it to another time, when I have more leisure to 
+write, and you to attend. Let it suffice, that having lost an opportunity (such as I hope will never again present itself) of taking the town, which, on my arrival, was utterly defenceless, the Commodore thought proper, on Friday last, with, his whole squadron, consisting of two fifties, six frigates, and a bomb (the 
+rates of which you will see in the inclosed list), to attack our fort on Sullivan's Island. 
+</p><p>
+They dropped their anchors about eleven in the 
+forenoon, at the distance of three or four yards be 
+fore the front battery. I was myself, at this time, 
+in a boat, endeavouring to make the Island; but the 
+wind and tide being violently against us, drove us 
+on the main. They immediately commenced the most 
+furious fire I ever heard or saw. I confess I was in 
+pain, from the little confidence I reposed in our 
+troops ; the officers being all boys, and the men raw 
+recruits. What augmented my anxiety was, that we 
+had no bridge finished for retreat, or communication ; 
+and the creek, or cove, which separates it from the 
+continent, is near a mile wide. I had received, like 
+wise, intelligence that their land troops intended at 
+the same time to land and assault, I never in my 
+life felt myself so uneasy; and what added to my 
+uneasiness was, that I knew our stock of ammunition 
+was miserably low. I had once thoughts of ordering 
+the commanding officer to spike his guns, and, when 
+his ammunition was spent, to retreat with as little loss 
+as possible. However, I thought proper previously to 
+send to town for a fresh supply, if it could possibly 
+})e procured, and ordered my Aid-de-camp, Mr. Byrd, 
+(who is a lad of magnanimous courage) to pass over 
+in a small canoe, and report the state of the spirit 
+of the garrison. If it had been low, I should have 
+abandoned all thoughts of defence. His report was 
+flattering. I then determined to maintain the post at all risks, and passed the creek or cove, in a small 
+boat, in order to animate the garrison in proprid persona ; but I found they had no occasion for such encouragement. 
+</p><p>
+They were pleased with my visit, and assured me 
+they never would abandon the post but with their 
+lives. The cool courage they displayed astonished 
+and enraptured me, for I do assure you, my dear 
+General, I never experienced a hotter fire. Twelve 
+full hours it was continued without intermission. The 
+noble fellows, who were mortally wounded, conjured 
+their brethren never to abandon the standard of li 
+berty. Those who lost their limbs deserted not their 
+posts. Upon the whole, they acted like Romans in 
+the third century. However, our works were so 
+good and solid, that we lost but few; only ten killed 
+on the spot, and twenty-two wounded, seven of whom 
+lost their legs or arms. The loss of the enemy, as 
+you will perceive by the inclosed list, was very 
+great. As I send a detail to the Congress, I shall 
+not trouble you with a duplicate ; but, before I fin 
+ish, you must suffer me to recommend to your esteem, friendship, and patronage my (though young) 
+Aids-de-camp, Byrd and Morris, whose good sense, 
+integrity, activity, and valor, promise to their country 
+a most fruitful crop of essential services. Mr. Jenifer, 
+of Maryland, a gentleman of fortune, and not of the 
+age when the blood of men flows heroically, has 
+shown not less spirit than these youngsters. I may 
+venture to recommend in these high terms, because 
+the trial was severe. 
+</p><p>
+Colonel Moultrie, who commanded the garrison, deserves the highest honors. The manifest intention 
+of the enemy was to land, at the same time the 
+ships began to fire, their whole regulars on the east end of the Island. Twice they attempted it, and twice 
+were repulsed by a Colonel Thompson, of the South 
+Carolina Rangers, in conjunction with a body of 
+North Carolina regulars. Upon the whole, the South 
+and North Carolina troops and Virginia Rifle battalion we have here, are admirable soldiers. The enemy 
+is now returned to their old station on this side the 
+bar. What their intention is, I cannot divine. One 
+of the five deserters, who came over to us this day, 
+is the most intelligent fellow I ever met with. The 
+accounts of their particular loss and situation are his, 
+and I think they may be depended upon. 
+</p><p>
+For God's sake, my dear General, urge the congress to furnish me with a thousand cavalry. With 
+a thousand cavalry I could insure the safety of these 
+Southern Provinces ; and without cavalry, I can an 
+swer for nothing. I proposed a scheme in Virginia 
+for raising a body almost without any expense. The 
+scheme was relished by the gentlemen of Virginia, but 
+I am told the project was censured by some members 
+of the Congress, on the principle that a military servant should not take the liberty to propose any 
+thing. This opinion I sincerely subscribe to, when 
+our distance from the sovereign is so small, and the 
+danger so remote, as to admit of proposing, deliberating, resolving, and approving ; but when a General is 
+at a vast distance, and the enemy close to him, I 
+humbly conceive that it is his duty to propose and 
+adopt any thing, without other authority than the 
+public safety. From want of this species of troops, 
+we had infallibly lost this Capital, but the dilatoriness and stupidity of the enemy saved us. 
+</p><p>
+I this instant learn that the Commodore is fixing 
+buoys on the bar, which indicates an intention of 
+quitting the place. It is probable that they will bend 
+their course to Hampton, or Chesapeake Bay. 
+</p><p>
+I am extremely happy, dear General, that you are 
+at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, for their counsels sometimes lack a 
+little military electricity. 
+</p><p>
+I have ordered the Adjutant-General to send you 
+a return; I mean only a return of the strength of 
+this place. I suppose it will be imperfect, for it is 
+an Herculean labor, to a South Carolina officer, to 
+make any detail. God bless you, my dear General, 
+and crown you with success, as I am, 
+</p><p>
+Most entirely and affectionately, yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p><p>
+P. S. I am made quite happy by the resolution of Congress to keep Canada. Had it been relinquished, all would have been lost. 
+</p>
+</letter>

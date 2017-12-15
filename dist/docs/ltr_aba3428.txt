@@ -1,0 +1,55 @@
+<letter id="aba3428">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>. <a rel="day origin" value="23">23</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1787" rel="origin">1787</a>.
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+We have accounts, by way of <a href='/results.php?city=new york' rel='city'>New York</a>, to the 
+8th of March, which inform us that <a href='/results.php?tla=bel' rel=''>General Lincoln</a> 
+had met with more resistance from the insurgents 
+than we had reason to expect from former accounts ; 
+that an engagement had taken place, in which several persons on both sides fell, but we do not learn 
+who ; that Shays had got off into Vermont, where it 
+was probable he would meet with protection. I hope 
+these accounts are not well founded. Let not the 
+patriots of our country be discouraged or disheartened ; although their affairs are much embarrassed, 
+the country is fruitful in resources. Patience, perseverance, industry, and frugality will accomplish 
+great things. Our countrymen create most of the 
+misfortunes they feel, for want of a disinterested 
+spirit, a confidence in each other, and a union of the 
+whole. It is a great misfortune, when one State 
+thwarts the measures of eleven or twelve, and thus 
+injures the credit and reputation of the whole. The 
+situation of our country greatly damps the pleasure 
+I should feel in anticipating my return to it. You 
+may well suppose that falsehoods in abundance are 
+circulated here ; an attempt to publish the truth or 
+contradict them, would have no other effect than 
+raising a nest of hornets and wasps, and would employ the whole time of one person. An extract of 
+a letter published, from Dr. Rush to Dr. Price, giving 
+an account of the establishment of two or three new 
+societies, drew upon the latter so much abuse and 
+scurrility as would disgrace any people. The writer, 
+like an envenomed toad, spit forth his poison. There 
+are a set of refugees residing here, the enormity of 
+whose offences forbids their ever returning again to 
+America. Like Satan, they look to the heights, from 
+whence they have fallen, with a malice and envy 
+similar to that which the arch fiend felt, when he 
+beheld the glory of the new world ; and, like him, 
+they wish to destroy the happiness of its inhabitants. 
+Such are Galloway, and Smith, who is gone prime 
+minister to Lord Dorchester. A few days before he 
+left this country, he gave it as his solid opinion, that 
+he should live to see America sue to Britain for protection, and to be received again by it ; he might 
+have added, it should not be his fault if they did 
+not. I hope a watchful eye will be kept over Lord 
+Dorchester and all his movements. This government are as much disposed to sow seeds of dissension among us as ever, and build wholly upon 
+our splitting to pieces. 
+</p><p>
+Adieu. Yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

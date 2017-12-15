@@ -1,0 +1,50 @@
+<letter id="rfs8033">
+<recipient first="George" last="Bancroft" type="individual"/>
+</p><p>
+Head-Quarters, <a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, 
+<a rel="month origin" value="1">January</a> <a rel='day origin' value='11'>11</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR: My last letter to the department will have informed you of the defeat of Captain Mervine at San Pedro, and the return of <a href='/results.php?tla=jhf' rel='colleague'>Colonel Fremont</a>, with the 
+force under his command, to Monterey, since which time I have not heard from him ; and of my being at San Diego, surrounded by the insurgents, and entirely 
+destitute of all means of transportation. We succeeded at last, however, in getting animals two hundred and forty miles to the southward of San Diego, 
+and in driving them, in despite of the insurgents, into the garrison. 
+</p><p>
+I have now the honour to inform you that it has pleased God to crown our poor efforts to put down the rebellion, and to retrieve the credit of our arms with the 
+most complete success. The insurgents, again elated by the defeat of <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> at San Pasqual, and the capture of one of his guns, determined with 
+his whole force to meet us on our march from San Diego to this place, and to decide the fate of the territory by a general battle. 
+</p><p>
+Having made the best preparation I could in the face of a boasting and vigilant enemy, we left San Diego on the 29th day of December (that portion of 
+the insurgent army who had been watching and annoying us having left to join the main body) with about six hundred fighting men, composed of detachments 
+from the ships Congress, Savannah, Portsmouth, and Cyane, aided by <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> with a detachment of sixty men on foot from the first regiment of 
+United States dragoons, and with <a href='/results.php?tla=ahg' rel='colleague met'>Captain Gillespie</a> with sixty mounted rifle men. 
+</p><p>
+We marched nearly one hundred and forty miles in ten days, and found the rebels on the 8th day of January, in a strong position, on the high bank of the 
+Rio San Gabriel, with six hundred mounted men and four pieces of artillery, prepared to dispute our passage across that river. 
+</p><p>
+We waded through the water, dragging our guns after us, against the galling fire of the enemy, without exchanging a shot until we reached the opposite 
+shore, when the fight became general, and our troops, having repelled a charge of the enemy, charged up the bank in a most gallant manner, and gained a most complete victory over the insurgent army. 
+</p><p>
+The next day, on our march across the plains of the Mesa to this place, the 
+insurgents made another desperate effort to save the capital and their own necks; 
+they were concealed with their artillery in a ravine until we came within gun 
+shot, when they opened a brisk fire from their field-pieces on our right flank, 
+and at the same time charged both on our front and rear. We soon silenced 
+their guns and repelled the charge, when they fled and permitted us the next 
+morning to march into town without any further opposition. 
+</p><p>
+We have rescued the country from the hands of the insurgents, but I fear that the absence of <a href='/results.php?tla=jhf' rel='colleague'>Colonel Fremont</a>'s battalion of mounted riflemen will enable 
+most of the Mexican officers who have broken their parole to escape to Sonora. 
+</p><p>
+I am happy to say that our loss in killed and wounded does not exceed twenty, while we are informed that the enemy has lost between seventy and eighty. 
+</p><p>
+This despatch must go immediately, and I will wait another opportunity to furnish you with the details of these two battles, and the gallant conduct of the officers and men under my command, with their names. 
+</p><p>
+Faithfully, your obedient servant, 
+</p><p>
+R. F. STOCKTON, Commodore, &c. 
+</p><p>
+To the Hon. George Bancroft, 
+</p><p>
+Secretary of the Navy, Washington, D. C. 
+</p><p>
+</letter>

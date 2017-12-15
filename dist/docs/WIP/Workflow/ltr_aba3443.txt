@@ -1,0 +1,79 @@
+<letter id="aba3443">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="10">10</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1794" rel="origin">1794</a>. 
+</p><p>
+MY DEAR MRS. SMITH, 
+</p><p>
+Although the scenes in which I have been en^a^ed 
+for six weeks past, have been very- different from 
+those which you describe, I have been amused and 
+entertained by your account. Though I cannot say 
+that I am charmed with your hero's personal accomplishments, as you describe them, yet you find 
+</p><p>
+" A man of wealth is dubbed a man of worth ; 
+Venus can give him fcrm, and Anstis birth." 
+</p><p>
+I think our ladies ought to be cautious of foreigners. I am almost led to suspect a spy in every 
+strange character. It is much too easy a matter for 
+a man, if he has property, to get introduced into 
+company in this country of the best kind, and that 
+without recommendations. The entertainment you 
+describe was really very curious. 
+</p><p>
+" Men overloaded with a large estate, 
+May spill their treasure in a queer conceit ; " 
+</p><p>
+and I am sure this was of that kind. 
+</p><p>
+You may mix in these scenes, and sometimes 
+join in the society ; but neither your habits, your 
+inclination, nor your natural disposition are formed 
+for them. By nature you have a grave and thoughtful cast of temper, by habit you have been trained 
+to more rational and durable pleasures, and by inclination you delight more in them. The frivolity 
+of the present day has been much increased by our 
+foreign connexions. I pray Heaven to preserve us 
+from that dissoluteness of manners, which is the bane 
+of society, and the destroyer of domestic happiness. 
+I think, with the poet, 
+</p><p>
+" If individual good engage our hope, 
+Domestic virtues give the largest scope ; 
+If plans of public eminence we trace, 
+Domestic virtues are its surest base." 
+You complain that there is, in the rising generation, a want of principle. This is a melancholy 
+truth. I am no friend of bigotry ; yet I think the 
+freedom of inquiry, and the general toleration of religious sentiments, have been, like all other good 
+things, perverted, and, under that shelter, deism, and 
+even atheism, have found refuge. Let us, for one 
+moment, reflect as rational creatures, upon our " being, end, and aim," and we shall feel our dependence, 
+we shall be convinced of our frailty, and satisfied that 
+we must look beyond this transitory scene for a happiness large as our wishes, and boundless as our desires. True, genuine religion is calm in its inquiries, 
+deliberate in its resolves, and steady in its conduct : 
+is open to light and conviction, and labors for improvement. It studies to promote love and union 
+in civil and in religious society. It approves virtue, 
+and the truths which promote it, and, as the Scripture 
+expresses it, " is peaceable, gentle, easy to be entreated." It is the anchor of our hope, the ornament 
+of youth, ' he comfort of age ; our support in affliction 
+and adversity, and the solace of that solemn hour, 
+which we must all experience. Train up, my dear 
+daughter, your children, to a sober and serious sense 
+of the duty which they owe to the Supreme Being. 
+Impress their infant minds with a respect for the 
+Sabbath. This is too much neglected by the rising 
+generation. Accustom them to a constant attendance upon public worship, and enforce it by your 
+own example and precept, as often as you can with 
+any convenience attend. It is a duty, for which we 
+are accountable to the Supreme Being. 
+My pen has again taken a serious turn. I shall 
+not apologize for it. Your own letter led to these 
+reflections ; and I am sure they flow from a heart 
+anxiously solicitous for the happiness of you and 
+yours. That they may make a due impression, is 
+the ardent and affectionate wish of 
+</p><p>
+Your mother, 
+</p><p>
+A. Adams. 
+</p>
+</letter>

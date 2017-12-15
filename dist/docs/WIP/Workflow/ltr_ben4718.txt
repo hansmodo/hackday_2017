@@ -1,0 +1,39 @@
+<letter id="ben4718">
+<recipient first="John" last="Ross" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I received your kind letter of October 18. I had before 
+seen with great pleasure your name in the papers as chosen 
+for the city of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+The instruction you mention, as proposed by a certain great 
+man, was really a wild one. The reasons you made use of 
+against it were clear and strong, and could not but prevail. 
+It will be time enough to show a dislike to the coalition when it is proposed to us. Meanwhile we have all the advantage 
+in the argument of taxation, which our not being represented 
+will continue to give us. I think, indeed, that such an event 
+is very remote. This nation is indeed too proud to propose 
+admitting American representatives into their Parliament; 
+and America is not so humble, or so fond of the honour, as to 
+petition for it. In matrimonial matches 'tis said, when one 
+party is willing the match is half made, but where neither 
+party is willing there is no great danger of their coming 
+together. And to be sure such an important business would 
+never be treated of by agents unimpowered and uninstructed ; 
+nor would government here act upon the private opinion of 
+agents, which might be disowned by their constituents. 
+</p><p>
+The present ministry seem now likely to continue through 
+this session; and this, as a new election approaches, gives 
+them the advantage of getting so many of their friends chosen 
+as may give a stability to their administration. I heartily 
+wish it, because they are all well disposed towards America. 
+</p><p>
+With sincere esteem, I am, dear Sir, your affectionate friend 
+and most obedient servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,42 @@
+<letter id="frm3904">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the llth ultimo is before me. If you suffer Moore and Broderick to remain, they must give bail for their good behavior; each 
+to give two good sureties, bound in five hundred guineas each, and to do six months duty in the militia; the bond to be executed before 
+a Justice of the Peace. Mr. Lesesne must certainly pay his rent; but it is a matter I have nothing to do with ; as it is a civil affair between citizen and citizen, there is a way pointed out by law. He 
+never had any promises from me of a billet, which ought not to be 
+done but on the greatest necessity, as it is a grievance to the people, 
+which at all times ought to be avoided when it can. If it can be 
+proved that Solomon Miller has cheated or defrauded the public, he 
+should suffer agreeably to law, which is, to have a hearing before a 
+Justice of the Peace, and, if found guilty, must go to jail, or give security to appear at the next sessions. Capt. Gough told me he had 
+leave of absence for a month. As the Governor and <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> have 
+come into the plan of dismounting your corps "to act as infantry under 
+you, if it is agreeable to you; if not, to remain as they are, without 
+the liberty of impressing any horses for them, for their time of service 
+is so short, it is not worth going to that expense, neither will they let 
+Maham impress any more horses, and without more horses, &c., &c., 
+the few you have cannot be of any service. I will make the proper 
+arrangement, but will not do it without you signify your approbation, 
+which I will wait for. The four barrels indigo, in the hands of Paul 
+Trapier, Esq., you will take for public uses, and may procure clothing 
+for our troops, and rum, sugar, &c. I wish the flag could sail, that 
+Capt. Howell and crew may be dismissed. In my last I mentioned the 
+British being up in St. Thomas , but believe it is premature, as my 
+party of observation, who are down towards Cain hoy, have given me 
+no account of it. For want of forage and subsistence, I shall remove 
+to-day above Murray's Ferry, in St. Stephens ; indeed, I shall be 
+obliged to move often, to prevent the enemy forming any plan against 
+me. I am very sensible the trouble you must have in your command 
+in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, but your well known abilities and zeal for your country 
+will surmount everything. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

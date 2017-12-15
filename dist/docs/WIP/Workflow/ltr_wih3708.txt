@@ -1,0 +1,31 @@
+<letter id="wih3708">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='31'>31</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+In consequence of intelligence, received yesterday 
+morning from the westward, that the fleet of transports, which were lately in the Sound, and supposed 
+to be coming this way, had sailed towards <a href='/results.php?city=new york' rel='city'>New York</a>, 
+General Count de Rochamheau expressed his pleasure 
+that the militia, which had arrived and were on their 
+march for his support, except those detached for 
+three months, should return home, I immediately 
+communicated it to them. 
+</p><p>
+Nothing could have exceeded the spirit which has 
+been shown by the militia on this occasion. The hint 
+given by the Count, that he had come to their support, but at that moment stood in need of theirs, instantly fired every breast, and old and young, of all 
+denominations, were determined to rush into the field 
+to his aid. The Count expresses the highest pleasure 
+and satisfaction, as do all the officers on this occasion. The Count wishes to detain the three months' 
+men a few days, to secure the pass at Howland's 
+Ferry. I have the honor to be, with the greatest 
+respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter>

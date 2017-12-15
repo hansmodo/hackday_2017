@@ -1,0 +1,22 @@
+<letter id="jbu3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel="month origin" value="8">August</a> <a rel='day origin' value='23'>23</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+MY DEAR SIR : 
+</p><p>
+I have this moment received information that Major Brewerton was 
+to leave Charlestown with a party yesterday, on an expedition to <a href='/results.php?city=santee' rel='city'>Santee</a> 
+or <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. As the General will not be in camp till late in the 
+evening, I have despatched an express to communicate the intelligence, 
+that you may take the most effectual measures to counteract the designs 
+of the enemy. Should there arrive any accounts more minute, I sup 
+pose <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> will transmit it as early as possible to you. It is 
+probable the success of Major Doyle has induced them to make a second 
+attempt to collect rice. Is the rice at Waccamaw much exposed? 
+</p><p>
+I am, with great respect, dear sir, your most obdt. humble servant, 
+</p><p>
+<a href="/results.php?tla=jbu" rel="me">J. BURNET</a>, Aide-de-Camp. 
+</p>
+</letter>

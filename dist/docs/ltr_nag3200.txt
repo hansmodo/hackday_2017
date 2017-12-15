@@ -1,0 +1,137 @@
+<letter id="nag3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=camp at the plains' rel='city origin'>Camp at the Plains</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency has made me very unhappy. I 
+can submit very patiently to deserved censure ; but 
+it wounds my feelings exceedingly to meet with a 
+rebuke for doing what I conceived to be a proper 
+part of my duty, and in the order of things. 
+</p><p>
+When I left your Excellency at Haverstraw, you 
+desired me to go forward and reconnoitre the country, and fix upon some proper position to draw the 
+troops together at, I was a stranger to all this part 
+of the country, and could form no judgment of a 
+proper place, until I had thoroughly examined the 
+ground. 
+</p><p>
+Croton River was the only place I could find 
+suitable to the purpose, all circumstances being 
+taken into consideration. I wrote your Excellency 
+what I had done, and where I was, that if you had 
+any thing in charge I might receive your orders. I 
+wrote you the reasons for my not waiting upon you 
+in person were, I had many letters to answer, and 
+many matters to regulate in my department, which 
+prevented me from returning. Besides which, it 
+was almost half a day's ride, the weather exceeding 
+hot, and myself not a little fatigued. And here I 
+must observe, that neither my constitution nor 
+strength is equal to constant exercise. 
+</p><p>
+As I was a stranger to all the lower country, I 
+thought it absolutely necessary for me to come for 
+ward. A thorough knowledge of the country is not 
+easily obtained ; such a one, at least, as is necessary 
+to fix upon the most eligible position for forming a 
+camp. The security of the army, the ease and convenience of the troops, as well as to perform the du 
+ties of my office with a degree of reputation, all 
+conspired to make me wish to fix upon the properest 
+ground for the purpose. This it was impossible for 
+me to do, unless I came on before the troops. And 
+I must confess I saw no objection, as your Excellency had wrote me nothing to the contrary, and 
+what I wrote naturally led to such a measure. 
+</p><p>
+I expected you on every hour, and was impatient 
+to get forward that I might be able to give some 
+account of the country when you came up. Before 
+I left Crompond, I desired Mr. Pettit to wait upon 
+you at your arrival, and take your orders, and if there was any thing special to forward it by ex 
+press. 
+</p><p>
+If I had neglected my duty in pursuit of pleasure, 
+or if I had been wanting in respect to your Excellency, I would have put my hand upon my mouth, 
+and been silent upon the occasion ; but, as I am not 
+conscious of being chargeable with either the one or 
+the other, I cannot help thinking I have been treated 
+with a degree of severity that I am in no respect 
+deserving. And I would just observe here, that it is 
+impossible for me to do my duty if I am always at 
+head-quarters. I have ever given my attendance there as much as possible, both from a sense of duty 
+and from inclination ; but constant attendance is out 
+of my power, unless I neglect all other matters ; the 
+propriety of which, and the consequences that will 
+follow, I submit to your Excellency's consideration. 
+</p><p>
+Your Excellency well knows how I came into this 
+department. It was by your special request, and you 
+must be sensible there is no other man upon earth 
+would have brought me into the business but you. 
+The distress the department was in, the disgrace that 
+must accompany your operations without a change, 
+and the difficulty of engaging a person capable of 
+conducting the business, together with the hopes of 
+meeting your approbation, and having your full aid 
+and assistance, reconciled me to the undertaking. 
+</p><p>
+I flatter myself, when your Excellency takes a, view 
+of the state things were in when I first engaged, 
+and consider the short time we had to make the 
+preparations for the opening campaign, and reflect 
+with what ease and facility you began your march 
+from <a href='/results.php?city=valley forge' rel='city'>Valley Forge</a>, and continued it all through the 
+country r notwithstanding we went great part of the 
+way entirely out of the line of preparations, you 
+will do me the justice to say I have not been negli 
+gent or inattentive to my duty. 
+</p><p>
+I have, in every respect, since I had my appointment, strove to accommodate the business of the department to the plan of jour Excellency's operations. 
+And I can say, with great truth, that ever since I 
+had the honor to serve under you, I have been more 
+attentive to the public interest, and more engaged in 
+the support of your Excellency's character, than ever 
+I was to my own ease, interest, or reputation. 
+</p><p>
+I have never solicited you for a furlough to go 
+home to indulge in pleasure, or to improve my interest, which, by the by, I have neglected, going on 
+four years. I have never confined myself to my 
+particular line of duty only. Neither have I ever 
+spared myself, either by night or day, where it has 
+been necessary to promote the public service under 
+your direction. I have never been troublesome to 
+your Excellency, to publish any thing to my advantage, although I think myself as justly entitled as 
+some others, who have been much more fortunate, 
+particularly in the action of the Brandywine. 
+</p><p>
+I have never suffered my pleasures to interfere 
+with my duty ; and 1 am persuaded I have given 
+too many unequivocal proofs of my attachment to 
+your person and interest, to leave a doubt upon your mind to the contrary. I have always given you my 
+opinion with great candor, and executed your orders 
+with equal fidelity. I do not mean to arrogate to 
+myself more merit than I deserve, or wish to exculpate myself from being chargeable with error, and in 
+some instances negligence. However, I can speak, 
+with a becoming pride, that I have always endeavoured to deserve the public esteem, and your Excellency's approbation. 
+</p><p>
+As I came into the Quarter-master's department 
+with reluctance, so I shall leave it with pleasure. 
+Your influence brought me in, and the want of your approbation will induce me to go out. 
+I am very sensible of many deficiens, but this 
+is not so justly chargeable to my intentions, as to 
+the difficult circumstances attending the business. It 
+is almost impossible to get good men for the con 
+ducting all parts of so complex a business. It may,therefore, naturally be expected that many things 
+will wear an unfavorable complexion ; but, let who 
+will undertake the business, they will find it very 
+difficult, not to say impossible, to regulate it in such a manner as not to leave a door open for censure, 
+and furnish a handle for reproach. I am, with all 
+due respect, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

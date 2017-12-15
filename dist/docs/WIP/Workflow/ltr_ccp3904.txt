@@ -1,0 +1,15 @@
+<letter id="ccp3904">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a href='/results.php?city=pon pon' rel='city origin'>PON PON</a>, <a rel="month origin" value="5">May</a> 	<a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1782 rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+By a letter this moment received from Gen. Huger, dated the 10th 
+of this month, he desires me to inform your excellency, that a Col. Perkins, a trader from Virginia, has contracted for five or six hundred head of cattle on Pee Dee and the Cheraws, and which in a few days will be drove off for Virginia, if not immediately stopped ; the consequences of such a speculation (for our commissaries have it not in their 
+power to go to market with ready money) are truly alarming. 
+I am your excellency's most obedient servant, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter>   

@@ -1,0 +1,93 @@
+<letter id="gom4308">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='25'>25</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My DEAR Sir, 
+</p><p>
+I have just received yours of the 25th of March. Not having had time to read the gazettes, which are 
+but just (and hut in part) arrived, I cannot from them derive the information you allude to; but my 
+first glance at them shows what I am sorry to see ; and from thence I am induced to quote a sound maxim from an excellent book; - "A house divided against itself cannot stand." 
+</p><p>
+As to your re-acceptance, Sir, you know my sentiments, which, on that, as on some other subjects, are, 
+I think, unchangeable. It will be time enough for you to have a successor, when it shall please God to 
+call you from this world's theatre. If such successor is then able to fill the President's chair, it will be 
+matter of surprise to those who can form a competent idea of the office ; but, during your life, I consider the thing as utterly impossible. And do not 
+imagine, my dear Sir, that you can retire, though you may resign. You will, in such case, become the 
+man of the opposition. However your good sense may differ from their madness, and your virtue from their 
+villany, depend on it, they will cite you as being of their sentiment. If you are silent, you assent ; and 
+if you speak, you are committed. In the mean time, your poor successor is obliged to struggle under all 
+the weight of your reputation, as well as that of the office. And he must be a strong man, who can carry 
+either; of course, a very rash man, who would attempt to take up both. 
+</p><p>
+I am very happy to find, that the determination 
+to maintain a strict neutrality is so common in America. I shall not dwell on that topic, because my 
+several letters to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a> contain enough of it 
+to weary your patience. By the by, I am mortified 
+more than I can tell you, at the delay my letters 
+experience in their passage. I task my mind, to its 
+utmost bent, to discover those events which are most 
+likely to happen, in order that (so far at least as my 
+judgment can be relied on) you may be duly prepared ; and, after all, you hear of the event before 
+my almanac comes out. This is provoking, and would 
+be much more so, did I not find, from experience, 
+that the things I wish are done as well, and perhaps 
+better, than if my conjectures had reached you. 
+</p><p>
+I trust that, long ere this, you will have received 
+what I had the honor to write on the 28th of December, 5th and 10th of January, and 14th of February. 
+You will have seen that, in the end of last month and 
+beginning of this, the long-expected insurrection took 
+place, by which a new set of men are brought into 
+power. Should the present society be able to establish themselves, I think M. Genet will have a successor ; and if, the revolution completed, things return 
+to the point from whence they started, I am sure M. 
+Genet will have a successor. As to those who rule, or rather the few by whom they are directed, you may depend that they have just ideas of the value 
+of popular opinion. They are not, however, in a condition to act according to knowledge; and, should 
+they be able to reach a harbour, there will be quite 
+as much of good luck as of good management in it. 
+At any rate, a part of the crew will be thrown overboard. It is my opinion that the members of the 
+Convention lately arrested will do nothing, for the 
+greater part of them have only parole energy; and 
+if I were called on by any cogent motive to act, it 
+should be in conformity to that idea. In my letter 
+to <a href='/results.php?tla=thj' rel='met colleague co-worker'>Mr. Jefferson</a>, of this day, I tell him that I shall implicitly obey his orders ; but this is in reply to the broad hint, that my embarrassments may have 
+arisen from inattention to the principles of free government. You may rely, Sir, that I shall be cautious to commit the United States as little as possible to future contingencies. In my last letter I 
+gave you my idea of pojoulariti/. 
+</p><p>
+I have never thought that three parties could conveniently exist in any one country; and therefore it 
+seems to me that one of those, into which they who 
+call themselves democrats are divided, must join the 
+royalists. I do not inquire what negotiations are 
+carried on to that effect ; for I have no desire to 
+meddle with such affairs, directly or indirectly, and 
+should be very sorry to have the appearance of siding with any one party or faction whatever, being 
+convinced that I can best do the business of the 
+United States by keeping aloof from them all. 
+</p><p>
+Those who command the royal or Christian army, 
+as they call themselves, on the Loire, are good officers. Their enemies have, in my mind, passed the 
+highest eulogium on them, in saying that the soldiers 
+are brought to such a pitch of folly and madness, as 
+to rush on, armed only with clubs, and possess themselves of the artillery, to whose fire they were exposed. As far as I have been able to learn, they profess themselves the friends of order and justice, and 
+act conformably to such professions, protecting both 
+persons and property wherever they arrive, and paying for whatever they take. Hence it happens, that 
+their dominion is constantly extending itself; and if 
+they should get possession of Nantes, which seems to 
+be their present object, they will be truly formidable, 
+because then, by means of the Loire, a passage will 
+be opened into the heart of the kingdom for as 
+many troops as foreign powers may choose to send 
+thither ; or, if they should prefer fighting the battle 
+with Frenchmen, they need only furnish money and 
+warlike stores, and they would have as many men 
+as they please, and the most fertile part of France 
+to subsist in. 
+</p><p>
+Farewell, my dear Sir. May God bless and keep 
+you, not merely for your sake, and still less for that 
+of your friends, but for the general good of our 
+country ! 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

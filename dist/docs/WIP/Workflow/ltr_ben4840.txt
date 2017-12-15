@@ -1,0 +1,20 @@
+<letter id="ben4840">
+<recipient first="Richard" last="Price" type="individual"/>
+<p>
+Cravenstreet, [<a href='/results.php?city=london' rel='city origin'>London</a>], <a rel="month origin" value="2">Feb.</a> n. '<a href='/results.php?year=1772' rel="origin">72</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Permit me to thank you, not only on my own Account for 
+the Book itself you have so kindly sent me, but in Behalf 
+of the Publick for Writing it: It being in my Opinion consider? the profound Study, & steady Application of Mind 
+that the Work required, & the sound Judgment with which 
+it is executed, and its great and important Utility to the Nation, 
+the foremost Production of human Understanding, that this 
+Century has afforded us. With great & sincere Esteem I am, my dear Friend, 
+</p><p>
+Yours most affectionately 
+</p><p>
+B. F. 
+</p>
+</letter>

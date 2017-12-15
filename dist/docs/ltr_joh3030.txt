@@ -1,0 +1,32 @@
+<letter id="joh3030">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+You will perceive, from the inclosed resolves, that 
+Congress, desirous of reenforcing the army at this 
+critical period, have recommended to the States of 
+Pennsylvania and New Jersey to order out immediately a considerable part of their militia; and I have 
+no doubt of their compliance. 
+</p><p>
+I have wrote to Governor Livingston on the subject, and informed him that, should he think proper 
+to appoint General Dickinson to the command of the 
+three thousand requested from that State, it will be 
+extremely agreeable to Congress. That gentleman 
+has, I understand, signified his readiness to act when 
+ever called upon; and, as he possesses the confidence 
+of the militia, and has talents equal to the task, I 
+am persuaded the appointment will give general satisfaction. 
+</p><p>
+Your favor of the 3d instant, and likewise of yesterday by the hands of <a href='/results.php?tla=arc' rel=''>General St. Clair</a>, I have been 
+duly honored with. The latter I shall lay before 
+Congress this morning. I have the honor to be, with 
+the greatest respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

@@ -1,0 +1,76 @@
+<letter id="mbc7645">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. General Gregg writes that Chickahominy was a victory manque, because <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> received a disabling wound and G. W. Smith was ill. The subordinates in command had not been made acquainted with the plan of battle. 
+</p><p>
+A letter from John Chesnut, who says it must be all a mistake about Wade Hampton's wound, for he saw him in 
+the field to the very last; that is, until late that night. Hampton writes to Mary McDuffie that the ball was ex 
+tracted from his foot on the field, and that he was in the saddle all day, but that, when he tried to take his boot off 
+at night his foot was so inflamed and swollen, the boot had to be cut away, and the wound became more troublesome than he had expected. 
+</p><p>
+Mrs. Preston sent her carriage to take us to see Mrs. Herbemont, whom Mary Gibson calls her " Mrs. Burgamot." Miss Bay came down, ever-blooming, in a cap so formidable, I could but laugh. It was covered with a 
+bristling row of white satin spikes. She coyly refused to enter Mrs. Preston's carriage to put foot into it, to use 
+her own words ; but she allowed herself to be overpersuaded. 
+</p><p>
+I am so ill. Mrs. Ben Taylor said to Doctor Trezevant, Surely, she is too ill to be going about ; she ought to be in 
+bed. il She is very feeble, very nervous, as you say, but 
+then she is living on nervous excitement. If you shut her up she would die at once. A queer weakness of the heart, 
+I have. Sometimes it beats so feebly I am sure it has stopped altogether. Then they say I have fainted, but I 
+never lose consciousness. 
+</p><p>
+Mrs. Preston and I were talking of negroes and cows. A negro, no matter how sensible he is on any other subject, 
+can never be convinced that there is any necessity to feed a cow. Turn em out, and let em grass. Grass good nuff for cow." 
+</p><p>
+Famous news comes from Richmond, but not so good from the coast. Mrs. Izard said, quoting I forget whom: 
+" If West Point could give brains as well as training! " Smith is under arrest for disobedience of orders Pemberton's orders. This is the third general whom Pemberton has displaced within a few weeks Ripley, Mercer, and now Smith. 
+</p><p>
+When I told my husband that Molly was full of airs since her late trip home, he made answer : Tell her to go 
+to the devil she or anybody else on the plantation who is dissatisfied; let them go. It is bother enough to feed and 
+clothe them now." When he went over to the plantation 
+he returned charmed with their loyalty to him, their affection and their faithfulness. 
+</p><p>
+Sixteen more Yankee regiments have landed on James Island. Eason writes, " They have twice the energy and 
+enterprise of our people." I answered, " Wait a while. Let them alone until climate and mosquitoes and sand-flies 
+and dealing with negroes takes it all out of them. Stone wall is a regular brick, going all the time, winning his 
+way wherever he goes. <a href='/results.php?tla=wfp' rel='acquaintance met'>Governor Pickens</a> called to see me. His wife is in great trouble, anxiety, uncertainty. Her 
+brother and her brother-in-law are either killed or taken prisoners. 
+</p><p>
+Tom Taylor says Wade Hampton did not leave the field on account of his wound. " What heroism! " said some 
+one. No, what luck! He is the luckiest man alive. He ll never be killed. He was shot in the temple, but that did 
+not kill him. His soldiers believe in his luck. 
+</p><p>
+<a href='/results.php?tla=wfs' rel=''>General Scott</a>, on Southern soldiers, says, we have elan, courage, woodcraft, consummate horsemanship, endurance 
+of pain equal to the Indians, but that we will not submit to discipline. "We will not take care of things, or husband our 
+resources. Where we are there is waste and destruction. If it could all be done by one wild, desperate dash, we would 
+do it. But he does not think we can stand the long, blank months between the acts the waiting! We can bear pain 
+without a murmur, but we will not submit to be bored, etc. 
+</p><p>
+Now, for the other side. Men of the North can wait; they can bear discipline; they can endure forever. Losses 
+in battle are nothing to them. Their resources in men and materials of war are inexhaustible, and if they see fit they 
+will fight to the bitter end. Here is a nice prospect for us as comfortable as the old man's croak at Mulberry, "Bad 
+times, worse coming." 
+</p><p>
+Mrs. McCord says, " In the hospital the better born, that is, those born in the purple, the gentry, those who are 
+accustomed to a life of luxury, are the better patients. They endure in silence. They are hardier, stronger, 
+tougher, less liable to break down than the sons of the soil." 
+" Why is that? " I asked, and she answered, " Something 
+in man that is more than the body." 
+</p><p>
+I know how it feels to die. I have felt it again and again. For instance, some one calls out, Albert Sidney Johnston 
+is killed." My heart stands still. I feel no more. I am, for so many seconds, so many minutes, I know not how 
+long, utterly without sensation of any kind dead ; and then, there is that great throb, that keen agony of physical 
+pain, and the works are wound up again. The ticking of the clock begins, and I take up the burden of life once 
+more. Some day it will stop too long, or my feeble heart will be too worn out to make that awakening jar, and 
+all will be over. I do not think when the end comes that there will be any difference, except the miracle of the new 
+wind-up throb. And now good news is just as exciting as bad. *'t Hurrah, Stonewall has saved us ! ! The pleasure 
+is almost pain because of my way of feeling it. 
+</p><p>
+Miriam's Luryea and the coincidences of his life. He was born Moses, and is the hero of the bombshell. His 
+mother was at a hotel in Charleston when kind-hearted Anna De Leon Moses went for her sister-in-law, and gave 
+up her own chamber, that the child might be born in the comfort and privacy of a home. Only our people are 
+given to such excessive hospitality. So little Luryea was born in Anna De Leon's chamber. After Chickahominy 
+when he, now a man, lay mortally wounded, Anna Moses, who was living in Richmond, found him, and she brought 
+him home, though her house was crowded to the door-steps. She gave up her chamber to him, and so, as he had been 
+born in her room, in her room he died. 
+</p>
+</letter>

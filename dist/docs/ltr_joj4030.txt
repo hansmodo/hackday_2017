@@ -1,0 +1,28 @@
+<letter id="joj4030">
+<recipient first="Egbert" last="Benson" type="individual"/>
+<p>   	 
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel="month origin" value="11">Nov.</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Benson, 
+</p><p>
+There seems to be a spell in the pens of my friends in 
+New- York. Except Livingston, I have not had a line from 
+either of them since I left America ; not even from either 
+of my brothers, nor from you, who also are several letters 
+in my debt. I have a favour to ask of you ; it is that you 
+would make a visit to my father, and send me a minute 
+account of his health, and that of the family. Make a half 
+dozen copies of your letter, and send them either, to some 
+friend at <a href='/results.php?city=boston' rel='city'>Boston</a>, or to <a href='/results.php?tla=rom' rel='colleague met friend'>Mr. Robert Morris</a>, at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+to be forwarded in different vessels. Don't neglect to do 
+me this friendly office. You can easily conceive how painful it is to be so long in ignorance and suspense, about the 
+situation and welfare of persons so nenr and dear to me, as 
+many of thosn are to whom I allude. Tell me also how 
+your mother and brothers do ; and believe me to be, as I 
+have long been, your 
+</p><p>
+Affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

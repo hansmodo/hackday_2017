@@ -1,0 +1,59 @@
+<letter id="gwa4554">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='20'>20th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+Although your letter of the tenth of June, which I have 
+received, did not paint the prospects of France in the most 
+pleasing colors, yet the events which have since taken place 
+give a more gloomy aspect to the public affairs of that kingdom, than your letter gave reason to apprehend. 
+</p><p>
+A thousand circumstances, besides our distance from the 
+theatre of action, made it improbable that we should have, 
+in this country, a fair statement of facts and causes through 
+the medium of the public prints ; and I have received no 
+other accounts, than what have come in that channel. But 
+taking up the most favorable of these, gloomy indeed appears 
+the situation of France at this juncture. But it is hardly 
+probable that even you, who are on the spot, can say with any 
+precision how these things will terminate ; much less can we, 
+at this distance, pretend to augur the event. We can only 
+repeat the sincere wish, that much happiness may arise to the 
+French nation, and to mankind in general, out of the severe 
+evils which are inseparable from so important a revolution. 
+</p><p>
+In the present state of things we cannot expect, that any 
+commercial treaty can now be formed with France ; but I 
+have no doubt of your embracing the proper moment of arrangement, and of doing whatever may be in your power for 
+the substantial interest of our country. 
+</p><p>
+The affairs of the United States go on well. There are 
+some few clouds in our political hemisphere, but I trust that 
+the bright sun of our prosperity will disperse them. 
+</p><p>
+The Indians on our western and southern frontiers are still 
+troublesome, but such measures are taken as will, I presume, 
+prevent any serious mischief from them ; I confess, however, 
+that I do not believe these tribes will ever be brought to a 
+quiescent state, so long as they may be under an influence 
+which is hostile to the rising greatness of these states. 
+</p><p>
+From the complexion of some of our newspapers, foreigners would be led to believe, that inveterate political dissensions 
+exist among us, . and that we are on the very verge of disunion ; but the fact is otherwise. The great body of the 
+people now feel the advantages of the general government, 
+and would not, I am persuaded, do anything that should destroy it ; but this kind of representations is an evil, which 
+must be placed in opposition to the infinite benefits resulting 
+from a free press ; and I am sure you need not be told, that in 
+this country a personal difference in political sentiments is 
+often made to take the garb of general dissensions. 
+From the Department of State you are, I am informed, 
+furnished with such papers and documents from time to 
+time, as will keep you more particularly informed of the state 
+of our affairs. I shall therefore add nothing further to this 
+letter, than assurances of being always and sincerely yours, &c. 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington</a>.
+</p>
+</letter>

@@ -1,0 +1,80 @@
+<letter id="alh3421">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city origin'>Poughkeepsie</a>, <a rel="month origin" value="7">July</a> <a rel="day origin" value="22">22</a>, <a href="/results.php?year=1782" rel="origin">1782</a>. 
+</p><p>
+SIR, 
+</p><p>
+Agreeable to my letter to you from <a href='/results.php?city=albany' rel='city'>Albany</a>, I came to 
+this place, and had an interview with a committee of the 
+legislature, in which I urged the several matters contained 
+in your instructions. I strongly represented the necessity 
+of solid arrangements of finance, and by way of argument, 
+pointed out all the defects of the present system. I found 
+every man convinced that something was wrong, but few 
+that were willing to recognise the mischief when defined, 
+and consent to the proper remedy. The quantum of taxes 
+already imposed is so great, as to make it useless to impose 
+any others to a considerable amount ; a bill has, however, 
+passed both houses, payable in specie, bank notes, or your 
+notes, for eighteen thousand pounds. 
+</p><p>
+"It is at present appropriated to your order, but I doubt 
+whether some subsequent arrangement will not take place 
+for a different appropriation. The commander-in-chief has 
+applied for a quantity of forage, which the legislature is devising the means of furnishing, and I fear it will finish by 
+diverting the eighteen thousand pounds to that purpose. I 
+have, hitherto, been able to prevent this ; but as it is of 
+indispensable importance to me to leave this place immediately, to prepare for an examination, for which I have 
+pledged myself the ensuing term, which is at hand, it is possible, after I have left it, contrary ideas will prevail. 
+Efforts have been made to introduce a species of negotiable 
+certificates, which I have strenuously opposed. It has not 
+yet taken place, but I am not clear how the matter will 
+terminate. Should the bill for the eighteen thousand 
+pounds go out, in its present form, I cannot hope that it 
+will produce in the treasury above half the sum, such are 
+the vices of our present mode of collection. A bill has 
+also passed the assembly, for collecting arrearages of taxes, 
+payable in specie, bank notes, your notes, old continental 
+emissions at one hundred and twenty-eight for one, and a 
+species of certificates issued by the state, for the purchase 
+of horses. This is now before the senate ; the arrearages 
+are very large. 
+</p><p>
+Both houses have unanimously passed a set of resolutions, to be transmitted to congress and the several states, 
+proposing a convention of the states, to enlarge the powers 
+of congress, and vest them with funds. I think this a very 
+eligible step, though I doubt of the concurrence of the other 
+states ; but I am certain without it, they never will be 
+brought to co-operate in any reasonable or effectual plan. 
+Urge reforms or exertions, and the answer constantly is, 
+what avails it for one state to make them, without the consent of the others ? It is in vain to expose the futility of this 
+reasoning. It is founded on all those passions which have 
+the strongest influence on the human mind. 
+</p><p>
+The legislature have also appointed, at my instance, a 
+committee to devise, in its recess, a more effectual system 
+of taxation, and to communicate with me on this subject. 
+A good deal will depend on the success of this attempt. 
+Convinced of the absurdity of multiplying taxes in the present mode, when in effect the payment is voluntary, and 
+the money received exhausted in the collection, I have laboured chiefly to instil the necessity of a change in the 
+plan, and though not so rapidly as the exigency of public 
+affairs requires, truth seems to be making some progress. 
+</p><p>
+There is no other appropriation to the use of congress 
+than of the eighteen thousand pounds. 
+</p><p>
+"I shall, as soon as possible, give you a full and just view 
+of the situation and temper of this state. This cannot be 
+till after my intended examination ; that over, I shall lay 
+myself out in every way that can promote your views, and 
+the public good. I am informed, you have an appointment 
+to make of a commissioner of accounts for this state. Permit me to suggest the expediency of choosing a citizen of 
+the state, a man who, to the qualifications requisite for the 
+execution of the office, adds an influence in its affairs. I 
+need not particularize the reasons for this suggestion. In 
+my next I will also take the liberty to mention some characters. I omitted mentioning, that the two houses have 
+also passed a bill, authorizing congress to adjust the quotas 
+of the states, on equitable principles, agreeable to your recommendation." 
+</p>
+</letter>

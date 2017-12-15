@@ -1,0 +1,24 @@
+<letter id='dol1372'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1372'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, October 26, <a href="/results.php?year=1805">1805</a>. 
+</p><p>
+MY DEAREST HUSBAND, Peter returned safe with your dear letter, and 
+cheered me with a favorable account of the prospects of your getting home in the 
+stage. I was sorry you could not ride further in our carriage, as it might have spared you fatigue. 
+</p><p>
+In my dreams of last night, I saw you in your chamber, unable to move, from 
+riding so far and so fast. I pray that an early letter from you may chase away the 
+painful impression of this vision. I am still improving, and shall observe strictly 
+what you say on the subject of the doctor's precepts. 
+</p><p>
+October 28. I have this moment received the letters you inclosed from <a href="/results.php?city=washington" rel="city">WASHINGTON</a>. I rejoice to hear you are there, 
+and shall await the next post with impatience ; by that, you will speak of yourself. The <a href="/results.php?tla=laf" rel="acquaintance met">Marquis</a> and Marchioness came 
+to see me yesterday, with many other friends. I am getting well as fast as I can, for I have the reward in view of then seeing my beloved. Tell me if Mrs. Randolph is expected, and all the news you 
+shall have time and patience to give me. I have written you every day since we parted, but am so shut up that I can say nothing to amuse ; when I begin to drive 
+out, I hope to become a more interesting correspondent. Did you see the Bishop, or engage a place at school for Payne ? Farewell, until to-morrow, my best friend ; think of thy wife, who thinks and dreams of thee. 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY</a>. 
+</p></letter></letter>

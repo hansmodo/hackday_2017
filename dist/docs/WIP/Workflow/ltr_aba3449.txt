@@ -1,0 +1,64 @@
+<letter id="aba3449">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=washington' rel='city origin'>Washington</a>, <a rel="day origin" value="27">27</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1800" rel="origin">1800</a>. 
+</p><p>
+MY DEAR CHILD, 
+</p><p>
+I received your letter by Mr. Pintard. Two articles we are much distressed for ; the one is bells, 
+but the more important one is wood. Yet you cannot 
+see wood for trees. No arrangement has been made, 
+but by promises never performed, to supply the newcomers w r ith fuel. Of the promises Briesler had 
+received his full share. He had procured nine cords 
+of wood ; between six and seven of that was kindly 
+burnt up to dry the walls of the house, which ought 
+to have been done by the commissioners, but which, 
+if left to them, would have remained undone to this 
+day. Congress poured in, but shiver, shiver. No 
+woodcutters nor carters to be had at any rate. We 
+are now indebted to a Pennsvlvania waggon to brinous, through the first clerk in the Treasury Office, one 
+cord and a half of wood, which is all we have for 
+this house, where twelve fires are constantly required, and where, we are told, the roads will soon be so 
+bad that it cannot be drawn. Briesler procured two 
+hundred bushels of coals or we must have suffered. 
+This is the situation of almost every person. The 
+public officers have sent to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> for woodcutters and wago-ons. 
+</p><p>
+You will read in the answer of the House to the 
+President's Speech a full and explicit approbation of 
+the Administration ; a cooperation with him equal 
+to his utmost expectations ; this passed without an 
+amendment or any debate or squabble, and has just 
+now been delivered by the House in a body. The 
+vessel which has my clothes and other matters is not 
+arrived. The ladies are impatient for a drawingroom ; I have no looking-glasses but dwarfs for this 
+house ; nor a twentieth part lamps enough to light it. 
+Many things were stolen, many more broken, by the 
+removal ; amongst the number, my tea china is more 
+than half missing. <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> affords nothing. My 
+rooms are very pleasant and warm whilst the doors 
+of the hall are closed. 
+</p><p>
+You can scarce believe that here in this wilderness 
+city, I should find my time so occupied as it is. My 
+visiters, some of them, come three and four miles. 
+The return of one of them is the work of one dav : 
+most of the ladies reside in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> or in scattered parts of the city at two and three miles distance. 
+Mrs. Otis, my nearest neighbour, is at lodgings almost 
+half a mile from me ; Mrs. Senator Otis, two miles. 
+</p><p>
+We have all been very well as yet ; if w T e can \>y 
+any means get wood, we shall not let our fires go 
+out, but it is at a price indeed ; from four dollars it 
+has risen to nine. Some say it will fall, but there 
+must be more industry than is to be found here to 
+bring half enough to the market for the consumption 
+of the inhabitants. 
+</p><p>
+With kind remembrance to all friends 
+</p><p>
+I am your truly affectionate mother, 
+</p><p>
+A. A.
+</p>
+</letter>

@@ -1,0 +1,72 @@
+<letter id="joj4028">
+<recipient first="Benjamin" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='30'>30th</a> <a rel="month origin" value="10">Oct.</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir. 
+</p><p>
+The pleasure given me by your letter of the 2d instant, 
+may more easily be conceived than expressed. I am greatly 
+obliged by your attention to my embarrassments. In my 
+last on that subject which you received, was a copy of my 
+letter to Count De Vergennes, from which it appeared that 
+the sum I should have occasion for would probably be considerable, and far exceeding 25,000 dollars. Bills to the 
+amount of 100,000 dollars have arrived. A loan cannot be 
+effected here. What the court will do is as yet uncertain, 
+and will long continue so. I should have replied to your 
+letter before, but as I daily expected to hear from Count 
+De Vergennes, I waited, with a view of mentioning the 
+import to you. The enclosed copy of a note 1 received 
+from Count Montmorin, contains all the advices I have on 
+that head. My situation continues unpleasant, and though 
+my endeavours are not wanting to better it, future events 
+are too uncertain to be relied upon. To be active, prudent, 
+and patient, is in my power ; but whether I shall reap as 
+w T ell as sow and water, God only knows. 
+</p><p>
+I have often been told of the former supplies, and asked 
+how they were to be reimbursed. My answer has uniformly been, that I knew neither their amount nor terms, 
+and that I wished to be furnished with an account of both, 
+»x:e. &c. As yet I have not been able to obtain it. 
+</p><p>
+Some mistake must have given occasion to any of the 
+bills drawn on me being returned without acceptance. 
+The fact is, that though I often delayed (with the consent 
+of the holders), yet I never refused to accept any of them. 
+</p><p>
+I have written several letters to Congress, requesting 
+them to forbear drawing further bills till proper funds should 
+be established for their payment. Mere contingent assurances, or flattering inferences drawn from flattering expressions, ought never to be considered as a sufficient foundation 
+for serious measures. 
+</p><p>
+Cornwallis, it seems, has cropped some of Gates's laurels : 
+and Mr. Laurens is in the Tower. European politicians 
+will, I suppose, though often deceived in the same way, 
+again think America on her knees in the dust. Had Ternay been supported, the campaign would have had a different termination. Much money and spirit has been wasted 
+by this disappointment. Of the latter, indeed, we shall 
+never be in want, and I should be happy if the like could 
+be said of the former. The conduct of France towards us 
+has been friendly ; and though I cannot forbear to think she 
+has been too inattentive to this object, my gratitude towards 
+her is not impaired by it. I regret it as a misfortune, not 
+blame it as a designed omission. 
+</p><p>
+I wrote to you last week, and now enclose a duplicate 
+of another letter. You may rely on my reimbursing you 
+the advances on account of our salaries, out of the first 
+remittances I receive. 
+</p><p>
+I have often congratulated my country and myself on 
+your being at present in France. I once expected to have 
+seen you there, and to have profited by the lessons which 
+time and much experience have taught you. Miracles have 
+ceased, and my constitution does not promise length of 
+days, or I should probably desire you, when you ascend, to 
+drop me your mantle. That you may long retain it is one 
+of the prayers of 
+</p><p>
+Your friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

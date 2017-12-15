@@ -1,0 +1,47 @@
+<letter id='thj1355'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=Williamsburg" rel="city">Williamsburg</a>, February 10, <a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+It is possible you may have heard, that in the course of last summer an
+expedition was meditated, by our Colonel Clarke, against Detroit: that
+he had proceeded so far as to rendezvous a considerable body of
+Indians, I believe four or five thousand, at St. Vincennes; but, being
+disappointed in the number of whites he expected, and not choosing to
+rely principally on the Indians, he was obliged to decline it. We have
+a tolerable prospect of reinforcing him this spring, to the number which
+he thinks sufficient for the enterprise. We have informed him of this,
+and left him to decide between this object, and that of giving vigorous
+chastisement to those tribes of Indians, whose eternal hostilities have
+proved them incapable of living on friendly terms with us. It is our
+opinion, his inclination will lead him to determine on the former. The
+reason of my laying before your Excellency this matter, is, that it
+has been intimated to me that <a href='/results.php?tla=dab' rel=''>Colonel Broadhead</a> is meditating a similar
+expedition. I wished, therefore, to make you acquainted with what we had
+in contemplation. The enterprising and energetic genius of Clarke is not
+altogether unknown to you. You also know (what I am a stranger to) the
+abilities of <a href='/results.php?tla=dab' rel=''>Broadhead</a>, and the particular force with which you will be
+able to arm him for such an expedition. We wish the most hopeful
+means should be used for removing so uneasy a thorn from our side. As
+yourself, alone, are acquainted with all the circumstances necessary for
+well informed decision, I am to ask the favor of your Excellency, if you
+should think <a href='/results.php?tla=dab' rel=''>Broadhead's</a> undertaking it most likely to produce success,
+that you will be so kind as to intimate to us to divert Clarke to the
+other object, which is also important to this State. It will, of course,
+have weight with you in forming your determination, that our prospect of
+strengthening Clarke's hands, sufficiently, is not absolutely certain.
+It may be necessary, perhaps, to inform you, that these two officers
+cannot act together, which excludes the hopes of ensuring success by a
+joint expedition.
+</p><p>
+I have the honor to be, with the most sincere esteem,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

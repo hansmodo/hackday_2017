@@ -1,0 +1,88 @@
+<letter id="ben4760">
+<recipient first="Samuel" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I received your Favour of Feb y 27th, by Captain Carver, 
+and thank you for giving me an Opportunity of being acquainted with so great a Traveller. I shall be glad if I can 
+render him any service here.
+</p><p>
+The Parliament remain fix'd in their Resolution not to 
+repeal the Duty Acts this Session, and will rise next Tuesday. 
+I hope my Country folks will remain as fix'd in their Resolutions of Industry and Frugality till these Acts are repeaPd. 
+And, if I could be sure of that, I should almost wish them 
+never to be repealed; being persuaded, that we shall reap 
+more solid and extensive Advantages from the steady Practice of those two great Virtues, than we can possibly suffer 
+Damage from all the Duties the Parliament of this kingdom 
+can levy on us. They flatter themselves you cannot long 
+subsist without their Manufactures. They believe you have 
+not Virtue enough to persist in such Agreements, they 
+imagine the Colonies will differ among themselves, deceive 
+and desert one another, and quietly one after the other submit to the Yoke, and return to the Use of British Fineries. 
+They think, that, tho' the Men may be contented with homespun stuffs, the Women will never get the better of their 
+Vanity and Fondness for English Modes and Gewgaws. 
+The ministerial People all talk in this Strain, and many even 
+of the Merchants. I have ventured to assert, that they will 
+all find themselves mistaken ; and I rely so much on the Spirit 
+of my Country, as to be confident I shall not be found a false 
+Prophet, tho' at present not believed. 
+</p><p>
+I hope nothing that has happened, or may happen, will 
+diminish in the least our Loyalty to our Sovereign, or Affection for this Nation in general. I can scarcely conceive a 
+King of better Dispositions, of more exemplary Virtues, or 
+more truly desirous of promoting the Welfare of all his Subjects. The Experience we have had of the Family in the two 
+preceding mild Reigns, and the good Temper of our young 
+Princes, so far as can yet be discovered, promise us a Continuance of this Felicity. The Body of this People, too, 
+is of a noble and generous Nature, loving and honouring the 
+Spirit of Liberty, and hating arbitrary Power of all sorts. 
+We have many, very many, friends among them. 
+</p><p>
+But as to the Parliament ! tho' I might excuse that which 
+made the Acts, as being surpriz'd & misled into the Measure ; 
+I know not how to excuse this, which, under the fullest Conviction of its being a wrong one, resolves to continue it. 
+It is decent, indeed, in your publick Papers to speak as you 
+do of the "Wisdom and the Justice oj Parliament; 11 but now 
+that the Subject is more thoroughly understood, if this new 
+Parliament had been really wise, it would not have refused 
+even to receive a Petition against the Acts ; and, if it had been 
+just, it would have repealed them, and refunded the Money. 
+Perhaps it may be wiser and juster another Year, but that 
+is not to be depended on. 
+</p><p>
+If under all the Insults and Oppressions you are now ex
+posed to, you can prudently, as you have lately done, continue 
+quiet, avoiding Tumults, but still resolutely keeping up your 
+Claim and asserting your Rights, you will finally establish 
+them, and this military Cloud that now blusters over you will 
+pass away, and do no more Harm than a Summer Thunder 
+Shower. But the Advantages of your Perseverance in Industry and Frugality will be great and permanent. Your 
+Debts will be paid, your Farms will be better improved, 
+and yield a greater Produce ; your real Wealth will increase 
+in a Plenty of every useful home Production, and all the true 
+Enjoyments of Life, even tho' no foreign Trade should be 
+allowed you; and this handicraft, shop-keeping State, will, 
+for its own sake, learn to behave more civilly to its Customers. 
+Your late governor, Mr. Pownall, appears a hearty Friend 
+to America. He moved last week for a Repeal of the acts, 
+and was seconded by General Conway, Sir George Saville, 
+Mr. Jackson, Mr. Trecothic, and others, but did not succeed. 
+A Friend has favoured me with a Copy of the Notes taken 
+of Mr. PownalPs Speech, which I send you, believing it will 
+be agreable to you and some other of our Friends to see 
+them. You will observe in some Parts of it the Language 
+a Member of Parliament is obliged to hold, on American 
+topicks, if he would at all be heard in the House. He has 
+given Notice that he will renew the Motion next and every 
+Session. All Ireland is strongly in favour of the American 
+cause. They have reason to sympathize with us. I send you 
+four Pamphlets written in Ireland, or by Irish gentlemen 
+here, in which you will find some excellent well-said Things. 
+With the greatest Esteem, I am, my dear Friend, 
+</p><p>
+Yours most affectionately 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

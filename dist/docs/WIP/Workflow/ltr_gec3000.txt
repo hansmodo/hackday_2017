@@ -1,0 +1,71 @@
+<letter id="gec3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort montgomery' rel='city origin'>Fort Montgomery</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received your favor of the 12th instant yesterday, 
+at this place ; previous to which, about nine o clock 
+Saturday morning, the signal at Fort Constitution being  given, and the masters of two sloops, which about 
+the same time came to, opposite my house, having 
+informed me that the enemy had attacked <a href='/results.php?city=new york' rel='city'>New York</a> 
+the evening before, and that they judged, by the report of the cannon, that their shipping had passed by, 
+and were up the river as far as King's Bridge, I 
+thought it my duty to put the neighbouring militia in motion and accordingly issued orders to three regiments, one immediately to march into these works, 
+another into Fort Constitution, and the third to rendezvous at Newburg, on the bank of the river, about 
+nine miles above Fort Constitution, with orders to march and reenforce that garrison, upon the next signal given. 
+</p><p>
+At the same time I issued orders to all the regiments in my brigade, to stand ready to march on a moment's warning, and despatched expresses to all 
+owners of sloops and boats twenty miles up the west side of the river, to haul them off so as to prevent their grounding ; that as many of them as were necessary might be ready to carry down the militia to 
+the forts. The residue I ordered down to Fort Constitution, as I believe by drawing a chain of them across the narrowest part of the river, and fixing 
+them properly to be set on fire, should the enemy's shipping attempt passing by, they would answer a most valuable purpose. Early in the afternoon of 
+that day, I marched into Fort Constitution with about 
+forty of my neighbours, and in the evening came to 
+this fort, being nearer the enemy and better situated 
+to discover their motions. Yesterday evening I was 
+joined by Colonel Woodhull, with between two and 
+three hundred of his regiment; this morning early, 
+by Lieutenant-Colonel McClaghry, with upwards of 
+five hundred of his ; and I hourly expect parts of 
+two other regiments. When these join me, I will 
+draft, out of the four, six hundred men, and employ 
+them as your Excellency has directed. I have ordered 
+the Colonels I have called in, to leave the frontier 
+companies at home to protect the country against 
+the Indians, should they be troublesome, and as many 
+men out of each company as will be sufficient to 
+guard against any attempts that might be made by 
+internal enemies. 
+</p><p>
+The men turn out of their harvest fields, to defend 
+their country, with surprising alacrity. The absence 
+of so many of them, however, at this time, when their 
+harvests are perishing for want of the sickle, will 
+greatly distress the country. I could wish, therefore, 
+a less number might answer the purpose. I would 
+fain hope the enemy mean, by their shipping in our 
+bays, at present only to cut off the communication 
+between the country and city, and prevent our obstructing the channel. Many of the militia may be called in in eight hours ; some in a much less time, 
+should there be occasion for them. 
+</p><p>
+Since writing the above, I received a letter from 
+Colonel Hay, of Haverstraw, a copy of which is in 
+closed. I will send a small party down there this 
+evening, or in the morning, but don t believe I shall 
+be able to continue them long, as the militia here 
+will think hard to be carried there. The bearer, Mr. Boyd, who is well acquainted with this country, the 
+fortifications here, and may be confided in, will be 
+able to give your Excellency any further information. 
+</p><p>
+I am, with great esteem, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p><p>
+P. S. I should be glad to know whether it is best to keep the sloops, &c., ordered down to Fort 
+Constitution, there, as it may be attended with considerable expense, which, however, if they can be 
+made to answer a good purpose, ought not, in my opinion, to be regarded. 
+</p>
+</letter>

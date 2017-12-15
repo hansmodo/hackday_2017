@@ -1,0 +1,39 @@
+<letter id="gom4614">
+<recipient first="Thomas" last="Pinckney" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="8">August</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I had the pleasure to acknowledge yours of the first of Au 
+gust by a courier, who left this city a few hours after I received it. I hope this will find you well and happy in London. 
+The young gentleman whom I mentioned to you as being about to come hither is arrived, so that we must wait for another 
+conveyance for the packet. In the mean time be so kind as 
+to let me know your address in London. Mine is Rue de la Planche, No. 488. 
+</p><p>
+We have had here within these few days some serious 
+scenes, at which I am not surprised, because I foresaw not 
+only a struggle between the two corps, which the constitution 
+had organized, viz. the executive (so called) and the legislative. But I was convinced that the latter would get the better. 
+Such is the natural, and indeed the necessary order of things. 
+It is nevertheless a painful reflection, that one of the finest 
+countries in the world should be so cruelly torn to pieces. 
+The storrn which lately raged is a little subsided, but the winds 
+must soon arise again, and perhaps from the same, perhaps from 
+another quarter. But that is of but little consequence, since 
+in every case we must expect a little rage and devastation. A 
+man, attached to his fellow men, must see with the same distress the woes they suffer, whether arising from an army or from 
+a mob, and whether those by whom they are inflicted speak 
+French or German. 
+</p><p>
+An American has a stronger sympathy with this country 
+than any other observer, and nourished as he is in the very 
+bosom of liberty, he cannot but be deeply afflicted to see that 
+in almost every event, this struggle must terminate in despotism. 
+Yet such is the melancholy spectacle, which presents itself to 
+my mind, and with which it has long been occupied. I eanestly wish and pray, that events may prove all my reasonings to have been fallacious, and all my apprehensions 
+vain. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

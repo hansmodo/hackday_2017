@@ -1,0 +1,36 @@
+<letter id="ben4765">
+<recipient first="John" last="Bartram" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+DEAR FRIEND, 
+</p><p>
+It is with great pleasure I understand by your favour of 
+April loth, that you continue to enjoy so good a share of 
+health. I hope it will long continue. And, although it may 
+not now be suitable for you to make such wide excursions 
+as heretofore, you may yet be very useful to your country 
+and to mankind, if you sit down quietly at home, digest the 
+knowledge you have acquired, and compile and publish the 
+many observations you have made, and point out the advantages that may be drawn from the whole, in public undertakings or particular private practice. It is true, many people are fond of accounts of old buildings, and monuments; 
+but there is a number, who would be much better pleased 
+with such accounts as you could afford them. And, for one, 
+I confess, that if I could find in any Italian travels a receipt 
+for making Parmesan cheese, it would give me more satisfaction than a transcript of any inscription from any old stone 
+whatever. 
+</p><p>
+I suppose Mr. Michael Collinson, or Dr. Fothergill, has 
+written to you what may be necessary for your information 
+relating to your affairs here. I imagine there is no doubt 
+but the King's bounty to you will be continued ; and that it 
+will be proper for you to continue sending now and then a 
+few such curious seeds, as you can procure, to keep up your 
+claim. And now I mention seeds, I wish you would send me 
+a few of such as are least common, to the value of a guinea, 
+which Mr. Foxcroft will pay you for me. They are for a 
+particular friend, who is very curious. If in any thing I can 
+serve you here, command freely. Your affectionate friend, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

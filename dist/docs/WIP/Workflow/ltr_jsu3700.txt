@@ -1,0 +1,32 @@
+<letter id="jsu3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+The Committee appointed by Congress to quiet the 
+disturbances of the Pennsylvania line, &c., think it 
+proper to inform your Excellency that they arrived 
+at this place last night, after dark; and that President Reed, who acts in concert with us, has proceeded to the neighbourhood of <a href='/results.php?city=princeton' rel='city'>Princeton</a>, at which 
+place those troops are now posted. We are happy to inform your Excellency, that some favorable appearances of a speedy and honorable, as well as a 
+safe, accommodation have appeared in their conduct 
+this morning, as they have given an earnest of their 
+sincerity and intentions, by no means equivocal, by 
+seizing a negotiator, sent to them from <a href='/results.php?city=new york' rel='city'>New York</a>, 
+together with his conductor, both of whom they delivered up to <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>, and have sent them 
+out, under a guard, with their papers. They are actually now in the hands of President Reed; and we 
+do ourselves the honor of sending your Excellency a 
+copy of the terms offered them, in writing, by those 
+emissaries. Should your Excellency have any communications to make to Congress relative to the present state and temper of the army, we request that 
+you will be pleased to make them through us, and 
+direct them to this place. I am, with the highest 
+and the most sincere esteem and regard, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">John Sullivan</a>. 
+</p><p>
+By order of the Committee. 
+</p>
+</letter>

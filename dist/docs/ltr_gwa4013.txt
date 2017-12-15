@@ -1,0 +1,26 @@
+<letter id="gwa4013">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+[Private.] 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="12">Dec</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Your two letters of the 14th instant came duly to hand. With respect to Mr. *******, I beg you to be persuaded, 
+that if all things in his favour are equal, your mentioning of him will have its weight. But in appointments of the sort 
+he solicits, many matters must be attended to ; and as I am sure we have the same wishes respecting them, namely, to 
+fix on characters who, under all circumstances, are most likely to answer the objects of their appointment, and to 
+meet general approbation, I must endeavour to be circumspect in the selection ; and that I may have the greater 
+variety to choose from, I would thank you and my other friends for giving me the names of such gentlemen as may 
+occur, and are most prominent and fit to discharge the duties of commissioners. 
+</p><p>
+My information with respect to the general disposition of the people, accords with yours; and I have little doubt 
+of a perfect amelioration of sentiment, alter the present fermentation (which is not only subsiding, but changing) has 
+evaporated a little more. The dregs, however, will always remain, and the slightest motion will stir them up. With sincere esteem, and affectionate attachment, 
+</p><p>
+I am always yours, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington<a/>. 
+</p>
+</letter>

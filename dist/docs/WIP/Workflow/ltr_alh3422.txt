@@ -1,0 +1,61 @@
+<letter id="alh3422">
+<recipient first="Richard" last="Meade" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="month origin" value="8">August</a> <a rel="day origin" value="10">10th</a>, <a href="/results.php?year=1782" rel="origin">1782</a>. 
+</p><p>
+I thank you, my dear Meade, for your letter of the first 
+of this month, which you will perceive has travelled much 
+faster than has been usual with our letters. Our correspondence hitherto has been unfortunate, nor in fact can 
+either of us compliment himself on his punctuality ; but you 
+were right in concluding, that however indolence or accident may interrupt our intercourse, nothing will interrupt 
+our friendship. Mine for you is built on the solid basis of 
+a full conviction that you deserve it, and that it is reciprocal, and it is the more firmly fixed, because you have few 
+competitors. Experience is a continued comment on the 
+worthlessness of the human race, and the few exceptions 
+we find, have the greater right to be valued in proportion as 
+they are rare. I know few men estimable, fewer amiable, and when I meet with one of the last description, it is 
+not in my power to withhold my affection. 
+</p><p>
+You reproach me with not having said enough about our 
+little stranger. When I wrote last, I was not sufficiently 
+acquainted with him to give you his character. I may now 
+assure you, that your daughter, when she sees him, will not 
+consult you about the choice, or will only do it in respect 
+to the rules of decorum. He is truly a very fine young gentleman, the most agreeable in his conversation and manners 
+of any I ever knew, nor less remarkable for his intelligence 
+and sweetness of temper. You are not to imagine, by my 
+beginning with his mental qualifications, that he is defective in personal. It is agreed, on all hands, that he is handsome ; his features are good, his eye is not only sprightly 
+and expressive, but it is full of benignity. His attitude, in 
+sitting is, by connoisseurs, esteemed graceful, and he has a 
+method of waving his hand that announces the future orator. He stands, however, rather awkwardly, and as his 
+legs have not all the delicate slimness of his father's, it is 
+feared he may never excel as much in dancing, which is 
+probably the only accomplishment in which he will not be 
+a model. If he has any fault in manners, he laughs too 
+much. He has now passed his seventh month. 
+</p><p>
+I am glad to find your prospect of being settled approaches. I am sure you will realize all the happiness you 
+promise yourself with your amiable partner. I wish fortune 
+had not cast our lots at such a distance. Mrs. Meade, you, 
+Betsey, and myself, would make a most affectionate and 
+most happy partie quarre. 
+</p><p>
+As to myself, I shall sit down in New-York, when it 
+opens, and the period we are told approaches. No man 
+looks forward to a peace with more pleasure than I do, 
+though no man would sacrifice less to it than myself, if I 
+were not convinced the people sigh for peace. I have been 
+studying the law for some months, and have lately been 
+licensed as an attorney. I wish to prepare myself by October for examination as a counsellor, but some public avocations may possibly prevent me. 
+I had. almost forgotten to tell you, that I have been pretty 
+unanimously elected by the legislature of this state, a member of congress, to begin to serve in November. I do not 
+hope to reform the state, although I shall endeavour to do 
+all the good I can. 
+</p><p>
+Suffer Betsey and me to present our love to Mrs. Meade. 
+She has a sisterly affection for you. My respects, if you 
+please, to Mr. and Mrs. Fitzhugh. God bless you. 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">A. HAMILTON.</a>.
+</p>
+</letter>

@@ -1,0 +1,30 @@
+<letter id='mad1577'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO JAMES MADISON, SEN'R . 
+</p><p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Sept' 4th, <a href="/results.php?year=1787">1787</a>. 
+</p><p>
+HON D Sm, The Convention has not yet broken up, but its 
+session will probably continue but a short time longer. Its 
+proceedings are still under the injunction of secrecy. We hear 
+that a spirit of insurrection has shown itself in the County of 
+Green Briar. Some other Counties have been added by report 
+as infected with the same spirit; but the silence of the
+from <a href="/results.php?city=richmond" rel="city">RICHMOND</a> on thfe latter fact gives us hopes that the Report is not well founded. We understand, also, that the upper 
+parts of the country have suffered extremely from the drought, 
+and that the crops will not suffice for the subsistence of the inhabitants. I hope the account is exaggerated, and wait with 
+some impatience for a confirmation of this hope. 
+</p><p>
+The crops of wheat in this quarter have been uncommonly 
+fine, and the latter rains have been so seasonable for the corn 
+that the prospect of that crop is tolerably good. The price of 
+good Tobacco here at present is 40s., Virginia money. 
+</p><p>
+As soon as the tie of secrecy shall be dissolved I will forward 
+the proceedings of the Convention. In the mean time, with my 
+affectionate regards for all the family, 
+</p><p>
+I remain, your dutiful son. 
+</p>
+</letter>

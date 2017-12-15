@@ -1,0 +1,33 @@
+<letter id="mbc7696">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='22'>22d</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. At Mrs. Lyons's met another beautiful 
+woman, Mrs. Penn, the wife of Colonel Penn, who is making shoes in a Yankee prison. She had a little son with her, 
+barely two years old, a mere infant. She said to him, " Faites comme Butler. " The child crossed his eyes and 
+made himself hideous, then laughed and rioted around as if he enjoyed the joke hugely. 
+</p><p>
+Went to <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a>. It was sad enough. Fancy having to be always ready to have your servants set your, house 
+on fire, being bribed to do it. Such constant robberies, such servants coming and going daily to the Yankees, carrying 
+one's silver, one's other possessions, does not conduce to home happiness. 
+</p><p>
+Saw <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> on his legs once more. He rode off on a fine horse, and managed it well, though he is disabled in one 
+hand, too. After all, as the woman said, " He has body enough left to hold his soul. " " How plucky of him to ride 
+a gay horse like that. " " Oh, a Kentuckian prides himself upon being half horse and half man ! il And the girl who 
+rode beside him. Did you ever see a more brilliant beauty ? 
+Three cheers for South Carolina ! ! " 
+</p><p>
+I imparted a plan of mine to Brewster. I would have a breakfast, a luncheon, a matinee, call it what you please, 
+but I would try and return some of the hospitalities of this most hospitable people. Just think of the dinners, suppers, 
+breakfasts we have been to. People have no variety in war times, but they make up for that lack in exquisite cooking. 
+</p><p>
+" Variety? " said he. " You are hard to please, with terrapin stew, gumbo, fish, oysters in every shape, game, 
+and wine as good as wine ever is. I do not mention juleps, claret cup, apple toddy, whisky punches and all that. I 
+tell you it is good enough for me. Variety would spoil it. Such hams as these Virginia people cure ; such home-made 
+bread there is no such bread in the world. Call yours a cold collation. ! " Yes, I have eggs, butter, hams, game, 
+everything from home; no stint just now; even fruit." 
+</p><p>
+" You ought to do your best. They are so generous and hospitable and so unconscious of any merit, or exceptional 
+credit, in the matter of hospitality. " They are no better than the Columbia people always were to us." So I fired 
+up for my own country. 
+</p>
+</letter>

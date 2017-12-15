@@ -1,0 +1,25 @@
+<letter id="jod3548">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel="day origin" value='18'>18</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE peace, which sets the rest of the world at ease, 
+increases, I think, my perplexities and anxiety. I 
+have written to Congress a resignation, but I foresee 
+there will not be a speedy decision upon it, and I 
+shall be left in a state of suspense that will be intolerable. Foreseeing this, I am determined not to 
+wait for an acceptance of my resignation, but to come 
+home without it, provided it does not arrive in a reasonable time. Don t think, therefore, of coming to 
+Europe. If you do, we shall cross each other, 
+and I shall arrive in America about the same time 
+that you may arrive in Europe. 
+</p><p>
+I shall certainly return home in the spring. With 
+or without leave, resignation accepted or not, home I 
+will come, so you have nothing to do but wait to receive your old friend 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. ADAMS</a>.  
+</p>
+</letter>

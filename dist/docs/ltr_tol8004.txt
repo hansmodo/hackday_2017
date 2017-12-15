@@ -1,0 +1,37 @@
+<letter id='tol8004'>
+<recipient first='Manuel' last='Diaz' type='individual'/>
+<p>
+copy sent captain fremont by consul larkin. 
+</p><p>
+Consulship of the United States,<br>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+My Dear Sir : I am ignorant if it would meet with the approbation of <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, that I should permit, that of the note which he wrote 
+with so much precipitation, the translation should be made which you solicit. But since it pleases you to allow that my courier should pass to the 
+encampment of said officer, and trusting that the contents of the said note will contribute to calm the minds, and preserve harmony, I consent that the translation which you wish may be made. 
+</p><p>
+Perhaps the authorities have conceived suspicions in relation to my person, considering the difficulty of the circumstance', being Consul of the United States, but I cannot remedy it. Nevertheless, you may know 
+that verbally I have offered my services, always when I have judged them in any manner useful, the same as now I am lending them by writing. <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> has his particular instructions, which it is 
+not one of the attributes of this consulship to alter, nevertheless I will do as much as may be reconcilable with my functions to avoid any conflict whatever. 
+</p><p>
+It only remains for me to ask you respectfully, that when you write today to the General, that you make known to him on my part, that I take 
+the liberty to propose to him that before proceeding to extremities, he will please to address a communication to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, in which he shall 
+ask of him an hour's interview. I am in the firm belief that there will be a copious effusion of blood, if the officer in question is attacked, and there 
+would result from a step of such a nature, not only, that many lives would 
+be lost on both sides, but it would be the origin of great expenses, considerable damages, and perhaps a greater flow of blood in the future, between 
+the citizens of our respective nations. Finally, intimately convinced I am, that forcible measures will not produce a single good, but evils of great magnitude now and in the time to come. 
+</p><p>
+I have powerful motives for believing that <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> yet remains where he is, with the sole end of affording his horses some rest (since he 
+has already bought his provisions), and immediately afterwards, he will go out of the Department of California. But he cannot verify this, inasmuch 
+as he sees himself surrounded by people in whom he observes decided intentions of hostility. 
+</p><p>
+I beg you to send a copy of this note to the <a href="/results.php?tla=jsc" rel="adversary">Commandant General D. jose Castro</a>, and I have the honor to subscribe myself with the greatest respect, 
+</p><p>
+(Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p><p>
+To Don Manuel Diaz, Alcalde of Monterey. 
+</p><p>
+Captain Fremont : I direct this with the correspondence of the Alcalde to the General, I know not, if it will arrive or not in your possession. By the Blacksmith Joseph who formerly belonged to that Company 
+under your command, I remit the original of the letter that I received. 
+</p>
+</letter>

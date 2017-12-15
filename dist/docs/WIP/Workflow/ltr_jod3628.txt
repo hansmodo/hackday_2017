@@ -1,0 +1,63 @@
+<letter id="jod3628">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='19'>19</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE sensations of 19th <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1775'>1775</a>, and those of this 
+morning, have some resemblance to each other. A 
+prospect of foreign war and civil war in conjunction, 
+is not very pleasant. We are a poor, divided nation, 
+in the midst of all our prosperity. The House of 
+Representatives, after debating three weeks about 
+asking for papers, are now beginning another discus 
+sion, which may last as long, on the merits and de 
+merits of the treaty. If the House refuse to make 
+the appropriations, it is difficult to see how we can 
+avoid war, and it is not easier to find out how we can 
+preserve this government from dissolution. We must, 
+however, coolly and patiently study and search for 
+the means and resources which may be left to avoid 
+war and support government. Mr. Swift and Mr. Good hue have spoken ably in favor of the treaty, 
+and Mr. Nicholas and Mr. Giles spoke more moderately against it than was expected. 
+</p><p>
+I had no letter from you yesterday. Briesler says 
+the mail goes now three times a week, on Tuesdays, 
+Thursdays, and Saturdays. I shall endeavor to write 
+by each, though it may he but a line of remembrance. 
+I hope your indisposition was not a grave one ; but 
+the omission of a letter yesterday gave me some 
+fears. 
+</p><p>
+I cannot deny the right of the House to ask for 
+papers, nor to express their opinions upon the merits 
+of a treaty. My ideas are very high of the rights arid 
+powers of the House of Representatives. These 
+powers may be abused, and in this instance there is 
+great danger that they will be. Such a combination 
+of party motives as debts, anti-federalism and French 
+influence, seldom occurs to overawe the members and 
+lead them into party violence. But the faith and hon 
+or of the nation are pledged, and though the House 
+cannot approve, they ought to feel themselves bound. 
+Some persons still think the House will comply. But 
+there is an inveteracy and obstinacy on this occasion 
+such as I scarcely ever saw. The pride of Madison, 
+Giles, Baldwin, ill brooking the superior powers of the 
+Senate, emulating the dignity and lustre of members 
+of that body, ardently struggling to rival an Ellsworth, 
+a King, &c. These are feelings that our law-givers, 
+in framing our constitution, did not advert to. The 
+elections of the two Houses by such different bodies 
+as the people and their legislators, will always leave 
+this difficulty in full force. The leading members of 
+the House, such as Madison, and Baldwin, should have 
+been ere now senators. 
+</p><p>
+But I must not speculate. I must come to some 
+thing more pleasing, assurances of the perpetual affection of 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

@@ -1,0 +1,671 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.2jDSBN on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--frm
+--DOC-AUTHOR-FIRST--Francis
+--DOC-AUTHOR-LAST--Marion
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="frm3900">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I am informed that a Capt. Howell, in a N. W. cutter, has taken 
+the flag schooner which G-en. Greene ordered to load with rice. I hope 
+you have prevented her being carried away. You will confine Captain 
+Howell for infringing a flag contrary to <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s passport ; his vessel 
+and crew must also be secured and confined as plunderers until I have 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s and the Governor's orders and directions, and the schooner 
+be permitted to sail without delay for Charlestown. I have heard from 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> there has not been any action, as was reported; the firing 
+heard was within the enemy's lines, and proved to be a field day with 
+them. As it is possible the enemy may make another excursion in the 
+country, you will send me every horse you have, that can be of the 
+least service, as I am determined to oppose them at all events. There 
+are only two officers, and twenty-eight non-commissioned and privates 
+here the rest have been sent away by the officers on frivolous pretences. 
+Mr. Lesesne is absent without leave, Mr. Wragg also ; if he is a volunteer he must be discharged, and not suffered in future to be on the 
+Commissary Department. Mr. Guerry is absent without leave, and 
+must be dismissed. I expect every officer and private will be sent me 
+that is able to act. I have had no answer from the General respecting 
+the reduction of the corps, and have again wrote him on that subject 
+yesterday. You will go on in equipping and arming your men as usual; 
+and as soon as I hear from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, will send you a power to impress horses to make up your losses. I wish you would procure the 
+ruin, sugar and coffee, formerly mentioned to you. If a stop is put to 
+the injurious proceedings of the N. W. privateers, I shall be able to 
+procure clothing, &c., &c., for our army, and again complete your men 
+with those articles. I shall remain here some time. 
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3901">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 8th ultimo came to hand. By the papers just sent me, 
+it appears that Capt. Howell had the candles sold to the flag people, on 
+purpose to have a plea of seizing her; you will, therefore, order the 
+flag to sail immediately, and Capt. Howell and his vessel's crew to be 
+detained, as I wrote you yesterday, until I hear from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> or 
+the Governor. If Botard should take her at sea, we have nothing to 
+do with it. You will put Moore, Broderick and Myers on board the 
+flag vessel, to return to Charlestown, with orders not to return within 
+our lines. In answer to your last post, I wrote you yesterday; have 
+not heard from head-quarters since. A letter from Capt. Pinckney, Cainhoy, says the British horse were crossing to Haddrell's on Saturday, 
+but it comes by such a hand that I don t believe it. I shall hear more to-day. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">F MARION</a>.
+</p>
+</letter><letter id="frm3902">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours by Mr. Cest came to hand. I wrote per Dragoon respecting 
+Capt. Howell and the flag. Messrs. Doughty and Ancruni are not to do 
+duty your way. I shall have such men returned as have served their 
+month. I cannot send you the militia law; have none by me. I wrote 
+you before that Capt. Weyman had it, and you might get it from him. 
+I sent Capt. Stephens to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, only to stay until his corps re 
+turned. I wrote the Governor respecting Mr. Wayne's account, and think he is rather impatient. I have had no answer yet to my letters, 
+and hope you will make yourself easy until I can fully satisfy you, 
+which will be as soon as I get an answer from the General. I have 
+some accounts of the enemy's coming over to St. Thomas , and wish I 
+had every horse you have that can be of any service, as I find I am 
+under the necessity of attacking them. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3903">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+DEAR SIR: 
+</p><p>
+Since I wrote the enclosed, I have received a letter from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. His orders are, not to suffer the flag schooner to be taken or 
+detained. You will follow my orders respecting that business. I have 
+answered Capt. Howell's letter by this opportunity. In respect to your 
+corps, the General and Governor approves of the plan of dismounting 
+them, to act in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> as infantry; but will not impress any more 
+horses for the service of either corps, as their time will so soon expire, 
+and it seems not their intention of keeping them up longer. I shall 
+write you fuller in my next. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3904">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the llth ultimo is before me. If you suffer Moore and Broderick to remain, they must give bail for their good behavior; each 
+to give two good sureties, bound in five hundred guineas each, and to do six months duty in the militia; the bond to be executed before 
+a Justice of the Peace. Mr. Lesesne must certainly pay his rent; but it is a matter I have nothing to do with ; as it is a civil affair between citizen and citizen, there is a way pointed out by law. He 
+never had any promises from me of a billet, which ought not to be 
+done but on the greatest necessity, as it is a grievance to the people, 
+which at all times ought to be avoided when it can. If it can be 
+proved that Solomon Miller has cheated or defrauded the public, he 
+should suffer agreeably to law, which is, to have a hearing before a 
+Justice of the Peace, and, if found guilty, must go to jail, or give security to appear at the next sessions. Capt. Gough told me he had 
+leave of absence for a month. As the Governor and <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> have 
+come into the plan of dismounting your corps "to act as infantry under 
+you, if it is agreeable to you; if not, to remain as they are, without 
+the liberty of impressing any horses for them, for their time of service 
+is so short, it is not worth going to that expense, neither will they let 
+Maham impress any more horses, and without more horses, &c., &c., 
+the few you have cannot be of any service. I will make the proper 
+arrangement, but will not do it without you signify your approbation, 
+which I will wait for. The four barrels indigo, in the hands of Paul 
+Trapier, Esq., you will take for public uses, and may procure clothing 
+for our troops, and rum, sugar, &c. I wish the flag could sail, that 
+Capt. Howell and crew may be dismissed. In my last I mentioned the 
+British being up in St. Thomas , but believe it is premature, as my 
+party of observation, who are down towards Cain hoy, have given me 
+no account of it. For want of forage and subsistence, I shall remove 
+to-day above Murray's Ferry, in St. Stephens ; indeed, I shall be 
+obliged to move often, to prevent the enemy forming any plan against 
+me. I am very sensible the trouble you must have in your command 
+in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, but your well known abilities and zeal for your country 
+will surmount everything. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3905">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=ferguson swamp' rel='city origin'>FERGUSON SWAMP</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I have got thus far in my return from the Southward. I have been 
+within eight miles of Bacon Bridge, and have had a hard march for no 
+purpose. The General imagined the enemy was coming out, and is 
+still of the opinion they will take the field soon ; but I think they will 
+not without a reinforcement, which it seems they expect, as they have 
+don e for six months past. I hope the flag schooner is sailed; if so, 
+discharge Capt. Howell's crew and cutter. Col. Moultrie is to stay in 
+<a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, and collect his regiment; he will be of service to you at 
+least, will not keep you so much confined. I shall send Col. Maham 
+for the horses of your corps as soon as I hear from you. I intend to 
+leave you thirteen, but they must not be the best. I will send you 
+arms as soon as I get them from the high hills of Santee. 
+I am, yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3906">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 12th came to hand yesterday, on my march here. I 
+wrote you before respecting Brodrick and Moore, to take bail for their 
+appearance at court, and good behavior. The Georgia refugees must 
+do duty, if they have been in this State three months. No excuse to 
+be taken for not doing duty. Let me know if the flag has sailed; and, 
+if you have not discharged Howell and crew, it must be done immediately. Send me the calibre of the different pieces of cannon you have, 
+that I may procure shot for them ; also, other articles which may be 
+wanted. I wrote you yesterday by Col. Moultrie. 
+I am, your humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+P. S. If you have any coffee and sugar, send a little by first oppor 
+tunity. As you have rice and indigo, you may pay off small accounts, 
+such as is enclosed. 
+</p>
+</letter><letter id="frm3907">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I received yours of the 17th. The flag must be sent immediately 
+back, with all her cargo, passengers, attendance, goods, &c., &c., except Mrs. Shad, Mrs. Barnes and Miss Simmons, and their attendances 
+and property; and I positively order no other man, woman or servants, 
+or any property, be landed, or suffered to come ashore but the vessel 
+ordered immediately to go out of the harbor, on pain of being made a 
+prize in twenty-four hours after such notice be given; and you are 
+hereby ordered to make prize of said vessel, cargo, &c., &c., and the 
+captain, crew and passengers to put in close confinement, without suffering any person whatever to visit or speak to either of said prisoners, 
+until rny further orders. McClean, with his companions, must be kept in close confinement until a proper opportunity offers to send them to the Governor of North Carolina. Col.'s is trading on his private 
+account, and I am not surprised at anything he has, or can do; he is no friend. I wrote you respecting the pilots, and I left you to act as 
+you pleased respecting the boat mentioned in my last. Mr. Chatelleat has my pass to go to the Northward. You will permit the flag to carry 
+one barrel of rice, and a few poultry, for the relief of Mr. John Clements, a prisoner, and wounded in Charlestown; he is one of my brigade. 
+No officer ever had a right to public horses; but those you have you will keep, and you have a right to them, until my further orders. The 
+officers and men of your corps here must remain as yet. The report of galley or armed vessels to go to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, I do not think true, as 
+I had a letter from Charlestown last evening, that says a French fleet is at Tybee; and, from the person it came from, I have reason to believe it may be true. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+P ? S. Since I wrote the above, I have perused the papers sent, and 
+find Col. Ray is exchanged; he and the others mentioned in General 
+Butler's pass are to be put on board the flag vessel, and suffered to proceed to Charlestown. 
+</p>
+</letter><letter id="frm3908">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Enclosed is a return of the companies which are to do duty in George 
+town. Warden's and Long's will be sent to you. I also send you the 
+militia laws. The Governor wrote you that Commodore Gillon has 
+carried in five Jamaica prizes in the Havanna, worth 150,000 dollars. 
+Two of the prizes are expected in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, and the Governor desires 
+the pilot to keep a good look out for them. Several of your men wish 
+to enlist in the infantry, on the new bounty. Such as have but two 
+months to serve in your corps, may be discharged, on condition of 
+enlisting for three years, or during the war. I send two men, with their 
+attestations, which cannot be sworn to until your discharge is obtained, 
+which please see done, and give them the enclosed orders to Swinton 
+for their negroes, and grant them one month furlough. Mr. Shrewsberry will wait on you he is a shipwright, and may be useful; but he 
+must be watched, for he has been, and is, much suspected. He will 
+want to send a boat to Dewees Island for some goods, osnaburgs and 
+Russian drab, which is for our soldiers. You will please give him a 
+pass for that boat, and receive the goods; but he must not be suffered 
+to go out of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. I will send fifty stand of arms, and pouches 
+with ammunition. Col. Moultrie will want some of them, and you are 
+to take what he may not want at present, until I get more from Gen 
+Greene. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3909">
+<recipient first="James" last="Witherspoon" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Inclosed is a eommission to command the King's Tree Company, and 
+hope you will accept of it ; and let no trifling matter induce you to 
+refuse it. In these times when our country calls for men of bravery 
+and ability, such as you, no good man, well-wisher to his country, ought 
+to resign or shun the service, and it gives me great pleasure to see you 
+at the head of a company, which I know will be led on by a man whose 
+conduct and spirit I have been an eye-witness of, whom I have always 
+had the highest opinion of, and the greatest regard for. 
+I am sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3910">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 26th came to hand. You may do as you please with Mr. Shad's daughter. Let Col. Moultrie have four rations. I wrote 
+you last night, and enclosed Meyer's account, but the letter is lost. You will pay him out of the indigo and rice you have in your hands; 
+if not sufficient, he must wait. I am called to join <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. You will keep a good look-out, lest the enemy form an attack against you ; 
+and let it be always a rule to be ready at a moment, if a retreat should be necessary, as my former orders. I shall be absent I fear some time. 
+A wagon, with fifty stand of arms, is on its way from High Hills for you. Should you want ammunition, send to Mr. William Richardson. 
+I am told your officers have public horses, and the best; they must be given up, and all your horses and men that are out must be called in 
+immediately, when I shall send for such as may be for dragoon service. I am, in haste, adieu, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3911">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+NEAR <a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.
+</p><p>
+SIR: 
+</p><p>
+I am posted here, two miles in front of the Continental army, within 
+three-quarters of a mile of the above bridge. The General, according 
+to custom, keeps me between him and the enemy. By what I can 
+learn, we shall not move from here until the army move. Gen. Pickens 
+brigade is here under me; Capt. Gee's men are come here. You will 
+relieve those at Cat Island by some other men. I hope by this you 
+</p><p>
+have received the arms. Send me by the first opportunity a general 
+return of your corps, of men, horses, saddles and arms; as you have 
+all the officers except Maxwell, you cannot be at a loss. If any officers 
+or men are on a furlough, you must call them in, and give no more leave 
+of absence on any account. I shall send a waggon for rum, sugar and 
+coffee; please get it ready for me. This place is a starving hole, where 
+nothing can be had, and nothing can be expected but hard knocks. 
+Gen. O'Hara and seventeen empty transports are arrived, and Gen. 
+Leslie is going away, said for Jamaica. Deserters just come in say 
+they are levelling their works, and are to contract their garrison ; some 
+say part of the troops are going with <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a>. I wrote you in 
+my last that you may do as you please with Shad's daughter. Tell 
+Capt. Roux he is retained in the service, and is in the second regiment. 
+I have not time to write him. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3912">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='11'>11</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+You will deliver all the horses you have, with the saddles, bridles, halter, and swords, except 14 of the ordinary horses which you will keep 
+for your crops. The officers must give up every public horse they have. Col. Maham will send an officer to receive them. Mr, Withers has 
+permission to send to Charlestown some tobacco to procure necessaries for the army You will give him passes when he applies for it, and receive whatever clothing he may get. I sent you a letter by Comodore Lockwood, informing that the British intend to go to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, under 
+French colors and dress; you will, I dare say, prevent their deception from taking effect. I am apprehensive they will go to Waccamaw ; 
+you will keep some boats ready at the ferry above Wragg's to cross over a few men on Waccamaw. Should they go there, a fire or two on them 
+may make them go away. The whole of the men around your post should be called for if they do attempt. We are perfectly idle here. 
+Nothing new but that deserters from the British come in every day. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3913">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I send you two letters addressed to Gov. Martin, which you will send 
+by express that may be depended on it requires expedition. I send a 
+letter for Ganey; please forward. Mrs. P has abused the trust 
+reposed in her, in making use of the pass more than once. You may 
+permit Mr. Dyer to bail for his future good behaviour. I am sorry to 
+find the guard at Cat Island do not do their duty, in suffering boats to 
+pass the Musketoe Creek. I hope some steps will be taken to prevent 
+such an evil so much to the prejudice to our service. The few men of 
+yours here are not to be spared yet, and hope you will make yourself 
+satisfied, as it is not in the power of government to get money as yet to 
+pay the troops in her service, but hope, it will be soon. Col. Moultrie 
+will give you all the news here ; I have not time just now to write 
+them to you. 
+</p><p>
+I am your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3914">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=bacon bridge' rel='city origin'>BACON BRIDGE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I have information the enemy intends to make an attack on your 
+post; you will order all the militia around you to your assistance. I 
+am this moment in motion to reinforce you; you must make every 
+defence possible until I arrive. A flag came here yesterday from the 
+enemy on important business to both armies ; what, we have not yet 
+learned. The officer which came says we shall very soon take one 
+another by the hand in friendship. Some say there is a cessation of 
+arms to take place, and that peace is actually on the carpet. Send per 
+express the letters to Col. Baxter and Murphy. I hope you have the 
+twenty-five stand of arms last ordered. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</letter><letter id="frm3915">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephens' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 17th ult. came to hand. The men lately came out 
+from the enemy for six months duty. You must endeavor to seize Mrs. M's boat and negroes, and make prize of them, agreeable to the Governor's proclamation; a few men may do it easily. She has no 
+pass from the Governor, <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, or myself, nor no other person; 
+they wish a stop put to it. I have taken steps with Mrs. T . In respect to the regulation of trade, we must submit to superior power. 
+I believe that scoundrel you mention has misrepresented to the Governor, I do not know any letters of yours I have not answered. Mr. Dillon, or any other Continental commissary, have nothing to do with 
+the hides or tallow of the militia forces. Mr. Samuel Dwight is appointed by <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> commissary of issues, for the port of George 
+town, in the Continental line; White must act as commissary of purchases. I am sorry to see so few horses of your regiment to be had, 
+out of so great a number. The officers must give a particular account 
+how they are gone, or it can never be settled. Saunders is resigned. 
+You certainly have a right to make what regulation you think proper in your corps. I shall march from here on Sunday for . The 
+news is, that the Parliament have unanimously resolved that whoever 
+advises the King to continue the war in America, shall be deemed a 
+traitor and enemy to the country, and have petitioned him to discontinue the American war. His answer is, that he shall comply with the 
+wishes of his Parliament. All the offensive ministers are put out, and 
+Lord Rockingham is at the head of the administration, and it is expected 
+peace will soon be concluded. The letter sent by <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a> to Gen. 
+Greene proposes cessation of hostilities ; it is said this has taken place 
+at the -Northward. It is believed that Count de Grasse and six ships of 
+war were taken in the West Indies in the late fight; but the French 
+and Spaniards have yet got the superiority of those seas. Please send 
+the letters to Murrell, Allston and Long. It is necessary their companies should all be with you, to prevent the enemy from taking advantage when the troops are distant. I think there is little danger of the 
+enemy attempting your post at this time. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+P. S. Postell's men I shall take with me. Warden, Murrell and 
+Long, will send you half of their companies. 
+</p>
+</letter><letter id="frm3916">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephens' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='25'>25</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 25th came to hand. I wrote you yesterday. It would 
+be capital to take these Tories gone to town; about the mouth of Waccamaw will do it I approve much of your sending Capt. Matthews 
+in Santee. I am glad to hear the galley is got up. She must be fitted 
+and manned for service as soon as possible, and stationed in the conflux 
+of Waccamaw, Pee Dee and Sampit Rivers. I enclosed you brevets 
+for Capt. Milligan and two lieutenants. The armed schooner will be a 
+great addition to our strength and security at your post. All the sails 
+and rigging, &c., belonging to the schooner Three Friends, must be to 
+fit up the galley. The hulk, sell or dispose to the best advantage for 
+the State. I dislike Col. Senff's plan of fortifying <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. I 
+shall visit it soon, and probably throw it wholly aside. I am sorry to 
+see you have so few men, but I refer you to my last letter. I will ac 
+quaint the General and Governor respecting Capt. Putnam's vessel. 
+The powder and lead from Capt. Putnam is seasonable. Let me know 
+everything you learn of the Tories movements and preparations, and 
+take steps to know it by sending proper persons amongst them for the 
+purpose. I believe your danger, if any, will be by water and Pee Dee 
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3917">
+<recipient first="" last="Ganey" type="individual"/>
+<p>
+GEN. MARION TO MAJOR GANEY. 
+</p><p>
+<a href='/results.php?city=lynchs creek' rel='city origin'>LYNCH's CREEK</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+My last acquainted you that your letter was laid befoft the Governor 
+and Council, Since that, I have received their instructions, and have 
+sent Col. Peter Horry, CoL Baxter and Major James, to confer with 
+you, and offer such terms as I can, and wish it may be acceded to, and 
+prevent the effusion of blood and distresses of the women and children. 
+The Colonels will give you a paper, in which you will find the determination of the British making peace with the Americans, which leaves 
+you no hope of being supported by them. I have marched thus far 
+with my brigade, for the purpose^of either making terms, or prosecu 
+ting the war, whenever the term of the truce expires. And you may 
+depend that I shall not infringe it until then; but wish that you may 
+know your own interest, by submitting in time, and preventing ill con 
+sequences from obstinacy, which must terminate in your own and your 
+people's destruction, and cannot be prevented when the North Carolinians come on, who are on the march, and are near at hand. Col Horry, and the gentlemen above mentioned, will talk with you, and 
+acquaint you with every particular with which they are charged. In 
+the meantime, you will consider them under the sanction of a flag of 
+truce ; and you, or such men as will meet them at Birche s, shall be 
+protected under that sanction. 
+</p><p>
+I am, sir, your humblfe servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3918">
+<recipient first="" last="Ganey" type="individual"/>
+<p>
+GEN. MARION TO MAJOR GANEY. 
+</p><p>
+<a rel="month origin" value="6">June</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Col. Richardson acquaints me that there was some men who did not, 
+or would not, submit to the terms sent you. All such men will be 
+allowed to go to Charlestown, and be considered as prisoners of war, to 
+be exchanged for the American prisoners. Their wives and children, 
+and such property as is theirs, they will be allowed to take with them, 
+except stock and arms, and shall be safely conducted to town on Saturday, or sooner, if possible. I shall be glad to see you at Mr. Burches . 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3919">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=burghs' rel='city origin'>BURGH'S</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 5th inst. came to hand. I am very sorry to hear you 
+are yet sick. Yesterday, Major Ganey and myself signed a treaty. 
+The principals are to submit it, and those who do not chose it are to 
+be permitted to go within the enemy's lines with their wives and children, and their movable property, except stock, which they may sell. 
+It seems all the officers will *go, and a few men who are so notorious, 
+as they will not be suffered to live. Col. Fanning, with thirty men came a few days ago in the truce, and is thought will endeavor to make 
+his way to Charlestown; but it is not unlikely he may make some 
+attempt on your post, as his number is increased since he came. You 
+will, therefore, guard against any sudden attack, by keeping a look-out 
+at Wragg's and Black River Ferries. I am informed your troops receive rations of coffee and sugar I mean the militia with you. I 
+never knew that such articles were ever given to troops but in a besieged 
+garrison, where provisions are scarce, "and therefore must be stopped. 
+Mutton, veal and poultry are not soldiers food. I also am informed, 
+that the officer who succeeds you in command, when you are absent, 
+gives passes to men to go to Dewees with articles for tradiDg. You 
+must give a general order te prevent it, and occasional commandants 
+must be notified to take that liberty. Please send me some coffee by 
+the bearer, as I am entirely out. You will let me know any particulars 
+you may learn, for I find I cannot return soon, as we cannot finish here 
+before the 25th ult., which is the time that these who are to go to 
+town are to march, and possibly some few on the line, who never were 
+subject to any command, may give us further trouble. I am with wishing you a speedy recovery, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3920">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=burghs' rel='city origin'>BURGH'S</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 10th came to hand the last evening, with the coffee, and 
+shall be obliged to you to send me a few pounds of sugar per bearer. 
+Provisions are so scarce here, that I am obliged to send boats down for 
+rice. You will send by express thirty barrels, from whoever may have 
+it, without regard of public or private property or engagements. If 
+Heriot and Tucker have any by them, it must be taken from them, 
+notwithstanding anything they may say, for without a supply I must 
+move down, which would be of the worse consequence, until I can fully 
+see the treaty properly executed. Mr. Fanning is very busy in recruiting men. On Friday next Ganey is to have a meeting of his people, to 
+see who are to go to town, and who stay. I only wait until then, when 
+I shall march over the river and overawe those who may be wavering, 
+or will not give up or go to town. If Major Skelly is landed, I desire 
+he may be parolled in a house where he may be genteelly and politely 
+treated; and you will tell them I should have no objection to parole 
+him to Charlestown, if he would get Lieut. Henry Ravenel parolled 
+within our lines. I am told he is put in the provost; if so, Major Skelly will be detained until he is liberated. You will give the Major 
+a flag to <a href='/results.php?tla=all' rel='colleague met'>Gen. Leslie</a>, to effect that matter, and send his letters, after 
+perusing them ; this I wish may be done immediately. Enquire of the 
+captain of the vessel who captured Major Skelly, if he found no letters 
+or papers about him, as he must be charged with some important business to the Commander in Georgia. Three boats set out this day for 
+the rice; if they can take more than thirty barrels, they must bring 
+them. I beg the rice may be ready by the time they arrive. 
+I am, dear sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+N. B. Let me know if the man sent to Gov. Martin with my despatches has returned. 
+</p>
+</letter><letter id="frm3921">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=burghs' rel='city origin'>BURGH'S</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Enclosed you will find <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s information of the enemy's 
+intention. You will, if possible, take your post in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, and 
+follow the orders given to Lieut. -Col. Badley, as I do not know where 
+you are, or if you can possibly take the command. 
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3922">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Since you left me, Mr. Dewees has shown me the bill for the goods 
+you mentioned to me this morning. You will procure as much rough 
+rice as will pay the amount, giving a receipt for it on the public ac 
+count, and shall be glad you would send the goods to Capt. Roux. 
+You will give what you think is a reasonable profit. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3923">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a href='/results.php?city=watbo' rel='city origin'>WATBO</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Enclosed is a copy of a letter wrote <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. If you wish to 
+stop all intercourse with the enemy, and prevent any supplies being 
+carried into them, the position hinted for the General's cavalry is the only means to effect it. The change of the ministry indicates a prolongation of the war. Our lenient countenance towards those people who 
+have surrendered to us, and are carrying a continual trade of provisions to the enemy, has obliged me to warn the people that they will be 
+taken into custody under the Sedition Act. So great a trade is carried 
+on along Wambo and Goose Creek, to supply the enemy, that all my 
+vigilance to stop it is fruitless; and I find, to stop the trade of feeding 
+the enemy, it must be effected by taking every person adjacent to town 
+and make them prisoners, or keep them a great distance from their 
+plantations, and remove all their possessions. Without such a mode, it 
+is impossible to prevent the infamous practice. I have already gone in 
+some respects in this measure, which I hope will meet with your and 
+the Council's approbation. What I have gone into in this respect, is 
+only threats, but wish to carry them into execution. My opinion on this 
+particular juncture is, that we should act with a determination against 
+every man whatever, who may be found playing a false game, without 
+which a small reinforcement will ruin everything in the former channel. 
+This obliges me to be more particular in having the State legion completed by every means that can be thought of, as Continental cavalry 
+cannot be commanded for that service, which I am certain you have 
+found by experience. Believe me, good sir, I wish to be clear of every 
+public employment; but, to retire when my country calls for my poor 
+abilities, I should call cowardice, and am determined, notwithstanding 
+my debilitated body, to do everything in my power to see this once 
+happy country enjoy its former liberty. 
+</p><p>
+I am, with respect and esteem, your Excellency's obdt. servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter><letter id="frm3924">
+<recipient first="Nathanael" last="Greene" type="individual"/>
+<p>
+<a href='/results.php?city=watbo' rel='city origin'>WATBO</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yesterday I received a letter from Major Call, at Smith s, in Goose Creek. By his account, he expected the enemy was out; but I have 
+heard from Haddrell's and Daniel's Island late yesterday, and no troops are out. Marquis Rockingham's death has made a change of ministers, 
+Lord Shelburn at the head, who is our most inveterate enemy, which I conceive will prolong the war ; however, I have certain intelligence that 
+steps are still taken to evacuate, and am very sanguine it will take place by the 15th of next month. If your cavalry will take post on 
+Goose Creek, it would secure my right, and I would have a better opportunity to shut up my left; they being so near in your front, would 
+prevent every necessary from being carried in town, and secure your position and mine; the communication would be so near each other, 
+that a reciprocal support would be had in three hours. I must beg pardon for this hint; I wish not to exceed the station I am in, and pay every deference to your judgment. Should the enemy attempt 
+me, I am determined not to quit this ground without I am forced. I have now thrice the number of men in the field that I had when Frazer 
+made his appearance, and I trust I can make my men stand their ground. I could wish a more frequent intercourse of intelligence could 
+be between us. At present I am acting without the materials from the Southward to form a judgment of my security. I have the honor to be, with great respect and esteem, 
+</p><p>
+Your obedient servant, 
+</p><p>
+[<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.]
+</p>
+</letter>

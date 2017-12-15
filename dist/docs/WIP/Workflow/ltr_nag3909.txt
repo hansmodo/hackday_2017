@@ -1,0 +1,51 @@
+<letter id="nag3909">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS (<a href='/results.php?city=cattles plantation' rel='city origin'>Mr. Cattle's Plantation</a>), <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 16th June and 8th July I have had the pleasure to 
+receive, and am made happy that you have brought Major Ganey, and 
+his party, to submit to the laws of the State without making much use 
+of force. Nothing reflects more honor upon an officer than accomplishing that by address which others could effect only by force; to save the 
+effusion of human blood must be the wish of every humane and generous 
+bosom. I fancy you must be mistaken about Mr. RavenePs being in 
+confinement. Capt. Warren, our Commissary of prisoners, was in town 
+to examine the state of all the prisoners, as well militia as regulars; his 
+report contains no such thing. Capt. SkeJly is released in consideration of Judge Pendleton being set at liberty. The Judge has come 
+out, and Capt. Skelly gone in. Should it be found that Mr. Ravenel 
+is in confinement, which I cannot suppose, I will write to Gen. Leslie 
+on the subject. It is evidently for the interest of those corps of Maham 
+and Hampton to be incorporated. Neither would have existence long 
+without it; but, by being consolidated, they will have, perhaps, a permanency during the war, and provision made for them accordingly. 
+You will inform the officers thereof, that it is a matter settled between 
+the Governor and myself, that the two corps be united, and that they 
+are to be considered in future upon the State establishment. This was 
+thought advisable after the fullest examination of the matter, and I 
+</p><p>
+hope the officers will make no difficulty in concurring in a measure 
+equally beneficial to them, as necessary for the public good. The requisition for the militia was upon the supposition that the garrison of 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> might come to Charlestown, and give the enemy such an 
+additional force as to enable them to give a blow to our army. I believe 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> is not fully evacuated, and therefore nothing to apprehend at 
+present; you will remain, therefore, on the other side of Cooper River, 
+between that and Santee, to protect the people from the daily depredations of little parties from Charlestown. If the garrison of <a href='/results.php?city=savannah' rel='city'>Savannah</a> 
+arrives, I will notify you, and direct you where to form a junction with 
+me. It is said that Fanning is determined to have you, dead or alive, 
+therefore, take care of yourself. It is, also, reported, by a person in the 
+enemy's secrets, that a large party of the enemy is to move out soon 
+into St. Thomas and St. Stephens parishes. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p><p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+By a woman from town last night, I have just heard the garrison of 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> is actually arrived at Charlestown. If it should prove true, 
+you will hear from me again immediately. 
+</p>
+</letter>

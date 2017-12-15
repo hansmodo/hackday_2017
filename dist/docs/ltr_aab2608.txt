@@ -1,0 +1,16 @@
+<letter id="aab2608">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=richmond" rel="city origin">Richmond</a>, <a rel="month origin" value="6">June</a> <a rel="day origin" value="29">29th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+DEAR SIR : I recommend to you to place Mrs. Blennerhassett and your children with <a href="/results.php?tla=tba" rel="met child">Mrs. Alston</a>, till these agitations shall be composed. 
+</p><p>
+For other matters, I refer you to my friend, Major Ashley, who will hand you this. 
+</p><p>
+Faithfully, yours, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+Mr. A. will perform his engagement. The bill for two thousand dollars was duly paid. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

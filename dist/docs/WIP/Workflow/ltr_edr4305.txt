@@ -1,0 +1,74 @@
+<letter id="edr4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='14'>14</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have revolved, with great attention, the matter 
+of the letter which you yesterday did me the honor 
+of confiding to my perusal. Convulsed as we are, I 
+cannot but believe that there is scarcely a man in 
+the Government, whom party will not, sooner or later, 
+destine for an attack. A communication, therefore 
+which seems even to be tinctured with particular objects, will naturally excite caution. I hope, however, 
+that I shall not be understood to insinuate the most 
+distant suspicion of that affectionate attachment which 
+is professed ; for I am truly persuaded of it. I mean 
+no more than that kind of caution which would prevent you from heartily acceding to, or rejecting, propositions so delicate in themselves. 
+</p><p>
+What is due to the French nation up to the close 
+of <a href='/results.php?year=1792'>1792</a>, ought, if practicable, to be paid to the existing authorities of France. This can never be questioned as to its validity or propriety, let the shape 
+of their Government be what it will ; nor can it give 
+just umbrage to any member of the hostile Confederacy. But, as this sum is probably far below the wishes of the French Minister, it will be asked 
+whether the large advance of three million tournois can be made ; and, if it can, ought it to be made ? 
+</p><p>
+You informed me, Sir, that the ability of the treasury to accomplish this, depended upon the success 
+of a bill now on its passage through the Legislature. 
+Of course the United States are not yet in a capacity of advancing, unless the other advice be followed, 
+of scrutinizing the Treasury Department, and thence 
+discovering funds ; or of instituting a new loan. The 
+former is in a train of being executed, and could not 
+now be quickened. Should the Executive at this moment originate a similar investigation, it might look 
+like something more than a neutrality between the 
+parties. Possibly, at a future day, when the result of 
+the Congressional inquiry shall be known, if it should 
+not be satisfactory to you, you may deem it expedient to impart the nature of the information referred 
+to in the letter to the Secretary of the Treasury. In 
+the mean time, While Congress are still in motion on 
+the subject of finance, I presume that the proposed 
+alternative of a loan must be suspended. 
+</p><p>
+Let me next suppose, that money adequate to the 
+advance was now in hand. Even the situation of 
+France, with respect to other powers, is serious and 
+important. A voluntary payment of what is not yet 
+due, carries with it causes of jealousy. On the opposite side, threatened famine will, if not attempted 
+to be averted, rouse the zealous partisans of French 
+politics in America. Perhaps, too, it may deserve 
+consideration, how far the opportunity of forming a 
+close connection with the French republic may be 
+lost or weakened by refusing to gratify it, and how 
+far it may spread a favorable impression of the Federal Administration throughout the United States. 
+Again ; should the advance be approved, the allied 
+nations can well be told, if they remonstrate, that the 
+danger of a famine was a leading motive. Should it 
+be disapproved, the French will be conscious that they 
+have no right to demand it, and that money cannot 
+be furnished in republics at will, or in the same profusion as in monarchies. Upon the whole, I should be 
+inclined to the advance, if it was easily within our 
+reach. But I see no reason, nor a state of things 
+sufficiently ripe, for deciding the question at this moment. 
+</p><p>
+I take the liberty, therefore, of suggesting, whether Mr. Ternaut may not be informed that the balance, 
+up to the end of <a href='/results.php?year=1792'>1792</a>, shall be paid, and that a definitive' answer, as to the residue of the requisition, 
+will be given as soon as the fiscal arrangements of Congress shall be finished. Then, and not till then, will you be possessed of the facts, necessary in such 
+a case ; then, and not till then, will you be able to avoid the appearance of sheltering one officer, or of countenancing his adversary. Mr. Ternant cannot but 
+acquiesce in the fitness of the measure ; and it will be seen, by the gentleman who wrote the letter, that while you will not precipitate yourself into the steps 
+recommended, you have marked out, in your own mind, a day, reasonably distant, for again calling the subject into view. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

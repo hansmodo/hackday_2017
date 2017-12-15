@@ -1,0 +1,18 @@
+<letter id="mbc7533">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='27'>27th</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a href='/results.php?year=1860' rel="origin">1860</a>]. Mrs. Gidiere came in quietly from her 
+marketing to-day, and in her neat, incisive manner exploded this bombshell : <a href='/results.php?tla=roa' rel=''>Major Anderson</a> has moved into Fort Sumter, while <a href='/results.php?tla=wfp' rel='acquaintance met'>Governor Pickens</a> slept serenely." The 
+row is fast and furious now. State after State is taking its forts and fortresses. They say if we had been left out in 
+the cold alone, we might have sulked a while, but back we would have had to go, and would merely have fretted and 
+fumed and quarreled among ourselves. We needed a little wholesome neglect. Anderson has blocked that game, but 
+now our sister States have joined us, and we are strong. I give the condensed essence of the table-talk : Anderson 
+has united the cotton States. Now for Virginia ! " Anderson has opened the ball." Those who want a row are in 
+high glee. Those who dread it are glum and thoughtful enough. 
+</p><p>
+A letter from Susan Rutledge : Captain Humphrey folded the United States Army flag just before dinner 
+time. Ours was run up in its place. You know the Arsenal is in sight. What is the next move ? I pray God to guide 
+us. We stand in need of Avise counsel; something more than courage. The talk is : Fort Sumter must be taken ; 
+and it is one of the strongest forts. How in the name of sense are they to manage? I shudder to think of rash 
+</p>
+</letter>

@@ -1,0 +1,31 @@
+<letter id="gom4641">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="2">February</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am to acknowledge yours of the seventh of last November, which I cannot do without expressing my concern at a 
+resolution, which will deprive the United States of an able and 
+faithful servant. Since you declare your determination to be 
+unalterable, it would be idle to offer reasons to dissuade you, 
+besides which it seems probable that ere this can arrive, you 
+will have acted. But were it otherwise, I know not whether 
+in my present feelings I could attempt to divert from the sweets of private and domestic life one, who has so long been deprived of them. Every day makes me contemplate with additional pleasure the prospect of retirement, and that tranquillity whose loss is not perhaps to be compensated by anything else. 
+</p><p>
+If, however, the die be not cast, permit me to express one 
+wish. It is, that you would hold your place until a successor 
+can be fixed on, whom you think fully equal to the duties of the 
+office. This may perhaps be a painful sacrifice, but it is one 
+which I hope you will make to the interests of our country in 
+the present very critical moment. If you shall have quitted, or 
+persist in doing it, give me, I pray, your opinions and advice. 
+These, so long as T stay here, will be very useful to me, and I 
+trust not quite useless to the United States. 
+</p><p>
+In whatever situation you maybe, believe, I pray you, in 
+that respectful esteem with which I am, &ic. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,51 @@
+<letter id="joh3003">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="22">22</a> <a rel="month origin" value="12"> December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letters of the 30th of November, and of the 4th, 7th, and 11th of December, being duly received, 
+were laid before Congress. To prevent the ill consequences that might ensue from the backwardness of 
+the men, in the present service, to reenlist, the Congress, as I informed you in my last, have written to 
+the Governors of Connecticut and Rhode Island, the Council of Massachusetts Bay, and the President of 
+the Convention of New Hampshire. In consequence of which letters, they have strong hopes and confidence that measures will be taken to complete your 
+army. As to the article of butter, the Congress, desirous to obviate whatever may have a " tendency to 
+give the soldiery room for complaint," have instructed me to inform you, that the same may be continued until further order. 
+</p><p>
+The Congress receive, with great satisfaction, your congratulations on the success of Captain Manly. By the inclosed resolves, you will perceive their determination on the captures already made, as well as those which may be made hereafter. It is expected the several Colonies will erect Courts of Admiralty, 
+and that the Judges in those courts will regulate their decisions by the law of nations, except where it is relaxed by the inclosed resolutions. 
+</p><p>
+I am further directed to inform you, that the Congress approve your taking such of the articles, found 
+on board the <a href='/results.php?city=concord' rel='city'>Concord</a>, as are necessary for the army. The necessity of the case will, they apprehend, justify the measure, even though the vessel upon trial 
+should, contrary to their expectation, be acquitted. 
+</p><p>
+I am authorized to inform you, that it is the pleasure of Congress that Mr. Mifflin, the Quartermaster-General, hold the rank of Colonel in the Army of 
+the United Colonies, and that you establish his rank accordingly. 
+</p><p>
+I must beg leave to refer you to the inclosed resolutions of Congress for your future proceedings, 
+which I am directed to transmit to you. You will 
+notice the last resolution relative to an attack upon 
+<a href='/results.php?city=boston' rel='city'>Boston</a>. This passed, after a most serious debate, in 
+a Committee of the whole House, and the execution 
+was referred to you ; and may God crown your attempt with success. I most heartily wish it, though 
+individually I may be the greatest sufferer. 
+</p><p>
+I have paid Mr. Fessenden, the express, in full for 
+his three journeys as express to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, deducting  only sixty dollars, which he says you ordered 
+him ; so that there will be no pay due to him for 
+services performed heretofore, only for his expenses 
+now from this place to you. If this adjustment be 
+not right, please to inform me. 
+</p><p>
+I have the honor to be, with sincere sentiments of 
+esteem, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. Fessenden being indisposed, I have sent a 
+special express, as Congress were anxious their resolves 
+should reach you as quick as possible. 
+</p>
+</letter>

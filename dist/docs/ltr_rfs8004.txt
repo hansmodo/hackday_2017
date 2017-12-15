@@ -1,0 +1,24 @@
+<letter id='rfs8004'>
+<recipient first='John' last='Fremont' type='individual'/>
+<p>
+Camp at <a href='/results.php?city=san luis rey' rel='city origin'>San Luis Rey</a>, <a rel="month origin" value="1">January</a> 	<a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+My Dear Colonel : We arrived here last night from San Diego, and leave to-day on our march for the City of the Angels, where I hope to be in five or six days. I learn this morning 
+that you are at Santa Barbara, and send this despatch by the way of San Diego, in the hope that it may reach you in time. If there is one single chance against you, you had better 
+not fight the rebels until I get up to aid you, or you can join me on the road to Pueblo. 
+</p><p>
+These fellows are well prepared, and Mervine's and <a href="/results.php?tla=swk" rel="colleague">Kearny's</a> defeat have given them a deal more confidence and courage. If you do fight before I see you, keep your forces in close order; 
+do not allow them to be separated, or even unnecessarily extended. They will probably try to deceive you by a sudden retreat, or pretended runaway, and then unexpectedly return to the 
+charge after your men get in disorder in the chase. My advice to you is, to allow them to do all the charging and running, and let your rifles do the rest. 
+</p><p>
+In the art of horsemanship, of dodging, and running, it is in vain to attempt to compete with them. 
+</p><p>
+In haste, very truly, your friend and obedient servant, 
+</p><p>
+<a href="/results.php?tla=rfs" rel="me">R. F. Stockton</a>.
+</p><p>
+To Lieutenant-Colonel Fremont, etc., etc., etc. 
+</p><p>
+I understand that it is probable they will try to avoid me and fight you separately. 
+</p>
+</letter>

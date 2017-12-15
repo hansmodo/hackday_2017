@@ -1,0 +1,32 @@
+<letter id="jaw3903">
+<recipient first="" last="Williamson" type="individual"/>
+<p>
+COL. JAMES WILLIAMS TO GEN. WILLIAMSON. 
+</p><p>
+<a href='/results.php?city=mount pleasant' rel='city origin'>MOUNT PLEASANT</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1780' rel="origin">1780</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+I received your favor by master George, and have carefully observed the contents. I have had a Captain, one Sergeant, and 8 picked men 
+out in the upper part of my regiment for some time, in order to prevent those fellows from plundering the good people, and to have them taken 
+and brought to justice. I am about to try to embody a part of the regiment to send to town ; how they will turn out I can't tell, but I fear 
+but poorly. I have made it as public in these parts, as possible, about 
+the Governor promising to get salt for the back country ; and it has 
+given some satisfaction to the people but at present it is bad, for 
+many a poor man is obliged to turn out his hogs for the want of salt. 
+To my knowledge some people must suffer greatly. I have sent a pay 
+bill of Capt. I. Gray's with Mr. McNear to get the money, and should 
+take it as a singular favor if it could be got. The Captain deserted his 
+country, and the men will probably lose their money, and I am likely 
+to be a great loser by it myself. I have advanced a great part of their 
+</p><p>
+wages to them myself. If I could get the money, I am going to that 
+part of the regiment, and will settle with every man myself. If it is 
+possible, I should be glad to get the money, as I am going to that part 
+of the regiment the latter end of this week. 
+</p><p>
+I am, dear sir, your most respectful and humble servant, 
+</p><p>
+<a href="/results.php?tla=jaw" rel="me">JAS. WILLIAMS</a>.
+</p>
+</letter>

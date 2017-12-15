@@ -1,0 +1,106 @@
+<letter id="rim3012">
+<recipient first="Philip" last="Schuyler"/>
+<p rel="heading">
+Holland House, near the Heights of <a href='/results.php?city=abraham' rel='city origin'>Abraham</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I have been this evening favored with yours of the 19th 
+ultimo. I return you many thanks for your warm congratulations. Nothing shall be wanting on my part to reap the advantage of our good fortune. The season has proved so favorable as to enable me to join <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a> at Point-aux-Trembles, where I arrived with the vessels Mr. Prescott made 
+us a present of. They carried the few troops, about three 
+hundred, who were equipped for a winter's campaign, with the 
+artillery, &c. Colonel Livingston is on his way with some 
+part of his regiment of Canadians. 
+</p><p>
+Mr. Carleton, who is, I suppose, ashamed to show himself 
+in England, is now in town, and puts on the show of defence. 
+The works of <a href='/results.php?city=quebec city' rel='city'>Quebec</a> are extremely extensive, and very in 
+capable of being defended. His garrison consists of McLean's 
+banditti, the sailors from the frigates and other vessels laid up, 
+together with the citizens obliged to take up arms, most of 
+whom are impatient of the fatigues of a siege, and wish to see 
+matters accommodated amicably. I propose amusing Mr. Carleton with a formal attack, erecting batteries, &rc., but mean to 
+insult the works, I believe towards the Lower Town, which is 
+the weakest part. I have this day written to Mr. Carleton, 
+and also to the inhabitants, which I hope will have some effect. 
+I shall be very sorry to be reduced to this mode of attack, 
+because I know the melancholy consequences. But the approaching  severe season, and the weakness of the garrison, together 
+with the nature of the works, point it out too strongly to be 
+passed by. 
+</p><p>
+I find <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a>'s corps an exceeding fine one, inured 
+to fatigue, and well accustomed to cannon shot (at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>). 
+There is a style of discipline among them much superior to 
+what I have been used to see this campaign. He himself is 
+active, intelligent, and enterprising. Fortune often bailies the 
+sanguine expectations of poor mortals. I am not intoxicated 
+with the favors I have received at her hands, but I do think 
+there is a fair prospect of success. 
+</p><p>
+The Governor has been so kind as to send out of town 
+many of our friends, who refused to do military duty ; among 
+them several very intelligent men, capable of doing me consider 
+able service. One of them, a Mr. Antill, I have appointed 
+Chief Engineer. Mr. Mott and all his suite have returned home. 
+</p><p>
+Be so good as to show Congress the necessity I was under 
+of clothing the troops, to induce them to stay, and undertake 
+this service at such an inclement season. I think, had their 
+Committee been with me, they would have seen the propriety 
+of grasping at every circumstance in my power to induce them 
+to engage again. I was not without my apprehensions of not 
+only being unable to make any appearance here, but even of 
+being obliged to relinquish the ground I had gained. How 
+ever, I hope the clothing and dollar bounty will not greatly 
+exceed the bounty offered by Congress. 
+</p><p>
+Whilst the affair of Chamblee was in agitation, Major Brown, 
+as I am well informed, made some promises to the Canadians 
+who engaged on that service, which I believe I must, from 
+motives of policy as well as justice, make good; namely, to 
+share the stores, except ammunition and artillery. When matters are settled, I shall pay them in money, it being inconvenient to part with the provisions. 
+</p><p>
+Upon another occasion I have also ventured to go beyond 
+the letter of the law. Colonel Easton's detachment at the mouth 
+of the Sorel was employed on the important service of stop 
+ping the fleet. They were half naked, and the weather was 
+very severe. I was afraid that not only they might grow 
+impatient, and relinquish the business in hand, but I also saw 
+the reluctance the troops at <a href='/results.php?city=montreal' rel='city'>Montreal</a> showed to quit it. By 
+way of stimulant I offered, as a reward, all public stores taken 
+in the vessels to the troops who went forward, except ammunition and provisions. Warner's corps refused to march, or at 
+least declined it. Bedel's went on, and came in for a share 
+of the labor and honor. I hope the Congress will not think 
+this money ill laid out. 
+</p><p>
+With a year's clothing of the seventh and twenty-sixth, I have relieved the distresses of Arnold's corps, and forwarded 
+the clothing of some other corps. The greatest part of that clothing is a fair prize, except such as immediately belonged 
+to the prisoners taken on board. They must be paid for theirs, as it was their own property. We shall have more time here after to settle this affair. 
+</p><p>
+Should there be any reason to apprehend an effort next 
+spring to regain Canada, I would not wish to see less than 
+ten thousand men ordered here. The Canadians will be our 
+friends so long as we are able to maintain our ground, but 
+they must not be depended upon, especially for defensive operations. The great distance from any support or relief, renders 
+it, in my opinion, absolutely necessary to make the most formidable preparations for the security of this important Province. 
+What advantages the country below <a href='/results.php?city=quebec city' rel='city'>Quebec</a> affords for defence, 
+I cannot yet assert, but the Rapids of Richelieu, some miles 
+above, may be defended against all the navy and all the military force of Great Britain, by such a body of troops as I 
+have mentioned, provided with sufficient artillery, row-galleys, and proper vessels fitted for fire-ships. 
+</p><p>
+Some time since, you desired a return from <a href='/results.php?tla=daw' rel='colleague met'>General Wooster</a> of the men he had discharged between <a href='/results.php?city=albany' rel='city'>Albany</a> and <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. I was afraid there might be something disagreeable 
+to him in the desire, and, as it was too critical a time to put anybody out of humor, I therefore suppressed it. I shall now make him acquainted with your pleasure on that head. 
+</p><p>
+There are several appointments I have thought necessary to make, which I shall soon make known to you. I hope the 
+Congress will not yield to any solicitations to the prejudice of the troops who have borne the burden of the service here. 
+I have paid particular attention to <a href='/results.php?tla=bea' rel='colleague met'>Colonel Arnold</a>'s recommendations. Indeed, I must say, he has brought with him many pretty young men. 
+</p><p>
+I do not know that I informed you, that it was in vain to 
+think of engaging the troops for twelve months. The loth of 
+April, which allows them time to plant their corn upon returning  home, was all I dared to ask. I hope the proper measures will be taken for sending fresh troops into the country 
+</p><p>
+before that time. I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>. 
+</p>
+</letter>

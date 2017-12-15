@@ -1,0 +1,170 @@
+<letter id="pjs3017">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+On Friday evening I received a line from <a href='/results.php?tla=jsu' rel='colleague'><a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a></a>, a copy whereof I have the honor to inclose. By the contents your Excellency will perceive, that 
+we have reasons to believe his next will announce his arrival at Crown Point. 
+</p><p>
+Yesterday morning <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> introduced a Mr. Avery to me, who applied to me for money to carry 
+on the Commissary-General's department here. I asked if Mr. Livingston was superseded, and begged to 
+see how he (Avery) was authorized to act here. He 
+showed me a commission from <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a>, the 
+Commissary-General, with instructions annexed, appointing him Deputy-Commissary in Canada, and the 
+instructions were correspondent to such appointment. 
+I told him his commission did not, by any means, 
+supersede Mr. Livingston s, and until that was done, 
+I must consider Mr. Livingston as the Deputy-Commissary-General here, and that all warrants for money to carry on that department here must he drawn 
+in his favor, unless <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a> himself was present. 
+</p><p>
+He assured me that it was <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a>'s intention that he (Avery) should have the sole management, and that Mr. Livingston was only to be considered as a contractor. I sent for Mr. Livingston, 
+who produced a letter of the 25th instant from Mr. 
+Trumbull, directly contradictory to what Mr. Avery 
+had asserted ; upon which he declared that <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a> had informed him, that Congress had given him full 
+power to make any arrangement he thought proper, 
+and displace whom he pleased, and that it was his 
+intention, by giving him (Avery) that commission, to 
+supersede Mr. Livingston. To which Mr. Livingston 
+answered, that, although <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a> had 110 power 
+to remove him unless authorized so to do by congress, as he held his commission immediately from 
+that body, yet, if <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a> had expressed any 
+such intention, he would immediately resign, and he 
+would put the question to <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a>. I observed 
+to Mr. Avery that nothing in his commission, or the 
+instructions annexed, authorized him to say what 
+he did; that <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Mr. Trumbull</a></a>'s letter to Mr. Livingston 
+flatly contradicted it; that if he remained with the 
+army, provided it was not in Canada, he must be 
+subordinate to Mr. Livingston, and obey his orders, 
+which he chose not to do, and is now going down. 
+</p><p>
+I advised him to remain until the affair was deter 
+mined, and candidly told him that I should try to keep Mr. Livingston in the employment if he chose 
+it, because, admitting that their abilities and integrity 
+were perfectly equal, Mr . Livingston's conduct had 
+met my approbation, and that his great family connections in this county had enabled him to carry on 
+the service, when others could not have done it, of 
+which I gave instances. <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> was present, 
+and acquiesced in the propriety of what I observed. 
+I was, therefore, greatly surprised to be informed, 
+that he should tell Mr. Avery that he had nothing 
+to say here, but that as soon as he came to the army he would employ him. I say I was greatly surprised, because <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> knew that the army 
+was no longer in Canada, and because I did not 
+know that he then claimed a right to control my 
+orders with respect to the army, even if it should be 
+at Crown Point ; nor could I imagine he thought so, 
+as your Excellency's instructions to him gave, as I 
+conceive, not the least color for it. Your last letter 
+to me holds up a contrary idea, and so does every 
+resolution of Congress hitherto transmitted to me ; 
+but that <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> conceived, and still does, that 
+the army is immediately under his command, I had, 
+a very few hours after, the most convincing proof of, 
+as your Excellency will observe from the inclosed 
+paper, which I hastily drew up immediately after the 
+discourse, and which I desired <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> to read, 
+that no misunderstanding might arise for want of recollecting what had been said, and which he acknowledges contains the substance of what passed between us. 
+</p><p>
+By your Excellency's instructions to <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a>, 
+he is empowered to appoint a Quartermaster-General 
+in Canada. I observed, this morning, that I believed 
+it was founded on a supposition that Colonel Camp-bell was then about quitting Canada, for that I could 
+not imagine that an officer being "ordered to congress to settle his accounts" deprived him of his employments ; that Colonel Campbell was originally appointed to this department/ and that Canada now 
+being made a separate one, and the command of it 
+given to <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a>, he could., under the powers 
+he had, appoint whom he pleased to act there; but 
+that, . unfortunately for us, the evacuation of that 
+country by our troops had taken place, and that I 
+must and should consider Colonel Campbell as the 
+Deputy Quartermaster-General on this side of Canada. 
+</p><p>
+If Congress intended that <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> should 
+command the Northern army, wherever it may be, 
+as he assures me they did, it ought to have been 
+signified to me, and I should then have immediately 
+resigned the command to him ; but until such intention is properly conveyed to me, I never can. I 
+must, therefore, entreat your Excellency to lay this 
+letter before Congress, that they may clearly and Explicitly signify their intentions, to avert the dangers 
+and evils that may arise from a disputed command; 
+for, after what <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> has said, the line must 
+be clearly drawn, as I shall, until then, stand upon 
+punctilios with <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a>, that I would otherwise 
+with pleasure waive ; but that the service may not 
+be retarded, nor suffer the least from a difference of 
+opinion between <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> and me, I have deter 
+mined to remain here, although I had, before this 
+affair came to light, mentioned to him my intentions 
+of going up with him. 
+</p><p>
+As both <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> and myself mean to be 
+candid, and wish to have the matter settled without 
+any of that chicane which would disgrace us as officers and men, we have agreed to speak plain, and 
+to show each other what we have written to you 
+upon the occasion ; and he has accordingly read the 
+whole of what I have above said. . 
+</p><p>
+Since writing the above, <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> has shown me the resolutions of Congress of the 17th ultimo, which confirm me in the opinion I have entertained, 
+that he was only to command the army in Canada, and that I had no control upon him when there.
+</p><p>
+Your Excellency may be assured of my best exertions to prevent the enemy from penetrating into these Colonies. <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> is in sentiment with 
+me on the mode ; that of increasing our naval strength, and fortifying some advantageous spot on the east side of Lake Champlain, either opposite to 
+<a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, or between that and Crown Point. 
+</p><p>
+Part of the militia from this Colony is marched up ; none of the others are yet moved. Their tardiness will greatly distress us, as we have much, very much, to do, and few men to do it with. 
+</p><p>
+The cannon sent by <a href='/results.php?tla=hek' rel='colleague'><a href='/results.php?tla=hek' rel='colleague'>Colonel Knox</a></a> arrived yesterday; and, although the Indians have deferred the treaty to the middle of this month, yet I have thought it advisable to take post at Fort Stanwix ; 
+and all the stores are moving from here to-day, and will, I hope, leave Schenectady on Wednesday morning. The Commissioners of Indian Affairs have prepared a message to the Six Nations, giving the reasons why we take post at Fort Stanwix. This will, however, not be sent until every thing is so far advanced that there may be no danger in coimnimbating to them my intentions. 
+</p><p>
+Should the enemy advance, and we be under the 
+necessity of calling forth the militia nearest to us, 
+we shall be at a loss for ball and buckshot. I wish, 
+therefore, to have twenty-five rounds a-piece for ten 
+thousand men sent up the soonest possible, if it can 
+anywhere be procured, with a proportionate quantity 
+of cartridge-paper, and two tons of oakum. 
+</p><p>
+If any cutlasses, stinkpots, and handgrenades can 
+be got, I beg they may also be sent for the use of 
+our armed vessels. 
+</p><p>
+One hundred thousand of the dollars brought up 
+by <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> are ordered to the army; better 
+than half of the other are already expended, nor 
+will any be left in two or three days. 
+</p><p>
+Mr. Duane informed me, and gave me leave to 
+make use of his name, that the five hundred thou 
+sand voted by Congress the 22d of May for this department, were actually charged, and he fears that 
+they may have met with some accident on the way up. 
+</p><p>
+I have ordered the silver to be kept in chests, except about three thousand pounds, which we borrowed here, and must now be repaid. 
+</p><p>
+Four o clock, P. M. I am this moment favored with your Excellency's letter of the 27th ultimo, in closing a copy of a resolution of Congress of the 
+24th. I have immediately an opportunity of forwarding copies thereof to <a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Governor Trumbull</a></a> and Mr. Edwards. The latter has already received one month's 
+advance wages for the Stockbridge company, which, 
+I suppose, is by this time paid to them, as he in 
+formed me that they were to be here on Wednesday 
+or Thursday next. I am afraid it will give great 
+umbrage, if they are immediately discharged; but, as 
+the order is positive, I dare not presume to defer 
+complying with it. I shall, however, request Mr. Ed 
+wards to do it in a manner that will give the least 
+offence. 
+</p><p>
+I wish Colonel Francis and Colonel Wolcott were 
+immediately ordered up to attend the conference at 
+the <a href='/results.php?city=german flats' rel='city'>German Flats</a> on the 15th instant, as I propose 
+going to Crown Point to-morrow, having, upon further 
+consultation with <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> and <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>General Arnold</a></a> 
+since writing the foregoing, determined upon it; and 
+this journey may detain me so long as to prevent 
+my attendance, in which case there will be only two 
+Commissioners present. 
+</p><p>
+I am, dear General, most respectfully, your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>.
+</p>
+</letter>

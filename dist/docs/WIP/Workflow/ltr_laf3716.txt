@@ -1,0 +1,37 @@
+<letter id="laf3716">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+	<a rel='day origin' value='29'>29</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Inclosed you will find some numbers, a copy of 
+which I have kept, and which contain some names 
+that may probably occur in our correspondence. I 
+need not tell you, my dear General, that I shall be 
+happy in giving you every intelligence in my power, 
+and reminding you of the most affectionate friend you 
+can ever have. The goodness you had to take upon 
+yourself the communicating to the Virginia army the 
+approbation of Congress, appears much better to me 
+than my writing to the scattered parts of the body I 
+had the honor to command. Give me leave, my dear 
+General, to recall to your memory the peculiar situation of the troops, who, being already in Virginia, 
+were deprived of the month's pay given to the others. 
+Should it be possible to do something for them, it 
+would give them great satisfaction. 
+</p><p>
+I will have the honor to write to you from <a href='/results.php?city=boston' rel='city'>Boston</a>, my dear General, and should be very sorry to think 
+this is my last letter. Accept, however, once more the homage of the respect and of the affection that 
+render me forever, 
+</p><p>
+Your most obedient servant and tender friend, 
+</p><p>
+Lafayette.
+</p><p>
+P. S. I beg you will present my respects to Mrs. 
+Washington, and my compliments to George and the 
+family. Will you be so kind, my dear General, as to 
+remember me to Mr. and Mrs. Morris ? 
+</p>
+</letter>

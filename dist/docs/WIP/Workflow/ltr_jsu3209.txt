@@ -1,0 +1,98 @@
+<letter id="jsu3209">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pompton' rel='city origin'>Pompton</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Perhaps there was never more justice in any ad 
+vice than that given by the philosopher to his prince, 
+namely, "Always beware of the man that flatters you, 
+and appears to coincide with your sentiments on all occasions." 
+</p><p>
+I am confident that I have never appeared to your Excellency in this character; nay, I have studied to 
+avoid even the appearance of being a flatterer. I 
+knew, at the same time, that your Excellency, as 
+well as all others in high office, had those animals 
+constantly courting your favors ; and, I confess that 
+I have sometimes felt an uneasiness, lest my neglect 
+of expressing those sentiments of esteem and affection which I really felt should be construed into a 
+want of cordial esteem for that Commander, to whom 
+America stands so much indebted. Conscious, how 
+ever, of my own sincerity, I contented myself with 
+yielding a cheerful obedience to all orders your Excellency was pleased to honor me with; not doubting 
+that some future period might discover in whose 
+bosom the most lively sentiments of friendship and esteem were lodged. But, as my present state of 
+health almost forbids me to hope for the honor of 
+serving again under your command, your Excellency 
+will excuse me in declaring that I have ever felt 
+those exalted sentiments of esteem and affection for 
+you, that even your sincerest friend can boast. My 
+public and constant declaration has been, and I now 
+repeat, that, in my opinion, you are the saviour of 
+this country ; and that to your fortitude, bravery, and 
+steady perseverance, do we owe the independence and 
+freedom we enjoy. 
+</p><p>
+This I say, to remove any doubts that may have 
+arisen respecting my friendship and affection ; and I 
+should now have avoided it, did not my own feelings 
+too strongly indicate that I can never have the plea 
+sure of again serving under your Excellency's command. 
+</p><p>
+You will please to pardon this long and (I dare-say) to you tedious introduction to something more 
+interesting. Permit me, then, to inform your Excellency, that the faction raised against you in <a href='/results.php?year=1777'>1777</a>, 
+into which General Conway was Unfortunately and 
+imprudently drawn, is not yet destroyed. The members are waiting to collect strength, and seize some 
+favorable moment to appear in force. I speak not 
+from conjecture, but from certain knowledge. Their 
+plan is to take every method of proving the danger 
+arising from a Commander who enjoys the full and 
+unlimited confidence of his army, and alarm the people with the prospect of imaginary evils; nay, they 
+will endeavour to convert your virtues into arrows, 
+with which they will seek to torment you. 
+</p><p>
+This plan was adopted the last winter ; and, if you 
+will take the trouble of reading Mr. Tudor's oration, 
+delivered at <a href='/results.php?city=boston' rel='city'>Boston</a> in March last, you will find every line calculated to answer this purpose. The words 
+are Tudor's, but the thoughts are borrowed. I heard 
+them thrown out long before they were by him laid 
+before the public. 
+</p><p>
+Here I cannot help digressing to congratulate your Excellency on your compelling them to attack your virtue, and not putting it in their power to point out a single vice. 
+</p><p>
+The next step is to persuade Congress that the 
+military power of America should be placed in three or four different hands; each having a separate quarter of the Continent assigned him ; each commander 
+to answer to Congress only for his conduct. This, 
+they say, will prevent an aspiring commander from 
+enslaving his country, and put it in the power of 
+Congress, with the assistance of the other commanders, to punish the attempt. This is a refinement in 
+politics, and an improvement on public virtue, which 
+Greece or Rome could never boast. 
+</p><p>
+The present time is unfavorable to their design. 
+They well know, that the voice of citizens and soldiers would be almost unanimously against them. 
+But they wait a more favorable opportunity, which 
+they will certainly improve. I am well convinced 
+that they cannot succeed; yet I thought it my duty, 
+in the moment of my departure, to give your Excellency this notice, that you may not only be on your guard, but avoid intrusting those in matters where 
+your interest and honor are nearly concerned. appearances may deceive even an angel. Could you 
+have believed, four years since, that those adulators, 
+those persons so tenderly and so friendly used, as 
+were Gates, Mifflin, Reed, and Tudor, would become 
+your secret and bitter, though unprovoked enemies? 
+If we view them now, we cannot help lamenting the 
+want of sincerity in mankind. I persuade myself 
+that your Excellency's steady and prudent conduct 
+will baffle every attempt, and I feel happy in having 
+discharged my duty to the best of commanders ; and 
+only beg leave to assure your Excellency, that, in 
+whatever station fortune may place me in future, no 
+man will be more ready to bestow the rewards due 
+to your Excellency's disinterested zeal, bravery, fortitude, and perseverance, than, dear General, your Excellency's 
+</p><p>
+Most obedient and devoted servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

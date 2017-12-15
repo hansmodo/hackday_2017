@@ -1,0 +1,23 @@
+<letter id="mbc7655">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='3'>3d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mem says she feels like sitting down, as an Irishwoman does at a wake, and howling night and day. 
+Why did Huger let <a href='/results.php?tla=gbm' rel=''>McClellan</a> slip through his fingers? Arrived at Mrs. McMahan's at the wrong moment. Mrs. Bartow was reading to the stricken mother an account of 
+the death of her son. The letter was written by a man who was standing by him when he was shot through the head. 
+"My God! " he said; that was all, and he fell dead. James Taylor was color-bearer. He was shot three times 
+before he gave in. Then he said, as he handed the colors to the man next him, " You see I can't stand it any 
+longer," and dropped stone dead. He was only seven teen years old. 
+</p><p>
+If anything can reconcile me to the idea of a horrid failure after all efforts to make good our independence of Yankees, it is <a href='/results.php?tla=abl' rel=''>Lincoln's</a> proclamation freeing the negroes. Especially yours, Messieurs, who write insults to your Governor and Council, dated from Clarendon. Three hundred 
+of Mr. Walter Blake's negroes have gone to the Yankees. 
+Remember, that recalcitrant patriot's property on two legs may walk off without an order from the Council to work on 
+fortifications. 
+</p><p>
+Have been reading The Potiphar Papers by Curtis. 
+Can this be a picture of New York socially ? If it were not 
+for this horrid war, how nice it would be here. We might 
+lead such a pleasant life. This is the most perfectly appointed establishment such beautiful grounds, flowers, 
+and fruits ; indeed, all that heart could wish ; such delightful dinners, such pleasant drives, such jolly talks, such 
+charming people; but this horrid war poisons everything. 
+</p>
+</letter>

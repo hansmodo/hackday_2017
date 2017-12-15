@@ -1,0 +1,31 @@
+<letter id="gwa4489">
+<recipient first="William" last="Irvine" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I can easily conceive the disappointment and mortification you have suffered, upon finding the flattering 
+prospects of filling your line so unexpectedly blasted, 
+by the anxious sensations I have experienced on the 
+same subject. If what has been so often urged and 
+repeated will not excite the States to the most strenuous exertions, in completing the Continental battalions, 
+I almost despair of success from any thing I can add to 
+my former representations, arguments, and entreaties. 
+</p><p>
+This however should not relax our unremitting endeavours to serve our country to the extent of our abilities 
+in every possible way. 
+</p><p>
+The desire you express for active service is very 
+commendable. I beg you will be persuaded, that I 
+have not the least inclination to restrain so laudable a 
+passion. You will therefore be at liberty to attempt 
+to rouse the spirit of the country, and put yourself at 
+the head of the cavalry, in the manner you propose. 
+I sincerely 'wish your efforts may be crowned with 
+success. If the State has not already appointed a 
+general officer to command the State troops, destined 
+for the southern service, I could wish these troops might also be put under your orders. Possibly it might be well to present an offer of your services, and 
+to intimate that you have my consent to accept this command, if the State should think proper to confer it upon you. I am, &,c. 
+</p>
+</letter>

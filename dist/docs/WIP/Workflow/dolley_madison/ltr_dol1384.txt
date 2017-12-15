@@ -1,0 +1,28 @@
+<letter id='dol1384'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1384'>
+<recipient first='Anna' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=washington" rel="city">WASHINGTON</a>, May 12, <a href="/results.php?year=1812">1812</a>. 
+</p><p>
+MY DEAR <a href="/results.php?tla=apc" rel="sibling met">Anna</a>, John Randolph has been firing away at the " House " this 
+morning against the declaration of war, but we think it will have little effect. I 
+told you of the Hornet and all the news it brought. We have nothing among our 
+selves worth repeating. Lucy writes often and is still delighted with Kentucky ; our 
+friends in Virginia are all well. My dear husband is overpowered with business, but 
+is in good health. We had all the heads of departments here yesterday to dinner, with their wives. 
+</p><p>
+I will write you, dear <a href="/results.php?tla=apc" rel="sibling met">Anna</a>, every day that I can take up my pen, and am already 
+prepared with a room, and every sisterly attention for your husband ; he will be 
+here, I hope, in time to give his vote for war. However, I may be mistaken, and that dreaded epoch may be some distance off. 
+</p><p>
+Payne is in <a href="/results.php?city=baltimore" rel="city">Baltimore</a> yet, and as much admired and respected as you could wish. 
+He writes me that Mrs. Patterson and Mrs. Bonaparte are very kind to him, and 
+he is invited out all the time. We intend to send him in a few months to Princeton. 
+Kiss the sweet girls and boys for me, and sleep in peace, my dear sister ; Heaven will 
+preserve you and yours as you trust in its great power. 
+</p><p>
+Ever your own 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY</a>. 
+</p></letter></letter>

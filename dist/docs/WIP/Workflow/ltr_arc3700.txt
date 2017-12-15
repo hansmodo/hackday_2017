@@ -1,0 +1,64 @@
+<letter id="arc3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p><p>
+<a href='/results.php?city=west point' rel='city origin'>West Point</a>, 	<a rel='day origin' value='7'>7</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I received your Excellency's letter of yesterday, 
+and am very glad that you have ordered up the 
+troops which are to compose the garrison, as it is 
+very necessary they should be here, that things may 
+be got into some kind of order before the winter. 
+At present, they are very much deranged. The laying in a proper stock of fire-wood is a very heavy, 
+but a very essential business, and the militia, which 
+have been employed in cutting it, I am told, have 
+done little more than supply the post at <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>, 
+and are very little ahead. I expect a report of the 
+quantity to-day from Colonel Hughes, to whom I 
+have recommended to allot them a moderate task per 
+day, as the best means to make them most useful. 
+</p><p>
+The magazine of provisions is very nearly exhausted; thirty barrels only of salted meat on hand, exclusive of what is in the works (about five days' for 
+the troops posted in them), and no cattle, and the 
+men have been some days reduced to three quarters 
+of a pound of flour. I expect, however, two hundred 
+barrels of that article to-day, and have written to 
+Colonel Hay (to be laid before the Legislature of 
+this State), very pressingly, to have an immediate 
+and ample supply of provisions thrown in, as it may 
+not be possible to do it some time hence, from the 
+state the river is frequently in, about the beginning 
+of winter. 
+</p><p>
+I directed Colonel Livingston to collect and send 
+up here all the boats that were not necessary below, 
+provided they had not been ordered there by your Excellency for some particular purpose. His answer 
+is, that they were ordered there for transporting the 
+cannon, in case it became necessary to evacuate the 
+posts he commands. They will therefore remain there 
+unless I have your directions to the contrary j hut I 
+must beg leave to suggest to your Excellency that, 
+after the intention of the enemy becomes apparent 
+with respect to them, it will most probably be too 
+late to evacuate them with any probability of saving 
+the cannon and stores. If they be evacuated before 
+their intention is discovered, it will be in their power 
+to occupy them, after they may have failed in an 
+attempt upon this place. I find some heavy brass 
+field-artillery here, which is not, I suppose, intended 
+for garrison use, and had better be removed. Some 
+repairs have been making upon the carriages, but 
+that might as well be done anywhere else. The 
+Pennsvlvania brigade shall march as soon as the 
+other troops arrive. 
+</p><p>
+The times of the militia begin to expire on the 
+14th, and will all be expired on the 24th. I have 
+not heard from Major Tallmadge, nor have any accounts from <a href='/results.php?city=new york' rel='city'>New York</a> by any other way. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=arc" rel="me">Arthur St. Clair</a>. 
+</p>
+</letter>

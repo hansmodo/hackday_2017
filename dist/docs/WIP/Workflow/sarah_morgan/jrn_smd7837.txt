@@ -1,0 +1,39 @@
+<letter id="smd7837">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>] [<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana]
+</p><p>
+Here I am, and still alive, having wakened but once in the night, and that only in consequence of Louis 
+and Morgan crying; nothing more alarming than that. I ought to feel foolish ; but I do not. I am glad 
+I was prepared, even though there was no occasion for it. 
+</p><p>
+While I was taking my early bath, Lilly came to the bath-house and told me through the weather-boarding of another battle. <a href='/results.php?tla=tjj' rel=''>Stonewall Jackson</a> has 
+surrounded <a href='/results.php?tla=gbm' rel=''>McClellan</a> completely, and victory is again ours. This is said to be the sixth battle he has 
+fought in twenty days, and they say he has won them all. And the Seventh Regiment distinguished 
+itself, and was presented with four cannon on the battlefield in acknowledgment of its gallant conduct! 
+Gibbes belongs to the "ragged howling regiment that rushed on the field yelling like unchained devils 
+and spread a panic through the army," as the Northern papers said, describing the battle of Manassas. 
+Oh, how I hope he has escaped ! 
+</p><p>
+And they say "Palmerston has urged the re- cognition of the Confederacy, and an armed intervention on our side." Would it not be glorious? Oh, 
+for peace, blessed peace, and our brothers once more ! Palmerston is said to have painted Butler as the 
+vilest oppressor, and having added he was ashamed to acknowledge him of Anglo-Saxon origin. Perhaps 
+knowing the opinion entertained of him by foreign nations, caused Butler to turn such a somersault. For 
+a few days before his arrival here, we saw a leading article in the leading Union paper of <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>, 
+threatening us with the arming of the slaves for our extermination if England interfered, in the same 
+language almost as Butler used when here ; three days ago the same paper ridiculed the idea, and said such 
+a brutal, inhuman thing was never for a moment thought of, it was too absurd. And so the world goes ! 
+We all turn somersaults occasionally. 
+</p><p>
+And yet, I would rather we would achieve our independence alone, if possible. It would be so much 
+more glorious. And then I would hate to see England conquer the North, even if for our sake ; my love 
+for the old Union is still too great to be willing to see 
+it so humiliated. If England would just make <a href='/results.php?tla=abl' rel=''>Lincoln</a> come to his senses, and put an end to all this 
+confiscation which is sweeping over everything, make him agree to let us alone and behave himself, 
+that will be quite enough. But what a task! If it were put to the vote to-morrow to return free and 
+unmolested to the Union, or stay out, I am sure Union would have the majority; but this way, to 
+think we are to be sent to Fort Jackson and all the other prisons for expressing our ideas, however harm 
+less, to have our houses burned over our heads, and all the prominent men hanged, who would be eager 
+for it? unless, indeed, it was to escape even the greater horrors of a war of extermination. 
+</p><p>
+</letter>

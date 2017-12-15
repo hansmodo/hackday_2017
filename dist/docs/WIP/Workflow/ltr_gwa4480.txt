@@ -1,0 +1,64 @@
+<letter id="gwa4480">
+<recipient first="Nathanael" last="Greene" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+The difficulties, which you daily encounter and surmount with your small force, add not a little to your 
+reputation ; and I am pretty well assured, that, should 
+you be obliged finally to withdraw from South Carolina 
+and even from North Carolina, it will not be attributed 
+to your want either of abilities or of exertion, but to 
+the true cause, the want of means to support the war 
+in them. I feel for your mortification at the loss of the 
+day before Camden, after it seemed so much in your 
+favor; but I hope you will have found, that the enemy 
+suffered severely, as in their publication of the affair in 
+<a href='/results.php?city=new york' rel='city'>New York</a> they confess the loss of two hundred. The 
+reduction of Fort Watson does honor to <a href='/results.php?tla=frm' rel='co-worker'>General Marion</a> and Colonel Lee. 
+</p><p>
+I have lately had an interview with <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> at Weathersfield. Our affairs were very attentively considered in every point of view, and it was 
+finally determined to make an attempt upon <a href='/results.php?city=new york' rel='city'>New York</a> 
+with its present garrison, in preference to a southern 
+operation, as we had not the decided command of the 
+water. You will readily suppose the reasons, which 
+induced this determination, were the inevitable loss of 
+men from so long a march, more especially in the approaching hot season, and the difficulty, I may say impossibility, of transporting the necessary baggage, artillery, and stores by land. If I am supported as I 
+ought to be by the neighbouring States in this operation, which you know has always been their favorite 
+one, I hope that one of these consequences will follow, 
+either that the enemy will be expelled from the most valuable position which they hold upon the continent, or be obliged to recall part of their force from the 
+southward to defend it. Should the latter happen, you 
+will be most essentially relieved by it. The French 
+troops will begin their march this way as soon as certain circumstances will admit. I can only give you the 
+outlines of our plan. The dangers, to which letters are 
+exposed, make it improper to commit to paper the 
+particulars ; but as matters ripen I will keep you as 
+well informed as circumstances will allow. 
+</p><p>
+A detachment of between fifteen hundred and two 
+thousand men sailed from <a href='/results.php?city=new york' rel='city'>New York</a> about the 13th of 
+May. I advised <a href='/results.php?tla=frs' rel='co-worker met'>Baron Steuben</a> of this, and desired 
+him to communicate it to you. I presume they will 
+either stop in the Chesapeake Bay or Cape Fear River, 
+unless the operations of the Spaniards in the Floridas 
+should call for reinforcement to that quarter. But I 
+can hardly flatter myself, that they will attend to the 
+preservation of St. Augustine. We are told that Pensacola has fallen. 
+</p><p>
+The <a href='/results.php?tla=laf' rel='co-worker met friend'>Marquis De Lafayette</a> informed me, that about 
+eight hundred recruits would be ready to march from 
+Virginia by the latter end of May. I have no certain 
+accounts from Maryland lately ; but I was told by a 
+gentleman from thence, that about four hundred might 
+be expected to march in April. I make no doubt but 
+you are kept regularly advised by the superintending 
+officers. I have not heard, that <a href='/results.php?tla=atw' rel='co-worker'>General Wayne</a> had 
+left Yorktown, but I have reason to believe he has 
+gone before this time. If no fresh discontents arise 
+among those troops, the detachment with Wayne will 
+be a most valuable acquisition to you. They are chiefly 
+the old soldiers, and completely furnished with every 
+necessary. I am, &,c. 
+</p>
+</letter>

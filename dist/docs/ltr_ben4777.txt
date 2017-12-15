@@ -1,0 +1,29 @@
+<letter id="ben4777">
+<recipient first="Nevil" last="Maskelyne" type="individual"/>
+<p>Craven Street, [<a href='/results.php?city=london' rel='city origin'>London</a>], <a rel="month origin" value="2">February</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have just received a letter from Mr. Winthrop, dated 
+December 7th, containing the following account, viz. 
+"On Thursday, the Qth of November, I had an opportunity of observing a transit of Mercury. I had carefully adjusted 
+my clock to the apparent time, by correspondent altitudes of 
+the Sun, taken with the quadrant for several days before, and 
+with the same reflecting telescope as I used for the transit of 
+Venus. I first perceived the little planet making an impression on the sun's limb at 2 h 52' 41" ; and he appeared wholly 
+within at 53' 58" apparent time. The sun set before the planet 
+reached the middle of his course ; and for a considerable time 
+before sunset, it was so cloudy, that the planet could not be 
+discerned. So that I made no observations of consequence, 
+except that of the beginning, at which time the sun was 
+perfectly clear. This transit completes three periods of 
+forty-six years, since the first observation of Gassendi at 
+Paris, in <a href='/results.php?year=1631'>1631</a>." 
+</p><p>
+I am, Sir, with great esteem, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

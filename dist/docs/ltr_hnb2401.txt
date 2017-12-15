@@ -1,0 +1,56 @@
+<letter id="hnb2401">
+<recipient first="Aaron" last="Burr" type="individual"/>
+<p>
+<a rel="month origin" value="12">December</a> <a rel="day origin" value="18">21st</a>, <a href="/results.php?year=1805" rel="origin">1805</a>. 
+</p><p>
+SIR : The receipt of your letter, by post, has been delayed until my return home from <a href="/results.php?city=baltimore" rel="city">Baltimore</a>. While it enables me to return my acknowledgments for the honor of your kind remembrance, it affords the opportunity of 
+expressing my extreme regret that we were absent at the time of your intended visit. This disappointment can 
+not be removed but by another of like condescension, which may, in some measure, compensate us for the past. 
+</p><p>
+The mention, sir, you have made of the attention you were pleased to give to young Mr. Harte, on my recommendation, would alone make it my duty to apologize for having obtruded upon your notice a man whose acts, as I 
+have heard since he left this, have qualified him for no better situation than that of a jail. But my belief that 
+he was really the son of the gentleman in Europe I took him for, which turns out to be correct, though he is discarded by his father, and the confidence and credit obtained from me, through a letter from his father, which I supposed authentic, by which I have lost four thousand dollars : these circumstances, sir, your liberality will 
+regard as some ground of excuse for the liberty I had taken with you. I am now about to venture another, on 
+my own account, to which I presume to request an answer at your first convenient leisure. 
+</p><p>
+Estimating the value of your reflections on the view you have taken of the western country, and particularly 
+of Louisiana, I have thought it of great importance to obtain your sentiments to confirm or correct the irresistible attraction my friend, Mr. James Brown, assures me I should follow, to settle in his vicinity, if I would but 
+visit that country. His words are, my " removal would be inevitable " an expression, truly, strong enough, when 
+viewed through my regard for his friendship, and my confidence in his judgment, to endanger my repose on 
+this island, where for eight years I have dreamed and hoped I should rest my bones forever. 
+</p><p>
+But the interests of a growing family, I feel, will summon me again into active life, to the resumption of my 
+former profession of the bar, mercantile or other enterprise, if I should find an opportunity of selling or letting 
+my establishment here to a gentleman who could, with out a sacrifice, give me a price by which I should not lose 
+too much of the money it stands me in, say $50,000 ; or afford me a rent of $2,500, which, by proper management, it might be made to realize without paying, at the 
+highest rate, half the yearly value of the extensive and numerous conveniences on the place, with a detail of 
+which I forbear to trouble you, observing, merely, that there is now in good order, say two hundred acres, which, 
+with twenty well-managed hands, employed in raising hemp, would afford a handsome profit. In either way, 
+if I could sell or leave the place, I would move forward with a firmer confidence in any undertaking which your sagacity might open to profit and fame. 
+</p><p>
+Having thus advised you of my desire and motives to pursue a change of life, to engage in any thing which 
+may suit my circumstances, I hope, sir, you will not regard it indelicate in me to observe to you how highly I 
+should be honored in being associated with you, in any contemplated enterprise you would permit me to participate in. The amount of means I could at first come forward with would be small. You might command my services as a lawyer, or in any other way you should suggest as being most useful. I could, I have no doubt, unite 
+the talents and energy of two of my particular friends, who would share in any fortune which might follow 
+you. The gentlemen alluded to are Mr. Dudley Woodbridge, junior, of Marietta, and Mr. Devereux, of Baltimore, a ci de-vant general in the Irish rebel army.
+</p><p>
+Not presuming to know or guess at the intercourse, if any, subsisting between you and the present Government, 
+but viewing the probability of a rupture with Spain, the claim for action the country will make upon your talents, 
+in the event of an engagement against, or subjugation of, any of the Spanish Territories, I am disposed in the 
+confidential spirit of this letter to offer you my friends, and my own services to co-operate in any contemplated 
+measures in which you may embark. 
+</p><p>
+In making this proposition, I hope, Mr, you will feel that it flows in a conviction of your judgment and talents, 
+from a quarter that ever did and always will prefer to seek fortune and fame through the call, rather than the coercion, of any government. 
+</p><p>
+A further development of my views would at present aggravate the trespass on your time hy this letter, too 
+much prolonged, and would besides, I hope, be a guarantee of the perfect confidence you may repose in my 
+integrity in any communication you may be pleased to honor me with. 
+</p><p>
+I shall await with much anxiety the receipt of your reply, and with warm interest in your success and prosperity, 
+</p><p>
+I remain, dear sir, your obliged and obedient servant, 
+</p><p>
+<a href="/results.php?tla=hnb" rel="me">H. BLENNERHASSETT</a>. 
+</p>
+</letter>

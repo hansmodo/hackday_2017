@@ -1,0 +1,18 @@
+<letter id='abl452'>
+<recipient first='John' last='Schofield' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a> D.C.<br/>
+JULY 20, <a href="/results.php?year=1863">1863</a>
+</p><p>
+MAJOR GENERAL JOHN M. SCHOFIELD.
+</p><p>
+MY DEAR GENERAL:--I have received and read your letter of the 14th of
+July.
+</p><p>
+I think the suggestion you make, of discontinuing proceedings against Mr. McKee, a very proper one. While I admit that there is an
+apparent impropriety in the publication of the letter mentioned, without my consent or yours, it is still a case where no evil could result, and which I am entirely willing to overlook.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

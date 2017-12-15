@@ -1,0 +1,20 @@
+<letter id="mbc7588">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mrs. Randolph came. With her were the 
+Freelands, Rose and Maria. The men rave over Mrs. Randolph's beauty; called her a magnificent specimen of 
+the finest type of dark-eyed, rich, and glowing Southern woman-kind. Clear brunette she is, with the reddest lips, 
+the whitest teeth, and glorious eyes ; there is no other word for them. Having given Mrs. Randolph the prize among 
+Southern beauties, Mr. Clayton said Prentiss was the finest Southern orator. Mr. Marshall and Mr. Barnwell dissented; they preferred William C. Preston. Mr. Chesnut had found Colquitt the best or most effective stump orator. 
+</p><p>
+Saw Henry Deas Nott. He is just from Paris, via New York. Says New York is ablaze with martial fire. At no 
+time during the Crimean war was there ever in Paris the show of soldiers preparing for the war such as he saw at 
+New York. The face of the earth seemed covered with marching regiments. 
+</p><p>
+Not more than 500 effective men are in Hampton's Legion, but they kept the whole Yankee army at bay until 
+half -past two. Then just as Hampton was wounded and half his colonels shot, Cash and Kershaw (from Mrs. Smith 
+Lee audibly, " How about Kirby Smith? ") dashed in and not only turned the tide, but would have driven the fugitives into Washington, but <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> recalled them. Mr. Chesnut finds all this very amusing, as he posted many of 
+the regiments and all the time was carrying orders over the field. The discrepancies in all these private memories amuse 
+him, but he smiles pleasantly and lets every man tell the tale in his own way. 
+</p>
+</letter>

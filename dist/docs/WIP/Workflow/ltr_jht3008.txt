@@ -1,0 +1,56 @@
+<letter id="jht3008">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="2">February</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received your two favors of the 8th instant ; 
+have also received, per Bacon, the remittance for the 
+expenses of the French gentlemen to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+I had no design to have ever called on you for the 
+money paid our troops under your immediate command, but to have accounted with the Congress, had 
+we not been unexpectedly drained of cash, and had 
+pressing calls upon us two or three ways at once. 
+That to the northward could not possibly have been 
+answered, but for the seasonable arrival of the continental supply, just sufficient for that purpose. Our 
+other demands for the common service are many. 
+The men, for the short service with you, could not have inarched without some money, which they have, 
+I trust, wholly expended for necessary clothing, &c. 
+I therefore could have wished it had been in your 
+power to have remitted the sum advanced by our 
+Pay-Table, but shall do every thing in my power, that 
+the common interest do not suffer. 
+</p><p>
+I am greatly concerned for the scarcity of powder 
+and arms. We have not half a sufficiency for our 
+selves, as the circumstances may be ; yet, anxious to 
+furnish you, for the common good, with every supply 
+in our power, have ordered a quantity of gunpowder 
+lately arrived at Bedford, in Dartmouth, carted to and 
+now lying at <a href='/results.php?city=providence' rel='city'>Providence</a>, on account of this Colony, 
+to be sent you, with all possible expedition. Three 
+thousand weight of this we conclude to order to Major Thompson, Agent .for the Massachusetts Colony, 
+on account of money he supplied to Mr. Shaw, the 
+importer, for that end, and you will consult him or 
+them concerning the use of it. I suppose the whole 
+to be upwards of six thousand weight ; the residue, 
+on account of this Colony, for which shall expect 
+payment, or to be replaced, as shall be hereafter 
+chosen by us. I shall send you this week twenty or 
+thirty stands of good arms. I have not certain ad 
+vice from every quarter, but I believe our three 
+regiments are all on the march to your camp, except 
+those already arrived there. 
+</p><p>
+I have much more agreeable intelligence from General Lee, and the <a href='/results.php?city=new york' rel='city'>New York</a> Congress, than I expected. I cannot but hope propitious Heaven will 
+smile success on that most timely and judicious exertion of your Excellency, to prevent our enemies possessing themselves of that important station. I 
+have the pleasure to inclose you a copy of General Lee's letter. In compliance with his request, we have already sent orders to Colonel Ward to repair again 
+forthwith to <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+I am, Sir, with the greatest esteem and regard, 
+your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

@@ -1,0 +1,41 @@
+<letter id='thj1464'>
+<recipient first='' last='De Vergennes' type='individual'/>
+<p>
+TO THE COUNT DE VERGENNES.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, October 11, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+I have the honor of enclosing to your Excellency, a report of the voyage
+of an American ship, the first which has gone to China. The circumstance
+which induces Congress to direct this communication, is the very
+friendly conduct of the consul of his Majesty at Macao, and of the
+commanders and other officers of the French vessels in those seas. It
+has been with singular satisfaction, that Congress have seen these added
+to the many other proofs of the cordiality of this nation towards our
+citizens. It is the more pleasing, when it appears in the officers of
+government, because it is then viewed as an emanation of the spirit of
+the government. It would be an additional gratification to Congress, in
+this particular instance, should any occasion arise of notifying
+those officers, that their conduct has been justly represented to
+your Excellency, on the part of the United States, and has met
+your approbation. Nothing will be wanting, on our part, to foster
+corresponding dispositions in our citizens, and we hope that proofs
+of their actual existence have appeared, and will appear, whenever,
+occasion shall offer. A sincere affection between the two people, is the
+broadest basis on which their peace can be built.
+</p><p>
+It will always be among the most pleasing functions of my office, to
+be made the channel of communicating the friendly sentiments of the two
+governments. It is additionally so, as it gives me an opportunity of
+assuring your Excellency of the high respect and esteem, with which I
+have the honor to be,
+</p><p>
+your Excellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

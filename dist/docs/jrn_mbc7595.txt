@@ -1,0 +1,33 @@
+<letter id="mbc7595">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='26'>26th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. The Terror has full swing at the North now. All the papers favorable to us have been suppressed. 
+How long would our mob stand a Yankee paper here? But newspapers against our government, such as the Ex 
+aminer and the Mercury flourish like green bay-trees. A man up to the elbows in finance said to-day: " Clayton's 
+story is all nonsense. They do sometimes pay out two millions a week ; they paid the soldiers this week, but they don't 
+pay the soldiers every week. " "Not by a long shot", cried a soldier laddie with a grin. 
+</p><p>
+Why do you write in your diary at all, some one said to me, " if, as you say, you have to contradict every day 
+what you wrote yesterday? " " Because I tell the tale as it is told to me. I write current rumor. I do not vouch for anything. 
+</p><p>
+We went to Pizzini's, that very best of Italian confectioners. From there we went to Miss Sally Tornpkins's 
+hospital, loaded with good things for the wounded. The men under Miss Sally's kind care Tboked so clean and comfortable cheerful, one might say. They were pleasant and nice to see. One, however, was dismal in tone and aspect, 
+and he repeated at intervals with no change of words, in a forlorn monotone : "What a hard time we have had since 
+we left home" But nobody seemed to heed his wailing, and it did not impair his appetite. 
+</p><p>
+At Mrs. Toombs's, who was raging; so anti-Davis she will not even admit that the President is ill. " All humbug." "But what good could pretending to be ill do him? " "That reception now, was not that a humbug? 
+Such a failure. Mrs. Reagan could have done better than that." 
+</p><p>
+Mrs. Walker is a Montgomery beauty, with such magnificent dresses. She was an heiress, and is so dissatisfied 
+with Richmond, accustomed as she is to being a belle under different conditions. As she is as handsome and well 
+dressed as ever, it must be the men who are all wrong. 
+</p><p>
+Did you give Lawrence that fifty-dollar bill to go out and change it? " I was asked. " Suppose he takes himself 
+off to the Yankees. He would leave us with not too many fifty-dollar bills." He is not going anywhere, however. I 
+think his situation suits him. That wadded belt of mine, with the gold pieces quilted in, has made me ashamed more 
+than once. I leave it under my pillow and my maid finds it there and hangs it over the back of a chair, in evidence 
+as I reenter the room after breakfast. When I forget and leave my trunk open, Lawrence brings me the keys and tells 
+me, " You oughten to do so, Miss Mary." Mr. Chesnut leaves all his little money in his pockets, and Lawrence says 
+that's why he can't let any one but himself brush Mars Jeems's clothes. 
+</p>
+</letter>

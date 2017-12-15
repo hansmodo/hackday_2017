@@ -1,0 +1,32 @@
+<letter id="mbc7735">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Began my regular attendance on the Wayside Hospital. To-day we gave wounded men, as they 
+stopped for an hour at the station, their breakfast. Those who are able to come to the table do so. The badly wounded 
+remain in wards prepared for them, where their wounds are dressed by nurses and surgeons, and we take bread and butter, beef, ham, and hot coffee to them. 
+</p><p>
+One man had hair as long as a woman's, the result of a vow, he said. He had pledged himself not to cut his hair 
+until peace was declared and our Southern country free. Four made this vow together. All were dead but himself. 
+One was killed in Missouri, one in Virginia, and he left one at Kennesaw Mountain. This poor creature had had one 
+arm taken off at the socket. When I remarked that he was utterly disabled and ought not to remain in the army, he 
+answered quietly, " I am of the First Texas. If old <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> can go with one foot I can go with one arm, eh ? ! 
+</p><p>
+How they quarreled and wrangled among themselves Alabama and Mississippi, all were loud for <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>, 
+save and except the long-haired, one-armed hero, who cried at the top of his voice : l Oh ! you all want to be kept in 
+trenches and to go on retreating, eh? " " Oh, if we had had a leader, such as Stonewall, this war would have been 
+over long ago! What we want is a leader! " shouted a 
+cripple. 
+</p><p>
+They were awfully smashed-up, objects of misery, wounded, maimed, diseased. I was really upset, and came 
+home ill. This kind of thing unnerves me quite. 
+</p><p>
+Letters from the army. <a href='/results.php?tla=usg' rel=''>Grant's</a> dogged stay about Richmond is very disgusting and depressing to the spirits. 
+Wade Hampton has been put in command of the Southern cavalry. 
+</p><p>
+A Wayside incident. A pine box, covered with flowers, 
+was carefully put upon the train by some gentlemen. Isabella asked whose remains were in the box. Dr. Gibbes re 
+plied : "In that box lies the body of a young man whose family antedates the Bourbons of France. He was the last 
+Count de Choiseul, and he has died for the South." Let his memory be held in perpetual remembrance by all who 
+love the South! 
+</p>
+</letter>

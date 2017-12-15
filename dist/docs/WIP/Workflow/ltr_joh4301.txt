@@ -1,0 +1,45 @@
+<letter id="joh4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Sir, 
+</p><p>
+Having received information that you intended to 
+honor this State with a visit, and wishing personally 
+to show you every mark of attention which the most 
+sincere friendship can induce, I beg the favor of your 
+making my house the place of your residence while 
+you shall remain in <a href='/results.php?city=boston' rel='city'>Boston</a>. I could wish that the 
+accommodations were better suited to a gentleman of 
+your respectability; but you may be assured that 
+nothing on my part shall be wanting to render them 
+as agreeable as possible. 
+</p><p>
+As Governor of the Commonwealth, I feel it to be 
+my duty to receive your visit with such tokens of 
+respect as may answer the expectations of my constituents, and may in some measure express the high 
+sentiments of respect they feel towards you. I have 
+therefore issued orders for proper escorts to attend 
+you ; and Colonel Hall, Deputy Adjutant-General, will 
+wait upon you at Worcester, and will inform you of 
+the disposition I have made of the troops at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, under the command of General Brooks, and 
+request that you would be so obliging as to pass 
+that way to the town, where you will receive such 
+other tokens of respect from the people, as will serve 
+further to evince how gratefully they recollect your 
+exertions for their liberties, and their confidence in 
+you as President of the United States of America. 
+</p><p>
+The gentlemen of the Council will receive you at 
+<a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, and attend you to town. I should be 
+obliged to you, on the return of this express, to let 
+me know when you propose to be in <a href='/results.php?city=boston' rel='city'>Boston</a>, and as 
+near as you can the time of the day. I have the 
+honor to be, with every sentiment of esteem and respect. Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joh" rel="me">John Hancock</a>.
+</p>
+</letter>

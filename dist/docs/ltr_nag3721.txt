@@ -1,0 +1,53 @@
+<letter id="nag3721">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, on the <a href='/results.php?city=santee' rel='city origin'>High Hills of Santee</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Since I wrote your Excellency at Little River, near 
+Ninety Six, I have been favored with your despatch 
+of June the 1st. It affords me great pleasure to 
+hear that an attack is meditating against <a href='/results.php?city=new york' rel='city'>New York</a>. 
+This measure no doubt will create a powerful diversion in favor of this country ; and I wish most ardently that the Northern States may enable you to complete its reduction. But I confess this is so important an object, that I can hardly flatter myself with 
+so fortunate an event. 
+</p><p>
+The copy of my former letters to Congress will inform your Excellency of the measures I took for the 
+defence of Virginia; and inclosed is a copy of my letter to Congress, giving an account of our movements in this quarter, since we raised the siege of 
+Ninety Six. I hope the steps I took both with respect to Virginia and here, will meet your approbation. The Marquis has conducted the operations in 
+Virginia, as far as I can learn, with great good conduct, and I hope Congress will give him a testimony 
+of their good opinion of it. When I found Virginia 
+was going to be attacked in so formidable a manner, 
+I halted all the troops coming to the southward, and 
+determined to struggle with the little force I had in 
+the best manner I could, until I could learn better 
+the enemy's intentions in that quarter. I thought, 
+upon the whole, it was much better to keep up the 
+war here, than to give up three States in an attempt 
+to afford Virginia such an ineffectual reenforcement, 
+as I could have carried to her aid, which must have 
+been greatly reduced by a march of at least four 
+hundred miles. Besides, if I had left this country, 
+the enemy would have been able to detach to Virginia a far greater force than I could have carried 
+there ; and the efforts of the militia in this quarter, 
+for want of countenance, would have totally ceased. 
+All these considerations determined me in the line 
+of conduct I pursued ; and I hope time will show the 
+measure to be warranted from every principle of good 
+policy. 
+</p><p>
+The late European intelligence, I am apprehensive, 
+will determine the enemy upon a new plan of conducting the war. For, instead of attempting to overrun the whole country, I expect they will make an 
+effort to complete the reduction of two States, and 
+secure the possession of <a href='/results.php?city=new york' rel='city'>New York</a>. Intelligence, 
+therefore, from the northward will be important. 
+Should your Excellency get any information by which 
+their intentions may be explained, I beg you will 
+forward it with all possible despatch. I am with great 
+respect and regard, 
+</p><p>
+Your Excellency's obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

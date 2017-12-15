@@ -1,0 +1,60 @@
+<letter id="jod3620">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='1'>1</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YESTERDAY the President sent his carriage for me to 
+go with the family to the theatre. The Rage and 
+the Spoiled Child were the two pieces. It rained 
+and the house was not full. I thought I perceived a 
+little mortification. Mr. George Washington and his 
+fair lady were with us. 
+</p><p>
+Yours of the 21st gives me a satisfactory account 
+of farming. I think I would engage Billings if I 
+could. I must leave it to you to give him what you 
+think fit. There is no vessel up for <a href='/results.php?city=boston' rel='city'>Boston</a>, and seeds 
+are very scarce and uncommonly dear. 
+</p><p>
+As to the subject of yours of the 20th, I am quite 
+at my ease. I never felt less anxiety when any considerable change lay before me. Aut transit aut iinit. 
+I transmigrate or come to an end. The question is 
+between living at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> or at <a href='/results.php?city=quincy' rel='city'>Quincy</a> ; between 
+great cares and small cares. I have looked into my 
+self and see no meanness nor dishonesty there. I see 
+weakness enough, but no timidity. I have no con 
+cern on your account but for your health. A woman 
+can be silent, when she will. 
+</p><p>
+After all, persuasion may overcome the inclination 
+of the chief to retire. But, if it should, it will 
+shorten his days, I am convinced. His heart is set 
+upon it, and the turpitude of the Jacobins touches 
+him more nearly than he owns in words. All the 
+studied efforts of the federalists to counterbalance 
+abuse by compliment don t answer the end. 
+</p><p>
+I suspect, but don t know, that Patrick Henry, <a href='/results.php?tla=thj' rel='colleague met'>Mr. Jefferson</a>, <a href='/results.php?tla=joj' rel='colleague met'>Mr. Jay</a>, and <a href='/results.php?tla=alh' rel='colleague met'>Mr. Hamilton</a>, will all be voted 
+for. I ask no questions ; but questions are forced 
+upon me. I have had some conversations purposely 
+sought, in order, as I believe, indeed as I know, to 
+convince me that the federalists had no thoughts of 
+overleaping the succession. The only question that 
+labors in my mind is, whether I shall retire with my 
+file-leader ? I hate to live in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> in summer, 
+and I hate still more to relinquish my farm. I hate 
+speeches, messages, addresses and answers, procla 
+mations, and such affected, studied, constrained 
+things. I hate levees and drawing rooms. I hate to 
+speak to a thousand people to whom I have nothing 
+to say. Yet all this I can do. But I am too old to 
+continue more than one, or at most more than two 
+heats, and that is scarcely time enough to form, con 
+duct and complete any very useful system. 
+</p><p>
+Electioneering enough we shall have. The en 
+closed scraps will shew specimens. 
+</p>
+</letter>

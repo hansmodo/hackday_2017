@@ -1,0 +1,49 @@
+<letter id="jol4945">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+I thank you my dear father for your kind favour of 
+yesterday, and again congratulate you upon the important intelligence from France. It seems to me to 
+have been her interest to offer such generous terms to 
+America, as to ensure her prompt acceptance, and to 
+avoid every thing which might give room for deliberation and delay. If our embassadors in France 
+were plenipotentiaries, the ratification comes of course. 
+If they were not, I think it is as little politic as generous to refuse an alliance with France in order to 
+accept one upon equal terms with Great Britain. 
+</p><p>
+There is still a prejudice in the minds of many 
+people in favour of the latter, which should be wisely 
+counteracted, or that power will gain by artful policy 
+what she has lost in the field of battle. The intelligence seems to diffuse sincere joy. We only wait 
+for leave from Congress to signify that of the army, 
+by sounds which will reach the ears of the enemy. 
+</p><p>
+My wife writes that my uncle is at Marseilles ; his 
+stay there depends entirely on my aunt. Harry at 
+<a href='/results.php?city=richmond' rel='city'>Richmond</a>, and wrote letters which I have never 
+received. 
+</p><p>
+Mrs. Savage died at Brompton, three weeks before 
+the date of the letter, which is 17th FeV, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Lady Will m Campbell had paid my wife a visit. 
+What was the end of that unexpected civility, does 
+not strike me. 
+</p><p>
+Your grand-daughter and Mr. Manning's family 
+were well, and desired their love. 
+</p><p>
+It has been my ill fortune to write all my letters for 
+some time past in very great haste, and this is the 
+case at present, when I would particularly have wished 
+to write deliberately. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+P.S. I am desired to request that you will send 
+more blank forms of oaths. 
+</p>
+</letter>

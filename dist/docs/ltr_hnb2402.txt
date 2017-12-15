@@ -1,0 +1,25 @@
+<letter id="hnb2402">
+<recipient name="Messrs. Jos. S. Lewis & Co." type="group"/>
+<p>
+<a href="/results.php?city=lexington" rel="city origin">Lexington</a>, KY., <a rel="month origin" value="10">Oct.</a> <a rel="day origin" value="18">18th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+MESSRS. Jos. S. LEWIS & Co., <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>: 
+</p><p>
+DEAR SIRS : Having found in this place a most valuable opportunity of participating with some friends of the 
+first respectability and resources in the Union, in a commercial and land speculation, the prospect of effecting 
+which depends on my obtaining a credit with you, or some other friends, for eight or ten thousand dollars, by 
+your honoring my drafts at sixty and ninety days, I feel no hesitation in resorting to your approved friendship for 
+my accommodation. In order to supply the deficit of my actual funds, under your management, in the stock, I can vouch for your receiving about one thousand pounds 
+Irish on my account, in the course of twelve months. But I can at any time give security on the vast estates, 
+and other property of <a href="/results.php?tla=joa" rel="">Joseph Alston</a>, Esq., of South Carolina, who is absolutely exempt from all manner of 
+incumbrance, and is the son-in-law of <a href="/results.php?tla=aab" rel="met colleague">Col. Burr</a>. 
+</p><p>
+In a case of such interest and importance, which, besides in the event of my success, will not be indifferent to 
+your mercantile concerns hereafter, I hope I need urge no further apology, for the first freedom of this kind I have ventured with you. 
+</p><p>
+I shall therefore expect your answer as soon as I can have it by post, directed to me at home ; and, in the mean time, I remain as I ever shall, dear sirs. 
+</p><p>
+Your faithful friend, <a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a> 
+P. S. I can not embark on an aid short of $8,000, but $10,000 would improve the concern I look for almost doubly. <a href="/results.php?tla=hnb" rel="me">H. B.</a> 
+</p>
+</letter>

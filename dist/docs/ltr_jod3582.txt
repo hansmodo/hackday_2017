@@ -1,0 +1,68 @@
+<letter id="jod3582">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='1'>1</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+CHEESEMAN has at length arrived, and I have received 
+my trunk in much better order than I expected. 
+</p><p>
+The people here are much cooler than they were 
+last week. The embargo begins to be felt by many 
+who have been the most noisy and turbulent. Speculation mingles itself in every political operation, and 
+many merchants have already made a noble spec of 
+the embargo by raising their prices ; but the foolish 
+tradesmen and laborers, who were so ready to follow 
+the heels of their scheming leaders, are now out of 
+employment, and will lose thirty dollars a head by 
+this embargo. If they had been taxed half the sum 
+to the most necessary and important measure, they 
+would have bitterly complained. I can see little benefit in the embargo, except that it may cool down the 
+courage of such kind of people. It may be expected 
+that we shall soon have a clamor against the renewal 
+of it, if not to have it repealed. 
+</p><p>
+The Assembly of Pennsylvania have this day 
+chosen a senator; Mr. James Ross, of Washington 
+county, in the place of Mr. Gallatin. 
+</p><p>
+A violent measure has been proposed in the House, 
+to sequester all debts due from American citizens to 
+British subjects. Such a motion will do no honor to 
+our country. Such laws are injurious to the debtor as 
+well as the creditor, for they cannot dissolve the con 
+tracts. It will not pass the House, and if it did, it 
+would stop in the Senate. 
+</p><p>
+We are rejoiced that the civic feast in <a href='/results.php?city=boston' rel='city'>Boston</a> succeeded no better. It is astonishing that Mr. A. should ever have thought of implicating the government in 
+so indecent and hostile a frolic. We have had an 
+incessant struggle all the winter to restrain the internperate ardor of the people out of doors and their too 
+accurate representatives in both houses. Too many 
+of our good federalists are carried away at times by 
+their passions, and the popular torrent, to concur in 
+motions arid countenance sentiments inconsistent with 
+our neutrality and tending directly to war. But I 
+hope we shall be able to make a stand against all 
+fatal attempts. 
+</p><p>
+I long to be at home, but I dare not ask leave to 
+go. The times are too critical for any man to quit 
+his post without the most urgent necessity. Ways 
+and means must be provided to defray the expenses 
+incurred, and I expect this will be put off till May. I 
+shall be very uneasy through this whole month, but 
+I must take patience. I hope <a href='/results.php?tla=jod' rel='me'>Mr. Adams</a>, of <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+the lawyer, is full of business and making his for 
+tune. I hear so seldom from him, that I must sup 
+pose him busy. 
+</p><p>
+Tell my dear mother that I hope to have the plea 
+sure of seeing her in the month of May. Love to 
+my brothers and sister and cousins, &c. 
+</p><p>
+I am most tenderly yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

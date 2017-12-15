@@ -1,0 +1,1627 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--joh
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Hancock
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="joh3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letters, Numbers Four and Five, and two other 
+letters not numbered, with the inclosures, have been 
+duly received and laid before the Congress. 
+</p><p>
+As there are sundry matters contained in your 
+letters, which are of great importance, and on which 
+the Congress;, before they come to a final determination, are desirous to have the advantage of your experience and knowledge, they have appointed three 
+of their members, namely, Mr. Lynch, <a href='/results.php?tla=ben' rel=''>Dr. Franklin</a>, 
+and Mr. Harrison, to wait on you, and confer with 
+you and the Governors of Connecticut and Rhode 
+Island, the Council of Massachusetts Bay, and the 
+President of the Convention of New Hampshire, to 
+whom I have wrote on the subject, by order of Congress, and such other persons as to the said Commit 
+tee shall seem proper, touching the most effectual 
+method of continuing, supporting, and regulating a 
+Continental Army. They will set out as soon as 
+possible, and expect to be with you by the 12th of 
+next month. 
+</p><p>
+I have the honor to be, with the greatest esteem, 
+Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+The Congress having this day received certain intelligence of the sailing of two north-country -built 
+brigs, of no force, from England, on the 11th of 
+August last, loaded with six thousand stand of arms, 
+and a very large quantity of powder and other stores 
+for Quebec, without convoy; and as it is of great 
+importance, if possible, to intercept them, I am ordered by the Congress to give you this information, 
+and to desire you immediately to apply to the Council of Massachusetts Bay for two armed vessels in 
+their service, and despatch the same, with a sufficient number of people, stores, and particularly a number of oars, in order, if possible, to intercept said 
+brigs and their cargoes, and secure the same for 
+the use of the Continent. It is also their desire, 
+that you give orders to the commanders of the vessels you send on this service, to seize and take any 
+other transports, laden with ammunition, clothing, or 
+other stores, for the use of the Ministerial Army or 
+Navy in America, which they may meet with, and 
+secure them in the most convenient places for the 
+purpose above mentioned; that you give the commander or commanders such instructions as are necessary, and also proper encouragement to the marines 
+and seamen that shall be sent on this enterprise ; 
+that the instructions you shall give be delivered to 
+the commander or commanders, sealed up, with orders 
+not to open the same until out of sight of land, on 
+account of secrecy. 
+</p><p>
+If the vessels in the service of the Massachusetts Bay can be readily obtained, you are to employ 
+them, and others, if you should think more necessary, to effect the purposes aforesaid if they can 
+not, you will employ such as can be soonest fitted 
+out. At the same time I am directed to inform you, 
+that the Rhode Island and Connecticut vessels of 
+force, if possible, will be sent directly after, to the 
+assistance of those you send out ; for which purpose 
+I write, by order of Congress, to those governments, 
+by this conveyance. 
+</p><p>
+For the encouragement of the men employed in 
+this service, I am to inform you that the Congress 
+have determined that^ on this occasion, the master, 
+officers, and seamen, shall be entitled to one half of 
+the value of the prizes by them taken, the wages 
+they receive from their respective Colonies notwithstanding. It is farther resolved, that the ships or 
+vessels of war, employed in this service, are to be 
+on the Continental risk and pay during their being 
+thus employed. 
+</p><p>
+For further intelligence I must refer you to the 
+inclosed, which I have not time to copy, as I am 
+ordered immediately to despatch the express. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. The inclosed please to order to be delivered to the Council of Massachusetts Bay. 
+</p>
+</letter><letter id="joh3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="12"> December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letter of the 28th of November, by Captain 
+Blewer, being received, was immediately laid before 
+Congress. 
+</p><p>
+By my letter of the 2d instant, which I hope you will in due time receive, you will perceive the Congress have, in a great measure, prevented your wishes, 
+having written to <a href='/results.php?city=new york' rel='city'>New York</a>, and given orders to 
+<a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> to supply you with, and to forward, 
+with all possible expedition, what cannon can be 
+spared. They have also directed <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> to 
+make diligent search for lead ; and, retaining so much 
+as may be wanted there, to send the remainder to 
+your camp. However, it is hoped the gentlemen you 
+have sent will expedite that business. 
+</p><p>
+By order of Congress, I forward a commission for <a href='/results.php?tla=hek' rel='colleague'>Mr. Knox</a>, who is appointed Colonel of the Regiment 
+of Artillery. The Congress also have relieved your 
+difficulties with respect to the two battalions of Marines, having ordered that the raising them out of 
+the army be suspended. It is the desire of Congress 
+that such a body of forces may be raised ; but their 
+meaning is, that it be in addition to the army voted; 
+and they expect you will think of proper persons to 
+command that corps, and give orders for enlisting 
+them wherever they may be found. 
+</p><p>
+The Congress are sensibly affected with your situation, and regret the backwardness of the troops to 
+re enlist. In addition to what I had the honor of 
+transmitting you the 2d instant, they have desired 
+me to inclose you a copy of a resolution passed yesterday, and to write to the Council of Massachusetts 
+Bay, the Convention of New Hampshire, and the 
+Governors of Rhode Island and Connecticut, acquainting  them with the present state of the army, and in 
+closing copies of the resolutions of this Congress 
+relative to your being empowered to call forth the 
+militia of those Governments on any emergency, and 
+requesting those Colonies to exert themselves in defence of our common liberties, by affording you all 
+the aid in their power, and to comply with your request for the assistance of the militia, whenever you 
+may find it necessary to call for it. 
+The gentlemen with the money set out to-day. I 
+hope the arrival of this will relieve some of your 
+difficulties; and that the payment of the arrears, and 
+the month's advance, which you arc empowered to 
+offer, will induce many to reenlist, who seem not to 
+be actuated by nobler motives. 
+</p><p>
+By letters, received yesterday, we learn that <a href='/results.php?tla=bea' rel='colleague'>Colonel Arnold</a>, after a fatiguing march, had reached Canada, where he was well received by the inhabitants 
+that, on the 14th of November, he had reached Point 
+Levi, and was preparing to pass the river that night; 
+that, notwithstanding his being deserted by Colonel 
+Enos, he had great hopes of gaining possession of 
+Quebec, as both the English and Canadian inhabitants 
+were well affected to our cause ; that Carleton, with 
+the ships under his command, was stopped in his 
+passage down the river by a fort in our possession, 
+at the mouth of the Sorel, and some row-galleys ; and 
+that <a href='/results.php?tla=rim' rel='colleague'>General Montgomery</a> was preparing to attack 
+him from Montreal. But of these matters you will 
+doubtless be more fully informed by an express, which 
+we understand was despatched to you from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3003">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="22">22</a> <a rel="month origin" value="12"> December</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letters of the 30th of November, and of the 4th, 7th, and 11th of December, being duly received, 
+were laid before Congress. To prevent the ill consequences that might ensue from the backwardness of 
+the men, in the present service, to reenlist, the Congress, as I informed you in my last, have written to 
+the Governors of Connecticut and Rhode Island, the Council of Massachusetts Bay, and the President of 
+the Convention of New Hampshire. In consequence of which letters, they have strong hopes and confidence that measures will be taken to complete your 
+army. As to the article of butter, the Congress, desirous to obviate whatever may have a " tendency to 
+give the soldiery room for complaint," have instructed me to inform you, that the same may be continued until further order. 
+</p><p>
+The Congress receive, with great satisfaction, your congratulations on the success of Captain Manly. By the inclosed resolves, you will perceive their determination on the captures already made, as well as those which may be made hereafter. It is expected the several Colonies will erect Courts of Admiralty, 
+and that the Judges in those courts will regulate their decisions by the law of nations, except where it is relaxed by the inclosed resolutions. 
+</p><p>
+I am further directed to inform you, that the Congress approve your taking such of the articles, found 
+on board the <a href='/results.php?city=concord' rel='city'>Concord</a>, as are necessary for the army. The necessity of the case will, they apprehend, justify the measure, even though the vessel upon trial 
+should, contrary to their expectation, be acquitted. 
+</p><p>
+I am authorized to inform you, that it is the pleasure of Congress that Mr. Mifflin, the Quartermaster-General, hold the rank of Colonel in the Army of 
+the United Colonies, and that you establish his rank accordingly. 
+</p><p>
+I must beg leave to refer you to the inclosed resolutions of Congress for your future proceedings, 
+which I am directed to transmit to you. You will 
+notice the last resolution relative to an attack upon 
+<a href='/results.php?city=boston' rel='city'>Boston</a>. This passed, after a most serious debate, in 
+a Committee of the whole House, and the execution 
+was referred to you ; and may God crown your attempt with success. I most heartily wish it, though 
+individually I may be the greatest sufferer. 
+</p><p>
+I have paid Mr. Fessenden, the express, in full for 
+his three journeys as express to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, deducting  only sixty dollars, which he says you ordered 
+him ; so that there will be no pay due to him for 
+services performed heretofore, only for his expenses 
+now from this place to you. If this adjustment be 
+not right, please to inform me. 
+</p><p>
+I have the honor to be, with sincere sentiments of 
+esteem, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. Fessenden being indisposed, I have sent a 
+special express, as Congress were anxious their resolves 
+should reach you as quick as possible. 
+</p>
+</letter><letter id="joh3004">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+Your letters of the 25th and 31st of December, 
+and 4th of January, have been duly received, and 
+laid before Congress. 
+</p><p>
+By the inclosed resolutions, you will perceive that 
+the Congress, in providing for the defence of Canada, 
+have directed that two battalions should be raised 
+out of the troops now serving there. This they did 
+in testimony of their approbation of the services of 
+those brave men, apprehending, at the same time, 
+that it would be both agreeable to the officers and 
+men to have the honor of defending a country, which 
+their valor had rescued from slavery. And the congress have a firm confidence, that <a href='/results.php?tla=rim' rel='colleague'>General Montgomery</a>, who has a warm and just sense of their merit 
+and services, will cheerfully embrace the present opportunity to continue and promote the officers of that 
+corps, and, as far as in his power, to reward with 
+office and command, in those battalions, such volunteers and others as have distinguished themselves. 
+</p><p>
+The Committee, to whom your letters were referred, 
+this day brought in a partial report; on which the 
+Congress came to certain resolutions, which you will 
+see in the inclosed extracts. I am just to acquaint 
+you, that it is expected, when the Paymaster draws 
+any bills, he will observe to make them payable some 
+few days after sight. The Committee have desired 
+leave to sit again, which is granted. As soon as 
+they have completed their report, and the Congress 
+have come to a determination thereon, I shall do my 
+self the pleasure of transmitting it to you. The 
+money last voted, is now ready ; and the persons 
+who have the charge of conveying it will, I expect, 
+set out with it to-morrow. 
+</p><p>
+I .have the pleasure to inform you, that the committee have purchased the saltpetre, and have agreed 
+with the owners of mills to manufacture it into powder. One of the mills, it is expected, will make 
+near a ton a week, and another near half a ton. I 
+hope you will soon receive the powder ordered to he 
+purchased at <a href='/results.php?city=new york' rel='city'>New York</a>. There were, as we are in 
+formed, eight tons in the same vessel imported for 
+that Colony. 
+</p><p>
+The public papers will inform you, that Lord Dun-more has endeavoured to exercise the same barbarity 
+against the defenceless town of Norfolk, as was exercised against Falinouth. By these repeated instances 
+of inhumanity, so contrary to the rules of war, and so 
+long exploded by all civilized nations, it would seem 
+as if the rancorous Ministry, despairing of their measures to conquer and enslave, had determined to glut 
+their revenge with destruction and devastation. For 
+my part, I shall not be surprised to hear, that in their 
+frenzy of rage, and to effect their dark purposes, 
+they have proceeded to murder, under forms of law, 
+those prisoners whom the tools of their vengeance 
+have chanced to take, and whom, with officious zeal, 
+they have sent to England. 
+</p><p>
+As it is now apparent that our enemies mean to 
+exert their whole force against us next summer, the 
+Congress are taking measures for putting the middle 
+and southern Colonies in a posture of defence. We 
+shall doubtless suffer much in this great struggle ; 
+but I trust no losses or sufferings will induce us to 
+desert the defence of our liberty; and that, cost what 
+it may, we will persevere, with unremitting vigor, to 
+maintain that inestimable jewel which we received 
+from our ancestors, and transmit the same, with unsullied lustre, to our posterity. 
+</p><p>
+January 18. The Committee, to whom your letter 
+of the 31st of December was referred, desire to be 
+informed whether the companies stationed at Chelsea and Maiden are regimented ; and whether, if 
+those at Hingham, Weymouth, and <a href='/results.php?city=braintree' rel='city'>Braintree</a>, were withdrawn, it would be necessary to replace them out of the Continental Army. 
+</p><p>
+Since writing the above, we have received a letter 
+from Messrs. Philip Livingston, Alsop, and Lewis, by 
+which we find, to our mortification, that we were 
+misinformed with regard to the large quantity of 
+powder arrived at <a href='/results.php?city=new york' rel='city'>New York</a>, and that there were 
+only four hundred and sixty-two quarter casks, which 
+were imported for the use of that Colony, and of 
+which a great part is distributed among several 
+Counties. 
+</p><p>
+Before this comes to hand, you will doubtless receive an account of the disagreeable news from Quebec, on which I sincerely condole with you. The 
+express arrived here last evening. To-day I expect the Congress will take it into consideration. The result of their deliberations you will have in my 
+next letter. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+In my former letter, I mentioned the disagreeable 
+news received from Canada. The Congress have taken 
+that matter into consideration; and, having examined 
+Mr. Antill, and duly deliberated on the situation of 
+our affairs in that quarter, they have come to sundry 
+resolutions, which I have the honor to inclose. 
+</p><p>
+I would just observe, that, by Mr. Antill's examination, it appears our loss is greater than what is set 
+forth in the despatches he brought, a copy of which was transmitted to you. Almost the whole of <a href='/results.php?tla=bea' rel='colleague'>General Arnold</a>'s gallant detachment are taken prisoners, 
+having, after four hours resistance, been obliged to surrender at discretion. However, we have the satis faction to hear the prisoners are treated with humanity. 
+</p><p>
+The Congress are anxious, as Avell from motives of 
+policy as of justice and humanity, to repair our 
+losses in that quarter, and, if possible, to gain possession of Quebec, and drive our enemies out of that 
+country before they can be reinforced in the spring. 
+An active, able General is wanted to take the command there, arid if such an one can be spared from 
+the service at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, it is their desire you should 
+send him. 
+</p><p>
+The battalion from Pennsylvania, and that from 
+New Jersey, will set forward the beginning of next 
+week. 
+</p><p>
+As it is of great importance, as well for the security and relief of our friends as for confirming the 
+wavering, that speedy succours should arrive, I am 
+directed to request you to detach, from the camp at 
+<a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, one battalion, if the service there will 
+permit you to spare one, with orders to march, with 
+the greatest expedition possible, to Canada. If this 
+cannot be complied with, you will use your utmost 
+endeavours in stimulating the Governor of Connecticut and the Convention of New Hampshire, to whom 
+I write by this opportunity, to forward, with the utmost despatch, the very first companies that can be 
+raised in those Colonies. You can easily conceive 
+what effect the arrival of even one company will 
+have on the minds of our friends, especially when 
+they shall be satisfied it will soon be followed by 
+more. 
+</p><p>
+The Colony of South Carolina has been so fortunate as to oblige Lord William Campbell, with the 
+vessels of war, to quit their harbour. Being earnestly 
+desirous of providing for their defence, they have resolved to fit out some armed vessels, but not having 
+seamen among themselves, they have despatched Captain Cochran to the northward, to enlist a number of 
+seamen for the service of that Colony. Lest the 
+offers he was empowered to make might prejudice 
+the service, the Congress have chalked out a plan 
+for him to go by, as you will see in the inclosed 
+extracts, and I am directed to desire you will please 
+to forward this service. 
+</p><p>
+Yesterday Dr. J. Smith, who made his escape from 
+Frederick, was brought to this town. He was taken 
+at the Little Meadows, on his way to Detroit, and 
+had with him letters from Connolly to the commanding  officer there. 
+</p><p>
+I hinted to you, in my former letter, that the congress were taking measures for the defence of the 
+Middle and Southern Colonies. For this purpose. over and above those destined for Canada, they have 
+ordered four battalions to be raised in the Colony of 
+<a href='/results.php?city=new york' rel='city'>New York</a>, two in New Jersey, four in Pennsylvania, 
+one in the Counties on Delaware, six in Virginia, 
+three in North Carolina, three in South Carolina, and 
+one in Georgia, each to consist of seven hundred and 
+twenty-eight men, including officers, making in the 
+whole, with those for Canada, thirty-four battalions. 
+I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3006">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="29">29</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+The Congress have received your letter of the 19th 
+instant, and highly commend your prudence and zeal 
+in applying to the Governments of New Hampshire, 
+Massachusetts Bay, and Connecticut, to raise forces 
+for the service of Canada at this exigency. They 
+have fond hopes, by the zeal and alacrity of those 
+Colonies, troops will be forwarded with such expedition as will not only succour our friends, but in some 
+measure retrieve our loss, and put us in possession of Quebec, before our enemies can receive reinforcements. 
+</p><p>
+The Congress have agreed to add the Massachusetts regiment to the forces they at first destined for Canada. This is the more necessary, as it is now uncertain whether two battalions, as was expected, can be 
+raised out of the troops in that country. But they do not, by this, mean to weaken your army. They have, therefore, ordered that the three regiments you 
+applied for from Massachusetts Bay, New Hampshire, and Connecticut, shall be exclusive of the thirteen wanted for the army at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>. 
+</p><p>
+By the latest advices from England, it appears that 
+Administration are determined to exert themselves, and 
+to send a considerable force against us next spring, 
+though at the same time they pretend to say, that 
+they will offer terms of accommodation, and mean 
+only by their armament to enforce their terms. 
+</p><p>
+It behooves us, therefore, to be ready to receive 
+them; for, should an accommodation take place, the 
+terms will be severe or favorable in proportion to 
+our ability to resist, 
+</p><p>
+The Congress highly approve your sending General Lee to the assistance of <a href='/results.php?city=new york' rel='city'>New York</a>, as a measure 
+judicious and necessary, and have also appointed 
+three of their body to repair to <a href='/results.php?city=new york' rel='city'>New York</a> and confer with General Lee and the Committee of Safety 
+of <a href='/results.php?city=new york' rel='city'>New York</a>, on the subject of putting that Colony 
+in a posture of defence. 
+</p><p>
+General Prescott arrived here last Thursday, and is 
+this day ordered into close confinement in the jail 
+of this city. 
+</p><p>
+I must beg leave to refer you to the inclosed resolutions. I send, by this express, commissions for the 
+Massachusetts battalion, and the money ordered to 
+the Assembly. I have the honor to be, with the 
+greatest esteem, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3007">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Since my last, I have had the honor of receiving your letters of the 24th and 30th of January, 9th, 14th, 18th, 21st, and 26th of February, which were 
+communicated to Congress. On the settlements and adjustments of accounts, the Congress have not yet come to any determination ; nor have they yet had 
+time to contrive expedients for remedying the inconveniences mentioned in that of the 9th, which is referred to, and will be taken up, in a Committee of the Whole. 
+</p><p>
+The Congress highly approve your care and attention in stopping Lord Drummond's letter, and entirely concur with you in sentiment with regard to 
+his Lordship's officious and unwarrantable zeal. 
+</p><p>
+The situation of the Middle and Southern Colonies hath engaged the attention of Congress. These are divided into two departments ; the Middle, comprehending <a href='/results.php?city=new york' rel='city'>New York</a>, New Jersey, Pennsylvania, Delaware, and Maryland, under the command of a Major-General and two Brigadier-Generals; the Southern, 
+comprehending Virginia, North and South Carolina, and Georgia, under the command of a Major-General and four Brigadier-Generals. As there is reason to 
+think that the force of our enemies will be directed against the Colonies in the Southern Department, Major-General Lee is appointed to that command. 
+The Brigadier-Generals are, John Armstrong, William Thompson, Andrew Lewis, James Moore, Esq., Lord Stirling, and Robert Howe, Esq. 
+</p><p>
+Of these gentlemen, General Armstrong is directed 
+to repair to South Carolina; General Lewis and General Howe to Virginia ; General Moore to North Carolina; and General Thompson and Lord Stirling to 
+<a href='/results.php?city=new york' rel='city'>New York</a>. And, that our affairs in Canada may be 
+under the direction of an able officer, and <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>'s health not permitting him to go thither, 
+or, if he could, as his presence is so necessary in 
+<a href='/results.php?city=new york' rel='city'>New York</a>, the Congress have promoted Brigadier-General Thomas to the rank of a Major-General, and 
+directed him to repair to Canada, and take the command of the Continental forces in that quarter. I 
+have accordingly inclosed him his commission, and 
+am to desire you will give him orders to repair, with 
+all expedition, to his post. To enable him to exe 
+cute the purposes Congress have in view in Canada, they have ordered twelve battering cannon to be sent from <a href='/results.php?city=new york' rel='city'>New York</a>, and have forwarded ten tons of powder. 
+</p><p>
+Of this article, we have lately received several sup 
+plies, and have, some time ago, ordered five tons and 
+a half to be sent to you; which, if you have not 
+already received, will, I hope, soon reach you. The 
+Congress have also ordered ten tons more of powder 
+to be sent to you, which will set out to-morrow or 
+next day. Besides this, in the beginning of last 
+month they ordered ten tons of saltpetre to be sent 
+to Mr. Wisncr's powder-mill, in the Colony of New 
+York; and, on the 12th of the same month, ten tons 
+to Mr. Livingston's mill, in the same Colony; and 
+ten tons to the Council of Massachusetts, with a desire to have it manufactured into gunpowder with all 
+possible expedition, and sent to you for the use of 
+the army under your command. Besides this, I have 
+the pleasure to inform you, that the powder-mills in 
+this Colony are employed, and more mills are building , which will be employed ; so that I have strong 
+hopes we shall soon have a plentiful supply of that 
+necessary article. 
+</p><p>
+With regard to arms, I am afraid W T C shall, for a 
+time, be under some difficulty. The importation is 
+now more precarious and dangerous. To remedy this, 
+a Committee is appointed to contract for the making 
+arms ; and, as there is a great number of gunsmiths 
+in this and the neighbouring Colonies, I flatter my 
+self we shall soon be able to provide ourselves without 
+risk or danger. But W T C must, like other States engaged in the like glorious struggle, contend with difficulties. By perseverance, and the blessing of 
+God, I trust, if we continue to deserve freedom, we shall be enabled to overcome them. To that Being, in whose hands is the fate of nations, I recommend 
+you and the army under your command. 
+</p><p>
+I have the honor to be, with every sentiment of 
+esteem, 
+</p><p>
+Sir, your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. The inclosed letter I request the favor you 
+will please order to be delivered to Mr. Gushing. 
+</p>
+</letter><letter id="joh3008">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I had the honor of receiving, yesterday, yours of 
+the 19th, containing the agreeable information of the 
+Ministerial troops having abandoned <a href='/results.php?city=boston' rel='city'>Boston</a>. The 
+partial victory we have obtained over them, in that 
+quarter, I hope will turn out a happy presage of a 
+more general one. Whatever place may be the object of their destination, it must certainly give a sincere pleasure to every friend of this country, to see 
+the most diligent preparations everywhere making to 
+receive them. What may be their views, it is in 
+deed impossible to tell with any degree of exactness. 
+We have all the reason, however, from the rage of 
+disappointment and revenge, to expect the worst. 
+Nor have I any doubt that, as far as their power 
+extends, they will inflict every species of calamity 
+upon us. The same <a href='/results.php?city=providence' rel='city'>Providence</a> that has baffled their 
+attempt against the Province of Massachusetts Bay 
+will, I trust, defeat the deep-laid scheme they are 
+now meditating against some other part of our country. 
+</p><p>
+The intelligence that our army had got possession 
+of <a href='/results.php?city=boston' rel='city'>Boston</a>, you will readily suppose gave me heart 
+felt pleasure. I beg/ Sir, you will he pleased to accept my warmest thanks for the attention you have 
+showed to my property in that town. I have only 
+to request that Captain Cazneau will continue to 
+look after it, and take care that it be no ways destroyed or damaged. 
+</p><p>
+This success of our arms naturally calls on me to 
+congratulate you, Sir, to whose wisdom and conduct 
+it has been owing. Permit me to add, that, if a 
+constant discharge of the most important duties, and 
+the fame attending thereon, can afford genuine satis 
+faction, the pleasure you feel must be the most rational and exalted. 
+</p><p>
+I have it in charge from Congress to direct, that 
+you send an account of the troops in your camp, 
+who are deficient in arms, to the several Assemblies 
+or Conventions of the Colonies to which those men 
+belong, and request them to send a sufficient number of arms for the men coining from the respective 
+Colonies ; and that, if arms cannot be procured, such 
+as have not arms be dismissed the service. 
+</p><p>
+The Congress being of opinion, that the reduction 
+of Quebec and the general security of the Province 
+of Canada, are objects of great concern, I am commanded to direct that you detach four battalions 
+into Canada from the army under your command, as 
+soon as you shall be of opinion, that the safety of 
+<a href='/results.php?city=new york' rel='city'>New York</a> and the Eastern service will permit. 
+</p><p>
+Your several letters are at this time under the 
+consideration of a Committee. As soon as any determination is made thereon, I will immediately for 
+ward it to you. I have the honor to be, with the 
+greatest esteem, Sir, your most obedient and very 
+humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3009">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+As I imagine this will meet you on the road to 
+this place, I waive making any mention of public 
+matters, except that it is the wish of Congress you 
+would, if consistent with the good of the service, 
+order one battalion from. <a href='/results.php?city=new york' rel='city'>New York</a> to be posted at 
+Aniboy, in the Jerseys, agreeably to the inclosed resolve. 
+</p><p>
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> arrived this morning; soon after 
+which I was honored with your favor by post, which 
+I laid before Congress; and, as they expect you so 
+soon here, I imagine they will defer consulting <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a>, and wait your arrival. 
+</p><p>
+Your favor of the 20th instant I received this 
+morning, and cannot help expressing the very great 
+pleasure it would afford both Mrs. Hancock and my 
+self to have the happiness of accommodating you 
+during your stay in this city. As the house I live 
+in is large and roomy, it will be entirely in your 
+power to live in that manner you should wish. 
+Mrs. <a href='/results.php?city=washington' rel='city'>Washington</a> may be as retired as she pleases 
+while under inoculation, and Mrs. Hancock will esteem it an honor to have Mrs. <a href='/results.php?city=washington' rel='city'>Washington</a> inoculated in her house ; and, as I am informed Mr. Randolph has not any lady about his house to take the 
+necessary care of Mrs. <a href='/results.php?city=washington' rel='city'>Washington</a>, I flatter myself 
+she will be as well attended in my family. In 
+short, Sir, I must take the freedom to repeat my 
+wish, that you would be pleased to condescend to 
+dwell under my roof. I assure you, Sir, I will do 
+all in my power to render your stay agreeable, and 
+my house shall be entirely at your disposal. I must, 
+however, submit this to your determination, and only 
+add that you will peculiarly gratify Mrs. Hancock and 
+myself in affording me an opportunity of convincing 
+you of this truth, that I am, with every sentiment 
+of regard for you and your connections, and with 
+much esteem, dear Sir, your faithful and most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>. 
+</p><p>
+P. S. Fessenden is complaining for the want of 
+money; I have advanced him sixteen dollars, which 
+you will please to order him to account for. 
+</p>
+</letter><letter id="joh3010">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am honored with your letters of the 7th, 8th, 
+and 9th instant. The two first I have read in congress. We have been two days in a Committee of 
+the Whole, deliberating on three capital matters, the 
+most important in their nature of any that have yet 
+been before us, and have sat till seven o clock in the 
+evening, each day. That not being finished, I judge 
+best to return the express. I shall press Congress as 
+soon as possible to determine upon the several matters you wish to be ascertained, and immediately 
+transmit you the result. 
+</p><p>
+The Congress have agreed to settle the mode of 
+paying the troops in the Eastern Department this 
+morning, and to proceed to the appointment of a 
+Deputy Paymaster-General. 
+</p><p>
+The particular mode of establishing expresses is 
+now under the consideration of a Committee, and as 
+soon as agreed, you shall know the issue. 
+</p><p>
+Although Congress have not acted upon your queries respecting the Indians, yet I will venture to give my opinion that Congress intended the resolution of May 25th should be general, and extend to 
+the several departments ; and that the resolution of 
+the 3d of June goes only to the number which the 
+General shall be empowered to employ in Canada. 
+But I hope soon to give you a full answer to all 
+your queries ; and in future I will exert myself in 
+Congress, that your applications may be considered 
+as soon as received, and keep you punctually and 
+regularly informed of the result. 
+</p><p>
+Inclosed you have a resolve, whereby you will see 
+that all the troops in the Middle Department are put 
+upon the same pay, six and two thirds dollars, as the 
+troops in the Eastern Department. 
+</p><p>
+I have sent you four bundles of commissions, and 
+will forward you more by next opportunity. 
+</p><p>
+The inclosed, from Mrs. <a href='/results.php?city=washington' rel='city'>Washington</a>, I wish safe 
+to hand. I have the pleasure to acquaint you she is 
+in fine spirits, and proposes paying you a visit next 
+week. I sent her your letter by the express; and 
+when you write, if you will please to put the letter 
+under my cover, I will immediately deliver it. I 
+have the honor to be, with every sentiment that respect and esteem inspire, 
+</p><p>
+Sir, your very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3011">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+You will see, from the inclosed resolves, which I do 
+myself the pleasure of forwarding, in obedience to 
+the commands of Congress, that they have bent their 
+whole attention to our affairs in Canada, and have 
+adopted such measures, as, in their opinion, are calculated to place them on a better and more reputable footing for the future. 
+</p><p>
+The most unfortunate death of General Thomas 
+having made a vacancy in that department, and the 
+service requiring an officer of experience and distinction, the Congress have thought proper to appoint 
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> to succeed him. And I am to request 
+you will send him into that Province, to take the 
+command of the forces there, as soon as possible; and 
+that you direct him to view Point-au-Fer, and to 
+order a fortress to be erected there, if he shall think 
+proper. 
+</p><p>
+My opinion on the resolve of the 25th May was 
+well founded ; Congress having since determined, as 
+you will find by a resolve herewith transmitted, that 
+you are to employ the Indians wherever you think 
+their services will contribute most to the public good. 
+</p><p>
+I shall write to the Colonies of <a href='/results.php?city=new york' rel='city'>New York</a>, New 
+Jersey, and Connecticut, to request them to author 
+ize you to call on their militia, if necessary. My 
+time will not permit me to do it now, as the post 
+will set out directly, and the inclosed resolves were 
+not passed till late yesterday evening. 
+</p><p>
+I have the honor to be, Sir, your most obedient 
+and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P, S. A Mustermaster-General, in the room of Mr. Moylan, will be appointed this day or to-morrow, and a Deputy will afterwards be sent into Canada. 
+</p><p>
+I beg you will think of the Eastern Department, with respect to General Officers, when your very important concerns will admit. 
+</p>
+</letter><letter id="joh3012">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+The Congress, having the greatest reason to believe there has been very gross misconduct in the management of our affairs in Canada, have come to 
+a resolution to have a general inquiry made into the behaviour of the officers employed on that expedition. 
+The honor of the United Colonies, and a regard for 
+the public good, call loudly for such an inquiry to 
+be set on foot. I am, therefore, directed to request, 
+after having made the inquiry agreeably to the in-closed resolve, you will transmit the result, together 
+with the proofs, to Congress/ 1 
+</p><p>
+The opinion that an officer cannot be tried by a 
+court-martial after his resignation, for offences while 
+he held a commission, so dangerous to the service, 
+and particularly destructive in our army, where the 
+short enlistment of the troops might furnish temptation to crimes from the prospect of impunity, has 
+been this day reprobated by Congress. 
+</p><p>
+I have written to the Convention of <a href='/results.php?city=new york' rel='city'>New York</a> on 
+the subject of the inclosed resolve respecting another 
+regiment to be raised in that Colony. The terms on 
+which the commissions are to be granted are extremely well calculated to excite the officers to exert 
+themselves to fill up their companies. 
+</p><p>
+I have likewise written to the respective Colonies, 
+and have sent copies of the inclosed resolve recommending to them to provide clothes for the troops of 
+their Colonies. These, or such articles of them as 
+you shall want, the Congress have empowered you 
+to draw for on the Assemblies and Conventions, from 
+time to time, as you shall judge necessary. I have represented to them that it is totally impossible that 
+the American army should ever be on a respectable 
+footing, or that they should render such essential services to their country as we expect and desire, unless the United Colonies will, on their part, take care 
+that they are well appointed and equipped with every 
+thing necessary for an army. 
+</p><p>
+General "Wooster, it is the order of Congress, should 
+be permitted to return to his family. 
+</p><p>
+I have delivered Mr. Visscher his commission as 
+Lieutenant-Colonel in the regiment commanded by 
+Colonel Nicholson, and directed him to wait on you, 
+upon his arrival at <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+Apprehending that such of the resolves of Congress 
+as respect the conduct of the army, are executed in 
+consequence of orders issued by you, I have omitted 
+sending to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> such as respect him,, 
+concluding that the directions would go from you ; 
+but if it will be any way a relief to you, I will continue to forward them. I have the honor to be, with 
+much esteem, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+22d. Your letter of the 20th this moment came to 
+hand, and shall be laid before Congress on Monday. 
+</p>
+</letter><letter id="joh3013">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your letter of the 21st instant, by Mr. Bennett, 
+with the inclosure, was duly received and laid before 
+Congress, as you will perceive by the inclosed resolves, to which I beg leave to request your attention. 
+</p><p>
+Although the Commissioners have undoubtedly mistaken the intention of Congress, yet the terms in 
+which the resolve is conceived, namely, " That the 
+General be empowered to employ in Canada a number of Indians, not exceeding two thousand," may, at 
+first view, seem to confine their employment to the 
+limits of that Province, and to give a latitude of construction as to the place in which they are to be 
+raised; and in this sense they must have been under 
+stood by <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a> and the other Commissioners. I am, how r ever, to request you will give 
+orders to have a stop put to raising the Mohegan 
+and Stockbridge Indians, as soon as possible. I shall 
+write <a href='/results.php?tla=jht' rel='colleague'>Governor Trumbull</a> to the same purpose. 
+The conduct of the Quartermaster-General, in detaining the tents sent from this place to Massachusetts Bay, is a stretch of office which, though it may 
+he well meant, is certainly a very extraordinary one. 
+You will, therefore, be pleased to order them to he 
+delivered up, and forwarded to the Massachusetts Bay 
+as soon as possible. 
+</p><p>
+The other resolves, herewith transmitted, calculated 
+to suppress insurrections and to promote good order 
+and obedience to laws in the United Colonies, are so 
+full and explicit that I need not enlarge. It is sufficient to observe, that internal convulsions do always 
+extremely weaken the force and springs of Government, and must necessarily render its operations 
+against foreign enemies less vigorous and decisive.
+</p><p>
+Application having been made to Congress with regard to victualling the Flying Camp, I am directed to request you will inform them what is the cost of a ration, as furnished by the Commissary-General. 
+</p><p>
+The several matters in your letters are before a Committee. The proposal respecting a troop of horse is liked; and as soon as the Committee bring in their 
+report, and it is considered, you shall be made acquainted with the result. 
+</p><p>
+I have the honor to be, Sir, your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3014">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+The Congress, for some time past, have had their 
+attention occupied by one of the most interesting and 
+important subjects, that could possibly come before 
+them or any other assembly of men. 
+</p><p>
+Although it is not possible to foresee the consequences of human actions, yet it is, nevertheless, a 
+duty we owe ourselves and posterity, in all our pub 
+lic councils, to decide in the best manner we are 
+able, and to leave the event to that Being who controls both causes and events, to bring about his own determinations. 
+</p><p>
+Impressed with this sentiment, and at the same time 
+fully convinced that our affairs may take a more favorable turn, the Congress have judged it necessary 
+to dissolve the connection between Great Britain and 
+the American Colonies, and to declare them free and 
+independent States, as you will perceive by the in 
+closed DECLARATION, which I am directed by Congress 
+to transmit to you, and to request you will have it 
+proclaimed at the head of the army in the way you 
+shall think most proper.
+</p><p>
+Agreeably to the request of Congress, the Committee of Safety of this Colony have forwarded to you 
+ten thousand flints, and the Hints at Rhode Island are ordered to be sent to you immediately. 
+</p><p>
+It is with great pleasure I inform you, that the militia of this Colony, of Delaware Government, and 
+Maryland, are, and will be every day in motion, to form the Flying Camp, and that all the militia of 
+this Colony will soon be in the Jerseys, ready to receive such orders as you shall please to give them. 
+</p><p>
+I have written to <a href='/results.php?tla=nic' rel='colleague'>Governor Cooke</a>, to engage immediately, and send forward as fast as possible, fifty 
+ship-carpenters to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, for the purpose of building vessels on the Lakes. Fifty have already gone from hence on that business. 
+</p><p>
+The Congress having directed the arms, taken on board the Scotch transports, to be sent to you. I have 
+written to the agents in Rhode Island and Massachusetts Bay, to forward them immediately. 
+</p><p>
+The inclosed copy of a letter from Mr. Green, I am directed to forward, by Congress, with a request that you will order such parts of the stores, therein 
+mentioned, to <a href='/results.php?city=new york' rel='city'>New York</a>, as you shall judge proper. 
+</p><p>
+I have the honor to be, Sir, with perfect esteem, your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President 
+</p>
+</letter><letter id="joh3015">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am to acknowledge the receipt of your favor of the 10th instant, and to acquaint you that it is now under the consideration of Congress. 
+</p><p>
+The inclosed resolves I do myself the honor to transmit, as necessary for your information. I have written to <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, and the Commissioners 
+for Indian Affairs, respecting the same. 
+</p><p>
+In obedience to the commands of Congress, I have inclosed von two copies of sundry resolves they have passed relative to the treatment of our prisoners by 
+Captain Forster, in Canada. I am to request you will take the proper steps to send one of them to General Howe, and the other to <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>. 
+I transmit, also, a third copy for your own use.
+</p><p>
+Should the United States of America give their sanction to the Jesuitical and villanous distinction which Captain Forster adopts to justify his conduct, 
+there would be no end to butchering our prisoners. They have, therefore, very properly reprobated it ; and, in the genuine spirit of freedom, resolved, that 
+such cruelty as shall be inflicted on prisoners in their possession, by savages or foreigners taken into pay by the King of Great Britain, shall be considered as 
+done by his orders, and recourse be immediately had to retaliation. It is to be hoped their determination will have the desired effect, and that for the future, 
+such barbarous scenes will never be acted under the eye and approbation of a British officer ; for there is the greatest reason to believe, that Captain Forster 
+engaged the Indians to join him, on the express condition of giving up to them all such prisoners as might fall into his hands. His subsequent conduct, indeed, renders this conjecture more than probable. 
+</p><p>
+considerable time, and surrendered at last, but on absolute necessity ; on 
+which consideration, and on which alone, it is resolved, that the said 
+sponsion be ratified ; and that an equal number of captives from the 
+enemy, of the same rank and condition, be restored to them, as stipulated by the said sponsion ; 
+</p><p>
+" That, previous to the delivery of the prisoners to be returned on our 
+part, the British commander in Canada be required to deliver into our 
+hands the authors, abettors, and perpetrators of the horrid murder committed on the prisoners, to suffer such punishment as their crime deserves ; and also, to make indemnification for the plunder at the Cedars, 
+taken contrary to the faith of the capitulation ; and that, until such delivery and indemnification be made, the said prisoners be not delivered ; 
+</p><p>
+That if the enemy shall commit any further violences, by putting to death, torturing, or otherwise ill treating the prisoners retained by them, 
+or any of the hostages put into their hands, recourse be had to retaliation, as the sole means of stopping the progress of human butchery ; 
+and that, for that purpose, punishments of the same kind and degree be inflicted on an equal number of the captives from them in our possession, till they shall be taught to respect the violated rights of nations ; 
+</p><p>
+" That a copy of the above report and resolutions be transmitted to the Commander-in-chief of the Continental forces, to be by him sent 
+to Generals Howe and Burgoyne." Journals of Congress, July 10th. I have the honor to be, with perfect esteem. Sir, your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+One o clock, P. M. This moment your favor, per post of the 11th instant, came to hand. I shall lay it before Congress on Monday evening. 
+</p>
+</letter><letter id="joh3016">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am. particularly instructed, by Congress, to answer that part of your letter of 29th ultimo, directed to the Board of War, which relates to the filling up 
+vacancies in the army. The Congress are concerned to find, that an opinion is entertained that greater confidence has been placed in, and larger powers 
+given to other commanders in that respect, than to yourself. 
+</p><p>
+They have, in no instance, except in the late appointment of <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> to the command in Canada, parted with the power of filling up vacancies. 
+The great confusion and many disorders prevalent 
+in that army, and its distance, induced Congress to 
+lodge such a power in that General, for the limited 
+space of three months, and only during his continuance in Canada. Should Congress ever empower its 
+Generals to fill up the vacancies in the army, they 
+know of no one in whom they would so soon repose 
+a trust of such importance as in yourself; but future 
+Generals may make a bad use of it. The danger 
+of the precedent, not any suspicion of their present 
+Commander-in-chief, prompts them to retain a power 
+that, by you, Sir, might be exercised with the greatest public advantage. 
+</p><p>
+I do myself the honor to inclose sundry resolves, 
+and to request your attention to them. They relate 
+principally, as you will perceive, to some new regulations with regard to Paymasters, Commissaries, and 
+Quartermasters in the American army, and are intended to prevent confusion and disorder in those several departments. 
+</p><p>
+The Congress approve of your employing, in the service of the States, the Stockbridge Indians, if you think proper. 
+</p><p>
+The inclosed resolve, for taking into the pay of the States such of the seamen as may fall into our hands on board of prizes, will, I trust, be attended 
+with the good effects Congress had in view when they passed it. 
+</p><p>
+I have the honor to be, with perfect respect and esteem, Sir, your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+N. B. Your favor of 5th instant, just come to hand, will be replied to by to-morrow's post. 
+</p>
+</letter><letter id="joh3017">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am to acknowledge the receipt of your several favors, to the 27th ultimo. Your letter of that date, 
+containing the very agreeable intelligence of the success of the Continental arms under your command, 
+was last night delivered to me by your Aid-de-camp, Colonel Baylor, together with the Hessian standard. 
+I entertain the most pleasing expectation that our affairs will henceforth assume a better complexion. 
+Your account of the behaviour and spirit of the troops, gave the highest satisfaction to Congress; and manifests a disposition which may prove the fore 
+runner of future success. 
+</p><p>
+Considering the unfavorable temper of the men, broken by fatigue and ill fortune, the happy event 
+of the expedition appears the more extraordinary. But troops properly inspired, and animated by a just 
+confidence in their leader, will often exceed expectation, or the limits of probability. As it is entirely to your wisdom and conduct the United States are 
+indebted for the late success of their arms, the pleasure you must naturally feel on the occasion will be pure and unmixed. May you still proceed in the 
+same manner to acquire that glory, which, by your disinterested and magnanimous behaviour, you so highly merit. 
+</p><p>
+I inclose to you a copy of resolves transmitted to 
+<a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, relative to the Northern Department, and also sundry other resolves relative to your 
+own immediate department, which are all the congress have come into since I wrote you last. I have fonvarded to all the States copies of the resolves, 
+vesting you with the powers which I had the pleasure of transmitting in my last, accompanied with letters explaining the reasons on which Congress acted in that particular. 
+</p><p>
+From the inclosed resolve, you will perceive congress have determined, that a horse, properly caparisoned, be presented to your Aid-de-camp, Colonel Baylor, and to recommend it to you to promote him 
+to be a Colonel of a regiment of Light Horse. As 
+the Congress have been pleased to intrust me with the execution of this resolve, I must beg you will 
+do me the favor to give directions to the Quarter 
+master, or other proper person, to purchase as hand 
+some a horse, for this purpose, as can be found. The 
+reason of my making this application, is an information I had received, that some Light Horse were 
+taken at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, and are to be publicly sold for 
+the benefit of the soldiery. Should this be the case, 
+I must further ask the favor of you to give direction. at the same time to purchase one or two for 
+my own use. The money shall be immediately remitted, whatever it may be. I should be glad to 
+know what kind of horse furniture you think the 
+most proper, as I would, by all means, wish to procure the best; but, without your advice and assistance, I am apprehensive I shall not succeed. If the 
+horses are to be had, be pleased to order them to 
+be sent to me, and every expense shall be paid 
+arising thereon. 
+</p><p>
+This recommendation of Colonel Baylor, I doubt 
+not, will meet with your approbation, and that, on 
+his return from Virginia, you will give him a commission, with such pay as you shall think suitable 
+and adequate. 
+</p><p>
+Wishing you, very sincerely, the compliments of 
+the season, I have the honor to be, with every sentiment of esteem and regard, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. I shall send you the letter-books by the 
+first safe hand. By this opportunity, I send you four 
+bundles, containing two hundred commissions ; the rest 
+shall immediately follow. 
+</p>
+</letter><letter id="joh3018">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The inclosed resolves, which I have the honor of 
+transmitting, call for your immediate attention ; and I 
+am to request you will take measures in pursuance 
+thereof, as soon as possible. General Lee's situation 
+seems to be extremely dangerous and critical, and 
+from General Howe's behaviour to him, it is highly 
+probable he will be brought to a trial for desertion. 
+General Lee, it is said by Mr. Eustace, his Aid-de 
+camp, having addressed tAvo letters to General Howe, 
+received them both back again, unopened, and inclosed under a cover directed to Lieutenant- Colonel Lee. 
+I hope the flag, which Congress ordered to be sent 
+to make inquiry into the manner in which he was 
+treated, has been despatched, and a remonstrance, in 
+consequence of it, should the information you have 
+received of his treatment have rendered that step 
+necessary. 
+</p><p>
+You will please to propose an exchange of the six 
+Hessian field-officers for him; and at the same time 
+make inquiry whether the report which Congress have 
+heard of Mrs. Stockton's being confined in a common 
+jail by the enemy, has any truth in it or not. 
+</p><p>
+By a letter, which Congress yesterday received from 
+<a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a>, we are informed that <a href='/results.php?tla=jhc' rel='colleague'>General Cadwalader</a>, 
+with the troops under him, had joined your army; 
+that the enemy were at <a href='/results.php?city=trenton' rel='city'>Trenton</a>; that the two armies 
+were divided only by a creek; and that a general 
+engagement was hourly expected. In the mean time 
+Congress are infinitely anxious to hear the event, 
+and humbly hope that victory has declared in favor of those whose sacred cause should inspire them with 
+ardor, on every solemn appeal to that Being who 
+hateth all injustice, tyranny, and oppression. I have 
+the honor to be, with every sentiment of respect, Sir, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. If the desire of Congress to procure General 
+Lee's exchange cannot be effected, and the enemy, 
+preferring the gratification of revenge to the civility 
+they owe their Hessian auxiliaries, determine to keep 
+or to abuse him, it will be very agreeable to Congress 
+that their determination, with the inclosed resolve, be 
+made known to the Hessians as fully as possible. 
+To secure General Lee as effectually as may be from 
+personal insult and injury, Congress have come to the 
+present resolution; which you, Sir, are desired to convey to General Howe, with all convenient despatch. 
+It will be very agreeable to Congress, that the Hes 
+sian field-officer intended to be exchanged for Colonel 
+Ethan Allen, be sent to notify it to General Howe, 
+taking his parole to return in a fixed time, if Colonel 
+Allen is not returned in his place. It will fall with 
+in the wish of Congress, if Colonel Rahl, or one of 
+the Hessian officers, should be also sent with the flag 
+proposing the exchange of General Lee ; but the propriety of it is submitted to you. 
+</p><p>
+We have had an imperfect account of the engagement at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, and anxiously wait for further particulars. It was in hopes of receiving them that I 
+detained the express till this morning. 
+</p>
+</letter><letter id="joh3019">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+From the resolves, which I have the honor of 
+transmitting herewith, you will perceive the measures 
+Congress have taken to reenforce your army at this 
+juncture. 
+</p><p>
+I have wrote to the Convention of <a href='/results.php?city=new york' rel='city'>New York</a> to 
+place a proper guard of militia at the passes in the 
+Highlands, in case you should think proper to call 
+to your assistance the troops under <a href='/results.php?tla=wih' rel='colleague'>General Heath</a>, 
+which will be highly agreeable to Congress. 
+</p><p>
+I have likewise wrote to the Governor of New Jer 
+sey, and to the Council of Safety of Pennsylvania, 
+to call forth their militia at this important crisis. It 
+is indeed devoutly to be wished, and is the earnest 
+desire of Congress, that the army under your command may be made, not only strong enough to confine the enemy within their present quarters, and 
+prevent them from getting supplies from the country, but totally subdue them before they can be further reenforced. You will, therefore, be pleased to 
+write to the Colonels, or other commanding officers 
+of the regiments that are raising in the New Eng 
+land States, as well as those of <a href='/results.php?city=new york' rel='city'>New York</a> and New 
+Jersey, and order them immediately to march the 
+troops under their command, in the most expeditious 
+manner, to head-quarters. Similar letters will be 
+written by the Board of War to the commanding 
+officers in Pennsylvania, Delaware, Maryland, and Virginia. I beg leave to refer your attention to the 
+whole of the inclosed resolves. 
+</p><p>
+Your favor of the 20th instant came to hand the 
+24th, and was immediately laid before Congress. I 
+have the honor to be, with sentiments of the great 
+est esteem and respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. In consequence of your letters, and one 
+from <a href='/results.php?tla=rom' rel='colleague'>Mr. Morris</a>, Congress have suspended their remove to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> for a few days. 
+</p>
+</letter><letter id="joh3020">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor to transmit to you sundry resolves of Congress, of a very important nature, to 
+which I beg leave to solicit your attention. 
+</p><p>
+The Congress, having had your letters of the 1st 
+and 6th instant under consideration, have come to 
+the inclosed resolve on the subject, by which you 
+perceive they decline making any alteration in the 
+resolve of the 6th of January, and that it was not 
+their intention that Colonel Campbell should experience any other hardship than such confinement as 
+is necessary to his security for the end they had in 
+view when they passed that resolve. 
+</p><p>
+The obvious distinction made by General Howe, in 
+his treatment of General Lee, who is notoriously committed to the custody of the provost, and denied his 
+parole, while our other officers are admitted to it, 
+was the ground on which Congress proceeded when 
+they passed that resolve, the intention of which was 
+to show that, in proportion as severities against him 
+were increased, the same treatment should be exercised on six field-officers. 
+</p><p>
+The principle of retaliation was early adopted by 
+the States of America, and, if adhered to, will be 
+the most likely way to prevent our enemies from 
+making distinctions, which have no other foundation 
+but the gratification of their revenge; General Lee 
+having an undoubted right to every indulgence that 
+our other officers, prisoners among them, may receive. 
+</p><p>
+I have wrote to the Governor and Council of Virginia, and likewise to Colonel Stephen, on the subject of the inclosed resolves. 
+</p><p>
+The Congress have endeavoured to put a stop to 
+foreigners coming over to America to enter the service, not only by directing the Committee of Secret 
+Correspondence to write to the agents abroad to Discourage them from such views, but by declaring that 
+they shall not be employed unless they are well acquainted with our language. 
+</p><p>
+Your several favors of the 20th, 23d, and 28th of 
+February, and 1st and Gth of March, have been duly 
+received and laid before Congress. I am also this 
+minute honored with your favor of the 14th, which 
+shall be laid before Congress as soon as possible. I 
+have the honor to be, with sentiments of the great 
+est esteem. Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3021">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor of transmitting such resolves of 
+Congress as have passed since my last, which are 
+either relative to your department, or necessary for 
+your information. The Congress have authorized you 
+to proceed in the exchange of prisoners, agreeably to 
+the cartel at present existing, or such other regulation. as you may think proper to make in the matter, provided the enemy will relax in their treatment 
+of General Lee, and acknowledge him. to be a prisoner of Avar, and as such entitled to be exchanged. 
+</p><p>
+I congratulate you on the arrival of a vessel at 
+this port, from France, with eleven thousand stand of 
+arms in good order, and, I am informed, fit for immediate use. She has brought likewise fifteen hundred gun-locks, and a large quantity of flints. Six 
+thousand eight hundred of the arms are public property. The balance, which belong to individuals, the 
+Congress have empowered the Secret Committee to 
+purchase immediately. I have wrote to <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> 
+to repair to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, agreeably to the inclosed resolve. 
+</p><p>
+Colonel Clinton was yesterday appointed a Brigadier-General, in consequence of a very warm recommendation from the Convention of <a href='/results.php?city=new york' rel='city'>New York</a>. As 
+lie is an officer of established good character, and is 
+now engaged in obstructing the river, his station at 
+the Highlands will be more convenient, and highly 
+agreeable to the Convention of <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+Your favor, by <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, was duly received, 
+and a Committee appointed to confer with him, the 
+result of which shall be immediately transmitted. I 
+have the honor to be, with the most perfect esteem 
+and respect, Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3022">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The inclosed resolves of Congress, which I have 
+the honor of transmitting, will naturally claim your 
+attention, from their great importance. The regulation. relative to the payment of the troops and the 
+department of the Paymaster-General will, I hope, be 
+the means of introducing order and regularity into 
+that part of the army, where, it must be confessed, 
+they were extremely wanted. 
+</p><p>
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> having laid before Congress the proceedings and sentence of a Court-Martial on a certain James Molesworth, who was accused and found 
+guilty of being a spy, they immediately approved the 
+same. He has since suffered the punishment due to 
+his crime. From his repeated confession, it appears 
+that Mr. Galloway was extremely active in engaging 
+him to undertake this infamous business, and was 
+the person employed to make the bargain with him. 
+He says, indeed, Lord Howe was present; but, from 
+the description he gave of his person, it is supposed 
+he must be mistaken. 
+</p><p>
+The Congress have directed <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> to take 
+General Fermoy with him to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and such 
+other French officers as he may think proper. <a href='/results.php?tla=arc' rel=''>General St. Clair</a>, being ordered to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, but previously 
+to repair to this city to await the further order of 
+Congress, you will please to direct him to repair here 
+accordingly, as soon as possible. I have the honor to 
+be, with the most perfect esteem and respect, Sir, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3023">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+Sm, 
+</p><p>
+Yesterday evening, the Congress completed the business of the Medical Department, and on so large 
+and liberal an establishment that we may rationally 
+expect the most beneficial effects will flow from it. 
+Every encouragement is given to gentlemen of skill 
+and reputation in that art to enter into our army ; 
+and a variety of regulations adopted to carry the 
+plan more effectually into execution. As I have the 
+honor of inclosing the resolves on this subject, I beg 
+leave to refer your attention to them. 
+</p><p>
+It is with particular pleasure I transmit the resolution of Congress directing monuments to be erected 
+to the memory of Major-General Warren and Brigadier-General Mercer. Every mark of distinction shown 
+to those illustrious men, who offer up their lives and 
+liberty for the happiness of mankind, reflects the 
+highest honor upon those who pay the tribute, and, 
+by holding up to others the prospects of fame and 
+immortality, will animate them to tread in the same 
+path. I have the honor to be, with the greatest respect and esteem, 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3024">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The inclosed resolves are all I have in charge from 
+Congress to forward at this time. 
+</p><p>
+<a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a> having applied to Congress, in consequence of your letter to him, he has their permission to repair immediately to head-quarters, agreeably 
+to his own desire. I have made him acquainted with 
+this determination of Congress. 
+</p><p>
+In order that you may be enabled to meet General Howe upon his own ground, who has long since 
+offered rewards to induce the soldiers of the American army to desert, the Congress have authorized 
+you to fix on such rewards or sum of money as you 
+may judge proper, to encourage deserters from the 
+enemy, both horse and foot. You will, therefore, be 
+pleased to carry this resolve into execution in such 
+way as you may think most expedient, and best 
+suited to answer the end. I have the honor to be, 
+with the utmost esteem and respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3025">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+You will perceive, from the inclosed resolves, the 
+fixed determination of Congress to retaliate, as nearly 
+as lies in their power, on our enemies, should they 
+think proper to send any of their prisoners to Great 
+Britain, or to any other part of the British King's 
+dominions beyond sea. This resolution you will please 
+to convey to General Howe, as soon as possible, as 
+it is of the utmost importance. 
+</p><p>
+If the sixteen additional battalions are not all provided with commanding officers, the Congress, in consequence of a letter from Governor Caswell (an Extract of which I inclose to you), have recommended 
+Colonel Abraham Shepherd to the command of one of 
+the said battalions, and doubt not you will honor him 
+with the appointment. I beg leave to request your 
+attention to the whole of the resolves herewith transmitted. 
+</p><p>
+Inclosed you have the observations of Monsieur Du-coudray on Billingsport, and the other fortifications in 
+this river, which I forward for your perusal. Every 
+possible measure is taking to render the fortifications 
+complete. 
+</p><p>
+I have the honor to be, with the utmost esteem and 
+respect, Sir, 
+</p><p>
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3026">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your favor of the 23d, containing the agreeable 
+intelligence that the enemy had retreated from 
+Brunswick, I had the honor of receiving yesterday 
+afternoon, and shall this morning, with the greatest pleasure, lay it before Congress. Give me leave to 
+congratulate you very sincerely upon this event; as 
+it must be principally ascribed to the prudence and 
+wisdom of your operations, which had so embarrassed 
+the enemy as to reduce them to the necessity of 
+acting in the manner they have done. Should they 
+be compelled finally to abandon the Jerseys, which I 
+Hatter myself will be the case, it will be the most 
+explicit declaration to the whole world, that the conquest of America is not only a very distant, but an 
+unattainable object. We have seen them, after pene 
+trating some miles into our country, precipitately 
+driven back, and in a moment obliged to evacuate 
+towns, after keeping possession of them only a few 
+months. 
+</p><p>
+I do myself the honor to inclose you the resolves 
+of Congress respecting the Commissary's Department, 
+together with a list of the persons appointed to carry 
+it into execution. I beg leave to request your attention to them, and to the other resolves herewith transmitted. 
+</p><p>
+Your favor of the 20th instant was duly received, 
+and immediately communicated to Congress. I have 
+the honor to be, with the greatest esteem, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3027">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1777" rel="origin">1777</a>; Sunday morning. 
+</p><p>
+SIR, 
+</p><p>
+The complaints of the want of men to the north 
+ward are so great and urgent, that Congress, with a 
+view of affording them some assistance, have come to 
+the inclosed resolve ; by which you will perceive it 
+is their desire that five hundred riflemen, under the 
+command of an active officer, should be immediately 
+sent into that department, to oppose the incursions of 
+the Indians. 
+</p><p>
+Your favor of the 16th instant, I was last night 
+honored with, containing sundry inclosures, which shall 
+be communicated to Congress to-morrow. The plan 
+you have adopted and recommended for the defence 
+of the River Delaware, is ordered to be carried into 
+execution. As soon as Congress shall come into any 
+resolves on the subjects of your several letters, the-result shall be immediately transmitted. I have the 
+honor to be, with the greatest respect, Sir, 
+</p><p>
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3028">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Congress [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel="day origin" value="22">22</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1777" rel="origin">1777</a>; half past 1 o clock, P. M. 
+</p><p>
+SIR, 
+</p><p>
+This moment an express is arrived from Maryland, 
+with an account of near two hundred sail of Mr. 
+Howe's fleet, being at anchor in the Chesapeake Bay. 
+A copy of the letter, brought by express, I inclose to 
+you, and to which I refer you. In consequence of 
+this advice, Congress have ordered the immediate removal of all the stores and prisoners from Lancaster 
+and York, in this State, to places of greater safety. 
+</p><p>
+Congress have this moment come to the inclosed 
+resolution, to which I beg leave to refer you; and, 
+indeed, I need not add, as the whole matter is submitted to you. I will not detain the express only to 
+say, that I am, with every sentiment of esteem and 
+respect, Sir, 
+</p><p>
+Your very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3029">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your several favors to the 30th ultimo, inclusive, I 
+have had the honor of receiving, in the order of their 
+dates. 
+</p><p>
+From the inclosed resolves, you will perceive that 
+the Congress have appointed a committee to collect 
+and arrange the evidence relative to the evacuation 
+of <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, which will be afterwards transmitted 
+to you, that a court-martial may be thereupon instituted for the trial of the General Officers who were 
+in the Northern Department when the evacuation took 
+place. 
+</p><p>
+The great demand for arms to equip the militia, 
+who are called into service, has induced the Congress 
+to pass the inclosed resolve, directing that a number 
+of workmen, conversant in the business of repairing 
+firelocks, should be immediately detached from the 
+militia, to be employed in repairing the arms in this 
+city, there being between two and three thousand 
+that in a short time may be rendered fit for use. 
+</p><p>
+I have the pleasure to congratulate you on our 
+further success in the Northern Department, in raising 
+the siege of Fort Schuyler. The enemy, on the approach of <a href='/results.php?tla=bea' rel='colleague'>General Arnold</a>, fled with the utmost precipitation, leaving behind them their tents, ammunition, provision, &c. As I forward herewith several 
+letters for you from that quarter, which I make no 
+doubt contain an account of the matter, I beg leave 
+to refer you to them for further particulars. I have 
+the honor to be, with the greatest respect, Sir, 
+</p><p>
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3030">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+You will perceive, from the inclosed resolves, that 
+Congress, desirous of reenforcing the army at this 
+critical period, have recommended to the States of 
+Pennsylvania and New Jersey to order out immediately a considerable part of their militia; and I have 
+no doubt of their compliance. 
+</p><p>
+I have wrote to Governor Livingston on the subject, and informed him that, should he think proper 
+to appoint General Dickinson to the command of the 
+three thousand requested from that State, it will be 
+extremely agreeable to Congress. That gentleman 
+has, I understand, signified his readiness to act when 
+ever called upon; and, as he possesses the confidence 
+of the militia, and has talents equal to the task, I 
+am persuaded the appointment will give general satisfaction. 
+</p><p>
+Your favor of the 3d instant, and likewise of yesterday by the hands of <a href='/results.php?tla=arc' rel=''>General St. Clair</a>, I have been 
+duly honored with. The latter I shall lay before 
+Congress this morning. I have the honor to be, with 
+the greatest respect, Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3031">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor to transmit, at this time, copies 
+of the several letters from General Livingston and 
+General Ducoudray to Congress. As Governor Livingston seems apprehensive of an irruption from the 
+enemy on Staten Island, and says they are collecting 
+there for this purpose, the Congress have directed 
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> to hold in readiness fifteen hundred 
+men, under the command of a Brigadier, to cross the 
+North River when you may think proper to order it. 
+A copy of the resolve I shall immediately forward 
+to <a href='/results.php?tla=isp' rel='colleague'>General Putnam</a>. 
+</p><p>
+The inclosed letter, from Monsieur Ducoudray, contains a proposal of forming a camp between Wilmington and <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, the propriety of which the 
+Congress have referred entirely to you. Colonel Harrison's favor of the 7th instant was duly received. I 
+beg leave to request your attention to the inclosures ; 
+and have the honor to be, with the greatest respect, 
+Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3032">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>; 
+4 o clock, A. M. 
+</p><p>
+SIR, 
+</p><p>
+I am this moment favored with yours, by the express. I am sorry for the unfortunate issue of 
+the day; but from the troops keeping up their spirits, I flatter myself it will still be in our power to retrieve the loss of yesterday. 
+</p><p>
+I have thought proper, in consequence of the intelligence received this morning, to call the Congress 
+together at six o clock. I have the honor to be, with the utmost respect, Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3033">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, in Pennsylvania, <a rel="day origin" value="30">30</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Since my departure from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I have to 
+acknowledge the receipt of your favors to the 23d 
+instant. I met the Congress on Saturday last, at 
+Lancaster, and, upon consultation, it was judged most 
+prudent to adjourn to this place, where we now are, 
+and where we can prosecute business without interruption, and where your despatches will meet us. 
+</p><p>
+I have just now received, by <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a>'s 
+Aid-de-camp, <a href='/results.php?tla=rot' rel='colleague'>Major Troup</a>, sundry letters, copies of 
+which I have the honor to inclose to you, by which 
+it appears that our affairs in the Northern Department wear a favorable aspect, and I hope soon to 
+transmit you an account of an issue to the contest 
+in that quarter. 
+</p><p>
+I wish soon to receive the most pleasing accounts 
+from you. We are in daily expectation of agreeable 
+tidings, and that General Howe is totally reduced. 
+</p><p>
+I beg leave to refer you to the inclosed papers; 
+and am, with the utmost respect and esteem, Sir, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter><letter id="joh3034">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR 
+</p><p>
+I am to acknowledge the receipt of your favor of 
+the 19th of April, inclosing several papers; all which 
+were immediately laid before Congress. 
+</p><p>
+The important intelligence they contain makes it 
+necessary that the most vigorous measures should 
+be adopted, as well to defend our troops against the 
+Canadians themselves, as to insure success to the Expedition. The Congress being determined on the reduction of Quebec, and the security of that country, 
+for reasons too obvious to be mentioned, have left 
+nothing undone which can any ways contribute to 
+that end. Whatever may be the causes of the late 
+insurrection, good policy requires, that while we endeavour to prevent every thing of the kind for the future, we should also make provision in case it should 
+happen. Accordingly Congress have come into sundry 
+resolutions calculated to quiet the minds of the Canadians, and to remove the sources of their uneasiness 
+and discontent. They have likewise ordered six more 
+battalions to be sent into Canada from the army at 
+<a href='/results.php?city=new york' rel='city'>New York</a>, as you will see by the inclosed resolve. 
+Whether any further additional forces will be wanted 
+there, is a matter of some uncertainty with Congress. 
+Should you, from your knowledge of facts, the state 
+of Canada, the possibility that General Howe will 
+attempt to relieve General Carleton, and, comparing 
+all circumstances together, be of opinion that an additional force is still necessary, you will please to signify it to Congress, and at the same time inform 
+them whether, in that case, such additional force can 
+be spared from the army now at <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+I transmit, herewith, sundry resolves of Congress for your direction; and have the honor to be, Sir, your 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p><p>
+P. S. The inclosed letter for Commodore Hopkins, I leave unsealed for your perusal only ; after which I 
+beg of you the favor to seal and forward it by Fessenden, or a fresh express. I have paid Mr. Fessenden twelve dollars, which you will please to note on settlement with him. 
+</p>
+</letter>

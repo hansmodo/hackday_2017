@@ -1,0 +1,29 @@
+<letter id="gom4624">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="9">September</a> <a rel='day origin' value='19'>19th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I shall confine myself, on the present occasion, to transmitting copies of my correspondence with the ministry, on the 
+subject of the conference mentioned to you in mine of the thirtieth of last month. I transmit, however, a copy of what I 
+wrote on the twentieth of August, because the answer of the 
+eighth of this month would not be otherwise intelligible. I 
+will not at present make any comments on this correspondence, 
+and I do not know whether I shall ever mention it again. 
+I send you also, as the best means of communicating the 
+state of this city and kingdom, the short but lively picture drawn 
+of them in the Assembly by Monsieur Masuyer, on Saturday 
+last, the fifteenth instant, and the report made on Sunday morn 
+ing, by Monsieur Roland, the minister of the Interior. 
+</p><p>
+I wish it were in my power to communicate a more flattering prospect, than is held out by these extracts. It gives me 
+pain to write, and will, I am sure, give you pain to read, the 
+distressful state of a country for which we have both a sincere 
+regard. All which I can do under present circumstances, is, 
+to be silent. Bad news have a flight so rapid, that I will not 
+add to their wings. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

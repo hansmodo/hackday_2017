@@ -1,0 +1,108 @@
+<letter id="aba3421">
+<recipient first="Mary" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1786" rel="origin">1786</a>.
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+I wish I had one of my nieces with me whilst I 
+remain in this country ; but it will not be long before I shall q it it. Not ten days ago I expected to 
+have taken my passage in the July packet, in consequence of some intelligence which afterwards wore 
+a different appearance ; things are so fluctuating 
+upon both sides the water, that it is really difficult to 
+draw up conclusions. Prussia has treated, Portugal 
+has treated, and the Emperor's minister has just received powers to treat also ; but, very unfortunately, 
+the joint commission of the American ministers expired this month, so that nothing can be concluded 
+until new powers arrive. Whoever has any thing to 
+do with courts, must have patience for their first, 
+second, and third requisites. I wish I was well out 
+of the way of all of them. My object is to return 
+to America early next spring, if nothing arises to 
+oblige us to take this step sooner. I cannot think of 
+a fall passage. Of this, I shall be better informed 
+in a few weeks. But there is no office more undesirable than that of Minister of the United States ; 
+under the present embarrassments, there is no reputation to be acquired, and there is much to lose. 
+Negotiations with other powers may be and have 
+been effected ; but with England there is not the 
+least probability of a treaty, until the States are 
+united in their measures, and invest Congress with 
+full powers for the regulation of commerce. A 
+minister here can be of very little service until that 
+event takes place. It is true, he may be invested 
+with other powers, and one, more important than 
+treating with this country, is, making peace with the 
+Barbary States ; but as <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> foretold, so it has 
+turned out. Lamb is returning without being able to 
+effect any thing. The Dey would not even see him, 
+and the demand for the poor fellows who are in 
+captivity is a thousand dollars per man, and there 
+are twenty-one of them. The sum allotted by Congress is so inadequate to the thing, that we must 
+look only for war upon us. Unless Congress endeavour to borrow the sum demanded, and treat immediately, their demands will increase in proportion 
+to the captures they make ; but of all this they are 
+regularly and fully informed. You will not, however, make these matters known till you hear them 
+from some other quarter. These are dull subjects 
+for one lady to write to another upon ; but our country is so much interested in these affairs, that you 
+must excuse me for troubling you with them, and 
+you can communicate with discretion. 
+</p><p>
+I thank you most sincerely for all your kindness 
+to my dear sons, and hope they will ever bear a 
+grateful remembrance of it ; the account you give 
+of their behaviour and conduct is such as I hope 
+they merit. The idea that their success in life depends upon their diligence and application to their 
+studies, and a modest and virtuous deportment, cannot 
+be too strongly impressed upon their minds. The 
+foolish idea in which some of our youth are educated, 
+of being born gentlemen, is the most ridiculous in 
+the world for a country like ours. It is the mind 
+and manners which make the gentleman, and not 
+the estate. There is no man with us so rich as to 
+breed up a family in idleness, with ideas of paternal 
+inheritance, and far distant may that day be from 
+our land ; he who is not in some way or other useful 
+to society, is a drone in the hive, and ought to be 
+hunted down accordingly. I have very different 
+ideas of the wealth of my countrymen from what I 
+had when I left. Much of that wealth has proved 
+fallacious, and their debts exceed their property. 
+Economy and industry may retrieve their affairs. I 
+know that the country is capable of great exertions ; 
+but, in order to this, they must curtail their ideas 
+of luxury and refinement, according to their ability. 
+I do not believe any country exceeds them in the 
+article of dress. In houses, in furniture, in gardens 
+and pleasure-grounds, and in equipage, the wealth of 
+France and England is displayed to a high pitch of 
+grandeur and magnificence ; but, when I reflect upon 
+the thousands who are starving, and the millions who 
+are loaded with taxes to support this pomp and show, 
+I look to my happier country with an enthusiastic 
+warmth, and pray for the continuance of that equality of rank and fortune which forms so large a portion of our happiness. 
+</p><p>
+I yesterday dined at the Bishop of Saint Asaph's, 
+in company with Dr. Priestley and Dr. Price and 
+some strangers. The Bishop's character is well 
+known and respected, as a friend to America, and 
+justly does he deserve the character of a liberal 
+man. He is polite, affable, and consequently agreeable. He has a lady and an unmarried daughter, 
+both of whom are well-bred, according to my ideas ; 
+according to British ideas, good breeding consists in 
+an undaunted air and a fearless, not to say bold, address and appearance. The old lady is both sensible and learned, quite easy and social ; the young 
+one is modest and attentive. This is a family, the 
+friendship and acquaintance of which I should like 
+to cultivate. 
+</p><p>
+Dr. Priestley is a gentleman of a pale complexion, 
+spare habit, placid, thoughtful countenance, and 
+very few words. I heard him preach for Dr. Price. 
+His delivery is not equal to the matter of his discourses. I dined twice in company with the Doctor, 
+and was mortified that I could not have more of his 
+company at our own house, but he was engaged 
+every moment of his time whilst in <a href='/results.php?city=london' rel='city'>London</a>. I believe I have frequently mentioned Dr. Price ; he is a good and amiable man, a little inclined to lowness 
+of spirits which partly arises from the melancholy 
+state of Mrs. Price, who two years ago had a paralytic stroke, and has been helpless ever sin ze. 
+Believe me yours affectionately, 
+</p><p>
+A. A. 
+</p>
+</letter>

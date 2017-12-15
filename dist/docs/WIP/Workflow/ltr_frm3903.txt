@@ -1,0 +1,20 @@
+<letter id="frm3903">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='12'>12</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+DEAR SIR: 
+</p><p>
+Since I wrote the enclosed, I have received a letter from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. His orders are, not to suffer the flag schooner to be taken or 
+detained. You will follow my orders respecting that business. I have 
+answered Capt. Howell's letter by this opportunity. In respect to your 
+corps, the General and Governor approves of the plan of dismounting 
+them, to act in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> as infantry; but will not impress any more 
+horses for the service of either corps, as their time will so soon expire, 
+and it seems not their intention of keeping them up longer. I shall 
+write you fuller in my next. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

@@ -1,0 +1,176 @@
+<letter id="bel3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I was, in the evening of the 23d, honored with 
+your Excellency's favor of the 11th. No measure 
+has been left untried to save the question for filling 
+up our battalions for the war; but every attempt of 
+its abettors for that purpose (and many there were 
+in the Assembly) proved abortive. The following 
+short anecdote will point your Excellency to some, 
+and, I think, the principal reasons on which the 
+question was lost. A venerable gray-headed old gentleman, who has lost two sons in the war, rose in the Assembly, and observed that the army must be 
+filled up, and by our own children, who were afraid 
+of becoming slaves, which they supposed might be 
+the case if they engaged for the war. "We have," 
+continued the old gentleman, " sons now grown up, 
+who will readily engage for three years, and, by the 
+time their services shall expire, others, now young, 
+will be ready to take their places." These ideas so 
+fully possessed the minds of the country members, 
+that they supposed every attempt to fill up the army 
+for the war would be ineffectual, serve only to waste 
+the time, and probably prevent its being done, even 
+for three years. 
+</p><p>
+Though I am myself convinced that the measure is 
+wrong, and that we had better have tried to have 
+raised part of the number in the first place, and 
+those for the war, yet I have the pleasing satisfaction to be fully convinced that those who were of a 
+different opinion acted from the purest motives, and 
+the fullest conviction that it was the most elioible. 
+Notwithstanding the vote passed to raise the men 
+for three years, or for the war, yet I have great 
+hopes, from the encouragement given to them to engage for the war, in addition to the sum to be given 
+for a three years' enlistment, and. from the disposition I find in the seaports in favor of the former 
+measure, that great exertions will be made by them 
+and others to carry it into execution. Indeed, this 
+town has already secured about one third of its men 
+for this term, and expect thus to secure the remainder. 
+</p><p>
+The Assembly meets next week ; and, if there is 
+the most distant prospect that, on a revival of the 
+question, it will share a different fate from its last, 
+I am positive it will be renewed. 
+</p><p>
+By looking back into the state of onr finances, 
+and forward to the expenses which will necessarily 
+be incurred the next campaign, it is found that part 
+of them must be provided for by direct borrowing. 
+This, I think, will have a very happy effect ; for, before we can be again trusted, we must rescind some 
+former resolutions, which have not given all that protection and support to creditors which, perhaps, the 
+Legislative body intended they should give ; and 
+adopt an enlarged system of politics, pregnant with 
+the highest justice, the most permanent security to 
+individuals. This will give dignity to Government, 
+array the Legislature with confidence, and clothe the 
+Executive with strength and vigor ; for a government whose resolutions are equal will as certainly 
+find support, as that men regard, and steadily pursue, their own happiness. 
+</p><p>
+I am much surprised to hear that there is so scanty an allowance of clothing in camp, as we have had, 
+for so long a time, not only a good supply on hand 
+in Europe and the West Indies, but, as I have the 
+greatest reason to believe, a sufficiency of clothes 
+within this State, brought in by our privateers, to 
+clothe our army at any time within these five months 
+past, five times over. Our finances, I know, are in a 
+miserable situation; but I cannot believe that those 
+of the several States are in so ruinous a condition 
+as to prevent the purchase of so necessary an article. 
+</p><p>
+Though it always gives me pain to offer a sentiment, which may in the least cast a censure upon 
+Congress, for I know they are embarrassed, and are 
+not supported as the best good of the public evidently dictates, yet I cannot but suggest my belief, 
+that the want of proper arrangements, in some degree 
+occasioned those distresses of our army, consequent 
+upon a want of clothing. Either the Continental 
+agents should purchase the whole for the army at 
+large, or the several States should be left entirely to 
+clothe their own troops, without the least interference 
+of the agents; for, so long as it is the joint business 
+of the agents and the respective States, a mutual reliance will occasion a failure of exertion in each. 
+The former method is much to be preferred, because 
+there would be a greater uniformity in the clothing 
+of the troops, which will, among other conveniences, 
+serve to prevent the existence of jealousies, arising 
+from an apprehension of different usage. If an idea 
+has ever been held up, that the Continental army is 
+but the union of thirteen different armies, having different interests, and, in some degree, different pursuits, and of course, that good policy requires that 
+each State should secure the affections of their own 
+troops, and attach them to her particular interest, 
+every step I wish might be taken to bury the sentiment in oblivion, and every measure tending to support it, if another can as conveniently be adopted, be 
+by no means executed. 
+</p><p>
+This, then, will stand as another reason why the 
+Continent should clothe the troops of the respective 
+States, or rather their own army. The business of 
+clothing the army is exceedingly loose and irregular, 
+so far that this State, even at this late hour, are uncertain, whether Congress expect that they are to 
+clothe their own troops, independent of them, or not. 
+As it is a matter of great importance, I hope Congress will be explicit and decided on this point. It 
+is particularly necessary that they should be so, as it 
+is supposed, here, that the late requisition of Congress 
+for the specific articles and cash, together with what they draw from the new emission, is the whole demand on this State ; and, as I said before, part of 
+this expense must be provided for b}'' borrowing. 
+Should Congress think it most expedient that this 
+State, or the several States, should clothe their own 
+troops and credit them for the expense, in the present requisition, I am confident that if they give 
+orders to this State for this purpose, they will be 
+immediately executed. 
+</p><p>
+Colonel Henly assures me, that the goods are here, and that an immediate supply for the whole army 
+can be obtained. Some have been offered him on credit. He has no orders to purchase. 
+</p><p>
+To clothe all the troops of the Continent can now, 
+I think, be easily effected. The inclosed will show 
+your Excellency, what quantity of clothing has been 
+lately sent on, and what remains on hand. I hope 
+the matter will not be delayed a single moment, from 
+an expectation of our receiving what we have in Europe, or the West Indies. The danger of the seas, 
+and the risk of capture, are too great to justify the 
+least suspension. Indeed, was it to arrive at the hour 
+of our procuring a full supply, should we even then 
+have more on hand than sound policy would direct? 
+I believe not; but am rather of opinion that a provident people, under our circumstances, would store 
+three times the quantity. If, on the whole, we should 
+be ordered to clothe our own troops, I wish your 
+Excellency's directions whether, if it can soon be 
+effected, the recruits should be detained in the mean 
+time, or marched on, without delay, to camp. In either 
+case, I conceive it will be necessary to send a number 
+of officers to Springfield, and to this town, as those 
+will probably be the two principal places at which the troops will rendezvous; for, if we mean to keep 
+them from straggling, marauding, and wasting their 
+time, they must be sent in bodies under proper 
+officers. It appears to me, that it will be also necessary to detain some of the arms now here and which 
+are ordered on, to be put into the hands of those on 
+whom we can depend. They will serve as a guard 
+to others of a different character. 
+</p><p>
+The General Court have ordered, to each man, one 
+dollar a mile, to enable him to march to camp ; but 
+it is so far short of the real expense, that it will 
+answer no valuable purpose. Indeed, if it was adequate, I think no good would arise from the measure ; 
+for, I am confident, the men will not be got to camp 
+unless they are marched under the care of proper 
+officers, and different magazines established on the 
+route, at which the men can be regularly supplied. 
+I think there should be one in this town, one in 
+Worcester, one in Springfield, and one in <a href='/results.php?city=litchfield' rel='city'>Litchfield</a>. 
+If your Excellency should be of opinion that the 
+measure is necessary, I wish you would suggest it 
+to the Governor, who, ever disposed to do right, 
+doubts the propriety of his ordering these magazines 
+from the specific articles called for by Congress. If 
+these are not taken, it will be difficult to establish 
+them. 
+</p><p>
+There are some matters to be attended to here, in 
+the military way, which seem to be the particular 
+business of your Excellency, as Commander-in-chief, 
+or the Commanding Officer in a separate department. 
+Am I, Sir, as senior officer here, competent to such 
+business ? If I am not, and further powers from 
+your Excellency should be necessary, and you should 
+think proper to grant them, I hope, if it can be avoided, an idea of my being Commanding Officer in 
+this department will not be held up. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">Benjamin Lincoln</a>.
+</p>
+</letter>

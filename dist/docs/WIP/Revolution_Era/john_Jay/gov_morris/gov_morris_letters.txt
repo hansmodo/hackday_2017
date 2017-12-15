@@ -1,0 +1,259 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4000
+--LETTER-TLA--gom
+--DOC-AUTHOR-FIRST--Gouverneur
+--DOC-AUTHOR-LAST--Morris
+--DOC-SOURCE--The Life John Jay With Selections from His Correspondence and Miscellaneous Papers. by His Son, William Jay in Two Volumes. Vol. II., 1833.
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="gom4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=valley forge' rel='city origin'>Valley Forge</a>, <a rel="month origin" value="2">Feb.</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear Jay, 
+</p><p>
+Congress have sent me here, in conjunction with some other gentlemen, to regulate their army, and in truth not a 
+little regulation hath become necessary. Our quartermaster and commissary departments are in the most lamentable situation. Opportunities have been neglected last 
+campaign which were truly golden ones, but omnipotent fatality had, it seems, determined that the American capital 
+should fall. Our sentiments on this occasion are so perfectly coincident that I will not enlarge. The mighty Senate 
+of America is not what you have known it. The continental currency and Congress have both depreciated, but in 
+the hands of the Almighty Architect of empires, the stone which the builders have rejected may easily become head 
+of the corner. The free, open, and undisturbed communication with the city of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> debauches the minds 
+of those in its vicinage with astonishing rapidity. O, this State is sick even unto the death, and in Sir William they 
+have certainly got a most damnable physician. Just before 
+the reduction of the forts, the enemy balanced exactly upon 
+the point of quitting the city, and a straw w r ould have 
+turned in either scale. Our troops ; Heu miseros ! The skeleton of an army presents itself to our eyes in a naked, 
+starving condition, out of health, out of spirits. But I have seen Fort George in the summer of <a href='/results.php?year=1777'>1777</a>. Next 
+campaign I believe we shall banish these troublesome fellows. For Heaven's sake, my dear friend, exert yourself 
+strenuously in the great leading business of taxation. To 
+that great wheel "a thousand petty spokes and small annexments are morticed and adjoined." I earnestly entreat you 
+and my other friends, fortia opponere pectora to that fatal 
+system of limitation, which, if carried into execution, would 
+be downright ruin, and in the ineffectual attempt will carry 
+us to the brink of it. Yorktown and its neighbourhood
+although nearly ninety miles from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, already considers our money almost as waste paper. At taverns, 
+take as specimen the following rates : breakfast and supper each, seven shillings and sixpence ; dinner, ten shillings ; 
+one night's hay for one horse, seven shillings and sixpence; oats, per quart, one shilling ; toddy, per bowl, ten shillings ; 
+rum, per gill, seven shillings and sixpence; wine, per bottle, from thirty to forty shillings, and the like ; you will observe 
+this is proclamation. Hay, they tell me, hath been sold in some places at £20 proc. per ton. My love to Livingston. 
+I shall write to him by this opportunity, if I can find time to send a long letter, which, indeed, I owe him. Remember me to Mrs. Jay, and believe me, yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter><letter id="gom4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR Jay, 
+</p><p>
+I won't dispute who has written most. I have written more than twice what you acknowledge to have received, but this is of no consequence. 
+</p><p>
+I am sorry for your session, but I wished you had marked out what taxes have been laid, what salaries given, and a 
+few more striking outlines of legislation. These, with what I know of your men, would have enabled me to imagine proper lights and shades. 
+</p><p>
+I choose that my friends should write freely, and those 
+who know me must know that such freedoms need no 
+apology. I never thought the person you allude to so 
+steady as could be wished. We have all of us our weak 
+sides ; would to God that were the worst. 
+</p><p>
+What you mention relative to our plan of rights shall be 
+attended to. I am a busy man, though, as heretofore, a 
+pleasurable one. 
+</p><p>
+Let your governor cleanse the Augean stable in his State, 
+which no public body would do though it stink under their 
+noses. I am labouring at arrangements of various kinds. 
+God prosper me, and give me patience and industry. It 
+was a good wish from one who knew my wants. 
+</p><p>
+We have ordered troops from the highlands, but we will 
+send thither a general, who shall be empowered to call forth 
+the swarms of the eastern hive. Men were necessary at 
+the <a href='/results.php?city=valley forge' rel='city'>Valley Forge</a>. I have a good knack at guessing. I 
+guess the enemy won't attempt Hudson River. 
+</p><p>
+I do think of Vermont : and unless I mistake, matters 
+shall be managed to effect, without bellowing in the forum, 
+which I believe hath been a little too much the case. But 
+why should I blame impetuous vivacity, — hath it never led 
+me into an error ? 
+</p><p>
+<a href="/results.php?tla=isp" rel="">Putnam</a> will soon be tried. The affair of <a href="/results.php?tla=pjs" rel="">Schuyler</a> and <a href="/results.php?tla=arc" rel="">St. Clair</a> laboured under awkward circumstances. Their 
+friends and their enemies appear to me to have been equally 
+blind. I enclose extracts from the minutes made the other 
+night to possess myself of the real state of facts. There are 
+some other entries from time to time. It was erroneous to 
+order a committee simply to collect facts ; they should have 
+been directed to state charges. This morning, my colleague 
+being absent, I got a committee appointed for the latter 
+purpose : Sherman, Dana (Massachusetts), and <a href="/results.php?tla=wid" rel="">Drayton</a> (South Carolina). This was unanimous, and yet I would 
+have undertaken to argue for it in a style which would absolutely have ruined the measure. You know it would have 
+been easy to say, justice to those injured gentlemen, instead 
+of justice to an injured country requires, &c. 
+</p><p>
+Great Britain seriously means to treat. Our affairs are 
+most critical, though not dangerously so. If the minister 
+from France were present as well as him from England, I 
+am a blind politician if the thirteen States (with their extended territory), would not be in peaceable possession of 
+their independence three months from this day. As it is, 
+expect a long war. I believe it will not require such astonishing efforts after this campaign to keep the enemy at bay. 
+Probably a treaty is signed with the house of Bourbon ere 
+this ; if so, a spark hath fallen upon the train which is to 
+fire the world. Ye gods ! what havoc doth ambition make 
+among your works. 
+My dear friend, adieu. My love to your wife, Remember me to all my friends of every rank" and sex. 
+</p><p>
+I am yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p><p>
+P.S. I meant to have said, the present is within the 
+spirit of our constitution, a special occasion. 
+</p>
+</letter><letter id="gom4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='10'>10th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Jay, 
+</p><p>
+I write to acknowledge your letter of the 24th September. Being uncertain where you are, and consequently 
+what course this letter may take, and through what hands 
+it will pass, I shall not say so much as I otherwise might. 
+I will direct to the care of <a href="/results.php?tla=ben" rel="colleague">Dr. Franklin</a>. 
+</p><p>
+Your attachment to America, when removed from it, is 
+the old story of travellers ; but when it comes from one in whose feelings we feel an interest, decies repetita placebit. 
+Of your health you speak despondingly, yet you say your spirits are good. Believe me, my friend, good spirits will 
+both make and preserve good health. I mean to extend the observation generally, but not universally. Whatever lot 
+betides us, I wish you at least one happy year, and I hope that Heaven will do you the justice to grant a long succession of them. Make my good wishes acceptable to Mrs. Jay, and present me tenderly to your children. 
+</p><p>
+I was lately in New-York, and have the pleasure to tell you that all your friends were well. Things there are now 
+in that kind of ferment which was rationally to have been expected ; and I think the superior advantages of our constitution will now appear in the repressing of those turbulent spirits who wish for confusion, because that in the 
+regular order of things they can only fill a subordinate sphere. 
+</p><p>
+This country has never yet been known to Europe, and God knows whether it ever will be so. To England it is 
+less known than to any other part of Europe ; because they constantly view it through a medium either of prejudice or of faction. True it is, that the general government 
+wants energy ; and equally true it is that this want will eventually be supplied. A national spirit is the natural result of national existence ; and although some of the present 
+generation may feel colonial oppositions of opinion, that generation will die away, and give place to a race of Americans. On this occasion, as on others, Great Britain 
+is our best friend ; and by seizing the critical moment when we were about to divide, she has shown clearly the dreadful consequences of division. You will find that the States 
+are coming into resolutions on the subject of commerce ; which, if they had been proposed by Congress on the plain reason of the thing, would have been rejected with resentment, and perhaps contempt. 
+</p><p>
+With respect to our taste for luxury, do not grieve about it. Luxury is not so bad a thing as it is often supposed to 
+be ; and if it were, still we must follow the course of tidings, and turn to advantage what exists, since we have not the 
+power to annihilate or create. The very definition of luxury is as difficult as the suppression of it. 
+</p><p>
+Do not condemn us till you see us. Do not ask the British to take off their foolish restrictions. Let them 
+alone, and they will be obliged to do it themselves. While the present regulation exists, it does us more of political good than it can possibly do of commercial evil. 
+</p><p>
+Adieu. Believe me always, yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter><letter id="gom4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel='day origin' value='1'>1st</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I am too much occupied to find time for the use of a cipher, and in effect, the government here is so much occupied with their own affairs, that in transmitting to you a 
+letter under an envelope, there is no risk. This, however, I am pretty certain will go safe. The States-general have 
+now been a long time in session, and have done nothing hitherto. They have been engaged in a dispute, whether 
+they shall form one body or three. The commons, who are represented by a number equal to both the others, and 
+who besides have at least one-half the representatives of the clergy, insist on forming a single house. They have 
+succeeded. But the nobles deeply feel their situation. The king, after siding with them, was frightened into an abandonment of them. He acts now from terror only. The 
+soldiery in this city, particularly the French guards, declare they will not act against the people. They are now 
+treated by the mobility, and parade about the streets drunk, huzzaing for the Tiers. Some of them have, in consequence, 
+been confined, not by the force, but by the adroitness of authority. Last night this circumstance became known, 
+and immediately a mob repaired to the prison. The soldiers on guard unfixed their bayonets, and joined the assailants. A party of dragoons, ordered on duty to disperse 
+the riot, thought it better to drink with the rioters, and return back to their quarters. The soldiers, with others 
+confined in the same prison, were then paraded in triumph to the Palais Royal, which is now the liberty pole of this 
+city, and there they celebrated, as usual, their joy. Probably this evening some other prisons will be opened, for 
+" Liberte" is now the general cry, and " autorite" is a name, not a real existence. 
+</p><p>
+The court are about to form a camp in the neighbourhood of Paris, of 25,000 men, under the command of the Marechal de Broglio. I do not know him personally, 
+therefore cannot judge what may be expected from his talents ; but all my information goes to the point, that 
+he will never bring his army to act against the people. 
+The Guard du Corps are as warm adherents (in general) to 
+the Tiers as anybody else, strange as that may seem ; so 
+that in effect the sword has slipped out of the monarch's 
+hands, without his perceiving a tittle of the matter. All 
+these things in a nation not yet fitted by education and 
+habit for the enjoyment of freedom, gives one frequent suspicions that they will indeed greatly overshoot their mark, 
+if indeed they have not already done it. Already some 
+people talk of limiting the king's negative upon the laws. 
+And as they have hitherto felt severely the authority exercised in the name of their princes, every limitation of that 
+authority seems to them desirable. Xever having felt the 
+evils of too weak an executive, the disorders to be apprehended from anarchy make, as yet. no impression. 
+</p><p>
+The provincial assemblies or administrations, in other 
+words, the popular executive of the provinces, which Turgot 
+had imagined as a means of moderating the regal legislative 
+of the court, is now insisted on as a counter security against 
+the monarch, when they shall have established a democratical legislative, for you will observe that the noble and clerical 
+orders are henceforth to be vox et preeterea nihil. The 
+king is to be limited to the exact sum needful for his personal expenses. The management of the public debt, and 
+revenues to provide for it, will be taken entirely out of his 
+hands, and the subsistence of the army is to depend on temporary grants. Hence it must follow, that his negative, in 
+whatever form reserved, will be of little avail. These are 
+the outlines of the proposed constitution, by which at the 
+same time lettres de cachet are to be abrogated, and the 
+liberty of the press established. 
+</p><p>
+My private opinion is, that the king, to get fairly out of the 
+scrape in which he finds himself, would subscribe to any 
+thing ; and truly from him little is to be expected in any way. 
+The queen, hated, humbled, mortified, feels, and feigns, and 
+intrigues to save some shattered remnants of the royal authority ; but to know that she favours a measure is the certain 
+means to frustrate its success. The Count D'Artois, alike 
+hated, is equally busy, but has neither sense to counsel himself, nor choose counsellors for himself, much less to counsel 
+others. The nobles look up to him for support, and lean on 
+what they know to be a broken reed, for want of some more 
+solid dependence. In their anguish, they curse Neckar, 
+who is, in fact, less the cause than the instrument of their sufferings. His popularity depends now more on the opposition 
+he meets with from one party, than any serious regard of 
+the other. It is the attempt to throw him down which saves 
+him from falling. He has no longer the preponderating 
+weight in council, which a fortnight ago decided every 
+thing. If they were not afraid of consequences, he would 
+be dismissed ; and, on the same principle, the king has refused to accept his resignation. If his abilities were equal 
+to his genius, and he were as much supported by firmness 
+as he is swayed by ambition, he would have had the exalted 
+honour of giving a free constitution to above twenty millions of his fellow-creatures, and would have reigned long 
+in their hearts, and received the unanimous applause of 
+posterity. But as it is, he must soon fall. Whether his 
+exit will be physical or moral, must depend on events 
+which I cannot foresee. The best chance that royalty has 
+is, that popular excesses may alarm. At the rate in which 
+things are now going, the king of France must soon be one 
+of the most limited monarchs in Europe. Adieu. 
+</p><p>
+I am yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter><letter id="gom4004">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+Marrarna, <a rel='day origin' value='25'>25th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1813' rel="origin">1813</a>.
+</p><p> 
+My dear Friend, 
+</p><p>
+Last Tuesday evening my wife was delivered of a boy. I communicate that event because I believe it will give you 
+pleasure. Moreover, I wish you to be one of his godfathers. True it is, thai according to the usual course, you may not 
+be able to perform the duties of that office ; but, my friend should you be mingled with the dust, he shall learn from the 
+history of your life, that a man must be truly pious to be truly great. I do not fix the day, because I wish you 
+to come on in a fortnight or three weeks, when it best suits your convenience. I will then summon the priest and the other sponsors. 
+</p><p>
+Yours truly, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

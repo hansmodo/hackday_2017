@@ -1,0 +1,251 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.XFmviC on line 211
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--cdl
+--DOC-AUTHOR-FIRST--Chevalier
+--DOC-AUTHOR-LAST--de la Luzerne
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+</letter><letter id="cdl3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I inclose to your Excellency a letter for <a href='/results.php?tla=cdt' rel='colleague'>M. De Ternay</a>, in which you will see what measures I have 
+taken to fulfil the intentions, which you imparted to 
+me on the 27th instant. I beg you will seal this 
+packet, and send it to his address by the first opportunity. 
+</p><p>
+Congress have put under your orders the frigates, 
+in directing them to come into the Delaware. You 
+will be able to judge, after your arrangements with 
+the <a href='/results.php?tla=cdt' rel='colleague'>Chevalier De Ternay</a>, whether these vessels, or 
+one of them, may not accomplish the commission desired Their cruise may then be useful to the commerce of the United States. I know not whether <a href='/results.php?tla=cdt' rel='colleague'>M. De Ternay</a> will communicate to them any signals, by means of wMcli they may approach the coast without 
+danger. Your Excellency may be able, should you 
+think it necessary, to suggest it to him. 
+</p><p>
+I have the honor to he, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter><letter id="cdl3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+I flattered myself that the clothing, destined for 
+the army under the command of your Excellency, 
+had at length arrived in the river, in the vessel of 
+Paul Jones, or in one of those coming under his 
+convoy; but I regret that you have not yet had 
+that satisfaction. A passenger, who arrived in one of 
+this convoy, told me that when this little squadron, 
+which left France on the 8th of October, should arrive, they would bring but little clothing, being in 
+great part laden with arms and ammunition; but he 
+added that the Serapis is destined to bring the 
+remainder of the clothing, and that we may hope 
+to see the vessel arrive soon in our ports. I am 
+anxious to have an opportunity of giving your Excellency notice of the arrival of these articles. 
+</p><p>
+I have received certain intelligence that an expedition, composed of four thousand troops, convoyed 
+by eight vessels of war, departed on the 16th of October from the Havana to attempt an expedition 
+against Pensacola. But it is thought that the terrible tempests, which they may have experienced on 
+the passage, may have retarded the fleet. 
+</p><p>
+Another expedition was to depart in the month of 
+December, to attack St. Augustine. It was to be 
+composed of ten thousand men, regulars and militia, 
+and twelve vessels of war. I wish, sincerely, that the 
+operation may meet with success, and thus make an 
+advantageous diversion in favor of the United States 
+in that quarter. 
+</p><p>
+The Chevalier de Chastellux and the officers who 
+had the honor of visiting you at head-quarters, desire 
+me to present their respects to you. They hope to 
+have the honor of seeing you again on their return. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter><letter id="cdl3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to send to your Excellency an open packet for the <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>. You will 
+there find the copy of a letter to me from M. Destouches. I lament the ill success of an expedition. 
+which, if it had succeeded, would have been doubly 
+agreeable to us by its utility to our allies, and by 
+the honor it would have reflected upon the arms of 
+the King. As to the rest, it appears that our Commanders have fulfilled this latter point; and all the 
+world is satisfied that, having a superior force to 
+contend against, the manner of the contest has been 
+highly honorable to them. 
+</p><p>
+I wait for happier events. Sir, from the campaign 
+which is now about to open ; and I doubt not the 
+<a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a> has given you, in detail, the 
+news which he has received from France. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter><letter id="cdl3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+I embrace the first moment after my return from 
+Virginia; to comply with the request of the principal 
+officers of our army in tendering you their sincere respects. I have already forwarded to your Excellency 
+a letter from <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>. On my return 
+here, I found letters from my Court, dated in February last. They do not announce any thing pacific on 
+the part of our enemies. No progress is made in the 
+mediation of the Courts of Vienna and Petersburg ; 
+and the Court of London seems determined to risk 
+the event of another campaign, in which they will 
+employ all the strength they have left. The plan 
+for the campaign was not yet finally decided ; it depending on some arrangements which were yet to be 
+made with the Court of Madrid, and on some advices 
+which were expected from the Antilles. It nevertheless seemed to be the intention to act vigorously for 
+the assistance of the United States; and though no 
+particular assurances could be given me on this head, 
+yet, from what they write me, it is probable that 
+<a href='/results.php?city=new york' rel='city'>New York</a> or <a href='/results.php?city=charleston' rel='city'>Charleston</a>, or perhaps both, will be 
+the object of their efforts next campaign. 
+</p><p>
+I think it, however, proper to inform you that, at 
+the same time they announce to me their general 
+views, they observe that it is an unhappy circumstance that the American army is so weak as it is ; 
+and they seem to fear that it will not be in a condition to second their efforts, when it shall be necessary to strike a decisive stroke, or to undertake operations in which such extensive means are required 
+as in a siege. 
+</p><p>
+I beg your Excellency would enable me to give 
+my Court the necessary information on a matter so 
+important as this is. I am not curious to know any 
+of the particular details relative to your army, which 
+it may be necessary to keep secret j but the military operations of France and America are so intimately connected, that it is indispensable for us to 
+know what is the actual force and means which you 
+have, in order to calculate, with any degree of probability, what enterprises can be undertaken. Our 
+ignorance in this respect cannot but be very prejudicial to our affairs, because if, from false information, 
+we consider your army as weaker than it really is, 
+it will prevent our forming plans which it would be 
+possible to execute ; and if, on the contrary, we 
+are led to believe it stronger than it really is, we 
+run the risk of forming plans impracticable in their 
+execution. It is from these considerations that I beg 
+you to confide to me such information on this head 
+as you may think proper, both with respect to the 
+actual force you have at the different parts of the 
+Continent, and what it will probably be in the course 
+of the campaign. It is equally interesting to know 
+the force of the enemy, both in regulars and militia. 
+I beg you to rest assured of the discretion with 
+which I shall make use of these communications. 
+</p><p>
+I cannot refuse myself the pleasure of communicating to you the sentiments with which our Court and 
+the nation at large are inspired, from the reports of 
+the French officers, respecting your Excellency, on 
+their return to Versailles. Their testimony could 
+add nothing to the universal opinion of the great 
+services you have rendered your country j but to the 
+esteem and admiration of the French, is now added a 
+sentiment of affection and attachment, which is the 
+just return for that attention our military experienced 
+from you, and the progress they made in their profession by serving under your orders. I have the 
+honor to be, with sentiments of the most respectful 
+and inviolable attachment, Sir, your Excellency's 
+Most humble and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter><letter id="cdl3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have received the letter which your Excellency 
+did me the honor to write on the 23d of the past 
+month, and that of the <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>, with 
+which it was accompanied. 
+I wait with extreme impatience the news of the 
+arrival of the French division before <a href='/results.php?city=new york' rel='city'>New York</a>; and 
+no one can desire more warmly than I do to see it 
+under your immediate command. I hoped most fervently that you would have been this spring in the 
+command of a more considerable body of auxiliaries. 
+The causes which have hindered the execution of 
+that plan have been so urgent and so decisive, that I 
+am sure you will approve them, after I shall have 
+had the honor of making you acquainted with them. 
+I have nevertheless been much pained that I could 
+not explain to you this change of measures; and my 
+attachment to the cause which you defend has made 
+me feel, as sensibly as any citizen of America, all the 
+delays which could happen to the assistance which we 
+wish to give to the thirteen States. 
+</p><p>
+I am impressed with the necessity of maintaining 
+a perfect confidence with your Excellency upon these 
+different points, and I shall seize the first occasion 
+which presents itself to visit your army. 
+</p><p>
+In the mean time, I am going to transmit to the 
+Count de Grasse what your Excellency did me the 
+honor to communicate. Be persuaded that I shall 
+use the most pressing motives to determine him, and 
+I shall do it with so much the more zeal, as I feel 
+the necessity of it. I shall transmit to that General an extract of your letter; and nothing appears to me 
+more likely to give weight to the demand which I 
+shall make from him. 
+</p><p>
+The King has charged me, Sir, to inform Congress, 
+that he grants them a gratuitous subsidy, to enable 
+them to make the greatest efforts in the course of 
+this campaign. This subsidy, amounting to six millions of livres tournois, is to be employed in the 
+purchase of arms, ammunition, and clothing ; and it is the intention of the King, that the surplus shall he 
+at the disposal of Congress. I have not been instructed, as to what will be the exact amount of this 
+surplus; but in the mean time it is determined that 
+one million and a half shall be employed by the Superintendent of Finances of the thirteen States, according to the directions which you shall give him, 
+and after the arrangements which you shall make 
+with him in the visit which he intends making you. 
+I have informed Congress, and I intrust it to your 
+Excellency, that the Emperor and the Empress of 
+Russia have offered their mediation to the Court of 
+London, which has accepted it. It has also been offered to the Court of Versailles and that of Madrid. 
+But they have given for answer, that time must be 
+left to Congress to determine, if it suits them to put 
+the interests of the thirteen States into the hands of 
+the Mediators. In any event, it is of the greatest 
+importance that the allies make all their efforts to 
+drive the enemy from This Continent; and nothing will 
+be more likely than the success of the confederate 
+arms, to make a successful negotiation. 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

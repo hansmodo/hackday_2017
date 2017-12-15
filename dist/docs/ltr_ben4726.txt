@@ -1,0 +1,65 @@
+<letter id="ben4726">
+<recipient first="Cadwallader" last="Evans" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I wrote you a few lines by Captain Falconer, and sent you 
+Dr. Watson's new piece of Experiments in Inoculation, 
+which I hope will be agreeable to you. 
+</p><p>
+In yours of November 20th, you mention the lead in the 
+worms of stills as a probable cause of the dry belly-ache 
+among punch-drinkers in our West Indies. I had before 
+acquainted Dr. Baker with a fact of that kind, the General mischief done by the use of leaden worms, when rum-distilling was first practised in New England, which occasioned 
+a severe law there against them ; and he has mentioned it in 
+the second part of his piece not yet published. I have long 
+been of opinion, that that distemper proceeds always from 
+a metallic cause only; observing that it affects, among 
+tradesmen, those that use lead, however different their trades, 
+as glaziers, letter-founders, plumbers, potters, white-lead 
+makers, and painters; (from the latter, it has been conjectured, it took its name colica Pictonum, by the mistake of a 
+letter, and not from its being the disease of Poictou;) and, 
+although the worms of stills ought to be of pure tin, they are 
+often made of pewter, which has a great mixture in it of lead. 
+</p><p>
+The <a href='/results.php?city=boston' rel='city'>Boston</a> people, pretending to interfere with the manufactures of this country, make a great clamour here against 
+America in general. I have therefore endeavoured to palliate 
+matters a little in several public papers. It would, as you 
+justly observe, give less umbrage if we meddled only with 
+such manufactures as England does not attend to. That 
+of linen might be carried on more or less in every family, and 
+silk, I think, in most of the colonies. But there are many 
+manufactures that we cannot carry on to advantage, though 
+we were at entire liberty. And, after all, this country is 
+fond of manufactures beyond their real value, for the true 
+source of riches is husbandry. Agriculture is truly productive of new wealth; manufacturers only change forms, 
+and, whatever value they give to the materials they work 
+upon, they in the mean time consume an equal value in 
+provisions, &c. So that riches are not increased by manufacturing ; the only advantage is, that provisions in the shape 
+of manufactures are more easily carried for sale to foreign 
+markets. And where the provisions cannot be easily carried 
+to market, it is well to transform them for our own use as well 
+as foreign sale. In families also, where the children and 
+servants of families have some spare time, it is well to employ 
+it in making something, and in spinning or knitting, &c., 
+to gather up the fragments (of time) that nothing may be lost, 
+for those fragments, though small in themselves, amount to 
+something great in the year, and the family must eat, whether 
+they work or are idle. 
+</p><p>
+But this nation seems to have increased the number of 
+its manufactures beyond reasonable bounds (for there are 
+bounds to every thing), whereby provisions are now risen 
+to an exorbitant price by the demand for supplying home 
+mouths; so that there may be an importation from foreign 
+countries ; but the expense of bringing provisions from abroad 
+to feed manufacturers here will so enhance the price of the 
+manufactures, that they may be made cheaper where the 
+provisions grow, and the mouths will go to the meat. 
+</p><p>
+I am, with thanks for your good wishes, dear Sir, yours, 
+&c., B. FRANKLIN. 
+</p>
+</letter>

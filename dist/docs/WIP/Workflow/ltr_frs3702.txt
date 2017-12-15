@@ -1,0 +1,130 @@
+<letter id="frs3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p><p>
+<a href='/results.php?city=chesterfield' rel='city origin'>Chesterfield</a> Court-House, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+The expedition against <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a> having failed, 
+my first care was to save those articles which had, 
+at so much trouble and expense, been collected for 
+that purpose. And here I must do justice to this 
+State for their efforts on this occasion. I can, with 
+truth, say that every possible preparation was made. 
+</p><p>
+The expectations of the people were accordingly very 
+great, but not so much so as the consternation they 
+were thrown into by the arrival of the British fleet 
+with a reenforcement. 
+</p><p>
+The Marquis has doubtless communicated to your 
+Excellency the project I had formed before his departure. Lord Cornwallis being then in the environs 
+of Hillsborough, I proposed to Government to march 
+with the whole of the militia, and by forced marches 
+cross the Roanoke, and, in conjunction with <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, fall on his Lordship before the enemy here 
+could have time to form any plan. This manoeuvre, 
+I flattered myself, would at least drive Cornwallis 
+from North Carolina, and probably, by obliging General Phillips to follow us with all his force, have removed the seat of war from this State. 
+</p><p>
+I submitted this plan to the Marquis, to General Weedon, and to Colonel Gouvion, who approved it. 
+On my way to <a href='/results.php?city=richmond' rel='city'>Richmond</a> I met Lieutenant-Colonel 
+Morris, who came directly from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. lie 
+informed me that his Lordship had already begun 
+to retire towards Cross Creek, and that <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> wanted a reenforcement to enable him to 
+pursue with vigor. This served to strengthen my 
+opinion; and, as I had then upwards of four thousand 
+militia together, I confined my requisition to two 
+thousand men, whom I only required for thirty or 
+forty days. The answer of Government to this proposition I have the honor to inclose. The perplexity 
+the arrival of the reenforcement had thrown them 
+into, together with the Marquis's retiring at this 
+juncture to the northward, made them reject every 
+idea not tending to the immediate defence of the 
+State. My situation here is not the most agreeable, 
+obliged to undertake the defence against three thou 
+sand regular troops, with notliing to oppose to them 
+hut militia, whose numbers decrease every day. Those 
+who have served since the Ibeginning of the invasion 
+have discharged themselves, and are not yet replaced 
+by others ; in consequence of which General Muhlenberg is left on the south side of the river with only 
+seven hundred men, and General Weedon on the 
+north side with about six hundred men. If the enemy have any intention to penetrate the country, the 
+opposition we can make will avail little. 
+</p><p>
+A very great evil resulting from this invasion is, 
+that it stops the recruiting for the army. So long 
+as a county has any militia in the field, so long that 
+county is prevented from drafting; and as most of the 
+counties have had part of their militia either here or 
+with <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, little or nothing has yet been 
+done in the business. Only fifty-two have yet come 
+in ; and of these some have already deserted. Some 
+who came as substitutes have received twenty-five 
+and thirty thousand pounds' for eighteen months. 
+</p><p>
+I am much at a loss w-hat to do for arms, when 
+the recruits do come in. I had reckoned on those 
+by M. de Tilly; and I must entreat your Excellency 
+to order them on by land, as we have not the least 
+prospect of a single musket any other way. We 
+shall also be much distressed for ammunition. <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> presses me for a supply, whilst I can 
+scarce find enough to supply the militia. The Marquis has sent one hundred thousand cartridges to 
+<a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a> ; these I will take care to forward to 
+<a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. Your Excellency has, I presume, 
+been informed that the lead mines have given out. 
+This article is not now to be had here. If the Eastern States do not send us a supply, we shall be 
+sadly at a loss. Powder is also scarce. A powdermill, near this, was blown up some time since, supposed by an emissary of the enemy. I imagine 
+Maryland would furnish some, on application of the 
+Board of War. 
+</p><p>
+Another important and very difficult object is, remounting the cavalry. The Assembly have passed a 
+law limiting the price of horses for the cavalry at 
+five thousand pounds, a price inadequate to the purchase of the meanest horse. Very indifferent horses, 
+which have been impressed, have been valued from 
+twenty to thirty thousand pounds and upwards. Nothing, therefore, can possibly be done till the meeting of the Assembly. The Southern army will require, at least, three hundred cavalry horses for next 
+campaign. I suppose thirty guineas to have been 
+the old price of such horses. Allowing now forty 
+guineas, the whole will amount to twelve thousand 
+guineas. The price must be limited, or the Continent 
+will not be able to pay the expense of remounting 
+two regiments of cavalry. I beg your Excellency's 
+directions for my guide in making a proper representation to the Assembly, which meets the 10th of 
+next month. Swords will also be much wanted for 
+the cavalry. I have ordered six hundred to be made 
+at Mr. Hunter's works, but dare not reckon on them 
+in time. Cartridge-boxes are an article the State 
+cannot furnish. If possible, two thousand should be 
+sent immediately from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+The little success I have had in creating the line 
+of this State, and in furnishing the necessary supplies 
+for the Southern army, induced me to request <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> to call me to the army. He has, however, 
+refused me, and in such a manner as to engage me, if possible, to redouble my zeal in assisting him from 
+this quarter. I lament only that the invasion not 
+only takes up a part of my attention, but prevents 
+those succours which might otherwise be expected. 
+The number of troops of this State diminishes greatly. When I first arrived here, Colonel Buford had 
+five hundred men with him. Since then, I have 
+sent from hence eight hundred rank and file, exclusive of sergeants, music, waiters, and wagoners ; and, 
+by Colonel Morris's account, they have not now 
+more than seven hundred men in the field. Some 
+speedy and effectual measures must be taken to stop 
+such desertion, or it will be in vain to raise men at 
+such an expense. 
+</p><p>
+I shall be much obliged to your Excellency to order the Commissary of Prisoners to send me, as soon 
+as possible, a list of the southern officers exchanged, 
+that I may order them to join. Many refuse to act, 
+from not having received official accounts of their 
+being exchanged. I inclose to your Excellency a representation of the officers of the Virginia line against 
+General Weedon. the propriety of which Congress and 
+your Excellency will judge. A copy has been sent 
+to the Board of War. The enemy, in <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, 
+are busied in strengthening their works, and in building boats. They have, also, some parties in Princess 
+Ann, and about five hundred men in Norfolk. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frs" rel="me"><a href='/results.php?tla=frs' rel=''>Baron Steuben</a></a>.
+</p>
+</letter>

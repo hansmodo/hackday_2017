@@ -1,0 +1,21 @@
+<letter id='mad1557'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, December 21st, <a href="/results.php?year=1786">1786</a>. 
+</p><p>
+DEAR SIR,
+We hear nothing from any of the other States on the subject 
+of the federal Convention. The ice seems to have intercepted 
+totally the Northern communication for a considerable time 
+past. The Assembly have been much occupied of late with the 
+bill for district Courts. On the final question there was a majority of one against it, in fact, though on the count a mistake 
+made the division equal, and it fell to the Chair to decide, who 
+passed the bill. The real majority, however, were sensible of 
+the mistake, and refused to agree to the title, threatening a secession at the same time. The result was a compromise, that 
+the question should be decided anew the next morning, when 
+the bill was lost in a full house by a single voice. It is now 
+proposed to extend the Session of the General Court so as to 
+accelerate the business depending there. We hear that Maryland is much agitated on the score of paper money, the House 
+of Delegates having decided in favour of an emission. 
+</p>
+</letter>

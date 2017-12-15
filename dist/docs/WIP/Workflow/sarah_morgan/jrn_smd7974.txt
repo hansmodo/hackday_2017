@@ -1,0 +1,14 @@
+<letter id="smd7974">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=new orleans' rel='city origin'>New Orleans</a> ], <a rel="month origin" value="11">November</a> <a rel='day origin' value='2'>2d</a>, <a href='/results.php?year=1864' rel="origin">1864</a>. 
+</p><p>
+This morning we heard Jimmy is engaged to Helen Trenholm, daughter of the Secretary of the Confederate States. He wrote asking Brother's consent, 
+saying they had been engaged since August, though he had had no opportunity of writing until that day 
+the middle of September. I cried myself blind. It seems that our last one is gone. But this is the first 
+selfish burst of feeling. Later I shall come to my senses and love my sister that is to be. But my darling! my darling! O Jimmy! How can I give you 
+up? You have been so close to me since Harry died ! 
+</p><p>
+Alone now; best so. 
+</p><p>
+</letter>

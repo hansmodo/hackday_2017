@@ -1,0 +1,31 @@
+<letter id="hnb2411">
+<recipient first="J" last="Devereux" type="individual"/>
+<p>
+COTTAGE CRESCENT, <a href="/results.php?city=bath" rel="city origin">Bath</a>, <a rel="month origin" value="5">May</a> <a rel="day origin" value="18">8th</a>, <a href="/results.php?year=1825" rel="origin">1825</a>. 
+</p><p>
+MY DEAR DEVEREUX: After the many trying vicissitudes of fortune two old friends have undergone during nineteen years that have rolled over them since they 
+received that impressing regard for you which no length of time or change of circumstances can ever efface from 
+their hearts, your feelings will better suggest to you than I can describe the agreeable surprise with which we have 
+just learned you are in <a href="/results.php?city=london" rel="city">London</a>. 
+</p><p>
+Assuredly, the distance of a day's journey which separates us, can not long impede any efforts I can make to 
+effect our meeting, if I shall learn by your answer that you do not expect soon to visit <a href="/results.php?city=bath" rel="city">Bath</a>, and that business is likely to detain you in <a href="/results.php?city=london" rel="city">London</a>, more especially law busi 
+ness, in which I could devote to your interest the best efforts of my professional labor or advice. 
+</p><p>
+Mrs. B., now here with my sister, is in too delicate a state of health to permit her indulging the pleasure she 
+would not fail to enjoy of accompanying me to town on such an occasion. Of the deep regret which she will entertain, on conceiving the thought of not seeing you here, you will be the best judge, from the ardor of her mind 
+which she lent to the best feelings of her heart in consecrating her sense of your worth and character, in the 
+poetical address to you she published, last year, at Montreal, called forth on the occasion of seeing in the papers 
+your intended mission from Colombia to Russia, and invindication of your character, which her best sympathies 
+have covered with the segis of truth and friendship against the gorgon of calumny that would assail it. The 
+volume, containing many other things that will not be uninteresting, I will transmit you by the <a href="/results.php?city=bath" rel="city">Bath</a> coach, if you do not let me take it up with me, or rather to hand it to 
+you here. It has been wretchedly printed in Canada. We expect to republish it in <a href="/results.php?city=london" rel="city">London</a>.
+</p><p>
+I forbear to touch upon my present condition or future prospects until we meet, and shall only add, that I shall 
+be most impatient to learn whether I shall further hasten to embrace you in town, or shall soon be more gratified 
+to welcome you here, where you will accept of a bed. Without the least abatement of our best sentiments, I 
+doubt not you will consider us most anxious to hear from you, and believe me, my dear Devereux, 
+</p><p>
+Unalterably yours, <a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a>. 
+</p>
+</letter>

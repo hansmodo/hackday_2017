@@ -1,0 +1,33 @@
+<letter id='jhf8010'>
+<recipient first='John' last='Montgomery' type='individual'/>
+<p>
+<a href='/results.php?city=sonoma' rel='city origin'>Sonoma</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir : I have the pleasure to acknowledge the receipt at this place of your two communications, dated June 23d and 26th, the latter highly interesting, in connection with the present crisis. I trust that by the time you receive this note, the arrival of <a href="/results.php?tla=jds" rel="colleague">Commodore Sloat</a> will have put an end to your neutral position. 
+</p><p>
+Besides owing you my acknowledgments for the professional aid of Dr. Henderson, I am much indebted to you for the pleasure of his acquaintance, as our pursuits appear to have been 
+somewhat similar. I found him with Lieutenant Bartlett here on my arrival, two days since. 
+</p><p>
+A military organization of the force under arms was yesterday made at this place, and 
+farther than this I have nothing of present interest to communicate to you. I shall to-day continue my road towards <a href="/results.php?tla=jas" rel="colleague">Sutter's</a> Fort, on the Sacramento. Foreigners from below are daily arriving at this post, and we have information that upwards of a hundred good men are now in the 
+upper part of the Sacramento valley, on their road from Oregon. The intelligence was brought 
+by a party of seven men who were in advance. Of these, five were wounded, one very dangerously, in an attack by the Indians. This man was shot through the body and is lying at one of 
+the upper settlements. 
+</p><p>
+I forward this by Lieutenant Bartlett, who is about starting, and to my great regret, Dr. Henderson accompanies him. 
+</p><p>
+I trust that in case anything of moment should occur, you will not find it inconsistent with your convenience and the strict neutrality of your position to give me some information. 
+Thanking you in the meantime for your recent kindness, 
+</p><p>
+I am, sir, very respectfully, 
+</p><p>
+Your obedient servant, 
+(Signed) <a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>, 
+</p><p>
+Bt. Capt. U. S. Topi. Engineers. 
+</p><p>
+Captain Jno. B. Montgomery, 
+</p><p>
+U. S. Ship Portsmouth, Bay of San Francisco. 
+</p>
+</letter>

@@ -1,0 +1,8 @@
+<letter id="smd7900">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="10">October</a> <a rel='day origin' value='18'>18th</a>, Saturday. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Last night mother arrived from <a href='/results.php?city=clinton' rel='city'>Clinton</a> with Gibbes and Lydia, who had gone there the day before to get her to go to <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>. 
+</p><p>
+</letter>

@@ -1,0 +1,45 @@
+<letter id="jod3644">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='11'>11</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YESTERDAY only I received yours of March 1. I 
+am surprised you should have received none from me 
+from 11th February. I have written never less than 
+once a week, seldom less than twice, and nine weeks 
+out of ten three times, ever since I left you. The roads, or some irregularity of the post, must have occasioned your disappointment. I hope you will obtain Mr. Hears, but I must leave every thing to you. 
+The load of business that now compels my attention 
+every day is such, that I cannot think a moment about 
+my farm. Mr. Maund writes me that he has sent 
+me a barrel of seed oats, of a superior quality, to 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, by a Captain Allen, who was to sail in the be 
+ginning of March from Virginia. The family is gone. 
+Mr. Lear and Mr. Dandridge remain, but it is a great 
+work to arrange and clean the house. I can t get 
+into it before the middle of next week. I hope Billings will sow the barley and grass seed well. What 
+will become of my meadow cornfield I know not. 
+However, I must leave that and all the rest to you, 
+and I could not trust it better. 
+</p><p>
+My aunt Vesey's death was unknown to me. I am 
+very glad you went to the funeral. The feast that 
+succeeded was one of those things which are not 
+much to my taste. I am glad you went. I went too. 
+But these things give offence to the plain people of 
+our country upon whose friendship I have always de 
+pended. They are practised by the elegant and the 
+rich for their own ends, which are not always the 
+best. If I could have my wish, there should never 
+be a show or a feast made for the President while I 
+hold the office. My birthday happens when Congress will never sit, so that I hope it will never be talked of. These are hints, entre nous. I am, my 
+dearest friend, 
+</p><p>
+Ever yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p><p>
+Washington has at last denounced the forged letters. 
+</p>
+</letter>

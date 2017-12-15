@@ -1,0 +1,45 @@
+<letter id="gom4671">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='20'>20th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+Four persons, who are sent to me by the Captains of American vessels, a list of whose names I have the honor to send 
+you herewith, have arrived here from Bourdeaux. These 
+Captains represent to me that the owners of their respective 
+vessels sent them here, in consequence of the decrees passed 
+by the Convention in favor of American commerce, and with 
+the confidence that they would be permitted to transact their 
+business unmolested; that, relying on the public faith, pledged 
+by these same decrees, they brought here considerable cargoes 
+of grain, flour, and other provisions; that in consideration of 
+the state of foreign exchange, the said cargoes have been sold 
+at an immense loss ; that they have no mode of repairing this 
+loss, but to take in return commodities and articles manufactured in France; that many of them have freighted their 
+vessels to carry merchandize to the French colonies, for 
+French merchants; that the exportation of all merchandize 
+being prohibited, they will be obliged to discharge what they 
+have on board, and to depart in ballast, in consequence of 
+losing the considerable freight which had been stipulated. 
+</p><p>
+I do not pretend, Sir, to interfere in the internal concerns 
+of the French Republic, and I am persuaded that the Convention has had weighty reasons for laying upon commerce the 
+restrictions of which the American captains complain. The 
+result will nevertheless be, that this prohibition will seriously 
+aggrieve the parties interested, and will put an end to the 
+commerce between France and the United States, which was 
+beginning to be brisk, and promised us fortunate results. It is, 
+then, from a sincere desire to see the bonds of amity between 
+the two nations more closely drawn, that I beg you, Sir, to 
+have the goodness to examine whether there be not some way, 
+either by an exception to the law, or by especial permission, 
+to let the vessels of the United States depart, with their cargoes, 
+for the ports of the said States, or the French Colonies. I 
+have the honor to be, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

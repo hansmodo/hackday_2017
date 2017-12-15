@@ -1,0 +1,29 @@
+<letter id="mbc7635">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Norfolk has been burned and the Merrimac 
+sunk without striking a blow since her coup d etat in Hampton Roads. Read Milton. See the speech of Adam to Eve 
+in a new light. Women will not stay at home ; will go out to see and be seen, even if it be by the devil himself. 
+</p><p>
+Very encouraging letters from Hon. Mr. Memminger and from L. Q. Washington. They tell the same story in 
+very different words. It amounts to this: " Not one foot of Virginia soil is to be given up without a bitter fight for 
+it. We have one hundred and five thousand men in all, <a href='/results.php?tla=gbm' rel=''>McClellan</a> one hundred and ninety thousand. We can 
+stand that disparity. 
+</p><p>
+What things I have been said to have said! Mr. heard me make scoffing remarks about the Governor and the 
+Council or he thinks he heard me. James Chesnut wrote him a note that my name was to be kept out of it indeed, 
+that he was never to mention my name again under any possible circumstances. It was all preposterous nonsense, but it 
+annoyed my husband amazingly. He said it was a scheme to use my chatter to his injury. He was very kind about it. 
+He knows my real style so well that he can always tell my real impudence from what is fabricated for me. 
+</p><p>
+There is said to be an order from Butler turning over the women of New Orleans to his soldiers. Thus is the 
+measure of his iniquities filled. We thought that generals 
+always restrained, by shot or sword if need be, the brutality of soldiers. This hideous, cross-eyed beast orders his 
+men to treat the ladies of New Orleans as women of the town to punish them, he says, for their insolence. 
+</p><p>
+Footprints on the boundaries of another world once more. Willie Taylor, before he left home for the army, 
+fancied one day day, remember that he saw Albert Rhett standing by his side. He recoiled from the ghostly 
+presence. " You need not do that, Willie. You will soon be as I am. Willie rushed into the next room to tell them 
+what had happened, and fainted. It had a very depressing effect upon him. And now the other day he died in Virginia. 
+</p>
+</letter>

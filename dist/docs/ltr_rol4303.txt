@@ -1,0 +1,56 @@
+<letter id="rol4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=clermont' rel='city origin'>Clermont</a>, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Possessing no official situation, which entitles me to offer my sentiments on political measures, I may 
+possibly be deemed intrusive when I offer my unasked advice. But, Sir, feeling the same ardent love 
+for my country, which has so frequently, in times of danger and difficulty, served as an apology for my 
+letters, I still presume, without any other than that which arises from my solicitude, in the present alarming situation of our affairs, to offer you the unbiased 
+sentiments of a citizen, whose whole life has been employed in endeavouring to understand, and, as far 
+as in him lay, in promoting the interests of his country; of one, who considers your glory as closely connected with that interest, and who views the present 
+as a favorable moment to place it above the reach of party violence, and to procure to yourself a second 
+time, by the common consent of America, the endearing appellation of the saviour of your country. 
+</p><p>
+In my present retired situation, I have carefully read and considered the treaty with England. I see 
+in it not the slightest satisfaction for our wrongs. I see them, in some instances, authorized. In the commercial part, I see articles, which, though professing 
+to be mutual, are in no sort reciprocal. I see a want 
+of precision in many, which may involve us in frequent disputes. But, above all, I dread, in the ratification of the treaty, an immediate rupture with 
+France, where (as I am informed by letters from thence) the very apprehension has already excited very disagreeable sensations. To discuss these points, 
+or even to dwell on the construction which France may put on the twenty-fourth and twenty-fifth articles, would be an unnecessary waste of your time, since 
+the objections to them could not have escaped your discernment; and they may possibly admit of a construction variant from that, which they at first view 
+appear to carry with them. But, at any rate, they were unnecessary, and peculiarly improper at the present moment. 
+</p><p>
+There are two other articles which, though less pointed at, France can hardly, in my opinion, consider 
+as much short of a direct declaration of hostilities. By the twenty-seventh article, it is expressly admitted 
+that enemies' property, on board of American ships, is liable to capture. This is, at least, a question of considerable doubt, since the general assent of civilized 
+nations to the principle of the armed neutrality, Britain alone dissenting. And surely this was a very improper moment to turn that doubt into a certainty, 
+to the injury of ourselves and our allies. By the latter part of the twelfth article, this question, it seems. is again to be revived, within two years after the war. 
+Now, as this question is capable of discussion as well at this as at any future time, and as it depends in no sort upon the war, what other construction can 
+France possibly put upon this delay than a tacit agreement between us and Britain to aid her, even at our own expense, in her determined hostility to 
+that Republic, while we were availing ourselves of a contrary principle to protect the property of her rival? 
+</p><p>
+This argument derives additional force from the eighteenth article, which, notwithstanding what we 
+have suffered from the British construction of siege and blockade, leaves it still undefined, and, of course, 
+agreeably to a known principle of the law of nations (Vat. 2d lib. 27th cap.), acquiesces in their absurd 
+and unlimited constructions, and enables them, as I am just informed they have done, to renew their 
+attempt to starve France and her Colonies. In our treaty with France, tar, turpentine, cordage, masts, 
+sails, plank, &c., are expressly declared not to be contraband. By this treaty, all these articles are 
+made contraband. Upon what principle can France suppose that we entered into this stipulation at this 
+time, and in the very face of our proclamation, by which you refer to the modern law of nations for a 
+just definition of the word contraband, unless it were to distress them ? 
+</p><p>
+Pardon me. Sir, on the score of my solicitude for the peace and welfare of my country, if I intrude 
+upon your time and patience. I dread a war with France, as the signal for a civil war at home. She 
+can, and I greatly fear that she will, should the treaty be ratified, compel us to enter the lists by 
+claiming the effect of our guaranty of the Islands. Rent, as our country unhappily is, by parties, nothing 
+but personal consideration for your virtues can attach the public confidence to the measures of Government; 
+nothing but your glory can save, under these circumstances, the honor of our nation. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.
+</p>
+</letter>

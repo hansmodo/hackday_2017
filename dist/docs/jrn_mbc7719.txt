@@ -1,0 +1,14 @@
+<letter id="mbc7719">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. A new experience: Molly and Lawrence have both gone home, and I am to be left for the first time 
+in my life wholly at the mercy of hired servants. Mr. Chesnut, being in such deep mourning for his mother, we see no 
+company. I have a maid of all work. 
+</p><p>
+Tudy came with an account of yesterday's trip to Petersburg. Constance Gary raved of the golden ripples in 
+Tudy's hair. Tudy vanished in a halo of glory, and constance Gary gave me an account of a wedding, as it was 
+given to her by Major von Borcke. The bridesmaids were dressed in black, the bride in Confederate gray, homespun. 
+She had worn the dress all winter, but it had been washed and turned for the wedding. The female critics pronounced 
+it " flabby-dabby." They also said her collar was only " net," and she wore a cameo breastpin. Her bonnet was self-made. 
+</p>
+</letter>

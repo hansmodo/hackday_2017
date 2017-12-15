@@ -1,0 +1,26 @@
+<letter id="jde2402">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=baltimore" rel="city origin">Baltimore</a>, <a rel="month origin" value="10">Oct.</a> <a rel="day origin" value="12">12th</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+MY DEAREST FRIEND : I know you must think it strange at not having heard from me since your arrival 
+in <a href="/results.php?city=richmond" rel="city">Richmond</a>, and I am sure you must think it untimely 
+in bidding you now farewell, to give only this paltry proof of my most affectionate regard and friendship ; yes, 
+my dear <a href="/results.php?tla=hnb" rel="met friend">Blennerhassett</a>, my thoughts have been constantly occupied in reflecting on those poignant and trying afflictions, with which it has pleased a cruel destiny to overwhelm you, and for which I feel, not as the general run of mankind, but as one, I may say without vanity, not unworthy to participate, as I really and sincerely do, in your griefs. How often have I thought of Mrs. Blennerhassett ; I feel so much for your misfortunes 
+that I durst not glance at the cause of them. I am now on the eve of embarking for our loved and native country ; 
+I go by the way of England, for the more safety. Permission was granted me, by the last administration, to 
+return for a twelvemonth, and I now take advantage of it in the hope of recovering my former estate, which, if 
+I should, I may not only be a very independent, but a rich man in this country. Should I succeed, my friend 
+of which there is but little doubt you and your estimable lady shall find by my actions, instead of words, what 
+I truly and sincerely feel toward you both. In the mean time, I have made a friend for you, who offers to come 
+forward in a pecuniary point of view, if necessary. The person is Mr. Pierce Butler, of <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, a nobleminded countryman of burs, with whom you need feel no 
+scruple in calling upon in this way. The offer came, unsolicited, from himself, and he requested me to mention 
+it to you. As I can not, unfortunately, at present, do more, I have nothing more to say, and conclude, my dear 
+friend, with an affectionate remembrance to Mrs. Blennerhassett, 
+</p><p>
+Your truly attached and unalterable friend, 
+</p><p>
+<a href="/results.php?tla=jde" rel="me">J. DEVEREUX</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met friend">HARMAN BLENNERHASSETT</a>, ESQ. 
+</letter>

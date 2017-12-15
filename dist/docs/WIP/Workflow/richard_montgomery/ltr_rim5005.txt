@@ -1,0 +1,20 @@
+<letter id="rim5005">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=montreal' rel='city origin'>MONTREAL</a>. <a rel="month origin" value="11">Nov</a>. <a rel='day origin' value='13'>13th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+MY DEAR JANET: 
+</p><p>
+This morning the Bostonians have marched into town ; the Governor, with his small garrison, having abandoned it two nights since, and retired towards <a href='/results.php?city=quebec' rel='city'>Quebec</a>, where lie will run 
+some risk of being caught by <a href="/results.php?tla=bea" rel="colleague met">Col. Arnold</a>, who is arrived in that neighborhood. 
+</p><p>
+I am summoning all my virtue against the legion of females soliciting for husbands, brothers and sons taken prisoners. 
+</p><p>
+You may depend upon it, I will return home the instant I have put matter on such a footing as to be able to retire with 
+propriety. I am very well, and very anxious to see you. Farewell, my dear Janet. 
+</p><p>
+Believe me yours, with real affection. 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

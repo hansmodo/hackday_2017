@@ -1,0 +1,138 @@
+<letter id="aba3459">
+<recipient first="Caroline" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1812" rel="origin">1812</a>. 
+</p><p>
+MY DEAR CAROLINE, 
+</p><p>
+Your neat, pretty letter, looking small, but containing much, reached me this day. I have a good mind 
+to give you the journal of the day. 
+</p><p>
+Six o'clock. Rose, and, in imitation of his Britannic Majesty, kindled my own fire. Went to the 
+stairs, as usual, to summon George and Charles. 
+Returned to my chamber, dressed myself. No one 
+stirred. Called a second time, with voice a little 
+raised. 
+Seven o'clock. Blockheads not out of bed. Girls 
+in motion. Mean, when I hire another man-servant, 
+that he shall come for one call. 
+</p><p>
+Eight o'clock. Fires made, Breakfast prepared. L in <a href='/results.php?city=boston' rel='city'>Boston</a>. Mrs. A. at the tea-board. 
+</p><p>
+Forgot the sausages. Susan's recollection brought 
+them upon the table. 
+</p><p>
+Enter Ann. " Ma'am, the man is come with 
+coal." " Go, call George to assist him." [Exit 
+Ann. 
+</p><p>
+Enter Charles. " Mr. B is come with cheese, turnips, &c. Where are they to be put ? " " I will 
+attend to him myself." [Exit Charles. 
+</p><p>
+Just seated at the table again. 
+</p><p>
+Enter George with " Ma'am, here is a man with 
+drove of pigs." A consultation is held upon this important subject, the result of which is the purchase of 
+two spotted swine. 
+</p><p>
+Nine o'clock. Enter Nathaniel, from the upper house, with a message for sundries ; and black 
+Thomas's daughter, for sundries. Attended to all 
+these concerns. A little out of sorts that I could not 
+finish my breakfast. Note ; never to be incommoded 
+with trifles. 
+</p><p>
+Enter George Adams, from the post-office, a 
+large packet from Russia, and from the valley also. 
+Avaunt, all cares, I put you all aside, and thus 
+I find good news from a far country, children, 
+grandchildren all well. I had no expectation of hearing from Russia this winter, and the pleasure was 
+the greater to obtain letters of so recent a date, and 
+to learn that the family were all in health. For this 
+blessing give I thanks. 
+</p><p>
+At twelve o'clock, by a previous engagement, I was to call at Mr. G 's, for cousin B. Smith to 
+accompany me to the bridge at <a href='/results.php?city=quincy' rel='city'>Quincy</a>-port, being 
+the first clay of passing it. The day was pleasant ; 
+the scenery delightful. Passed both bridges, and 
+entered Hingham. Returned before three o'clock. 
+Dined and, At five, went to Mr. T. G 's, with your grandfather ; the third visit he has made with us in the 
+week ; and let me whisper to you he played at whist with Mr. J. G , who was as readv and accurate 
+as though he had both eyes to see with. Returned. 
+</p><p>
+At nine, sat down and wrote a letter. 
+</p><p>
+At eleven, retired to bed. We do not so every 
+week. I tell it you as one of the marvels of the ageBy all this, you will learn that grandmother has got 
+rid of her croaking, and that grandfather is in good 
+health, and that both of us are as tranquil as that bald 
+old fellow, called Time, will let us be. 
+</p><p>
+And here I was interrupted in my narrative. 
+</p><p>
+I re-assume my pen upon the 22d of November, 
+being this day sixty-eight years old. How many reflections occur to me upon this anniversary ! 
+</p><p>
+What have I done for myself or others in this 
+long period of my sojourn, that I can look back upon 
+with pleasure, or reflect upon with approbation ? 
+Many, very many follies and errors of judgment and 
+conduct rise up before me, and ask forgiveness of 
+that Being, who seeth into the secret recesses of the 
+heart, and from whom nothing is hidden. I think I 
+may with truth say, that in no period of my life 
+have the vile passions had control over me. I bear 
+no enmity to any human being ; but, alas ! as Mrs. 
+Placid said to her friend, by which of thy good 
+works wouldst thou be willing to be judged ? I do 
+not believe, with some divines, that all our good 
+works are but as filthy rags ; the example which our 
+great Master has set before us, of purity, benevolence, obedience, submission and humility, are virtues 
+which, if faithfully practised, will find their reward ; 
+or why has he pronounced so many benedictions 
+upon them in his sermon on the mount ? I would 
+ask with the poet, 
+</p><p>
+" Is not virtue in mankind 
+The nutriment that feeds the mind ? 
+Then who, with reason, can pretend 
+That all effects of virtue end ? " 
+</p><p>
+I am one of those who are willing to rejoice always. 
+My disposition and habits are not of the gloomy kind. 
+I believe that " to enjoy is to obey." 
+</p><p>
+(t Yet not to Earth's contracted span, 
+</p><p>
+Thy goodness let me bound ; 
+Or think thee Lord alone of man, 
+</p><p>
+Whilst thousand worlds are round." 
+</p><p>
+I have many more subjects, dear Caroline, which I want to write to you upon, 
+</p><p>
+27 November. 
+</p><p>
+Yesterday was our Thanksgiving day. In our 
+own way, and with tempers suited to the occasio: .. 
+we gave thanks for those blessings which we felt 
+had been granted to us in the year past, for the 
+restoration and recovery from dangerous sickness of 
+members of our own family ; and, although in one instance we had been called to weep, in many others 
+we had cause of rejoicing. We were in health ; we 
+had good news from a far country ; we had food and 
+raiment, and we still enjoyed liberty, and our rulers 
+were men of our own election, and removable by 
+the people. Dear Caroline, I have trespassed upon 
+you. I will close by saying, that your uncle and 
+aunt, with their three children, your aunt Smith, 
+George and John Adams, with our own family, 
+made the joyful group. We remembered the absent, and sent our wishes to Russia and the valley ; 
+but wishes were empty. No, they bore upon their 
+wings blessings, a portion of which were for my dear 
+Caroline, 
+</p><p>
+From her affectionate grandmother, 
+</p><p>
+Abigail Adams. 
+</p>
+</letter>

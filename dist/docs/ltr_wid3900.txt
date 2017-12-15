@@ -1,0 +1,23 @@
+<letter id="wid3900">
+<recipient first="John" last="Laurens" type="individual"/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+SIR: 
+</p><p>
+As a magistrate I yesterday presented myself at your door to have 
+the honor of paying my respects to your Excellency, and in the after 
+noon 1 attended there again, in order to beg to be honored with your 
+commands in a military way; for I think that, at this time, while I 
+have no occasion to wear my gown, I ought to wear a sword. 
+</p><p>
+In a word, the favor I have to ask of your Excellency is, that you 
+will be pleased to enable me, as a volunteer, to be active in the defence 
+of my country. 
+</p><p>
+I have the honor to be, sir, your Excellency's most obedient and 
+Most humble servant, 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p>
+</letter>

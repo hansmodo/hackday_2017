@@ -1,0 +1,36 @@
+<letter id="nag3716">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head- Quarters, <a href='/results.php?city=iron works' rel='city origin'>Iron Works</a>, North Carolina, <a rel='day origin' value='10'>10</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Since I had the honor of addressing your Excellency last, there have been some changes in our circumstances. On the 2d, Lieutenant-Colonel Lee, with 
+a detachment of riflemen, attacked the advance of the 
+British army under Colonel Tarleton, near Alamanee, 
+and killed and wounded, by report, about thirty of 
+them. On the 6th, the British moved down towards 
+High Rock, either with a view to intercept our 
+stores, or cut off the light infantry from the main 
+body of the army, then advanced near seven miles ; 
+but they were handsomely opposed, and suffered considerably, without effecting any thing. 
+</p><p>
+This manoeuvre occasioned me to retire over the 
+Haw River, and move down the north side of it, 
+with a view to secure our stores coming to the army, 
+and to form a junction with several considerable reenforcements of Carolina and Virginia militia, and 
+one regiment of Virginia eighteen-months' men, on 
+the march from Hillsborough to High Rock. I effected this business, and the enemy retired towards 
+Guilford Court-House. Our militia had been upon 
+such a loose and uncertain footing ever since we 
+crossed the Dan, that I could attempt nothing with 
+confidence, though we kept within ten or twelve 
+miles of the enemy for several days. The enemy 
+kept close, seemingly determined that we should 
+gain no advantage of them without risking something 
+of consequence. I have the honor to be, with great 
+respect and esteem, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

@@ -1,0 +1,35 @@
+<letter id="jol3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+With the triumph of a republican, and the more 
+tender emotions of one who sincerely loves his General, I congratulate your Excellency on your late providential escape. I congratulate my country, whose 
+safety is so intimately united with yours, and who 
+may regard this miraculous rescue of her champion 
+as an assurance that Heaven approves her choice of 
+a defender, and is propitious to her cause. In fact, 
+all the ascendency that could be given by virtue, 
+genius, and valor, would only have furnished a deplorable example of unfortunate merit, if, by the 
+Divine interposition, you had not prevailed over the 
+most impenetrable perfidy that has yet disgraced 
+mankind. This happy event must inspire every virtuous citizen of America with new confidence, and 
+transfix her enemies with awful terror. Andre has, 
+I suppose, paid the forfeit which public justice demanded ; example will derive new force from his 
+conspicuous character. Arnold must undergo a punishment incomparably more severe, in the permanent, 
+increasing, torment of a mental hell. 
+</p><p>
+I am waiting in anxious expectation of an answer 
+from Captain Wallop, a man of great interest and 
+credit among the British, who was indulged with a 
+limited parole to negotiate my exchange by composition. Sir Henry Clinton's late sanguine expectation 
+of success may have suspended business of this kind, 
+and produced some delay j but I still derive great 
+hopes from that quarter. I need not inform your 
+Excellency how I have languished in so long a separation from you, and how anxious I am to assure 
+you, in person, of the veneration and attachment of 
+your faithful Aid. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">John Laurens</a>. 
+</p>
+</letter>

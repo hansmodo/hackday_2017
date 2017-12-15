@@ -1,0 +1,7 @@
+<letter id="mbc7624">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Our Fair is in full blast. We keep a restaurant. Our waitresses are Mary and Buck Preston, 
+Isabella Martin, and Grace Elmore. 
+</p>
+</letter>

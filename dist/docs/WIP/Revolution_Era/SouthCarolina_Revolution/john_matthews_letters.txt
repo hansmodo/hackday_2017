@@ -1,0 +1,953 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.mJZG49 on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--jhm
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Matthews
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jhm3900">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received your letter of the and , and I now enclose you a copy of a letter from Governor Burke, which explains what Ganey 
+has been for some time past complaining of. I hope you will pay 
+particular attention to Gov. Burke's requisition, that none of the disaffected of his State may be suffered to harbor with Ganey and his party; 
+and it would be well to apprize him that if, when driven out of North 
+Carolina, they are sheltered by any of his party in this State, it will be 
+deemed an infraction of the truce, and consequently the North Carolinians will have a right to enter th e neutral ground, and apprehend 
+the fellows wherever they are found. If it can be clearly proved that 
+the truce has been violated on their part, how far it might be advisable 
+for you to co-operate with the North Carolinians, and by one decisive 
+blow crush this infamous banditti, I must leave with you to determine. 
+As to the proposal you make respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, 
+<a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself having fully considered that matter, have given 
+you our opinion thereon, which I suppose you have received ere this. 
+But should there be any great difficulty in carrying our determination into 
+execution, I have no objection to adopting the mode you now propose, 
+if <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> approves of it, except that part " to recruit Maham's 
+corps to one hundred and twenty men/ as the time of service of the 
+men will expire in July, therefore, it would not be worth while to incur 
+the expense. I am very glad you have got some negroes for the recruiting service. I wish Col. Grimke would continue to furnish you with 
+them, and not wait for my orders, which I can give him hereafter, when 
+I know the quantity delivered to you. The orders you have lately received from me renders it unnecessary to say anything now respecting 
+Mr. Philip Porcher. 
+</p><p>
+Since writing the above, I have seen <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, and he approves 
+of <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps being continued as infantry, agreeable to your proposal. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received yours of the 8th instant late last evening. I now write to 
+Heriot and Tucker about the indigo, which you will forward to 
+them. I answered your former letter respecting Mr. Philip Porcher, 
+by referring you to the orders I had given respecting those who should 
+come from within the enemy's lines; lest any accidents should have 
+happened to that dispatch, I now enclose it. These orders are general, 
+therefore unnecessary to observe upon the other. I have already in 
+formed you that <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself agreed to the last proposition 
+you made respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, which was to continue <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> dismounted, to act as infantry. If the matter can be 
+accommodated upon this plan, I shall give myself no further trouble 
+about it, as they have so little time to serve. Whilst I am on this subject, I must take notice of the conduct of Mr. Thomas Drayton, who 
+was sent to the southward to impress horses. He has made so improper 
+a use of the authority given him, that I have been obliged to order him 
+on no account to impress another horse, and to return such as he had 
+impressed. The reason of my ordering him to return those he had 
+taken was, that at all events Maham would have <a href='/results.php?tla=peh' rel='colleague'>Horry's horses</a>, and 
+consequently could not want more; however, whether the thing takes 
+place or not, the impressing of horses is attended with such ruinous 
+consequences, that I am determined not to countenance it. You will, 
+therefore, sir, look upon the authority given you on the 6th of March 
+last, for impressing horses, as hereby revoked. I have given no com 
+missions in the second regiment. I did give <a href='/results.php?tla=top' rel='colleague'>Mr. Thomas Pinckney</a> a 
+certificate for a commission in the first regiment before I knew of the 
+form observed for commissions in the regiments of this State. You say 
+the application can only be made to the Colonel of the regiment. In this 
+</p><p>
+case the Governor, who has the sole right to appoint if he chooses to 
+exercise it, becomes a mere machine. At all events, I shall expect a 
+decent regard to be paid to any recommendation from me. This is a 
+point I do not think I am at liberty to give up. I should be glad Mr. Hall's baggage was sent forward, as the public papers in it are much 
+wanted. 
+</p><p>
+I am, sir, with esteem and regard, your most obdt. servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR : 
+</p><p>
+Your letter of the 10th inst. came safe to hand two days ago. The 
+commanders of privateers, knowing their authority, and regardless of our 
+unfortunate situation, are determined to add to our distresses, instead 
+of contributing towards their relief; indeed, the men who usually command these vessels are needy and avaricious to the last degree, and 
+come out with a view of making money by any means that does not 
+subject them to be hanged; humanity is a thing they are totally unacquainted with. By a late Act of Congress, all British property, where 
+soever found, is made liable to seizure. How far the vessel in question, 
+having <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>'s flag, might have violated, I will not pretend to 
+judge, if it is put upon this issue; thus its rests with <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> to 
+take cognizance of the affair. But in the light the matter at present 
+strikes me, we have gone far enough in confining the captain and crew; 
+more rigorous measures may probably bring us into a dispute with the 
+State of North Carolina. What we have already done is a mere act of 
+power, and in our circumstances highly excusable. I would, therefore, 
+recommend that the captain and crew be discharged, and the vessel 
+be permitted to depart as soon as the flag has sailed, and got beyond all 
+danger of being taken. I should be extremely glad if you could con 
+tract for any quantity of clothing from the quarter you mention, and I 
+will engage to have produce returned for it that is, if it can be spared. 
+I have employed Mr. Robert Heriot to take an account of the provisions in the district of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>; as soon as I can get his return, I 
+shall be able to let you know what rice is to be spared. All the south 
+ward parts of the country are stripped very bare, and it is very probable 
+we shall be obliged to draw some provisions from San tee for this army. 
+The same objection lies against paying Mr. Wayne's account. Until I 
+can get the return above mentioned, I enclose you an order on Capt. Richardson, at the high hills of Santee, for 500 Ibs. powder and 1,500 
+lead, 50 muskets and bayonets, 50 cartouch boxes, and 1,000 flints, which 
+you may send for as soon as you please. As to cannon ball, I know 
+not where to procure them; if you can point any mode that promises 
+a probability of success, I will undertake to have the experiment made. 
+I have already wrote you fully respecting Mr. Porcher; also, respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, and my determination about impressing 
+horses. Mr. John Waring's situation at present being so exceedingly 
+distressing, I have given him permission to remain at home, on his 
+engaging to join you again as soon as possible. Mrs. Hall sends on a 
+horse for his wagon ; I, therefore, request you would furnish the necessary escort, and send it forward without delay. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3903">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The bearer, Mr. Shrewsbury, you are better acquainted with than I, 
+therefore, I shall say no more concerning him than recommend him tQ 
+</p><p>
+be disposed of as you shall think .proper. If you think he can be use 
+fully employed in his profession, you will do so; if not, he must do his 
+duty as a militia man. If you approve of neither, you may either send 
+him back to town, or do what you please with him. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3904">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The manner in which you mentioned Mr. P , gave me no kind of apprehension of his being on the confiscation list, therefore, wrote to 
+you respecting him as one of those who had not been noticed by the 
+Legislature. I am, however, very glad you have proceeded no further, 
+and this mistake of mine will serve to make me more guarded in future. 
+</p><p>
+It is utterly out of my power to grant Mr. P any indulgence, as 
+the Act in which he is included is clear and positive. Were I to suffer 
+him to remain in the country, it would be a partial suspension of the law, which cannot be done; I must, therefore, desire that Mr. P 
+be immediately ordered into Charlestown. An application has lately been 
+made me in favor of Mr. Alex. Rose, who had been banished the town 
+by the British, but I was obliged to refuse it; and, if Mr. Rose should 
+come out, you must order him immediately to return. Before this 
+reaches you, you will have received my order for the arms and ammunition you want. My reason for ordering the horses to be returned that 
+were impressed by order of Col. Maham, was, that <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> horses were 
+to be turned over to his regiment. I thought it impossible that more 
+horses could be wanted, after having those of a whole regiment. I am 
+sorry to find that this regiment has proved so very insignificant, as not 
+to be able to supply more than twelve horses ; however, Maham's order 
+was for no more than fifteen, which makes a difference of only three 
+horses, consequently the service cannot suffer for want of so trifling a 
+number of horses. Another reason was, that I found the authority 
+put into very improper hands, instead of its being entrusted to very 
+discreet persons. The thing in itself is odious, and ought to be avoided 
+if possible ; but, if such a necessity arises as renders the measure in
+dispensable, it ought to be exercised with caution and lenity. If I am 
+rightly informed, the gentlemen who had the press warrant did, by no 
+means, confine themselves to taking horses from such only as showed no 
+disposition to serve their country; and another reason that induced me 
+to countermand the order was, that I found it created very great discontents, to find that horses, which were immediately to be attached to 
+your brigade, should be taken out of another; and, as it was likely to 
+be productive of many inconveniences, and having already full enough 
+to struggle with, and not conceiving the horses to be substantially necessary, I thought it best to put a stop to any further embarrassments on 
+this account. As to Col. Maham's threatening to resign, because he is 
+not permitted to do as he is pleases, he must use his own pleasure. I 
+can assure him these kind of threats are by no means calculated to 
+operate with me in the manrer they are intended to do, but the reverse. 
+I am very sorry to find so few of the Charlestown militia at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. 
+There is now a newspaper regularly published. Suppose you issue 
+general orders for those men to join their several corps within a certain 
+limited time, and such as do not, to send a party to take them into custody; and if, on trial, they are convicted, send them to the Continental 
+line a few examples, perhaps, may bring them to their senses. It is 
+disgraceful in the highest degree that men should require to be thus 
+goaded to their duty. An express is this day arrived from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+and brings letters from Gillon, who is arrived at the Havanna with five 
+prizes, worth 150,000 hard dollars. It is not unlikely he may send a 
+vessel or two to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> therefore, could wish a good look-out may 
+be kept there, that if they arrive they may not be detained for want of 
+a pilot. They talk much at the Northward of the French fleet coming 
+either here or to <a href='/results.php?city=new york' rel='city'>New York</a>, early this spring. Let either be the object, 
+the issue will be highly important. I could wish Charlestown to be the 
+first, not only as most interesting to us, but because I believe the 
+attempt here would be successful, and I have very great doubts about 
+the other; and, because I fear if our allies were to meet with a rebuff 
+in one place, they will not be so ready to attempt another, as success is 
+always a stimulus to encounter new dangers. I suppose you will think 
+I have little to do, to write so much about politics this is not the fact; 
+but my pen naturally run into its old channel before I recollected my 
+self. I wish I had time to give you these occurrences oftener than I 
+do; however, if you will give me leave, I will subscribe to our news 
+paper for you, from whence you will stand a better chance of getting 
+JQ^WS than from ray pen. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3905">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I understand there has been some regulation of prices lately attempted 
+at the port of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. Such a measure is highly impolitic, and 
+must inevitably ruin the commerce that is attempted to be established 
+there, in its very infancy. It is, therefore, my particular orders, that you 
+give no countenance to any such measures; but, on the contrary, use 
+your best endeavors to suppress it, and give every encouragement to a 
+free uninterrupted trade. 
+</p><p>
+I am, sir, your most obedient servant
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3906">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I enclose you the instructions for quieting the discontents of the 
+people on Little Pee Dee, with whom you some time ago entered into 
+a truce. The express brings you twenty commissions. I also enclose 
+you an order for arms and ammunition. I think there is something 
+else you mentioned to me in the course of our conversation to-day, but 
+in the multiplicity of business I have engaged in since I came home, it 
+has slipt my memory j you will, therefore, be pleased to repeat it to me 
+by the return of the express I send you to-morrow. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p><p>
+P. S. Be pleased to send me your opinion in writing before you go 
+away, whether it will be best to sell the negroes, and recruit with money, 
+or continue on the old plan of recruiting with negroes. 
+</p>
+</letter><letter id="jhm3907">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+First, You are to take with you four or five judicious, intelligent 
+persons, to meet those appointed on the part of Ganey and others, to 
+confer on the business herein committed to your charge, but they are 
+not to be considered as joined with you in this commission. Second, 
+The said Ganey and others, with whom such truce was made, are to lay 
+down their arms as enemies to this State, and are not to resume them 
+again until called on to do so, in support of the interest of the United 
+States, and of this State in particular. Third, They are to deliver up 
+all negroes, horses, cattle, and other property, that have been plundered 
+from the inhabitants of this or any other State. Fourth, They are to 
+engage to demean themselves as peaceable citizens of this State, and 
+submit themselves in future to be governed by its laws, in the same 
+manner as the rest of the citizens thereof. Fifth, They are to be 
+allowed two, or, if you find it necessary, three months, to remain at 
+home, before they are called on to bear arms in behalf of this State. 
+Sixth, They are to engage to apprehend and deliver up all persona 
+within their district, who shall refuse to accede to these terms, and contumaciously persist in rebellion against the State. Seventh, If these 
+terms are accepted by the said Graney and others, you are then to 
+promise them a full pardon for all treasons heretofore committed by 
+them against the State. Eighth, If these terms are rejected by the 
+said Graney and others before mentioned, you are then to have recourse 
+to force of arms, or otherwise to compel them to submission. Ninth, 
+You are authorized and empowered, if you shall deem it for the public 
+service, to apprehend, and send within the enemy's lines, any of the 
+families of persons who continue in arms against the State. 
+</p><p>
+Given under my hand, at Cane Acre, this 21st day of May, one thousand seven hundred and eighty-two. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3908">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Gen. Barn well having desired to retire from the command of the 
+brigade to which he has been appointed, and, as I think the service 
+would be best promoted by its being continued under the command of 
+a Brigadier, in preference to the regiments being independently commanded by the Colonels, I, therefore, desire you would take the command of that brigade, and consider it as annexed to the brigade at 
+present commanded by you : until you receive orders to the contrary 
+from me, or the Commander-in-Chief of this State, for the time being, 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3909">
+<recipient first="Peter" last="Horry" type="individual"/> 
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Yours of the (no date) I received the last evening. I did not know by whose orders the restrictions on trade at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> had been 
+adopted; but, it appearing to me to be founded on erroneous principles, 
+induced me to give the order I did. As to the Charlestown militia, I 
+have given orders so repeatedly about them, that it is needless to reiterate 
+them. Except a very few, all these men are resident either in Gen. Marion's or Gen. Barnwell's brigade; and the latter being now under 
+the command of Gen. Marion, he has sufficient power over them to do 
+what you have requested of me. Gen. Marion has orders for the 
+ammunition for your post, which, I suppose, he will deliver to you. I 
+will attend to the agreement about the shot as soon as I get your account 
+of it. I have directed Heriot and Tucker to apply to you for a party 
+of men to take charge of some negroes to be brought from Mr. Smith's 
+plantation on Santee. You will, therefore, be pleased to furnish them 
+accordingly, on their application to you; and, also, have the negroes 
+secured in <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> until the day of sale. 
+</p><p>
+I am, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3910">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+I observe in your orders to Col. Saunders, he is directed to draft the 
+Whole of his regiment. I omitted to inform you that I had directed no 
+draws should be made from the John's Island, Wadmelaw, Edisto and 
+Stono companies these companies being absolutely necessary to be 
+kept at certain points to prevent the commerce between the country 
+and Charlestown. I have, therefore, directed Col. Saunders to adhere 
+to my former orders respecting these companies, and that I would inform 
+you of the same. I suppose Col. Saunders has reported to you the 
+refractory spirit that still prevails in his regiment. Unless vigorous 
+measures are pursued to bring them to order, I am convinced they will 
+do no duty. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3911">
+<recipient first="Peter" last="Horry" type="individual"/> 
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received your letter by Mr. King on the 31st ult. I approve of 
+your appointment of Capt. Milligan to the command of the galley, and 
+have accordingly enclosed him a commission, and another blank for a 
+lieutenant, to be appointed by Milligan himself, as I think one lieutenant sufficient for the present. You must, by some means or other, 
+procure Mr. Moore a horse, to come up to me; if it can be done by no 
+other means, you must dismount one of your dragoons, and furnish him 
+with his horse, as I have business of a very particular nature to transact 
+with that gentleman. I have no other instructions for Milligan than to 
+use his best endeavors to guard the harbor of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>. The State 
+has at present no particular service to employ Capt. Putnam in. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p><p>
+P.S. Col. Lushington informs me there is a Mr. Edward Hair lately arrived at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, in a flag from Charlestown. This man's 
+name is on the confiscation list, and is, of course, banished this State. You are, therefore, to order him immediately back to Charlestown, or 
+at least within the enemy's lines, on pain of his incurring the pains and penalties of the Act before mentioned, if hereafter found within 
+our lines. The same gentleman informs me there is one Wm. Graham, also within your command, who is looked upon as a dangerous person. 
+If you should be of this opinion, give him the same orders you do Hair, for an authorised spy is the most dangerous enemy we can have to contend against. 
+</p><p>
+J. M. 
+</p>
+</letter><letter id="jhm3912">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Your letter of the 9th inst., enclosing the articles of agreement entered into with Graney and his party, came safe to me on the 13th. I 
+took the earliest opportunity of laying them before the Council for 
+their consideration, and, after weighing them with that circumspection 
+which was due to their interesting contents, they have signified their 
+unanimous approbation of the same. They also meet with my most 
+hearty concurrence; and permit me, sir, to express to you the high 
+sense I entertain of the services you have rendered to the State on this 
+important occasion. The measures adopted by you are so well calculated, that they could not fail to produce the favorable issue which has 
+attended them; and I think there is every reason to expect that the 
+advantages to be derived to the State from so happy a termination of 
+this matter, will be still more diffusive than they have yet appeared to 
+be, and will, in a short time, work a total extinction of that spirit of 
+discord which has so unfortunately pervaded this State for some time 
+past. It is necessary I should have the names of the persons who are 
+parties to the agreement, as every man's name must be included in the 
+proclamation of pardon ; I should, therefore, be glad you would forward 
+them to me as soon as you can, and, in the meantime, inform them of 
+the reasons for delaying the proclamation, as they might otherwise suspect an intention of avoiding it. I have no particular orders to give, 
+but I must earnestly recommend your earliest attention to be paid to 
+the militia of this brigade, who are the most incorrigibly obstinate and 
+perverse beings that I have ever met with, and who are absolutely a 
+disgrace to the State. I am convinced, from repeated experiments I 
+have made of them, that nothing but the most rigid execution of the 
+militia law with regard to them, can ever bring them to a proper sense 
+of their duty. In speaking of the brigade, it is necessary I should 
+inform you that the militia of the islands are by no means to be included 
+in the censure ; on the contrary, they merit applause ; for, notwithstanding their exposed situation, they early submitted, and, whilst the other 
+parts of the brigade were behaving in the most unwarrantable manner, 
+they cheerfully submitted to every order given them, and have repeatedly repulsed the attacks of the enemy on the islands, and, as far as I 
+have had occasion to employ them, they have done their duty. I have 
+this moment received your letter of the 16th inst. Most of its contents 
+have already been observed upon. The mode in which you propose to 
+treat Major Skelly, I think may be productive of very good consequences. I sent Mr. "Wilson, the sheriff for Cheraws, his commission 
+three months ago, and am surprised to find he has not received it. It 
+must be lying somewhere at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> ; but, if he cannot get it, I 
+will send him another. However, his not having the commission need 
+not prevent him from acting. The appointment by the Legislature is 
+the substantial part; the commission is more a matter of form. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3913">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+The evacuation of <a href='/results.php?city=savannah' rel='city'>Savannah</a>, and the highest probability that St. 
+Augustine is likewise evacuated, offer so fair an opportunity of obliging the enemy to abandon the post they hold in this State, that it would 
+be criminal not to make the attempt. I must, therefore, desire you 
+would immediately draft one-half of your brigade, and as many more 
+within eighty miles of Charlestown (agreeably to the law) as will be 
+consistent with the safety of the country, and immediately put them in 
+motion, and join the army under the command of <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. If 
+the men will now do their duty with cheerfulness and punctuality, I think 
+I may almost venture to assure them this will be the last grand effort 
+they will be called upon to make. I hope you have finished the business you are at present upon, before you receive this; if not, pray expedite it as much as possible, so that that may not interfere with the 
+great object. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p><p>
+P. S. It will be so long between the time of your receiving this 
+and your orders respecting this brigade, and the service of, at least, a 
+part of the men being immediately required, that I have given the 
+necessary orders to these three regiments. The Commanding Officer at 
+<a href='/results.php?city=georgetown' rel='city'>Georgetown</a> is to forward this letter by express, with all possible expedition. 
+</p><p>
+J. M. 
+</p>
+</letter><letter id="jhm3914">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I am informed there is a number of seamen prisoners at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> ; 
+I, therefore, desire you would endeavor to negotiate an exchange with 
+the British Commander at Charlestown, for an equal number of American seamen, giving a preference to our own as far as we have a claim. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3915">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=ashley river' rel='city origin'>ASHLEY RIVER</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received your letter of the 16th late last evening. The officers of 
+Col. Maham's corps seem to imitate the principle upon which the incorporation is founded. They appear to imagine it to be an admission of 
+Major Conyer's corps into Col. Maham s; but this is not the case. 
+There is a material difference between drafting one regiment into 
+another, and consolidating two regiments into one. In the first in 
+stance, the drafted regiment is either disbanded altogether, or the 
+officers sent out to recruit; in the second, there is an indiscriminate 
+mixture of men, without giving a superiority in either one or the other, 
+and the officers are commonly retained according to their rank; but 
+sometimes the arbitrary rule of retaining them, according to their merit, 
+has been adopted from this state of the case. The objection that Conyers is disliked by Maham and some of his officers, is frivolous, because Conyers can with equal propriety make the same objection to Maham 
+and his officers; and these gentlemen deceive themselves very much 
+when they set up a claim of superiority, for they have no manner of 
+pretension to it, for the reasons I have given ; and as to the abilities of 
+Major Conyers, I believe, sir, you are no stranger to them, and that 
+they entitle him to a claim equal to most officers; his merit stands confessed by every impartial man who knows him. If, after these considerations, gentlemen will suffer themselves to be guided by private 
+pique, and rather resign their commissions than submit to the established rules of propriety and justice, why, they must do so, and we 
+must endeavor to find men that will engage in the service from a pure, 
+ardent zeal to love their country. Such will be less governed by pas 
+sions, when they can t have their own humour gratified. I send you an 
+extract of the minutes of the Council, from which time the commissions 
+of Conyers and his officers are to bear date. It is true the corps was 
+ordered by Gov. Rutledge to be raised in September; but, as it was 
+afterwards rejected by the Legislature, the whole of that arrangement 
+was done away, and can only be considered as commencing from the 
+re-establishment by me after I came into office. On consulting <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, I find Maham's must be considered as a State corps, on Continental pay. I should be very glad to be furnished with a return of Maham's and Conyer's corps as soon as you can procure it with accuracy. 
+</p><p>
+I am very sorry to hear of poor (rough's fate; but it is astonishing to 
+me that gentlemen will venture themselves in that part of the country, 
+when they see we cannot afford protection to it, and that it is a nest for 
+a great part of the devils in the British service. I have sent you an 
+order for 100 stand of arms. I have some faint idea that there is 
+some medicine at Richardson s, on the high hills of Santee. When 
+you send for the arms, pray enquire if there is no one there. I know 
+of no mode of getting them but from <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> ; I, therefore, enclose 
+you a letter to Heriot and Tucker, desiring them to endeavor to procure 
+you a supply agreeably to such list as you may send them. The Continental hospitals here are but scantily supplied at present. Your 
+presence is very much wanted in this quarter; indeed, every day renders 
+it more and more necessary. I enclose you two brevets for Messrs. Huggins and Rothmahler, agreeably to your request, and have left the 
+name blank. <a href='/results.php?city=savannah' rel='city'>Savannah</a> was completely evacuated on the llth instant. 
+Wayne, who is usually very sanguine, supposed, upon the commencement of the evacuation, it would have been pushed forward with great 
+rapidity, and this led me to say to you that it was evacuated; indeed, it would have been so in three days, were it not for the Tories, and 
+their negroes, whom they were obliged to carry off. Our prospects are flattering, and, if rightly improved, there is reason to expect we shall 
+soon be at ease. It affords me very singular pleasure to hear you have finally settled the tranquility of the district of Little Pee Dee; so happy 
+a conclusion to an affair, which, in its first stage, wore but a gloomy aspect, reflects great honor on you, sir, and promises lasting advantage 
+to the State. Pray, is Graney returned; I wish he may not be playing 
+a fast and loose game. Mr. David Rumph has proposed to me to raise a party of militia horse for the protection of the part of the country he 
+lives in. I have directed him to apply to you to know whether you approve of the plan. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3916">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=ashley river' rel='city origin'>ASHLEY RIVER</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+I herewith send you two copies of the laws passed in the last sessions. 
+There are several inaccuracies in the printing, but it luckily happens 
+that there is not one in the law giving extraordinary pi wers. In my last 
+letter I forgot to take notice of the circumstances of the prisoners. I 
+had a complaint made me some time ago, of their severe treatment, and 
+represented it to <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, who, in consequence thereof, sent down 
+the Commissary of prisoners to examine into the affairs, and on his 
+return reported that he could find no marks of ill treatment of the 
+prisoners, except that some of them were in want of clothing (which 
+you know they are not obliged to find them). Whether he was deceived 
+in his investigation of the matter, by false appearances, or what, we 
+can t tell; but I have again spoken to <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>, and he will have 
+a further enquiry made. As to his taking prisoners out of our hands, 
+you know the law of Congress authorises him so to do, and, as one of 
+the United States, we are compelled to submit to it, however disagree 
+able to our feelings. I have sent you thirty blank commissions, which 
+are all I have. You will observe they are printed with <a href='/results.php?tla=jhr' rel='colleague'>Mr. Rutledge</a>'s 
+name (and a few with mine); but, for want of others, I am obliged to 
+make use of them, for our printer is sick, and I can get nothing done 
+by him Ut present; nor has he printed any newspaper for some time 
+past. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3917">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, Ashley River, <a rel="month origin" value="7">July</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I was not less surprised than concerned on receipt of your letter to 
+day, to find you at Wasmasaw, instead of being on the other side of Santee. Mr. Singleton, who was the express that carried the letter 
+for you, deserves to be hanged. Pray, find him out, and have him 
+confined, for he shall certainly answer for this infamous piece of negligence. Had you received the letter on Sunday morning, which was 
+the time you ought to have got it, <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> might, in all probability, 
+have been saved; but it must now, beyond all doubt, be lost. The last 
+of the British troops, 170 in number, did not quit Charlestown until 
+yesterday afternoon; you could, therefore, have been a full days march 
+ahead of them, besides, your then position being so much nearer the 
+scene of action than that of the enemy s. On the contrary, they will 
+now have a days march of you, consequently the fall of <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> 
+must inevitably follow, and which must be a dreadful stroke to us. 
+The whole of the land forces said to be employed on this expedition is 
+about 700. If any thing can be done to save the place, or any part of 
+the stores, I am sure your utmost endeavors I can depend on. I am 
+convinced the opportunity is lost. Pray, let me hear from you as soon 
+as anything is done, and what is the fate of the place. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3918">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, Ashley River, <a rel="month origin" value="8">August</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Your letters of the 6th and 9th inst., are come safe to hand, but the 
+paper containing the consolidation of Maham's corps you have not sent me, which I suppose was omitted by some mistake. I enclose you 
+blank commissions. I very much approve of your plan of removing 
+the rice from Santee to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, for <a href='/results.php?tla=all' rel='colleague'>Gen. Leslie</a> has this day given 
+official information that he is greatly distressed for want of provisions, 
+and that unless I will furnish him, he must come and take it; there 
+fore, you must expect another visit from him before he goes. As to 
+your proposal to send rice to Charlestown for clothing, that is now rendered unnecessary, as we shall be in possession of it in the course of a 
+month or six weeks. The rice, &c., which Mr. Selby has permission 
+to send to town, is in payment for clothing furnished the officers of our 
+line, and the supernumerary officers; therefore, his vessel ought not to 
+be detained. I am much surprised at your mentioning that the time 
+of Maharn's men will all expire in a little time. I understood you, the 
+last time we conversed on that subjtct, that very few were enlisted for 
+one year, but most for two and three years. This circumstance has 
+given me much uneasiness; and, to relieve my difficulties, I request 
+you would forward me the return of the regiment without delay, that I 
+might know what to determine on respecting that regiment. Although 
+I am clearly of opinion there ought to be two Majors to a regiment, I 
+should wish first to see before I make an appointment, that the state of 
+the corps is such as to render the creation of another Major necessary. 
+I must first see <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> before I can say anything to you about 
+the exchange of prisoners you mention. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3919">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I this day received your letter of the 19th inst., enclosing me a return 
+of the state of Maham's corps, at which I am exceedingly chagrined 
+indeed, for it appears there are no more than seventeen men whose time 
+of service will not expire in a month or six weeks. This deficiency, 
+together with that in the corps brought into the regiment by Conyers, 
+makes the regiment at least but a skeleton, when I expected the State 
+would have had the services of a very respectable corps; and, to add 
+to the misfortune, I cannot command the means of making it better. 
+I have, in two or three instances, involved myself in a vast deal of 
+trouble, by making engagements which I thought I should have been 
+able to comply with; but, on experience, have found myself deceived, 
+and, in consequence of which, I have embarrassed myself exceedingly, 
+and brought on myself much unmerited censure, for which reason I 
+am determined never to pass my word for a guinea, without I have the 
+means in my hands of fulfilling the contract the moment it becomes 
+due; therefore, I have no present means in my hands, nor the least 
+prospect of any before the meeting of the Legislature. It is utterly 
+out of my power to furnish the money to re-engage Maham's men. I 
+can only lament the injury the State must be subject to by this unlucky 
+circumstance, for it is not in my power to remedy the evil. As a body 
+of horse will be what we shall most want when <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> leaves us 
+(which he will do immediately, as the town is evacuated) I think the 
+best way of disposing of the regiment will be to select the best of the 
+accoutrements and horses, and mount the whole of the men that are 
+retained, and form them again into a regiment of cavalry, and let them 
+remain thus until the meeting of the Legislature, which I shall call together immediately on the evacuation of the town. As you are well 
+acquainted with the state of the corps, 1 should be glad to have your sentiments on the matter. The enclosed is a copy of my letter to you 
+by Col. Moultrie, who, being taken and carried into town, suppose the letter is lost. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3920">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I have every reason to believe the information you enclosed me to be 
+well founded. A note I got two days ago, from a person of good 
+information, agrees substantially with yours. I think a fortnight more 
+will decide the enemy's real intentions. By a woman from town last 
+night, I am informed the enemy's plundering fleet sailed for George 
+town yesterday morning. I am in hopes they will not be so successful 
+there as they were at Santee. I enclose you an order on Mr. Richard 
+son for 200 stand of arms, as the presumption is they are arrived, as I 
+have notice of their leaving <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> the end of June. I have, 
+also, enclosed in the order, a box of sugar for your use, which is now 
+there at Richardson s. Enclosed is a brevet for Dr. Neufville. I find 
+there is some uneasiness in Maham's corps about rank j I could wish 
+you to order a board of officers to sit and determine in the dispute as 
+soon as possible, or as circumstances will admit. As you agree with 
+me that it is best to mount the whole corps to act as cavalry, it is more 
+necessary to have all disputes about rank settled as soon as possible, as 
+a new arrangement must necessarily take place; and I suppose the 
+youngest officers must go out, as was the case in the late arrangement. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3921">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+I enclose you a letter I have just received from Lieut.-Col. Bentou, 
+and wish, you to take such orders therein as you shall think proper. 
+I am, sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3922">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received yours of the 27th the last evening. The information 
+both <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself had received, agree that there were two 
+parties going out one Northwardly, and the other Southwardly. How 
+ever, I am very happy to find they have dropped the Northern expedition, which I am in great hopes will leave you at leisure to form some 
+plan, if possible, to put a stop to this infamous traffic, that is carried 
+on with the town through Goose Creek and down Cooper River. I 
+cannot help thinking it reflects no great credit on our cavalry in this 
+part, to lie still in their quarters and suffer about a dozen or twenty 
+negroes to come out almost every night in the week, and carry off 
+cattle, horses, and anything else they want, within twelve or fifteen 
+miles of their camp; but I have spoke of it so often, that I am deter 
+mined never to mention the matter again. I must entreat you, sir, to 
+form some plan which will be most effectual to stop such a shameful 
+commerce; it is no less villainous than true that the Charlestown mar 
+kets are now daily supplied with the greatest plenty of everything they 
+want. There is no political consideration whatever that can induce me 
+to alter the substance of my proclamation. I must request you to have 
+it carried into the most rigid execution. I am clearly convinced nothing 
+will do with the Southern militia until you are at leisure to undertake 
+the management of them. The news contained in the paper you sent 
+me is very important indeed, and I trust will lead to happy consequences. 
+I observe they are contending for a restoration of the confiscated estates. 
+This, I knew, would be the case, and told the House of Assembly so 
+when they were about passing the Confiscation Act ; for it is a matter 
+</p><p>
+that must be finally settled by negociation. I enclose you a copy of a letter I have just received from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. Poor <a href='/results.php?tla=jol' rel='colleague'>Laurens</a> ! I am 
+very sorry for his fate. I also enclose you twenty blank commissions, which were omitted to be sent before. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3923">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+Your letter, received yesterday, relieved me from a great deal of uneasiness, as Mr. K. Simons came down two days before and informed me that 
+he was apprehensive, from the accounts he had heard, that your brigade had been defeated, a total route ensued, and that they had suffered 
+severely. Under these impressions, you may judge what must have been my feelings on receipt of your letter yesterday. I most sincerely 
+congratulate you, sir, on your triumph over the deep laid scheme of our inveterate enemies. Their disappointment, in a plan they had 
+depended so much upon, must chagrin them far more than their loss. Your account of the behavior of the militia reflects great honor on them, and exhibits an example worthy of imitation by the rest of their 
+brethren. With respect to the prize you mention, 1 would have you by all means carry the proclamation into force against her in the most 
+rigid manner also, with regard to any others that might be taken ; for, notwithstanding every exertion, the Charlestown markets are amply 
+supplied with all kinds of provisions, by a parcel of mercenary, infamous wretches, who make lucre their only object, no matter how diabolical 
+the means they pursue to obtain it, or how prejudicial it may be to the interest of their country. 
+</p><p>
+I am, sir, your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3924">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I have just received yours of the 12th inst. by Major Conyers. I certainly will not give Col. Maham leave to give up the horses you 
+mention, and I think it extraordinary he should attempt to release them without my permission. I should imagine he would hardly presume to 
+disobey your orders ; but, if you apprehend any danger, I will immediately send you a press warrant, to prevent them from being taken away. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3925">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 10th inst., came safe to hand yesterday. The mode I 
+have adopted in taking substitutes is to oblige all under fifty to furnish 
+two substitutes, and all above fifty one substitute, which is conforming 
+to the militia law as near as can be. All those who have surrendered 
+since the time limited by my invitation, I have parolled till the meeting 
+of the Legislature, to be dealt with as they think proper; a copy of the 
+parole I now enclose you. I am entirely of opinion with you, that a 
+body of good cavalry will be indispensably necessary to restore order 
+and good government in the different parts of the country, after the 
+enemy have quitted Charlestown; for there are a parcel of infamous 
+wretches whom the habit of plundering has taken such fast hold of, 
+that nothing but a military force will ever be able to subdue them, and 
+that force must be cavalry. But, unfortunately for this country, we 
+have not the means of procuring men to put such a corps on the respectable establishment, as it ought to be; however, as Maham's corps 
+at present sCauds, I flatter myself we shall be able to put it on a very 
+respectable footing as soon as we can get into the town. By the determination of the Council, the substitute money is all to be applied to 
+raise recruits for the Continental line of this State; therefore, any 
+application of it towards recruiting State troops would be improper. 
+You mention those who agree to find substitutes give twenty-five 
+guineas; they are to procure the substitutes, cost what they will ; at the 
+same time great caution should be used that they do not go beyond 
+thirty guineas, otherwise, it would ruin our recruiting service. I, there 
+fore, think the best way would be for them to pay the money into your 
+hands, and you to recruit the men, by which means you will be able to 
+prevent the service being injured by exorbitant bounties. I think the 
+State's share of seizures, that are made under my proclamation of the 
+14th of March last, cannot better be applied than to the purpose you 
+mention that is, recruiting Maham's corps, and which I very much 
+approve of; but, I could wish you to reserve as much out of the first 
+sales as will pay Harris for the wagon you purchased of him, for I can 
+with truth assure you, that 1 have no present means, or a prospect of 
+any, until we get into Charlestown, of satisfying this or any other 
+demand against the State, as the Council have declined their assent to 
+selling any more negroes until the enemy quit the State. I am glad to 
+find, by the surrender of the party you mention, that the Northern 
+parts of the State are now clear of the disaffected. I don t apprehend 
+any danger now from Fanning. Our printer has began to publish his 
+paper again, and I enclose you one of them. 
+</p><p>
+I am, sir, your obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3926">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+SIR: 
+</p><p>
+I have written to you by Major Conyers respecting Mahanrs corps; 
+also, what must be done with those persons who come out of Charlestown. Since the time specified in ruy invitation, the refugees have 
+obtained permission to remain until the 26th inst. I proposed a plan 
+to Col. Lushington, some time ago, for manning the galley at George 
+town ; I have not since heard from him on the subject. If that plan 
+does not take, I know of no other at present; for, as I have before 
+observed to you, I have no money, nor have I the means of commanding any. It would be a mere trifle for the merchants and inhabitants 
+in and about that place, to advance as much money, or something else, 
+as would fit out the vessel, and they are the most immediately interested 
+in it. A few years ago, the public spirit of our people would have stimulated them to do such a thing without being asked; but, alas! that 
+seems now to be vanished. Mrs. Matthews is now on her way from 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and I expect she will be at the high hills of Santee about 
+the 7th of next month; and, as the road from Laurens Ferry to this 
+place is very dangerous^ I must desire an escort might be sent to meet 
+her at the ferry, and conduct her down to my quarters. Let the escort 
+be at Laurens by the 7th, and send on one of the men to Capt. Richardson's, to wait there until she arrives (if she should not be there 
+before) that she might know the escort waits for her; otherwise, she 
+may stay there a day or two, and I don t want the men to be absent 
+longer than necessity requires. You are a better judge than I am what 
+number of horse will be sufficient to render her passage safe ; therefore, 
+I shall leave the appointment of the party to you. I think it would be 
+well to caution the person who is to command the party, not to say for 
+what purpose they are ordered, lest some villains might be tempted to 
+waylay the road before she gets to the ferry, for she has only one white 
+man and two negro servants with her, and Capt. Richardson informs 
+me there are some bad men in that neighborhood, who have lately plundered several people. If it would not be fatiguing the horses too much, 
+or attended with particular inconvenience, I would be glad they could 
+be sent as far as Capt. Richardson s, to meet her. However, I shall 
+leave the matter to you, as I dare say you will be disposed to accommodate her as far as the service will admit. Yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3927">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Your letter of yesterday's date is just come to hand. There is but 
+one way in which the negroes you mention are to be dealt with; that 
+is, as they were taken in arms, they must be tried by the negro law ; 
+and, if found guilty, executed, unless there are any whose cases are 
+so far favorable as to induce the court to recommend them to mercy, 
+and the executive authority interpose and pardon them. Exemplary 
+punishments on such notorious offenders will have a very salutary effect, 
+especially at this time. With regard to the subject of the trade carried on with the town, which you wrote to me about some days ago, I 
+have not been able to collect a Council to advise with them on that 
+subject, as they have almost all of them been so much indisposed, that 
+they have not been able to attend to business; however, it would not 
+be amiss still to hold up the threat of subjecting offenders to trial under 
+the Sedition Act, and in the meantime to seize and condemn whatever 
+is taken from them, in the utmost latitude of my proclamation. The 
+enemy have lately sent some of their emissaries in the country, to persuade the people to carry all the provisions into them that they can collect, in consequence of which they are thronging to town in such 
+droves, that the guard at Bacon's Bridge, detachments from the army, 
+and even individuals, have made a great number of seizures, which 
+have been condemned. This timely exertion has so far deterred them, 
+that for several days past they seem to have given up their lucrative 
+game, as no seizures have been made, so that their execrable policy has 
+failed for once. The enemy has abandoned James Island. 
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter><letter id="jhm3928">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Those gentlemen who have for some time been so much indisposed, 
+as to prevent their attendance in Council, having recovered their health, 
+enabled me yesterday to convene a Council, when I laid before them 
+your letter respecting the propriety of altering the mode of punishment 
+for persons carrying on a clandestine trade with the enemy, from that 
+pointed out by my proclamation of the 14th March last, to that pointed 
+out under the Sedition Act; when, after mature deliberation, the 
+Council were of opinion that an alteration in the mode of punishment 
+would by no means be advisable at this juncture; but, at the same 
+time, earnestly recommended that the proclamation before mentioned 
+should be carried vigorously into execution, which, in their opinion, 
+was very well calculated to put a stop to that iniquitous commerce. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

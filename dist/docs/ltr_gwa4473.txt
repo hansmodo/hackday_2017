@@ -1,0 +1,41 @@
+<letter id="gwa4473">
+<recipient first="Alexander" last="Scammell" type="individual"/>
+<p>
+TO COLONEL ALEXANDER SCAMMELL. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have received intelligence, that a party of the enemy are establishing themselves at or near <a href='/results.php?city=fort lee' rel='city'>Fort Lee</a>, 
+and building a blockhouse, or some kind of work. If 
+they are permitted to complete their plan, it will not only be difficult to remove them, but they will harass the 
+country from thence, and may be much in the way of 
+some future operation. When I formed the battalion, 
+which you at present command, it was with a view of 
+having a corps ready to execute a project of the kind, 
+which I propose to you, and that is, to endeavour to 
+strike by surprise the party above mentioned. You 
+will without loss of time see Captain Lawrence, who 
+commands the <a href='/results.php?city=new york' rel='city'>New York</a> levies near Dobbs's Ferry, 
+and concert measures with him for gaining certain intelligence of the real strength and situation of the enemy ; and, if you find them such as seem to give you a 
+tolerable certainty of success, you will plan your attack 
+in such manner, as shall be best warranted from your information. the sooner it is done the better, as the 
+enemy, if they are fortifying, will be every clay stronger. 
+You will take Captain Lawrence under your command, 
+with the levies of <a href='/results.php?city=new york' rel='city'>New York</a> and any Jersey militia 
+you may find embodied ; but you will trust no officer 
+among them, nor any other but Lawrence, with your 
+design. lie is sensible and appears discreet. 
+</p><p>
+As I coiiiide very much in your prudence and judgment, I shall only give you these general directions ; 
+namely, to attempt nothing, which may have the appearance of rashness, and to guard well against being 
+drawn into an ambuscade, or being intercepted by a 
+sudden reinforcement from York Island. Captain Lawrence's party, who must be acquainted with every foot 
+of the ground, ought to secure you against the former ; 
+and guards, at the practicable landing-places, will certainly prevent the latter. I shall set out in the morning 
+for Connecticut, and shall be absent six or seven days. 
+If you make the attempt, I wish you every success. 
+I am with great regard, &lc. 
+</p>
+</letter>

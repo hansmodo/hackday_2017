@@ -1,0 +1,78 @@
+<letter id="jol3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, near Paris, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Upon my arrival here, I found that our Minister 
+Plenipotentiary had received the instructions, &c., 
+transmitted to him, and commenced the negotiation 
+with which we were charged; and that he had received the following communication from the Count de Vergennes. 
+</p><p>
+" It is impossible for his Majesty to favor a loan 
+in this kingdom, because it would prejudice those 
+which he has occasion to make himself for the support of the war ; but his Majesty, to give the United 
+States a signal proof of his friendship, grants them 
+under the title of a donation, six millions of livres 
+tournois. As the American army is in want of arms, 
+clothing, &c., <a href='/results.php?tla=ben' rel='colleague'>Mr. Franklin</a> will be so good as to give 
+a note of those articles; they will be procured of 
+the best quality, and at the most reasonable price. 
+<a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> will be authorized to give drafts 
+for the remaining sum; but the drafts must be at 
+long sight, in order to facilitate the payments from 
+the Royal Treasury. The Courts of Petersburg and 
+Vienna have offered their mediation. The King has answered, that it would be personally agreeable to 
+him, but that he could not as yet accept it, because 
+he has allies whose concurrence is necessary. Mr. 
+Franklin is requested to communicate the overture 
+and answer to Congress, and to engage them to send 
+their instructions to their Plenipotentiaries. It is supposed the Congress will accept the mediation with 
+eagerness." 
+</p><p>
+After my first interview with the Count de Vergennes, I presented to him a Memorial/'' in which I 
+transcribed the principal part of the letter your Excellency delivered to me ,at New Windsor, and represented the insufficiency of the succour proposed by his 
+Majesty. I have since given in an extract of the 
+estimate of the Board of War, accompanied with a 
+letter, urging the necessity of despatch in furnishing 
+those essential supplies. My personal solicitations 
+have not been wanting to induce a prompt and favorable answer; but M. de Maurepas and the Count de Vergennes both inform me, that nothing can be 
+determined until the return of M, de Castries, who 
+is expected the day after to-morrow; that the matter 
+must be deliberated, and they will consider what can 
+be done. M. Necker will be consulted to-day. 
+</p><p>
+M. de Vergennes complains very much of the excessive demands of Congress, and seems to entertain 
+an idea that they wish to throw too much of the 
+burden of the war on their ally. He says that the 
+exertions and expense with which France supports 
+the war in different parts of the world, fully employ 
+her means ; that her public credit has its limits, to 
+surpass which would be fatal to it. 
+</p><p>
+Upon the whole, my expectations are very moderate. The naval dispositions were made before my 
+arrival; five ships of the line for the East Indies 
+with troops ; twenty, commanded by De Grasse, for 
+the West Indies, twelve of which are to proceed to 
+America. They will probably arrive on our coast in 
+July. We have no news yet of their departure. 
+</p><p>
+Your Excellency will see that I have written in a 
+great hurry. In my next, I hope to be able to give 
+you more particular intelligence of our affairs. In 
+the mean time, I take the liberty of troubling you to 
+present my respects to Mrs. Washington, my love to 
+the family and the <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a>, the want 
+of whose letters is a great disadvantage to me. My 
+only hope of obtaining additional succour is founded 
+on the exalted opinion which the Ministers have of 
+your Excellency, and every thing which comes from 
+you. 
+</p><p>
+I have the honor to be, with the greatest respect 
+and most tender attachment, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">John Laurens</a>. 
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--5350
+--LETTER-TLA--rbl
+--DOC-AUTHOR-FIRST--Robert
+--DOC-AUTHOR-LAST--Lenox
+--DOC-SOURCE--The correspondence of Nicholas Biddle Dealing With National Affairs 1807-1844, 1919, By Reginald C. Mcgrane
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="rbl5350">
+<recipient first="Nicholas" last="Biddle" type="individual"/>
+
+New York 7 t July 1829 
+
+My Dear Sir 
+
+Your favor of the 6th inst is before me. I have long 
+been aware of the existance of the uneasiness which prevails in 
+Portsmouth. I knew it would exist as long ago as when I was 
+there last Summer and at the time the appointment was made 
+and the Salary fixed any man that would do his duty under 
+the Circumstances that exist, would be unpopular; but as the 
+old saying is, "one man may Steal a Sheap while another 
+dare not look over the fence." . . . 
+</p>
+</letter>

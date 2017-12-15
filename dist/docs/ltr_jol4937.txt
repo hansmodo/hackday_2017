@@ -1,0 +1,64 @@
+<letter id="jol4937">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Last night General McIntosh returned with the 
+agreeable intelligence that the supply of cattle which 
+he was ordered to protect was out of danger. 
+</p><p>
+He received the S. Carolina newspapers in ecstacy, and we had some serious conversation together upon the subject of your retiring from Congress, in which 
+we determined that your presence in that assembly is more necessary now, than it would have been at any other period since the revolution. More judgment, more spirit, more firmness in the conduct of the 
+political bark are required than ever. So far are we from thinking that your service may be dispensed with on account of the appointment of the other delegates from S. Carolina, that we judge it more peculiarly incumbent on you, in consequence of the choice 
+of one whose great talents, from a defect of probity, render him the more dangerous to remain a guardian of the liberties of these rising Slates; and not by your 
+</p><p>
+absence to strengthen the party of men who make their individual selves the centre of the universe. 
+</p><p>
+I conjure you, my dearest friend and father, in the 
+name of your country, not to leave the fate of this 
+empire, this last asylum of liberty, at their disposal. 
+Every one of your letters, in which you so pathetically 
+describe the low ebb of patriotism, furnishes me with 
+irrefutable arguments. 
+</p><p>
+You do not particularly mention your reasons for 
+quitting the Congress at this time. Impaired health, 
+diminution of property and other reasons which have 
+their weight might be urged, but what can be put in 
+competition with the object of your present labours. 
+</p><p>
+I am happy to hear that Congress is about to reward 
+Captain Lee of the dragoons for his distinguished 
+services. His brilliant actions have been so frequent, 
+that I think their decision need not be preceded by 
+much deliberation. 
+</p><p>
+Nothing but his own modesty has prevented his 
+being recommended to the notice of Congress long 
+since. This officer only wants a larger sphere of 
+action to show the extent of his military talents, and 
+it will be for the benefit of the service, as well as a 
+piece of justice to entrust him with a larger command, 
+and honour him with a higher rank. The presence of 
+disinterested patriots is wanted, if it were only to 
+patronize real merit, and oppose the sudden rise of 
+persons who have nothing but connections and family 
+interest to recommend them. 
+From some accounts lately received, it appears that 
+Gen'l Howe is concentrating his forces. Such of his 
+transports as are at sea will be much exposed to the 
+dangers of a lee-shore, by the storm of eastern wind 
+which seems to increase every moment. The advantage which he will have over us, if his transports are 
+safe, and have tolerable passages will be, a power 
+of taking the field earlier than we can. If he would 
+do us the favour of attacking us in the position we are 
+now fortifying, we might safely allow him a superiority of numbers. But we must have our tents early, 
+for in case of attack, we must sacrifice our huts. 
+</p><p>
+This goes under the care of Brigadier Gen'l Woodford, who is proceeding to Virginia on public and private business. 
+</p><p>
+With the tenderest affection, your dutiful son. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

@@ -1,0 +1,94 @@
+<letter id="nib5263">
+<recipient first="Samuel" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="1">Jan'y</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+You will hear, I am afraid with regret, tho not with surprize, that we have determined on applying to the present 
+Congress for a renewal of the Charter of the Bank &amp; that a memorial for that purpose will be forwarded tomorrow or the 
+next day. To this course I have made up my mind after great reflection &amp; with the clearest convictions of its propriety. The 
+reasons I will briefly explain. I. The Stockholders have devolved upon the Directors the discretion of choosing the time 
+of making the application. If we should omit a favorable opportunity we would commit an irreparable error, &amp; would be 
+permanently reproached with it by the Stockholders. Now these Stockholders are entirely unanimous in their opinions 
+and in a case of such grave responsibility their wishes are entitled to great consideration. Unless therefore there should 
+be some very strong reason against it, the application should be made. 2. Independent however of this, I believe That this 
+is the proper time. The Charter will expire in March <a href='/results.php?year=1836'>1836</a> 
+Unless the present Congress acts upon it, we must wait till 
+the Congress of December <a href='/results.php?year=1833'>1833</a>, &amp; could not expect from 
+them any decision before after March <a href='/results.php?year=1834'>1834</a> which would bring 
+the Bank within two years or 18 months of the expiration of its charter. Now whether the institution is to be continued 
+or destroyed that time is too short. Until the question is settled every thing will be uncertain. No man can look ahead 
+in either public or private affairs as to the state of the currency &amp; there will be constant anxiety about our whole monied 
+system. The Bank too ought to know its fate so as to close its affairs without inflicting deep &amp; dangerous wounds upon 
+the community by sudden shocks &amp; changes. I believe therefore that this is the best time for settling the question. If the 
+Bank is to be continued the country ought to know it soon. If the Bank is to be destroyed the Bank &amp; the country ought both to know it soon. 
+</p><p>
+The only objection I have heard to it, is, as far as I understand, this : that in about a year hence there is to be an election for a President of the U.S. and if the application is 
+now made, the gentleman who is now President will take it amiss &amp; negative the bill while if the Bank will refrain from 
+applying until after his election is secured, he will probably 
+be permitted to abstain from negativing it. This seems to embrace the whole case Let us look at it. In the first place 
+then, neither I nor any of my associates have any thing what ever to do with the President or his election. I know nothing 
+about it &amp; care nothing about it. The Bank has never had any concern in elections it will not have any now. To abstain 
+from anything which it would otherwise do, on account of an election, is just as bad as doing anything on account of an 
+election. Both are equal violations of its neutrality. There are 
+many politicians who want to bring it on because it would benefit their side. There are many other politicians who 
+want to put it off because that would benefit their side. Hitherto they have been urged to bring it before the last 
+Congress in hopes that it would injure the present incumbent now they are urged to postpone it because postponement 
+would benefit him. The Bank cares not whether he is benefited or injured. It takes its own time &amp; its own way. 
+</p><p>
+In the next place what appears to me I confess wholly in 
+explicable is why the friends of the present incumbent who 
+are also friends of the Bank, if they think the Bank question 
+likely to injure the President, do not at once take the question 
+out of the hands of their adversaries. If the President's 
+friends were to come forward &amp; settle the Bank question 
+before the election comes on, they would disarm their antagonists of their most powerful weapon. I am very ignorant of party tactics, &amp; am probably too much biased to be a fit 
+judge in this case, but such a course has always seemed to me so obvious that I have never been able to comprehend why it was not adopted. 
+</p><p>
+But again what is the reason for supposing that the present 
+incumbent will be offended by bringing it forward now? What 
+possible right has he to be offended ? What too has he meant 
+by all these annual messages declaring in <a href='/results.php?year=1829'>1829</a> that he 
+could not "too soon present it" to Congress repeating the 
+same thing in <a href='/results.php?year=1830'>1830</a> and reiterating it in <a href='/results.php?year=1831'>1831</a>. Was this all 
+a mere pretence? that the moment the Bank accepts his own 
+invitation he is to be offended by being taken at his word. 
+</p><p>
+But moreover he is to negative the bill. That is to say, he 
+will agree to the bill hereafter, but because he thinks it will 
+interfere with his election he will negative it now. Truly this 
+is a compliment which I trust he does not deserve from his 
+friends, for even I who do not feel the slightest interest in him 
+would be sorry to ascribe to a President of the United States 
+a course much fitter for a humble demagogue than the Chief 
+Magistrate of a great country. He will sign a bill, which of 
+course he must think a good one, when his election is over 
+but he will not sign this bill, which he thinks a good one, if 
+it is likely to take votes from him at an election. And after all, 
+what security is there that when his election is over, he will 
+not negative the bill ? I see none. On the contrary I am satisfied 
+that he would be ten times more disposed to negative it then 
+than now. Now he has at least some check in public opinion 
+some in the counsels of those around him then he will 
+have neither. And now, my dear Sir, I have tired myself as 
+I have certainly you with these opinions which you think very 
+erroneous &amp; very disrespectful perhaps to the President. But I wanted to explain precisely the course of thinking which has 
+brought me to my present conclusion. The only regret which 
+accompanies it is that it has not the concurrence of Mr M c Lane &amp; yourself to whom the Bank as well as myself personally owe much for the manner in which you have both 
+sustained the institution. I cannot express to you how much 
+I am concerned at not being able to adopt the suggestions of Mr McLane who has behaved so handsomely in this matter. 
+But we must each in our respective spheres of duty follow our own convictions with mutual regret but still with mutual respect. 
+</p><p>
+To you I always looked forward as a friend &amp; advocate of 
+the Bank whenever the question of its renewal was agitated. 
+I shall be very sorry on many accounts that from a difference 
+of opinion in regard to time you will be constrained to with 
+hold your aid but I assure you it will abate none of the 
+regard for you &amp; the fullness of these explanations will I 
+hope satisfy you of my anxiety to State to you frankly &amp; 
+distinctly the motives which lead me to a conclusion, differing 
+I believe for the first time from Your's on the Subject of 
+the Bank. 
+</p>
+</letter>

@@ -1,0 +1,18 @@
+<letter id="aab2613">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a rel="month origin" value="9">September</a> <a rel="day origin" value="1">1st</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+DEAR SIR : It seems that some misapprehension exists on the subject of the bill held by Mr. Luckett. I could 
+not with delicacy propose to you to take up my bill ; but I repeat that it would gratify me that it could be done. 
+My present inability is too manifest. Yours, perhaps, not very different. If, however, you choose to request <a href="/results.php?tla=joa" rel="met kin">Alston</a> 
+to assume this bill as part of his engagement to you, the arrangement would give me real pleasure, and I have no 
+doubt may be made satisfactory to him. 
+</p><p>
+I felicitate you on the events of yesterday, and am always faithfully yours. 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

@@ -1,0 +1,38 @@
+<letter id='mad1706'>
+<recipient first='Heney' last='Lee' type='individual'/>
+<p>
+TO GEN'L H. LEE. 
+</p><p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, March 28th, <a href="/results.php?year=1792">1792</a>. 
+</p><p>
+MY DEAR Sm, No nomination has yet been made of a new 
+Commander for the Military establishment, nor of any of the 
+Brigadiers authorized by the supplemental act lately passed. 
+I refer to the Newspapers for the inferior appointments which 
+have taken place. It is understood that S* Clair is not to remain in serv.e. A proposition was yesterday made in the 
+House of Representatives desiring the President to institute an 
+enquiry into the cause of the Western calamities, which, for 
+some particular reasons, was deemed improper, and was disagreed to, but another passed for appointing a committee to 
+make an enquiry. It ought to have confined the Committee to 
+such circumstances and abuses as are proper information for the 
+House, and an explanatory resolution to that effect was laid 
+on the table, and will probably be taken up to-day. 
+</p><p>
+The Mint Bill sent from the Senate passed the House of Representatives yesterday. It was disliked and voted against by 
+some as it stands, because it does not establish any systematic 
+proportion of alloy, conforming to the arbitrary one of the last 
+and basest edition of the Spanish dollar; but by most, on account 
+of the expense, which is estimated at about 30,000 annually, and 
+the additional weight of influence it throws into the preponderating scale. In the course of the bill a small circumstance happened worthy of notice, as an index of political biasses. The 
+Senate had proposed in the Bill that on one side of the coin 
+should be stamped the head of the President for the time being. 
+This was attacked in the House of Representatives as a feature 
+of Monarchy, and an amendment agreed to substituting an emblematic figure of Liberty; on the return of the Bill to the Senate the amendment was instantly disagreed to, and the Bill sent 
+back to the House of Representatives. The question was viewed, 
+on account of the rapidity and decision of the Senate, as more 
+serv.us than at first. It was agitated with some fervor, and the 
+first vote of the house confirmed by a large majority. The Senate perceiving the temper, and afraid of losing the Bill, as well 
+as unwilling to appeal in such a controversy to the public criticism, departed from their habitual perseverance, and acceded 
+to the alteration proposed. 
+</p>
+</letter>

@@ -1,0 +1,72 @@
+<letter id="cdl3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Translation.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+I embrace the first moment after my return from 
+Virginia; to comply with the request of the principal 
+officers of our army in tendering you their sincere respects. I have already forwarded to your Excellency 
+a letter from <a href='/results.php?tla=cdr' rel='colleague met'>Count De Rochambeau</a>. On my return 
+here, I found letters from my Court, dated in February last. They do not announce any thing pacific on 
+the part of our enemies. No progress is made in the 
+mediation of the Courts of Vienna and Petersburg ; 
+and the Court of London seems determined to risk 
+the event of another campaign, in which they will 
+employ all the strength they have left. The plan 
+for the campaign was not yet finally decided ; it depending on some arrangements which were yet to be 
+made with the Court of Madrid, and on some advices 
+which were expected from the Antilles. It nevertheless seemed to be the intention to act vigorously for 
+the assistance of the United States; and though no 
+particular assurances could be given me on this head, 
+yet, from what they write me, it is probable that 
+<a href='/results.php?city=new york' rel='city'>New York</a> or <a href='/results.php?city=charleston' rel='city'>Charleston</a>, or perhaps both, will be 
+the object of their efforts next campaign. 
+</p><p>
+I think it, however, proper to inform you that, at 
+the same time they announce to me their general 
+views, they observe that it is an unhappy circumstance that the American army is so weak as it is ; 
+and they seem to fear that it will not be in a condition to second their efforts, when it shall be necessary to strike a decisive stroke, or to undertake operations in which such extensive means are required 
+as in a siege. 
+</p><p>
+I beg your Excellency would enable me to give 
+my Court the necessary information on a matter so 
+important as this is. I am not curious to know any 
+of the particular details relative to your army, which 
+it may be necessary to keep secret j but the military operations of France and America are so intimately connected, that it is indispensable for us to 
+know what is the actual force and means which you 
+have, in order to calculate, with any degree of probability, what enterprises can be undertaken. Our 
+ignorance in this respect cannot but be very prejudicial to our affairs, because if, from false information, 
+we consider your army as weaker than it really is, 
+it will prevent our forming plans which it would be 
+possible to execute ; and if, on the contrary, we 
+are led to believe it stronger than it really is, we 
+run the risk of forming plans impracticable in their 
+execution. It is from these considerations that I beg 
+you to confide to me such information on this head 
+as you may think proper, both with respect to the 
+actual force you have at the different parts of the 
+Continent, and what it will probably be in the course 
+of the campaign. It is equally interesting to know 
+the force of the enemy, both in regulars and militia. 
+I beg you to rest assured of the discretion with 
+which I shall make use of these communications. 
+</p><p>
+I cannot refuse myself the pleasure of communicating to you the sentiments with which our Court and 
+the nation at large are inspired, from the reports of 
+the French officers, respecting your Excellency, on 
+their return to Versailles. Their testimony could 
+add nothing to the universal opinion of the great 
+services you have rendered your country j but to the 
+esteem and admiration of the French, is now added a 
+sentiment of affection and attachment, which is the 
+just return for that attention our military experienced 
+from you, and the progress they made in their profession by serving under your orders. I have the 
+honor to be, with sentiments of the most respectful 
+and inviolable attachment, Sir, your Excellency's 
+Most humble and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdl" rel="me">Luzerne</a>. 
+</p>
+</letter>

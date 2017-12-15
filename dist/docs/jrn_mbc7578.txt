@@ -1,0 +1,31 @@
+<letter id="mbc7578">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> telegraphed yesterday (they say, to <a href='/results.php?tla=jpj' rel=''>General Johnston</a>), " Come down and help us, or we 
+shall be crushed by numbers. The President telegraphed <a href='/results.php?tla=jpj' rel=''>General Johnston</a> to move down to <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> aid. At 
+Bull Run, Bonham's Brigade, Ewell's, and <a href='/results.php?tla=jml' rel=''>Longstreet's</a> encountered the foe and repulsed him. Six hundred prisoners have been sent here. 
+</p><p>
+I arose, as the Scriptures say, and washed my face and anointed my head and went down-stairs. At the 
+foot of them stood General Cooper, radiant, one finger nervously arranging his shirt collar, or adjusting his neck to 
+it after his fashion. He called out : "Your South Carolina man, Bonham, has done a capital thing at Bull Run driven back the enemy, if not defeated him; with killed and prisoners/ etc., etc. Clingman came to tell the particulars, 
+and Colonel Smith (one of the trio with Garnett, <a href='/results.php?tla=gbm' rel=''>McClellan</a>, who were sent to Europe to inspect and report on mil 
+itary matters). Poor Garnett is killed. There was cowardice or treachery on the part of natives up there, or 
+some of Governor Letcher's appointments to military posts. I hear all these things said. I dp not understand, but it 
+was a fatal business. 
+</p><p>
+Mrs. McLane says she finds we do not believe a word of any news unless it comes in this guise: " A great battle 
+fought. Not one Confederate killed. Enemy's loss in killed, wounded, and prisoners taken by us, immense." I 
+was in hopes there would be no battle until Mr. Chesnut was forced to give up his amateur aideship to come and at 
+tend to his regular duties in the Congress. 
+</p><p>
+Keitt has come in. He says Bonham's battle was a skirmish of outposts. Joe Davis, Jr., said: " Would Heaven 
+only send us a Napoleon! " Not one bit of use. If Heaven did, <a href='/results.php?tla=lew' rel=''>Walker</a> would not give him a commission. 
+<a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and Mrs. Joe Johnston, " her dear Lydia," were in fine spirits. The effect upon nous autres was evident; 
+we rallied visibly. South Carolina troops pass every day. They go by with a gay step. Tom Taylor and John Rhett 
+bowed to us from their horses as we leaned out of the win dows. Such shaking of handkerchiefs. We are forever at the windows. 
+</p><p>
+It was not such a mere skirmish. We took three rifled cannon and six hundred stands of arms. <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> has 
+gone to Manassas. He did not let Wigfall know he was going. That ends the delusion of Wigfall's aideship. No 
+mistake to-day. I was too ill to move out of my bed. So they all sat in my room. 
+</p>
+</letter>

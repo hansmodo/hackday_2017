@@ -1,0 +1,11 @@
+<letter id="mbc7599">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='9'>September</a> <a rel='day origin' value='1'>1st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. North Carolina writes for arms for her 
+soldiers. Have we any to send ? No. Brewster, the plainspoken, says, " The President is ill, and our affairs are in 
+the hands of noodles. All the generals away with the 
+army; nobody here; <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> in Western Virginia. 
+Reading the third Psalm. The devil is sick, the devil a saint would be. Lord, how are they increased that trouble 
+me ? Many are they that rise up against me ! " 
+</p>
+</letter>

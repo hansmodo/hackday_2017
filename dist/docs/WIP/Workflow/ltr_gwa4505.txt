@@ -1,0 +1,50 @@
+<letter id="gwa4505">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+Head-Quarters, near <a href='/results.php?city=dobbs ferry' rel='city origin'>Dobb's Ferry</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your favors of the 2d and 5th instant have afforded 
+me infinite satisfaction, as the measures you are pursuing for subsisting the army perfectly accord with my 
+ideas, and are, I am certain, the only ones, which can 
+secure us from distress or the constant apprehensions 
+of it. Had magazines of any consequence been formed in the different States, in pursuance of the late requisitions of Congress, the disposal of the articles collected at a distance from the army would have merited 
+your attention ; but so little has been done in that way, 
+that I imagine you will not think the matter worthy of 
+notice, when I inform you of the trilling quantities 
+which remain on hand. No magazines of flour have 
+been formed at any place. No salt meat was put up 
+in Pennsylvania, Jersey, or <a href='/results.php?city=new york' rel='city'>New York</a>. There had 
+been, by estimate, seven or eight thousand barrels of 
+meat and fish put up in Connecticut, of which between 
+two and three thousand have come forward, and the remainder is, I believe, in motion. Massachusetts put up very little salt meat, and most of it has been consumed 
+upon the communication by the recruits, or transported 
+to <a href='/results.php?city=albany' rel='city'>Albany</a>. Rhode Island purchased one thousand barrels, of which about six hundred remain at <a href='/results.php?city=providence' rel='city'>Providence</a>, 
+and I would wish them to be still kept there for a particular purpose. I could never learn, with certainty, 
+how much was put up in New Hampshire ; but I have 
+directed all that was at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a> to be transported 
+by water to <a href='/results.php?city=providence' rel='city'>Providence</a>, as I wish to form a small magazine of salt provision at that place, as I mentioned 
+before, for a particular purpose. No magazines of rum 
+have been formed. We have been in a manner destitute of that necessary article, and what we are now 
+likely to draw from the several States will be from hand 
+to mouth. From the foregoing state of facts you will 
+perceive in how small a degree the requisitions of 
+Congress have been complied with, and may form a 
+judgment of the miserable manner in which the army 
+has been subsisted. 
+</p><p>
+Having lately, at the request of the Board of War, 
+furnished them with my opinion of the quantity of provision, which ought to be laid up at the several posts, 
+they will be able, at the interview which you propose 
+to have with them, to lay before you my ideas upon the 
+subject of a contract for supplying the army. I beg 
+you to be assured, that I never can think your correspondence tedious or troublesome. Duty as well as 
+inclination will always prompt me to listen with pleasure to your observations upon the state of our public 
+affairs ; and I shall think myself happy, if I can in any 
+manner contribute to assist you in the arduous task 
+you have undertaken. I shall very anxiously wait for 
+the visit, which you promise to make me. I am, with 
+very sincere respect and esteem, &c. 
+</p>
+</letter>

@@ -1,0 +1,80 @@
+<letter id="nag3725">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head- Quarters, <a href='/results.php?city=santee' rel='city origin'>High Hills Of Santee</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+My last letter was dated at Charlotte, and forwarded by Lieutenant-Colonel Lee ; since which I have 
+received your Excellency's favor of the 28th of September. I am happy to find the army under your 
+command ready to commence operations against Lord 
+Cornwallis ; but I am sorry to hear you think the 
+issue somewhat doubtful. And it gives me great pain 
+to find, that, whatever may be our success in Virginia, the circumstances of our ally will not permit them to cooperate with us in an attempt upon 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a>. The great importance of their present 
+services demands our warmest gratitude ; but it is 
+much to be regretted, that we cannot improve the 
+advantage which our signal success would give us, as 
+the hopes of our people, and the fears of the enemy, 
+would greatly facilitate the reduction of <a href='/results.php?city=charleston' rel='city'>Charleston</a>. 
+However, if you succeed in Virginia, it will enable 
+you to support us more effectually here, if these 
+States derive no other advantage from the present 
+exertions of our allies. I will not suffer myself to 
+doubt of your success, though I cannot help, at times, 
+being greatly agitated between hope and fear, which 
+alternately prevail, from the many incidents that occur in military operations, which may defeat the most 
+flattering prospects ; and I find, by letters from Congress, as well as from your Excellency, that Sir Henry 
+Clinton is making the most rapid preparations for 
+some important blow. 
+</p><p>
+I mentioned, in one of my former letters, that I 
+had been concerting with Governor Burke a plan for 
+the reduction of Wilmington. General Rutherford is 
+moving down towards that place with a considerable 
+body of militia ; and I hear the enemy have left the 
+place, and now occupy Brunswick, about thirty miles 
+below; and, by preparations making in <a href='/results.php?city=charleston' rel='city'>Charleston</a> of 
+small transports, I think it highly probable the enemy intend to take off the garrison. But this is only 
+conjecture. 
+</p><p>
+Since the battle of Eutaw, our troops have been 
+exceedingly sickly, and our distress and difficulties 
+have been not a little increased for want of medicines and hospital stores. The malignity of the fevers begins to cease as the weather grows cool. The 
+enemy are all in the lower country ; and nothing 
+material has happened since my last, except a number of prisoners who have been taken by our light 
+parties sent out by <a href='/results.php?tla=frm' rel='colleague met'>General Marion</a>. 
+</p><p>
+Inclosed, I send your Excellency a return of our 
+strength, by which you will see our weak state. We 
+can attempt nothing further, except in the partisan 
+way. Some riflemen have arrived in camp from the 
+mountains ; more are expected, which will enable us 
+to keep up pretty strong parties for a time. But I look forward with pain to December, when the whole 
+Virginia line will leave us. I hope measures will be 
+taken before that period to reenforce us. To arrive 
+here seasonably, they must move soon. Colonel Lee 
+and Captain Pierce, I hope, have given you a full 
+state of matters in this quarter, to enable you to 
+take your measures without loss of time. 
+</p><p>
+I transmitted, by Captain Pierce, copies of all the 
+letters and papers that had passed respecting Colonel Hayne's execution, mentioned in some of my former 
+letters ; and, as I had not paper to copy them for 
+your Excellency, I desired Captain Pierce to break 
+the covers on his arrival at your camp, to give you 
+an opportunity to see them, and inform yourself respecting the matter, as the business, in its consequences, might involve the whole Continent, and particularly the military part ; and, therefore, would ultimately rest with you. Should he have omitted this 
+matter, of which I gave him a particular charge, I 
+will forward you copies by the first opportunity. I 
+wrote to Lord Cornwallis on the subject, but have 
+not got his answer. 
+</p><p>
+You have my warmest wishes for your success, and 
+my hearty prayers for your safety. With sentiments 
+of the greatest respect and esteem, I am 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

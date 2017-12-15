@@ -1,0 +1,101 @@
+<letter id="nag3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+The growing extravagance of the people, and the 
+increasing demand for the article of forage in this 
+quarter, have become a very alarming affair. Hay is 
+from sixty to eighty dollars a ton, and upon the 
+rise.* Corn is ten dollars a bushel, and oats four; 
+and every thing else, that will answer for forage, in 
+that proportion. Carting is nine shillings a mile by 
+the ton, and people much dissatisfied with the price. 
+I have represented to the States of Rhode Island 
+and Connecticut the absolute necessity of legislative 
+interposition, to settle the prices of things upon some 
+reasonable footing, of all such articles and services as 
+are necessary for the use of the public in my department. I am going to do the same to the Council of this State. What effect it will have, I cannot 
+say; but, if there is not something done to check 
+the extravagance of the people, there are no funds 
+in the universe that will equal the expense. 
+</p><p>
+The late affray that happened in this place, between the people of the town and those of the fleet, 
+has been found to originate from a parcel of soldiers 
+belonging to the Convention troops, and a party of 
+British sailors which were engaged on board a privateer. The secret enemies to our cause, and the British officers in the neighbourhood of this place, are 
+endeavouring to sow the seeds of discord as much as possible between the inhabitants of the place and the 
+French belonging to the fleet. The French officers are 
+well satisfied this is the state of the case, and it 
+fills them with double resentment against the British. 
+The Admiral and all the French officers are now 
+upon an exceeding good footing with the gentlemen 
+of the town. <a href='/results.php?tla=joh' rel='colleague'>General Hancock</a> takes unwearied pains 
+to promote a good understanding with the French 
+officers. His house is full from morning till night. 
+</p><p>
+I had a letter from the Marquis, day before yester 
+day. He writes me he is endeavouring to represent 
+every thing in the most favorable colors to the Court 
+of France, in order to wipe away the prejudices that 
+the letters of some of the more indiscreet may make 
+upon that Court, All the French officers are extravagantly fond of your Excellency; but the Admiral 
+more so than any of the rest. They all speak of you 
+with the highest reverence and respect. General 
+Hancock made the Admiral a present of your picture. 
+He was going to receive it on board the fleet by 
+the firing a royal salute. But <a href='/results.php?tla=joh' rel='colleague'>General Hancock</a> 
+thought it might furnish a handle for some of the 
+speculative politicians to remark the danger of characters becoming too important. He therefore dissuaded the Admiral from carrying the matter into 
+execution. 
+</p><p>
+I find, by your Excellency's letter to <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a>, that you expect the enemy are going to evacuate <a href='/results.php?city=new york' rel='city'>New York</a>, and that it is probable they are 
+coming eastward. I can hardly think they mean to 
+make an attempt upon <a href='/results.php?city=boston' rel='city'>Boston</a>, notwithstanding the 
+object is important; and, unless they attack <a href='/results.php?city=boston' rel='city'>Boston</a>,there is no other object worthy their attention in 
+New England. I am rather inclined to think they 
+mean to leave the United States altogether. What 
+they hold here now, they hold at a great risk and 
+expense. But, suppose they actually intend to quit 
+the Continent, they will endeavour to mislead our attention, and that of our allies, until they can get 
+clear of the coast. The Admiral is fortifying for the 
+security of his fleet; but I am told his batteries are 
+all open in the rear, which will be but a poor security against a land force. <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> thinks there ought to be some Continental troops sent here : 
+but the Council will not turn out the militia; they 
+are so confident the enemy are not coming here. If 
+your Excellency thinks the enemy really design an 
+attack upon <a href='/results.php?city=boston' rel='city'>Boston</a>, it may not be useless for you 
+to write your opinion to the Council Board, for I 
+suspect they think the General here has taken the 
+alarm without sufficient reasons. The fortifications 
+round this place are very incomplete, and little or 
+nothing doing upon them. I have given General 
+Heath my opinion what parts to take possession of, 
+if the enemy should attempt the place before the 
+Continental army gets up. From four to five hundred troops have arrived at <a href='/results.php?city=halifax' rel='city'>Halifax</a>; their collective 
+strength will make a formidable army. 
+</p><p>
+I wish to know your Excellency's pleasure about 
+my returning to camp. I expect Mrs. Greene will 
+be put to bed every day. She is very desirous of 
+my stay until that event; and, as she has set her 
+heart so much upon it, I could wish to gratify her, 
+for fear of some disagreeable consequences, as women 
+sometimes, under such circumstances, receive great 
+injury by being disappointed. 
+</p><p>
+<a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> granted me leave to come here 
+upon the business of my department. I expect to 
+return in a few days. Major Gibbs is with me, and 
+is going to Portsmouth. 
+This is the third letter I have wrote since I have 
+had a line from your Excellency. Should be glad to 
+hear from you when at leisure. 
+</p><p>
+I am your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

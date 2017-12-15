@@ -1,0 +1,24 @@
+<letter id="laf4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="month origin" value="10">October</a> 	<a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+I am very unfortunate in my attempts to meet you, but hope at last to have better success, and sincerely wish it 
+to happen about the middle of next month, when I hope to wait upon Congress at their next meeting. 
+</p><p>
+Until a few days ago, I had no doubt but to hear you had accepted the appointment conferred upon you. My 
+fears, however, have been raised, and with my usual frankness [ assure you that your refusal could not but be attended 
+with very bad circumstances. Setting compliments apart, I am sensible of the great injury such a denial would cause 
+to the public, not only on account of the loss made by the United States in your person, but also for other motives. 
+I hope you will accept ; I know you must: but in case you are not determined. 1 had rather change my plans than not 
+to see you before you write to Congress. I wish much to hear from you at New- York, where I expect to be about the 22d. 
+</p><p>
+My most affectionate respects wait upon Mrs. Jay. With every sentiment of regard and attachment, I have the honour to be 
+</p><p>
+Your sincere friend, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">La Fayette</a>. 
+</p>
+</letter>

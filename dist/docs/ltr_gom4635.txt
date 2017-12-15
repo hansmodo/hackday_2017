@@ -1,0 +1,50 @@
+<letter id="gom4635">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="1">January</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I transmit herewith a duplicate of what I had the honor to 
+write on the twenty-first of last month. Since that period, this 
+government, perceiving that they had been wholly deceived 
+respecting the British nation, have made advances towards 
+conciliation. At least, so I am informed ; and also, that these 
+advances are by a declaration that, however general the terms 
+of their decree, they had no idea of exciting revolt, except in 
+the dominions of the powers leagued against them. That as 
+these powers had entered into France with design to change 
+the established government, they are justified in turning against 
+them the weapons of revolt, which they had intended to use. 
+</p><p>
+If this should ever become an object of diplomatic controversy, it will perhaps be objected, that until the asserted meaning of a general decree be declared by some other decree, 
+the words must be taken in their plain and natural import. 
+Should such new decree be passed, which by the bye would 
+take from France a very powerful engine, the case of Savoy 
+will be quoted, where, whatever may have been the supposed 
+intentions, no facts existed to support the conduct which has 
+been pursued, in such manner as to show a consistency with 
+the limited interpretation put upon the decree. Lastly, as to 
+the Austrian Netherlands, it will, I presume, be alleged, that 
+not only the aggression was on the part of France, but that it 
+was avowedly made with a view to excite revolt in that country. 
+</p><p>
+But I do not believe we shall have any such war of words, 
+for I am convinced that France must, to avoid a war, do some 
+thing more than make professions and explanations. I say 
+nothing about the navigation of the Scheldt, and the projected 
+invasion of Holland. I shall not, either, make any remarks on 
+the unanimity in the British Parliament, which your; good 
+sense and knowledge of that people had certainly anticipated. 
+</p><p>
+Accept, I pray you, Sir, the compliments of the season, and 
+believe me, &ic. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.  
+</p><p>
+P. S. The French armies are at length permitted to go 
+into winter quarters ; that under Dumouriez amounted by the 
+last returns to thirty-five thousand effectives, after the junction 
+of Valence and Miranda. 
+</p>
+</letter>

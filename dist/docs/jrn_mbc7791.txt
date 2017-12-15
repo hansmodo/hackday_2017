@@ -1,0 +1,17 @@
+<letter id="mbc7791">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a rel='month origin' value='5'>May</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1865' rel="origin">1865</a>. Since we left Chester nothing but solitude, nothing but tall blackened 
+chimneys, to show that any man has ever trod this road before. This is <a href='/results.php?tla=wts' rel=''>Sherman's</a> track. It is hard not to 
+curse him. I wept incessantly at first. The roses of the gardens are already hiding the ruins. My husband said Nature is a wonderful renovator. He tried to say something else and then I shut my eyes and made a vow that if we 
+were a crushed people, crushed by weight, I would never be a whimpering, pining slave. 
+</p><p>
+We heard loud explosions of gunpowder in the direction of Camden. Destroyers were at it there. Met William 
+Walker, whom Mr. Preston left in charge of a car-load of his valuables. General Preston was hardly out of sight be 
+fore poor helpless William had to stand by and see the car plundered. " My dear Missis! they have cleaned me out, 
+nothing left, moaned William the faithful. We have nine armed couriers with us. Can they protect us ? 
+</p><p>
+Bade adieu to the staff at Chester. No general ever had so remarkable a staff, so accomplished, so agreeable, so well 
+bred, and, I must say, so handsome, and can add so brave and efficient. 
+</p>
+</letter>

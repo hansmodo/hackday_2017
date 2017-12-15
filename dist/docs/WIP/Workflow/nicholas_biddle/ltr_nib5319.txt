@@ -1,0 +1,35 @@
+<letter id="nib5319">
+<recipient first="John" last="Rathbone" type="individual"/>
+<p>
+(private} <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='14'>14</a>. <a href='/results.php?year=1837' rel="origin">1837</a> 
+</p><p>
+My dear Sir 
+</p><p>
+You ask my views about the mode in which the Bank 
+of the U.S. could assist in restoring the currency. I will tell 
+you in a few words. 
+</p><p>
+The present design of those who govern the Government 
+at Washington is, I understand, to draw all the funds out of 
+the Banks then cut all connection with them and establish subtreasuries where each receiver is to sit upon his 
+small heap of gold &amp; silver. This is the newest, &amp; therefore 
+the favorite, foolery. Congress, I think will not agree to this, 
+or to any other experiment and will incline to either a real 
+downright Bank of the U.S. chartered by the Genl Gov or to 
+the present Pennsylv 3 . Bank. . . . 
+</p><p>
+If the Treasury &amp; the Bank could come to an understand 
+ing as to the terms on which the Bank would do this business 
+everything would soon come right. 
+</p><p>
+But I can do nothing at present which would not work 
+more harm than good. This very proposition I made before 
+the suspension. Had it been adopted the Suspension would 
+have been I believe, averted. I cannot now renew it. My 
+purpose now is to be perfectly quiet to be ready but 
+not impatient &amp; wait the action of Congress. If that body 
+adopts any measure which promises relief I shall cordially 
+concur in it If not, having done my duty I remain wl 
+I was. My great object is to heal the wounds inflicted upon the country. I will spare no effort for that purpose. No misguided feeling of pride, no remembrance of past injustice to myself shall prevent me from a sincere &amp; cordial cooperation with any public men who will honestly labor in the public service. These are the simple views and the frank opinion of 
+</p>
+</letter>

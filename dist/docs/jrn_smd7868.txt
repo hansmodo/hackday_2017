@@ -1,0 +1,25 @@
+<letter id="smd7868">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='18'>18th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+Yesterday, two Colonels, Shields and Breaux, both of whom distinguished themselves in the battle 
+of <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, dined here. Their personal appearance was by no means calculated to fill me with awe, 
+or even to give one an idea of their rank; for their dress consisted of merely cottonade pants, flannel 
+shirts, and extremely short jackets (which, however, is rapidly becoming the uniform of the Confederate States). 
+</p><p>
+Just three lines back, three soldiers came in to ask for molasses. I was alone downstairs, and the nervous trepidation with which I received the dirty, 
+coarsely clad strangers, who, however, looked as though they might be gentlemen, has raised a laugh 
+against me from the others who looked down from a place of safety. I don't know what I did that was 
+out of the way. I felt odd receiving them as though 
+it was my home, and having to answer their questions about buying, by means of acting as telegraph 
+between them and Mrs. Carter. I confess to that. But I know I talked reasonably about the other 
+subjects. Playing hostess in a strange house! Of 
+course, it was uncomfortable! and to add to my embarrassment, the handsomest one offered to pay 
+for the milk he had just drunk! Fancy my feelings, as I hastened to assure him that General Carter 
+never received money for such things, and from a soldier, besides, it was not to be thought of! He 
+turned to the other, saying, " In Mississippi we don't meet with such people! Miss, they don't hesitate 
+to charge four bits a canteen for milk. They take all they can. They are not like you Louisianians." I 
+was surprised to hear him say it of his own State, but told him we thought here we could not do enough for them. 
+</p><p>
+</letter>

@@ -1,0 +1,44 @@
+<letter id="gwa4463">
+<recipient first="Lund" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Lund, 
+</p><p>
+I am very sorry to hear of your loss. I am a little sorry to hear of my own ; but that which gives me 
+most concern is, that you should go on board the enemy's vessels, and furnish them with refreshments. It 
+would have been a less painful circumstance to me to 
+have heard, that in consequence of your non-compliance 
+with their request, they had burnt my house and laid 
+the plantation in ruins. You ought to have considered 
+yourself as my representative, and should have reflected on the bad example of communicating with the enemy, and making a voluntary offer of refreshments to 
+them with a view to prevent a conflagration. 
+</p><p>
+It was not in your power, I acknowledge, to prevent 
+them from sending a flag on shore, and you did right to 
+meet it ; but you should, in the same instant that the 
+business of it was unfolded, have declared explicitly, 
+that it was improper for you to yield to the request; 
+after which, if they had proceeded to help themselves 
+by force, you could but have submitted ; and, being 
+unprovided for defence, this was to be preferred to a 
+feeble opposition, which only serves as a pretext to 
+bum and destroy. 
+</p><p>
+I am thoroughly persuaded, that you acted from your 
+best judgment, and believe, that your desire to preserve my property, and rescue the buildings from impending danger, was your governing motive ; but to 
+go on board their vessels, carry them refreshments, 
+commune with a parcel of plundering scoundrels, and 
+request a favor by asking a surrender of my negroes, 
+was exceedingly ill judged, and, it is to be feared, will 
+be unhappy in its consequences, as it will be a precedent for others, and may become a subject of animadversion. 
+</p><p>
+I have no doubt of the enemy's intention to prosecute the plundering plan they have begun ; and unless 
+a stop can be put to it, by the arrival of a superior naval force, I have as little doubt of its ending in the loss 
+of all my negroes, and in the destruction of my houses ; but I am prepared for the event ; under the prospect of which, if you could deposit in a place of safety the 
+most valuable and least bulky articles, it might be consistent with policy and prudence, and a means of preserving them hereafter. Such and so many things as 
+are necessary for common and present use must be 
+retained, and must run their chance through the fiery 
+trial of this summer. I am sincerely yours. 
+</p>
+</letter>

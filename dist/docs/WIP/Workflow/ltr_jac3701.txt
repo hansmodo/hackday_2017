@@ -1,0 +1,49 @@
+<letter id="jac3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='9'>9</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+I have the honor to inform your Excellency, that 
+this morning <a href='/results.php?tla=jhs' rel='colleague met'>General Stark</a> arrived here to take the 
+command of this department, and I have communicated to him such of your Excellency's instructions as 
+may tend to the good of the service, and security of 
+the frontier. He reports that the militia from the 
+eastward are in a state of preparation, and he expects 
+a detachment of them in town by the last of this 
+week. The levies from this State are coming in fast. 
+</p><p>
+More than one hundred have already arrived, so that 
+it is probable that, by the time I am favored with 
+your further orders, matters will be in such train that 
+I can move down without any impediment. 
+</p><p>
+On Tuesday night, about ten o'clock, a most daring 
+attempt was made by a party of the enemy, headed 
+by a Captain Myers, to surprise <a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a> in 
+his house, at this place. With difficulty the General escaped into one of the upper chambers, and, by firing a few shot out of the window, alarmed the city. 
+They were prevented from following him by the servants, who made every opposition in their power, 
+against a decided superiority. Two of them (the 
+servants) were taken off, with soldiers in 
+and one wounded with a bayonet, also a quantity 
+of plate, &c. Notwithstanding every exertion of the 
+inhabitants, and of the troops in town, to intercept 
+them, they made their escape, though I hope some 
+of them may yet be taken, as the country through 
+which they must pass is alarmed. 
+</p><p>
+By a prisoner, we learn that a detachment, consisting of near thirty, left Canada the 16th ultimo, and 
+divided into six small parties on the frontier, with a 
+design to take off some respectable characters. One 
+party was taken by a <a href='/results.php?city=bennington' rel='city'>Bennington</a> scout, with a certain Captain John Bleecker, and his negro, whom 
+they were bringing off. 
+</p><p>
+Since the above was written, I have been favored 
+with yours of the 5th instant, and shall wait here your 
+Excellency's further orders. I have the honor to be, 
+Sir, 
+</p><p>
+Your Excellency's most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jac" rel="me">James Clinton</a>. 
+</p>
+</letter>

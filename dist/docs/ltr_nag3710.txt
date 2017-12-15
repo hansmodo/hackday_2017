@@ -1,0 +1,79 @@
+<letter id="nag3710">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pedee' rel='city origin'>Camp on Pedee</a>, <a rel='day origin' value='13'>13</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your Excellency's letter, of the 13th of December, 
+came to hand this day. It is true I came to the 
+southward in expectation of meeting with difficulties; 
+but they far exceed what I had any idea of 
+</p><p>
+This country is so extensive, and supplies are so 
+difficult to obtain, that it is impossible to carry on 
+the war any length of time with the militia. The 
+waste of stores, and consumption of provision and forage, must ruin any nation in the universe, whose 
+revenue is not greater than ours. A good army, well 
+appointed and supplied, consisting of four or five 
+thousand infantry, and about eight hundred or one 
+thousand horse, is what is wanted for the defence of 
+this country; and without which it must be inevitably ruined and lost. With such a force, I think the 
+country can be defended, with the occasional aid of 
+the militia, against any force the enemy can maintain in this quarter. Neither they nor we can maintain a great force in this department, unless supplies 
+can be had by a water communication. The country 
+is so extensive, and there are such great barrens. 
+that the natural strength and resources of these States 
+are unequal to the burden of maintaining a very 
+large force. 
+</p><p>
+The militia have ravaged this quarter in such a 
+manner, that it will be with the greatest difficulty we 
+shall be subsisted. The want of money is a great 
+difficulty we meet with in supporting the army ; but 
+the want of arrangement is no less an evil than that. 
+We have but a very little force in the field, and two 
+thirds of them are totally unfit for duty ; and, unless 
+clothing arrives soon, I must disband them. I am 
+persuaded, unless the States have it in their power 
+to levy, equip, and support such an army as I have 
+mentioned, these States are inevitably lost. 
+</p><p>
+The detachment which your Excellency mentions 
+as embarking at <a href='/results.php?city=new york' rel='city'>New York</a>, are arrived at Virginia, 
+as I am this day informed by <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a>, and 
+are almost as high up James River as Petersburg. 
+We have nothing to oppose them there, except the 
+militia, and about four hundred eighteen-months' men, 
+as ragged and naked as the Virginia blacks. The 
+enemy in this quarter are making great preparations 
+for an immediate movement. Our troops are in such 
+a wretched condition, that we can give them little or 
+no opposition. We will do all in our power; but the 
+soldiers have no spirits, and it is impossible they 
+should, in their present situation. I wish the enemy 
+would give us a little more time to prepare ourselves. 
+However, I don't intend to be drove out of North 
+Carolina if I can possibly avoid it; and, if Virginia 
+will furnish the provision I have requested to be deposited upon Roanoke, we will hold one corner, at all 
+events. 
+</p><p>
+<a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> wrote me, that he met with insuperable difficulties in his attempts to arrange the Virginia line. I have written to General Scott, at <a href='/results.php?city=charleston' rel='city'>Charleston</a>, to collect the wishes and intentions of the officers in captivity. If there are as many in proportion 
+to their numbers, as there are here, who wish to go 
+home, there will he few left, I have had the resolutions of Congress respecting specific supplies, and 
+shall make my requisitions accordingly. Inclosed is 
+an extract of a letter from General Morgan, confirming the account given in his former letter, an extract of which is inclosed in my letter to go by General Duportail, who has been detained a few days 
+for want of horses. 
+</p><p>
+It is my opinion, if the French fleet and army at 
+Rhode Island could be induced to push into Chesapeake Bay, they would have it in their power to 
+ruin the fleet and army with General Phillips. The 
+Southern States are in a critical situation, and great 
+exertions and some hazard are necessary to save 
+them. This is not only my opinion, but General Duportail's. I am, with great respect. 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

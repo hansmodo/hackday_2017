@@ -1,0 +1,7 @@
+<letter id="mbc7722">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='1'>1st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> is utterly depressed. She said the fall of Richmond must come ; she would send her children to me and Mrs. Preston. We begged her to come to us also. My husband is as depressed as I ever knew him to be. 
+He has felt the death of that angel mother of his keenly, and now he takes his country's woes to heart. 
+</p>
+</letter>

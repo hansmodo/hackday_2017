@@ -1,0 +1,264 @@
+<letter id='mad1526'>
+<recipient first='John' last='Brown' type='individual'/>
+<p>
+TO JOHN BROWN, (KENTUCKY.) 
+</p><p>
+<a href="/results.php?city=orange" rel="city">Orange</a>, August 23, <a href="/results.php?year=1785">1785</a>. 
+</p><p>
+DEAR SIR, Your favour of the 12th of July was safely delivered to me by Mr. Craig. I accept with pleasure your proposed exchange of Western for Eastern intelligence, and though 
+I am a stranger to parental ties, can sufficiently conceive the 
+happiness of which they are a source to congratulate you on 
+your possession of two fine sons and a daughter. I do not smile 
+at the idea of transplanting myself into your wilderness. Such 
+a change of my abode is not, indeed, probable, yet I have no 
+local partialities which can keep me from any place which promises the greatest real advantages. But if such a removal was 
+not even possible, I should nevertheless be ready to communicate, as you desire, my Ideas towards a constitution of Government for the State in embryo. 
+</p><p>
+I pass over the general policy of the measure which calls for 
+such a provision. It has been unanimously embraced by those 
+who, being most interested in it, must have best considered it, 
+and will, I dare say, be with equal unanimity acceded to by the 
+other party, [Congress,] which is to be consulted. I will first 
+offer some general remarks on the subject, and then answer 
+your several queries. 
+</p><p>
+1. The Legislative Department ought by all means, as I 
+think, to include a Senate, constituted on such principles as will 
+give wisdom and steadiness to legislation. The want of these 
+qualities is the grievance complained of in all our republics. 
+The want of fidelity in the administration of power having been 
+the grievance felt under most governments, and by the American States themselves under the British government, it was 
+natural for them to give too exclusive an attention to this primary attribute. The Senate of Maryland, with a few amendments, is a good model. Trial has, I am told, verified the expectations from it. A similar one made a part of our Constitution as it was originally proposed, but the inexperience and 
+jealousy of our then Councils rejected it in favor of our present 
+Senate; a worse could hardly have been substituted; and yet, 
+bad as it is, it is often a useful bit in the mouth of the House 
+of Delegates. Not a single Session passes without instances of 
+sudden resolutions by the latter, of which they repent in time 
+to intercede privately with the Senate for their negative. For 
+the other branch, models enough may be found; care ought, 
+however, to be taken against its becoming too numerous, by fixing the number which it is never to exceed. The quorum, wages, 
+and privileges, of both branches, ought also to be fixed. A majority seems to be the natural quorum. The wages of the members may be made payable for years to come, in the medium 
+value of wheat for years preceding, as the same shall from 
+period to period be rated by a respectable jury appointed for that 
+purpose by the Supreme Court. The privileges of the members 
+ought not, in my opinion, to extend beyond an exemption of their 
+persons and equipage from arrests during the time of their 
+actual serv.e. If it were possible, it would be well to define 
+the extent of the Legislative power; but the nature of it seems 
+in many respects to be indefinite. It is very practicable, however, to enumerate the essential exceptions. The Constitution 
+may expressly restrain them from meddling with religion; from 
+abolishing Juries; from taking away the Habeas Corpus; from 
+forcing a citizen to give evidence against himself; from controuling the press; from enacting retrospective laws, at least in criminal cases; from abridging the right of suffrage; from taking 
+private property for public use without paying its full value; 
+from licensing the importation of slaves; from infringing the 
+confederation, &c., &c. 
+</p><p>
+As a further security against fluctuating and indigested laws, 
+the Constitution of <a href="/results.php?city=new york" rel="city">New York</a> has provided a Council of Revision. I approve much of such an institution, and believe it is 
+considered by the most intelligent citizens of that State as a 
+valuable safeguard both to public interests and to private rights. 
+Another provision has been suggested for preserv.g system in 
+Legislative proceedings, which to some may appear still better. 
+It is that a standing committee, composed of a few select and 
+and skilful individuals, should be appointed to prepare bills on 
+all subjects which they may judge proper to be submitted to the 
+Legislature at their meetings, and to draw bills for them during 
+their Sessions. As an antidote both to the jealousy and danger 
+of their acquiring an improper influence, they might be made 
+incapable of holding any other office, Legislative, Executive, or 
+Judiciary. I like this suggestion so much that I have had 
+thoughts of proposing it to our Assembly, who give almost as 
+many proofs as they pass laws of their need of some such assistance. 
+</p><p>
+2. The Executive Department. Though it claims the second 
+place, it is not in my estimation entitled to it by its importance, 
+all the great powers which are properly executive being transferred to the Federal Government. I have made up no final 
+opinion whether the first Magistrate should be chosen by the 
+Legislature or the people at large, or whether the power should 
+be vested in one man, assisted by a Council, or in a Council, of 
+which the President shall be only primus inter pares. There 
+are examples of each in the United States; and probably advantages and disadvantages attending each. It is material, I 
+think, that the number of members should be small, and that 
+their Salaries should be either unalterable by the Legislature, 
+or alterable only in such manner as will not affect any individual in place. Our Executive is the worst part of a bad Constitution. The members of it are dependent on the Legislature 
+not only for their wages, but for their reputation, and therefore 
+are not likely to withstand usurpations of that branch; they 
+are, besides, too numerous and expensive; their organization 
+vague and perplexed; and to crown the absurdity, some of the 
+members may, without any new appointment, continue in Office 
+for life, contrary to one of the Articles of the Declaration of 
+Rights. 
+</p><p>
+3. The Judiciary Department merits every care. Its efficacy 
+is demonstrated in Great Britain, where it maintains private 
+right against all the corruptions of the two other Departments, 
+and gives a reputation to the whole government which it is not 
+in itself entitled to. The main points to be attended to are: 
+1. That the Judges should hold their places during good behaviour. 2. That their Salaries should be either fixed like the 
+wages of the Representatives, or not be alterable so as to affect 
+the Individuals in Office. 3. That their Salaries be liberal. 
+The first point is obvious; without the second, the independence 
+aimed at by the first will be ideal only; without the third, the 
+bar will be superior to the bench, which destroys all security 
+for a systematic administration of justice. After securing these 
+essential points, I should think it unadvisable to descend so far 
+into detail as to bar any future modification of this department 
+which experience may recommend. An enumeration of the principal Courts, with power to the Legislature to institute inferior 
+Courts, may suffice. The Admiralty business can never be extensive in your situation, and may be referred to one of the 
+other Courts. With regard to a Court of Chancery, as distinct 
+from a Court of Law, the reasons of Lord Bacon on the affirmative side outweigh, in my judgment, those of Lord Kaimes on the 
+other side; yet I should think it best to leave this important 
+question to be decided by future lights, without tying the hands 
+of the Legislature one way or the other. I consider our County 
+Courts as on a bad footing, and would never, myself, consent to 
+copy them into another Constitution. 
+</p><p>
+All the States seem to have seen the necessity of providing 
+for Impeachments, but none of them to have hit on an unexceptionable tribunal. In some the trial is referred to the Senate, 
+in others to the Executive, in others to the Judiciary department. It has been suggested that a tribunal composed of members from each department would be better than either, and 
+I entirely concur in that opinion. I proceed next to your 
+queries. 
+</p><p>
+1. "Whether is a representation according to numbers, or 
+" property, or in a joint proportion to both, the most safe? Or 
+" is a representation by Counties preferable to a more equitable 
+" mode that will be difficult to adjust?" Under this question 
+may be considered: 1. The right of suffrage. 2. The mode of 
+suffrage. 3. The plan of representation. As to the first, I 
+think the extent which ought to be given to this right a matter 
+of great delicacy and of critical importance. To restrain it to 
+the land holders will in time exclude too great a proportion of 
+citizens; to extend it to all citizens without regard to property, 
+or even to all who possess a pittance, may throw too much 
+power into hands which will either abuse it themselves or sell 
+it to the rich who will abuse it. I have thought it might be a 
+good middle course to narrow this right in the choice of the 
+least popular, and to enlarge it in that of the more popular 
+branch of the Legislature. There is an example of this distinction in North Carolina, if in none of the other States. How it 
+operates or is relished by the people I cannot say. It would 
+not be surprising if in the outset, at least, it should offend the 
+sense of equality which reigns in a free country. In a general 
+view, I see no reason why the rights of property, which chiefly 
+bears the burden of Government, and is so much an object of 
+Legislation, should not be respected as well as personal rights 
+in the choice of Rulers. It must be owned, indeed, that property will give influence to the holder, though it should give him 
+no legal privileges, and will in general be safe on that as well 
+as on other accounts, especially if the business of legislation be 
+guarded with the provisions hinted at. 2. As to the mode of 
+suffrage, I lean strongly to that of the ballot, notwithstanding 
+the objections which lie against it. It appears to me to be the 
+only radical cure for those arts of electioneering which poison 
+the very fountain of Liberty. The States in which the ballot 
+has been the standing mode are the only instances in which 
+elections are tolerably chaste and those arts in disgrace. If it 
+should be thought improper to fix this mode by the Constitution, I should think it at least necessary to avoid any constitutional bar to a future adoption of it.* 3. By the plan of representation I mean: 1. The classing of the electors. 2. The 
+proportioning of the representatives to each class. The first 
+cannot be otherwise done than by geographical description, as 
+by Counties. The second may easily be done, in the first instance, either by comprising within each County an equal number of Electors, or by proportioning the number of representatives of each County to its number of Electors. The difficulty 
+arises from the disproportionate increase of electors in different 
+Counties. There seem to be two methods only by which the 
+representation can be equalized from time to time. The first is 
+to change the bounds of the Counties; the second, to change the 
+number of representatives allotted to them, respectively. As 
+the former would not only be most troublesome and expensive, 
+but would involve a variety of other adjustments, the latter 
+method is evidently the best. Examples of a Constitutional 
+provision for it exists in several of the States. In some it is to 
+be executed periodically; in others, pro re nata. The latter 
+seems most accurate and very practicable. I have already intimated the propriety of fixing the number of representatives, 
+which ought never to be exceeded; I should suppose one hundred and fifty, or even one hundred, might safely be made the 
+ne plus ultra for Kentucky. 
+</p><p>
+2. "Which is to be preferred; an annual, triennial, or septen" nial succession to offices, or frequent elections without limita" tions in choice, or that officers when chosen should continue 
+" quamdiu se bene gesserv.t?" The rule ought no doubt to be 
+different in the different departments of power. For one part 
+of the Legislature annual elections will, I suppose, be held indispensable; though some of the ablest Statesmen and soundest 
+Republicans in the United States are in favor of triennial. The 
+great danger in departing from annual elections in this case 
+lies in the want of some other natural term to limit the departure. For the other branch, four or five years may be the period. 
+For neither branch does it seem necessary or proper to prohibit 
+an indefinite re-eligibility. With regard to the Executive, if 
+the elections be frequent, and particularly if made as to any 
+member of it by the people at large, a re-eligibility cannot, I 
+think, be objected to. If they be unfrequent, a temporary or 
+perpetual incapacitation, according to the degree of unfrequency, 
+at least in the case of the first Magistrate, may not be amiss. 
+As to the Judiciary department, enough has been said; and as 
+to the subordinate officers, civil and military, nothing need be 
+said more than that a regulation of their appointments may, 
+under a few restrictions, be safely trusted to the Legislature. 
+3. "How far may the same person with propriety be em" ployed in the different departments of Government in an in" fant country, where the counsel of every individual may be 
+" needed? " Temporary deviations from fundamental principles 
+are always more or less dangerous. When the first pretext 
+fails, those who become interested in prolonging the evil will 
+rarely be at a loss for other pretexts. The first precedent, too, 
+familiarises the people to the irregularity, lessens their veneration for those fundamental principles, and makes them a more 
+easy prey to ambition and self interest. Hence it is that abuses 
+of every kind, when once established, have been so often found 
+to perpetuate themselves. In this caution, I refer chiefly to an 
+improper mixture of the three great Departments within the 
+State. A delegation to Congress is, I conceive, compatible 
+with either. 
+</p><p>
+4. " Should there be a periodical review of the Constitution? " 
+Nothing appears more eligible in theory, nor has sufficient trial, 
+perhaps, been yet made to condemn it in practice. Pennsylvania has alone adopted the expedient. Her citizens are much 
+divided on the subject of their Constitution in general, and 
+probably on this part of it in particular. I am inclined to think, 
+though am far from being certain, that it is not a favorite part 
+even with those who are fondest of their Constitution. Another 
+plan has been thought of, which might, perhaps, succeed better, 
+and would at the same time be a safeguard to the equilibrium 
+of the constituent departments of Government. This is, that a 
+majority of any two of the three departments should have authority to call a plenipotentiary convention whenever they may 
+think their constitutional powers have been violated by the 
+other department, or that any material part of the Constitution 
+needs amendment. In your situation, I should think it both 
+imprudent and indecent not to leave a door open for at least 
+one revision of your first establishment imprudent, because 
+you have neither the same resources for supporting nor the 
+same lights for framing a good establishment now as you will 
+have fifteen or twenty years hence indecent, because an handful of early settlers ought not to preclude a populous country 
+from a choice of the Government under which they and their 
+posterity are to live. Should your first Constitution be made 
+thus temporary, the objections against an intermediate union of 
+offices will be proportionably lessened. Should a revision of it 
+aot be made thus necessary and certain, there will be little 
+probability of its being ever revised. Faulty as our Constitution is, as well with regard to the authority which formed it as 
+to the manner in which it is formed, the issue of an experiment 
+has taught us the difficulty of amending it. And although the 
+issue might have proceeded from the unseasonableness of the 
+time, yet it may be questioned whether, at any future time, the 
+greater depth to which it will have stricken its roots will not 
+counterbalance any more auspicious circumstances for overturning it. 
+</p><p>
+5 & 6. " Or will it be better unalterably to fix some leading 
+" principles in government, and make it consistent for the Legis" lature to introduce such changes in lesserv.atters as may 
+"become expedient? Can Censors be provided that will im" partially point out deficiences in the Constitution and the 
+" violations that may happen?" 
+</p><p>
+Answers on these points may be gathered from what has been 
+already said. 
+</p><p>
+I have been led to offer my sentiments in this loose form 
+rather than to attempt a delineation of such a plan of government as would please myself, not only by my ignorance of many 
+local circumstances and opinions which must be consulted in 
+such a work, but also by the want of sufficient time for it. At 
+the receipt of your letter I had other employment, and what I 
+now write is in the midst of preparations for a journey of business, which will carry me as far as <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> at least, and 
+on which I shall set out in a day or two. 
+</p><p>
+I am sorry that it is not in my power to give you some satisfactory information concerning the Mississippi. A Minister 
+from Spain has been with Congress for some time, and is authorised, as I understand, to treat on whatever subjects may 
+concern the two nations. If any explanations or propositions 
+have passed between him and the Minister of Congress, they 
+are as yet in the list of Cabinet secrets. As soon as any such 
+shall be made public and come to my knowledge, I shall take 
+the first opportunity of transmitting them. Wishing you and 
+your family all happiness, 
+</p><p>
+I am, D'r Sir, your friend and serv.t. 
+</p><p>
+* The Constitution of <a href="/results.php?city=new york" rel="city">New York</a> directs an experiment on this subject. 
+</p>
+</letter>

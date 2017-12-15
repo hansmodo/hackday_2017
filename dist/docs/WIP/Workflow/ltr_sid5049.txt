@@ -1,0 +1,21 @@
+<letter id="sid5049">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='21'>21st</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Sir, 
+</p><p>
+In obedience to the orders of Congress of the 7th Inst. I have now committed to writing as particular an account of my agency of their affairs in Europe as my situation will 
+permit, and wait the pleasure of Congress to lay the same before them. And I have only to request, that the letters written by the commissioners to Congress, or the Committee 
+of Foreign Affairs, during my agency or since, which refer thereto, ordered to be read in Congress, may be laid on their table, when I shall have the honor to be admitted. I 
+request this, from my not having the copies of those letters with me, to which the accounts I am directed to give refer, but recollecting the substance of them, I have judged it 
+unnecessary to trouble Congress for copies of them at present, as it might cause some delay, and I am anxious to complete as soon as possible the information expected from 
+me. I flatter myself that an early day will be fixed, and if I may take the liberty to mention one, I wish it may be tomorrow if consistent with the business of Congress. 
+</p><p>
+I have the honor to be, with the utmost respect, &c. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

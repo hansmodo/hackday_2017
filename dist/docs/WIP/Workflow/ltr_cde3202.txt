@@ -1,0 +1,68 @@
+<letter id="cde3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+In the Road without Sandy Hook, <a rel="day origin" value="17">17</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+The bar of the River Shrewsbury, the officer, sailors, 
+and boats that I have lost in the waves, have not 
+hindered <a href='/results.php?tla=jol' rel='colleague met'>Colonel Laurens</a> from braving them twice, 
+to come and deliver me himself the letter that you 
+did me the honor to write me on the 14th of this month. The desire of communicating with you alone would have induced me to hard a descent myself 
+the first, and with four grenadiers as my only sup 
+port, in a place, the debarkation of which is as difficult as it was unknown ; and where there existed not a single spot proper for embarkation. The sacrifice 
+of several of my men appeared to me less affecting, 
+as it was the sole means of communication I could 
+have. 
+</p><p>
+I have occupied myself less with discovering the 
+number of English vessels of war in the Road of 
+Sandy Hook, than the means of entering it. I sup 
+pose there are fourteen vessels of war, a throng of frigates, and a multitude of transports. This superiority 
+of number, and the goodness of the English navy, 
+will not hinder me from attacking Lord Howe in his 
+retrenchment, and under his batteries, if the depth of 
+the water do not forbid me. I only received three pilots yesterday ; they have need of re-collecting their 
+ideas, and are at this time sounding the river. The 
+hope of giving you something positive on this head 
+engaged me to pray your estimable, well-informed, 
+and most amiable Aid-de-camp, to pass a bad night 
+on board the Languedoc. 
+</p><p>
+He will give you an account, Sir, of the regret I 
+shall feel, if this powerful mark of friendship, which 
+the King has given his allies, who are so dear to 
+him, should not prove of so great utility as he might 
+promise himself. 
+</p><p>
+I will not enter into any further detail in this letter. <a href='/results.php?tla=jol' rel='colleague met'>Mr. Laurens</a> will tell you more than I can 
+write. But it will be very important that the arrival of so great a naval succour should produce at 
+the same time a general effort by land. If, unfortunately, that should be impossible, you are too good a 
+patriot and too good a soldier not to feel the necessity I shall be under of going to seek elsewhere an 
+opportunity of injuring our common enemy. The 
+places that you shall point out to me will appear to 
+me preferable, whenever naval circumstances and the 
+state of my supplies will permit. It is with the 
+greatest pleasure that I learn, from M. Gerard, the 
+King's Minister, that you are clothed with the most 
+ample powers to treat with me on military operations. I cannot act, either far or near, under the auspices of a greater master. You are a master; and 
+you know that, the instant one thing becomes , we ought to attempt another. 
+</p><p>
+I have received a printed list of the eleven English vessels of the line, which are announced to us on 
+very good part. This news, published by the order 
+of Congress, acquires an authenticity which merits the 
+highest attention. 
+</p><p>
+Accept my compliments upon your last victory. 
+Even were not the success of America our own, by 
+the intimate bands which bind us together, it would 
+be impossible, as a soldier and as a man, not to participate in it. It is natural to love to see one laurel 
+more adorning the brow of a great man. I have the 
+honor to be, with respect, 
+</p><p>
+Your very humble, and very obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cde" rel="me">ESTAING</a>. 
+</p>
+</letter>

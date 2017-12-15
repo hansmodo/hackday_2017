@@ -1,0 +1,61 @@
+<letter id="gom4684">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+M. de Laforest called just now, while I was at the Minister s, to inform me that he will probably leave Paris tomor 
+row morning. I, therefore, write this as an introduction to 
+you, and proceed to give a hasty sketch of the form in which 
+the business now stands. 
+</p><p>
+A Commission is named, (the appointments not yet gone 
+through the forms,) to consist of four persons. The Minister 
+is M. Fauchet, Secretary of the Executive Council, a young 
+man of about three and thirty, whom I have not yet seen, but 
+he is said to possess genius and information. The Secretary 
+of Legation is M. Leblanc, a man of about fifty, and who 
+was lately at the head of the Police Department in this city. 
+Him also I am, as yet, unacquainted with ; but he is mentioned to me as a prudent, sensible man. 
+</p><p>
+M. de Laforest goes out as Consul General, and M. Petrie, 
+his friend and companion, as Consul in the port of Philadelphia. These two will undoubtedly draw together, and will 
+probably sway the conduct of the Commission ; for the Minister is to take no important steps without being previously 
+authorised by the Board. 
+</p><p>
+I understand that a kind of etiquette has been established, 
+by which the Consuls, as not being properly diplomatic characters, are not received or invited with the Minister, and I 
+perceive that there is a strong wish to enjoy the exterior 
+respect of office, as well as the solid authority. I cannot 
+pretend to judge, nor even to guess how far anything of this 
+sort consists with the general rules, which you may have 
+found it proper to establish ; but, I think, I can perceive that 
+the two Consuls expect to govern the Commission by two 
+means ; one, their greater knowledge of our country, laws, 
+and inhabitants ; the other, a persuasion to be inculcated on 
+the Minister and Secretary, that they enjoy the confidence of our government. Perhaps a little vanity may also be for 
+something in the business ; but your judgment will well discern motives, and, therefore, I only give hints. 
+</p><p>
+I think that M. de Laforest and his friend, being men of 
+understanding, will endeavor to keep things in a line of prudence and propriety ; therefore, being uncertain, at present, 
+as to the personal characters of the other two, it seems to be 
+well that the Board is to be kept steady by the anchors we 
+are acquainted with, and as the others unfold themselves, it 
+will appear what reliance can be placed on them. 
+</p><p>
+The Minister, in the conference I had with him just now, 
+has again reiterated the assurance, that he and the other members of this government have the most sincere desire to be on 
+the most cordial terms with us, and I am the more disposed 
+to believe in their assurances, because America is the only 
+source, from whence supplies of provisions can be drawn to 
+feed this city, on which so much depends. The coming 
+winter will be, I believe, dreadful, and the spring, should the 
+war continue, must open with partial scarcities, if not general 
+want. To the sufferings, unavoidable from many other 
+causes, no small addition will be made by the laws limiting 
+prices, enforced by the iron hand of necessity. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,51 @@
+<letter id='dol1387'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1387'>
+<recipient first='Edward' last='Coles' type='individual'/>
+<p>
+TO MR. EDWARD COLES. 
+</p><p>
+<a href="/results.php?city=washington" rel="city">WASHINGTON</a>, May 12, <a href="/results.php?year=1813">1813</a>. 
+</p><p>
+Your letter caused me great affliction, my dear cousin ; the continuation of your 
+illness, and Payne's reluctance at leaving America, left me without fortitude to 
+write, until now that a letter has come from my son on ship-board, in which he 
+expresses satisfaction at all around him. He had seen Mr. Swertchkoff, who assured 
+him you would soon be well in spite of yourself. We indulge this pleasing hope 
+in addition to that of your remaining with us, to the last. Not that I would for the 
+world retard any plan for your prosperity ; but that I flatter myself the western 
+country may be given up for something more consonant with your happiness, and 
+that of your connections, among them there are none who feel a more affectionate interest in you than <a href="/results.php?tla=mad" rel="spouse met">Mr. Madison</a> and 
+myself. I hope you will believe that such is our regard and esteem for you that we 
+should consider your leaving us a misfortune. <a href="/results.php?tla=mad" rel="spouse met">Mr. Madison</a> can do very well with 
+out a secretary until your health is reestablished. The winter is not a season for 
+emigration, so that next summer you will be better able to make your election to go, or not to go. 
+</p><p>
+And now if I could I would describe to you the fears and alarms that circulate 
+around me. For the last week all the city and Georgetown (except the Cabinet) have 
+expected a visit from the enemy, and were not lacking in their expressions of terror 
+and reproach. Yesterday an express announced the pause of a frigate at the 
+mouth of the Potomac. The commander sent his boats to examine a Swedish ship 
+that lay near, but our informer was too frightened to wait for further news. We 
+are making considerable efforts for defense. The fort is being repaired, and five hundred 
+militia, with perhaps as many regulars, are to be stationed on the Green, near the 
+Windmill, or rather Major Taylor s. The twenty tents already look well in my eyes, 
+who have always been an advocate for fighting when assailed, though a Quaker. 
+I therefore keep the old Tunisian sabre within reach. One of our generals has 
+discovered a plan of the British, it is to land as many chosen rogues as they can 
+about fourteen miles below Alexandria, in the night, so that they may be on hand to 
+burn the President's house and offices. I do not tremble at this, but feel hurt that 
+the admiral (of Havre de Grace memory) should send me word that he would make 
+his bow at my drawing-room very soon. Mrs. Buonaparte and Miss Stevenson returned to their house four days ago to 
+secure their wardrobe, but I question whether they leave us again, as strangers 
+and members are crowding in. Mr. Monroe and family dined with us yesterday in 
+a large party given to Mr. Jones. Mr. Hay is with them, having come to escort 
+Mrs. Monroe to Richmond on a visit of three weeks to her two daughters. Cousin 
+Sally is still in South Carolina, and Miss Mayo is as gay as ever. <a href="/results.php?tla=apc" rel="sibling met">Anna</a> has not 
+been very well of late, and her children are ill with measles, so that I confine my self very much with them. 
+</p><p>
+Be careful of yourself, dear cousin, and return as soon as you can to your anxious friends. 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY MADISON</a>. 
+</p>
+</letter></letter>

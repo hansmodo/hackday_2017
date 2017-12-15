@@ -1,0 +1,42 @@
+<letter id='abl451'>
+<recipient first='Joel' last='Parker' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a><br/>
+</p><p>
+July 20, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+HIS EXCELLENCY JOEL PARKER, Governor of New Jersey.
+</p><p>
+DEAR SIR:--Yours of the 15th has been received, and considered by the
+Secretary of War and myself. I was pained to be informed this
+morning by the Provost-Marshal-General that New Jersey is now behind
+twelve thousand, irrespective of the draft. I did not have time to
+ascertain by what rules this was made out; and I shall be very glad
+if it shall, by any means, prove to be incorrect. He also tells me
+that eight thousand will be about the quota of New Jersey on the
+first draft; and the Secretary of War says the first draft in that
+State would not be made for some time in any event. As every man
+obtained otherwise lessens the draft so much, and this may supersede
+it altogether, I hope you will push forward your volunteer regiments
+as fast as possible.
+</p><p>
+It is a very delicate matter to postpone the draft in one State,
+because of the argument it furnishes others to have postponement
+also. If we could have a reason in one case which would be good if
+presented in all cases, we could act upon it.
+</p><p>
+I will thank you, therefore, to inform me, if you can, by what day,
+at the earliest, you can promise to have ready to be mustered into
+the United States service the eight thousand men.
+</p><p>
+If you can make a reliable promise (I mean one which you can rely on
+yourself) of this sort, it will be of great value, if the day is not
+too remote.
+</p><p>
+I beg you to be assured I wish to avoid the difficulties you dread as
+much as yourself.
+</p><p>
+Your obedient servant,
+</p>
+<p><a href="/results.php?tla=abl" rel="me">A. LINCOLN</a></p>
+</letter>

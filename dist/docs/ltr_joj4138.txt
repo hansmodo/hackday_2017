@@ -1,0 +1,38 @@
+<letter id="joj4138">
+<recipient first="" last="Lowell" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have been favoured with yours of the 15th inst. by 
+M r. Parkman ; am much pleased with him and his fellowtraveller, Mr. Cooledge. Their representation of the state 
+of things in Massachusetts corresponds with the hints on that 
+head suggested in your letter. There is too much intelligence in the northern states, to admit of their being greatly 
+and long deceived and misled ; and I hope the same remark 
+will in time become equally applicable to all the others. 
+Considering the nature of our governments, a succession of 
+demagogues must be expected : and the strenuous efforts 
+of the wise and virtuous will not cease to be necessary to 
+frustrate their artifices and designs. They will always be 
+hostile to merit, because merit will always stand in their 
+way ; and being actuated by envy, ambition, or avarice, 
+and not unfrequently by them all, will be diligently at 
+work, while better men will take their rest. 
+</p><p>
+It seems strange, but so it is in all republics, that many 
+excellent men who are happy in their families and fortunes, 
+and in the esteem of society and of their friends ; who enjoy their villas and their gardens, and neglect not to guard 
+their trees and vines from caterpillars, and their favourite 
+plants and flowers from nipping frosts ; yet omit attending 
+to the political grubs, who are constantly and insidiously 
+labouring to wound and prey upon the roots of all their temporal enjoyments. Several gentlemen of this description with us becoming alarmed, have been very useful ; 
+and I presume this has been, more or less, the case in other 
+States, 
+Be assured of the esteem and regard with which I am, 
+</p><p>
+Yours, &c. 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

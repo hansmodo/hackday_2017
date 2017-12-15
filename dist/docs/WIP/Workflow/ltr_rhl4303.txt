@@ -1,0 +1,77 @@
+<letter id="rhl4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='11'>11</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I was unwilling to interrupt your attention to more 
+important affairs at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, by sending there 
+an acknowledgment of the letter that you were pleased to honor me with from that city, especially as 
+this place afforded nothing worthy of your notice. 
+</p><p>
+We have the pleasure to see the first act of Congress for selling federal lands, north-west of the Ohio, 
+becoming productive very fast, a large sum of public 
+securities being already paid in upon the first sales ; 
+and a new contract is ordered to be made with a 
+company in New Jersey for the lands between the two JNIiamis, that will rid us of at least two millions more of the public debt. There is good reason to 
+suppose that by the next spring we shall have reduced the domestic debt near six millions of dollars. 
+And it seems clear that the lands yet to be disposed 
+of, if well managed, will sink the whole thirty millions that are due. 
+</p><p>
+The assiduity with which the Court of London is 
+soliciting that of Spain for the conclusion of a commercial treaty between those powers, renders it a signal misfortune that we have not been able to get a 
+sufficient number of the States together to produce a 
+conclusion of the Spanish treaty. The state of Europe, with respect to the continuance of peace, still 
+hangs in doubtful balance. The finance weakness of 
+France and Great Britain most strongly opposes war ; 
+yet the state of things is such as renders it very 
+questionable whether even that difficulty, great as it 
+is, will secure the continuance of peace. 
+</p><p>
+It is under the strongest impressions of your goodness and candor that I venture to make the observations that follow in this letter, assuring you that I 
+feel it among the first distresses that have happened 
+to me in my life, that I find myself compelled, by 
+irresistible conviction of mind, to doubt about the 
+new system for Federal Government recommended by 
+the late Convention. 
+</p><p>
+It is. Sir, in consequence of long reflection upon 
+the nature of man and of government, that I am led 
+to fear the danger that will ensue to civil liberty 
+from the adoption of the new system, in its present 
+form. I am fully sensible of the propriety of change 
+in the present plan of Confederation ; and, although 
+there may be difficulties, not inconsiderable, in procuring the adoption of such amendments to the Convention system, as will give security to the just 
+rights of human nature, and better secure from injury the discordant interests of the different parts of 
+this Union, yet I hope that these difficulties are not 
+insurmountable, because we are- happily uninterrupted 
+by external war, or by such internal discords as can 
+prevent peaceable and fair discussion, in another Convention, of those objections that are fundamentally 
+strong against the new Constitution, which abounds 
+with useful regulations. As there is so great a part 
+of the business w^ell done already, I think that such 
+alterations as must give very general content, could 
+not long employ another Convention, when provided 
+with the sense of the different States upon those 
+alterations. 
+</p><p>
+I am much inclined to believe that the amendments, 
+generally thought to be necessary, will be found to 
+be of such a nature as, though they do not oppose 
+the exercise of a very competent federal powder, are 
+yet such as the best theories on Government, and 
+the best practice upon those theories, have found necessary ; at the same time that they are such as the 
+opinions of our people have for ages been fixed on. 
+It would be unnecessary for me here to enumerate 
+particulars, as I expect the honor of waiting on you 
+at <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, in my way home, early in November. In the mean time, I have only to request that 
+my best respects may be presented to your lady, 
+and that I may be remembered to the rest of the 
+good family of <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>. 
+</p><p>
+I have the honor to be, dear Sir, with the most unfeigned respect, esteem and affection, &c., 
+</p><p>
+<a href="/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.
+</p>
+</letter>

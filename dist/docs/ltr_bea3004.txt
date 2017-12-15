@@ -1,0 +1,57 @@
+<letter id="bea3004">
+<recipient first="George" last="Washington"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Yesterday I arrived here, having previously done 
+all in my power to forward on the militia from the 
+Massachusetts Bay and Connecticut, upwards of six 
+thousand of which I hope are in the Jerseys before 
+this time. 
+</p><p>
+There are, at this place and in the vicinity, about two 
+thousand men, part of six thousand ordered from the 
+New England States. The others are on their march, 
+and expected in, in a few days. The enemy's force on 
+Rhode Island, by the best intelligence, is five or six 
+thousand; one half foreigners, and some few invalids. 
+We are informed, by several persons who left New 
+port within a few days, that <a href='/results.php?tla=gec' rel='colleague'>General Clinton</a> is going 
+home in the Asia, and has sent his baggage on board, 
+and that the troops have orders to hold themselves 
+in readiness to embark at a minute's notice, perhaps for <a href='/results.php?city=new york' rel='city'>New York</a>. I believe they have no intention of 
+penetrating the country at present. I beg leave, 
+though late, to congratulate your Excellency on your success at <a href='/results.php?city=trenton' rel='city'>Trenton</a>. It was a most happy stroke, and has greatly raised the sinking spirits of the country. 
+</p><p>
+We this minute have advice, by a letter from Governor Turnbull, of your further success near Prince 
+ton; and report says, Generals Putnam and Mifflin 
+have killed and taken two regiments near Bristol. 
+We believe this true, as the intelligence comes from 
+Newport. People in general are in high spirits. 
+This seems a most favorable crisis to dislodge the 
+enemy from the country. Heaven grant your Excellency may be able to effect it, and may peace and 
+laurels crown your successes ! 
+</p><p>
+About twelve or fifteen hundred of the enemy are 
+dispersed in all the farm-houses on Rhode Island. As 
+soon as the militia arrives, I hope we shall be able 
+to give a good account of some of them. 
+</p><p>
+I beg leave to recommend to your Excellency, Captain Samuel Mansfield, to command a company of 
+artillery. He was a Lieutenant of artillery last sum 
+mer in the Northern Department, and afterwards Captain of a galley in two actions, and behaved with 
+great prudence and bravery. Being anxious to continue in the service, and much wanted here, I have 
+desired him to engage a number of men. If your 
+Excellency should think proper to appoint him, his 
+company will be soon filled up, and I dare be responsible for his conduct. 
+</p><p>
+A Quartermaster is much wanted here. One is appointed by the State for their own troops, but they 
+are not able to furnish him with cash. I am, clear General, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

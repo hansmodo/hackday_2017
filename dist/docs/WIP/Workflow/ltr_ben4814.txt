@@ -1,0 +1,34 @@
+<letter id="ben4814">
+<recipient first="Wimberly" last="Jones" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1771' rel="origin">1771</a>. 
+</p><p>
+SIR, 
+</p><p>
+In mine of May 1st, I enclosed a copy of the petition intended to be presented to the King in Council, in behalf of the 
+possessors of the lands claimed by Sir William Baker's assigns. 
+I am now to acquaint you, that it was presented accordingly, 
+and is referred down to the Board of Trade for their opinion. 
+But, as the Board is about to adjourn for some months, we 
+are advised not to press the consideration of it till they meet 
+again, as they have now too little time to attend to it properly. 
+Immediately on their return to business, we shall urge for 
+their report. 
+</p><p>
+I see by the newspapers that your new Assembly is also 
+dissolved. 2 I am sorry for these differences, which must be 
+uncomfortable to you and all that wish the welfare of the 
+province. 
+</p><p>
+It is now thought that a peace between the Turks and Russians is likely soon to be concluded, which gives a better 
+prospect of the continuance of peace among the other powers 
+of Europe ; for it seldom happens that a war, begun between 
+any two of them, does not extend itself sooner or later till it 
+involves the whole. Spain showed a strong inclination to 
+begin with us ; but, France being not willing or ready to join 
+her, she has smothered that inclination for the present. 
+With great esteem, I am, Sir, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

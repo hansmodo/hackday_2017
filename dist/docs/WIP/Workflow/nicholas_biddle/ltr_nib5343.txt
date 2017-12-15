@@ -1,0 +1,25 @@
+<letter id="nib5343">
+<recipient first="Daniel" last="Webster" type="individual"/>
+<p>
+( private) <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="12">Dec'r</a>. <a rel='day origin' value='30'>30</a>. <a href='/results.php?year=1840' rel="origin">1840</a> 
+</p><p>
+My dear Sir 
+</p><p>
+... 2. I have received a visit of many hours from a 
+friend who has just returned after passing several weeks in the midst of the most confidential circle of the President 
+Elect and his friends a disinterested cool observer and I 
+have no doubt of the truth of his observations. He says decidedly that in the opinion of all that circle Mr W. is the 
+person who will have much more influence with the President than Mr. C 
+</p><p>
+4. My friend came full of another idea. He says that the 
+same knot are of great friends of mine that the President 
+himself when lately at <a href='/results.php?city=louisville' rel='city'>Louisville</a> made a very strong &amp; decided eulogium upon me, and that this circle of friends believe that he wishes me to go into the Treasury. When I told 
+him my determination on that head, he concluded with this 
+declaration Well I assure you, you can make the Secretary 
+"of the Treasury." Now I would not go into the Treasury 
+for all the money in it but if I could help to put a good man 
+there I would do so. But where is the man ? If in this turmoil 
+of Pennsylvania candidates, the President wants to get over 
+a difficulty by naming a Penn a man &amp; wishes to name me I will refuse by return mail, and then we can find some competent person. I mention this, that you may understand exactly the footing on which Mr. H and I are . . . 
+</p>
+</letter>

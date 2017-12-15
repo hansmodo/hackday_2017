@@ -1,0 +1,50 @@
+<letter id="rol4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The Washington packet arrived this morning. I have not yet had leisure to read all my letters f but as an express is ready to go early to-morrow, I rather 
+choose to rely upon your goodness to excuse a letter written in extreme haste, than to hold myself inexcusable, by not informing you of what we yet know 
+of the state of our negotiations. None of my letters is of a later date than the 25th of December. All 
+difficulties had then been removed with respect to us, and the preliminaries were signed; they consist of nine articles. 
+</p><p>
+The first acknowledges our independence. 
+</p><p>
+The second describes our boundaries, which are as extensive as we could wish. 
+</p><p>
+The third ascertains our rights as to the fishery, and puts them upon the same footing that they were before the war. 
+</p><p>
+The fourth provides that all British debts shall be paid. 
+</p><p>
+The fifth and sixth are inclosed for your perusal, as they are likely to be the least satisfactory here.'-'' 
+</p><p>
+The seventh stipulates that hostilities shall immediately cease, and that the British troops be withdrawn, 
+without carrying off any property, or dismantling fortifications ; that records and archives shall be restored. 
+</p><p>
+The eighth stipulates that the navigation of the Mississippi shall be open to us and Great Britain. 
+</p><p>
+The ninth, that all conquests, made in America after the ratification, shall be restored. 
+</p><p>
+These preliminaries are only provisional upon the 
+determination of a peace with France, whose negotiations have not made such progress as ours. I believe 
+they find themselves very much embarrassed by the demands of their other allies. 
+</p><p>
+The Count de Vergennes, in a letter of the 25th of December, says, "I cannot foresee the issue, for difficulties arise from the disposition we have shown 
+to remove them. It would be well, Sir, to prepare Congress for every event. I do not despair ; I rather hope but all is y^i uncertain." 
+</p><p>
+But, Sir, whatever the event of the negotiations may be, I persuade myself the enemy will leave these 
+States. Mr. Oswald has made some propositions to our Ministers upon this subject, proposing that they might be permitted to embark without molestation, 
+and endeavour to recover West Florida from the Spaniards. This last communication, which you will 
+consider as confidential, I thought might be important to your Excellency. By attending to their conduct, you will be able to judge if they mean to pursue this system, or if it was only thrown ont to deceive. 
+</p><p>
+I inclose also, for your perusal, extracts from the Addresses, not having time to have them copied at large. They are mere echoes to the speech. Supplies were voted without one dissenting voice. 
+</p><p>
+I must pray your Excellency to send on the inclosed packets. Any expense it occasions, will he paid by the Governor. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.
+</p>
+</letter>

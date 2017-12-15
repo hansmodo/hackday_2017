@@ -1,0 +1,17 @@
+<letter id="mbc7593">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Daniel, of The Examiner, was at the President's. Wilmot de Saussure wondered if a fellow did 
+not feel a little queer, paying his respects in person at the house of a man whom he abused daily in his newspaper. 
+</p><p>
+A fiasco: an aide engaged to two young ladies in the same house. The ladies had been quarreling, but became 
+friends unexpectedly when his treachery, among many other secrets, was revealed under that august roof. Fancy 
+the row when it all came out. 
+</p><p>
+Mr. Lowndes said we have already reaped one good result from the war. The orators, the spouters, the furious 
+patriots, that could hardly be held down, and who were so wordily anxious to do or die for their country they had 
+been the pest of our lives. Now they either have not tried the battle-field at all, or have precipitately left it at their 
+earliest convenience : for very shame we are rid of them for a while. I doubt it. Bright's speech is dead against us. 
+Reading this does not brighten one. 
+</p>
+</letter>

@@ -1,0 +1,34 @@
+<letter id="mbc7723">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='11'>11th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Drove with <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> and all her infant family; wonderfully clever and precocious children, with 
+unbroken wills. At one time there was a sudden uprising of the nursery contingent. They laughed, fought, and 
+screamed. Bedlam broke loose. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> scolded, laughed, and cried. She asked me if my husband would 
+speak to the President about the plan in South Carolina, which everybody said suited him. No, <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>, said 
+I. " That is what I told <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a>," said she. " Colonel Chesnut rides so high a horse. Now Browne is so much 
+more practical. He goes forth to be general of conscripts in Georgia. His wife will stay at the Cobbs's. 
+</p><p>
+Mrs. Ould gave me a luncheon on Saturday. I felt that this was my last sad farewell to Richmond and the people 
+there I love so well. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> sent her carriage for me, and we went to the Quids together. Such good things were 
+served oranges, guava jelly, etc. The Examiner says Mr. Ould, when he goes to Fortress Monroe, replenishes his 
+larder; why not? The Examiner has taken another fling at the President, as, " haughty and austere with his 
+friends, affable, kind, subservient to his enemies." I wonder if the Yankees would indorse that certificate. Both 
+sides abuse him. He can not please anybody, it seems. No doubt he is right. 
+</p><p>
+My husband is now brigadier-general and is sent to South Carolina to organize and take command of the re 
+serve troops. C. C. Clay and L. Q. C. Lamar are both spoken of to fill the vacancy made among <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> aides 
+by this promotion. 
+</p><p>
+To-day, Captain Smith Lee spent the morning here and gave a review of past Washington gossip. I am having such a busy, happy life, with so many friends, and my friends are so clever, so charming. But the change to that 
+weary, dreary Camden! Mary Preston said: " I do think Mrs. Chesnut deserves to be canonized; she agrees to go 
+back to Camden." The Prestons gave me a farewell dinner; my twenty-fourth wedding day, and the very pleasantest day I have spent in Richmond. 
+</p><p>
+Maria Lewis was sitting with us on Mrs. Huger's steps, and Smith Lee was lauding Virginia people as usual. As 
+Lee would say, there " hove in sight Frank Parker, riding one of the finest of General Bragg's horses ; by his side 
+Buck on Fairfax, the most beautiful horse in Richmond, his brown coat looking like satin, his proud neck arched, 
+moving slowly, gracefully, calmly, no fidgets, aristocratic in his bearing to the tips of his bridle-reins. There sat 
+Buck tall and fair, managing her horse with infinite ease, her English riding-habit showing plainly the exquisite pro 
+portions of her figure. " Supremely lovely," said Smith Lee. " Look at them both," said I proudly; " can you 
+match those two in Virginia? " " Three cheers for South Carolina! " was the answer of Lee, the gallant Virginia sailor. 
+</p>
+</letter>

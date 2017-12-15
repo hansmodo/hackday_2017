@@ -1,0 +1,48 @@
+<letter id="nag3728">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head Quarters, <a href='/results.php?city=st. pauls parish' rel='city origin'>St. Paul's Parish</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your Excellency's letter of the 29th of December, 
+came to hand yesterday. The reenforcement you 
+mention has not arrived, and I hope they are gone 
+to another quarter. I got intelligence of the preparation making in <a href='/results.php?city=new york' rel='city'>New York</a>, and of the opinion of their 
+being destined to <a href='/results.php?city=charleston' rel='city'>Charleston</a>. But whether they went 
+to some other quarter, or the small reenforcement 
+mentioned in my last was what gave rise to the report, I am unable to say. 
+</p><p>
+In your Excellency's instructions to correspond with 
+<a href='/results.php?tla=cdr' rel='colleague'>Count Rochambeau</a>, you did not tell me whether 
+I was to request aid of him in cases of emergency. 
+However, my apprehensions were so great, and the 
+consequences appeared to me so fatal to this country, 
+I made application, without hesitation ; and I should 
+be glad to know your mind on the subject, by which 
+I shall govern my conduct in future. I see little prospect of getting any reenforcements from Virginia, as 
+will appear by the Governor's letter. The State conceive themselves ill-treated, and, however groundless 
+it may be, it will operate greatly to our prejudice 
+for a time. Colonel Carrington is gone to Congress, 
+to represent several matters, which claim immediate 
+attention. I wish no disagreeable disputes may happen from the present uneasiness and discontent prevailing in Virginia, from a persuasion that the Northern States are treated with more delicacy than she 
+is. I fear the Financier-General will have a hard 
+task to steer clear of suspicions of partiality. Colonel Carrington will represent to your Excellency our 
+apprehensions of fixing the laboratory at <a href='/results.php?city=richmond' rel='city'>Richmond</a>, 
+and our wishes for having it at New London. 
+</p><p>
+Inclosed are the returns of the Pennsylvania line, 
+agreeably to your Excellency's direction. Those of 
+Maryland and Delaware are transmitted to the Governors of those States. That of Virginia shall be also 
+sent, as soon as it can be had. The absence of Colonel White's regiment of dragoons in Georgia is the 
+reason of its delay; however, the infantry of that 
+State with this army amount to not more than sixty 
+men. In a very few days I will have the honor of 
+transmitting to you exact returns of the operating 
+force serving under my command in the Southern department. I am, with the greatest regard, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

@@ -1,0 +1,22 @@
+<letter id="gwa4006">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=mount vernon' rel='city origin'>Mount Vernon</a>, 	<a rel='day origin' value='27'>27th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Mr. Taylor presented me the honour of your favour of the 25th ult., and gave me the pleasure of hearing that 
+Mrs. Jay and yourself were well when he left New- York. Upon your safe return to your native country, after a 
+long absence, and the important services you have rendered it in many interesting negotiations, I very sincerely congratulate you and your lady. 
+</p><p>
+It gave me great pleasure to hear of your appointment as secretary of the United States for the department of 
+foreign affairs ; a happier choice in my opinion could not have been made, and I shall always rejoice at any circumstance that will contribute either to your honour, interest, or convenience. 
+</p><p>
+It will always give me pleasure to hear from you. Mrs. Washington joins me in respectful compliments to, and best wishes for Mrs. Jay and yourself. 
+</p><p>
+I am, dear sir, 
+Your most obedient and most humble servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington<a/>. 
+</p>
+</letter>

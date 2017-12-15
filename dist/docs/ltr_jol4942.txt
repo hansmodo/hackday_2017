@@ -1,0 +1,32 @@
+<letter id="jol4942">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='20'>20th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+You will receive by this courier, L d North's recantation. It would make an admirable contrast with a 
+vehement oration which I heard him pronounce in 
+the confidence of success, while I was in England. 
+The treachery which he renounces is too palpable in 
+his conciliatory overtures, to deceive thinking men ; 
+but they may prove a fatal poison if suffered to be 
+disseminated through the continent, unattended by 
+the strictures of an able pen, which may serve as an 
+antidote. If France has not declared war, she does 
+not merit our alliance; but I think it is more than 
+probable that the sword has been drawn by this time 
+in Europe. There is no doubt of Gen'l Howe's being recalled, and that Clinton is to succeed him. The present moment requires vigorous counsels and uncommon management. 
+</p><p>
+I have many fears relative to our prospects of the ensuing campaign ; they shall be expressed in a short letter. My dearest friend adieu. 
+</p><p>
+Virtue and vigorous counsels with policy, are more wanted than ever. 
+</p><p>
+Your affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I fear the effects of northern expeditions and projects. Our main army will be emacerated, and nothing decisive will be done. Let us be respectable 
+in the field, and have a full representation of the wisest patriots. 
+</p>
+</letter>

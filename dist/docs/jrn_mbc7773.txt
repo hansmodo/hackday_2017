@@ -1,0 +1,23 @@
+<letter id="mbc7773">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Went to church crying to Ellen, "It is Lent, we must fast and pray." When I came home my 
+good fairy, Colonel Childs, had been here bringing rice and potatoes, and promising flour. He is a trump. He pulled 
+out his pocket-book and offered to be my banker. He stood there on the street, Miss Middleton and Isabella witnessing 
+the generous action, and straight out offered me money. " No, put up that," said I. " I am not a beggar, and I 
+never will be ; to die is so much easier. 
+</p><p>
+Alas, after that flourish of trumpets, when he came with 
+a sack of flour, I accepted it gratefully. I receive things I can not pay for, but money is different. There I draw a 
+line, imaginary perhaps. Once before the same thing happened. Our letters of credit came slowly in 1845, when we 
+went unexpectedly to Europe and our letters were to follow us. I was a poor little, inoffensive bride, and a British 
+officer, who guessed our embarrassment, for we did not tell him (he came over with us on the ship), asked my hus 
+band to draw on his banker until the letters of credit should arrive. It was a nice thing for a stranger to do. 
+</p><p>
+We have never lost what we never had. We have never had any money only unlimited credit, for my husband's 
+richest kind of a father insured us all manner of credit. It was all a mirage only at last, and it has gone just as we drew nigh to it. 
+</p><p>
+Colonel Childs says eight of our Senators are for reconstruction, and that a ray of light has penetrated inward 
+from <a href='/results.php?tla=abl' rel=''>Lincoln</a>, who told Judge Campbell that Southern land would not be confiscated. 
+</p>
+</letter>

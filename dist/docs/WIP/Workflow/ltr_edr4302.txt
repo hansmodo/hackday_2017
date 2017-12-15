@@ -1,0 +1,28 @@
+<letter id="edr4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Sir, 
+</p><p>
+By the inclosed act, you will readily discover that 
+the Assembly are alarmed at the storms which threaten the United States. What our enemies have foretold, seems to be hastening to its accomplishment ; 
+and cannot be frustrated but by an instantaneous, 
+zealous, and steady union among the friends of the 
+Federal Government. To you I need not press our 
+present dangers. The inefficiency of Congress you 
+have often felt in your official character ; the increasing languor of our associated Republics you hourly 
+see ; and a dissolution would be, I know, to you a 
+source of the deepest mortification. 
+</p><p>
+I freely, then, entreat you to accept the unanimous 
+appointment of the General Assembly to the Convention at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. For the gloomy prospect still 
+admits one ray of hope ; that those who began, carried on, and consummated the revolution, can yet 
+rescue America from the impending ruin. 
+</p><p>
+I have the honor. Sir, to be, with the sincerest 
+esteem and respect, yours, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

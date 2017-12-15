@@ -1,0 +1,69 @@
+<letter id="dab3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I wrote you on the 10th and 22d of November, 
+and on the 13th of December last, and not having 
+been honored with a line in answer to either of those 
+letters, I begin to fear you have not duly received 
+them, wherefore I take the liberty to inclose duplicates. I likewise inclose the proceedings of a General 
+Court-Martial on the trial of Lieutenant Arthur Gor 
+don, Adjutant of the ninth Virginia regiment, and a 
+return of the provisions in store. 
+</p><p>
+I have not seen Colonel George Morgan since I 
+came to this department; neither have I seen the 
+Deputy Quartermaster-General since last March. I 
+have not a tent for my men, and, by the inclosed 
+return, you will see that the provisions are scanty ; 
+but I hope to be better supplied in the spring. 
+</p><p>
+I have frequently given the most pointed orders 
+respecting the public craft, notwithstanding which, 
+the greatest part is, or will be, carried away with 
+the ice. What I could retain at this place I did, 
+and secured it by hauling it upon land. If the officers commanding at the different posts had taken the 
+same care, little or none would have been driven off. 
+Such a deep snow and such ice have not been known 
+at this place in the memory of the oldest natives. 
+Deer and turkeys die by hundreds for want of food. 
+The snow on the Alleghany and Laurel Hills is four feet deep. 
+</p><p>
+By one of our prisoners, who lately made his 
+escape from the Wyandots, and who has frequently 
+been at Detroit, I am informed that the new fort 
+erected there has two bomb-proofs of wood ; that the 
+walls are very high, fifteen feet thick, and made offascines and clay ; that the barracks are sunk some 
+distance into the ground, and that their roofs cannot 
+be seen from without; that it stands on a fine commanding piece of ground, with a gentle descent each 
+way ; likewise that it is surrounded by a ditch twenty feet wide. The garrison consists of four hundred 
+and fifty regulars, and the enemy have eighteen hundred men at Niagara, besides a great number of Indians. If this intelligence is true, unless some di 
+version is occasioned by troops marching up the Susquehanna River, it is not improbable that the enemy 
+may pay us a visit down the Alleghany Paver next 
+spring, and I have neither men nor cannon sufficient 
+for this fort, unless a reenforcement can be spared 
+from the main army. I shall, however, make the 
+best disposition that circumstances will admit, and, if 
+possible, gain further intelligence from the Delawares, 
+who continue their declarations of friendship for us. 
+</p><p>
+I beg your Excellency will indulge me with twenty 
+boat-builders, and some armourers, early in the spring. 
+If I receive no orders to the contrary, and can be 
+supplied with craft, I am determined to drive the Shawanese over the Lakes, which I can do before provi 
+sions can be furnished for a capital expedition. 
+</p><p>
+I shall now transmit an estimate of cannon and 
+military stores to the Board of War, in hopes that, 
+by the time they arrive at this place, I shall be 
+enabled to do something worthy the confidence you 
+have placed in me. With the most exalted regard 
+and esteem, I have the honor to be, your Excellency's 
+Most obedient and most humble servant, 
+</p><p>
+DANIEL BHODHEAD. 
+</p>
+</letter>

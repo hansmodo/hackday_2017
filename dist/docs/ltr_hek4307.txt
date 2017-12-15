@@ -1,0 +1,62 @@
+<letter id="hek4307">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1788' rel="origin">1788</a>, 
+</p><p>
+It is a long time, my dear Sir, since I have had 
+the pleasure of addressing you, owing to my having 
+been into Massachusetts and the Province of Maine, 
+during the period of the last four months. I have 
+received your favor, inclosing some foreign applications 
+for admission into the <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a>. These papers are 
+placed on the files of the Society, but cannot be 
+acted on until the next general meeting, to be held 
+in <a href='/results.php?year=1792'>1792</a>. 
+</p><p>
+In the States of New Hampshire, Massachusetts, 
+and Connecticut, the great object of organizing the 
+new Constitution, engrosses the attention of the people. It is with sincere satisfaction that I can assert, 
+from personal observation, that the affection for the 
+new system is increasing in these States, and that it is 
+daily becoming highly popular. The Senators of those 
+States are characters calculated to inspire confidence 
+in the new Government, and are all highly federal. 
+I am persuaded the Representatives will generally, if 
+not entirely, be of the same description. As to Rhode 
+Island, the majority are in such a train that nothing 
+good can at present be expected from them; their 
+paper money system and tender laws are sufficiently 
+characteristic of their pursuits. <a href='/results.php?city=new york' rel='city'>New York</a> are also 
+laboring under errors of conduct; but, from the powerful party in favor of the new system, something 
+may be hoped from their ensuing elections. New 
+Jersey, Pennsylvania, Delaware, and Maryland are 
+right. The late choice of Representatives in Pennsylvania, may be considered as a new and fair appeal 
+to the people, as it respects their approbation of the 
+new Government. Although the party in favor of 
+their local Constitution have been brought to operate 
+against the General Constitution, yet it appears the 
+majority of the people are its firm supporters. 
+</p><p>
+Mr. John Adams will probably have the plurality 
+of votes for Vice-President. From his principles of 
+government, as well as his professions of regard to 
+the character universally decided on for the President, 
+he will probably make a good Vice-President. 
+</p><p>
+Major Haskell, who is going to Europe, is very 
+solicitous to obtain your Excellency's certificate of his 
+services. He sustained the character of a brave and 
+good officer, and at present he supports the reputation of a good citizen. It is "with diffidence I ask 
+this certificate ; but the request is made under such 
+auspices, I cannot avoid it. 
+</p><p>
+Our three youngest children have lately had the 
+measles, and are, we hope, safely through the disorder. Our eldest children, Lucy and Harry, are about 
+sickening with it. Mrs. Knox presents her respects 
+to you, and unites with me in presenting our respects to Mrs. Washington. I am, dear Sir, 
+</p><p>
+Your affectionate friend and humble servant, 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

@@ -1,0 +1,28 @@
+<letter id='thj1429'>
+<recipient first='John Paul' last='Jones' type='individual'/>
+<p>
+TO CAPTAIN JOHN PAUL JONES.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, August 13, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Sir,
+</p><p>
+Supposing you may be anxious to hear from hence, though there should
+be nothing interesting to communicate, I write by Mr. Cairnes merely to
+inform you, that I have, as yet, received no answer from the Marechal
+de Castries. I am in daily expectation of one. Should it not be received
+soon, I shall urge it again, which I wish to avoid however, if possible;
+because I think it better to await with patience a favorable decision,
+than by becoming importunate, to produce unfavorable dispositions,
+and, perhaps, a final determination of the same complexion. Should my
+occupations prevent my writing awhile, be assured that it will only be
+as long as I have nothing to communicate, and that as soon as I receive
+any answer, it shall be forwarded to you.
+</p><p>
+I am, with much esteem, Sir,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

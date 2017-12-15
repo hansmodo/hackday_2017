@@ -1,0 +1,32 @@
+<letter id='mad1466'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, October 3, <a href="/results.php?year=1780">1780</a>. 
+</p><p>
+DEAR SIR, I had the pleasure of receiving yours of the 25th 
+ult. yesterday, and am sorry it is not yet in my power to gratify your hopes with any prospect of a successful issue to this 
+campaign. The reports of the approach or arrival of a French 
+fleet continue to be circulated, and to prove groundless. If any 
+foreign operations are undertaken on the continent, it will 
+probably be against the Floridas by the Spaniards. A Spanish 
+gentleman, who resides in this city, has received information 
+from the Governor of Cuba that an armament would pass from 
+the Havannah to Pensacola towards the end of last month, and 
+that ten or twelve ships of the line, and as many thousand troops, 
+would soon be in readiness for an expedition against St. Augustine. It would be much more for the credit of that nation, as 
+well as for the common good, if instead of wasting their time 
+and resources in these separate and unimportant enterprises, 
+they would join heartily with the French in attacking the 
+enemy, where success would produce the desired effect. 
+</p><p>
+The enclosed papers contain all the particulars which have 
+been received concerning the apostacy and plot of Arnold. A 
+variety of his iniquitous jobs prior to this chef d'ceuvre of his 
+villainy, carried on under cover of his military authority, have 
+been detected among his papers, and involve a number of persons both within and without the enemy's lines. The embarkation lately going on at <a href="/results.php?city=new york" rel="city">New York</a>, and given out to be 
+destined for Virginia or Rhode Island, was pretty certainly a 
+part of the plot against West Point; although the first representation of it has not yet been officially contradicted. 
+</p><p>
+With sincere regard, I am, Dr sir, your obt and humble serv.t. 
+</p>
+</letter>

@@ -1,0 +1,57 @@
+<letter id="jol3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Point Judith, 40 miles from <a href='/results.php?city=providence' rel='city origin'>Providence</a>, 
+<a rel="day origin" value="25">25</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I had the honor of writing to your Excellency from 
+<a href='/results.php?city=lebanon' rel='city'>Lebanon</a> the 23d instant. The day following, at three o'clock in the afternoon, I arrived at <a href='/results.php?city=providence' rel='city'>Providence</a>. As 
+soon as I had delivered to <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> your Excellency's despatches and instructions, I set out for 
+this place with Colonel Wall, and an ample number 
+of pilots, whom <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> had provided and 
+put under his command. Colonel Wall is a man of 
+character and property, perfectly acquainted with the 
+coast, &c. Those under him are experienced pilots, 
+and men of responsibility. We arrived here at nine o'clock this morning, having been detained till that 
+time in procuring a party of militia, and making arrangements both for securing such boats as we shall 
+want for our own immediate use, and such as, with 
+out this precaution, might be employed in communicating intelligence to the enemy. 
+</p><p>
+We have agreed with four whaleboat privateers, 
+belonging to Connecticut, manned with enterprising, 
+experienced mariners, and pressed four belonging to 
+this State. We have given them to understand that 
+the frigate, lying at Connecticut River, is to push 
+out of the Sound, and that we are to meet her with 
+hands to enable her to go round and join the French 
+fleet, for which purpose their boats are necessary. 
+The number that we have is amply sufficient for our business, and now we are in readiness. Two sentinels will be posted, in an advantageous place, whose 
+business will be to attend to whatever signals may 
+be given from the seaboard ; besides which, Colonel 
+Wall, the master pilots, and myself, will alternately 
+hold watch, arid keep our attention awake. Till last 
+night, twelve o clock, unfavorable winds have prevailed. If the gale, which we have at present, does 
+not prove inconstant, it will not be long before we 
+are called upon. Our situation commands a view of 
+the several entrances to <a href='/results.php?city=newport' rel='city'>Newport</a>; and Block Island 
+is directly opposite to us, so that nothing can pass 
+to or from <a href='/results.php?city=newport' rel='city'>Newport</a> unnoticed. 
+</p><p>
+<a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> estimates the enemy's land force 
+here at seven thousand. The state of their shipping, 
+he informs me, is as follows ; in the east channel 
+(or that between Seconet Point and Rhode Island), 
+two galleys and one small frigate ; in the west channel (or that between <a href='/results.php?city=boston' rel='city'>Boston</a> Neck and Connanicut 
+Island), two small frigates ; in the middle, or main 
+channel, two frigates ; at <a href='/results.php?city=newport' rel='city'>Newport</a>, two or three frigates. As <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> will probably write to 
+your Excellency, I forbear descending to farther particulars. He has been indefatigable, and nothing on 
+his part will be wanting. I have the honor to be, 
+with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">JOHN LAURENS</a> 
+</p>
+</letter>

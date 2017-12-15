@@ -1,0 +1,32 @@
+<letter id="gom4513">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='2'>2d</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I was in your debt. It is my fate always to be so with 
+my friends. But, believe me, my heart owes nothing. Let 
+me add, that you can do me no favor so great, as to comply 
+with your wishes, except an opportunity to serve the public, 
+which indeed is your highest wish, as you have evinced fully 
+to all the world, and particularly to your friends. 
+</p><p>
+I feel the full force of your reasoning. The faith of Congress is in some measure plighted to M. de la Neuville, but 
+it is not their interest that his brevet shall give command. I 
+will take care to get this expressed by a particular resolution. 
+The Baron has a claim, from his merit, to be noticed, but I 
+never will consent to grant what I am told he requests, and 
+I think Congress will not. At least they will not if I can 
+help it. 
+</p><p>
+I this instant was informed of the opportunity of an express for camp, which goes immediately. Let me, however, 
+congratulate you on the affair at Monmouth, on the whole affair. It might have been better, it is said. I think not, for 
+you have, even from your enemies, the honor of that day. 
+You have enemies. It is happy for you that you have. A 
+man of sentiment has not so much honor, as the vulgar suppose, in resigning life and fortune for the service of his country. He does not value them as highly as the vulgar do. 
+Would he give the highest evidence, let him sacrifice his feelings. In the history of last winter, posterity will do you justice. Adieu, believe me sincerely yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

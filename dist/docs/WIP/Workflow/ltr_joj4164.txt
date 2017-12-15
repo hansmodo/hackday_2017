@@ -1,0 +1,86 @@
+<letter id="joj4164">
+<recipient first="William" last="Wilberforce" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, Westchester County, State of New- York, ) 
+</p><p>
+	<a rel='day origin' value='11'>11th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1806' rel="origin">1806</a>. J 
+</p><p>
+Dear Sir, 
+</p><p>
+It was not until within a week that I received your 
+friendly letter of the 7th November last. It expresses sentiments of esteem and regard which, being mutual, excite 
+agreeable recollections and emotions. 
+</p><p>
+" War in Disguise," of which you was so good as to 
+enclose a copy, has given occasion to uneasiness relative to 
+the matter and design of it. It contains marks of ability, 
+but the author has not been entirely circumspect. I enclose 
+an answer to it, written, as is supposed, and as I believe, 
+by a gentleman of excellent talents and good dispositions.* [* Gouvemeur Morris.]
+</p><p>
+It appears to me, that every independent state has, as 
+such, a perfect right at all times, whether at war or at 
+peace, to make grants to and treaties with any other independent state ; but then those acts, in order to be valid, 
+must consist with justice, and be in no respect fraudulent. 
+To the validity of such grants and treaties, no third power, 
+whether belligerent or neutral, can, in my opinion, have 
+reasonable cause to object. 
+</p><p>
+When such acts are fraudulent, and injurious to others, 
+those others are justifiable in regarding them as being 
+what they are (that is, fraudulent), and in acting accordingly. When such acts are just and fair, but abused to the 
+injury of others, those others have a right to complain of 
+and to attack the abuse, but not the thing abused. 
+</p><p>
+Whether this or that particular act (of the description 
+alluded to) be fair or fraudulent, is a question to be decided 
+by evidence internal and external, according to the rules 
+and maxims of the laws of nations relative to such cases. 
+</p><p>
+Believing these principles to be well founded, they do 
+not permit me to adopt some of the opinions of this ingenious 
+writer, nor to approve of all the latitude contended for by 
+some of his opponents. To view in their various lights 
+and relations, and to examine properly all the doctrines and 
+positions in question, cannot be done within the compass of 
+a letter. 
+</p><p>
+Your disposition and desire to promote good- will between 
+our two countries exactly accord with my own. It is to 
+be wished that each of them may ever be mindful, that the 
+preservation of friendship between nations, as between individuals, requires justice and prudence always, and even forbearance sometimes ; for states, as well as persons, commit 
+errors. It is our lot to live in perplexing and eventful 
+times. The passions of men are not good counsellors, and 
+never less so than when agitated and inflamed. 
+</p><p>
+We have seen concluded, with the treaty of Amiens, the 
+first act of the astonishing tragedy which the French revolution has introduced on the theatre of the world. The 
+present and succeeding acts will probably be highly interesting and impressive. In this prodigious drama, Great 
+Britain still sustains a conspicuous and important part : 
+perhaps she may be employed to restrain the " remainder of 
+wrath." Whether this distant nation is to appear among 
+the dramatis persona;, cannot now be known. We certainly do not desire it. 
+</p><p>
+The inconveniences apprehended from the death of Mr. Pitt will doubtless be diminished, if not obviated, by the 
+general confidence reposed in your new administration. I 
+am glad to find that <a href='/results.php?tla=wig' rel='colleague met'>Lord Grenville</a> holds a distinguished 
+place in it. My respect and esteem for him continue undiminished. 
+</p><p>
+Very sincerely do I congratulate you on your domestic 
+felicity. May it continue and increase. I thank you for 
+what you have briefly remarked on that topic ; for you 
+have given me pleasure, by letting me see how much reason you have to be pleased. 
+</p><p>
+With true esteem and regard, I am, dear sir, 
+</p><p>
+Your faithful and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p><p>
+P. S. As your letter was so long on the way, this answer 
+will arrive, if it arrives at all, much later than you expected. 
+Being anxious to remove appearances of inattention, I shall 
+send a duplicate by another vessel. There will then be a 
+double chance of its coming to your hands. 
+</p>
+</letter>

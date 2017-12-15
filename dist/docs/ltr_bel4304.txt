@@ -1,0 +1,67 @@
+<letter id="bel4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+I have had the pleasure of receiving the several 
+letters, answers to those which I have had the honor 
+of writing to your Excellency. In one of my last, 
+I suggested to your Excellency what appeared to me 
+to be the temper of our last House of Representatives relative to the new Constitution, and my apprehensions lest the same spirit which they possessed 
+would be by them diffused through the different parts 
+of the State. Their professed design was to shift the 
+Governor, and to appoint one, and a Lieutenant-Governor, of their own sentiments. Hence federalism 
+and anti-federalism were pitted one against the other. 
+The antifederalists were in hopes of throwing such an 
+influence into the Government by a change of its 
+officers, as to prevent an organization of the General Government by this State, should it be adopted by nine. 
+</p><p>
+<a href='/results.php?tla=joh' rel='colleague'>Mr. Hancock</a> was put up by the federalists, and 
+Mr. Gerry by the opposite party, for Governor. <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a> and Mr. Lincoln were put up by the federalists as Lieutenant-Governor, and General Warren by 
+the other party. The division of votes between 
+Adams and Lincoln, prevented a choice of Lieutenant-Governor by the people. They had about two thirds 
+of the votes. General Warren had the greatest part 
+of the remainder. As no person was chosen, the four 
+gentlemen who had the most votes were, by our Constitution, candidates from whom the House must choose 
+two, and send their names to the Senate, one of 
+whom must be chosen by them Lieutenant-Governor. 
+Adams, Warren, Gerry, and Lincoln, were the candidates. The votes for them by the people stood as 
+follows; — Warren, six thousand one hundred and fifty-seven; Adams, three thousand four hundred and ninety-five ; Gerry, six hundred and sixty-nine ; Lincoln, 
+ten thousand two hundred and four. Warren and Lincoln were returned to the Senate. They elected Lincoln, who had twenty votes out of twenty-eight. He 
+accepted the trust. I hope he will discharge the duties of his office with fidelity. 
+</p><p>
+I have been thus particular in returning the numbers (as the contest, as I said before, seemed to be 
+between the federalists and those of a different character), that you might judge of the temper of the 
+people, and of the state of the parties. Federalism 
+is manifestly fast gaining ground. In our last House 
+of Representatives, the antifederalists could carry any 
+vote they pleased; and there cannot be a doubt but, 
+if it had been with them to determine the question, 
+they would instantly have rejected the Constitution 
+with triumph. In the present House it has, I am 
+confident, a great majority in its favor, much greater 
+than it had in the Convention. In this State, the 
+people are manifestly returning to that train of thinking and line of duty, necessary, and indeed indispensable, to their well-being. 
+</p><p>
+Though the majority have much to do, yet they 
+must take care that they do not do too much ; the 
+utmost good temper and moderation must be used, 
+and we must make haste slowly. On the whole, if 
+we act with judgment, temper, and moderation, we 
+shall, I have no doubt, in a short time, have a Government established, the influences of which will not 
+only promote and preserve the happiness and interest of the United States, but the beneficial effects 
+of it will be enjoyed by all the different nations of 
+the world. 
+</p><p>
+I wish my most dutiful respects to Mrs. Washington, and that the children may be assured and early 
+taught that <a href='/results.php?tla=bel' rel='me'>General Lincoln</a> loves them, and that he 
+wishes they may live long, live happily, and be the 
+most honored and useful among their brethren. With 
+the sincerest esteem, 
+I have the honor of being, my dear General, &c., 
+</p><p>
+<a href="/results.php?tla=bel" rel="me">Benjamin Lincoln</a>. 
+</p>
+</letter>

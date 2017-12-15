@@ -1,0 +1,25 @@
+<letter id="jaw3900">
+<recipient first="" last="" type="individual"/>
+<p>
+JAMES WILLIAMS TO HIS WIFE. 
+</p><p>
+CAMP, HEAD-QUARTERS, <a rel="month origin" value="6">June</a> <a rel='day origin' value='3'>3</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+MY DEAR : 
+</p><p>
+I have nothing more than I have enclosed of the 1st instant. As to the news, our army is very strong, and in high spirits. There was a 
+probability of an action the other day, and it appeared to be the hearty desire of every man to come to action j but it was not thought expedient 
+by the General, and we returned to camp. We are now laying in camp, where I expect to lay for several days. As to particulars, I refer 
+you to Major Gillam. I desire that Daniel will use his utmost endeavors to have the mills in the best order against harvest.'t was 
+speaking to him in regard to trying to plant that field over the road in corn; but that I submit to him, and he may do as he pleases. I hope 
+that the utmost care will be taken by him to save the crop that is planted. My wagon that I rode in with, is at Ninety-Six; send Daniel 
+to bring it home, and have it put under a shed. I purpose to sell it 
+when I return home. I desire you, my dear, to send me about half-apound of cloves and cinnamon by Major Gillam; what I brought I have 
+used, and find it a great help to me. The water fs so bad that I make as little use of it as possible. Major Gillam has corne to bring a relief 
+for the men that are here. If it is possible, I should be glad that you could send me an under jacket, for the two that I brought with me are breaking before. 
+</p><p>
+I am, dear wife, with respect, your ever loving husband till death, 
+</p><p>
+<a href="/results.php?tla=jaw" rel="me">JAS. WILLIAMS</a>. 
+</p>
+</letter>

@@ -1,0 +1,65 @@
+<letter id='thj1396'>
+<recipient first='' last='' type='individual'/>
+<p>
+TO THE VIRGINIA DELEGATES IN CONGRESS.
+</p><p>
+In Council, May 10, <a href="/results.php?year=1781">1781</a>.
+</p><p>
+Gentlemen,
+</p><p>
+A small affair has taken place between the British commanding officer
+in this state, General Phillips, and the Executive, of which, as he may
+endeavor to get rid of it through the medium of Congress, I think it
+necessary previously to apprise you.
+</p><p>
+General Scott obtained permission from the Commandant at Charleston, for
+vessels with necessary supplies to go from hence to them, but instead
+of sending the original, sent only a copy of the permission taken by his
+brigade-major. I applied to General Phillips to supply this omission
+by furnishing a passport for the vessel. Having just before taken great
+offence at a threat of retaliation in the treatment of prisoners,
+he enclosed his answer to my letter under this address, 'To Thomas
+Jefferson Esq., American Governor of Virginia.' I paused on receiving
+the letter, and for some time would not open it; however, when the
+miserable condition of our brethren in Charleston occurred to me, I
+could not determine that they should be left without the necessaries of
+life, while a punctilio should be discussing between the British General
+and myself; and knowing that I had an opportunity of returning the
+compliment to Mr. Phillips in a case perfectly corresponding, I opened
+the letter.
+</p><p>
+Very shortly after, I received, as I expected, the permission of the
+board of war, for the British flag-vessel, then in Hampton Roads with
+clothing and refreshments, to proceed to Alexandria. I enclosed and
+addressed it, 'To William Phillips Esq., commanding the British forces
+in the Commonwealth of Virginia.' Personally knowing Phillips to be the
+proudest man of the proudest nation on earth, I well know he will not
+open this letter; but having occasion at the same time to write to
+Captain Gerlach, the flag-master, I informed him that the Convention
+troops in this state should perish-for want of necessaries, before any
+should be carried to them through this state, till General Phillips
+either swallowed this pill of retaliation, or made an apology for his
+rudeness. And in this, should the matter come ultimately to Congress, we
+hope for their support.
+</p><p>
+He has the less right to insist on the expedition of his flag, because
+his letter, instead of enclosing a passport to expedite ours, contained
+only an evasion of the application, by saying he had referred it to Sir
+Henry Clinton, and in the mean time, he has come up the river, and taken
+the vessel with her loading, which we had chartered and prepared to send
+to Charleston, and which wanted nothing but the passport to enable her
+to depart.
+</p><p>
+I would further observe to you, that this gentleman's letters to the
+<a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> first, and afterwards to the <a href='/results.php?tla=laf' rel=''>Marquis Fayette</a>, have been in
+a style so intolerably insolent and haughty, that both these gentlemen
+have, been obliged to inform him, that if he thinks proper to address
+them again in the same spirit, all intercourse shall be discontinued.
+</p><p>
+I am, with great respect and esteem,
+</p><p>
+Gentlemen, your most obedient servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

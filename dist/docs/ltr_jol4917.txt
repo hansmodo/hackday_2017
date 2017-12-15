@@ -1,0 +1,76 @@
+<letter id="jol4917">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+By this day's courier, you will be informed of a base insult offer'd to the Commander in chief, which will raise your indignation. 
+</p><p>
+A preliminary anecdote may throw some light upon 
+this matter. Some time ago, his Exc y received a letter 
+from a friend, enclosing a piece of paper with the following words : " In a letter to <a href='/results.php?tla=hog' rel='co-worker'>Gen'l Gates</a>, Gen'l Conway says, Heaven has been determined to save your 
+country, or a weak general and bad counsellors would 
+have ruined it. The Gen'l immediately copied the 
+contents of the paper, introducing them with sir, and 
+concluding with, I am your humble serv 4 , and sent 
+this copy in form of a letter to Gen'l Conway." This 
+drew an answer, in which he first attempts to deny the 
+fact, and then in a most shameless manner, to explain 
+away the word weakness. The perplexity of his style, 
+and evident insincerity of his compliments, betray his 
+real sentiments, and expose his guilt. 
+</p><p>
+After this, he certainly had no right to expect cordiality on the part of the general, but he has always 
+been treated with that kind of civility, which resulted 
+from a consideration of his public character, abstracted 
+from his private one. He experienced that kind of complaisance, which passes current in the transactions of 
+men, and in which the heart is not concerned. Indeed 
+you will think, perhaps, the General's delicacy on this 
+point led him to too great forbearance when you learn 
+that Gen'l Conway was charged with cowardice at the 
+battle of German Town, and that a gentleman of rank 
+and reputation, desir'd to be called upon as an evidence. It is notorious that he disobey'd his orders, 
+and that he was fora considerable time separated from 
+his brigade. The Gen'l , however, thinking that a pub 
+lic investigation of this matter set on foot by him, 
+might be attribut'd to motives of personal resentment, 
+suffer'd it to pass over. When Gen'l C. left camp, pre 
+tending that he was determined to return to France, 
+his countrymen discerned his real intentions, and gave 
+him credit for the manoeuvre. 
+</p><p>
+He has weight it seems with a certain party, formed 
+against the present Commander in chief, at the head 
+of which is Gen'l Minim. His own preposterous panegyricks of himself, and the influence of this junto, have 
+probably gained him the extraordinary promotion, 
+which has convulsed the army. His reception at camp 
+was consonant to the Gem" 8 uniform conduct towards 
+him, since the epoch above alluded to ; the complaisance due to his rank was exercised towards him. 
+</p><p>
+What has passed since, you will be properly informed 
+of. His last letter, which is a most insolent attempt 
+at what the French call persiflage, or humouring a man, 
+affects the Gen'l very sensibly. 
+</p><p>
+It is such an affront as Conway would never have dared to offer, if the General's situation had not assured him of the impossibility of its being revenged in a 
+private way. The Gen'l , therefore, has determined to return him no answer at all, but to lay the whole matter before Congress ; they will determine whether Gen'l W. is to be sacrificed to Gen'l C., for the former can never consent to be concerned in any transaction with 
+the latter, from whom he has received such uupadonable insults. My private opinion is, that Conway 
+never meant to act as Inspector Gen'l , or to carry his new grade of major general into the field ; but that his vanity being amply gratified by his exaltation, not only 
+above the brigadiers, but even the major generals, he was desirous of retiring to a more lucrative and less dangerous employment in the service of the states at 
+home. I hope that some virtuous and patriotic men, will form a countermine to blow up the pernicious junto spoken of above. 
+</p><p>
+I have taken the liberty of writing to you my dear father on this subject, in order that you might be more minutely acquainted with it. 
+</p><p>
+I have been obliged to do it in a hurry, and in a small, noisy, crowded room. I have succeeded so far with secrecy, and dare not venture upon a more decent 
+copy. I hope, therefore, that you will excuse my letter, and accept it in its present dress. 
+</p><p>
+I hope it will find you perfectly reliev'd from your old enemy, the gout, and in condition to save America from her most dangerous enemies. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I hope Congress will not lose sight of the office of inspector Gen'l . 
+</p>
+</letter>

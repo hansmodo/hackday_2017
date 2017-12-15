@@ -1,0 +1,27 @@
+<letter id="swk8020">
+<recipient first="Robert" last="Stockton" type="individual"/>
+<p>
+HEAD-QUARTERS, ARMY OF THE WEST,<br> 
+<a href='/results.php?city=los angeles' rel='city origin'>Ciudad De Los Angeles</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+SIR : I am informed that you are now engaged in organizing a civil government and appointing officers for it in this territory. 
+As this duty has been specially assigned to myself, by orders of the President of the United States, conveyed in letters to me from the 
+Secretary of War, of June 3, 8, and 18, 1846, the original of which I gave to you on the 12th, and which you returned to me on 
+the 18th, and copies of which I furnished you with on the 26th December, I have to ask if you have any authority from the 
+President, from the Secretary of the Navy, or from any other channel of the President, to form such government and make such appointments. 
+</p><p>
+If you have such authority, and will show it to me or furnish me with a certified copy of it, I will cheerfully acquiesce in what 
+you are doing. If you have not such authority, I then demand that you cease all further proceedings relating to the formation of 
+a civil government for this territory, as I cannot recognise in you any right in assuming to perform duties confided to me by the President. 
+</p><p>
+Very respectfully, your obedient servant, 
+</p><p>
+S. W. KEARNEY, 
+</p><p>
+Brigadier- General United States Army. 
+</p><p>
+COMMODORE R. F. STOCKTON, 
+</p><p>
+Acting Governor of California. 
+</p><p>
+</letter>

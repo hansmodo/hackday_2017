@@ -1,0 +1,43 @@
+<letter id="sid5031">
+<recipient name="The Committee of Foreign Affairs" type="group"/>
+<p>
+TO THE COMMITTEE OF FOREIGN AFFAIRS. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='10'>10th</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+This will be handed you by M. Francy, who is agent for Messrs Rodrique Hortalez & Co. You will see by the 
+bills of lading, the quantity of stores shipped by that house, and make some judgment of there considerable amount. The vessel, in which Mr. Francy sails, is loaded with 
+stores, which were long since engaged, but by a succession 
+of obstacles have been until this detained. I still hope they 
+will arrive in safety, and in season to be of service. The 
+ship will be offered you to purchase, if she suits you, and if 
+not, it will be equally agreeable to have her returned on 
+the owners' account. I could not say any thing of purchasing a slijp, without knowing more of her than I could 
+know of this ; I have therefore left it to your option to pay 
+the price demanded, or the freight ; the latter is to be what 
+is at this time customary in vessels of such force, which not 
+being precisely fixed, is sulmiitted to M. Chaumont, by the 
+advice and consent of my colleagues ; it will probably be 
+about two hundred and fifty livres per ton of goods to 
+America, and back to France j it will not exceed that. 
+</p><p>
+Messrs Rodrique Hortalez h Co. have other vessels, 
+which will follow this in a short time, which they want to 
+have despatched with tobacco, agreeably to what they formerly wrote you, and M. Francy goes partly on that 
+account ; I must therefore pray you to furnish him with the 
+means of procuring the quantity he will want for them in 
+season. The cargo of the Therese, sent by the way of St 
+Domingo, I hope is by this time arrived ; it was so valuable 
+that it was thought most prudent to send it by that route, as 
+it would run no risk in getting there, whence it might in 
+different bottoms be got into the Continent, without the considerable risk of going direct. As the vessels of Messrs Hortalez h Co. will arrive at a time when despatch will be 
+of the utmost consequence, they are desirous to have their 
+cargoes ready on their arrival. By these vessels I will 
+write you particularly on this subject, and in the meantime, 
+have the honor to be, with the greatest respect, &tc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

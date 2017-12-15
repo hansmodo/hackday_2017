@@ -1,0 +1,100 @@
+<letter id="aba3407">
+<recipient first="Lucy" last="Cranch" type="individual"/><p>
+<a href='/results.php?city=auteuil' rel='city origin'>Auteuil</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1785" rel="origin">1785</a>. 
+</p><p>
+MY DEAR LUCY, 
+</p><p>
+I hope you have before now received my letter, 
+which was ordered on board with Captain Lyde, 
+but put on board another vessel, because it was said 
+she would sail first. By that you will see that I did 
+not wait to receive a letter from you first. I thank 
+you for yours of November 6th, which reached me 
+last evening ; and here I am, seated by your cousin J. Q. A.'s fireside, where, by his invitation, I usually write. 
+</p><p>
+And in the first place, my dear Lucy, shall I find 
+a little fault with you ? A fault, from which neither 
+your good sister, nor cousin Abby, is free. It is 
+that all of you so much neglect your handwriting. 
+I know that a sentiment is equally wise and just, 
+written in a good or bad hand ; but then there 
+is certainly a more pleasing appearance, when the 
+lines are regular, and the letters distinct and well 
+cut. A sensible woman is so, whether she be handsome or ugly ; but who looks not with most pleasure 
+upon the sensible beauty ? " Why, my dear aunt," 
+methinks I hear you say, " only look at your own 
+handwriting." Acknowledged ; I am very sensible 
+of it, and it is from feeling the disadvantages of it 
+myself, that I am the more solicitous that my young 
+acquaintance should excel me, whilst they have 
+leisure, and their fingers are young and flexible. 
+Your cousin, J. Q. A., copied a letter for me the 
+other day, and, upon my word, I thought there was 
+some value in it, from the new appearance it acquired. 
+</p><p>
+I have written several times largely to your sister, 
+and, as I know you participate with her, I have not 
+been so particular in scribbling to every one of the 
+family ; for an imagination must be more inventive 
+than mine, to suppy materials with sufficient variety 
+to afford you all entertainment. Through want of a 
+better subject, I will relate to you a custom of this 
+country. You must know that the religion of this 
+country requires abundance of feasting and fasting, 
+and each person has his particular saint, as well as 
+each calling and occupation. To-morrow is to be 
+celebrated, le jour des rois- The day before this 
+feast it is customary to make a large paste pie, into 
+which one bean is put. Each person at table cuts 
+his slice, and the one who is so lucky as to obtain the 
+bean, is clubbed king or queen. Accordingly, to-day, 
+when I went in to dinner, I found one upon our table. 
+</p><p>
+Your cousin Abby began by taking the first slice ; 
+but alas ! poor girl, no bean, and no queen. In the 
+next place, your cousin John seconded her by taking 
+a larger cut, and as cautious as cousin T when he inspects merchandise, bisected his paste with 
+mathematical circumspection ; but to him it pertained 
+not. By this time, I was ready for my part ; but first 
+I declared that I had no cravings for royalty. I accordingly separated my piece with much firmness, 
+nowise disappointed that it fell not to me. Your 
+uncle, who was all this time picking his chicken bone, 
+saw us divert ourselves without saying any thing ; 
+but presently he seized the remaining half, and to 
+crumbs went the poor paste, cut here and slash there ; 
+when, behold the bean ! " And thus," said he, " are 
+kingdoms obtained ; " but the servant, who stood by 
+and saw the havoc, declared solemnly that he could 
+not retain the title, as the laws decreed it to chance, 
+and not to force. 
+</p><p>
+How is Gene ml Warren's family ? Well, I hope, 
+or I should have heard of it. I am sorry Mrs. Warren 
+is so scrupulous about writing to me. I forwarded a 
+long letter to her some time since. Where is Miss 
+Nancy <a href='/results.php?city=quincy' rel='city'>Quincy</a> ? Well, 1 hope. We often laugh at 
+your cousin John about her. He says her stature 
+would be a great recommendation to him, as he is 
+determined never to marry a tali woman, lest her 
+height should give her a superiority over him. He 
+is generally thought older than your cousin Abby ; 
+and partly, I believe, because his company is with 
+those much older than himself. 
+</p><p>
+As to the Germantown family, my soul is grieved 
+for them. Many are the afflictions of the righteous. 
+Would to Heaven that the clouds would disperse, 
+and give them a brighter day. My best respects to 
+them. Let Mrs. Field know, that Esther is quite 
+recovered, and as gay as a lark. She went to Paris 
+the other day with Pauline, to see a play, which is 
+called " Figaro." It is a piece much celebrated, 
+and has had sixty-eight representations ; and every 
+thing was so new to her, that Pauline says, " Est is 
+crazed." 
+</p><p>
+Affectionately yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

@@ -1,0 +1,38 @@
+<letter id='thj1373'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, November 10, <a href="/results.php?year=1780">1780</a>.
+</p><p>
+Sir,
+</p><p>
+I enclose your Excellency a copy of an intercepted letter from Major
+<a href='/results.php?tla=all' rel=''>General Leslie</a> to Lord Cornwallis. It was taken
+from a person endeavoring to pass through the country from Portsmouth
+towards Carolina. When apprehended, and a proposal made to search him,
+he readily consented to be searched, but, at the same time, was observed
+to put his hand into his pocket and carry something towards his mouth,
+as if it were a quid of tobacco: it was examined, and found to be a
+letter, of which the enclosed is a copy, written on silk paper, rolled
+up in gold-beater's skin, and nicely tied at each end, so as not to be
+larger than a goose quill. As this is the first authentic disclosure of
+their purpose in coming here, and may serve to found, with somewhat more
+of certainty, conjectures respecting their future movements, while their
+disappointment in not meeting with Lord Cornwallis may occasion
+new plans at <a href="/results.php?city=New York" rel="city">New York</a>, I thought it worthy of communication to your
+Excellency.
+</p><p>
+Some deserters were taken yesterday, said to be of the British
+Convention troops, who had found means to get to the enemy at
+Portsmouth, and were seventy or eighty miles on their way back to the
+barracks, when they were taken. They were passing under the guise of
+deserters from Portsmouth.
+</p><p>
+I have the honor to be, with the greatest esteem and respect,
+</p><p>
+your Exellency's most obedient
+</p><p>
+and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

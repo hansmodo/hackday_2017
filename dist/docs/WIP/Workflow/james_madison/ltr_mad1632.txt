@@ -1,0 +1,54 @@
+<letter id='mad1632'>
+<recipient first='Philip' last='Mazzei' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, 10 December, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+Your book, as I prophesied, sells nowhere but in Virginia. 
+A very few copies only have been called for either in <a href="/results.php?city=new york" rel="city">New York</a> 
+or in this city. The language in which it is written will account for it. In order to attract notice, I translated the panegyric in the French Mercure, and had it made part of the advertisement. I did not translate the comment on the Federal 
+Constitution, as you wished, because I could not spare the time, 
+as well as because I did not approve the tendency of it. Some 
+of your remarks prove that Horace's " Ccelum non animum mutant qui trans mare currunt" does not hold without exception. 
+In Europe, the abuses of power continually before your eyes 
+have given a bias to your political reflections which you did 
+not feel in equal degree when you left America, and which you 
+would feel less of if you had remained in America. Philosophers on the old continent, in their zeal against tyranny, would 
+rush into anarchy; as the horrors of superstition drive them 
+into Atheism. Here, perhaps, the inconveniences of relaxed 
+government have reconciled too many to the opposite extreme. 
+If your plan of a single Legislature, as in Pennsylvania, <fcc., 
+were adopted, I sincerely believe that it would prove the most 
+deadly blow ever given to Republicanism. Were I an enemy 
+to that form, I would preach the very doctrines which are 
+preached by the enemies to the government proposed for the 
+United States. Many of our best citizens are disgusted with 
+the injustice, instability, and folly, which characterize the American Administrations. The number has for some time been rapidly increasing. Were the evils to be much longer protracted, 
+the disgust would seize citizens of every description. 
+</p><p>
+It is of infinite importance to the cause of liberty to ascertain 
+the degree of it which will consist with the purposes of society. 
+An error on one side may be as fatal as on the other. Hitherto, 
+the error in the United States has lain in the excess. 
+</p><p>
+All the States except North Carolina and Rhode Island have 
+ratified the proposed Constitution. Seven of them have ap-j, 
+pointed their Senators, of whom those of Virginia, <a href='/results.php?tla=rhl' rel='co-worker'>R. H. Lee</a> 
+and <a href='/results.php?tla=wlg' rel='acquaintance co-worker met'>Col. Grayson</a>, alone are among the opponents of the system. 
+The appointments of Maryland, South Carolina, and Georgia, 
+will pretty certainly be of the same stamp with the majority. 
+The House of Representatives is yet to be chosen everywhere 
+except in Pennsylvania. From the partial returns received, 
+the election will wear a federal aspect, unless the event in one 
+or two particular counties should contradict every calculation. 
+If the eight members from this State be on the side of the Constitution, it will in a manner secure the majority in that branch 
+of the Congress also. The object of the Anti-Federalists is to 
+bring about another general Convention, which would either 
+agree on nothing, as would be agreeable to some, and throw 
+everything into confusion, or expunge from the Constitution 
+parts which are held by its friends to be essential to it. The 
+latter party are willing to gratify their opponents with every 
+supplemental provision for general rights, but insist that this 
+can be better done in the mode provided for amendments. 
+I remain, with great sincerity, your friend and serv.t. 
+</p>
+</letter>

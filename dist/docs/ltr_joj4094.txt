@@ -1,0 +1,62 @@
+<letter id="joj4094">
+<recipient first="" last="Lansdown" type="individual"/>
+<p>
+to lord lansdown, london. 
+</p><p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='16'>16th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+My Lord, 
+</p><p>
+Accept my thanks for the letter you did me the honour 
+to write on the 4th September last, and for your obliging 
+interposition in behalf of the person alluded to in it. 
+</p><p>
+Your lordship's conjectures respecting the new principles 
+of trade and finance will probably be realized. We hear 
+of several circumstances which look and promise well. 
+The extent of those principles, and the system of commerce to be reared on them, are subjects, however, on 
+which no decided judgment can here be formed, for want 
+of information more minute and unquestionable than we at 
+present have. 
+</p><p>
+Various, my lord, are the conjectures of this country respecting the real disposition and intentions of yours on these 
+and some other interesting points. While such doubts and 
+apprehensions exist, a degree of jealousy will naturally continue to operate against mutual confidence. For my part, 
+I sincerely wish to see good-humour prepare the way for 
+friendly intercourse, and by degrees incline both countries 
+rather to promote than retard each other's welfare. It 
+gives me pleasure to reflect that our wishes on this head 
+correspond, and that the time may yet come when your 
+abilities and liberality will produce all the public benefits 
+which may justly he expected from them. Mr. Pitt's 
+views, as to America, are yet to be ascertained : I wish 
+they may be such as to increase the reputation and affection 
+which his father's memory enjoys among us. It strikes me 
+that a minister of any nation, much connected with this, 
+will always find advantage in possessing the esteem and 
+confidence of America. 
+</p><p>
+To what events this country may in future be instrumental, is indeed uncertain ; but I cannot persuade myself 
+that <a href='/results.php?city=providence' rel='city'>Providence</a> has created such a nation, in such a country, to remain like dust in the balance of others. We are 
+happy, my lord, in the enjoyment of much more interior 
+tranquillity than the English newspapers allow, or their 
+writers seem to wish us. In free states, there must and 
+ought to be a little ferment. When the public mind grows 
+languid, and a dead calm, unmarked by the least breeze of 
+party takes place, the vigour of a republic soon becomes 
+lost in general relaxation. We perhaps are yet too distant 
+from that point ; for although our laws and manners now 
+give us as much personal security as can elsewhere be 
+found, and although the same may in a great, though less 
+degree be said of our property, yet our federal government 
+has imperfections, which time and more experience will, I 
+hope, effectually remedy. 
+</p><p>
+I have the honour to be, my lord, with great respect and 
+esteem, your lordship's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,39 @@
+<letter id="arc3200">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I informed you yesterday, that an encampment of the enemy 
+had been discovered at Gilliland's Creek. Last night two of their 
+vessels came up to Crown Point, and this morning there are 
+seven lying at that place. The rest of their fleet is probably but a little lower down, as we hear their morning guns distinctly at 
+different places. They have also debarked some troops, and en 
+camped upon Chimney Point. Whether they have landed at 
+Crown Point, or not, my scout-boat did not discover, not daring 
+to venture far enough down the lake, on account of the shipping; 
+but I have sent out a scout on this side, which, I doubt not, will 
+bring a just account of their situation. 
+</p><p>
+I cannot help repeating to you the disagreeable situation we 
+are in ; nor can I see the least prospect of our being able to defend the post, unless the militia come in. And should the enemy 
+protract their operations, or invest us, and content themselves 
+with a simple blockade, we are infallibly ruined. 
+</p><p>
+I have thoughts of calling for the Berkshire militia, which are 
+nearest to us, and will probably be the most alert to come to our assistance, because they are in some measure covered by this 
+post; but on that I shall consult the other General Officers. This, 
+however, is clear to me, that we shall be obliged to abandon this 
+side, and then they will soon force the other from us; nor do I 
+see that a retreat will in any shape be practicable. Every thing, 
+however, shall be done that is possible to frustrate the enemy's 
+designs. But what can be expected from troops ill armed, naked, 
+and unaccoutred ? I shall write you again as soon as the scout 
+returns ; and am, dear General, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+ARTHUR ST. CLAIR. 
+</p>
+</letter>

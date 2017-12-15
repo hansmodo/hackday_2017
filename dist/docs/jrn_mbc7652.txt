@@ -1,0 +1,62 @@
+<letter id="mbc7652">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='28'>28th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Victory! Victory heads every telegram now ; one reads it on the bulletin-board. It is the anniversary of the battle of Fort Moultrie. The enemy went off so quickly, I wonder if it was not a trap laid for us, to lead 
+us away from Richmond, to some place where they can manage to do us more harm. And now comes the list of 
+killed and wounded. Victory does not seem to soothe sore hearts. Mrs. Haskell has five sons before the enemy's illimitable cannon. Mrs. Preston two. <a href='/results.php?tla=gbm' rel=''>McClellan</a> is routed and we have twelve thousand prisoners. Prisoners ! My God ! 
+and what are we to do with them "I We can't feed our own people. 
+</p><p>
+For the first time since <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> was wounded at Seven Pines, we may breathe freely ; we were so afraid of 
+another general, or a new one. Stonewall can not be everywhere, though he comes near it. 
+</p><p>
+Magruder did splendidly at Big Bethel. It was a wonderful thing how he played his ten thousand before <a href='/results.php?tla=gbm' rel=''>McClellan</a> like fireflies and utterly deluded him. It was partly due to the Manassas scare that we gave them; they will 
+never be foolhardy again. Now we are throwing up our caps for <a href='/results.php?tla=rel' rel='acquaintance met'>R. E. Lee</a>. We hope from the Lees what the first 
+sprightly running (at Manassas) could not give. We do hope there will be no "if's." "If's" have ruined us. Shiloh was a victory if Albert Sidney Johnston had not been 
+killed ; Seven Pines if <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> had not been wounded. The " ifs " bristle like porcupines. That victory at Manassas did nothing but send us off in a fool's paradise of conceit, and it roused the manhood of the Northern people. 
+For very shame they had to move up. 
+</p><p>
+A French man-of-war lies at the wharf at Charleston to take off French subjects when the bombardment begins. 
+William Mazyck writes that the enemy's gunboats are shelling and burning property up and down the Santee 
+River. They raise the white flag and the negroes rush down on them. Planters might as well have let these 
+negroes be taken by the Council to work on the fortifications. A letter from my husband : 
+</p><p>
+RICHMOND, June 29, 1862. 
+</p><p>
+MY DEAR MARY : 
+</p><p>
+For the last three days I have been a witness of the most stirring events of modern times. On my arrival here, 
+I found the government so absorbed in the great battle pending, that I found it useless to talk of the special business that brought me to this place. As soon as it is over, which will probably be to-morrow, I think that I can easily 
+accomplish all that I was sent for. I have no doubt that we can procure another general and more forces, etc. 
+</p><p>
+The President and <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> are inclined to listen to me, and to do all they can for us. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> is vindicating the high opinion I have ever expressed of him, and his plans and executions of the last great fight will place him 
+high in the roll of really great commanders. 
+</p><p>
+The fight on Friday was the largest and fiercest of the whole war. Some 60,000 or 70,000, with great preponderance on the side of the enemy. Ground, numbers, armament, etc., were all in favor of the enemy. But our men and 
+generals were superior. The higher officers and men be haved with a resolution and dashing heroism that have 
+never been surpassed in any country or in any age. 
+</p><p>
+Our line was three times repulsed by superior numbers 
+and superior artillery impregnably posted. Then <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a>, assembling all his generals to the front, told them that victory 
+depended on carrying the batteries and defeating the army before them, ere night should fall. Should night come 
+without victory all was lost, and the work must be done by 
+the bayonet. Our men then made a rapid and irresistible 
+charge, without powder, and carried everything. The enemy melted before them, and ran with the utmost speed, 
+though of the regulars of the Federal army. The fight between the artillery of the opposing forces was terrific and 
+sublime. The field became one dense cloud of smoke, so that nothing could be seen, but the incessant flash of fire. 
+They were within sixteen hundred yards of each other and 
+it rained storms of grape and canister. We took twenty-three pieces of their artillery, many small arms, and small 
+ammunition. They burned most of their stores, wagons, etc. The victory of the second day was full and complete. 
+Yesterday there was little or no fighting, but some splendid maneuvering, which has placed us completely around them. 
+I think the end must be decisive in our favor. We have lost many men and many officers ; I hear Alex Haskell and 
+young McMahan are among them, as well as a son of Dr. Trezevant. Very sad, indeed. We are fighting again to 
+day ; will let you know the result as soon as possible. Will be at home some time next week. No letter from you yet. 
+With devotion, yours, 
+</p><p>
+JAMES CHESNUT. 
+</p><p>
+A telegram from my husband of June 29th from Richmond: " Was on the field, saw it all. Things satisfying 
+so far. Can hear nothing of John Chesnut. He is in <a href='/results.php?tla=jes' rel=''>Stuart's</a> command. Saw Jack Preston; safe so far. No 
+reason why we should not bag <a href='/results.php?tla=gbm' rel=''>McClellan's</a> army or cut it to pieces. From four to six thousand prisoners already." 
+Doctor Gibbes rushed in like a whirlwind to say we were driving <a href='/results.php?tla=gbm' rel=''>McClellan</a> into the river. 
+</p>
+</letter>

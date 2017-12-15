@@ -1,0 +1,16 @@
+<letter id="mbc7764">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='19'>19th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. The Fants say all the trouble at the hotel came from our servants bragging. They represented 
+us as millionaires, and the Middleton men servants smoked cigars. Mrs. Reed's averred that he had never done any 
+thing in his life but stand behind his master at table with a silver waiter in his hand. We were charged accordingly, 
+but perhaps the landlady did not get the best of us after all, for we paid her in Confederate money. Now that they 
+won't take Confederate money in the shops here how are we to live? Miss Middleton says quartermasters families 
+are all clad in good gray cloth, but the soldiers go naked. Well, we are like the families of whom the novels always say 
+they are poor but honest. Poor? Well-nigh beggars are we, for I do not know where my next meal is to come from. 
+</p><p>
+Called on Mrs. Ben Rutledge to-day. She is lovely, exquisitely refined. Her mother, Mrs. Middleton, came in. 
+" You are not looking well, dear ? Anything the matter ? No but, mamma, I have not eaten a mouthful to-day. 
+The children can eat mush; I can't. I drank my tea, how ever. She does not understand taking favors, and, blushing violently, refused to let me have Ellen make her some biscuit. I went home and sent her some biscuit all the same. 
+</p>
+</letter>

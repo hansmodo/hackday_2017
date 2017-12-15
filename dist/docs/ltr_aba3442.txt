@@ -1,0 +1,65 @@
+<letter id="aba3442">
+<recipient first="Abigail" last="Smith" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1794" rel="origin">1794</a>. 
+</p><p>
+MY DEAR CHILD, 
+</p><p>
+I received your kind letter of February 12th, as 
+well as one, by Mr. Storer, of February 2d. I have 
+been every day since thinking that I would write to 
+you, but a superior duty has occupied all my time 
+for six weeks past. I have been only two davs 
+(when I was too sick to attend) absent from the 
+sick bed of your grandmother. Your desire, that 
+her last days might be rendered as comfortable as it 
+is possible to make them, has been fulfilled. There 
+has been no attention on my part, nor any comfort 
+in my power to render her, that she has one moment 
+wanted. She had spent a day with me the week 
+she was taken sick. A severe storm had prevented 
+me from hearing from her for a couple of days. I 
+then learnt that she had a violent cold, as it was 
+supposed. I went immediately to see her, and 
+found her sick with a lung fever. Her granddaughters have been affectionate, tender, and watchful of her, but she has lived all the days of her appointed time, and is now ready to depart. Her 
+senses are bright and quick, her hearing better than 
+for years past. Upon looking back she has no regrets ; upon looking forward she has all hope and 
+comfort. Her hourly wish is to be at rest. She 
+took her leave of me this evening, with her blessing 
+upon me and mine to the latest posterity. I told her 
+to-day that you desired to be remembered to her. 
+She asked me if I thought there was any thing, 
+which she had, that you would accept of. 1 answered, that what she had I thought her granddaughters, 
+who were with her, deserved, and that I was sure 
+you would value her blessing more than any thing 
+else. " Well," she replied, " I pray God to bless 
+her and her children ; and tell all who belong to me 
+to consider, that a virtuous and a religious life is the 
+only solid comfort upon a death-bed." She has 
+mourned much, since her sickness, that she should 
+never see your father again ; but she now seems 
+reconciled to the thought of her approaching dissolution, which cannot be far distant. She has no rest, 
+night nor day, her cough is so constant and troublesome ; and she can take scarcely any nourishment. 
+If she had reached the 17th of this month, she would 
+have been eighty-five years old. I can say with Pope 
+upon a similar occasion, " that my constant attendance upon her has indeed affected my mind very 
+much, and lessened my desire of long life, since the 
+best that can come of it is a miserable benediction." 
+" Nothing," says Seneca, " is so melancholy a circumstance in human life, or so soon reconciles us to 
+the thought of our own death, as the reflection and 
+prospect of one friend after another dropping around 
+us. Who would stand alone, the sole remaining 
+ruin, the last tottering column of all the fabric of 
+friendship, seemingly so strong, once so large, and 
+yet so suddenly sunk and buried ? " 
+</p><p>
+Present me kindly to all my friends. In some 
+future letter I may notice several things in yours ; 
+but my mind is too much solemnized by the scene 
+before me to add any thing more, than that I am 
+</p><p>
+Your affectionate mother, 
+</p><p>
+A. Adams. 
+</p>
+</letter>

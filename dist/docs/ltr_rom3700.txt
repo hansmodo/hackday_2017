@@ -1,0 +1,68 @@
+<letter id="rom3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have been honored with your very kind and 
+obliging letter of the 4th instant and should sooner 
+have replied, but I am kept here in a kind of suspense by the very slow manner of proceeding in the 
+Assembly of this State. I am Financier electa, but 
+that is all; for had I taken the oath and my commission, my seat in the Assembly must have been 
+vacated. And I think it of the utmost consequence 
+to preserve my right of appearing there, until the 
+tender and penal laws are totally repealed ; for I 
+consider those laws as destructive of all credit, even 
+amongst private people in dealings with one another. 
+But to the public officers, after the experience we 
+have had, it is evident that the existence of such 
+laws much longer, must totally preclude them from 
+every possibility of credit; and in our circumstances 
+the war cannot be carried on without it. I have already made such an impression on this siihject, that 
+I feel pretty sure those laws will be repealed in this 
+State within these few days ; and I expect the other 
+Legislatures will readily follow the example. 
+</p><p>
+I am also pressing our Assembly to levy effective 
+taxes in hard money. There are stronger objections 
+made to this than the other measure, and they are 
+more pertinaciously insisted on. But still they will, 
+either wholly or partially, come into this also; and if 
+once the ice is broken, they will see such advantages 
+flowing from these foundations, as will readily induce 
+them to follow up the plans that evidently prove, in 
+the operation, how beneficial they are to the country. 
+</p><p>
+Insuperable obstacles have hitherto prevented me 
+from bending my course towards your camp, and it 
+seems yet uncertain when it may be in my power ; 
+for although I stipulated with Congress that they 
+should not rest any part of the present campaign on 
+me, yet they cannot refrain, and already much of 
+my time and attention is engaged in that way. 
+Not having taken any commission, prevents me from 
+calling on the several departments for such returns 
+as I should choose to have with me when I wait on 
+your Excellency ; for my objects are to reduce our 
+public expenditures as nearly as possible to what 
+they ought to be, and to obtain revenues in our own 
+country, to meet those expenses as nearly as can be; 
+and then to show foreign nations, engaged in the 
+war, that we must look to them for the balance. 
+And I am very confident, when they shall see exertions on one hand, and economy on the other, they 
+will be willing to assist us all they consistently can. 
+The promise you so cheerfully make, of granting all 
+the support in your power, increases my own confidence, and I will, before long, engage in the duties 
+of my department, with all the energy I am master 
+of; that is, provided these tender and penal laws 
+are done away. I have the pleasure to hear, that 
+Mr Lowry has sent one thousand barrels of flour 
+to camp. From <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, I have not yet 
+heard. I have the honor to be. 
+</p><p>
+Your Excellency's most devoted, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">Robert Morris</a>. 
+</p>
+</letter>

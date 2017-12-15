@@ -1,0 +1,70 @@
+<letter id="nag3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's favor of the 24th I had the 
+honor of receiving last evening. I dined yesterday 
+with the Minister of France, and find him still determined to set out for camp to-morrow. He sets out 
+at seven in the morning, and intends lodging at 
+<a href='/results.php?city=trenton' rel='city'>Trenton</a>. On Wednesday, he will be in camp, if no 
+accident attends him ; but at what hour, cannot be 
+ascertained, as the place he dines at is not yet determined on. I intend to wait upon him some time 
+this morning, and learn more particularly his stages. 
+Don Juan accompanies him. 
+</p><p>
+I thank your Excellency for your generous and 
+obliging offer. Most certain, my inclination leads me 
+to a resignation. My reputation I value more than 
+any advantages of gain ; and I consider it in great 
+danger. I wrote your Excellency lengthy upon this 
+subject yesterday, and therefore shall say but little 
+upon it to-day. I intend to write to Congress to 
+day, upon the subject of my apprehensions and determination ; and, if they do not give me those kinds 
+of assurances, which are necessary to guard my reputation from malice and detraction. I shall insist 
+upon leaving the business. The politics of Congress 
+are really alarming, and the state of the finances 
+astonishing ; where they will end, time only can unfold. 
+</p><p>
+Mr. Holker made many inquiries yesterday, respecting the temper and disposition of our army. He 
+seemed desirous to know, whether peace, upon a plan of independence agreeable to the state of the alliance, would be satisfactory ; the fishery to be con 
+fined to the limits of the States. This would well nigh ruin the Eastern States. Upon the whole, I 
+think there have been some overtures made upon the 
+subject of peace. It is said Russia on the part of 
+England, and Spain on the part of France, are to 
+stand mediators. This is merely conjectural. Mr. 
+Jay says the Congress have no official propositions 
+of peace ; but I believe it is beyond a doubt there 
+have been debates upon the subject for several days 
+past, particularly with regard to the fishery. 
+</p><p>
+I spent last evening with Governor Reed. I took 
+occasion to hint that <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> was to command the western expedition. lie took the alarm at 
+once, and insisted he had no hopes of success, if he 
+was to direct the operations. So deep are the prejudices of human nature. I had several hours conversation with him; and, I believe, satisfied him, as 
+far as is possible, that the appointment was the result of the maturest deliberation. We were in private. 
+</p><p>
+If I leave the Quarter-master's department, I should 
+be glad of the South Carolina appointment. How 
+ever, I shall wish to consult your Excellency upon 
+the affair. 
+</p><p>
+We have an agreeable piece of intelligence from 
+the eastward ; which is, that Colonel Campbell and 
+thirty or forty officers, and six or eight sail of transports, bound to Europe, were taken lately, by a couple of our frigates, and carried into <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+</p><p>
+I had letters, last night, from South Carolina, 
+which indicate a great disgust between the State 
+and the Congress. They think themselves neglected. 
+There is a large number of public vessels now on 
+pay in the harbour, loaded with rice, which want to 
+sail ; but the State is so much soured, that they will 
+not grant exclusive privileges to the Continental vessels from the embargo. The express is waiting ; I 
+can only add, that I am, with esteem and affection, 
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

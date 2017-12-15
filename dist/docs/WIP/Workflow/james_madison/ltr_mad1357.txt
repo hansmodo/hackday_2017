@@ -1,0 +1,38 @@
+<letter id='mad1357'>
+<recipient first='' last='Murray' type='individual'/>
+<p>
+TO MR. MURRAY. 
+</p><p>
+<a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, January, 18, <a href="/results.php?year=1797">1797</a>.- 
+</p><p>
+DEAR SIR, <a href='/results.php?tla=gem' rel='co-worker met'>Mr. Mason</a> and myself 
+lately received your packets of <a href="/results.php?city=london" rel="city">London</a> papers by the " Alexander Hamilton," which 
+were very acceptable, as they brought us 
+the earliest accounts of some of the important articles contained in them. I send 
+in return several packets by Captain Joseph Prince, who is to sail from <a href="/results.php?city=new york" rel="city">New York</a>, 
+and to whom I cannot conveniently transmit anything of a more bulky nature. 
+Captain Prince is a brother-in-law of Mr. Beckley, clerk of the House of Representatives, and formerly known to you in Virginia. He will be very sensible to any 
+kindness it may be in your power to show his friend ; and they will have a proper claim on his acknowledgments also. 
+</p><p>
+This country is extremely agitated by pecuniary distresses, and the mercantile 
+troubles which begin to thicken. The unfortunate Treaty intended to appease the 
+nation is bringing us into trouble with several. You will see that the House of 
+Representatives is engaged on the question of a direct tax. The result is a problem not yet to be solved. It is expected 
+that the Executive will communicate in a few days a full statement of the controversy with France. 
+</p><p>
+After a warm contest for the succession 
+to <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, the vacancy will be filled by <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>. He has seventy-one votes, and <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a> only sixty-eight. The division would be more, but 
+for the failure of one of the returns from 
+a county in this State in time to be counted, and other casualties in other States 
+had a share in favoring <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>. <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a>, it is now well known, will serve in the secondary place allotted to him. 
+</p><p>
+This being the last session of Congress of which I shall be a member, I must, at 
+the same time that I return you thanks for all your past favors, request that your 
+future ones be addressed to Orange County, Virginia, and that they may not be sent on the calculation that I shall get them free of postage. 
+</p><p>
+With great esteem, I am, dear sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=mad" rel="me">JAMES MADISON</a>, JR. 
+</p></letter>

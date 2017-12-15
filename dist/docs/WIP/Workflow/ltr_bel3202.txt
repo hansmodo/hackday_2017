@@ -1,0 +1,37 @@
+<letter id="bel3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=worster' rel='city origin'>Worster</a>, <a rel="day origin" value="1">1</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I was honored with your kind favor of the 7th 
+ultimo, on the 19th, accompanying your valuable present, the epaulettes and sword-knot. You will permit me to return my most cordial thanks for them, 
+and to assure your Excellency that this testimony of 
+your approbation of my conduct fills me with the 
+highest sentiments of duty and affection, will always 
+be remembered with the warmest gratitude, and ranked among the first honors which have been conferred 
+upon me in life. I must have been insensible, in 
+deed, not to have felt this honorary, and very particular mark of respect ; blind, not to have discerned 
+the candor and friendship with which I have been 
+treated, from my first being honored with a command 
+under your Excellency; criminally inattentive, not to 
+have noticed the concern you have expressed for my 
+safety and perfect recovery ; and must ever be unhappy in reflection, should I not pay you that tribute of love and esteem which justice and gratitude indispensably demand. 
+</p><p>
+My leg hath acquired such degree of strength, that 
+I can bear considerable weight on it. There have 
+been lately several exfoliations the openings are now 
+small; the limb is free from pain and inflammation, and 
+puts on a better appearance than it hath ever before. 
+</p><p>
+By the advice of my surgeons, for the sake of a 
+ride, I came to this town, the week before the last, 
+with Mrs. Lincoln. She was immediately taken with 
+the smallpox, in the natural way, and now lies very 
+ill. I am, my dear General, with regard and esteem. 
+Your obliged, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bel" rel="me">BENJAMIN LINCOLN</a>. 
+</p>
+</letter>

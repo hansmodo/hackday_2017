@@ -1,0 +1,12 @@
+<letter id="mbc7766">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. I want to get to Kate, I am so utterly heart-broken. I hope John Chesnut and General Chesnut 
+may at least get into the same army. We seem scattered over the face of the earth. Isabella sits there calmly reading. I have quieted down after the day's rampage. May our heavenly Father look down on us and have pity. 
+</p><p>
+They say I was the last refugee from Columbia who was allowed to enter by the door of the cars. The government 
+took possession then and women could only be smuggled in by the windows. Stout ones stuck and had to be pushed, 
+pulled, and hauled in by main force. Dear Mrs. Izard, with all her dignity, was subjected to this rough treatment. 
+She was found almost too much for the size of the car windows. 
+</p>
+</letter>

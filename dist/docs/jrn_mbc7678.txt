@@ -1,0 +1,11 @@
+<letter id="mbc7678">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='9'>9th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1863' rel="origin">1863</a>]. Come here, Mrs. Chesnut, said Mary Preston to-day, " they are lifting <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a> out of his 
+carriage, here, at your door." Mrs. Grundy promptly had him borne into her drawing-room, which was on the first 
+floor. Mary Preston and I ran down and greeted him as cheerfully and as cordially as if nothing had happened 
+since we saw him standing before us a year ago. How he was waited upon ! Some cut-up oranges were brought him. 
+" How kind people are," said he. " Not once since I was wounded have I ever been left without fruit, hard as it is 
+to get now." " The money value of friendship is easily counted now," said some one, " oranges are five dollars apiece. 
+</p>
+</letter>

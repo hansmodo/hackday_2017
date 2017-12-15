@@ -1,0 +1,21 @@
+<letter id="mbc7691">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. What a day the Kentuckians have had ! Mrs. Webb gave them a breakfast; from there they proceeded en masse to General Lawton's dinner, and then came straight hero, all of which seems equal to one of Stonewall's 
+forced marches. General Lawton took me in to supper. In spite of his dinner he had misgivings. " My heart is 
+heavy/ said he, " even here. All seems too light, too careless, for such terrible times. It seems out of place here in 
+battle-scarred Richmond." " I have heard something of that kind at home," I replied. " Hope and fear are both 
+gone, and it is distraction or death with us. I do not see how sadness and despondency would help us. If it would 
+do any good, we would be sad enough. 
+</p><p>
+We laughed at <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a>. General Lawton thought him better fitted for gallantry on the battle-field than playing a lute in my lady's chamber. When Miss Giles was electrifying the audience as the Fair Penitent, some one said : 
+" Oh, that is so pretty! " <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> cried out with stern reproachf ulness : "That is not pretty ; it is elegant". 
+</p><p>
+Not only had my house been rifled for theatrical proper ties, but as the play went on they came for my black velvet 
+cloak. When it was over, I thought I should never get away, my cloak was so hard to find. But it gave me an 
+opportunity to witness many things behind the scenes that cloak hunt did. Behind the scenes! I know a little what that means now. 
+</p><p>
+<a href='/results.php?tla=jes' rel=''>General Jeb Stuart</a> was at Mrs. Randolph's in his cavalry jacket and high boots. He was devoted to Hetty Gary. 
+Constance Gary said to me, pointing to his stars, " Hetty likes them that way, you know gilt-edged and with stars. 
+</p>
+</letter>

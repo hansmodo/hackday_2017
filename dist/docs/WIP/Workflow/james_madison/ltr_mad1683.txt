@@ -1,0 +1,20 @@
+<letter id='mad1683'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, June 17, <a href="/results.php?year=1790">1790</a>. 
+</p><p>
+DEAR SIR, You will find in the inclosed papers some account 
+of the proceedings on the question relating to the seat of Government. The Senate have hung up the vote for <a href="/results.php?city=baltimore" rel="city">Baltimore</a>, 
+which, as you may suppose, could not have been serv.usly meant 
+by many who joined in it. It is not improbable that the permanent seat may be coupled with the temporary one. The Potowmac stands a bad chance, and yet it is not impossible that 
+in the vicissitudes of the business it may turn up in some form 
+or other. 
+</p><p>
+The assumption still hangs over us. The negative of the 
+measure has benumbed the whole revenue business. I suspect 
+that it will yet be unavoidable to admit the evil in some qualified shape. The funding bill is before the Senate, who are making very free with the plan of the Secretary. A committee of 
+that body have reported that the alternatives be struck out, the 
+interest reduced absolutely to 4 per cent., and, as I am informed, 
+the indents be not included in the provision for the principal. 
+</p>
+</letter>

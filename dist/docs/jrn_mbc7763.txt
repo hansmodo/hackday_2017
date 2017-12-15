@@ -1,0 +1,21 @@
+<letter id="mbc7763">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Here I am, thank God, settled at the McLean's, in a clean, comfortable room, airy and cozy. 
+With a grateful heart I stir up my own bright wood fire. My bill for four days at this splendid hotel here was $240, 
+with $25 additional for fire. But once more my lines have fallen in pleasant places. 
+</p><p>
+As we came up on the train from Charlotte a soldier took out of his pocket a filthy rag. If it had lain in the gutter 
+for months it could not have looked worse. He unwrapped the thing carefully and took out two biscuits of the species 
+known as hard tack. Then he gallantly handed me one, and with an ingratiating smile asked me "to take some." 
+Then he explained, saying, " Please take these two; swap with me ; give me something softer that I can eat ; I am very 
+weak still." Immediately, for his benefit, my basket of luncheon was emptied, but as for his biscuit, I would not 
+choose any. Isabella asked, "But what did you say to him when he poked them under your nose ?" and I replied, I 
+held up both hands, saying, "I would not take from you anything that is yours far from it ! I would not touch 
+them for worlds."
+</p><p>
+A tremendous day's work and I helped with a will ; our window glass was all to be washed. Then the brass andirons were to be polished. After we rubbed them bright how pretty they were. 
+</p><p>
+Presently Ellen would have none of me. She was scrubbing the floor. " You go dat's a good missis an stay to Miss Isabella's till de flo dry. I am very docile now, and I obeyed orders. 
+</p>
+</letter>

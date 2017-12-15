@@ -1,0 +1,24 @@
+<letter id="alh3416">
+<recipient first="Elizabeth" last="Schuyler" type="individual"/>
+<p>
+[Hamilton, who had proceeded to <a href='/results.php?city=albany' rel='city'>Albany</a>, after his return 
+from Newport, anxious to take part in the interesting operations which were about to occur, finding his application 
+for a command unattended to, determined to bring the question to a definitive issue. The following extract from a letter written to Mrs. Hamilton, gives the course of this affair, ]
+</p><p>
+Camp, near <a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs' Ferry</a>, <a rel="month origin" value="7">July</a> <a rel="day origin" value="10">10th</a>, <a href="/results.php?year=1781" rel="origin">1781</a>. 
+</p><p>
+The day before yesterday I arrived here, but for want 
+of an opportunity could not write any sooner ; indeed, I 
+know of none now. Finding, when I came here, that nothing was said on the subject of a command, I wrote the 
+General a letter, and enclosed him my commission. This 
+morning Tilghman came to me in his name, pressed me to 
+retain my commission, with an assurance that he would endeavour, by all means, to give me a command, nearly such 
+as I could have desired in the present circumstances of the 
+army. Though I know you would be happy to hear I had 
+rejected this proposal, it is a pleasure my reputation would 
+not permit me to afford you. I consented to retain my 
+commission, and accept the command. I quarter, at present, 
+by a very polite and warm invitation, with <a href='/results.php?tla=bel' rel='colleague met'>General Lincoln</a>, 
+and experience from the officers of both armies every mark of esteem." 
+</p>
+</letter>

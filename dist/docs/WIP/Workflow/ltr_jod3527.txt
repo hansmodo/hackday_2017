@@ -1,0 +1,37 @@
+<letter id="jod3527">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="27">27</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+THE weather continuing fine, I went to Saint Denis, 
+a little village about eight miles from this place, 
+where are the tombs of all the kings and queens. 
+The statues of all lie in state in marble. The church 
+is called the royal Church of Saint Denis, is magnificent, and there is an apartment in a chamber, where 
+the crowns and many other curiosities are preserved. 
+It is curious to see such a collection of gold, ivory 
+and precious stones ; as there is every species, I sup 
+pose, that is mentioned in the Revelation. The diamonds and rubbies glitter. But I confess I have so 
+much of the savage sachem in me, that these things 
+make no great impression upon me. There are several little crucifixes here, which the ecclesiastic, who 
+showed them, told us, were made of bits of the true 
+cross. This may be, for any thing that I know. 
+</p><p>
+In my return, I took a circuit round by Montmartre, 
+and dined at home with the Dr., who has a fit of the 
+gout, but is getting better. 
+</p><p>
+The situation in which my masters have left me 
+puzzles me very much. They have said nothing to 
+me. But one set of gentlemen write that I am to go 
+to Spain, another to Holland, a third to Vienna ; but, 
+upon the whole, I believe they don t intend to send 
+me to either, but leave me to stay here in a ridiculous 
+situation, or return home if I can get there. I shall 
+return unless I should receive, before the time arrives 
+for the vessel to sail, orders which I can execute with 
+honor, and with a prospect of rendering some service 
+to the public. But of these two last points, I will 
+judge for myself. 
+</p>
+</letter>

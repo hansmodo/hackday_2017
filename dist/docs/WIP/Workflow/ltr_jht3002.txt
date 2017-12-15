@@ -1,0 +1,38 @@
+<letter id="jht3002">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+By the resolve in Congress of the 19th instant, it 
+is recommended to the New England Colonies to complete the deficiencies in the -regiments belonging to 
+them respectively. I have not been informed of any deficiency in the number of troops sent from Connecticut, It is recommended also to this Colony to complete and send for 
+ward to the camp before <a href='/results.php?city=boston' rel='city'>Boston</a>, as soon as possible, the fourteen hundred men lately voted by our Assembly. 
+The 25th instant I sent orders to the Colonels of the last raised regiments to march forthwith to the camp 
+before <a href='/results.php?city=boston' rel='city'>Boston</a>, by subdivisions, if all were not in readiness. I. expect many of the companies will begin 
+their march this day, and that the whole will move forward very soon. 
+</p><p>
+The Honorable <a href='/results.php?tla=joh' rel='colleague'>President Hancock</a>, in his favor of 
+the 22d instant, informs that you had recommended, 
+and the Congress have appointed, Mr. Joseph Trumbull 
+Commissary-General of the American Army. I am also 
+informed that you have taken Mr. John Trumbull into 
+your service and family. These instances of kindness 
+shown them justly claim my most grateful acknowledgments. A performance of their duty, answerable to 
+your expectation, will meet your approbation and 
+continuance of regard, and afford me peculiar satis 
+faction and pleasure. 
+</p><p>
+The Rose, Swan, and Kingfisher, ships of war, with a 
+small tender, the 26th instant came into the harbour at 
+New London. On the 27th some men landed near the 
+light-house, broke off the nuts, and plugged up with old 
+files three or four cannon. They sailed out again on 
+Friday last. It is reported Mr. Collector Stuart is packing  up his effects, in order to leave that port, I am, 
+with great truth and regard, your Excellency's 
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

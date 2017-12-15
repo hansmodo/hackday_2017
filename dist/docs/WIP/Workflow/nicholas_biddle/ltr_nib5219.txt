@@ -1,0 +1,14 @@
+<letter id="nib5219">
+<recipient first="Campbell" last="White" type="individual"/>
+<p>
+Bank of the United States 
+</p><p>
+<a rel="month origin" value="11">Nov'r</a>. <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1827' rel="origin">1827</a> 
+</p><p>
+Dear Sir 
+</p><p>
+... I thank you for the suggestion in regard to the 
+political character of the Board These are considerations which tho secondary are not to be overlooked and while I 
+would not go out of the way to seek for that object among persons entirely equal in other respects, it would due weight. 
+</p>
+</letter>

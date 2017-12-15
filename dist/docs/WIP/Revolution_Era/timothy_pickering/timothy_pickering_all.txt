@@ -1,0 +1,1349 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.QC3nUo on line 309
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.QC3nUo on line 309
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4950
+--LETTER-TLA--tip
+--DOC-AUTHOR-FIRST--Timothy
+--DOC-AUTHOR-LAST--Pickering
+--DOC-SOURCE--The Life Timothy Pickering. by His Son, Octavius Pickering. Volume I. 1867
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+</p><p>
+<letter id="tip4950">
+<recipient first="Timothy" last="Pickering" type="individual"/>
+<p>
+HONOURED SIR : It is the common opinion of people 
+that to play a game at cards is (almost) an unpardonable 
+crime. But what renders it more odious than other diver 
+sions ? Is it because more time is spent in it than in other 
+diversions ? But why is more time spent ? Because this is 
+a pleasanter and more sociable entertainment. And what 
+makes it so entertaining in general is, that less pains and 
+care need be used than in some other diversions ; whereas 
+in playing checkers, instead of unbending the mind, after 
+its labour, there is more thought and care to be used, and 
+so can be no relief to the tired intellect. Besides, it is 
+a dull, unsociable business ; and a stranger would rather 
+think they were exercised with a fit of the spleen, than 
+a diversion, to see them poring upon a piece of board, 
+and looking with as much intenseness of thought as if 
+the fate of empires depended upon the right forming 
+their plan. 
+</p><p>
+People are apt to say that cards, as it were, intoxicate 
+those that use them, and that thereby they squander away 
+their money ; that they are a thief of time ; are apt to raise 
+disputes, &c. But what one thing is there which may not 
+be used to excess? Are not other diversions subject to 
+the same evils, if practised beyond measure and prudence? 
+Why then so great an outcry against cards, as if they were 
+the only evil? Even the diversion of checkers may be 
+abused ; and may persons game and spend their time and 
+money at one, so may they at the other. 
+</p><p>
+I would not forget to acquaint you, Sir, that you were 
+misinformed with regard to my playing cards ; and am sorry 
+I have been the cause (through the ignorance of that block 
+head) of any trouble or uneasiness in the breast of so kind, 
+so loving a father, from whom any gentle admonitions, 
+reproofs, or advice would be received with that respect 
+and regard due to so affectionate a father by your dutiful son, 
+</p><p>
+TIMO. PICKERING. 
+</p><p>
+H. C. [<a href='/results.php?city=harvard college' rel='city origin'>HARVARD COLLEGE</a>], <a rel="month origin" value="2">February</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1763' rel="origin">1763</a>.  
+</p>
+</letter><letter id="tip4951">
+<recipient first="Andrew" last="Oliver" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='8'>8th</a>, <a href='/results.php?year=1772' rel="origin">1772</a>.  
+</p><p>
+SIR : 
+</p><p>
+An application so late as this will not, I hope, be 
+deemed to arise from a want of respect, or be productive of any disadvantage to me ; nor an address in writing 
+thought less decent than a personal one. The latter I have 
+sometimes supposed most proper, but several reasons determined me to make the former. In that way I can deliver 
+my sentiments more clearly; and (if they merit consideration) they may be considered more calmly and deliberately. 
+Besides, the request may be granted or denied with more 
+ease both to the petitioner and the judge ; for to a benevolent mind it must give pain to refuse even what ought to be 
+refused; and a man of liberal and generous sentiments 
+would choose rather that his justice or his bounty should be 
+manifested in his actions, than in the warmest professions 
+of favor or friendship. 
+</p><p>
+You must, Sir, ere now apprehend the design of this 
+letter, if you have never heard that I am desirous of being 
+appointed joint Clerk with Mr. Bowditch. This, I find, 
+would be agreeable to him, and, if I had his leave, would 
+urge it as an argument in my favor. I am sensible, Sir, 
+there are other candidates for the office, who have doubtless 
+severally importuned your favor in their behalf. But permit me, Sir, to say, that I know but one case in which favor 
+can properly take place : that is, where there are two or 
+more candidates of exactly similar pretensions, whose qualifications and circumstances are in nothing different. In any 
+other case, to ask the office as a matter of favor I should 
+think was paying but an ill compliment to the person 
+requested to grant it ; for it must impeach either his 
+understanding or his justice. The power of conferring this 
+office, I take it, is vested in the Judges, not to give them 
+an opportunity of gratifying a friend or favorite, but that 
+they should place it in such hands as are most likely to do 
+the public the best service, by an exact and diligent performance of the duties of it. 
+</p><p>
+Can you forgive this freedom, Sir? I own it is a style 
+unusual from the mouth of a petitioner. But should I 
+address an honest man of delicate sentiments with fawning 
+adulation and servile importunity ? Or should I be thought 
+vain, were I to confess myself incapable of using such contemptible means of supplying my wants? Good Sir, after 
+your voluntary, disinterested interposition in my favor in 
+a military concern, (for which I sincerely honor and thank 
+you,) I should esteem it a gross affront with servile sub 
+mission to sue to you for the office as a matter of favor, 
+except in the case before mentioned. Here, therefore, both 
+for your honor and my own, I choose to rest the matter; 
+and with your determination, be it for or against me, I shall 
+remain satisfied. I request the office merely to procure me 
+a living, not to add to thousands already in possession. In 
+my present situation, I must own, I have enough ; but 
+without more I shall for ever be excluded from the dearest 
+connection in life. Excuse, I pray you, this liberty; and 
+believe me to be, with sincere respect, your most obedient 
+</p><p>
+servant. 
+</p><p>
+TIMOTHY PICKERING, JUN.
+</p>
+</letter><letter id="tip4952">
+<recipient first="James" last="Latham" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1774' rel="origin">1774</a> , Morning. 
+</p><p>
+To DR. JAMES LATHAM, at Salem Hospital.
+</p><p>
+SIR : I have just received your letter, dated at Salem 
+Hospital, the 19th instant, in which you request me to meet 
+you, to-day, at Mr. Goodhue's tavern. I am ignorant of 
+any business you can have there to transact with me. 
+When you have informed me of your design in making
+this request, I shall be able to give you a further answer. 
+At present, I can only assure you that 
+I am, Sir, 
+</p><p>
+TIMOTHY PICKERING, JR. 
+</p>
+</letter><letter id="tip4953">
+<recipient first="Paine" last="Wingate" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="8">August</a> the <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1774' rel="origin">1774</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+It will he agreeable to you to have an authentic account 
+of the recent transactions in this town. 
+Last Saturday notifications were posted up in many 
+places of the town, by order of the Committee of Correspondence, desiring the inhabitants to assemble at the town- 
+house yesterday morning at nine o clock. . . . At eight 
+o clock, I received a letter from the Secretary, informing 
+me that it was his Excellency the Governor's f desire, that 
+I and the rest of the Committee of Correspondence would 
+meet him at Colonel Browne's, for he had something of 
+importance to communicate to us. We waited on him there 
+at nine o clock, as requested. He first asked us if we 
+avowed the printed notifications for the meeting of the 
+inhabitants at that time. Captain [Richard] Derby, Jr., 
+answered in the affirmative. Says the Governor, As you 
+assembled the people, tis your duty to disperse them ; you 
+are the source, and must abide the consequences. Captain 
+Derby replied, Now the people are assembled, they will 
+act as they think best. We cannot oblige them to disperse. 
+The Governor declared it was an unlawful meeting, for 
+the seditious purpose of opposing an act of Parliament. 
+Captain Derby answered, Neither we nor the people 
+thought we were opposing even an act of Parliament, much 
+less the laws of the Province. Says the Governor, I am 
+not going to enter into a conversation about the matter, or 
+to determine quirks of law; the Attorney-General and 
+Colonel Browne (they were present, as well as the Secretary) will inform (or answer) you there. I came here to 
+execute the laws, (or acts of Parliament, I forget which,) 
+and I am determined to do it. Some other things passed, 
+but not material, and the Governor concluded thus: I 
+desire you to disperse the meeting of the inhabitants ; if 
+they disregard you, the Sheriff will go first; and if they do 
+not then disperse, and he needs support, I will support him, 
+and the people must abide the consequences. The Governor 
+appeared almost the whole time in an indecent passion, and 
+uttered the closing sentence with much vehemence. I was 
+told by Dr. Holten, yesterday, that the Governor had 110 
+rest from the time our notification appeared, scarcely sitting 
+half an hour in a day. The Attorney-General and the 
+High Sheriff were specially summoned for the purpose, and 
+orders were given to the regiment to be in order, who, 
+accordingly, equipped themselves as if for battle, and 
+marched from their encampment near our fort to the Neck 
+gate, where the main body (there are but about three hundred men, and about as many women and children) halted 
+and loaded ; then about eighty marched up street, almost 
+to brother Williams's. But before this movement of the 
+soldiers was known, and whilst we were in at Colonel Browne's, the inhabitants, being assembled at the town- 
+house, transacted all the business of the meeting, which 
+was merely to choose delegates f for a county meeting to 
+be held at Ipswich, on the 6th of September next, and 
+were actually broke up before we got to the town-house. 
+To-day Colonel Frye, by express orders from the Governor, 
+issued a warrant for apprehending the members of the Committee of Correspondence, who ordered the notifications to 
+be posted. These were Captain Richard Manning, brother 
+Williams, Mr. Jonathan Ropes, Jonathan Gardner, Jr., Mr. Sprague, and myself. Mr. Warwick Palfray was also 
+included, though not then present. Captain Derby was 
+omitted, being absent through indisposition ; but he had 
+expressly desired his brother Gardner to inform the Committee that he was for having a town-meeting. The High 
+Sheriff first came and arrested me. I went with him to Frye's. Mr. Sprague came up, and the Sheriff arrested 
+him also. Frye told us all that was required was this, 
+that we should each recognize in 100, without sureties, 
+to appear at the next Superior Court, to be held at Salem 
+the first Tuesday in November, to answer to the charge 
+against us in the warrant ; which was, for unlawfully and 
+seditiously assembling the people without leave from the 
+Governor, contrary to the laws and the statute in that case 
+lately made and provided. Mr. Sprague asked me what 
+was best to be done. I told him I thought we had better 
+recognize, which we did. My motives were these : I could 
+conceive no prejudice would arise to the cause in complying 
+so far. The warrant was issued and executed by lawful 
+officers. We need be under no apprehensions of being convicted of any crime, because the juries will be appointed as 
+heretofore ; (for I think it clear that no jury can be appointed agreeably to the act, in this county, till next March 
+term, and perhaps not till next March twelve months;) or 
+if a jury should be packed, (which is scarce possible,) and 
+we convicted, we should then have ample reason for a refusal of submission. If we opposed now, and the Governor 
+should persist in his attempts to execute the laws, a tumult 
+and carnage must ensue ; for the people are exasperated to 
+a high degree. These were the reasons I gave the rest of 
+the Committee ; and, although they at first thought it would 
+have been best to have refused to enter into recognizance, 
+yet they appeared entirely to acquiesce, (for the reasons I 
+gave,) and I supposed that, when arrested, they would recognize without hesitation. But they have since refused 
+before the Justice, Frye, who immediately, I am told, 
+posted off to the Governor to inform him of it. They told Frye, however, that they should be ready again to appear 
+before him, if summoned. The Governor, I doubt not, 
+will pursue the matter ; but I am inclined to think they will 
+comply, for the reasons above mentioned, which I shall urge 
+this evening at our meeting." 
+</p>
+</letter><letter id="tip4954">
+<recipient first="Jacob" last="Dodge" type="individual"/>
+<p>
+<a href='/results.php?city=wenham' rel='city origin'>WENHAM</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='6'>6th</a>, <a href='/results.php?year=1812' rel="origin">1812</a>. 
+</p><p>
+SIR, 
+</p><p>
+The account you gave me this morning of the false tales 
+spread abroad in New Hampshire, especially in the remoter 
+towns, where correct information is not easy to be had, 
+induces me to present to you my correspondence with Governor Sullivan, in which I have stated the circumstances 
+respecting my conduct on the day of the battle of <a href='/results.php?city=lexington' rel='city'>Lexington</a>, not a syllable of which, to my knowledge, has ever 
+been contradicted ; and which, indeed, numbers yet living of 
+my townsmen of Salem know to be true, some of whom are 
+Democrats, and would eagerly have seized on any misstatement, if I had made any. 
+</p><p>
+In page 26 of my letter to Governor Sullivan, I mention the winter campaign of <a href='/results.php?year=1776'>1776</a> -77 with the Massachusetts 
+militia. The quota of Salem consisted wholly of volunteers. 
+Upon notice, the militia assembled in the meeting-house in 
+Salem (now Dr. Prince s). I went into the pulpit and 
+addressed them, stating the critical situation of our public 
+affairs, the necessity of reenforcing the army, the enlistments of the troops then expiring, and that it was at 
+such a time of difficulty and danger that the real patriot 
+would show his zeal and devotion to his country. I 
+then concluded my speech (which was extempore) in this 
+manner : 
+</p><p>
+In urging you, fellow-citizens and soldiers, to volunteer your services on this occasion, I have no thought of 
+excusing myself; I will go with you, and partake of all the 
+hardships, as well as the dangers, of a winter campaign. 
+I then left the pulpit, and marched round the aisles of the 
+meeting-house,* and in a few minutes was followed by up 
+wards of sixty f of my townsmen (many of them masters of 
+vessels) , rather more than the town's quota. The county 
+of Essex furnished a regiment of a little more than seven 
+hundred men, who marched under my command as Colonel, 
+and performed the campaign in <a href='/results.php?city=new york' rel='city'>New York</a> and New Jersey. 
+The following questions are obvious to be asked : 
+</p><p>
+I. If I had shown any signs of cowardice on the day of 
+the battle of <a href='/results.php?city=lexington' rel='city'>Lexington</a>, would my townsmen, who were 
+with me that day, and others who knew all that passed, 
+have turned out as volunteers, the next year, to make a campaign under my command ? 
+II. If my conduct was blamable on the day of the battle 
+of <a href='/results.php?city=lexington' rel='city'>Lexington</a>, as now, for party purposes, is pretended, 
+would the revolutionary government of Massachusetts have intrusted me with various important offices ? 
+</p><p>
+Now, that government, in the same year, <a href='/results.php?year=1775'>1775</a> , after the 
+battle of <a href='/results.php?city=lexington' rel='city'>Lexington</a>, appointed me a Justice of the Peace 
+and a Judge of the Court of Common Pleas for the County 
+of Essex ; and, what was still more important, they appointed 
+me sole Judge of the admiralty or maritime court for the 
+Middle District of Massachusetts, comprehending <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+Marblehead, Salem, Beverly, Gloucester, and <a href='/results.php?city=newburyport' rel='city'>Newburyport</a> ; 
+into which were brought many more prizes taken from the 
+British than into the whole State beside. I held these 
+offices until I went to the army under <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>'s 
+immediate command, in June, <a href='/results.php?year=1777'>1777</a> . In the period of less 
+than two years that I was Judge of the maritime court, about 
+a hundred and fifty prizes were brought in, tried, and condemned. 
+</p><p>
+In my letter to Governor Sullivan, (page 29,) you will 
+see that I was appointed by Congress a member of the Continental Board of War, in conjunction with <a href='/results.php?tla=hog' rel='co-worker'>General Gates</a> 
+and <a href='/results.php?tla=thm' rel='co-worker met'>General Mifflin</a>. This was near the close of the campaign of <a href='/results.php?year=1777'>1777</a> . Now take notice, that the late Governor 
+Samuel Adams, John Adams, late President of the United 
+States, and Elbridge Gerry, now Governor of Massachusetts, 
+were the members of Congress present from Massachusetts 
+at the time I was chosen one of the members of the Board 
+of War. 
+</p><p>
+Will any man of common sense and common honesty, in any political party called Democratic, require more or better proofs that my conduct on the day of the battle of 
+<a href='/results.php?city=lexington' rel='city'>Lexington</a> was not liable to censure ? And what stronger proofs could be offered them in support of my integrity, fidelity, and patriotism? 
+Whoever knows, or shall know, these facts, and yet continues to revile me, must be a base and wicked slanderer. 
+</p><p>
+I am, Sir, your old neighbor and friend, 
+</p><p>
+TIMOTHY PICKERING.
+</p>
+</letter><letter id="tip4955">
+<recipient first="Paine" last="Wingate" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='26'>26th</a>, <a href='/results.php?year=1775' rel="origin">1775</a> . 
+</p><p>
+I received your favor by Dr. One, and read it with much 
+satisfaction. Your sentiments and mine respecting public 
+affairs do not differ. I am still of opinion that a pacification 
+upon honorable terms is practicable. This opinion I declared in the council of war at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a> last Thursday : 
+urging strenuously a forbearance of hostilities, and praying 
+that we might act only on the defensive ; at least till the 
+other Colonies were consulted. Some declared themselves 
+of the same opinion. Others thought that now was the time 
+to strike, and cut off the troops before they were reenforced ; 
+and then, said they, the day will be our own. As if Great 
+Britain could not replace three thousand men, nor land at 
+any other place than <a href='/results.php?city=boston' rel='city'>Boston</a> ! By the way, I do not see what 
+mighty advantage can accrue to us by getting possession of 
+<a href='/results.php?city=boston' rel='city'>Boston</a> ; none, I am sure, which can countervail the loss of 
+thousands in storming the town, which will immediately be 
+beat to pieces by the men-of-war. I had twenty to one 
+rather make an attempt upon the Castle. Notwithstanding the 
+warmth of some men, by all I can now learn, the only capital manoeuvre at present will be the enlisting an army, and 
+getting it disciplined, ready to oppose any violence which 
+shall be offered by those who are inimical to us. And this 
+plan I do not find that any one objects against : on the contrary, those judicious, moderate men who have hitherto 
+opposed the measure, now think it necessary, and that the 
+late expedition of the troops will justify us therein. The 
+number agreed on by our Congress as their quota of thirty 
+thousand, to be raised in New England, is thirteen thousand 
+six hundred men, whom they have already begun to enlist. 
+In consequence of this plan, I am persuaded that no immediate attack is intended, either upon <a href='/results.php?city=boston' rel='city'>Boston</a> or the Castle. 
+But, if what is reported to-day be true, I cannot pretend to 
+say what the deceitful baseness of Gage and the indignation 
+of our countrymen may produce. We are told that he 
+assured the inhabitants of <a href='/results.php?city=boston' rel='city'>Boston</a>, if they would deliver up 
+their arms, he would permit the inhabitants to leave the 
+town ; that they have complied with the condition ; and 
+that now he refuses to let the people go. But all this 
+wants confirmation. 
+</p><p>
+Josiah <a href='/results.php?city=quincy' rel='city'>Quincy</a>, Jr., Esq., is arrived at Gloucester, and 
+the Selectmen of that town, in a letter I received this morn 
+ing, say he is very ill, and near expiring. Lyde, with 
+whom he came, sailed a good while before Callahan, who 
+got in some time ago. 
+</p><p>
+I was this day informed by one of the Derby's, who 
+spent the last evening with Callahan, that he, though inclined to Toryism (as the term is), confessed it was in 
+vain to deny the distress already arising to Great Britain by 
+means of the non-importation. Many of the discharged 
+manufacturers have taken to the highways, armed, and the 
+jails are filled with them already. 
+The harbor of Marblehead is blocked up by a man-of-war ;  ours is yet free. 
+</p><p>
+P. S. I hope nothing will prevent your communicating to me your plan of a pacification very soon. 
+</p>
+</letter><letter id="tip4956">
+<recipient first="" last="Higginson" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>Salem</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='2'>2d</a>, <a href='/results.php?year=1775' rel="origin">1775</a> . 
+</p><p>
+DEAR MADAM, 
+</p><p>
+You as rightly as fully believe that we feel a sincere friendship for each other ; and let it be lasting as 
+our lives. I regret the separation which probably must 
+soon take place ; but God grant it may be a short one. 
+</p><p>
+. . . For many years I regarded you with heartfelt affection ; but I must confess (and you will not think my friend 
+ship is now less warm and sincere because I confess the 
+truth) , that our repeated bickerings (I am sorry to use the 
+word, but everything must yield to truth,) had sensibly 
+lessened that affection, though it returned with all its force 
+when I found we must part; and tis now heightened by
+your very obliging, affectionate letter, which I have just 
+received and read. Indeed, I formed a wish that you might 
+not go, and was casting about in my mind in what manner 
+I could provide for your safety and support, when Mr. Robie came in, and interrupted my anxious, but pleasing 
+thoughts. When I last carried you to Marblehead, I had 
+it in my heart to propose a mutual, cordial forgiveness of 
+every thought, word, or look, which had ever borne the 
+aspect of severity and unkindness ; but I need not tell you, 
+that I am less prone than many to make an ado about such 
+matters. I felt all, and perhaps more than I could have 
+expressed ; and I entirely believed your feelings were kind 
+and friendly as my own. 
+You do me justice in believing that I have an aversion 
+to cruelty and rage against those called * friends to government, some of whom I esteem highly, because I think them 
+possessed of great integrity and worth. 
+I agree with you, that a private station is often the post 
+of honor ; and I feel not the ambition for titles and high 
+places, conspicuous in some men : at the same time, I think 
+it my duty not to desert my country in that cause which I 
+have hitherto espoused, a cause which I believe to be 
+founded injustice, although, in conducting it, many irregularities may have been committed ; a cause which, if given 
+up, or the supporters of it be overcome, Liberty itself, I 
+fear, will expire ; and at present I do not feel an inclination to survive the liberties of my country. 
+</p><p>
+But whatever becomes of me, may kind Heaven be your guardian and the guardian of your lovely daughter, whom I pray you to embrace for me.
+</p>
+</letter><letter id="tip4957">
+<recipient first="Samuel" last="Holten" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="10">October</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1775' rel="origin">1775</a> . 
+</p><p>
+DEAR SIR,
+</p><p>
+I cannot forbear expressing my surprise at the principle 
+advanced by a certain gentleman, with respect to the appointment of civil officers. To be consistent, he should go 
+one step farther ; or, rather, he might be more explicit, and 
+say, that unless a man have a brawny arm and the heart of a 
+lion, or, in other words, if he possess not the prime qualities of an executioner, he is unfit for a judge! But, for my 
+own part, I would choose to bear the reproach of humanity, 
+and a tender feeling for my brethren of mankind, especially 
+my fellow-citizens, on the point of being exposed to all the 
+calamities, the numberless calamities, of civil war, rather 
+than, upon opposite principles, be advanced to the highest 
+posts, and so possess, with infamy, the reward of savage 
+ferocity and barbarism. What does common sense pronounce to be the proper qualifications of a judge ? Are they 
+other than these, integrity, ability, and knowledge of the 
+law? Who, in searching for a judge, a discerner between 
+truth and falsehood, right and wrong, would, before all 
+things, inquire for a man of conquering attributes, for a 
+hero ? 
+</p><p>
+With regard to the instance in question, tis true I 
+differed in opinion from some others. I said we were not 
+prepared for war, and that war to me appeared not unavoidable : hence arose my wishes still longer to forbear avowed 
+hostilities. Dr. Warren a man deservedly esteemed and 
+honored urged strenuously the pushing into <a href='/results.php?city=boston' rel='city'>Boston</a> and 
+cutting off the troops before a re enforcement should arrive. 
+I declared instantly my opinion, that it was then impracticable. I know my opinion did not prevent it ; but it was 
+not done. And were I now to say, even now the Colonies 
+are unprepared for war, the declaration would not be wholly 
+destitute of truth. Ask <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> : he 11 tell you 
+he is obliged to remain most mortifyingly inactive, and 
+receive, without reply, the enemy's unceasing insults. This 
+he declared to me last week. But, admitting my opinion to 
+be unfounded, must I from thence be concluded my country's enemy, or timid friend? Suffer me to mention a fact. 
+In 1745, in our House of Representatives, this question was 
+agitated : Is it practicable to take Louisburg? It was long 
+and calmly debated, and at length determined in the affirmative by a majority of one voice only. What now was to 
+be done with the minority ? Should they be expelled the 
+House because they were less sanguine than their brethren, 
+and be excluded from offices? The cases, I think, are not 
+unlike. The question being once determined, the minority 
+were as active as their opponents in setting forward the 
+expedition ; and, by a remarkable series of fortunate events, 
+it happily succeeded. God grant our present enterprise 
+may be alike successful ! My efforts have not been wanting, 
+to the utmost of my ability ; and, had I been actually a member of the army, I could scarcely have spent more time in its 
+service. Since the 19th of April, one month would much 
+more than comprise all my labor and attention to my own 
+affairs. And a hundred pounds, lawful money, would not 
+tempt me again to go through the application and fatigue of 
+writing my military treatise. You will, Sir, excuse this 
+tedious epistle. I am bound, in justice to myself, to mention 
+these things, to show how extremely unreasonable it would 
+be to refuse me such offices as I am qualified to discharge for 
+the trifling cause referred to, or rather for no cause at all. 
+</p><p>
+I do not say this because I regret my missing a certain appointment. I repeat what I told you, that, whatever I may 
+be hereafter, when study and experience have matured my 
+judgment, I am at present unfit for that important trust. 
+Had the appointment taken place, I think I must have declined it, lest I should by accepting it disgrace myself and 
+injure and dishonor my country. For the present is the 
+most important period since the Colony was founded ; and 
+never was there a greater necessity of filling the offices of 
+government with men of integrity, ability, and knowledge, 
+both on account of the difficulty of the times, and that our 
+adversaries and posterity [may have no ground] for vilify 
+ing, stinging reflections ; for sorry should I be to see the 
+Colony again reproached, and its senators and leaders 
+styled, ignominiously, "Dii minorum gentium."
+I do not repeat my petition. You know me ; so do 
+others; and your discernment, and sense of the dignity 
+becoming freemen, will lead you to expect no servile en 
+treaties from me. A slave may present them at the shrine 
+of power ; but a liberal mind will reject the offering with 
+disdain. 
+</p><p>
+I am, Sir, with great regard, your obliged friend, &c. 
+</p>
+</letter><letter id="tip4958">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='31'>31st</a>, <a href='/results.php?year=1776' rel="origin">1776</a> . 
+</p><p>
+Sir, 
+</p><p>
+The General. Court of this Colony having, pursuant to 
+your request, issued orders for raising upwards of four 
+thousand men to serve, in the army that is under your Excellency's immediate command, till the first day of April 
+next, and of that number directed that ninety-one be en 
+listed in the town of Salem, in consequence thereof the 
+militia were mustered and the resolves of the Court read 
+to them, and the importance of manning the lines at <a href='/results.php?city=cambridge' rel='city'>Cambridge</a> and Roxbury was urged ; but, great numbers of the 
+inhabitants being at sea, many impressed on board the 
+British ships, a considerable number in the American armed 
+vessels and privateers, one hundred employed as a sea-coast 
+guard, and perhaps double that number already in the army, 
+of the residue, two or three only presented themselves to 
+serve on the common establishment of the army. We were 
+therefore induced to try another method, and the Committee 
+of Safety gave the enlisting orders to a worthy man and 
+good soldier who had served as a Lieutenant in the army 
+the last campaign, and offered a month's pay in advance to 
+all who would enlist under him. But this measure also 
+proved ineffectual. Hence the persons whose names are 
+subjoined, inhabitants of the town of Salem, convinced that 
+tis of the last importance to the United Colonies, and essential to the safety of this Colony, to defend the lines at Cam 
+bridge and Roxbury, have agreed (as tis not in their power 
+to do anything more or better) to form themselves into a 
+company of volunteers, to serve in the army till the first 
+day of April next without pay ; and they now, Sir, beg 
+leave to tender themselves to your Excellency, to be employed as you shall think best ; and pray they may, by the 
+bearer, who is one of the company, be made acquainted 
+with your Excellency's pleasure. 
+</p></p>
+</letter><letter id="tip4959">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=danbury' rel='city origin'>DANBURY</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+Until this morning I expected to go into the Jerseys, 
+but have received orders to go to North Castle, about 
+twenty-seven miles from Danbury, towards <a href='/results.php?city=new york' rel='city'>New York</a>. . . . 
+Part of my regiment are gone to <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, but are to go 
+down to North Castle, to which place I have ordered those 
+companies of my regiment now here. I go myself to-morrow morning by sunrise, in company with Mr. [Francis] 
+Cabot, for North Castle. 
+</p><p>
+I arrived at Danbury on Thursday night, the 2d of 
+January, in company with <a href='/results.php?tla=bel' rel='co-worker met'>General Lincoln</a>, who, going on 
+the next day for <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, directed me to tarry here, to 
+forward the militia as they arrived. Two companies in my 
+regiment are not yet come in Danvers and Marblehead. 
+I have been most kindly entertained here at the house 
+of Mr. John McLean, a wealthy, worthy, sensible Scotch 
+man, most zealously attached to the public cause of America, 
+and who, with a degree of indignation, mentions the in 
+gratitude of his countrymen and other foreigners, who have 
+made their fortunes in America, and yet are now opposing 
+its best interests, the essential interests of the country subdued and cultivated by those men whose children those 
+ungrateful wretches are now striving to subject to the yoke 
+of tyranny. This good man I shall ever remember with 
+respect and love.
+</p>
+</letter><letter id="tip4960">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>BEDFORD</a> [N. Y.], <a rel="month origin" value="1">January</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+Yesterday I walked from Danbury to this place twenty long miles in company with Mr. Cabot and two other 
+gentlemen. I am now within about six miles of our head quarters at North Castle, where, I am here informed, <a href='/results.php?tla=wih' rel=''>General Heath</a> is arrived, and is to command. My regiment, 
+with a number of other Massachusetts regiments, are ordered to North Castle. In my next, perhaps, I shall be able to tell 
+you something of our operations. God grant us success, and restore me with honor to my beloved. 
+</p>
+</letter><letter id="tip4961">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+SIR, 
+</p><p>
+I esteem it a singular honor done me by your Excellency in offering me the post of Adjutant-General ; and it 
+pains me sensibly that I am obliged to decline it. It is an 
+honor to which I did not aspire, because I did not account 
+myself equal to the important business of the office. Your 
+Excellency does not mistake my attachment to the interest 
+of the United States. It is sincere and unalterable. But 
+my military character, which you are pleased to mention as 
+a motive to the appointment, is, in my own estimation, of 
+no great account. I have, it is true, studied the rudiments 
+of the military art, but have very small, or rather no, pre 
+tensions to capacity and skill in the important scenes of 
+war, and much fear I should disappoint your Excellency's 
+expectations concerning me. 
+I have domestic reasons and private concerns which 
+powerfully urge my staying at home ; but these I should 
+not mention, did they exist alone. But, besides the command of a regiment of militia on the sea-coast, I hold divers 
+civil offices, which are sufficient to engage my constant 
+attention : those of Judge of one of the maritime courts, 
+Judge of the inferior Court of Common Pleas, acting Justice of the Peace, and Register of Deeds for the county of 
+Essex. The exercise of these offices I could, without any 
+very great inconvenience, quit for a season ; and therefore, 
+at the time of making the late levy of militia, as there 
+appeared some backwardness in the people, I encouraged 
+their engaging, and stepped forth and offered my own personal service. 
+Nevertheless, I would for ever abandon all these employments, if I thought myself capable of doing more ser 
+vice to my country by acting in the office to which your 
+Excellency has been pleased to invite me. But, as I do 
+not thus think of myself, and conceive it not difficult to 
+find a person not otherwise employed, and, to say the least, 
+as able to discharge the duties of the office as I, I must beg 
+leave to decline it. 
+I am, with the greatest veneration, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+TIMOTHY PICKERING, JR. 
+</p>
+</letter><letter id="tip4962">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . SIR, 
+</p><p>
+I sent, by the express, an answer to your letter respecting the office of Adjutant-General, and gave what appeared 
+to me sufficient reasons to excuse my declining to accept it ; 
+but I have since been uneasy lest you should deem them 
+otherwise, and that I was too willing, under the civil offices 
+I sustain, to shelter myself from the dangers and fatigues 
+of war, an opinion which, if it has taken place, I wish 
+to remove. 
+</p><p>
+The case was this : I had concluded to accept the office, 
+but, meeting with a number of unavoidable interruptions in 
+the way of business, was unable to give my answer to the 
+express till the evening, at eight o clock, at which time I 
+had directed him to call ; and it was then, in fact, sealed up, 
+and ready to be delivered, the same which I now enclose 
+to your Excellency. But, the express delaying his coming 
+a full hour, I of course continued to revolve the matter in 
+my mind, and, upon a review of the reasons on both sides 
+of the question, those against my accepting the post, in 
+creased by the suggestions of my nearest friend, whose 
+happiness and tranquillity of mind lay near my heart, preponderated, and occasioned the answer your Excellency has 
+already received. Besides the reasons there given, others 
+weighed with me, which I had not time to mention. The 
+civil offices I sustain yield me an income that contents me, 
+and, in a time of peace, would maintain my family. These 
+I must have relinquished, without an expectation of reassuming them. Consequently, had I taken the post of Adjutant-General, and some cause had arisen (an event far from 
+impossible) rendering it expedient for me to quit the camp, 
+I should have returned divested of the principal means of 
+supporting my family. 
+</p><p>
+Whenever I thought of a military employment, the condition of my eyes was no small discouragement to me. I 
+am so near-sighted that I, although placed in the best situation, cannot, with any degree of accuracy, discern the position of a body of men beyond the size of a single regiment. 
+It is true, in viewing distant objects, my spectacles help me 
+to see nearly as well as people in general do with the naked 
+eye ; but they are frail things, and rain or snow beating 
+against them (I found in the winter's campaign) so obstructs the vision as to render them almost useless. My 
+business as Register of Deeds had, by my absence, got 
+behindhand ; it seemed to be daily increasing, and my office 
+was not in such order as I wished to leave it in to a successor. These, with the reasons mentioned in my former 
+letter, and many others of lesser moment, determined my 
+answer in the negative. I regretted the proposal could not 
+have been made me while at head-quarters, where I could 
+have inquired particularly into the nature and extent of the 
+office of Adjutant-General, and thence judged more certainly whether or not I was able to discharge the duties of 
+it. The want of such information left doubts on my mind 
+that were no small obstacle to my accepting it. 
+On the other hand, I am sensible, that to support the 
+army is of essential importance ; that, on the failure of it, 
+besides the general calamity of my country, every prospect 
+of advantage or enjoyment to me must vanish. I have 
+been, therefore, ever ready to serve the public to the utmost 
+of my power. But perhaps the comforts of civil life, the 
+love of ease, the enjoyment of my friends, and the powerful allurements springing from the nearest connection on 
+earth, have led me to mistake the object. From a sacred 
+regard, therefore, to the interests of my country ; from the 
+ardent desire I have to approve myself to your Excellency ; 
+from the pain it has given me to deny the request of the 
+last of men to whom I would refuse anything, I submit 
+the whole matter to your Excellency's determination. If, 
+upon a view of all circumstances, you judge it my duty to 
+exchange the civil for a military life, I will do it. And 
+then, should the office of Adjutant-General (for, from what 
+conception I have of it, none would be more agreeable) be 
+once more vacant, or any other post or employment present, 
+to which you shall deem me competent, I will not again 
+confer with flesh and blood, but instantly obey your Excellency's commands. 
+I beg your Excellency's pardon for imposing on your 
+patience this second long letter. But I feared lest, by my 
+backwardness, I might have offended. And I was led to 
+make the above tender of my services because your Excellency's good opinion of me, and the urgency of your 
+request, have raised me to some importance with myself. 
+I am, with the highest veneration and esteem for your 
+Excellency, your Excellency's most obedient and most humble servant, 
+</p><p>
+TIMOTHY PICKERING, JR.
+</p>
+</letter><letter id="tip4963">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>BOSTON</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+SIR, 
+</p><p>
+I had the honor to receive your Excellency's letter, 
+by Colonel Lee, conferring upon me the office of Adjutant-General. And since, notwithstanding all my objections, 
+tis your Excellency's pleasure, I am happy to declare my 
+acceptance of it. At the same time, I am constrained, 
+from my real feelings, again to express my fears that I shall 
+fall short of your Excellency's expectations. Few people 
+are competent judges of military abilities ; and most are 
+apt to form their opinions very superficially. Hence I have 
+as often been mortified as pleased by the favorable sentiments which some have expressed concerning me, conscious 
+that many times I did not merit their applause. I know 
+not who have recommended me to your Excellency ; I wish 
+they may not have judged too favorably of my abilities. 
+However, I am determined to exert myself to the utmost 
+to serve your Excellency and my country ; and if, after all, 
+I fail of executing the office with propriety, seeing I at first 
+declined it, partly from an apprehension of inability, your 
+Excellency will acquit me of presumption in accepting it at 
+your repeated request. My affairs are complicated, but I 
+will prepare to attend you with all possible despatch. General Glover accepts the post assigned him, aud we shall 
+doubtless go to head-quarters together. 
+</p><p>
+I am, Sir, your most obedient servant, 
+</p><p>
+TIMOTHY PICKERING, JR.
+</p>
+</letter><letter id="tip4964">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+HEAD-QUARTERS, <a href='/results.php?city=middle brook' rel='city origin'>MIDDLE BROOK</a>, <a rel="month origin" value="5">June</a> <a rel='day origin' value='23'>23d</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+I embrace the first opportunity since my arrival here to 
+write you. I am very happy in the General's family. His 
+secretaries and aides-de-camp are gentlemen of education, 
+and of the most polite, obliging manners. Yesterday General Howe's army decamped, and, from the best accounts, 
+are all retired to Amboy, from whence the passage to Staten 
+Island is short and easy. What will be their next attempt 
+is altogether uncertain ; but I am inclined to think the game 
+is nearly over with them. I believe as many as thirty 
+deserters from the enemy have come in since my arrival 
+here, which was on Tuesday, the 17th inst. 
+</p><p>
+In the execution of my office, I have received all necessary assistance from Colonel Connor, the late temporary 
+Adjutant-General ; and he has very obligingly offered me 
+any further aid that I may need. 
+</p><p>
+If the enemy should continue the war, I am inclined 
+to think it may be nearer my home ; for surely they will not 
+go far southward at this season. Nothing, I think, can they 
+have in view but to distress us ; conquest they must despair 
+of. When I left home, I conjectured that one campaign 
+after the present would end the war. I now believe this 
+one year will finish it. The sooner the better, for the sake 
+of the lives, health, and happiness of thousands. And then, 
+also, shall I return to enjoy, with my Becky, all the sweets 
+of domestic life ; that quiet, ease, and heartfelt satisfaction 
+which spring from the sincerest friendship and the tenderest love . . . 
+</p>
+</letter><letter id="tip4965">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>MORRISTOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='6'>6th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> , Sunday. 
+</p><p>
+... The enemy having entirely quitted Jersey, and the 
+General suspecting they might go up the North River, the 
+army moved up from Middle Brook, last Thursday, to this 
+place, to be nearer to <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. <a href='/results.php?tla=jsu' rel='co-worker'>General Sullivan</a>, with his 
+division, is gone about twenty miles farther on, to a place 
+called Pomptou. What led the General the more to apprehend a movement up the North River was, that the enemy 
+from Canada were about to attack <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. We shall re 
+main here till Howe makes some movement. If he goes up 
+the river, we shall follow him. If he goes to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+(of which I think there is little danger) , we shall go thither. 
+But, if he stands off with his fleet to the open sea, we shall 
+not know where he is going, and of course be in a great 
+quandary which way to steer. Two sailors, by one of whom 
+I send this, escaped from <a href='/results.php?city=new york' rel='city'>New York</a> the day before yesterday. They say the talk there was, among some, that Howe 
+was going to <a href='/results.php?city=boston' rel='city'>Boston</a>, and, among others, that he was going 
+to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. We are greatly at a loss to determine 
+what his intentions are ; and, since he was disappointed in 
+his plan of going to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> by land, we have some 
+times suspected that Howe himself was at a loss which way 
+to go. But, for my own part, if the enemy make a real 
+attack on <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, I shall wonder if Howe does not 
+go up the North River. . . . 
+</p><p>
+P. S. I am so crowded with business, and as yet with 
+out an assistant, my friends must excuse me if I do not 
+write to them. The General, a week ago, desired me to 
+get a deputy ; which I shall do as soon as I can light on a 
+good one. . . . 
+</p>
+</letter><letter id="tip4966">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=morristown' rel='city origin'>MORRISTOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='26'>26th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> , 10 o clock, evening. 
+</p><p>
+After the enemy left the Jerseys, we had reason to 
+apprehend they intended to go to the eastward, or up the 
+North River. This induced us to march from Middle Brook 
+to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, thence to <a href='/results.php?city=pompton' rel='city'>Pompton</a>, thence within eighteen 
+miles of King's Ferry, and thence into Smith's Clove, in a 
+route that would carry us to New Windsor, where we should 
+have crossed the ferry to <a href='/results.php?city=fishkill' rel='city'>Fishkill</a>. But, having advanced 
+a dozen miles into the Clove, we halted, having reason to 
+doubt, from the enemy's movements and the best intelligence we could obtain, whether they were bound up the 
+North River or to the eastward, or not. At length we had 
+such intelligence as induced the general officers to think 
+Howe intended for <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. This intelligence was 
+strengthened by a letter, written with Howe's own hand, to 
+<a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>, in which he says he is going to <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+But he sent it out by a man who had been confined by him 
+in the provost three weeks, and on whom he had no reason 
+to rely. In short, it was not doubted but he sent it 
+on purpose by such a messenger, that it might fall into 
+our hands. The messenger, at the first guard of ours he 
+met, delivered it up to the officer, and gave what other 
+information he could. We had, before the receipt of 
+Howe's letter, come back out of the Clove. We are now 
+got back to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, and shall proceed on towards 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; for the bulk of the enemy's ships have sailed 
+from <a href='/results.php?city=new york' rel='city'>New York</a>, and, it is supposed, for <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>.
+</p>
+</letter><letter id="tip4967">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>PHILADELPHIA</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+On the 28th of July we arrived on the banks of the 
+River Delaware, at Cory ell's Ferry, about thirty-two miles 
+from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> by land, and there we halted. Last night 
+the General and his family arrived here. Yesterday morn 
+ing, about half after nine o clock, an express came to the 
+General to inform him of the arrival of the enemy's fleet 
+at the Capes of the river. Orders were immediately issued 
+for all the troops upon the river (being eight brigades) to 
+cross with all despatch possible ; two more brigades at <a href='/results.php?city=morristown' rel='city'>Morristown</a>, under <a href='/results.php?tla=jsu' rel='co-worker'>General Sullivan</a>, and two more from Peeks- 
+kill, are to follow as expeditiously as they can. All, we 
+trust, will arrive before the enemy can take any decisive 
+measures. The militia from this State, Jersey, and Mary 
+land will, no doubt, turn out with spirit. The people of 
+the city seem to be quite at ease, and not by any means to 
+dread the enemy's approach. Fighting there must be, no 
+doubt. God grant we may give them an overthrow, which, 
+if general, must probably decide the contest. The army is 
+in high spirits, and the order to march this way gave universal joy. The General and all the principal officers much 
+prefer the enemy's coming here to their going up the North 
+River, or to New England. For to this place the army will 
+have but little way to march ; and, as it is an event long 
+expected, it is presumed the people are better prepared to 
+give the enemy a proper reception. However, if they 
+should even gain this city, the cause will not be given up 
+as lost; the enemy will, I trust, have a great deal more 
+work to do before they conquer America. Though we have 
+met with many losses, yet even now the inhabitants of 
+America seem not to be actuated by a becoming ardor. 
+Greater sufferings will show us the necessity of more universally spirited exertions ; and, when they take place, we shall 
+undoubtedly, under <a href='/results.php?city=providence' rel='city'>Providence</a>, prevail over our enemies. 
+Tis now past noon, and I have heard nothing more of the 
+enemy's fleet, except a slight report that they were still at 
+the Capes, which, I am inclined to think, is true ; for, if 
+they had made any considerable progress, we should 
+doubtless have heard of it. So much for news. . . . 
+</p>
+</letter><letter id="tip4968">
+<recipient first="" last="Pickering" type="individual"/>
+<p>
+[To His Brother]
+</p><p>
+CAMP NEAR <a href='/results.php?city=potsgrove' rel='city origin'>POTSGROVE</a>, thirty-four miles above <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+</p><p>
+Near the River Schuylkill, <a rel="month origin" value="9">September</a> <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+... Although our loss in the battle of Brandywine 
+was not so great as the enemy s,* yet since then it has been 
+much larger; I mean by straggling and desertions, which, I 
+am satisfied, have reduced the army more than the bare 
+action. After that battle we returned to within seven miles 
+of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, rested two nights, cleaned our arms, furnished each man with forty rounds of well-made cartridges, 
+then recrossed the Schuylkill, and, after several marches, 
+were one day overtaken by a most severe rain. The army 
+had just been arrayed for battle, the enemy approaching. It 
+was judged best to shift our ground for a position more 
+advantageous. It began to rain ; the enemy halted ; we 
+marched ten miles in a continual rain and bad roads ; arrived 
+late in the evening at Yellow Springs ; men fatigued, arms 
+wet, ammunition chiefly spoiled (perhaps three hundred 
+thousand cartridges) ; no covering for the men (the tents 
+having been sent off when the battle was expected) ; rain 
+all night and part of next day ; another march to Reading 
+Furnace ; then we returned, and again crossed the Schuylkill in order to obstruct the passage of the enemy, leaving 
+one division, under <a href='/results.php?tla=atw' rel='co-worker'>General Wayne</a>, behind, to hang upon 
+their rear. The second or third night the enemy fell upon 
+Wayne ; they exchanged one fire, close ; pushed bayonets ; 
+Wayne retired ; the enemy did not pursue, but retired also. 
+Next day Wayne buried fifty-six of his men, and the in 
+habitants said the enemy buried twenty-three of theirs, and 
+carried off four or five wagon-loads. 
+</p><p>
+Information that the enemy were proceeding up the Schuylkill on the [west] side induced us to march up like 
+wise on this side. We got above them, and then they 
+crossed below us at Swedes Ford. We wait for Wayne to 
+join us, and McDougall with his brigade from <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. 
+We shall, I expect, unite to-morrow. 
+</p><p>
+Six o clock P. M. I have just heard that the enemy have 
+dropped down to-day within twelve miles of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+The city is open to them. The day before yesterday I pro 
+posed, in presence of <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, <a href='/results.php?tla=hek' rel='co-worker met'>General Knox</a>, 
+&c., that at least one company of artillerymen and a sufficient number of musketeers should be sent down to garrison 
+the fort below the city, which defends the chevaux-de-frise. 
+His Excellency assented to the propriety of the measure ; 
+yet nothing was done. However, yesterday it was judged 
+of the highest importance to garrison that fort. Accordingly, two hundred musketeers and two good artillery 
+officers were despatched to cross the Delaware at Bristol. 
+Had this step been taken when I proposed it, it might have 
+been executed without a circuitous march to Bristol, for 
+the enemy had not then crossed the Schuylkill. However, 
+I trust it will still be effected with safety. If the fort is as 
+tenable as represented, I presume the enemy will not speedily pass the chevaux-de-frise ; and, if Howe is not aided by 
+the fleet, he will not long possess <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I am persuaded. But, from the account given by others, it seems 
+that a height on the Jersey shore, a mile from the fort 
+(which is near the opposite shore, back of which the large 
+meadows are now laid under water) , may be taken possession of by the enemy, from which, by their guns and 
+mortars, they may prevent the galleys defending the chevaux-de-frise, and possibly make the fort too warm for our men. 
+But surely the fort, at the distance of a mile, must be safe 
+from everything but bombs, and I should not fear much from 
+them alone. 
+</p><p>
+To-day it rains. To-morrow morning, at nine o clock, 
+we march and join McDougall. Pretty soon, I imagine, we 
+shall proceed to attack the enemy, if their post be practicable. Were Howe, with his present force, in New England, 
+and <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> with so many Continental troops 
+as he will have when joined by Wayne and McDougall, I 
+should not wish for a better opportunity to crush him ; for 
+we should have there the best intelligence, and as many 
+militia as we desired for a short, bold push ; but here we 
+are, in fact, in an enemy's country. I am told upwards of 
+sixty-five thousand men are enrolled in the militia of Pennsylvania; yet we have not two thousand in the field, and 
+these are of little worth and constantly deserting. After 
+the action of the 11th, and the enemy took possession of 
+Wilmington, almost all the militia of Delaware State also 
+ran home. Some Maryland militia join us to-morrow, per 
+haps a thousand men. Many that marched from home have 
+deserted. Other militia are coming from Virginia and Jersey, together with a stout and good State regiment from 
+Virginia, the latter perhaps now at Lancaster. The Jersey 
+militia have been at war a year, are embittered against the 
+foe, and have constantly behaved well in Jersey. But be 
+fore all the militia arrives, I presume we shall be engaged, 
+lest the fleet should get to the city. 
+</p><p>
+I had heard at home of so much contempt and ridicule 
+thrown by the southern gentlemen on the New England 
+militia, that I expected something better here ; but no militia 
+can be more contemptible than those of Pennsylvania and 
+Delaware ; none can be spoken of more contemptuously than 
+they are by their own countrymen. And how astonishing 
+is it, that not a man is roused to action when the enemy is 
+in the heart of the country, and within twelve miles of their 
+grand capital, of so much importance to them and the Continent ! How amazing, that Howe should march from the 
+head of Elk to the Schuylkill, a space of sixty miles, with 
+out opposition from the people of the country, except a 
+small band of militia just round Elk ! Such events would 
+not have happened in New England. I rejoice that I can 
+call that my country. I think myself honored by it. I 
+hope I shall not do anything to detract from the applauses justly its due. 
+</p><p>
+The inhabitants here have, of a long time, been the 
+most abominable extortioners ; and where Howe has passed 
+they refuse to take paper money. The villains in Chester 
+county (between the Schuylkill and the Brandy wine) refuse even to supply our poor wounded men among them 
+with necessary provisions, without the solid coin; and our 
+surgeons have been obliged to carry provisions to them from 
+hence. I feel in some degree reconciled to Howe's entering 
+Pennsylvania and <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, that the unworthy inhabit 
+ants (of which tis apparent a majority of the State is com 
+posed) may experience the calamities of war, which nothing 
+but their own supineness and unfriendliness to the American 
+cause would have brought on them. Possibly Heaven permits it in vengeance for their defection, that their country 
+should be the seat of war. Not that I have a great opinion 
+of the morality of the Americans in general ; but there are 
+surely none who have not more public virtue than the Pennsylvanians. However, did the event of the contest depend 
+on the goodness, the moral virtue, of my countrymen, I 
+should despair of success. But, for the justice of our cause 
+and the sake of the righteous in the land, I hope, and I 
+doubt not, God will in the end grant us victory, and a 
+consequent happy peace. Yet perhaps many trials await 
+us. All our afflictions have not taught us humility. Every 
+species of vice has rather prevailed since the war began. In 
+short, look where you will, there is so much evil, that a good 
+man would scarcely wish to live, were it not for the pleasures he enjoys in the small circle of his nearest friends. I 
+sometimes wonder we are so fond of life, when we almost 
+daily meet with something to vex our souls. But, doubt 
+less, Shakespeare has assigned the true reason, an uncertain futurity. Yet this should affect none but infidels ; 
+and we have good advice, Fret not because of evil men. 
+We must do our duty, and await our appointed time till 
+our change comes, enjoying what bounties Heaven pleases 
+to bestow. 
+</p><p>
+I wish to hear particularly of the state of my father, 
+mother, and all my relations. . . . 
+</p>
+</letter><letter id="tip4969">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+CAMP AT <a href='/results.php?city=whitemarsh' rel='city origin'>WHITEMARSH TOWNSHIP</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+MY DEAR, MY AMIABLE BECKY, 
+</p><p>
+Although tis no more than forty-eight hours since I 
+wrote you by Mr. Gary, yet yours of the 20th ultimo, this 
+day received, excites anew my tenderest feelings, and compels me to begin again. . . . But, pleased as I am with this 
+proof of your fond affection, I do not wish you to indulge 
+such melancholy thoughts. I know tis difficult to control 
+the mind. That little wanderer will often make excursions 
+where wisdom would check its career, but strives in vain. 
+However, tis commonly in our power to place other objects 
+in view than those which lead to misery, such as business, 
+amusing books, and the society of friends. All these have 
+a natural tendency to withdraw the mind from the pursuit 
+of objects which give it pain. But, my dear, the Christian 
+rests not here, but seeks and finds relief from other views. 
+The Christian grieves not as those who have no hope beyond 
+the grave, but looks forward to a glorious immortality, 
+where grief and care shall have no place. Let this, my 
+dearest, be our support. Often have I experienced its 
+powerful aid, when surrounded with difficulties, dangers, 
+and distress. Other props have failed, but never my hope 
+in Heaven. This, raised and animated by prayer to the 
+great Supreme, has often eased my burdened soul. Prayer 
+is the natural mode of converse of man with his Maker ; 
+and highly should we prize the condescending grace which 
+invites us to adopt it. Let gratitude warm our hearts for 
+that and all other blessings, and let us never forfeit them by 
+inattention or neglect. Let our confidence in God never 
+fail or lessen ; for that alone can support us under the 
+severest trials. Let us reflect, at the same time, on our 
+own ignorance and short-sightedness, which often lead us 
+to view those events as most adverse and unfortunate 
+which Heaven designs for our best good, if not in this 
+world, at least in a better. To the Christian every event 
+will prove a benefit : if it be happy, he will highly enjoy 
+it; if afflictive, it will brighten his virtues, and lead him 
+forward to scenes of bliss without allay. 
+Reflections of this kind, my dear, are the suggestions 
+of reason and Scripture. But, I confess, tis easier to 
+preach than practise the lessons of wisdom. Notwithstanding the glories which, we believe, will in another world be 
+displayed, great beyond the power of the human imagination to conceive, and although the path of life is strewed 
+with cares, pains, and perplexities, still we are fond of 
+living, still content to postpone the enjoyment of exalted 
+bliss beyond the grave. Whence arises this attachment to 
+life, with all its miseries, especially when set in competition 
+with perfect happiness? Is it because the first is present 
+and certain, the other absent and unknown? With the 
+infidel this may operate forcibly ; but why should it strongly 
+affect those who believe their peace is made with Heaven ? 
+Or, does it proceed from the corruption of human nature, 
+from perverse inclinations? This I cannot admit. A desire 
+of life is the strongest of all our passions ; and the Creator 
+has, I believe, implanted none in vain. Even this fond love 
+of life is necessary to man. Our existence is designed for 
+the accomplishment of some noble ends, and tis usually 
+lengthened to a certain period. Were we indifferent to life, 
+few would live out half their days. Tortured with pain, 
+or vexed with disappointment, most would cut the slender thread, and thwart the views of Providence. Hence, 
+then, I conclude tis lawful to indulge this fond love of life, 
+with all its reasonable enjoyments, only remembering, that 
+this world is not our abiding-place ; that life, at longest, is 
+but of short duration ; and that we ought to conduct our 
+selves as heirs to a better inheritance. 
+</p><p>
+These reflections on human life need not lessen our happiness while here ; at the same time, they may well serve 
+to bear us up in adversity, and prevent our souls being 
+weighed down with grief, even at the most distressing 
+events. With this view only have I made them. 
+November 13th, morning. ... To my surprise (and 
+to yours it will be), the Congress, by a resolve passed 
+the 7th instant, have chosen <a href='/results.php?tla=thm' rel='co-worker met'>General Mifflin</a>, Colonel Harrison (<a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>'s Secretary), and myself to be 
+a Board of War; and, for a variety of reasons (which I 
+have not time now to mention), I have concluded to accept 
+the commission. One reason, however, I will tell you : I 
+thought it would give ease to your anxious heart, and relieve 
+my friends, particularly my mother, from all distress about 
+me. This Board, I take it, will reside where Congress does. 
+The office is extensive and important, and therefore my 
+acceptance is with diffidence. However, I am determined to 
+spare no pains to comprehend and perform the duties of it. 
+I ardently hope my associates will accept. <a href='/results.php?tla=thm' rel='co-worker met'>General Mifflin</a> 
+is active, sensible, and of great knowledge in business, and 
+my friend Colonel Harrison is one of the worthiest of the 
+human race. The salary to each is, I understand, to be two 
+thousand dollars a year. This is better than my present 
+pay by one quarter. This, to a man without a fortune, 
+deserves attention. Not that I am mercenary : everybody 
+who has viewed my past life knows the contrary. But 
+a wife and child strongly impress my mind with the importance of laying up something. And my views have 
+extended farther. When the independency of America is 
+established (as I trust it will be), a Board of War will most 
+probably still exist. If, therefore, I find myself equal to 
+the duties of it, and give satisfaction, I, by accepting now, 
+may doubtless secure a permanent support ; and this prospect, when I think of you and your dear babe, gives me no 
+small joy. Tis possible the business of the department 
+may call me eastward; if not, I imagine you will be 
+less impatient to see me, as being removed from the military line. . . . 
+</p><p>
+Adieu, my dearest! Heaven guard you and your infant boy. 
+</p>
+</letter><letter id="tip4970">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+CAMP AT <a href='/results.php?city=whitemarsh' rel='city origin'>Whitemarsh</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='15'>15th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+SIR, 
+</p><p>
+I was honored with your favor of the 8th instant, en 
+closing a minute of Congress intimating my appointment to 
+the Board of War. This mark of their confidence demands 
+my sincere acknowledgments. I accept the commission; 
+and, as speedily as the situation of my present affairs will 
+admit, shall enter upon the execution of it. 
+The business of the department I am not fully informed 
+of, but conceive it to be very extensive, and of high importance. As such, I accept the office with diffidence. I 
+am personally known to some gentlemen in Congress ; I 
+wish they may not have mistaken my abilities. Often an 
+opinion has been formed of them, which, however flattering, 
+was really a source of mortification to me, from a consciousness that they were rated too high. For nothing, 
+therefore, can I engage, but my industry and fidelity ; and, 
+if application will enable me to comprehend and execute the 
+duties of the office, Congress, I hope, will never have reason 
+to regret the appointment with which they have been pleased 
+to honor me. I am, Sir," &c. 
+</p>
+</letter><letter id="tip4971">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+HEAD-QUARTERS AT <a href='/results.php?city=whitemarsh' rel='city origin'>WHITEMARSH</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+... Colonel Harrison yesterday went to Reading to see 
+<a href='/results.php?tla=thm' rel='co-worker met'>General Mifflin</a>, being in some doubt whether to accept or 
+not. I hope ardently that he will, because he is a sensible, 
+a diligent, a most worthy, honest man, with whom I live in 
+the greatest harmony, and whose inclinations correspond 
+with mine. ... I am aware of the vast importance of 
+the office ; and when the intention of Congress to appoint 
+Colonel Harrison (the General's [Washington s] first Secretary) and me was first intimated to the General, I was 
+surprised, deeming the office above my abilities and knowledge. But the General thought the Congress made a discreet choice, observing (to Mr. Harrison) that those who 
+had been in the army could best judge of its wants, and, 
+having felt them, would of course most probably provide 
+suitable supplies, so far as the means were in their power. 
+I suppose the General's approbation was sent to Congress ; 
+for, in a few days after, the appointments were made. I 
+wondered a little the General should be so ready to part 
+with Colonel Harrison, because he was his acquaintance 
+before the war, had been with him two years as Secretary, 
+very diligent in business, and high in his estimation. 
+Nothing but the greater public good could have induced 
+him to part with Colonel Harrison. 
+With regard to myself, I think I can do as much public 
+service in this new office as in that I now hold ; and, at 
+the same time, it will be attended with circumstances much 
+more agreeable to me. My present business has been one 
+continued course of attention and unremitting toil ; for, of 
+the five months I have been in the service, during one only 
+have I had any assistance. I could have none while remaining in the General's family, because my deputy could not 
+also be admitted. The General's family is large, and I 
+cannot wonder that he was unwilling to increase it. I only 
+wish he had sooner explained his mind. On the 1st of 
+September I got a deputy [Lieutenant-Colonel Smith] , and 
+then first found that he could not make one of the family. 
+This put me in a situation quite disagreeable, and I did not 
+expect the deputy would have consented to serve ; but he 
+did ; and, to render his situation as tolerable as possible, I 
+went to board with him while at Wilmington, for I had 
+quarters at a house close by head-quarters ; but this lasted 
+only a week, when the army marched. In two or three 
+days, the General, observing my absence from table, sent 
+one of his aids to tell me that he feared I had mistaken him, 
+and that, although he could not admit of an addition to his 
+family by my deputy, yet he always wished me to make 
+one of it. I told the aide-de-camp (who was my intimate 
+friend) I had not mistaken him ; but, as it was inconvenient 
+to the General to admit my deputy at the same time, the, 
+situation of the latter must be so disagreeable that I could 
+not think of separating from him in such manner. -After 
+quitting Wilmington, we were so continually shifting ground, 
+and in places where houses were thinly scattered round, there 
+was no possibility of my deputy's being elsewhere than at 
+head-quarters ; but I know his feelings were much hurt by it. 
+</p><p>
+On the 4th of October, Lieutenant-Colonel Smith was 
+wounded, and from that time I have been without help. 
+Many wondered I did not get another deputy, or assistant ; 
+but, when I told them the reason, they ceased to wonder, and 
+confessed the case difficult. But I will not tire you further 
+with this detail. Had I remained any longer in the office 
+of Adjutant-General, I would, upon our next move, and 
+always afterwards, have taken separate quarters, and got a 
+deputy. This would have been sometimes very inconvenient, because I came away, you know, altogether unprepared 
+to keep a table of my own : however, I should have been 
+able to do my business with a vast deal more ease and 
+satisfaction, though I must have lived at much greater 
+expense. . . . 
+</p><p>
+My new appointment I revolved in my mind deliberately ; a variety of motives conspired to lead me to accept 
+it; and, after concluding that I could serve the public at 
+least to as much advantage as in my present office, every 
+personal consideration was strongly in favor of my accepting it. A more laborious office, I was sure, I could not 
+have ; and the hurry, noise, and bustle of a camp are less 
+compatible with one's ease than the quiet and regular 
+periods of labor and rest to be enjoyed in the country in 
+my new employment. . . . 
+</p><p>
+... When my friends read this letter, they may wonder 
+at the facility with which I contemplate a separation from 
+them. Much pleasure, indeed, have I enjoyed in their society, and still wish to enjoy. Nowhere can I expect to find an 
+equal kindness and affection. But these considerations yield 
+to capital advantages to one's family; and every married 
+man knows that a wife and children are more than parents, 
+brothers, sisters, and other relatives combined. Besides, 
+the business of my department may probably carry me in 
+the way of seeing them at least once a year, which is as 
+frequently as they see some other branches of the family not 
+fifty miles distant ; and I am sure they would hear from me 
+as often as they do from them, and oftener. 
+</p><p>
+I expect, the latter end of this week or the beginning of 
+next, to set off for Yorktown, where Congress sits. Millet
+will go with me. I gave him full expectation of my serving, 
+during the war, in the military line, and that he should be 
+with me. He enlisted on that footing only. Were I to 
+leave him in the service, I should disappoint and deceive 
+him, and render him very unhappy. I shall therefore pro 
+cure his discharge, which I think the General will grant 
+without difficulty. The bounties Millet has received from 
+the State of Massachusetts Bay and from the town I shall 
+be ready to refund ; and, then, he will be a cheaper servant 
+to me than any I could hire at this time, by far ; and his honesty, care, fidelity, and prudence stand unimpeached. . .
+</p>
+</letter><letter id="tip4972">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+CAMP AT THE <a href='/results.php?city=valley forge' rel='city origin'>VALLEY FORGE</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1777' rel="origin">1777</a> . 
+</p><p>
+...  You tell me you embraced the opportunity by Mr. Goodhue to write to me, though you had nothing new to 
+acquaint me with ; and yet you filled up nearly three pages. 
+I often begin to write to you without a single idea in ad 
+vance; but my love, ever faithful and alive, suggests at all 
+times some things which I conceive you wish to hear besides 
+the news of the day, which to me arc always the dullest part 
+of my letters. I am always happiest when I am adverting 
+to our mutual love and esteem, and to those circumstances 
+which particularly respect ourselves and our little son. I 
+often contemplate (and it has been my principal enjoyment) 
+the bliss we shall feel on our next joyful meeting, though I 
+repine deeply that it is probably at such a distance. . . . 
+I think on your peculiar state, without father, mother, 
+brother, or sister, and wish the more to be ever present 
+with you, that in the care, protection, and love of a husband, you may find all these wants more than supplied. I 
+am indeed happier than most men would be ; for, though 
+you are destitute of, yet I am blessed with, all those dear 
+relatives ; and such affection unites the family, that, even in 
+my absence, you must experience from my parents, brothers, 
+and sisters all the fruits of parental and fraternal love. I 
+am deceived if you do not find in them all the kindness 
+which is generally to be expected from kindred blood. . . . 
+I remember now you have mentioned their kindness, particularly brother Gardner's, who has been at home, has had 
+it in his power, and has laid himself out, to oblige you. He 
+is a kind-hearted man as lives ; and tears of gratitude this 
+moment fill my eyes for the substantial, friendly offices he 
+has done you. My sister Gardner, too, with the strictest 
+economy, is most obligingly generous. . . . 
+The army is come to its ground, and this day we begin 
+to hut. . . . 
+</p></p>
+</letter><letter id="tip4973">
+<recipient first="Rebecca" last="Pickering" type="individual"/>
+<p>
+Camp at the <a href='/results.php?city=valley forge' rel='city origin'>Valley Forge</a>, [<a rel='day origin' value='24'>24th</a> of <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777' rel="origin">1777</a> ] he again wrote from 
+</p><p>
+... This is the fruit of war. Ah ! that greater ills did 
+not attend it ! Compared with the distresses of some, ours 
+are but slight and temporary inconveniences. We still live, 
+and are even happy in the anticipation of future joys, 
+while multitudes have fallen by the iron hand of war. How 
+many tender, fond connections have been broken by it ! 
+How many parents hearts have been rent with grief, 
+how many widowed mates, how many spotless virgins (like 
+the drooping lilies), have bowed their heads, oppressed 
+with sorrow, at the loss of children, husbands, lovers ! 
+And, my amiable mate, the possibility that that might be 
+your lot has cost me many a tear. But God has spared me, in mercy to us both, in kindness to my parents and 
+friends, in favor to our sweet babe, and, I hope, not 
+without future benefit to my country. Let us, my dear, 
+ever gratefully acknowledge God's goodness to us, and 
+devoutly pray for the continuance of it . . .
+</p><p>
+[December 29th] 
+</p><p>
+... I remain well, and soon expect a summons from 
+Congress to repair to the Board of War at Yorktown ; for, 
+contrary to what I had heard, . . . that <a href='/results.php?tla=hog' rel='co-worker'>General Gates</a> 
+was gone to <a href='/results.php?city=boston' rel='city'>Boston</a>, a friend of mine just from York in 
+forms, that Gates had accepted his appointment, and was 
+daily expected there, and that upon his arrival the Board 
+would be formed. I understand there is a vast field of 
+business to be laid open to the Board, so that I despair of 
+seeing you till the spring. Then, I hope and expect to re 
+turn with you and your boy. . . . The information of my 
+friend, above referred to, renders your coming with me in 
+the spring still more necessary than I had imagined j for, 
+though flour at Yorktown is less than four dollars a hundred, 
+and beef but about eight pence, lawful money, [eleven cents 
+and one ninth,] a pound, yet the members of Congress give 
+thirty-seven dollars and one third a week for their board, 
+without a servant, and but middling fare into the bargain. 
+This sum would be considerably more than the amount of 
+my wages per week ; of course I cannot live in that manner. 
+And, as the necessaries of life are so cheap there, tis plain 
+this dearness of board must be a most abominable extortion, 
+and enhanced chiefly for cooking your food and finding a 
+bed. Before I heard this, I had thought of a scheme for living 
+at such a moderate expense as would enable me to maintain 
+you and our son, as well as myself. This was by taking 
+lodgings two or three miles out of town. At that distance 
+I imagine I can live at a quarter of the expense ; for I would 
+buy my own hay and firewood, and then I should have no 
+one to pay extravagantly for feeding my horse or my fire ; 
+for Millet can do both, and cook, too, extremely well, if 
+need be. And this distance would by no means hinder 
+me in the general course of business. On the other hand, as 
+I expect close application will be necessary, to ride or walk 
+that distance daily will be extremely beneficial, if not necessary, for my health. Now, the principal necessaries of life 
+being thus cheap, were you with me to conduct the family 
+affairs, the whole might ... be supported at much less, or, 
+at least, without greater expense, than I alone at board. ... 
+</p><p>
+Tuesday morning, December 30th. I might have told 
+you, that, since our arrival at this place, which was on the 
+20th instant, I have been at my own quarters, separate from 
+the General's family, at whose quarters they are exceedingly 
+pinched for room ; and, as I am in a house where there is a 
+family, Millet borrows such utensils as are necessary for 
+cooking. Had I conceived how much satisfaction, quiet, and even leisure, I should have enjoyed at separate quarters, I 
+would have taken them six months ago. For at head-quarters there is a continual throng, and my room, in particular, 
+(when I was happy enough to get one,) was always crowded 
+by all that came to head-quarters on business, because there 
+was no other cover for them, we having, for the most part, 
+been in such small houses. Besides, at head-quarters much 
+business passed through my hands, which is now done by the aides-de-camp, and I get rid of, being absent.
+</p>
+</letter>

@@ -1,0 +1,27 @@
+<letter id="jol4905">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, WAMPOLES, <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+"When an opportunity offers, however little I have 
+to communicate, my desire of conversing with you 
+leads me to take up the pen at all events even tho the 
+impossibility of giving you information upon public 
+and more interesting objects should confine me to the 
+old family style of I continue in good health as I hope 
+you do, etc. 
+The northern intelligence which was accidentally 
+handed to us yesterday, but which you no doubt have 
+received in proper form, is subject matter for congratulation. 
+</p><p>
+I beg leave to felicitate you upon the victory gained 
+over the haughty <a href="/results.php?tla=jhb" rel="adversary">Burgoyne</a>, a victory which derives 
+much of its importance from the critical time in which it happened. It was announced to the American prisoners in Howe's possession by a flag that happened 
+to be going in yesterday. After all my good intentions I am obliged to break off abruptly, as Mr . Harrison 
+the bearer hurries me, and my letter will serve only to inclose one left here yesterday for <a href="/results.php?tla=ccp" rel="met co-worker">Col. Pinckney</a>. 
+</p><p>
+Yours affection'y 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

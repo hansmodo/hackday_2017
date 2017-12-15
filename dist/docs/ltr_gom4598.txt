@@ -1,0 +1,42 @@
+<letter id="gom4598">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="10">October</a> <a rel='day origin' value='3'>3d</a>, <a href='/results.php?year=1791' rel="origin">1791</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am favored with yours of the twenty-sixth of July,  for 
+which I pray you to accept my thanks. I mentioned to you 
+from London, that Mr Walpole had been offered the place of 
+Envoy Extraordinary to the United States, which he had refused. I took care to avoid any sort of intercourse with the 
+government while I was there, and of course could not possess 
+any minute information worthy of your notice. I avoided also 
+seeing any of the chiefs of opposition, lest some conclusions of 
+a disagreeable nature should be drawn from that circumstance. 
+Of course it was not until my arrival in this city, that I learnt 
+(from the British Ambassador here) what had been done. 
+Mr Hammond was sent for from Spain, and passed through 
+this city while I was in London. I do not know whether he is gone out ; if not, you have long since I suppose received the 
+communication of his appointment. The plan seems to have been that which I long since mentioned, viz. the sending out a 
+minister with letters of credence in his pocket, to be delivered when you shall appoint one to their court. 
+</p><p>
+From a variety of small circumstances I am convinced, that the British cabinet begins very seriously to consider its situation in respect to us. The rapid rise of our credit, the wise 
+decisions of our courts, the general peace and order which 
+prevail, and the gradual display of our population, wealth, and 
+industry, produce very great effect upon their minds. Let 
+me add that the calm dignity of those, who are at the head of 
+our affairs, has a considerable influence. Events confirm me 
+in the opinion, which I formed from an attentive consideration of the subject, and I think we may calculate almost with 
+certainty on forming a good treaty with that country, as soon as 
+they shall determine to form any treaty ; and until that time, 
+I agree fully with you, that attempts on our part should be such 
+only, as to justify to the world that conduct which it becomes 
+us to pursue. I know that among the many, whose duty or 
+occupation it may be to consider this subject, there must be a 
+variety of opinions, because dispositions differ, because prejudices exist, because interests sway, in a word, because men are 
+men ; but Time will set his seal of truth on that which is right. 
+I am, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

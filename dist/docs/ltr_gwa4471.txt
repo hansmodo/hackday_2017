@@ -1,0 +1,33 @@
+<letter id="gwa4471">
+<recipient first="Paul" last="Jones" type="individual"/>
+<p>
+TO THE CHEVALIER PAUL JONES. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+My partial acquaintance with either our naval or commercial affairs makes it altogether impossible for me to 
+account for the unfortunate delay of those articles of 
+military stores and clothing, which I have been informed have been so long provided in France. If I had 
+had any particular reason to suspect you of being 
+accessory to that delay, which I assure you was not 
+the case, my suspicions would have been removed by 
+the very full and satisfactory answers, which you have, 
+to the best of my judgment, made to the questions 
+proposed to you by the Board of Admiralty, and upon which that Board have in their report to Congress 
+testified the high sense, which they entertain of your 
+merits and services. 
+</p><p>
+Whether our naval affairs have been well or ill conducted, it would be presumptuous in me to determine. 
+Instances of bravery and good conduct in several of 
+our officers have not been wanting. Delicacy forbids 
+me to mention the particular one, which has attracted 
+the admiration of all the world, and influenced a most 
+illustrious monarch to confer a mark of his favor, that 
+can be attained only by a long and honorable service, 
+or by the performance of some brilliant action. That 
+you may long enjoy the reputation you have so justly 
+acquired, is the sincere wish of Sir, &c. 
+</p>
+</letter>

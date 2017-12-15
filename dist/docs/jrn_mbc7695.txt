@@ -1,0 +1,17 @@
+<letter id="mbc7695">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='21'>21st</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Both of us were too ill to attend <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a> reception. It proved a very sensational one. First, 
+a fire in the house, then a robbery said to be an arranged plan of the usual bribed servants there and some escaped 
+Yankee prisoners. To-day the Examiner is lost in wonder at the stupidity of the fire and arson contingent. If they 
+had only waited a few hours until everybody was asleep; after a reception the household would be so tired and so 
+sound asleep. Thanks to the editor's kind counsel maybe the arson contingent will wait and do better next time. 
+</p><p>
+Letters from home carried Mr. Chesnut off to-day. Thackeray is dead. I stumbled upon Vanity Fair for my 
+self. I had never heard of Thackeray before. I think it was in 1850. I know I had been ill at the New York Hotel, 
+and when left alone, I slipped down-stairs and into a book store that I had noticed under the hotel, for something to 
+read. They gave me the first half of Pendennis. I can recall now the very kind of paper it was printed on, and the 
+illustrations, as they took effect upon me. And yet when I raved over it, and was wild for the other half, there were 
+people who said it was slow ; that Thackeray was evidently a coarse, dull, sneering writer ; that he stripped human nature bare, and made it repulsive, etc. 
+</p>
+</letter>

@@ -1,0 +1,241 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.C5pcbG on line 265
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4000
+--LETTER-TLA--wig
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Grenville
+--DOC-SOURCE--The Life John Jay With Selections from His Correspondence and Miscellaneous Papers. by His Son, William Jay in Two Volumes. Vol. II., 1833.
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wig4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='11'>11th</a>, <a href='/results.php?year=1795' rel="origin">1795</a>, 
+</p><p>
+My dear Sir, 
+</p><p>
+I cannot resist the desire I feel of availing myself of the 
+opportunity of the first packet since your departure, to 
+express to you how happy you would make me by allowing me occasionally to recall to your recollection, in this 
+manner, one who will always entertain for you the most 
+sincere esteem and friendship. I am particularly anxious 
+to hear of your safe arrival, and that you have found your 
+family and friends well. These are points paramount to 
+all other considerations ; but I know your return to your 
+country will not be fully satisfactory to you, unless you 
+have also found the state of public affairs such as to promise 
+the continuance of good order and tranquillity. That it 
+may be so no one more sincerely wishes than myself, and 
+it would be a great satisfaction for me to hear it from you. 
+</p><p>
+Since you left us, the news of the arrival of the treaty in America has reached us. We were singularly unfortunate 
+in the loss of the Tankenville packet. By a strange negligence, the November and December mails from hence were 
+both put on board that ship, without our having any notice 
+of it from the post-office ; so that while I thought we were 
+sending duplicates by two different conveyances, we were 
+in fact sending them by the same vessel. My letters to 
+Governor Simcoe, which I have frequently mentioned to 
+you, and my despatches to Mr. Hammond on the subject 
+of the treaty, were on board the same ship ; so that this 
+accident has thrown us far back in the arrangement of many 
+material points. I hope, however, that with attention, and 
+a continuance on the part of the two governments of the 
+same disposition which actuated all our communications 
+and negotiations here, the great work which we have begun 
+will be carried to its full extent. 
+</p><p>
+I have not been inattentive to the points which remain to 
+be settled here. One of the most material is, I flatter myself, in a train of being well arranged. I mean that which 
+relates to the admiralty courts in the West Indies, which it 
+is in contemplation immediately to diminish in point of 
+number, so as to have them only at Jamaica, Barbadoes, 
+Grenada, Antigua, and Martinique. Knowing, as I do, how 
+much evil has been produced by the multiplication of these 
+courts, I look to this reduction with very sanguine hopes. 
+But I hope the regulation will not stop here, but that the 
+effect of it may lead to render the practice of those which 
+will remain more correct and cautious than I fear it has 
+hitherto been. 
+</p><p>
+The impossibility of our receiving the ratification of the 
+treaty till quite the end of July, leaves us no chance of 
+being able to propose to parliament, during the present 
+session, those matters connected with the treaty in which 
+the interference of the legislature is necessary. I know 
+that this delay will be misconstrued on your side of the 
+water ; but it is unavoidable. I requested <a href="/results.php?tla=top" rel="colleague met">Mr. Pinckney</a>, 
+before he went to Spain, to write to America on this point, 
+in order that the explanation of it might not rest merely on 
+the communications of our minister there. You will be 
+able to speak with still more knowledge and effect to the 
+same point. Whatever does not depend on the repeal or 
+alteration of existing laws, will be immediately executed on 
+the receipt of the ratification. 
+</p><p>
+The public papers and other communications will inform 
+you fully of the state of affairs in Europe. The dispositions 
+of the people in France are evidently turning very fast to 
+the establishment of some settled order, which may relieve 
+them from the miseries of their present anarchy. In a 
+similar situation in this country, we experienced the advantage of a known and moderate form of government under 
+which the nation had before been happy, and to which, therefore, it returned with enthusiasm and almost with unanimity. 
+The want of such a standard to resort to is now, as far as 
+I can judge, the great obstacle to the restoration of order in 
+France, and, consequently, of peace in Europe. Mild as 
+their old government was in its practice, it was attended 
+with many circumstances the renewal of which creates 
+great apprehension and uneasiness ; and there is no authority 
+of sufficient weight to prescribe the form and limits of any 
+change. Some of the belligerent powers are, as you will 
+have seen, too impatient to wait the result of this doubtful 
+issue. To others, all idea of peace which shall not give 
+better security than the signature of the committee of 
+safety, or the ratification of the convention, seems delusive 
+and dangerous ; and to this sentiment I profess myself 
+strongly inclined. You are happy in America if you can 
+avoid, as I trust you will, the dangers both of the war and 
+of the peace. 
+</p><p>
+With the sincerest wishes for your prosperity, 
+Believe me, sir, 
+Your most attached and faithful humble servant, 
+</p><p>
+<a href="/results.php?tla=wig" rel="me">Grenville</a>. 
+</p>
+</letter><letter id="wig4001">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=cleaveland row' rel='city origin'>Cleaveland-row</a>, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='17'>17th</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I cannot let Mr. Listen go, without taking the occasion 
+of his departure to recommend him to you, and to express 
+my hope that his character and conduct will be found well 
+calculated to continue and promote that harmony, which it 
+was the object of our labours to establish. I have, since 
+you left us, taken one occasion to renew to you my assurances of the sincere esteem and friendship with which your 
+whole conduct has impressed me, and of the high sense 
+which I entertain of your virtues and talents. It is a great 
+satisfaction to one, when, in the course of so many unpleasant 
+discussions as a public man must necessarily be engaged 
+in, he is able to look back upon any of them with as much 
+pleasure, as I derived from that which procured me the 
+advantage of friendship and intercourse with a man valuable on every account. You, I trust, saw enough of me to 
+know that these expressions are not, on my part, compliments of course, but that they proceed from sentiments of 
+real esteem and regard. 
+</p><p>
+I need not tell you with how much pleasure, on every 
+account, I have learned that the public in the United States 
+are recovering from the delusion into which they had been 
+led, and that justice is now done by the country at large, as 
+it was before by well informed and well principled men, to 
+the uprightness and ability of your conduct. I, on my part, 
+should have thought, that I very ill consulted the interests 
+of my own country, if I had been desirous of terminating 
+the points in discussion between us, on any other footing 
+than that of mutual justice and reciprocal advantage ; nor 
+do I conceive that any just objection can be stated to the 
+great work which we jointly accomplished, except on the 
+part of those who believe the interest of Great Britain and 
+the United States to be in contradiction with each other, 
+or who wish to make them so. 
+</p><p>
+It would be a great gratification to me to learn occasionally that you are well, and that you retain a friendly recollection of one who is, with the greatest sincerity, 
+Most truly and faithfully, 
+</p><p>
+Your obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=wig" rel="me">Grenville</a>. 
+</p>
+</letter><letter id="wig4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=dropmore' rel='city origin'>Dropmore</a>, <a rel="month origin" value="7">July</a> 	<a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1796' rel="origin">1796</a>.
+</p><p>
+My dear Sir, 
+</p><p>
+It is a great satisfaction to me to have to acknowledge 
+two of your letters, and to be allowed the hope of hearing 
+from you more frequently. I should have been very sorry 
+to think that I w T as wholly out of your recollection, as I frequently reflect with pleasure on the opportunity I had of 
+becoming acquainted with a character which I saw so much 
+reason to esteem. 
+</p><p>
+Mr. Gore delivered to me, a few days ago, your letter of 
+introduction. He seems to be a sensible and moderate 
+man, and I shall have great pleasure both in facilitating, as 
+far as may depend on me, the public objects of his mission, 
+and in showing him any private attention and civility 
+that maybe in my power. I think he and his colleague 
+will be well satisfied with the choice which has been made 
+here for that commission. Both Dr. Xieoll and Mr. Ansty 
+are known (in some degree) in America, the former by 
+character, the latter personally; and I trust the appointment has proved the spirit in which it was made. If I do 
+not deceive myself, the choice of the commissioners who 
+are going to America will not be less satisfactory. Their 
+names are not yet announced, but I look upon the appointment as very nearly, if not quite, fixed. 
+</p><p>
+Your letter of the 1st of May was delivered to me two 
+days ago, and I take the opportunity of this mail to answer 
+it. I have the greatest pleasure in hearing from you, that 
+you consider the questions which have agitated America 
+since your arrival as determined. I think we always felt 
+that even after the great points were adjusted, and a foundation of solid friendship laid, something must be still left for 
+the operation of time and temper. Where so much heat 
+has prevailed, irritation will remain among individuals, and 
+will occasionally produce inconvenience and embarrassment 
+to both governments. Mutual good disposition and confidence, a uniform and steady conduct in great points, and 
+moderation respecting those of less importance, must ultimately surmount these difficulties, as they have already 
+surmounted others which were much greater. 
+</p><p>
+With respect to the impressments, I am confident that 
+such orders as you speak of have been more than once 
+repeated. I speak from general impression, not having had 
+opportunity to ascertain the fact since I received your 
+letter. But I think I can answer for it that they shall be 
+renewed. In this country, much of the detail of that business has fallen within my own knowledge ; and I can say 
+positively, that I do not think one instance can be brought 
+where a seaman has not been discharged, who could produce, I do not say proof, but any probable, or even plausible ground for supposing him a native citizen of the United 
+States, or a resident there at the time of the separation from 
+this country. In some instances, the conduct observed has 
+been so favourable, that within the last week, before I 
+received your letter, two men were discharged, one on producing a certificate of an American consul here, which did 
+not recite on what grounds or from what proof it was 
+given, but merely asserted the fact that the bearer was an 
+American citizen ; and the other, on producing a paper 
+neither certified nor attested, but purporting to be a discharge from an American regiment of militia, — a paper 
+which, even if genuine, may, as you will easily see, have 
+passed into twenty hands before it was produced here. 
+</p><p>
+I saw in the proceedings of the last session of the Congress, some steps taken towards a regular establishment 
+for the granting certificates. If such an establishment were 
+formed, with proper and sufficient checks to prevent its 
+being abused, the effect would be to do away the greatest 
+part of our difficulties on the subject. But I much fear that 
+the ideas prevalent in America on the subject of emigration, will prevent this ever being well or satisfactorily done. 
+</p><p>
+I have been led into this discussion by what you say of 
+the advantage which might arise from giving orders, which 
+I am confident have been repeatedly given. The assurances of Mr. Liston on the subject will also, I trust, be 
+such as you seem to desire. 
+</p><p>
+I beg you to believe that you cannot do a thing more 
+agreeable to me, or, perhaps, more useful to the interest 
+of both our countries, than in expressing to me at all times, 
+freely and without reserve, your opinion as to the means 
+of maintaining that spirit which we jointly laboured to establish. This may be a means of rendering our correspondence greatly and permanently beneficial. Agreeable to 
+me it can never fail to be, while it conveys to me information of your welfare, and gives me the opportunity of 
+assuring you of the very sincere esteem and regard with 
+which 
+</p><p>
+I have the honour to be, my dear sir, 
+</p><p>
+Your most faithful and obedient humble servant, 
+</p><p>
+<a href="/results.php?tla=wig" rel="me">Grenville</a>. 
+</p>
+</letter>

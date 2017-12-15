@@ -1,0 +1,22 @@
+<letter id="sid5053">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='22'>22d</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+In obedience to the orders of Congress of the 8th of <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1777'>1777</a>, which I received the 4th of March, <a href='/results.php?year=1778'>1778</a>, I embraced the first opportunity of returning to America, 
+and on my arrival repaired with all possible despatch to Congress on the 13th of July last, since which time I have attended their orders in this city. I beg leave to remind 
+Congress, that early in January, <a href='/results.php?year=1776'>1776</a>, I had the honor of being engaged by their committee to go as their agent to 
+France, to transact important business for them, in the commercial as well as political departments, and that I have 
+ever since been in their service, in which I flatter myself I have been of some utility to them and to my country ; but that an absence of almost four years from my family 
+and private affairs, more than seven months of which I have waited to know their pleasure respecting me here, has so exceedingly embarrassed and distressed me, that I hope I 
+shall not be deemed guilty of an unbecoming impatience in pressing to know, if Congress have any further commands for me, and in what manner my past transactions, as their 
+agent and commissioner, are to be adjusted and closed. I have heretofore written repeatedly and particularly to Congress on this subject, and will not enlarge upon it at present, 
+but have the honor to be, with the utmost respect, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

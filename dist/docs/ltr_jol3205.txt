@@ -1,0 +1,67 @@
+<letter id="jol3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="11">April</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+When I last had the honor of writing to your Excellency, the enemy had not extended their operations beyond their place of arms on Wappoo Neck. 
+On the 29th ultimo they crossed Ashley River, in 
+force, one mile above the ferry. The next day they 
+advanced to Gibbes's, a convenient landing, about two 
+miles from town, having previously -collected a number of boats at the opposite shore, for the purpose of 
+crossing their heavy artillery and stores. My battalion of light infantry, posted there to prevent a surprise or too sudden approach of the enemy, was 
+ordered not to engage seriously, but skirmish with 
+advanced parties, retiring slowly and orderly towards 
+town, as there was no object in maintaining any advanced post, and the advantages of a serious affair 
+were all on the side of the enemy. 
+</p><p>
+On the night of the 1st instant, the enemy broke 
+ground, and have been working slowly ever since. I 
+scarcely know how to denominate what they have 
+executed hitherto. It consists of several redoubts, 
+with a covered communication from right to left, 
+which is still unfinished. Their nearest work is an 
+inclosed battery on their left, at about the distance 
+of six hundred yards, which indus me to believe, 
+that they intend the line in question for a first parallel, although some parts of it are rather too remote. 
+Our shells and shot have disquieted them, and interrupted their operations; but <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a>, sensible 
+of the value of these articles in a siege, economizes 
+them as much as possible. Fatigue parties are constantly employed in improving our works. The whole 
+front of our lines, within the abatis, is armed with 
+wolf-traps. All this affords an excellent defence 
+against storm, but must finally yield to a perseverance in regular approaches, which appears to be Clinton's present plan, unless we can work under his fire 
+as fast as he can, and afford time for the arrival of 
+your Excellency. 
+</p><p>
+Our obstructions in Cooper River are completed ; 
+which gives a prospect of our maintaining a communication with the country, and hitherto prevents 
+the accomplishment of the investiture. Since the 
+arrival of General Woodford, <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a> will 
+have it in his power to execute his plan of establishing the necessary posts for this purpose, on the eastern shore of the river. Colonel Malmedy is to take 
+command of the troops destined for that service. 
+</p><p>
+The enemy's squadron of seven armed ships, three of which are two-deckers, and two transports, availed 
+itself of a brisk southern breeze to pass Fort Moultrie yesterday afternoon. The Admiral's ship led the 
+van, and escaped without apparent injury; the frigate which followed her. had her fore topmast carried 
+away ; a large transport, in the rear of the whole, 
+ran aground, and, after receiving some shot from Sullivan's Island, was fired and abandoned by her crew. 
+The remainder are now anchored near the ruins of 
+Fort Johnson, out of the reach of our cannon. 
+</p><p>
+My notice of the present opportunity was so sudden, that I have not been able to make atonement 
+for my last hurried letter. Helving upon your Excellency's goodness, I have preferred writing, at any 
+rate, to total silence, and losing an occasion of repeating the assurances of attachment and veneration, 
+with which I have the honor to be, 
+</p><p>
+Your Excellency's faithful Aid, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">JOHN LAURENS</a>. 
+</p><p>
+P. S. I beg to be respectfully presented to Mrs. 
+<a href='/results.php?city=washington' rel='city'>Washington</a>. The reason above mentioned makes me 
+trouble your Excellency to present my love to the 
+family, as I shall not be able to write to any of 
+them. 
+</p>
+</letter>

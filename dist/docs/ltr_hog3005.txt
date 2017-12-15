@@ -1,0 +1,24 @@
+<letter id="hog3005">
+<recipient name="the president of congress" type="position"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have the honor to congratulate Congress upon the retreat of Lieutenant-General Sir Guy Carleton, with the fleet and army under his command, from Crown Point, Saturday last. The works being put into the best order, the boom and bridge of communication finished, and every necessary preparative for defence made, I determined to send a detachment down each side 
+of the Lake to beat up the enemy's quarters at their advanced post on Putnam's Point and the opposite shore. About eight at 
+night, the detachment, under the command of Major Delap, proceeded down the east side of the Lake ; and the other, under 
+Colonel Connor, down the west side. Sunday morning, Major Delap, with his detachment, took possession of Putnam's Point, 
+which the enemy had just abandoned, and immediately detached a subaltern, with a small party, to reconnoitre Crown Point. The 
+officer having returned, reported that he saw the enemy embark, a number of their vessels under sail, and the whole preparing to get under way. Colonel Connor, on taking possession of the post 
+opposite to Putnam's Point, found that likewise abandoned. Yesterday an officer, with a party whom I sent to Crown Point, returned and reported he had been at Crown Point, with the 
+inhabitants there; that the enemy were all gone from that post, and the inhabitants would come this day to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, to make their submission, and beg the protection of the United States. 
+</p><p>
+I cannot help observing, here, that the removal of our army from Crown Point to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> was a most fortunate and salutary measure ; for, had it continued at Crown Point after the disaster that befell our fleets, the enemy might have cut off all 
+our resources, by stationing their fleet above the Point. Desperate must then have been the situation of our army. I have the honor to be 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

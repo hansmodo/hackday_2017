@@ -1,0 +1,29 @@
+<letter id="isp3212">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+Three miles above <a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GOVERNOR, 
+</p><p>
+I received your agreeable favor, and congratulate you on the 
+glorious intelligence it contains of the capture of <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>. I have halted my troops, who were on their march 
+northward, and desirous of doing every thing to subserve our important cause, and bring our struggles to a happy and speedy 
+issue. I should be glad of your opinion respecting my future 
+movements whether I shall proceed to <a href='/results.php?city=albany' rel='city'>Albany</a>, or remain to 
+watch the motions of the enemy on the river, and protect the 
+shore, or move immediately down to attack King's Bridge, leaving all the York militia in Dutchess county to guard the river. 
+General Parsons, with about two thousand troops, is at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. 
+My troops will halt upon the road where they are, till I receive 
+your advice in the premises, which I request may be as speedy 
+as possible ; also, that you would acquaint me whether you will 
+probably be able to afford any assistance, in case it should be 
+thought advisable to move down to the Bridge. With esteem 
+and respect, I am, dear Sir, 
+</p><p>
+Your obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=isp" rel="me">ISRAEL PUTNAM</a>. 
+</p><p>
+P. S. If you should advise going to the Bridge, I desire Colonel Lamb would come down. 
+</p>
+</letter>

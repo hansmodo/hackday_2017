@@ -1,0 +1,22 @@
+<letter id="gom4692">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='14'>14th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+Thomas Paine has just made application to me, to claim 
+him as a citizen of the United States. The following, I believe, are the facts with regard to him. He was born in Eng 
+land; becoming afterwards a citizen of the United. States, he 
+gained great celebrity there, by his revolutionary writings. In consequence, he was adopted as a French citizen, and then 
+chosen a member of the Convention. His conduct from that 
+time has not come under my cognizance. I am ignorant of 
+the cause of his present detention in the prisons of Luxembourg ; but I pray you, Sir, if any reasons with which I am 
+unacquainted oppose his liberation, to have the goodness to 
+inform me of them, that I may communicate them to the government of the United States. I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

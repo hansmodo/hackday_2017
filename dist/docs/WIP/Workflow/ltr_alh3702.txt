@@ -1,0 +1,30 @@
+<letter id="alh3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+[<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1782' rel="origin">1782</a>.] 
+</p><p>
+Sir, 
+</p><p>
+I need not observe to your Excellency, that respect for the opinion of Congress will not permit me 
+to be indifferent to the impressions they may receive 
+of my conduct. On this principle, though I do not 
+think the subject of the inclosed letter of sufficient 
+importance to request an official communication of it. 
+yet I should be happy it might in some way be 
+known to the members of that honorable body. 
+</p><p>
+Should they hereafter learn that, though retained on the list of their officers, I am not in the execution of 
+the duties of my station, I wish them to be sensible that it is not a diminution of zeal which induces me 
+voluntarily to withdraw my services, but that I only refrain from intruding them, when circumstances seem 
+to have made them either not necessary or not desired, and that I shall not receive emoluments without performing the conditions to which they were 
+annexed. I also wish them to be apprised upon what 
+footing my future continuance in the army is placed, 
+that they may judge how far it is expedient to permit it. I therefore take the liberty to request the 
+favor of your Excellency to impart the knowledge of 
+my situation in such manner as you think most convenient. I have the honor to be, with perfect respect, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter>

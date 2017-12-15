@@ -1,0 +1,38 @@
+<letter id="wih3707">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, 	<a rel='day origin' value='15'>15</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+I arrived here yesterday afternoon, found the General Assembly sitting, and presented your letter to 
+<a href='/results.php?tla=jht' rel='colleague met'>Governor Trumbull</a>, together with a representation, 
+containing the spirit of my instructions. This morning I attended the Governor, Council, and the Representatives in the Council Chamber, when the papers were read, and I had an opportunity to speak on 
+them. The papers were committed to a Committee 
+of both Houses. I have the pleasure to acquaint 
+your Excellency, they had that attention paid to 
+them which their interesting importance required. A 
+resolution has passed to send on immediately one 
+hundred and sixty head of beef-cattle, which, it is 
+supposed, will amount to five thousand rations per 
+day, to the 1st of June. One thousand barrels of 
+salted meat are also to be forwarded with the greatest 
+despatch, with a quantity of rum. There are about 
+a thousand barrels of salted meat deposited in this 
+town ; it has been repacked, and is well stored. I 
+shall endeavour, in the morning, to obtain a return 
+of the whole quantity which has been procured in 
+this State. I believe an accurate return has never 
+been given in of the whole. 
+</p><p>
+An addition is made to the Committee of both 
+Houses, who are to proceed to the consideration of 
+the great supply for the campaign. Their resolutions 
+on this head I think will equal your expectations. I 
+have sent an express to Mr. Phelps, to forward all 
+the beef-cattle he can command, without a moment's 
+delay. I shall proceed to Rhode Island to-morrow, 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter>

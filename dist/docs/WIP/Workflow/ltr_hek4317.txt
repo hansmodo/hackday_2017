@@ -1,0 +1,100 @@
+<letter id="hek4317">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, 	<a rel='day origin' value='15'>15</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+My dear Sir, 
+</p><p>
+Possessing, as I do, a thousand evidences of your 
+friendship, I am persuaded that you will readily believe me, -when I say that my silence of late has 
+been the effect of my unwillingness to intrude, lest I 
+should for a moment prevent the consideration and 
+different views you give to the important subjects incessantly before you. 
+</p><p>
+Although the same cause continues to prevent my 
+interruption, yet I am apprehensive sometimes that 
+you may think me unmindful of your kindnesses, 
+especially after the receipt of your affectionate letter 
+by <a href='/results.php?tla=wib' rel='met'>Mr. Bingham</a>, the last summer. The loss of two 
+lovely children, on which you condoled in that letter, 
+has been recently revived and increased by the death 
+of our son, of seven years of age, bearing your name. 
+His health has always been delicate, having been 
+born prematurely. We flattered ourselves that his 
+constitution would mend with his years, but we have 
+been disappointed. Unfortunate, indeed, have we been 
+in the death of eight of our children, requiring the 
+exercise of our whole stock of philosophy and religion. We find ourselves afflicted by an irresistible, 
+but invisible power, to whom we must submit. But 
+the conflict is almost too great for the inconsolable 
+mother, who will go mourning to her grave. 
+</p><p>
+We have lately come from St. George's to pass the 
+winter in this town. Indeed, this is our general plan. 
+We may, however, as we grow older, find it inconvenient. We are distant about two hundred miles by 
+land, which we may easily ride in six days, the snow being on the ground, or with wheels with a little 
+improvement of a small portion of the road. The 
+taverns on the route are as good as on any other 
+two hundred miles on the Continent. 
+</p><p>
+I am beginning to experience the good effects of 
+my residence on my lands. I may truly say that 
+the estate is more than double in its value, since I 
+determined to make it my home. The only inconvenience we experience, is the want of society. This 
+will probably lessen daily. Our communication by 
+water to this town is constant and cheap. We can 
+obtain the transportation of any article from this town 
+to St. George's, cheaper than the same can be carted 
+from any store to the vessel. This egotism would require an apology to any other person than yourself 
+</p><p>
+For your own sake, I rejoice at the near approach 
+of your retirement. In it, I pray God that you may 
+enjoy all the felicity, of which the human condition 
+is susceptible. The consciousness of having acted well, 
+would, under any circumstances, have elevated your 
+soul above the peltings of storms raised by malice 
+and envy But in addition to this consciousness, the 
+consecration of your retirement by the unlimited gratitude of your country, must present, in the decline of 
+your life, the most perfect reward. 
+</p><p>
+I flatter myself, before you leave the helm, you 
+will have dissipated the clouds raised by the causeless jealousy of the French Administration. If not, 
+we must appeal from them, mad and drunk with 
+power as they may be, to the time when they shall 
+have recovered their senses. We have not injured 
+them, but have only taken those due precautions, 
+which our own happiness required. If they madly 
+continue to war against our innocent and rightful 
+commerce, we must make an account thereof, and 
+look for compensation through all the events of ages, 
+and we shall assuredly find it at some period or 
+other, with full interest. But I hope we shall not, 
+under any circumstances, at present, attempt reprisals. 
+Their fit of insanity cannot last long. St. Domingo 
+is, and will be in the course of this winter, the victim of the villany of its Administration. The whites 
+will either he starved or murdered by the blacks. 
+</p><p>
+It cannot be expected that there will be any danger of the French attempting an invasion of our 
+country. But if they should, we must resist. And 
+this appears to be the only case in which we should 
+suffer ourselves to be dragged into the war. What 
+an eventful winter this will be at Paris ! Especially, 
+if the army of Italy should be arrested, or defeated, 
+in addition to the retreat of the two armies of Jourdan and jNIoreau, from Germany. From information 
+generally circulating here, and particularly from , 
+</p><p>
+who has the last autumn arrived from France, in 
+which he resided for several years, no doubt rests in 
+my mind, but the measures of the French Administration towards this country, have been excited by 
+the Americans in Paris, in consequence of letters received from persons of the same opinions in the United States. 
+</p><p>
+I had not intended to intermix any politics in this 
+letter, which I meant solely as the recognition of a 
+grateful heart. But they have thrust themselves in 
+unawares. Mrs. Knox unites with me in presenting 
+our respectful and affectionate attachments to you and 
+Mrs. Washington. And I am, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

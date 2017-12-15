@@ -1,0 +1,36 @@
+<letter id="alh3206">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value="28">28</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+The result of what I have seen and heard concerning the enemy is, that they have encamped with 
+their van a little beyond Monmouth Court-House, and 
+their rear at Manalapan's River, about seven miles 
+from this place. Their march to-day has been very 
+judiciously conducted, their baggage in front and 
+their flying army in the rear, with a rear-guard of 
+one thousand men, about four hundred pas from 
+the main body. To attack them in this situation, 
+without being supported by the whole army, would 
+be folly in the extreme. If it should be thought 
+advisable to give the necessary support, the army 
+can move to some position near the enemy's left 
+flank, which would put them in a very awkward 
+situation, with so respectable a body in their rear ; 
+and it would put it out of their power to turn either 
+flank, should they be so disposed. Their left is 
+strongly posted, and I am told their right also. By 
+some accounts, one part of his army lies on the road 
+leading from the Monmouth road to South Amboy. 
+It is not improbable that South Amboy may be the 
+object. 
+</p><p>
+I had written thus far when your letter to the Marquis arrived. This puts the matter on a totally 
+different footing. The detachment will march tomorrow morning, at three o clock, to <a href='/results.php?city=englishtown' rel='city'>Englishtown</a>. I 
+am, with great esteem and respect, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

@@ -1,0 +1,75 @@
+<letter id="arc3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=pompton' rel='city origin'>Pompton</a>, 7 o'clock A. M., <a rel="day origin" value="3">3</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+<a href='/results.php?tla=aab' rel='colleague met'>Colonel Burr</a> arrived here about three o clock, from 
+<a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a>, and brings intelligence of the surrender of the Fort upon Verplank's Point, yesterday, 
+about eleven o clock, by capitulation. The garrison 
+are prisoners of war, and the officers have liberty to 
+wear their side-arms. 
+</p><p>
+I have no letter from <a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a>; but he 
+is clearly of opinion the enemy mean to attack the 
+posts (at least Fort Arnold, the carrying of which 
+would open to them the navigation of the river) 
+in the Highlands. <a href='/results.php?tla=aab' rel='colleague met'>Colonel Burr</a> informs me, that, 
+by landing near where Fort Montgomery stood, and 
+marching to the Forest of Dean, they would fall intoa clove, which runs entirely round that ridge on 
+which the forts are situated, and through which a 
+road might be made almost as fast as an army could 
+march. By this clove <a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a> thinks the 
+forts will be invested. Betwixt this clove and Smith's 
+is a chain of hideous mountains, but through them 
+are, no doubt, many passes, with which they may 
+be made acquainted by the inhabitants whom they 
+have debauched, and would thereby be able to give 
+much annoyance to any convoys that might pass by 
+Smith's, supposing it necessary to make use of that 
+road. 
+</p><p>
+It seems to be <a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a>'s wish that I 
+should move to <a href='/results.php?city=new windsor' rel='city'>New Windsor</a>, and he thinks that the 
+occupying Butter Hill might prevent the attack upon 
+Fort Arnold from the upper side. At the same time 
+the state of the provision is very alarming. Not 
+much above three weeks in the respective forts, and 
+the militia called in; and their principal dependence 
+for further supplies is upon their being transported 
+across the country, from Sussex or Delaware. 
+</p><p>
+I think I could easily reach <a href='/results.php?city=new windsor' rel='city'>New Windsor</a>, or at 
+least be so far advanced, through the clove, as to be 
+out of all clanger of being intercepted. But it is necessary first to have intelligence from the river, lest 
+the parts of your army on this side of it should be 
+too much separated, and exposed to be beaten by 
+piecemeal. This I will endeavour to procure, and act 
+according to circumstances, of which I will take care 
+to give your Excellency notice. Notwithstanding the 
+general opinion, that the forts are the enemy's object, 
+<a href='/results.php?tla=aab' rel='colleague met'>Colonel Burr</a> mentions circumstances that leave it 
+still doubtful. Their troops are landed at various 
+places on the east side of the river, and at Haverstraw on the west; and, after the surrender of the 
+fort, their largest armed vessel, supposed to be of 
+eighteen guns, and a galley, which had passed be 
+fore, were seen towing down again. 
+</p><p>
+As the passage through the clove is somewhat dangerous for single persons, I shall send two horsemen 
+back with <a href='/results.php?tla=aab' rel='colleague met'>Colonel Burr</a>, and shall, through him, communicate to <a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a> verbally. It may, 
+perhaps, be necessary to form a march through the 
+clove, in which case, I shall leave my baggage at this 
+place, to be forwarded afterwards, as your Excellency 
+may think proper. 
+</p><p>
+Our provision wagons will not be able to supply 
+us, when at a greater distance, four only being al 
+lowed to each brigade, and three of these broke down 
+upon the road. I am, Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+ARTHUR ST. CLAIR. 
+</p>
+</letter>

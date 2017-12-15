@@ -1,0 +1,30 @@
+<letter id="nib5342">
+<recipient first="John" last="Forsyth" type="individual"/>
+<p>
+(Private) <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="11">Novem.</a> <a rel='day origin' value='27'>27th</a>. <a href='/results.php?year=1838' rel="origin">1838</a> 
+</p><p>
+My dear Sir 
+</p><p>
+I have been wanting for some days past to go and talk with you; but I presume that I must pay the penalty of 
+my notoriety by abstaining from being in Washington just now, and accordingly I write what I would much rather say. What I wanted to speak of was 
+</p><p>
+1. Texas. 
+</p><p>
+I mentioned when you were here, the intention of that Govt. to withdraw its application for admission into the 
+Union. That is now done, and it is very important that the President in his message should speak kindly and if possible 
+cordially about that country, intimating that this withdrawal does not abate any of our good feelings towards 
+Texas, and that we wish her prosperity. One kind word might do her good ; and that word may now be hazzarded with 
+out much risk, for I have reason to know that it will be repeated and approved by some of the most prominent leaders 
+of the opposition. I wish therefore you would see that the message is kindly on that point. 
+</p><p>
+The other matter was 
+</p><p>
+2. That part of the message which relates to money. I do 
+hope that he will not vamp this worn out foolery of <a href='/results.php?tla=jcc' rel='colleague'>Mr Calhoun</a>, and say any more about the Sub Treasury. The coun 
+try is disgusted with the subject, It cannot possibly do any good to the country, it will do great harm to Mr Van 
+Buren ; and if he will only say nothing about it we may get along very well; but if we are to have any more such 
+nauseous stuff, men now well disposed to the President will be alienated, and it will not be easy to forsee all the consequences. 
+</p><p>
+Now upon these two matters I pray you to take order. You are politically responsible for the acts of this administration; you may be personally responsible for the next administration, if you do not permit these experiments to be continued. 
+</p>
+</letter>

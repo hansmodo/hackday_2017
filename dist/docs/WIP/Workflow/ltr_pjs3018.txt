@@ -1,0 +1,45 @@
+<letter id="pjs3018">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+At half after ten, this morning, I received a letter 
+from <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a>, copy whereof I inclose your Excellency. 
+</p><p>
+As it is most probable the enemy are attempting 
+to cross the Lake, I have therefore thought it necessary to apply to the neighbouring counties of the New 
+England States, and those of Ulster and Duchess in 
+this, to order their militia to march up. As soon 
+as they arrive, I shall either move with what part 
+may go to the northward, or with those to the west 
+ward, as may be most necessary. This can, however, 
+only be determined by farther intelligence from <a href='/results.php?tla=hog' rel='colleague'><a href='/results.php?tla=hog' rel='colleague'>General Gates</a></a> and Colonel Dayton, which I momently 
+expect to receive. 
+</p><p>
+The cartridge-paper arrived here on the 2d instant, was sent forward on the 3d, and arrived at Fort 
+George on the 5th, at night, and was probably for 
+warded from thence on the 6th. 
+</p><p>
+I am informed that the army is in the greatest 
+distress for medicines. As every misfortune and want 
+they labor under is imputed to me, so is this. I am 
+heartily tired of abuse, and was in hopes that congress would have ordered an inquiry into my conduct. I requested it, most earnestly, on the 16th of 
+last month, but have not yet been honored with an 
+answer. I will no longer suffer the public odium, 
+since I have it most amply in my power to justify 
+myself, and shall therefore resign my commission as 
+soon as I return from <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, or Try on county. 
+Of this I shall advise Congress, that orders may be 
+given for a General Officer to reside in this place, 
+without which the service will suffer. But, in doing 
+this, I shall never forget the duty I owe to my country ; and if I can, by advice or any other means, promote the weal of it, none will do it with more ala 
+crity. I am, dear Sir, with every sentiment of esteem 
+and respect, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

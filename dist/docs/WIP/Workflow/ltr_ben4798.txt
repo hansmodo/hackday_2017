@@ -1,0 +1,112 @@
+<letter id="ben4798">
+<recipient first="Jane" last="Mecom" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR SISTER, 
+</p><p>
+This Ship, staying longer than was expected, gives me an 
+Opportunity of writing to you, which I thought I must have 
+missed when I desired Cousin Williams to excuse me to you. 
+I receiv'd your kind Letter of September 25th, by the young 
+Gentlemen, who, by their discreet Behaviour have recommended themselves very much to me and many of my Acquaintance. Josiah has attained his Heart's Desire, of being 
+under the Tuition of Mr. Stanley, who, though he had long 
+left off Teaching, kindly undertook, at my Request, to instruct him, and is much pleased with his Quickness of apprehension and the Progress he makes ; and Jonathan appears a 
+very valuable young Man, sober, regular, and inclined to Industry and Frugality, which are promising Signs of Success 
+in business. I am very happy in their Company. 
+</p><p>
+As to the Rumor you mention, (which was, as Josiah tells 
+me, that I had been deprived of my Place in the PostOffice on 
+account of a Letter I wrote to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>,) it might have 
+this Foundation, that some of the Ministry had been displeased on my writing such Letters, and there were really 
+some Thoughts among them of showing that Displeasure in 
+that manner. But I had some Friends, too, who, unrequired 
+by me, advis'd the Contrary. And my Enemies were forced 
+to content themselves with abusing me plentifully in the Newspapers, and endeavouring to provoke me to resign. In this 
+they are not likely to succeed, I being deficient in that Christian Virtue of Resignation. If they would have my Office, 
+they must take it. 
+</p><p>
+I have heard of some great Man, whose Rule it was, with 
+regard to Offices, never to ask for them, and never to refuse 
+them; to which I have always added, in my own Practice, 
+never to resign them. As I told my Friends, I rose to that 
+Office through a long Course of Service in the inferior Degrees 
+of it. Before my Time, through bad Management, it never 
+produced the Salary annexed to it ; and, when I received it, no 
+Salary was to be allowed, if the Office did not produce it. 
+During the first four Years it was so far from defraying itself, 
+that it became nine hundred and fifty Pounds Sterling in Debt 
+to me and my Colleague. I had been chiefly instrumental 
+in bringing it to its present flourishing State, and therefore 
+thought I had some kind of Right to it. I had hitherto executed the Duties of it faithfully, and to the perfect Satisfaction of my Superiors, which I thought was all that should be 
+expected of me on that Account. As to the Letters complained of, it was true I did write them, and they were written 
+in compliance with another Duty, that to my Country; a 
+Duty quite distinct from that of PostMaster. 
+</p><p>
+My Conduct in this respect was exactly similar to that I 
+held on a similar Occasion but a few Years ago, when the 
+then Ministry were ready to hug me for the Assistance I 
+afforded them of repealing a former revenue Act. My Sentiments were still the same, that no such Acts should be made 
+here for America ; or, if made, should as soon as possible be 
+repealed ; and I thought it should not be expected of me to 
+change my political Opinions every time his Majesty thought 
+fit to change his Ministers. This was my Language on the 
+occasion ; and I have lately heard, that, though I was thought 
+much to blame, it being understood that every man who holds 
+an office should act with the ministry, whether agreeable or 
+not to his own judgment, yet, in consideration of the goodness 
+of my private character (as they were pleased to compliment 
+me), the office was not to be taken from me. 
+</p><p>
+Possibly they may still change their minds, and remove 
+me; but no apprehension of that sort will, I trust, make the 
+least alteration in my political conduct. My rule, in which I 
+have always found satisfaction, is, never to turn aside in public affairs through views of private interest ; but to go straight 
+forward in doing what appears to me right at the time, leaving 
+the consequences with <a href='/results.php?city=providence' rel='city'>Providence</a>. What in my younger days 
+enabled me more easily to walk upright, was, that I had a 
+trade, and that I knew I could live upon little ; and thence 
+(never having had views of making a fortune) I was free from 
+avarice, and contented with the plentiful supplies my business 
+afforded me. And now it is still more easy for me to preserve 
+my freedom and integrity, when I consider that I am almost at the end of my journey, and therefore need less to complete 
+the expense of it ; and that what I now possess, through the 
+blessing of God, may, with tolerable economy, be sufficient 
+for me (great misfortunes excepted), though I should add 
+nothing more to it by any office or employment whatsoever. 
+</p><p>
+I send you by this opportunity the two books you wrote 
+for. They cost three shillings apiece. When I was first in 
+London, about forty-five years since, I knew a person, who 
+had an opinion something like your author's. Her name was 
+Hive, a printer's widow. She died soon after I left England, 
+and by her will obliged her son to deliver publicly, in Salters' 
+Hall, a solemn discourse, the purport of which was to prove, 
+that this world is the true Hell, or place of punishment for the 
+spirits, who had transgressed in a better state, and were sent 
+here to suffer for their sins in animals of all sorts. It is long 
+since I saw the discourse, which was printed. I think a good 
+deal of Scripture was cited in it, and that the supposition was, 
+that, though we now remembered nothing of such a preexistent state, yet after death we might recollect it, and remember the punishments we had suffered, so as to be the 
+better for them; and others, who had not yet offended, 
+might now behold and be warned by our sufferings. 
+</p><p>
+In fact, we see here, that every lower animal has its enemy, 
+with proper inclinations, faculties, and weapons, to terrify, 
+wound, and destroy it; and that men, who are uppermost, 
+are devils to one another ; so that, on the established doctrine 
+of the goodness and justice of the great Creator, this apparent state of general and systematical mischief seemed to demand 
+some such supposition as Mrs. Hive's, to account for it consistently with the honour of the Deity. But our reasoning 
+powers, when employed about what may have been before our 
+existence here, or shall be after it, cannot go far, for want of 
+history and facts. Revelation only can give us the necessary 
+information, and that, in the first of these points especially, 
+has been very sparingly afforded us. 
+</p><p>
+I hope you continue to correspond with your friends at 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. My love to your children; and believe me 
+</p><p>
+ever your affectionate brother, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

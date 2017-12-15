@@ -1,0 +1,48 @@
+<letter id="jol3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel='day origin' value='12'>12</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The approaching session of the Georgia Legislature, 
+and the encouragement given me by Governor Howley, who has a decisive influence in the counsels of 
+that country, induce me to remain in this quarter for 
+the purpose of taking new measures on the subject 
+of our black levies. The arrival of Colonel Baylor, 
+whose seniority entitles him to the command of the 
+light troops, affords me ample leisure for pursuing 
+the business in person ; and I shall do it, with all 
+the tenacity of a man making a last effort on so interesting an occasion. 
+</p><p>
+The sterility of the present campaign affords nothing worthy to be detailed to your Excellency. Our 
+operations have been confined to inconsiderable skirmishes, and some little partisan strokes on our part, 
+which were brilliant, and served to amuse us in default of better employment. 
+</p><p>
+My last letter was closed and despatched a moment 
+before Mr. Leslie's letter arrived, to <a href='/results.php?tla=nag' rel='colleague met'>General Greene</a>, 
+to feel his pulse on the subject of an armistice, and 
+administer every political opiate that could be contrived. The General's answer was obvious. Since that, 
+peace has been the prevailing topic in <a href='/results.php?city=charleston' rel='city'>Charleston</a> ; 
+the terms of it founded in conjecture, and framed by 
+the interests and passions of different individuals. The 
+wisdom and virtue of Congress have no doubt given 
+the proper repulse to the sounders, who have approached them. It is more and more to be lamented, 
+that the French force, under <a href='/results.php?tla=cdr' rel='colleague'>Count Rochambeau</a>, has 
+not been applied to assist in opening the trenches 
+before <a href='/results.php?city=charleston' rel='city'>Charleston</a>, and that the idea of an evacuation 
+of that post has been so successfully propagated. 
+The expulsion or capture of the British garrison 
+there, would infinitely abridge negotiation. I renew 
+my wishes for a continuance of your Excellency's 
+happiness and prosperity; and am. ever, dear General, 
+</p><p>
+Your faithful aid, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jol" rel="me">John Laurens</a>. 
+</p><p>
+P. S. My letter will be delivered to your Excellency by Mr. Lovell, of the partisan legion. He is 
+an officer of merit, and as such I take the liberty 
+of presenting him to your Excellency. 
+</p>
+</letter>

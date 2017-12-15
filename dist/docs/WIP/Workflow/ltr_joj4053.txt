@@ -1,0 +1,43 @@
+<letter id="joj4053">
+<recipient first="Silas" last="Deane" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='22'>22d</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+Your letter of the 10th inst. was delivered to me a few davs ago. 
+</p><p>
+The reason to which you ascribe my not having answered the other you wrote me was the true one, viz. that it was unnecessary. 
+</p><p>
+The time has been, when my writing to you would not have depended on such a circumstance, for you are not mistaken in supposing that I was once your friend. I really 
+was, and should still have been so, had you not advised Americans to desert that independence, which they had pledged to each other, their lives, their fortunes, and their sacred honour to support. 
+</p><p>
+The charges against you of peculation undoubtedly called or strict and speedy inquiry ; but I expected that you 
+would make a satisfactory defence against them. I hope so still. 
+</p><p>
+I will write to Congress about your accounts as you desire. Justice certainly demands that they should be liquidated and settled. 
+</p><p>
+Dr. Bancroft, some time ago, asked my opinion as to 
+your going to England. I told him it would be imprudent, 
+but not that "it would be taken ill." To my knowledge, 
+you was and are suspected of being in the British interest. 
+Such a step would have strengthened that suspicion, and at 
+that interesting period would have countenanced harsh 
+conjectures as to the motives and objects of your journey, 
+which for my part I could not divine. Perhaps the suspicion I mention is new to you ; if so, the information is 
+important. 
+</p><p>
+Before this will come to your hands, and you could afterward get to London, the above mentioned objections will 
+be weakened ; and as circumstances press your going, it is 
+probable you will venture. Let me advise you to be prudent, and to be cautious what company you keep, and what 
+conversation you hold in that country. 
+</p><p>
+I write thus plainly and fully, because I still indulge an idea, that your head may have been more to blame than your heart; and that in some melancholy desponding hour, 
+the disorder of your nerves infected your opinions and your pen. God grant that this may prove to have been the case, and that I may yet have reason to resume my former 
+opinion, that you was a valuable, a virtuous, and a patriotic man. Whenever this may happen, I will, with great and sincere satisfaction, again become 
+</p><p>
+Your friend, 
+</p><p>
+John Jay
+</p>
+</letter>

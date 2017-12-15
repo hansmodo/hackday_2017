@@ -1,0 +1,57 @@
+<letter id="edr4306">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='22'>22</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I do myself the honor of presenting to you some of those views, which the very delicate affair of the 
+removal affords, and the result of a provisional inquiry which I set on foot. 
+</p><p>
+1. The charges have come in an ambiguous form, 
+half private, half public \ and it must be uncertain, 
+until the arrival of the new Minister from France, to 
+what extent those charges are to be pressed. To 
+seize so imperfect an opportunity for dismission, might 
+argue an eagerness to get rid of the officer ; and, 
+before such a stroke is given to the reputation of 
+any man, ought he not to be heard ? 
+</p><p>
+2. I understand, however, that a middle ground 
+has been recommended ; by exchanging the gentleman in question for another diplomatic resident. At 
+first sight, this expedient has the advantage of being 
+conciliatory, although, even in this particular, it may 
+possibly fail. But what will be the reason given out 
+to the world for such an alteration ? I here take it 
+for granted, that if, on any such occasion, the Cabinet 
+can conceal the genuine motive, on this it will be 
+notorious. It will be known in France, and throughout the United States, that the disgust of the French 
+Ministry at the hostility of our officer's politics was 
+the leading cause of the decisive step. The people 
+of the United States will immediately say, that he 
+is not only protected in his misconduct, but that a 
+partiality is discovered for his ideas on government, 
+against which they are eminently inveterate, from 
+their real sympathy with the revolution of France. 
+Again; it will be difficult to satisfy the people of 
+France, that it was consistent with an affectionate 
+regard for their welfare, to send a Minister thus prejudiced against them, whom they assert to be "dangerous from his talents," to the Court of London, 
+which has now probably become an avowed enemy 
+to them. 
+</p><p>
+3. I doubt, therefore, exceedingly, whether any determination ought yet to be made ; especially as, during the recess of the Senate, you may remove, if you 
+think proper. But I can scarcely doubt on the impropriety of the substitute proposed, considered relatively to the present time, although after circumstances may perhaps require these sentiments to be 
+revised. 
+</p><p>
+4. Supposing the ultimate possibility of a dismission, I have labored, provisionally, to bring about the 
+other arrangement. But I find this to be impracticable ; the one gentleman being immovable in the 
+resolution which he expressed to you the other day, 
+and the other gentleman being very explicit, that it 
+is absolutely inadmissible, in his mind, to enter into 
+the Administration under either of the aspects contemplated, or, indeed, under any other. 
+</p><p>
+I have the honor, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

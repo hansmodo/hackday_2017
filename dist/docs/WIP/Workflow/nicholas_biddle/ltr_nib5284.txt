@@ -1,0 +1,42 @@
+<letter id="nib5284">
+<recipient first="Thomas" last="Cooper" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="5">May</a> <a rel='day origin' value='6'>6th</a> . <a href='/results.php?year=1833' rel="origin">1833</a>. 
+</p><p>
+Dear Sir 
+</p><p>
+... I have observed with great interest what you have 
+written on the subject of the Bank. The truth is, that the 
+question is no longer between this Bank &amp; no Bank. It is a 
+mere contest between <a href='/results.php?tla=mvb' rel='adversary'>Mr. Van Buren's</a> Government Bank 
+and the present institution between Chestnut St and 
+Wall St between a Faro Bank and a National Bank. 
+You do not perhaps know that soon after these people came 
+into power, there was a deliberation in Caucus of the most 
+active of the Jackson Party as to the means of sustaining 
+themselves in place and the possession of the Bank was 
+ranked as a primary object. For this purpose they began in 
+<a href='/results.php?year=1829'>1829</a> with an effort to remove an obnoxious President of one 
+of the Branches which was to be followed by a systematic 
+substitution of their creatures throughout the whole insti 
+tution. This experiment failed, owing to the firmness of thev 
+Directors who determined that they would not permit the \ 
+interference of the Executive Officers. . . . From that moment 
+they despared of turning the Bank to their political purposes, 
+and have been intent on breaking it down to substitute some 
+machinery more flexible. To that spirit, a new impulse has 
+been given by a coterie of gamblers who having ascertained the views of the Executive before the last session of Congress 
+and believing that they must be fatal to the Bank, made large 
+contracts on time. These executive denunciations not hav 
+ing sufficiently lowered the stock to render the speculations 
+safe or profitable, the parties are now endeavoring to force 
+the Executive into the withdrawal of the public deposits, as 
+a measure that would cover their retreat. This combination 
+of political gamblers and gambling politicians is the key to 
+the whole history of the relations between the Bank &amp; the 
+executive. Against that coalition, all honest men should exert 
+themselves. I am extremely gratified therefore at the opening 
+of that battery of yours, and shall be very glad to supply you 
+with all the ammunition in my power. . . . 
+</p>
+</letter>

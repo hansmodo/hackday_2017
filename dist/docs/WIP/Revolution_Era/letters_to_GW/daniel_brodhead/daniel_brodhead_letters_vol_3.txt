@@ -1,0 +1,547 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.ZZO94e on line 207
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--dab
+--DOC-AUTHOR-FIRST--Daniel
+--DOC-AUTHOR-LAST--Brodhead
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="dab3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='20'>20</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I take the liberty to inclose the copy of a letter 
+I have received from Colonel Bowman, and copies of 
+three several letters from the Reverend Mr. Zeisberger. The accounts contained in them are somewhat 
+alarming ; but I hope that my messages to the different Indian nations will prevent the British from 
+carrying their expedition into execution. 
+</p><p>
+Captain-Lieutenant Brady is just returned from 
+Sandusky. He took two squaws prisoners, within a 
+mile of their principal town. One of them made her 
+escape after six days march ; the other he brought to 
+Cuscusky, where he met seven warriors, who had 
+taken a woman and child from Chartier's Creek. He 
+fired upon the Captain of the party and killed him, 
+and has brought in the white woman and the Indian's scalp; but the squaw made her escape at the 
+same time. When Captain Brady fired upon the Indian party, he had but three white men, and only 
+two rounds of powder left. He was without provisions for six days, but has brought his whole party 
+safe to this place. His perseverance, zeal, and good 
+conduct, certainly entitle him to promotion; and I 
+beg leave to recommend him to your Excellency's 
+notice. 
+</p><p>
+I have provisions, at the dependent posts, for four 
+weeks to come ; and, by collecting all the cattle in 
+the possession of the Commissaries, this garrison may 
+be subsisted for the same term. But what I shall 
+do for further supplies, I cannot devise, unless I send 
+out foraging parties, and impress cattle; for the public has neither money nor credit here. 
+</p><p>
+The artillery is arrived, and the military stores are 
+safely lodged. The company consists of three officers, 
+and twenty-five non-commissioned officers and privates. I have not had the honor of a line from your 
+Excellency since that of the 14th of March; but I 
+hope one may be on the road for me, before this 
+reaches head-quarters. Captain McIntyre will set out, 
+a few days hence, towards the Indian country, with 
+a small party of men, to take some prisoners or 
+scalps. With the most sincere respect and esteem, I 
+have the honor to he, your Excellency's 
+</p><p>
+Most ohedient, and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter><letter id="dab3701">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='18'>18</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The Lieutenant of Monongalia county informs me, 
+that ten men were killed on Friday last, above the 
+forks of Cheat. They were quite off their guard 
+when the Indians attacked them, and made no resistance. The troops are suffering for want of bread, 
+the waters being too low to grind the grain; and I 
+am informed that the pack-horse men have left the 
+service for want of pay, &c. 
+</p><p>
+I take the liberty to inclose the proceedings of the 
+General Court-Martial on the trials of Captain Thomas Beall, Peter Davis, and David Gamble, and shall 
+be happy to receive your directions respecting them. 
+The General Court-Martial has addressed a letter to 
+your Excellency, which is inclosed with the proceedings. I have lately received two letters from the 
+Delaware towns, copies of which I likewise take the 
+liberty to inclose. It appears by the contents, that 
+the Delawares and the Wyandots, and their numerous allies, might be speedily involved in a war 
+against each other, provided we were possessed of 
+the means to reward the Delawares for bringing in 
+Wyandot scalps and prisoners. 
+</p><p>
+The forts, in the new countiy, were taken by about 
+two hundred white men and seven hundred Indians. 
+Encouraged by their success, it is highly probable 
+they will attempt carrying these garrisons, which, in 
+their present circumstances, to superior numbers must 
+inevitably fall a prey, unless timely supplies can be 
+obtained. But the best exertions in my power shall 
+not be wanting to prevent so fatal an event. I have 
+the honor to be, with the utmost respect and esteem. 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter><letter id="dab3702">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+By Captain Duplantier, who is just arrived from 
+the Delaware toAvns, I am informed that the British 
+at Detroit treat the French inhabitants with great 
+severity, and that they wish for nothing more than 
+the approach of a body of troops from this place. 
+The Captain adds, that Colonel Clark, with a body of 
+about one thousand men, has actually destroyed the 
+Shawanese town at Chellacoffy, and was in pursuit 
+of the Indians when the runner, who brought the 
+account, came from thence. 
+</p><p>
+I have just received a letter from the Reverend 
+Mr. Heckewelder, and another from Captain John Killbuck, copies of which I take the liberty to inclose. Had I provisions, I should be happy to march 
+against some of the hostile Indian towns. But, unfortunately, I have not more than a day's allowance 
+of bread, and a very little beef, and I cannot yet see 
+a fair prospect of obtaining adequate supplies until money can be furnished to pay for them. With the 
+most exalted respect and esteem, &c. &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter><letter id="dab3703">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Yesterday, the Indians killed two men, of the frontier inhabitants, on Robeson's Run, in this county 
+(Yougliiogania), and fired at two soldiers who were 
+taking some stores in a canoe from hence to Fort 
+Henry. One of them is wounded, but neither of 
+them fell into the hands of the enemy. I would have 
+sent a party to pursue the Indians, but I have no 
+provisions left, nor do I see any prospect of an adequate supply, as the drought still continues, and we 
+have neither money nor credit to make purchases. 
+</p><p>
+Colonel Clark has lately destroyed two of the Shawanese towns, and Idlled six men and one woman, 
+and is returned to the Falls. If a sufficient quantity 
+of provisions can be obtained, I will yet visit the 
+Wyandots by the 1st of November; and I believe 
+the country will be unanimous in joining me upon 
+an expedition. 
+</p><p>
+I have the honor to be, &c. &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter><letter id="dab3704">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the 4th of July, 
+and cannot avoid feeling most sensibly the neglect 
+or want of resources, to enable your Excellency, and 
+those who have the honor of commanding under you, 
+to act offensively against the enemy. I am happy, 
+however, to find that our good allies afford us aid, 
+and have a happy presage that, with the smiles of 
+divine <a href='/results.php?city=providence' rel='city'>Providence</a>, your Excellency will be enabled 
+to drive the enemy out of our country. 
+</p><p>
+The French inhabitants at Detroit are much in our 
+interest, and wish most heartily to see an American 
+force approaching. I really believe that twelve hundred well-appointed men would carry that place without great difficulty, and I wish for nothing more, 
+when circumstances will admit, than the honor of 
+making the attempt. The whole garrison, with sergeants to lead them, came to my quarters, a few 
+days ago, to represent that they had not received 
+any bread for five days together. Their conduct was 
+civil and respectful, and, upon being told that every 
+possible exertion was making to prevent their further 
+suffering, they retired in good order to their quarters. 
+</p><p>
+I make use of every fair method, and sometimes a little compulsion, to obtain a temporary supply. But, 
+with my best endeavours, I am very apprehensive Tve shall be great sufferers before your requisitions 
+are complied with. Both Gamble and Davis, who 
+were under sentence of death, and who well deserved 
+their fate, have been suffered to make their escape 
+out of the guard-house, although they were ironed 
+on hands and feet. I ordered the officers, who commanded the guards, under arrest for neglect of duty. 
+One of them is tried and acquitted; the other remains to be tried. Colonel Gibson was appointed 
+President of the General Court-Martial, ordered by 
+your Excellency, and the same court remains until 
+it is your pleasure to dissolve it. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. I have taken the liberty to inclose an extract from a letter I lately received from the Reverend Mr. Ileckewelder. Two Indians, who were sent 
+from the Moravian towns, with messages to Sandusky, 
+report that almost all the Wyandot party, consisting 
+of thirty old warriors, were killed and wounded by 
+the party sent to attack them. 
+</p>
+</letter><letter id="dab3705">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I have this moment received intelligence, that the 
+enemy from Detroit intend paying a visit to this frontier. Major Lanctot has wrote me in French, and 
+I take the liberty to inclose a copy of the translation. The Delaware runners add, that a party of 
+twenty Indian warriors have been discovered, about 
+six days ago, marching towards these settlements, 
+and that a large party of Senecas may soon be expected down the Alleghany River. 
+</p><p>
+Last week seven persons were killed and taken by 
+the savages, in an interior settlement on Ten Mile 
+Creek. As no supply of goods has yet been sent 
+for the Delaware Indians, agreeably to treaty, I conceive they will be compelled to make terms with the 
+British, or perish; and next spring we shall have a 
+general Indian war. 
+</p><p>
+If I had a sufficient number of men, and a supply 
+of provisions, I should be happy to meet the enemy, 
+before they reach the posts or settlements ; but I see 
+no method, but force, to obtain it, and the mills cannot grind for want of water. 
+</p><p>
+Should this intelligence prove true (and I have no 
+reason to doubt it), I will do all I can to oppose the 
+designs of the enemy; but my regular force is very 
+small, and the inhabitants will be in the greatest 
+dread imaginable. Indeed, I expect they think more 
+of flight than resistance. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. The Delaware messengers say, that Captain 
+McIntyre's party killed eighteen or nineteen of the 
+Wyandots that were crossing the Ohio, as mentioned 
+in a former letter. 
+</p>
+</letter><letter id="dab3706">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the loth of October, and should have appointed the time and place 
+for the immediate execution of Gamble, but both he 
+and Davis had effected their escape, as I informed 
+your Excellency in a former letter. The officers, who 
+commanded the guards at the times they respectively 
+escaped, were arrested, tried, and acquitted ; and, 
+therefore, I thought it unnecessary to trouble you 
+with the proceedings respecting them. 
+</p><p>
+I was applied to, to endeavour to intercede with 
+your Excellency, to remit the sentence of Captain Beal ; but I thought it too just, to say any thing about it. The proceedings respecting Gosset were 
+packed up, in a mistake. The Court-Martial sententenced him to be whipped; and, as your Excellency had authorized me to determine upon all proceedings which did not affect life, or the dismission 
+of an officer, I did not intend to have troubled you 
+with the proceedings respecting him. 
+</p><p>
+I have, for a long time past, had two parties in 
+the country, commanded by Field-Officers, to impress cattle, and yet the troops are frequently without meat for several days together. Indeed, I am so 
+well convinced that there is not half meat enough 
+on this side the mountain for the supply of the 
+troops, that I have thought it advisable to risk the 
+sending a party of hunters to kill buffalo, at Little Kanhawa, and laying the meat, until we shall be able 
+to send for it, which, I expect, will be in the spring. 
+</p><p>
+The Delaware Chiefs have declared war against the 
+Senecas; and Captain John Montour was immediately 
+sent, with two Delawares and one white man, to 
+bring a prisoner from their towns. At French Creek 
+(Venango) he fell in with a party of eight Senecas, 
+who, a few days before, had taken a woman and two 
+children from Westmoreland county. He shot one of 
+the Indians upon a raft in the creek, and the rest 
+ran away; but, after a few minutes, one of them returned, under cover of some timber, and asked Montour who he was. He told them that he and his men 
+were Delawares ; that they were sent by their Chiefs ; 
+and that they might thank God the water prevented 
+getting at them ; when the Seneca expressed some 
+mark of contempt, and followed his own party. This 
+relation may be depended on. Captain Montour, with 
+a party of Delawares, is now in pursuit of another 
+party of Indians, supposed to be Delawares, or Muncies, who were discovered by a Delaware runner, on 
+their way towards these settlements. 
+</p><p>
+I do all in my power to encourage partisan strokes. 
+But, was I at liberty to give rewards, I have neither 
+money nor goods to do it with. I can venture to 
+say that I could, at any time, for a small quantity 
+of goods, engage a very considerable number of Delaware Indians to go with me upon an expedition ; 
+and I believe that a considerable quantity would 
+enable me to set the Indians at war against one 
+another, so as to divert them from our frontiers. 
+</p><p>
+Many of the inhabitants are uneasy to see any notice taken of the Delaware Indians, and once attempted to destroy a great number of them, who were 
+under our protection, but were prevented by a guard 
+of regular troops. I have hitherto made use of every 
+address in my power to keep as many of them from 
+joining the enemy as it was possible for me to do, 
+in obedience to your Excellency's instructions ; and I 
+shall be very thankful for your further commands 
+respecting them. 
+</p><p>
+I am sensible that there are a great number of 
+disaffected inhabitants on this side the mountain, that 
+wish for nothing more than a fair opportunity to 
+submit to the British Government, and, therefore, 
+would be glad to have the regular troops withdrawn. 
+</p><p>
+I have received the General Orders respecting the new arrangement of the army, and shall remit the 
+arrangement of my regiment to <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a> by 
+this conveyance. I am a stranger to the intention of most of my brother officers; but, for my part, I am 
+inclined to assist, to the end, in a work so nobly begun. I beg leave to return your Excellency my warmest thanks for your continual care of the troops which I have the honor to command. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. A half Indian, of the name of Bawhee, 
+brought me a draft of the works at Detroit, which 
+I take the liberty to inclose. He dropped some 
+hints of his being in British pay, and I confined him 
+in irons, but know not how to punish him without 
+bringing more trouble upon the inhabitants. 
+</p>
+</letter><letter id="dab3707">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your letters of the 29th December and 10th of January last. That of the 10th 
+came to hand on the 20th instant, and the other on 
+the day following. As it is my duty, so it is my 
+highest pleasure, to execute every instruction I receive from your Excellency, to the utmost of my 
+capacity. Captain Heth having retired to his farm, 
+I cannot at this time send his rank, but have inclosed the rank of the Maryland officers ; and will forward that of the other officers by the next conveyance. 
+</p><p>
+The Indians have lately killed one man upon Ten Mile Creek, and the inhabitants are in great consternation. The frontier settlements will doubtless be 
+deserted, as I have not troops to protect them. I 
+shall be happy if the proposed expedition, under Colonel Clark, answers your Excellency's expectations. 
+Nothing in my power shall be wanting to forward his 
+operations. In my last, I begged leave of absence 
+until I could do myself the honor to wait upon your 
+Excellency. And as my force will now be much reduced, I take the liberty to renew my application. 
+With the most perfect respect, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. I shall be glad to know if it be your Excellency's pleasure to have a garrison continued at 
+Fort Mcintosh. 
+</p>
+</letter><letter id="dab3708">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>, 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the 28th ultimo, 
+and am thankful for the contents. I have acknowledged the receipt of your letter of the 29th of December, and shall give every encouragement to General Clark's intended enterprise. I wish he may be 
+in readiness before the waters fail, and the Kentucky 
+settlements are destroyed by the enemy. But I am 
+informed that little or nothing hath as yet been done 
+at his boat-yards, and that the militia he expected 
+from this side of the mountain are availing themselves of the unsettled jurisdiction. 
+</p><p>
+Since my last, a small paper was brought to me 
+by some faithful Indians, who found it rolled up very 
+neatly in a powder-horn, which a disaffected person 
+had lost near the waters of the Sandusky. I take 
+the liberty to inclose a copy of it. I have discovered the writer, and put him in irons; but as, too probably, some of the garrison are concerned, he may 
+escape before he meets the reward of his demerit. 
+Indeed, this place is infested with such a set of disaffected inhabitants, that I have been under the necessity of ordering some away, and others must soon 
+follow, to prevent greater injury to the service. 
+</p><p>
+A number of Delaware Indians, from Coochocking, 
+have been here since my last, and appear to be as 
+friendly as ever. I am persuaded that a few are 
+well affected ; but they are now put to the trial, by 
+being ordered to remove hither without loss of time, 
+and remain under our protection, where their daily 
+transactions will be seen and known. 
+</p><p>
+I have called upon the county Lieutenants for a 
+few of the militia ; and if I am not disappointed as 
+usual, I intend to surprise the Indian towns about 
+Coochocking. Two Delaware Indians, who, in their 
+cups, spoke contemptuously of our service, I have 
+confined in irons ; but I am at a loss what farther to 
+do with them, until I see what number joins us, and 
+hear what their general conduct has been. Immediately after the termination of the intended excursion, 
+I will avail myself of your indulgence to represent 
+the state of things in this district. I have the honor 
+to be, with the most perfect respect and esteem, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. By the arrangement, it appears that Captain Brady is arranged in the third Pennsylvania regiment ; but, as he cannot be more useful than he is 
+in this part of the country, I hope he will be permitted to remain until the campaign is closed. 
+</p>
+</letter><letter id="dab3709">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='29'>29</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Since my last, one man was killed by the Indians 
+near the mouth of Cross Creek. I suppose this hath 
+been done by some of the enemy's spies. The country has taken the alarm, and several hundred men 
+are now in arms upon the frontier. I hope to be 
+able to repel the enemy. The Maryland corps was 
+stationed at a post on the frontier of Westmoreland 
+county, and have in a body deserted and crossed the 
+mountains. Indeed, I am apprehensive the other 
+corps will soon follow their example, if their sufferings are not speedily attended to. 
+</p><p>
+I have sent spies up the Alleghany, with orders to 
+proceed to Presque Isle, and further, if it is practicable, to discover the enemy, should they actually 
+be on that route, and, if possible, to bring me a 
+prisoner. Things here are in the utmost confusion ; 
+some officers confessing me to be the Commanding 
+Officer, and others. Colonel Gibson ; nor is it likely 
+they will alter until your Excellency's pleasure is 
+expressed, I have the honor to be, with the most 
+sincere attachment and respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter><letter id="dab3710">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+A few days ago I received intelligence, that a party, consisting of thirty odd Wyandot Indians, had 
+crossed the Ohio River, five miles below Fort Mcintosh, and had hid thirteen small bark canoes upon 
+our shore. I immediately ordered out two parties of 
+militia, to go in search of them, and cover the harvesters. At the same time I detached Captain McIntyre, to form an ambuscade opposite to the enemy's 
+craft. Five men, who were reaping in a field, discovered the Indians, and, presuming their party was 
+small, went out to attack them; but four of them 
+were immediately killed, and the other taken, before 
+the militia could be collected. But Captain McIntyre 
+attacked them in their craft, and many of them 
+were doubtless killed and wounded. Two canoes 
+were sunk, and the prisoner retaken; but the water 
+was too deep for our party to ascertain the number of killed. The Indians left all their craft, and in 
+them two guns, six blankets, eleven tomahawks, 
+eleven paint-bags, eight ear-wheels, a large brass kettle, and many other articles. The Indians informed 
+the prisoner that fifteen Wyandots had marched towards Hannah's Town. 
+</p><p>
+Upon receiving this information, I immediately detached another party up the Alleghany River, with 
+two Delaware Indians, to take their tracks, and make 
+pursuit ; but, as this party is not yet returned, I cannot inform you of its success. It is with great concern I inform your Excellency, that there does not 
+remain, in our magazines, provision to subsist the 
+troops more than eight days, at full rations ; nor can 
+I conceive how supplies can be procured in time to 
+prevent their experiencing great want. I have proposed a fair plan to encourage the inhabitants to sell 
+us provision, upon the credit of the United States, 
+but have no great certainty of success. I have submitted the plan to the Honorable Board of War, and 
+hope it will meet with approbation. 
+</p><p>
+Should I be fortunate enough to obtain supplies in 
+time, I intend to penetrate the Wyandot country, 
+this fall, and distress them and their allies by every 
+possible exertion; and I expect Colonel Clark, as he 
+is reenforced, will pay the Shawanese a visit about 
+the same time. I should be exceeding happy to wait 
+upon your Excellency, at the close of the campaign, 
+but I am grown so poor that I cannot bear the expense of so long a journey, at the present extravagant rates. I have the honor to be, with the most 
+exalted respect and esteem, your Excellency's 
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+July Tld. The party of fifteen Indians, mentioned 
+above, crossed the Ohio River at Crow's Island, four 
+miles above Fort Mcintosh, killed and scalped one 
+man, and returned. A party from hence, and another 
+from Fort Mcintosh, are in pursuit of them. A party 
+of men, just arrived from Wheeling, found two of the 
+Wyandot Indians, who were killed by Captain McIntyre's party, floating upon the water, and have brought 
+in their scalps. 
+</p>
+</letter><letter id="dab3711">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Your favor of the 14th of August I had the honor 
+to receive on the 7th instant, and am very thankful 
+for the contents. You must, ere now, be convinced 
+that Colonel Bowman's apprehensions were founded on 
+certain intelligence, of an expedition intended against 
+the forts on Kentucky. I have sent out parties to 
+take cattle and grain from the inhabitants, and expect 
+to obtain a considerable supply of flour, as the mills 
+begin to have water sufficient to manufacture it; but 
+the inhabitants disappoint us of getting beef, by driving their cattle into the mountains. And we have, at 
+present, neither bread nor meat, but expect a small 
+supply immediately. Captain Brady is on command. 
+and Captain McIntyre has leave of absence to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; as soon as they return, I will express your 
+Excellency's thanks for their conduct. 
+</p><p>
+In full confidence that a sufficient supply of provision would, sooner or later, be furnished for the 
+troops in this district, as well as for such number of 
+militia as policy or the exigencies of aftairs might 
+render it necessary to call into action, T, with a view 
+to cut off the Wyandots and other Indian towns that 
+were very troublesome to our settlements, called fur 
+a draft from the militia, at three different times, and 
+was as often disappointed in obtaining provisions ; 
+which, with the unsettled state of the boundary line 
+between Pennsylvania and Virginia, has greatly discouraged the inhabitants, and, I apprehend, given a 
+handle to the disaffected. I take the libert} to inclose 
+copies of letters, lately received from Colonels Butler 
+and McCleary, purporting some of the above facts. 
+</p><p>
+The Delaware Chiefs, with upwards of thirty warriors, are come to aid me upon an expedition ; but, 
+as I have neither bread nor meat to give them, they 
+will soon discover that it is not in my power to act 
+offensively. They appear much dejected on account 
+of the total want of goods, which they were promised 
+in exchange for their peltry. 
+</p><p>
+Unless supplies of beef, &c. are procuring below 
+the mountains, which I know nothing of, the troops 
+here will experience great hardship before spring, 
+and desertions will be very frequent. I have frequently represented to the Honorable Board of War 
+the hardships of the troops, and am now informed by 
+their Secretary that compulsion is tolerated by the 
+Supreme Executive Council of Pennsylvania for a 
+temporary supply. I continue my inquiries respecting the strength of Detroit, and my intelligence is of a 
+piece with that formerly communicated. 
+</p><p>
+I have the honor to be. &c., &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter>

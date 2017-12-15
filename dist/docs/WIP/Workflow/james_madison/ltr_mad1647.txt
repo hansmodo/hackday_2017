@@ -1,0 +1,62 @@
+<letter id='mad1647'>
+<recipient first='Edmund' last='Randolph' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, May 10, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+MY DEAR FRIEND, Whilst I thank you for your favor of the 
+23d ultimo, I must remind you that it does not contain the 
+promised information on the case of the French Consul here. 
+I am led to it by being myself just reminded by him of the 
+omission on my part. 
+</p><p>
+The plan of an immediate temporary impost was what first 
+occurred on the subject. It is not yet abandoned, but the practicability is questionable. The plan of <a href="/results.php?year=1783">1783</a> was inadmissible 
+without alteration on some points, which have been most productive of delay. I allude particularly to the ratio between 
+the duties on ruin and molasses. When this plan was recommended by Congress, the States could restrain the substitution 
+of N. England rum by taxing it, which being now prohibited, 
+an indirect tax on it through the medium of molasses is become 
+essential on the part of the National authority. The rates of 
+impost are in their last stage, and will probably be soon determined. The plan of temporary collection, by a general adoption of the existing regulations of the States, is also before the 
+House of Representatives. A uniform plan will in a day or 
+two follow it from the Committee appointed to report the 
+proper mode. The House will be able to make their election 
+between the two. The reasons for despatch will recommend 
+the first, if it can be made to hold water, which is much doubted. 
+Whichever plan may be preferred, it will be proper, perhaps, 
+to limit its duration, that a more correct provision within a 
+reasonable time may be rendered a matter of necessity. 
+</p><p>
+No question has been made in this quarter or elsewhere, as 
+far as I have learned, whether the General ought to have accepted the trust. On the contrary, opinions have been unanimous and decided that it was essential to' the commencement 
+of the Government, and a duty from which no private considerations could absolve him. The promptitude of his setting 
+out from Mount Vernon was the effect of information of the 
+delay of business here, the impatience of the public mind, and 
+the necessity of his presence to make the Government competent to its first and most urgent objects. His election was 
+known to him with certainty a long time before the ballots 
+were opened, and informally communicated, I believe, before it 
+was regularly notified. It was taken for granted here, that, 
+under the circumstances of the occasion, he would lose no time 
+in repairing to his station, if he meant not to decline it altogether. Col. Griffin has, I presume, sent you his inaugural 
+speech. Inclosed is the answer of the House of Representatives. The address is purged, you will observ. of all titles 
+whatsoever except the Constitutional one. 
+This point had been previously determined by a Report from 
+a joint committee originated by the Senate, for the purpose of 
+settling what, or whether any, titles should be annexed to the 
+President and Vice President. The Report was unanimously 
+agreed to by the House of Representatives previous to the 
+address. I am sorry to find that the Senate do not concur in 
+this principle of dignified simplicity. They have disagreed to 
+the Report of the joint Committee, and have proposed another 
+consultation on the subject. The House of Representatives 
+will assuredly adhere to the first determination. The friends 
+of titles in the other Branch are headed by the vice president, 
+who is seconded with all the force and urgency of natural 
+temper by R. H. L . I make no other remark on the case 
+than that it is communicated to yourself only. 
+Ever most affec y yours, 
+</p><p>
+My compliments to the President. I wish to write to him, 
+but my friends must excuse me from much of the attention 
+which my inclination would give them. 
+</p>
+</letter>

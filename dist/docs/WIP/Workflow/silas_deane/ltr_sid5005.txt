@@ -1,0 +1,78 @@
+<letter id="sid5005">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='8'>8th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+Your Declaration of the fourth of July last has given this Court, as well as several others in Europe, reason to expect 
+you would in form announce your Independency to them, and ask their friendship ; but a three months' silence on that 
+subject appears to them mysterious, and the more so as you declared for foreign alliances. This silence has again given me 
+the most inexpressible anxiety, and has more than once come near frustrating my whole endeavors ; on which subject I 
+refer you to mine of the first instant. Employment must be found for the forces of Great Britain out of the United States 
+of North America. The Caribs in St Vincent, if set agoing, 
+may be supplied through Martinique with stores. The Mountain negroes in Jamaica may employ a great number of their 
+forces. This is not employing slaves, which, however, the 
+example of our enemy authorises. Should there arise troubles in these two Islands, which a very little money would effect, the consequence would be, that Great Britain, which can 
+by no means think of giving them up, would be so far from being able to increase her force on the continent, that she 
+must withdraw a large part to defend her Islands. I find that every one here, who is acquainted with Bermuda, is in my 
+sentiments ; and by the officiousness of H. the ministry here have got it by the end. This makes me the more solicitous, 
+that the Island should be fortified this winter if practicable. 
+Tobacco in Holland is at the enormous price of seven stivers, and will soon be as dear in France and Germany. 
+I have promised that you will send out twenty thousand hogsheads this winter, in payment for the articles wanted 
+here. Let me advise you to ship the whole to Bordeaux, after which it may be shipped in French bottoms to any 
+other port ; the price will pay the convoy ; therefore I would 
+recommend the vessels in which it should be shipped to be 
+armed, and that each ship shall sail under convoy of one of 
+your frigates, which may also be ballasted with it ; this will 
+be safer than coming in a fleet. On their arrival, Messrs Delap, whose zeal and fidelity in our service are great, will 
+be directed by me, or in my absence by Mons. B. or 
+ostensibly by Messrs Hortalez and Co. where to apply the 
+money. Eight or ten of your frigates, thus collected at 
+Bordeaux, with a proper number of riflemen as marines, 
+where they might have leisure to refit and procure supplies, 
+would strike early next season a terrible blow to the British 
+commerce in Europe, and obtain noble indemnity. The 
+appearance of American cruisers in those seas has amazed 
+the British merchants, and insurance will now be on the war 
+establishment ; this will give the rival nations a great superiority in commerce, of which they cannot be insensible ; and as 
+our vessels of war will be protected in the ports of France 
+and Spain, the whole of the British commerce will be exposed. I hope to have a liberty for the disposal of prizes here, 
+but dare not engage for that. The last season the whole 
+coast of England, Scotland, and Ireland has been and still 
+remains unguarded ; three or four frigates, arriving as they 
+certainly might unexpectedly, would be sufficient to pillage 
+port Glasgow or other western towns. The very alarm, 
+which this would occasion, might have the most surprising 
+and important effects, and in this method it might be effected 
+with the utmost certainty if entered upon early next spring ; 
+but should that be laid aside, the having five or six more of 
+your stoutest ships in these ports, where you may every day 
+receive intelligence of what is about to sail from England, 
+would put it in our power to make great reprisals. 
+</p><p>
+I wrote for blank commissions, or a power to grant commissions to ships of war. Pray forward them, as here are 
+many persons wishing for an opportunity of using them in 
+this way. The granting commissions against Portugal would 
+ensure the friendship of Spain. Grain will bear a great price 
+in this kingdom and the south of Europe ; and I have made 
+application to the minister of marine to supply masts and 
+spars from America for the French navy. Pray inform me 
+how, and on what terms the British navy formerly used to be 
+supplyed from New England. I am fully of opinion, that a 
+war must break out soon and become general in Europe. 
+I need say no more on the situation I am in, for want of your 
+further instructions. I live in hopes, but should I be much 
+longer disappointed, the affairs I am upon, as well as my 
+credit, must suffer, if not be absolutely ruined. My most 
+respectful compliments to the Congress. 
+</p><p>
+I am, gentlemen, 
+</p><p>
+Your most obedient very humble servant, 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

@@ -1,0 +1,32 @@
+<letter id="mbc7738">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='29'>29th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. I take my hospital duty in the morning. 
+Most persons prefer afternoon, but I dislike to give up my pleasant evenings. So I get up at five o clock and go down 
+in my carriage all laden with provisions. Mrs. Fisher and old Mr. Bryan generally go with me. Provisions are commonly sent by people to Mrs. Fisher's. I am so glad to be a hospital nurse once more. I had excuses enough, but at 
+heart I felt a coward and a skulker. I think I know how men feel who hire a substitute and shirk the fight. There must be no dodging of duty. It will not do now to send provisions and pay for nurses. Something inside of me 
+kept calling out, " Go, you shabby creature; you can't bear to see what those fine fellows have to bear. 
+</p><p>
+Mrs. Izard was staying with me last night, and as I slipped away I begged Molly to keep everything dead still 
+and not let Mrs. Izard be disturbed until I got home. About ten I drove up and there was a row to wake the dead. 
+Molly's eldest daughter, who nurses her baby sister, let the baby fall, and, regardless of Mrs. Izard, as I was away, 
+Molly was giving the nurse a switching in the yard, accompanied by howls and yells worthy of a Comanche! The 
+small nurse welcomed my advent, no doubt, for in two seconds peace was restored. Mrs. Izard said she sympathized 
+with the baby's mother ; so I forgave the uproar. 
+</p><p>
+I have excellent servants; no matter for their short comings behind my back. They save me all thought as to 
+household matters, and they are so kind, attentive, and quiet. They must know what is at hand if <a href='/results.php?tla=wts' rel=''>Sherman</a> is not 
+hindered from coming here " Freedom! my masters! " 
+But these sphinxes give no sign, unless it be increased diligence and absolute silence, as certain in their action and as 
+noiseless as a law of nature, at any rate when we are in the house. 
+</p><p>
+That fearful hospital haunts me all day long, and is worse at night. So much suffering, such loathsome wounds, 
+such distortion, with stumps of limbs not half cured, exhibited to all. Then, when I was so tired yesterday, Molly 
+was looking more like an enraged lioness than anything else, roaring that her baby's neck was broken, and howling cries 
+of vengeance. The poor little careless nurse's dark face had an ashen tinge of gray terror. She was crouching near 
+the ground like an animal trying to hide, and her mother striking at her as she rolled away. All this was my welcome 
+as I entered the gate. It takes these half -Africans but a moment to go back to their naked savage animal nature. 
+</p><p>
+Mrs. Izard is a charming person. She tried so to make me forget it all and rest. 
+</p>
+</letter>

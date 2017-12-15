@@ -1,0 +1,59 @@
+<letter id="pah3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+The reasons hinted in your Excellency's last favor 
+are certainly of such weight as to prevent the flag-of-truce vessels, coming with stores, &c., for the Convention troops, from proceeding further than Hampton Road. Orders are, therefore, issued to-day, for 
+vessels of our own to be ready at that place to convey the stores upwards to their destination, under 
+the superintendence of proper Commissaries. 
+</p><p>
+My last accounts from the South are unfavorable. 
+Georgia is said to be in full possession of the enemy, 
+and South Carolina in great danger. The number of 
+disaffected there is said to be formidable, and the 
+Creek Indians inclining against us. One thousand 
+militia are ordered thither from our southern counties ; but a doubt is started whether they are by law 
+obliged to march. I have also proposed a scheme to 
+embody volunteers for this service; but I fear the 
+length of the march, and a general scarcity of bread, 
+which prevails in some parts of North Carolina and 
+this State, may impede this service. About five hundred militia are ordered down the Tennessee River, 
+to chastise some new settlements of renegade Cherokees that infest our south-western frontier, and prevent 
+our navigation on that river, from which we began 
+to hope for great advantages. Our militia have full 
+possession of the Illinois, and the posts on the Wabash; and I am not without hopes that the same 
+party may overawe the Indians as far as Detroit. 
+They are independent of General McIntosh, whose 
+numbers, although upwards of two thousand, I think 
+could not make any great progress, on account, it is 
+said, of the route they took, and the lateness of the 
+season. 
+</p><p>
+The conquest of Illinois and Wabash was effected 
+with less than two hundred men, who will soon be 
+reenforced ; and, by holding posts on the back of the 
+Indians, it is hoped may intimidate them. Forts 
+Natchez and Morishac are again in the enemy's hands ; 
+and from thence they infest and ruin our trade on 
+the Mississippi, on which river the Spaniards wish to 
+open a very interesting commerce with us. I have 
+requested Congress to authorize the conquest of those 
+two posts, as the possession of them will give a colorable pretence to retain all West Florida, when a 
+treaty may "be opened, and, in the mean time, ruin 
+our trade in that quarter, which would otherwise be 
+so beneficial. I can get no answer to this application, although it is interesting to our back settlements, and not more than four hundred men required 
+for the service. 
+</p><p>
+I beg pardon for intruding these several subjects 
+upon you. If you find leisure to make any observations upon them, they will be highly acceptable. 
+With every sentiment of regard and esteem, I am, 
+dear Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pah" rel="me">PATRICK HENRY</a>. 
+</p>
+</letter>

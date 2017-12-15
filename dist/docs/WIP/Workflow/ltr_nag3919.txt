@@ -1,0 +1,70 @@
+<letter id="nag3919">
+<recipient first="" last="Rudulph" type="individual"/>
+<p>
+NATHANIEL GREEN TO MAJ. RUDULPH AND THE CAPTAINS OF THE LEGION. 
+</p><p>
+HEAD QUARTERS, <a rel="month origin" value="6">June</a> <a rel='day origin' value='18'>18</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+GENTLEMEN : 
+</p><p>
+Your letter of resignation of this day contains an accusation no less 
+indelicate than unjust. You say, my orders contain such injustice, and 
+are so repugnant to your feelings, that you cannot consistent with your 
+established rights serve me any longer. I am not conscious of having 
+done you injustice I am sure I never intended it. You arrogate the 
+sole right of judging and deciding upon privileges claimed but not 
+authorised. You do not distinguish between what has been matter of indulgence and what are rights inherent from the constitution of your 
+corps. I will not take upon myself to say positively that I have not 
+invaded the privileges of your corps ; but I am so fully persuaded of the 
+propriety of my conduct upon the strictest military principles that I am 
+perfectly willing to submit it to our superiors in Congress the Board 
+of War the Commander-in-chief, or either of them. I have always 
+conceived some privileges were intended your corps, not in common 
+with the rest of the cavalry; but in that I may be mistaken. The late 
+referrence to the Board of War will decide. I can see no necessity for 
+the extraordinary step you are taking ; if you think yourselves injured 
+in matters of right and not of indulgence, represent the affair to Congress. Enclose a copy of my orders to Lieutenant-Colonel Lee, and let 
+him bring the business to an explanation. If their decision corresponds with your sentiments, I shall be happy to confess my error. I 
+am sure I have not a wish in my heart to retrench one privilege of the 
+Legion, nor am I disposed to wantonly sport with the feelings of 
+officers. But it is not in my power always to accommodate the service 
+to the views of particular officers. Every person can judge of their 
+own difficulties, but it is impossible to judge fairly for others without a 
+collective view of all the circumstances. This you cannot have in the 
+present case or I am persuaded you would not decide so hastily. The 
+measure you are about to take may involve some disagreeable consequences to yourselves perhaps to me. The world will judge of the 
+propriety of your conduct not according to your way of thinking, but 
+from the original principles of the matter in dispute ; and I leave 
+you to consider how unwarrantable a combination of this sort will 
+appear in the critical situation of the Southern States, and how in 
+consistent with the character and dignity of your corps and the duty 
+and obligation you owe to your country, and to the cause in which 
+you are engaged. I readily confess you may have it in your power to 
+hurt me as an individual, but let not little resentments plunge you into 
+measures injurious to the public and unjust to yourselves. I am persuaded upon a fair investigation of the matter and by reasoning more 
+fully on the subject, you will be convinced that I have acted perfectly 
+consistent with the duties of my station, with the established customs of 
+armies and consonant to the rights of your corps. But be that as it 
+may, let it be decided by those in power, whose determination shall 
+govern my conduct; and to convince you that I am by no means disposed to do the least injury to your rights you shall see all I write both 
+to Congress and Lieut. -Colonel Lee. If I am mistaken Congress will 
+correct me ; but if you are wrong, I presume you will have generosity 
+enough to acknowledge it ; and I am persuaded you will have the spirit 
+of patriotism sufficient to continue your services to your country. I 
+will add only one more observation and close this long and disagreeable 
+letter. I have never known but very few officers leave the service in 
+the progress of this war, but have repented of it. Combinations are 
+always odious, and no character, however important, or set of men, how 
+ever useful, can produce any great revolution in so great a cause. Let 
+not secret insinuations mislead you, nor be so idle as others have been 
+to think the public cannot do without you. I know your value and 
+shall feel your loss, and wish you to reconsider the matter before you 
+take your final resolution. 
+</p><p>
+I am, gentlemen, with great respect, 
+</p><p>
+your most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

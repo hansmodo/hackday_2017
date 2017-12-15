@@ -1,0 +1,89 @@
+<letter id="jol4949">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='9'>9th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+The moment Mr Boudinot returned from German 
+Town where he had a conference with Mr Loring, 
+British comm 7 of prisoners, upon the subject of an 
+exchange. He brings us intelligence that the com 
+missioners appointed by act of Parliament to divide 
+us by governor's places, &ca., skilfully dealt, are ar 
+rived ; that they are, as we had heard L'd <a href='/results.php?city=carlisle' rel='city'>Carlisle</a>, 
+Gov. Johnston, and Mr Eden; that L'd Cornwallis 
+is come with them. A spy of ours who left the city 
+this morning says, that they landed at 2 o clock yesterday afternoon, and that they came up the river in 
+barges ; that five or six hundred sailors had come up 
+to the city in boats, and were assembled at the proper 
+place for conducting the passage of the troops; that 
+no ships remained near the town except the Vigilant 
+and <a href='/results.php?city=richmond' rel='city'>Richmond</a>, who seem destined to cover the cross 
+ing, and that all the enemy's sick are removed. 
+</p><p>
+Some people are of opinion that the arrival of the 
+commissioners at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> is a proof that war is 
+not yet declared between England and France ; the 
+former determining to try what may be done with 
+respect to America, by the means of negotiation, 
+and preferring in the mean time a suffering of inconveniences and insults, to engage at once in so unequal 
+a contest ; and that the commissioners have ventured 
+to land in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> from a persuasion that a 
+declaration of war will not originate with France. 
+</p><p>
+It is certain that the commissioners must know 
+whether war is declared, and it appears to me almost 
+certain that they would not come to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> if 
+it were. At all events I imagine the arrival of the 
+commissioners will delay the final evacuation of the 
+city till a council of war can be held, and perhaps 
+some message sent to Congress. It would be an 
+awkward appearance for them to arrive at Philadel 
+phia with a view of proposing terms of conciliation, 
+and to change their ground without announcing them 
+selves. But it w'd be full as awkward and disgrace 
+ful for them to announce themselves and disappear 
+before an answer from Congress could be given. 
+All which inclines me to believe that war was not 
+declared at the time they left England, and that their 
+stay will be deferred by their court as long as pos 
+sible. A deserter who is just arrived, says that none 
+but the light troops remained in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. Orders had been given for their preparing every thing 
+for moving, but the arrival of the commissioners had 
+occasioned a countermand. 
+</p><p>
+Our treaty with France is known ; what the commissioners can hope from their act of Parliament, 
+which is an insult to our honour and understanding, I cannot conceive. Commissary Loring told Mr Boudinot with a grave face, that a fleet of forty ships had 
+sailed from the British coast and struck such an alarm in the minds of the French king and his ministers as occasioned them to desire the immediate departure of <a href='/results.php?tla=ben' rel='co-worker'>Dr. Franklin</a>, &ca. 
+</p><p>
+This express was ordered immediately on Mr. Boudinot's return, that Congress may he apprised, 
+and have time to deliberate even before the commissioners announce themselves. I have written in 
+the greatest hurry, and thrown a chaos of words together. 
+</p><p>
+I have barely time to acknowledge the receipt of 
+your letter of the 5th . Mr. Conway's conduct irritates 
+but does not surprise me. The truth of the matter 
+with respect to his resignation is, that he expected to 
+have been solicited to remain in the service, and to 
+have made a great bustle, and increased his importance. As for fighting, I know by what I saw at 
+German Town, that his stomach is not so keen set 
+for it as he pretends ; but his friends, Gates and Mifflin, sacrificed him at a time when he least expected 
+it. However, he has fairly undone himself, and will 
+be treated with that contempt which he deserves. 
+I shall take the liberty of communicating this matter 
+to the general. 
+</p><p>
+I must beg the favour of you to send by the earliest 
+opportunity, a copy of the last resolves of Congress 
+relative to the exchange of prisoners, the 21'st ult. 
+It has been mislaid here, and the person who had the 
+care of it wishes to avoid the wound to his sensibility 
+which w'd arise from having the matter applied for 
+officially with an explanation. 
+</p><p>
+God preserve you, my dear father. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

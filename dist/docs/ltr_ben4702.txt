@@ -1,0 +1,41 @@
+<letter id="ben4702">
+<recipient first="Cadwallader" last="Evans" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1767' rel="origin">1767</a>. 
+</p><p>
+DEAR DOCTOR, 
+</p><p>
+I received your obliging favour of May 16th. I am always 
+glad to hear from you, when you have leisure to write, and I 
+expect no apologies for your not writing. I wish all correspondence was on the foot of writing and answering when 
+one can, or when one is disposed to it, without the compulsions of ceremony. I am pleased with your scheme of a Medical Library at the Hospital; and I fancy I can procure you 
+some donations among my medical friends here, if you will 
+send me a catalogue of what books you already have. Enclosed I send you the only book of the kind in my possession 
+here, having just received it as a present from the author. It 
+is not yet published to be sold, and will not be for some time, 
+till the second part is ready to accompany it. 
+</p><p>
+I thank you for your remarks on the gout. They may be 
+useful to me, who have already had some touches of that distemper. As to Lord Chatham, it is said that his constitution 
+is totally destroyed and gone, partly through the violence of 
+the disease, and partly by his own continual quacking with 
+it. There is at present no access to him. He is said to be 
+not capable of receiving, any more than of giving, advice. 
+</p><p>
+But still there is such a deference paid to him, that much 
+business is delayed on his account, that so when entered on 
+it may have the strength of his concurrence, or not be liable 
+to his reprehension, if he should recover his ability and 
+activity. The ministry, we at present have, has not been 
+looked upon, either by itself or others, as settled, which is 
+another cause of postponing every thing not immediately 
+necessary to be considered. New men, and perhaps new 
+measures, are often expected and apprehended, whence 
+arise continual cabals, factions, and intrigues among the outs 
+and ins, that keep every thing in confusion. And when 
+affairs will mend is very uncertain. With great esteem I am, 
+dear friend, yours affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

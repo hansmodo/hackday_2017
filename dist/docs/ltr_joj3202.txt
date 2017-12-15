@@ -1,0 +1,63 @@
+<letter id="joj3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p rel="heading">
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have had the pleasure of receiving your favor of 
+the 16th instant. Britain refused the mediation of 
+Spain at a time when their spirits were elated by 
+their successes in the West Indies and the Southern 
+States, and by the accounts they received of discord 
+in Congress, discontent among the people, and a prospect of the evils with which we were threatened by 
+the depreciation of our currency. Deceived by these 
+illusory gleams of hope, they permitted their counsels 
+to be guided by their pride. What reason they may 
+have to expect succour from other powers is, as yet,a secret. M. Gerard is decided, in his opinion, that 
+they will obtain none. The conduct of France, inestaishing peace between Russia and the Porte, has 
+won the heart of the Empress ; and the influence of 
+Versailles, at Constantinople, will probably give duration to her gratitude. The Emperor and Prussia are 
+under similar obligations. The latter wishes us well, 
+and the finances of the former are too much exhausted to support the expenses of war, without subsidies 
+from Britain, who, at present, cannot afford them. 
+There is no reason to suspect that the peace of Ger 
+many will soon he interrupted. Britain may hire 
+some troops there, but it is not probable she will be 
+able to do more. Portugal and the Dutch, while directed by their interest, will not rashly raise their 
+hands to support a nation, which, like a tower in an 
+earthquake, sliding from its base, will crush every 
+slender prop that may be raised to prevent its fall. 
+</p><p>
+<a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>'s letter has been referred to the 
+Committee of Intelligence for publication. 
+</p><p>
+You may remember, Sir, to have received a letter 
+from me last winter, recommending the person who 
+carried it as an honest man, and who, in my opinion, 
+would, with great fidelity, do the business you wished, 
+and I advised him, to undertake. 
+</p><p>
+In May last, I received a letter from him, informing; me of his having written to you at the same 
+time, and mentioning a matter of very delicate nature, which, I believe,- was omitted in your letter, as 
+he gave me reason to expect he would soon be here. 
+I avoided particulars, not choosing to risk more on 
+paper than was necessary. lie has not, however, been 
+here, nor have I received a line from him for some 
+time past. From this circumstance, I have been apprehensive of his having relinquished that business ; 
+and the more so, as he intimated to me his doubts 
+of its being well conducted, unless under your immediate direction; that the views of the gentleman, with 
+whom he first conversed on the subject, were not very 
+extensive, and his attention to expense too great. 
+</p><p>
+The opinion I have of this man's usefulness leads 
+me to mention these matters, that, if he has left the 
+business, I might, if you think proper, press him to 
+resume it. If he still perseveres, I do not wish to 
+be informed of any other particulars. With perfect 
+respect, and sincere regard, I am, dear Sir, 
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joj" rel="me">JOHN JAY</a>. 
+</p>
+</letter>

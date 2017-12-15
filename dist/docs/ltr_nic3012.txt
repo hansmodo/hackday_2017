@@ -1,0 +1,76 @@
+<letter id="nic3012">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your favor of the 6th instant I received, and laid 
+before the General Assembly. It had great weight; 
+and I believe that no supplies to the enemy's ships 
+would have been permitted, had it not appeared to 
+us that the members of the Continental Congress 
+were of opinion that they should be continued. The 
+following is an extract from our Delegates on that 
+subject. "A Memorial from the Town of Newport, 
+forwarded to us by express, having been referred to 
+the General Assembly, we now inclose that, with the 
+papers pertinent thereto. We should not do justice to the benevolence of Congress, or to the Distressed situation of the town, if we did not acquaint 
+you that all the gentlemen, who spoke in this debate, 
+expressed the most tender regard for the distressed 
+people, and gave it as their opinion that, as long as 
+the ships of war now in the harbour could be sup 
+plied with fresh provisions, beer, and such like necessaries for their own immediate support, consistently with 
+the great principles of the general good and safety 
+of America, the town ought to he permitted to furnish them; the greatest care being taken by government that no more than the barely necessary supplies 
+be furnished from time to time, lest the common enemy 
+in other parts of the Continent should, through them, 
+obtain provisions." In consequence of which the 
+General Assembly have ordered that Captain Wallace 
+should be supplied, as you will see by the inclosed 
+vote. But, as he may cannonade, and even burn the 
+town, a discretionary power, by a private vote, which 
+it is designed should be kept a profound secret, is 
+given to the commander of the forces on Rhode 
+Island to permit supplies in cases of imminent danger, until the next session, to be holden on the last 
+Monday in next month. 
+</p><p>
+Similar measures to those taken by Connecticut, 
+as mentioned in your letter, have been adopted by 
+this Colony. Besides- which, the commanding officer 
+of any body of Continental troops is empowered to 
+impress carriages, &c. 
+</p><p>
+The General Assembly ordered an Address to the 
+Congress, a copy of which I do myself the honor 
+to inclose you. We are not without hopes that the 
+Congress will take the whole brigade into their service, especially as the necessity, arising from so powerful an invasion, of establishing the whole force we 
+have ordered, is clear and manifest. From the nature 
+of the Avar, and the circumstances of the Colonies, I 
+think every idea of partial and Colonial defence 
+ought to be given up. There must be a supreme, 
+superintending power, to exert and direct the force 
+of the whole, for the defence and safety of all ; other 
+wise the exertions and burdens will not only be very unequal, to the greatly endangering the union, 
+upon which the welfare of America depends, but 
+Colony after Colony may be subdued without the 
+chance of making resistances. I shall only add, on 
+this head, that unless the Continent enter upon the 
+defence of the Colony, it must be abandoned, to the 
+great detriment of the common cause. I beg the 
+favor of your Excellency seriously to consider this 
+matter, and to give us your assistance with the members of the Congress for procuring such a body of 
+forces as the interest of this and the United Colonies 
+in general shall require. 
+</p><p>
+We had procured upwards of an hundred blankets, 
+which were designed for the army under your immediate command; but the descent upon Prudence 
+obliged us to send forty of them to our troops upon 
+that Island; and to supply the additional forces, ordered to be raised, will demand every blanket that 
+can be spared in the Colony. I am, with great respect and esteem, Sir, your Excellency's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

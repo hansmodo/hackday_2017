@@ -1,0 +1,72 @@
+<letter id="rol4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='26'>26th</a> <a rel="month origin" value="8">August<a/>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear John, 
+</p><p>
+I received yours of the 23d May from Madrid, with 
+duplicates thereof, and the letters you wrote from Cadiz 
+and Martinique. 
+</p><p>
+Your remembrance of the pleasurable days of our 
+youth, and the scenes in which we mutually bore our parts, 
+together with the attractions which this country still has for 
+you, afford me the most pleasing hope that neither time nor 
+absence will weaken a friendship which has so long stood 
+the test of both. This indeed I expected from the steadiness of your temper ; but I must confess that I had little 
+hopes that your early return would afford me a prospect of 
+deriving that consolation from it in the decline of life, to 
+which I looked even while it directed the pursuits and animated the pleasures of youth. 
+</p><p>
+You mistake your own heart when you say you are unambitious : and without the assurance contained in your 
+letter, I should have believed that the love of glory would 
+have always kept you in the line in which you now are, 
+more especially as the general satisfaction that your appointment and conduct since has given, renders it the wish of 
+everybody less interested in your return than I am, to keep 
+you abroad. 
+</p><p>
+I have not been able to procure at this place the key to 
+the cipher that you directed me to, though I believe I have it 
+at home ; besides that, it is very intricate and troublesome ; 
+I shall therefore be obliged to confine what I have to say 
+to mere common occurrences. I enclose you a cipher 
+which is very simple, and not to be deciphered while the 
+key is concealed, as the same figure represents a variety of 
+letters. In order that you may know whether it comes 
+safely to hand, I have in this letter used the precaution 
+mentioned in yours. 
+</p><p>
+Nothing astonishes me more than the confidence with 
+which the British ministry and their dependants assert, that 
+America sighs to return to their government, since the fact 
+is that we never were more determined in opposition, nor, 
+if we except the derangement of our finances (which the 
+loan of half a million would re-establish, if remitted in 
+specie or merchandise), were we ever so capable of resistance. Our crops are uncommonly fine, and the militia of 
+every State north and east of Delaware, is armed, disciplined, and inured to the duties of a camp. The southern 
+militia are now at school, and I have no doubt will improve 
+by the lessons they receive from the enemy. Our friend 
+Smith, who has probably contributed to this ministerial 
+madness, uninstructed by his repeated disappointments from 
+the beginning of the war, is said to have advised Kniphausen to erect the royal standard in the Jerseys before 
+General Clinton returned from <a href='/results.php?city=charleston' rel='city'>Charleston</a>, persuaded that 
+our troops, and particularly the militia, would flock to it, 
+and thus he have the honour of reducing the country, without sharing it with Clinton. He accordingly came over 
+with great parade, with his whole force, scattering exaggerated accounts in printed handbills of the loss of <a href='/results.php?city=charleston' rel='city'>Charleston</a>, 
+which, instead of discouraging, only animated the militia. 
+They were all in motion upon the first alarm, and though 
+opposed only by them and less than a thousand continental 
+troops, he was disgracefully driven out with the loss of 500 
+men killed, wounded, and taken, after having penetrated 
+ten miles from the shore, and done us no other injury than 
+the burning of a few houses, and the abuse and murder of 
+some women ; since which they have been more cautious 
+and less sanguine. Adieu ; remember my compliments to 
+the colonel and Mr. Carmichael. I am, dear John, 
+</p><p>
+Most sincerely yours, 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston.</a>  
+</p>
+</letter>

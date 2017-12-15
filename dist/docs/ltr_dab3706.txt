@@ -1,0 +1,88 @@
+<letter id="dab3706">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='7'>7</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the loth of October, and should have appointed the time and place 
+for the immediate execution of Gamble, but both he 
+and Davis had effected their escape, as I informed 
+your Excellency in a former letter. The officers, who 
+commanded the guards at the times they respectively 
+escaped, were arrested, tried, and acquitted ; and, 
+therefore, I thought it unnecessary to trouble you 
+with the proceedings respecting them. 
+</p><p>
+I was applied to, to endeavour to intercede with 
+your Excellency, to remit the sentence of Captain Beal ; but I thought it too just, to say any thing about it. The proceedings respecting Gosset were 
+packed up, in a mistake. The Court-Martial sententenced him to be whipped; and, as your Excellency had authorized me to determine upon all proceedings which did not affect life, or the dismission 
+of an officer, I did not intend to have troubled you 
+with the proceedings respecting him. 
+</p><p>
+I have, for a long time past, had two parties in 
+the country, commanded by Field-Officers, to impress cattle, and yet the troops are frequently without meat for several days together. Indeed, I am so 
+well convinced that there is not half meat enough 
+on this side the mountain for the supply of the 
+troops, that I have thought it advisable to risk the 
+sending a party of hunters to kill buffalo, at Little Kanhawa, and laying the meat, until we shall be able 
+to send for it, which, I expect, will be in the spring. 
+</p><p>
+The Delaware Chiefs have declared war against the 
+Senecas; and Captain John Montour was immediately 
+sent, with two Delawares and one white man, to 
+bring a prisoner from their towns. At French Creek 
+(Venango) he fell in with a party of eight Senecas, 
+who, a few days before, had taken a woman and two 
+children from Westmoreland county. He shot one of 
+the Indians upon a raft in the creek, and the rest 
+ran away; but, after a few minutes, one of them returned, under cover of some timber, and asked Montour who he was. He told them that he and his men 
+were Delawares ; that they were sent by their Chiefs ; 
+and that they might thank God the water prevented 
+getting at them ; when the Seneca expressed some 
+mark of contempt, and followed his own party. This 
+relation may be depended on. Captain Montour, with 
+a party of Delawares, is now in pursuit of another 
+party of Indians, supposed to be Delawares, or Muncies, who were discovered by a Delaware runner, on 
+their way towards these settlements. 
+</p><p>
+I do all in my power to encourage partisan strokes. 
+But, was I at liberty to give rewards, I have neither 
+money nor goods to do it with. I can venture to 
+say that I could, at any time, for a small quantity 
+of goods, engage a very considerable number of Delaware Indians to go with me upon an expedition ; 
+and I believe that a considerable quantity would 
+enable me to set the Indians at war against one 
+another, so as to divert them from our frontiers. 
+</p><p>
+Many of the inhabitants are uneasy to see any notice taken of the Delaware Indians, and once attempted to destroy a great number of them, who were 
+under our protection, but were prevented by a guard 
+of regular troops. I have hitherto made use of every 
+address in my power to keep as many of them from 
+joining the enemy as it was possible for me to do, 
+in obedience to your Excellency's instructions ; and I 
+shall be very thankful for your further commands 
+respecting them. 
+</p><p>
+I am sensible that there are a great number of 
+disaffected inhabitants on this side the mountain, that 
+wish for nothing more than a fair opportunity to 
+submit to the British Government, and, therefore, 
+would be glad to have the regular troops withdrawn. 
+</p><p>
+I have received the General Orders respecting the new arrangement of the army, and shall remit the 
+arrangement of my regiment to <a href='/results.php?tla=atw' rel='colleague'>General Wayne</a> by 
+this conveyance. I am a stranger to the intention of most of my brother officers; but, for my part, I am 
+inclined to assist, to the end, in a work so nobly begun. I beg leave to return your Excellency my warmest thanks for your continual care of the troops which I have the honor to command. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. A half Indian, of the name of Bawhee, 
+brought me a draft of the works at Detroit, which 
+I take the liberty to inclose. He dropped some 
+hints of his being in British pay, and I confined him 
+in irons, but know not how to punish him without 
+bringing more trouble upon the inhabitants. 
+</p>
+</letter>

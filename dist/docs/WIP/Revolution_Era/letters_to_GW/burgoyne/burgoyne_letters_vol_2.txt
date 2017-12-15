@@ -1,0 +1,126 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.A9D9H7 on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--jhb
+--DOC-AUTHOR-FIRST--John
+--DOC-AUTHOR-LAST--Burgoyne
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jhb3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=cambridge' rel='city origin'>Cambridge</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I beg you to accept my sincerest acknowledgments 
+for your very obliging letter. I find the character, 
+which I before knew to be respectable, is also perfectly amiable ; and I should have few greater private gratifications in seeing our melancholy contest 
+at an end, than that of cultivating your friendship. 
+</p><p>
+I shall take particular care of your letter to Mr. 
+Fairfax. He is a gentleman much esteemed. I hope there is no reason to apprehend his death ; I heard 
+no such report when I left England, last spring, nor 
+have I seen it in any of the magazines since, most 
+of which have come to my hands. I have the honor 
+to be, with great respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>.
+</p>
+</letter><letter id="jhb3201">
+<recipient first="Friedrich" last="Baum" type="individual"/>
+<p>
+Near <a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The accounts you have given me are very satisfactory, and I doubt not every proceeding under your direction will be the 
+same. I beg the favor of you to report whether the route you 
+have marched will be practicable with a large corps of cannon, 
+without repair, or with what sort of repair. The desirable circumstance for your corps is, at present, to possess <a href='/results.php?city=bennington' rel='city'>Bennington</a> ; 
+but should you find the enemy too strongly posted, and maintaining such a countenance as would make a coup de main ardous, I wish you to take such a post as you can maintain till you 
+hear further from me ; and upon your reports and other circumstances, I will either support you in force or withdraw you. 
+</p><p>
+You will please to send to my camp, as soon as you can, wagons and draught-cattle, and likewise such other cattle as are not 
+necessary for your subsistence. Let the wagons and carts bring 
+off what flour and wheat they can, that you do not retain for the 
+same purpose. I will write to you in full to-morrow in regard to 
+purchasing horses out of the hands of the savages. In the mean 
+time, let them be assured that whatever you select from them, fit 
+to mount the dragoons, shall be paid for at proper price. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter><letter id="jhb3202">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+Head-Quarters of the King's Army, upon the <a href='/results.php?city=hudson river' rel='city origin'>Hudson River</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Major-General Riedesel has requested me to transmit the in 
+closed to Lieutenant-Colonel Baum, whom the fortune of war put 
+into the hands of your troops at <a href='/results.php?city=bennington' rel='city'>Bennington</a>. 
+</p><p>
+Having never failed in my attentions towards prisoners, I can 
+not entertain a doubt of your taking this opportunity to show mea return of civility ; and that you will permit the baggage and 
+servants of such officers, your prisoners, as desire it, to pass to 
+them unmolested. 
+</p><p>
+It is with great concern I find myself obliged to add to this 
+application, a complaint of the bad treatment the Provincial soldiers in the king's service received after the affair at <a href='/results.php?city=bennington' rel='city'>Bennington</a>. 
+I have reports, upon oath, that some were refused quarter, after 
+having asked it. I am willing to believe that this was against 
+the order and inclination of your officers ; but it is my part to 
+require an explanation, and to warn you of the horrors of a retaliation, if such a practice is not, in the strongest manner, discountenanced and reprehended. 
+</p><p>
+Duty and principle, Sir, make me a public enemy to the Americans who have taken arms ; but I seek to be a generous one ; 
+nor have I the shadow of resentment against any individual, who does not induce it by acts derogatory to those maxims upon 
+which all men of honor think alike. 
+</p><p>
+Persuaded that a gentleman of the station to whom this letter is addressed, will not be comprised in the exception I have made, 
+</p><p>
+I am, personally, Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter><letter id="jhb3203">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=cambridge' rel='city origin'>Cambridge</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I received the resolves of the Congress, of the 8th of January, 
+with an astonishment that no occurrence ever before occasioned. 
+It would be misplaced to enter now into any reasoning upon the 
+subject. 
+</p><p>
+I apply to you, Sir, as an individual whom I believe to have 
+honor, humanity, and generosity. My Aid-de-camp has directions 
+to communicate to you my letters to the Congress. I leave to 
+your feelings to support that which regards my private situation, 
+only begging leave to recall to your recollection the offer you 
+made, in regard to my personal embarkation. In the full persuasion of the integrity of that proposal, I thought not of entering 
+into reasonings and justifications in my public or private letters 
+from <a href='/results.php?city=albany' rel='city'>Albany</a>, in any such degree as the delicacy of a soldier's 
+character required, after a series of the most critical situations, 
+difficult attempts, and diversified ill success. To die in this country, is nothing ; but to leave my honor unvindicated in my own, 
+is more than philosophy or fortitude can be expected to bear. 
+</p><p>
+I confide in you, to consider this entirely as a private letter, 
+and am, 
+</p><p>
+With sincere regard, Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter>

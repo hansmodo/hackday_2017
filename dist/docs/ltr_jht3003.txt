@@ -1,0 +1,34 @@
+<letter id="jht3003">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="11">11</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+Yesterday, at twelve o clock, I received your letter 
+by Major Johnson. I immediately gave the necessary directions. Some companies I ordered to New 
+London; others to New Haven; Colonel Webb, with 
+the companies that way, if not marched, to take his 
+station at Greenwich. Same day, at eleven o clock, 
+I received a letter from Brigadier-<a href='/results.php?tla=daw' rel='colleague'>General Wooster</a>, 
+dated the 9th, at the Oyster Ponds, on Long Island. 
+He had with him four hundred and fifty men, besides 
+militia, designing to preserve the stock at that place. 
+The people on the Island had left it. He applied to 
+me for three hundred pounds of powder, before I 
+had made my answer and order for the powder, 
+which I gave, notwithstanding our exhausted condition. On receipt of yours, I inserted an extract from 
+it, for his observation. 
+</p><p>
+I am informed a quantity of powder for the camp 
+is to be at <a href='/results.php?city=hartford' rel='city'>Hartford</a> this evening, and more to follow soon. We have none lately arrived, which is 
+daily expected. I request your direction, that of the 
+next quantity that comes to <a href='/results.php?city=hartford' rel='city'>Hartford</a>, there may be 
+lodged there so much as you shall judge expedient. 
+Of what is expected do arrive in the mean time, I 
+shall have no occasion to use your allowance. 
+I am, most respectfully, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

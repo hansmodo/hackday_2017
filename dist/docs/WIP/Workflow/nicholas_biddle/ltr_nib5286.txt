@@ -1,0 +1,18 @@
+<letter id="nib5286">
+<recipient first="Robert" last="Lenox" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="7">July</a> <a rel='day origin' value='30'>30</a> <a href='/results.php?year=1833' rel="origin">1833</a> 
+</p><p>
+My dear sir 
+</p><p>
+. . . The gamblers are doing every thing in their power 
+to bend Mr. Duane to their purposes. But he knows them and 
+will not yield an inch. I feel entirely confident that he will do 
+his duty, and will leave his place rather than prostitute it. 
+</p><p>
+I wish to wait a little while until the smoke blows off, before doing any thing very decisive. In the mean time I wish 
+you would keep within your income and bring the State Banks in debt to you: and for the present it is better that you 
+should do it than that I should say it: for when once we begin, we shall have many things to do, which will crush the 
+Kitchen Cabinet at once 
+</p>
+</letter>

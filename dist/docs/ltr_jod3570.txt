@@ -1,0 +1,42 @@
+<letter id="jod3570">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='2'>2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+YOUR letter from your sick chamber, if not from your 
+sick bed, has made me so uneasy, that I must get 
+away as soon as possible. Monday morning, at six, I 
+am to set off in the stage, but how many days it will 
+take to get home will depend on the roads or the 
+winds. I don t believe Abby will go with me. Her 
+husband is so proud of his wealth that he would not 
+let her go&gt; I suppose, without a coach-and-four, and 
+such monarchical trumpery I will in future have no 
+thing to do with. I will never travel but by the stage, 
+nor live at the seat of government but at lodgings, 
+while they give me so despicable an allowance. 
+Shiver my jib and start my planks if I do. 
+</p><p>
+I will stay but one night at <a href='/results.php?city=new york' rel='city'>New York</a>. Smith 
+says that my books are upon the table of every member of the committee for framing a constitution of 
+government for France, except Tom Paine, and he is 
+so conceited as to disdain to have any thing to do 
+with books. Although I abused Smith a little above, 
+he is very clever and agreeable : but I have been 
+obliged to caution him against his disposition to boast 
+ing. Tell not of your prosperity, because it will 
+make two men mad to one glad ; nor of your adversity, for it will make two men glad to one sad. He 
+boasts too much of having made his fortune, and 
+placed himself at his ease, above all favors of government. This is a weakness, and betrays too little knowledge of the world ; too little penetration ; too little discretion. I wish, however, that my boys had a little 
+more of his activity. I must soon treat them as the 
+pigeons treat their squabs push them off the limb, 
+and make them put out their wings or fall. Young 
+pigeons will never fly till this is done. Smith has acquired the confidence of the French ministry and the 
+better sort of the members of the national convention ; but the executive is too changeable in that 
+country to be depended on, without the utmost caution. 
+</p><p>
+Adieu, adieu, tendrement, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

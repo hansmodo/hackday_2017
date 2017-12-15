@@ -1,0 +1,25 @@
+<letter id="nib5201">
+<recipient first="James" last="Monroe" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="6">June</a> <a rel='day origin' value='21'>21</a>. <a href='/results.php?year=1809' rel="origin">1809</a> 
+</p><p>
+D' Sir 
+</p><p>
+It is so long since I have had the pleasure of hearing from you that I take the liberty of asking news of yourself 
+&amp; the family. I should indeed before this have acknowledged your kind letter, but there is you know a tranquil, one might 
+say a happy uniformity which gives to American life but little variety of incidents, &amp; it would be superfluous I trust 
+to repeat the assurances of my respect &amp; esteem. My young friend Mr Walsh whom you may recollect in London has just returned in the Pacific. With regard to our affairs, he 
+left Mr Pinkney under a strong impression that the modification of the Orders in Council was all that England meant 
+to concede to this country. He had no idea of the more enlarged arrangement which has been made, or is expected at 
+Washington. It seems singular that whilst negociating in London the ulterior views of the British government should 
+have been concealed from him, &amp; it would be unfortunate 
+if in a matter of such consequence there should be any misapprehension. But the declaration of Mr Erskine appear[s] 
+full &amp; explicit. Mr M's observation of the pressure of the embargo rather confirms the opinion that we have only 
+revealed the dangerous secret of our impotence yet the experiment tho dear may perhaps be valuable, since nations 
+like men should learn to estimate their comparative value. All England is so much occupied with the Duke of York 
+that this new war in Austria has attracted very little attention, &amp; excited no expectation of success. Lord Holland still 
+remains in Spain. <a href='/results.php?tla=aab' rel=''>Mr Burr</a> was ordered to leave England, not as was stated at the requisition of the Spanish minister but 
+from a belief that he was travelling over England for the purpose of collecting information which might render him after 
+wards acceptable to the French gov't . He had been at Edinburgh &amp; the gov't understanding his intention of going to Ireland sent orders there to prevent his landing. . . . 
+</p>
+</letter>

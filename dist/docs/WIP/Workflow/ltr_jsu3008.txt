@@ -1,0 +1,30 @@
+<letter id="jsu3008">
+<recipient first="" last="Thompson" type="individual"/>
+<p>
+<a href='/results.php?city=sorel' rel='city origin'>Sorel</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+You are to march as soon as possible with Colonel Irvine's 
+and Colonel Wayne's regiments, together with those of <a href='/results.php?tla=arc' rel='colleague'>Colonel St. Clair</a> now remaining at this place, . and join <a href='/results.php?tla=arc' rel='colleague'>Colonel St. Clair</a> at Kicolet, and take command of the whole party; and 
+unless you find the number of the enemy at Three Rivers to 
+be such as would render an attack upon them hazardous, you 
+are to cross the river, at the most convenient place you can, 
+and attack them. You will pay particular attention to the preservation of your bateaux, keeping them at a convenient distance 
+above the shipping, which lies at or near the Three Rivers. 
+I would by no means advise to an attack, if the prospect of 
+success is not much in your favor, as a defeat of your party 
+at this time might prove the total loss of this country. 
+</p><p>
+Sir, as I have (without flattery) the highest opinion of the 
+bravery and good conduct of yourself and the officers you command, I forbear attempting particular instructions, being well 
+assured, that neither prudence nor resolution will be wanting to 
+answer the great purpose we have in view. I have the highest opinion of the bravery and resolution of the troops you command, and doubt not but, under the direction of a kind providence, you will open the way for our recovering that ground, 
+which former troops have so shamefully lost. Wishing you the 
+greatest success and safety, I am, dear Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

@@ -1,0 +1,61 @@
+<letter id="nag3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your Excellency's letter of the 8th, this moment came to hand. I shall forward the letter to General Stevens by express. The stores at Dobbs's Ferry I 
+had just given orders to the Quartermaster to prepare wagons to remove. I think the enemy will 
+meet with some difficulty in crossing the river at Dobbs's Ferry. However, it is not best to trust too much to the expected difficulties they may meet there. 
+</p><p>
+By the letter that will accompany this, and was to 
+have gone last night by <a href='/results.php?tla=thm' rel='colleague'>Major Mifflin</a>, your Excellency will see what measures I took before your favor 
+came to hand. The passing of the ships up the river 
+is, to be sure, a full proof of the insufficiency of the 
+obstructions in the river to stop the ships from going  up ; but that garrison employs double the number of men to invest it that we have to occupy it. 
+They must keep troops at King's Bridge, to prevent 
+a communication with the country; and they dare 
+not leave a very small number, for fear our people 
+should attack them. 
+</p><p>
+Upon the whole, I cannot help thinking the garrison is of advantage; and I cannot conceive the garrison to be in any great danger. The men can be 
+brought off at any time, but the stores may not be 
+so easily removed; yet I think they can be got off, 
+in spite of them, if matters grow desperate. This 
+post is of no importance only in conjunction with 
+Mount Washington. I was over there last evening. 
+The enemy seem to be disposing matters to besiege 
+the place ; but Colonel Morgan thinks it will take 
+them till December expires before they can carry it. 
+If the enemy do not find it an object of importance, 
+they will not trouble themselves about it; if they 
+do, it is open proof they feel an injury from our 
+possessing it. Our giving it up will open a free 
+communication with the country, by the way of 
+King's Bridge, that must be a great advantage to 
+them and injury to us. 
+If the enemy cross the river, I shall follow your 
+Excellency's advice respecting the cattle and -forage. 
+Those measures, however cruel in appearance, were 
+ever my maxims of war, in the defence of a country ; in attacking, they would be very improper. 
+</p><p>
+By this express, several packets from Congress are 
+forwarded to you. 
+</p><p>
+I shall collect our whole strength, and watch the 
+motions of the enemy; and pursue such measures, 
+for the future, as circumstances render necessary. 
+</p><p>
+As I have your Excellency's permission, I shall 
+order General Stephen on as far as Aquackanock, at 
+least. That is an important pass. I am fortifying it 
+as fast as possible. 
+</p><p>
+I am, dear Sir, your most obedient, 
+</p><p>
+And very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

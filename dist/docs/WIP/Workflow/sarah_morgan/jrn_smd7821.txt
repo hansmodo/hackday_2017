@@ -1,0 +1,24 @@
+<letter id="smd7821">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a rel="month origin" value="6">June</a> <a rel='day origin' value='5'>5th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>] [<a href='/results.php?city=baton rouge' rel='city origin'>Baton Rouge</a>, Louisiana]
+</p><p>
+Last night I determined to stay. Miriam went 
+after our trunks at daylight. A few hours after, 
+Lilly wrote we must go back. <a href='/results.php?tla=gbm' rel=''>McClellan's</a> army 
+was cut to pieces and driven back to Maryland, 
+by Jackson; the Federals were being driven into 
+the swamp from <a href='/results.php?city=richmond' rel='city'>Richmond</a>, too. <a href='/results.php?tla=pgb' rel=''>Beauregard</a> is undoubtedly coming to attack <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>; his fire 
+would burn the town, if the gunboats do not; the 
+Yankees will shell, at all events, if forced to retire. 
+It cannot stand. We can't go to <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>. Butler 
+says he will lay it in ashes if he is forced to evacuate 
+it, from yellow fever or other causes. Both must be 
+burned. Green well is not worth the powder it would 
+cost, so we must stand the chance of murder and 
+starvation there, rather than the certainty of being 
+placed between two fires here. Well, I see nothing 
+but bloodshed and beggary staring us in the face. 
+Let it come. "I hope to die shouting, the Lord will provide." 
+</p><p>
+</letter>

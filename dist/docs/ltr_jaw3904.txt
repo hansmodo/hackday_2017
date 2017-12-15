@@ -1,0 +1,44 @@
+<letter id="jaw3904">
+<recipient first="" last="" type="individual"/>
+<p>
+MR. WILLIAMS TO MRS. WILLIAMS. 
+</p><p>
+<a href='/results.php?city=camp catawba' rel='city origin'>CAMP CATAWBA</a>, OLD NATION, <a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR WIFE : 
+</p><p>
+My anxiety for you and my dear children, far exceeds anything that I am able to express ; not knowing your distress but I trust in God that 
+His guardian care has been over you for your protection ; I have earnestly requested the favor of heaven on you. I have had some 
+accounts from you, but they were very imperfect. I pray God that I may have the happiness of seeing you my love at Mount Pleasant in the 
+course of this month, with a force sufficient to repel all the Tories in the upper part of South Carolina. I have been informed that many false 
+stories are in circulation in our country to the disheartening of our friends in that quarter of the State. I give the true state of things 
+touching our army, and you, my love, and all my friends, may depend on it to be the truth. I was at my brother's and settled my family on 
+as good terms as possible, and left him well with his family. I left there on the 29th of last month; that day, Major General De Kalb and 
+<a href='/results.php?tla=atw' rel=''>General Wayne</a> and Smallwood, with the Maryland and Pennsylvania troops to the amount of 3,000, and 2,500 from Virginia, are on the 
+march from Roxbury in order to join Major General Caswell with about 2,000 North Carolina militia, and about 200 regular light horse ; on 
+the whole, 7,700, that is now in motion, and will be at Camden in the course of six or seven days, which may put a different face on matters. 
+And there are 5,500 Virginia militia marching that will be here shortly, (and 2,000 North Carolina militia, under General Rutherford, that is to 
+march to Ninety -six,) with some South Carolina militia commanded by Col. Sumter, to the amount of 500, now in camp at this place, and are 
+expected to cross the river to-day, with about 500 of the Mecklenburg militia, Over and above all these, there are 4,000 more North Carolina 
+militia to march as soon as harvest is over. On the whole, I expect we will shortly meet the tories, when they must give an account of their late 
+conduct. I can assure you, my dear, that there is a large French Fleet and army on our coast. I think, from these circumstances, that our 
+affairs are in a nattering condition at present. I expect you have heard of Moore's defeat, in the fork of the Catawba by a detached party from 
+General Rutherford, under Capt. Falls, not exceeding 350, that defeated 1300 tories, and took their baggage, with about 500 horses and saddles 
+and guns, and left 35 on the field dead. Since that General Caswell has defeated the English at the Cheraws, and cut off the 71st Regiment 
+entirely. I can assure you and my friends that the English have never been able to make a stand in North Carolina yet, and they have slipt 
+their time now, for they or retreating to Charlestown with all rapidity. From this you may see, under the blessing of God that we will soon 
+relieve our distressed families and friends ; so bear up with fortitude till that happy day comes. I hope in God this will find you, my dear wife, 
+and my children all well. My compliments to you and my children and friends that inquire after me. Myself and Capt. Hays, Daniel and 
+the boys are all hearty ; God be blest for His mercy to us. 
+</p><p>
+The uncertainty of your situation is my great mortification; but let our joint prayers meet in Heaven for each other and our bleeding 
+country. The Rev. Mr. Simson has had his house and every thing he had but the clothing the family had on destroyed, and he is in camp 
+with rue and Mr. Croghead, and is part of my family in camp. Mr. Simson, Mr. Croghead, and Capt. Hays, join me in our compliments to you, my love and friends. 
+</p><p>
+I am with great regard your loving husband till death, 
+</p><p>
+<a href="/results.php?tla=jaw" rel="me">JAS. WILLIAMS</a>.
+</p><p>
+N, B. As for family affairs do as you may think best. 
+</p>
+</letter>

@@ -1,0 +1,469 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.427DJx on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--wid
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Drayton
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wid3900">
+<recipient first="John" last="Laurens" type="individual"/>
+<p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+SIR: 
+</p><p>
+As a magistrate I yesterday presented myself at your door to have 
+the honor of paying my respects to your Excellency, and in the after 
+noon 1 attended there again, in order to beg to be honored with your 
+commands in a military way; for I think that, at this time, while I 
+have no occasion to wear my gown, I ought to wear a sword. 
+</p><p>
+In a word, the favor I have to ask of your Excellency is, that you 
+will be pleased to enable me, as a volunteer, to be active in the defence 
+of my country. 
+</p><p>
+I have the honor to be, sir, your Excellency's most obedient and 
+Most humble servant, 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p>
+</letter><letter id="wid3901">
+<recipient first="Francis" last="Salvador" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+MY DEAR SIR : 
+</p><p>
+I am much obliged by your favor of the 19th, which gave me not only a comprehensive view of affairs your way, from the beginning of 
+the war; but, also, the ideas of people touching the discharge of Cunningham and his companions. We apprehended some dissatisfaction 
+might arise; but the act was done, as you very justly thought, with the best intentions, and we hope good consequences will follow. I think I 
+am pretty sure no bad ones can arise on that score, but from the mistaken warmth of our friends. I must applaud your resolution to consider Cunningham " in future merely as an individual, and not as head of any party/ Such is the station he ought ever to hold. 
+</p><p>
+As for the fate of the thirteen white prisoners taken upon the repulse of the Indians speaking as W. H. D. in a private character, I think 
+the public would have received an essential piece of service had they been all instantly hanged. I am not singular in this idea of justice 
+and policy inferior and superior public characters think FO, too. 
+</p><p>
+This day the Experiment, of 50 guns, and the Syren, of 28, got 
+over the bar to join their shattered Commodore. Last Sunday the 
+transports sailed with the troops and Clinton, leaving one brig with 
+about forty Scots, of a regiment called Royal Highland Emigrants . 
+This vessel got on ground. She has fallen into our hands. The men 
+are prisoners the vessel is burnt. I suppose some of the other men-of-war will come over the bar to-morrow. Perhaps all, perhaps not; for 
+of this you know we cannot judge, as we are not of their counsels. 
+The fleet stood off for the Gulf, and the deserters say they are bound 
+for a Northern Long Island, as they are so much in love with the 
+Southern Long Island they have just quitted. 
+</p><p>
+Lee is very clever and very positive. The most positive of the 
+Poetical Fates was, I scarce believe, more positive. Every idea of his 
+must be right, and, of course, every contrary idea in every other person 
+must be wrong; and, contrary to the saying of the wise man, we now 
+find, that even in a multitude of counsellors there is no wisdom, when 
+they entertain different ideas from him, even in cases as plain as my 
+hand. However, the General has rather been unlucky in his ideas 
+sometimes; for we have found salvation from a quarter whence he said 
+none could come; and he has .been served by Continental officers and 
+troops in such sort, as to oblige him to preserve a mortifying silence 
+on the expedition. From the zeal we have, and that only, for the welfare of the common cause, we are content to be silent to him on that 
+point, also. We ought to have taken eighty British troops in the 
+light-house, for we had 320 men to do it with; but the commanding 
+officer kept 245 men and himself, to guard the boats, and sent the 
+others on to look for the enemy and after that sent them orders to 
+retreat, when they were willing to have stormed the light-house. They 
+returned to the boats and begged leave to return to the enemy; he 
+ordered them to embark. Our friend, Capt. Richardson, of Huger s, 
+commanded this little detachment. 
+</p><p>
+No news yet from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; every ear is turned that way, 
+anxiously listening for the word, independence. I say, God speed the 
+passage of it. Amen say you. 
+</p><p>
+And now a word to the wise. It is expected you make smooth 
+work as you go that is, you cut up every Indian corn-field, and burn 
+every Indian town and that every Indian taken shall be the slave and 
+property of the taker ; that the nation be extirpated, and the lauds 
+become the property of the public. For my part, I shall never give 
+my voice for a peace with the Cherokee Nation upon any other terms 
+than their removal beyond the mountains. 
+</p><p>
+As for town news, we have none but what is ridiculous, except that 
+a quarrel has arisen between the Vice-President and Col. Pinckney. 
+A challenge passed from the first; the last met him .before the hour; 
+there was no fight, but I have bound over the Colonel, and I have 
+issued a warrant against his Honor, the Vice-President, because he 
+hides himself at home. From what has passed, I begin to be of opinion 
+that his Honor may be lodged in the common jail, because he is not 
+inclined to be bound over. Is not this ridiculous ? I will not say 
+which is in the wrong. I saw the origin of the quarrel it was a trifle ; 
+so much the worse say you. I should not have mentioned this affair; 
+but that what I endeavored to have kept secret is, by a certain obstinacy, become public; and I say so much, that as much maybe fairly represented. 
+</p><p>
+I am much obliged to you for your having begun to feel Norwood's 
+pulse. I hope you will succeed with him. He is another unreasonable 
+man. 
+</p><p>
+As for my friend, Major Williamson, I long to see him Colonel of the regiment now under his orders. In the station of Major, he does 
+infinitely more honor to it than any Colonel it ever had ; of this rank we must say something hereafter. At present the title of Commander
+in-Chief of the expedition against the Cherokees, with which he is vested, will give him command of any colonel in his army. According 
+to tho military rule, any colonel in his army, though with part, or even the whole of their regiment, are to be considered as volunteers, and 
+they cannot have ;my authority in the camp or army but what is derived from the Major. However, as in all probability the Major may authorize them to command their several detachments under him, I 
+think they may expect to receive their usual pay while in actual service. But this may be depended upon, that any conduct that shall 
+clash with Major Williamson's orders will be carefully examined into. 
+</p><p>
+My paper puts me in mind that I ought to finish my letter, so I beg you will present my compliments to the Major, Capt. Hammond, and any 
+of my acquaintances that you may know to Mr. Hapley, who, perhaps, may be with you ; and, that Victory will conduct your march, is the 
+expectation of, dear sir, 
+</p><p>
+Your most humble and obedient servant, 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p>
+</letter><letter id="wid3902">
+<recipient first="" last="Bull" type="individual"/>
+<p>
+<a rel="month origin" value="2">February</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR COUSIN : 
+</p><p>
+I am sorry to find that you have not yet heard any thing from. our 
+uncle, respecting his ideas upon his situation at the present crisis, and 
+this induces me to trouble you with this letter. 
+</p><p>
+You will know to what a low ebb our affairs were reduced at the 
+Northward; and that it is the received opinion that they were so reduced by the underhand management of persons on the other side of 
+the question, from principle, or hopes of regaining their offices. In 
+short, our moderation to such persons almost ruined our cause. You 
+know, also, the inclination of our public, to expel such persons from 
+among us, and the difficulty of any discrimination of persons, lest while 
+every man endeavored to save his friend, the measure itself be defeated. 
+</p><p>
+At length, driven thereto by recent danger, we have brought in an 
+ordinance for the banishment of crown officers and suspected persons, 
+upon a contingency therein expressed. Only five persons in the General Assembly appeared against it. You were not present in the debate, 
+and I will, therefore, tell you what I said introductory to my support 
+of the ordinance. My situation was truly disagreeable. I spoke but 
+once, the last in the debate; and, considering the lead I have taken 
+hitherto, it would have been justly and injuriously remarked, if on such 
+a question I had been absent or silent. The conclusion of my last 
+charge to the grand jury must have condemned me. I arose deeply 
+impressed with a feeling I had never before experienced, and having 
+observed that I was more tenderly interested in the debate than any 
+man in the room, I lamented that the time was come when the public 
+welfare called upon us to adopt measures that might effect the tranquility of our nearest relations ; that I was sensible the present measure 
+might effect, in its operation, a gentlemen to whom I was nearly related 
+by blood to whom I owe the greatest obligations, and to whom I bore 
+the most respectful affection ; that I was fully aware my appearing in 
+support of such a measure would open the mouth of calumny to reproach me as an ingrate a man void of natural affection. That it was 
+out of my power to avoid reproach; but that as it was my inclination 
+and duty, so it was in my power to avoid giving just occasion for censure. That there were various duties, public and private, each rising in gradation; that it was a first principle in society, that our duty to our 
+country was the first of the social duties ; that America had engaged in 
+the present war upon this principle, and that our independence was to 
+be supported only by carrying that principle into practice. In short, 
+that in this particular case, as in all others, I firmly trusted that my 
+conduct was, and would be, a sufficient refutation of every calumny. 
+I then proceeded to support the ordinance, which I held to be absolutely necessary. 
+</p><p>
+Having in this manner supported the uniform vigor of my public 
+conduct, to find a flaw in which my private enemies have always sought, 
+and having thus discharged my duty to the public, I lost no time, you 
+know, to discharge my duty to our respected relation. I sought you 
+through the town, told you what had happened, and laid down the only 
+means by which, in my opinion, our uncle could with credit . preserve 
+his tranquility. Many weeks ago I informed him such an event was to 
+be expected, and I have never mentioned this conversation to any person 
+but yourself. Let us consider what our uncle may do. 
+</p><p>
+We know his situation. His good sense and integrity stand confessed. I will not determine upon his opinion respecting the present 
+controversy. But, without any imputation, he may resign to the King 
+of Great Britain, by a letter containing some such representation as the 
+following. We will send the letter to Congress, and they, by a flag of 
+truce, will send it to Lord Howe to be forwarded, 
+</p><p>
+His infirmities of body, his advanced age, and the calamities of his 
+country, which he can neither remedy nor alleviate by a continuance in 
+office, impel him to resign a commission which he had accepted and 
+hitherto held, only because it enabled him to serve his country. That 
+his laborious services under the crown, from his early youth, entitled 
+him to a retirement from public business in his advanced age; and that 
+his infirmity of body, distress of mind and age, demanded a release 
+from labor. 
+</p><p>
+Is there an idea in that representation inconsistent with fact, or injurious to his character ? Can such sentiments and corresponding con 
+duct endanger him under the crown, or give offence to posterity ? No ! 
+But even such sentiments will satisfy his countrymen and conemporaries. 
+How really fortunate, therefore, is his situation, who at such a time as 
+the present can procure not only safety but tranquility, on both sides, 
+by a conduct satisfactory to his countrymen, without incurring blame 
+in the eyes of posterity! 
+</p><p>
+I am persuaded no man has our uncle's tranquility, welfare and 
+honor, more at heart than you have, and I am satisfied you do not, on 
+these points, think amiss of me. I am also convinced that upon the 
+subject of this letter no person can discourse to him so freely as your, 
+self. His situation is perilous with respect to his tranquility, and no 
+time ought to be lost, or importunity omitted, in representing such a 
+conduct, and pressing him to adopt it, as may ensure his tranquility. 
+</p><p>
+If he resigns, let his letter be by you delivered open to the President, who will seal and forward it to Congress. The letter ought to 
+be dated before Wednesday next. These things done, he will not be interrupted in his retirement. If there shall be occasion for your producing the letter, I shall ask you for it on Wednesday. If I do not 
+then ask you for it, you may return it back, observing a profound silence to me and to every other person upon the subject, whether you 
+ever received such a letter or not. For while by importunity I am inclined to do a violence to his judgment to preserve his tranquility, I 
+am unwilling that he should unnecessarily do any thing against his free inclination. Adieu. 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p>
+</letter><letter id="wid3903">
+<recipient first="Humphrey" last="Wells" type="individual"/>
+<p>
+PROPOSED UNION BETWEEN SOUTH CAROLINA AND GEORGIA. 
+</p><p>
+<a href='/results.php?city=snow hill' rel='city origin'>SNOW HILL</a>, S. C., <a rel="month origin" value="6">June</a> <a rel='day origin' value='8'>8</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR : In compliance with your request, I do myself the pleasure of 
+committing to paper some of the principal circumstances and arguments 
+relative to the late proposition of an union between South Carolina and 
+Georgia. 
+</p><p>
+By our General Assembly, which is a pretty numerous body, it was 
+unanimously resolved, that an union between the two States would tend 
+effectually to promote their strength, wealth and dignity, and to secure 
+their liberty, independence and safety. Commissioners were sent to 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> to treat of an union, and I was honored by being sent upon 
+this business. 
+</p><p>
+Immediately after I arrived in <a href='/results.php?city=savannah' rel='city'>Savannah</a>, I found that every gentle 
+man in public office, with whom I conversed, was strongly against an 
+union. However, I had the pleasure to find some gentlemen of fortune, 
+though not in office or convention, who heartily approved the measure. 
+</p><p>
+The convention was adjourned when I arrived, the beginning of January last, but upon their meeting, I notified that I had important matters to lay before them, as commissioner from South Carolina. I then 
+was assured and I gave full credit to it, that I should fail in my application, but I proceeded in the discharge of my duty. 
+</p><p>
+Being admitted to an audience in convention, after a short introduction of what I had to say, I stated that chance had originally placed the 
+present districts of South Carolina and Georgia under one government 
+at Charles Town and although these districts, then forming but one, 
+had been separated and placed under two governments, yet nature 
+pointed out that the two should again form but one ; for their climate, 
+soil, productions and interests were the same. That if they continued 
+two States, we had only to recollect the history of mankind, and the nature of things to foresee that from such causes their counsels and con 
+duct would clash; and, of course, jealousies, and rivalship would daily 
+increase between them, to the natural prejudice of their internal improvement, common production and foreign commerce. That there 
+might be dangerous disputes about boundaries and the property of the 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> River; since on these subjects many people in Carolina and 
+Georgia thought very differently ; a natural and great obstruction to 
+the rise of the value of property. But that on the other hand, by an 
+union, all such jealousies, rivalship, prejudice, danger and obstruction 
+would be removed. Improvements of every kind, especially in agriculture, inland navigation and foreign commerce would be studied and advanced with rapidity. The expenses of Government would be lessened, 
+to the great ease of the people, because only one establishment of civil 
+officers would be paid in the room of two. The public defence would 
+be more powerful, and at a less expense under one Government than 
+under two, which might be jealous of, and therefore often desirous to 
+thwart each other, and at any rate certainly liable undesignedly to defeat 
+each others plans, to the ruin of the people concerned. And thus, sir, 
+you see many important advantages that would be common to the two 
+States by an union. But there are others which would be peculiar to Georgia. 
+</p><p>
+By an union, the land in Georgia would rise in value, because the 
+Carolina planters would be encouraged to extend their improvements 
+into Georgia, and the merchants carry that trade immediately to Georgia, which otherwise must continue to be carried on as it always has 
+been, and especially of late, through Carolina. The Georgia currency, 
+always hitherto of inferior value to that of Carolina, (some more than 
+20 per cent.,) would be put upon an equal footing with that of South 
+Carolina. The town of <a href='/results.php?city=savannah' rel='city'>Savannah</a>, in particular, and the adjacent 
+lands, would be of much more importance and value, because <a href='/results.php?city=savannah' rel='city'>Savannah</a> 
+river would be immediately cleared, a measure that would encourage 
+and occasion an immense increase of agriculture upon all the land 
+within reach of its navigation, and hence an amazing increase of produce and river navigation, all of which would centre in <a href='/results.php?city=savannah' rel='city'>Savannah</a>. 
+Thus, in a state of separation from South Carolina, <a href='/results.php?city=savannah' rel='city'>Savannah</a> could 
+reasonably expect, and that but by slow degrees, and at a distant day, 
+only the one-half of the produce of a well-improved cultivation of the 
+lands on that river, but by an union, she would in a very short time 
+receive the whole of that improved cultivation and trade ; and her own 
+commerce would be increased almost beyond imagination, although she 
+would lose the seat of Government. Finally, I may add, that in a 
+state of separation in all probability <a href='/results.php?city=savannah' rel='city'>Savannah</a> will be ruined, because 
+it will be our interest to preserve our trade to our own people. A town 
+will rise on the Carolina side of <a href='/results.php?city=savannah' rel='city'>Savannah</a> river, which will be sure to 
+preserve our half of the trade of that river, and by being wisely sup 
+ported, it may draw to it the other half, also; and let it not be said? 
+we cannot find a situation for a town, because it ought to be remembered, that history is full of instances of towns having been built and 
+made to nourish, in situations that had been deemed impracticable for 
+such purposes. Rivers and lands make wealthy towns, for these are 
+natural causes; the presence and expenses of a few officers of Government are but as drops of water in the ocean; these go but a little way 
+towards filling a Government post with loaded ships. The principal 
+material for the building of such towns are policy and opulence. I 
+thank God Carolina is known not to be in want of either. 
+</p><p>
+In short, sir, it was in vain I declared that Georgia should not be 
+liable to pay a shilling of the public debts of South Carolina; that we 
+would not be unwilling even to aid Georgia in the discharge of her 
+own ; that we would condition against the taking up of great tracts of 
+land south of <a href='/results.php?city=savannah' rel='city'>Savannah</a> river; and that we were desirous of granting 
+in the treaty of union, whatever they could reasonably ask for in case 
+of an union. It would be the duty and interest of the inhabitants 
+north of <a href='/results.php?city=savannah' rel='city'>Savannah</a> river, to promote the prosperity of those south of 
+it equally the same, as it was the duty and interest of the people of 
+Georgia north of Ogeechee, to aid those south of that river. Upon 
+the whole, that we sought to promote the general welfare, and that we 
+knew such an end would not be obtained but by an union having justice and equity for its basis. 
+</p><p>
+Having discoursed upon such topics about an hour, I delivered a 
+written proposition as a ground-work to proceed upon, and then de 
+parted. The Convention then determined (as it was said) to consider 
+the subject the next day; and in the meantime, in the evening, I re 
+paired to Dr. Jones, their speaker, and informed him, that as the public 
+body of Georgia had heard at large the Carolina reasonings upon the 
+expediency of the union, I thought it equitable that the representatives 
+of Carolina should also hear at large the Georgia reasonings upon the 
+same subject, in order that if objections were made, they might, by 
+knowing, have an opportunity of endeavoring to obviate them and I 
+desired he would in the morning take the sense of the Convention on 
+this subject. He did so, and informed me that I was not to be admitted as a public person to hear their reasonings. Thus, while 1 
+found they had shut my mouth, I was made sensible that they thought 
+their objections would appear to be more weighty by being secured 
+against the possibility of a reply. And so Mr. Button Gwinnett appeared as the champion against me, when he had taken care to deprive 
+me of an opportunity of exposing the fallacy of his arguments. 
+</p><p>
+However, I took notes of his principal answers to what I had said; 
+and in an hour after, in presence of an officer of high military rank, 
+and of three or four members of the Convention, I produced those 
+notes, and asked if they were just; and they agreed with me that what 
+he had said, was either gross misrepresentations of what I had advanced, 
+or no answer to my arguments. In the afternoon the Convention de 
+livered to me a paper containing their rejection of the proffered union, 
+founded, as I apprehend, upon a reason which does not exist in nature. 
+For, they declared, they could not treat of an union, because of such a 
+particular article (which they specified) in as they said, the Confederation of the United States, to which they had acceded. A Confederation, sir, which I do assure you never existed as a public Act of the 
+General Congress, binding upon the States; but which, nevertheless, 
+the Convention were taught to receive as a public Act of Congress, and 
+to consider as such. The Convention were certainly innocent, but some 
+individual is culpable. I received the paper, and in silence quitted the 
+room. 
+</p><p>
+I am, sir, your most humble servant, 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WM. H. DRAYTON.</a>.
+</p><p>
+HUMPHREY WELLS, Esq., near <a href='/results.php?city=augusta' rel='city'>Augusta</a>, Ga. 
+</p>
+</letter><letter id="wid3904">
+<recipient first="John" last="Treutlen" type="individual"/>
+<p>
+That terrible performance which, by-the-by, most wise and respected rulers, was torn down, as it were, from under your noses, almost as 
+soon as it was stuck up in <a href='/results.php?city=savannah' rel='city'>Savannah</a>, reached this place only last night; 
+and with all imaginable tenderness, I beg leave to assure you, that it is only to your own handy work you are indebted for this public reprehension. 
+</p><p>
+In plain terms I tell you, your proclamation is a compound of non 
+sense and falsehoods. It is illegal and void in itself, for your law does 
+not consider that an offence which you proclaim to be so. The King 
+of Great Britain's late proclamation, even although by the advice of 
+the House of Commons, to apprehend Wheble, the printer, is a case in 
+point. The party was apprehended; but a magistrate of London, 
+knowing that an apprehension under such a proclamation was illegal, 
+discharged him. But, to satisfy you how I regard your proclamation, 
+and the people of Georgia what an empty thing it is, I do hereby 
+promise to furnish the necessary sums of money to institute and prose 
+cute an action of damages for false imprisonment, against the party 
+who shall apprehend any one in consequence of it ; and I hint to you, that the famous cases of the journeymen printers against the king's messengers, are in terrorem. 
+</p><p>
+The Confederation you speak of is an imposition upon the people of 
+Georgia no other of the States of America but yours having ratified 
+or even considered of any such thing, or have had it to consider of. 
+Pray, how did you blunder upon it? The Congress never sent it to 
+you. Why, they have not even concluded upon such a thing them 
+selves, nor does the resolution you mention warrant your assertion relative to "letters, petitions, animosities, imaginary grievances/ about 
+" all which/ to use your own words, it is absolutely silent. Why, 
+you really bring yourselves into utter contempt, proclaiming, as you do 
+to the people, things that are not. Let me whisper in your ears, that 
+this proclamation of yours is not the first instance of your doing so. 
+</p><p>
+You say I was " daily exciting animosities amongst the inhabitants, 
+under the pretence of redressing imaginary grievances/ but you can 
+not prove that I, even for an hour, endeavored to excite animosities. I 
+was not among your inhabitants eight and forty hours. Twelve of 
+these I spent in bed, the others at private entertainments by invitation, 
+or while I travelled an unavoidable route; during the whole time of 
+which, even the subject of an union, or your nial-administration, was 
+scarcely mentioned. To some gentlemen of Georgia, who applied to me 
+in my own State, I spoke in plain terms of the real grievances under 
+which they labored. Upon their desire, I threw the matter into the 
+form of a petition for a redress of them; and do you dare to threaten 
+petitioners, or the promoters of petitions, for redress of grievances, 
+with imprisonment? You would deserve to be hanged for doing so, 
+but that you know not what you do. 
+</p><p>
+In the year <a href='/results.php?year=1679'>1679</a>, Charles II. issued a proclamation against petitions 
+"for specious purposes relating to the public," "for that they tended 
+to promote discontents among the people, and to raise sedition and 
+rebellion." But, when the Parliament met, they voted that the subject 
+had a right to petition, and " that to traduce petitioning as tumultuous, 
+is betraying the liberty of the subject, and tends to the introducing of 
+arbitrary power." Lord Chief Justice North drew the proclamation, 
+and the Parliament ordered him to be impeached for it. He escaped 
+condign punishment only because of his great caution in the draft of 
+the proclamation, in which he only commanded all "magistrates, and 
+other officers to whom it shall appertain, to take effectual care that all 
+such offenders against the laws be prosecuted and punished according to 
+their demerits." These magistrates and other officers saw no demerit 
+in petitioning for redress of grievances; they, therefore, issued no process against persons promoting such petitions. But you (as traitors or 
+simpletons only would do) traduce petitioning, and order petitioners to be 
+apprehended a step that Lord Chief Justice North did not even dare 
+to advise. 
+</p><p>
+As things are situated in Georgia, and as that Government is con
+ducted, I think I am bound to proclaim to your people and turn about, 
+you know, is but fair play that in my opinion, which, I believe, will 
+go farther with them than yours to the contrary, their property is not 
+secure under your Government &gt;a disgrace and detriment to the 
+American cause that the life and liberty of the subject are in the 
+greatest danger under your management, or we should not, among many 
+other enormities, have seen George McIntosh, Esq., who I consider as 
+an abused gentleman, arbitrarily ordered into a distant State, to be tried 
+by those who have no such jurisdiction in such a case, and far out of 
+the reach of a jury of his vicinage; circumstances of tyranny, and 
+total disregard to the most valuable rights of the people, that not only 
+ought to alarm every honest and sensible man in Georgia, but fill such 
+with indignation against you; that I highly approve the proposed union, 
+and will promote it to the utmost of my power, notwithstanding (as you 
+think) your formidable proclamations, That now, having the very 
+great honor of addressing you, I snatch the opportunity to make even 
+yourselves co-operate in advancing my plan of an union; and to make 
+you instruments to convey to the inhabitants of Georgia my most 
+friendly and pressing recommendations, that while their Assembly 
+shall be sitting, they will redouble their efforts to procure a redress of 
+their grievances, and an union with this State; and this my declaration, 
+that I am inclined to think you are concealed Tories, or their tools, who 
+have clambered up, or have been put into office, in order to burlesque 
+Government and I never saw a more extravagant burlesque upon the 
+subject than you exhibit that the people might be sick of an American 
+administration, and strive to return under the British domination, 
+merely for the sake of endeavoring to procure something like law and 
+order. I respect the people of Georgia; but, most wise rulers, kissing 
+your hands, I cannot but laugh at some folks. Can you guess who 
+they are? 
+</p><p>
+And so, you would fain use me ill ? It is well for you that I am in 
+a most excellent humor. See how handsomely I will treat you. A 
+good book says, " Bless them that curse you." Let me assure you I 
+obey the precept most devoutly. Could you have expected such a 
+return ? 
+</p><p>
+I have now answered your proclamation, with what, as great folks 
+should use great titles, I call a declaration. If you are content, I am 
+satisfied, and we may possibly be good friends yet. However, if you 
+have a mind to amuse the public with any other productions of your 
+masterly pens, and wish to draw me in, to contribute to the entertainment, I have no objection to be of the party; but I warn you beforehand, that whatever I contribute shall be entirely at your expense. 
+This is but equitable; so if you are for such a frolic, I am, with all 
+due respect to your dignities, and compassion to your follies, 
+Tout d vouSy 
+</p><p>
+<a href="/results.php?tla=wid" rel="me">WILLIAM HENRY DRAYTON</a> 
+</p><p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLESTOWN</a>, S. C., <a rel="month origin" value="8">August</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p>
+</letter>

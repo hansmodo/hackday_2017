@@ -1,0 +1,150 @@
+<letter id="nag3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+Your Excellency's favor of the 22d was delivered 
+to me this afternoon. I am happy to find you have 
+wrote so fully to Congress, upon the disagreeable consequences that may follow from starving the Quarter 
+master's department at this critical season. I wish it 
+may have the desired effect, and rouse their attention; but I must confess I am afraid the stupor is 
+so great, that nothing can alarm their fears, or pro 
+mote a spirit of industry. 
+</p><p>
+I had but very little prospect, from my own application, of obtaining the necessary supplies of cash. 
+What additional influence your Excellency's letter will 
+give to my reasons and representation, time only can 
+manifest. 
+</p><p>
+The treasury appears to be hard pressed on every 
+side ; and the demands of this time are infinitely 
+greater than it is in their power to satisfy with the 
+greatest exertions, upon the present plan of striking money. The truth of the affair is, there has been a 
+great degree of negligence and want of timely attention, to prepare seasonably for the present demands. 
+When I was in town in the winter, I reported to the 
+Treasury Board what I thought would be absolutely 
+necessary for the Quarter-master's department to the 
+2d of March; not one half of which have we been 
+able to get, although every thing has been urged to 
+induce them to supply our wants. 
+</p><p>
+On my arrival here, I laid your Excellency's letter 
+respecting wagoners, before a Committee of Congress. 
+They immediately confirmed it by a resolution, not 
+withstanding they had been hammering upon the 
+business for almost two months, off and on; and 
+finally had put it (before the receipt of your letter) 
+upon a very restrictive plan. 
+</p><p>
+The business of financing is in a poor way. There 
+is no plan found, or scheme digested, for mending our money. There are a thousand projects on foot; but 
+none appears to be taken up on a practical footing. 
+</p><p>
+There are complaints and murmurings in Congress 
+against the people of this State, and the people of 
+the State complain against the proceedings of Con 
+gress. It is said, days and weeks together are spent 
+upon the most trifling disputes in the world; and 
+those generally of a personal nature. What will be 
+the issue of this policy", I know not, 
+</p><p>
+I have wrote circular letters to all the deputies in 
+my department on the east side of the Susquehanna, 
+to enlist as many wagoners as they possibly can by 
+the middle of next month; and to have all the pub 
+lic teams forwarded so as to be in camp by that 
+time. I expect our wagon-horses will fall short, as 
+our agents have but a scanty supply of money. 
+However, I will do the best I can. 
+</p><p>
+I wish to know whether I must increase the number of pack-horses. Orders have been given for one thousand; but <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a> thinks near five hundred more will be wanted. It does not appear so to 
+me ; but I am not a good judge of the business. 
+The Board of War are out of lead ; and I fear the 
+ammunition will not be ready. This is only conjectural. 
+</p><p>
+I wrote your Excellency before, that the Minister 
+of France sets out for camp on Tuesday next. Don 
+Juan will accompany him. There is a French ship 
+just arrived from the West Indies; but I cannot 
+learn that she brings any thing new. 
+</p><p>
+I intended to have set out for camp to-morrow, 
+but I believe I shall not be ready until Monday in 
+the forenoon. I have desired Congress to give me leave to resign, as I apprehended a loss of reputation, if I continued in the business. They are not 
+disposed to grant my request at all. But unless 
+they change their system, or publish their approbation upon the present, I shall not remain long in the 
+business. I will not sacrifice my reputation for any 
+consideration whatever. I am willing to serve the 
+public ; but I think I have a right to choose that 
+way of performing the service which will be most 
+honorable to myself. I should be willing to serve in 
+the department I am in for a proper consideration, if 
+I could serve without the loss of reputation; but not 
+without. 
+</p><p>
+I believe it has been a received opinion, that I 
+was so very fond of the emoluments of the Quarter 
+master's office, that nothing but absolute necessity 
+would induce me to quit it, I will not deny but 
+that the profits are flattering to my fortune, but not 
+less humbling to my military pride; and he who has 
+entertained such sentiments is a stranger to my feelings. While I had a prospect of pleasing your Excellency, the army, and the Congress, the service 
+was agreeable ; but if a combination of circumstances 
+changes these prospects, nothing shall induce me to 
+continue in the business, even if the profits were 
+made five times as large as they are. 
+</p><p>
+There is a great difference between being raised to 
+an office and descending to one ; which is my case. 
+There is also a great difference between serving where 
+you have a fair prospect of honor and laurels, and 
+where you have no prospect of either, let you discharge your duty ever so well. Nobody ever heard 
+of a Quarter-master in history, as such, or in relating 
+any brilliant action. I engaged in this business as 
+well out of compassion to your Excellency as from a 
+regard to the public. I thought your task too great, 
+to be Commander-in-chief and Quarter-master at the 
+same time. Money was not my motive. For you may 
+remember I offered to serve a year unconnected with 
+the accounts, without any additional pay to that which 
+I had as Major-General. However, this proposition 
+was rejected as inadmissible. Then I told the Committee that I would serve upon the same terms that 
+Mr. Cox and Mr. Pettit could be engaged upon; and 
+I have nothing more now, although I have a double 
+share of duty, and am held responsible for all failures. 
+</p><p>
+Before I came into the department, your Excellency 
+was obliged often to stand Quarter-master. However 
+capable the principal was of doing his duty, he was 
+hardly ever with you. The line and the staff were 
+at war with each other. The country had been plundered in a way that would now breed a kind of civil 
+war between the staff and the inhabitants. The manner of my engaging in this business, and your Excellency's declaration to the Committee of Congress, 
+that you would stand Quarter-master no longer, are 
+circumstances which I wish may not be forgotten ; as 
+I may have occasion, at some future day, to appeal 
+to your Excellency for my own justification. 
+One thing I can say, with truth and sincerity, that 
+I have conducted the business with as much prudence and economy, as if my private fortune had 
+been answerable for the disbursements. And I believe your Excellency will do me the justice to say, 
+the department has cooperated with your measures 
+as far as circumstances were to be governed by me ; 
+and this you had reason to apprehend would not 
+have been the case had I not taken direction of the 
+business. And here, in justice to my colleagues, I 
+shall mention that I think them entitled to your Excellency's personal esteem, from the warmth of 
+their wishes, and a desire to promote your ease and 
+convenience. 
+</p><p>
+I am more acquainted with Mr. Pettit's mode of 
+doing business than I am with Mr. Cox's ; but I 
+think the public under great obligations to the for 
+mer for his method and economy. I am, with the 
+most perfect esteem, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

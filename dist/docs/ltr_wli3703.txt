@@ -1,0 +1,57 @@
+<letter id="wli3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='21'>21</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+A number of the principal people of this country 
+made application to me, about two weeks since, for 
+my consent to their collecting a body of volunteers 
+to go against Sandusky, which I agreed to on these 
+express conditions; — that they did not mean to extend 
+their settlements, nor had any thing in view but to 
+harass the enemy, with an intention to protect the 
+frontier, and that any conquests they might make 
+should be in behalf and for the United States; that 
+they would be governed by military laws as militia; 
+that they must collect such numbers as might probably be successful ; and, lastly, that they would equip 
+themselves and victual at their own expense. They 
+are accordingly assembling this day at the Mingo 
+bottom, all on horseback, with thirty days' provision. 
+They have asked of me only a few flints, and a small 
+supply of powder. 
+</p><p>
+As they will elect their officers, I have taken some 
+pains to get Colonel Crawford appointed to command, 
+and hope he will be. He left me yesterday, on his 
+way down to the place of rendezvous. He does not 
+wish to go with a smaller number than four hundred; 
+whether this number will assemble, I cannot say. He 
+pressed me for some officers. I have sent with him 
+Lieutenant Rose, my Aid-de-camp, a very vigilant, 
+active, brave, young gentleman, well acquainted with 
+service ; and a surgeon. These two are all I could 
+venture to spare. Several were solicitous for my going, but I did not think myself at liberty, consistent 
+with the spirit of your Excellency's instructions ; nor 
+are we in such a situation that I could take a single 
+Continental soldier along, particularly as the volunteers are all mounted. If their number exceeds three 
+hundred, I am of opinion they may succeed, as their 
+march will be so rapid they will probably, in a great 
+degree, effect a surprise. 
+</p><p>
+I cannot find a man in This country, who has a 
+tolerable knowledge of the road to Niagara. There 
+are numbers who are acquainted to the heads of Alleghany; from thence I think the people of the State 
+of <a href='/results.php?city=new york' rel='city'>New York</a> are better acquainted than any this 
+way. I have the honor to be, with perfect respect, 
+Sir, your Excellency's 
+</p><p>
+Most obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p><p>
+P. S. The volunteers have sent requesting my instructions (which I will send) for the officer who may 
+be appointed to command. The troops behave remarkably well, since a few examples have been made. 
+</p>
+</letter>

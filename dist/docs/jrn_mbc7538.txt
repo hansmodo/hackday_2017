@@ -1,0 +1,12 @@
+<letter id="mbc7538">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>Feb.</a> <a rel='day origin' value='19'>19</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>], <a href='/results.php?year=1861' rel="origin">1861</a> MONTGOMERY, ALA. 
+</p><p>
+Brewster says <a href='/results.php?tla=abl' rel=''>Lincoln</a> passed through Baltimore disguised, and at night, and that he did well, for just now Baltimore is dangerous ground. He says that he hears from all quarters that the vulgarity of <a href='/results.php?tla=abl' rel=''>Lincoln</a>, his wife, and his 
+son is beyond credence, a thing you must see before you can believe it. Senator Stephen A. Douglas told Mr. Chestnut that " <a href='/results.php?tla=abl' rel=''>Lincoln</a> is awfully clever, and that he had found him a heavy handful." 
+</p><p>
+Went to pay my respects to Mrs. Jefferson Davis. She met me with open arms. We did not allude to anything 
+by which we are surrounded. We eschewed politics and our changed relations. 
+</p>
+</letter>

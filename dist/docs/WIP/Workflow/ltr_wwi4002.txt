@@ -1,0 +1,181 @@
+<letter id="wwi4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=kensington-gore' rel='city origin'>Kensington-gore</a>, near London,
+</p><p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1810' rel="origin">1810</a>.
+</p><p>
+My dear Sir, 
+</p><p>
+Calling to mind the friendly spirit which animates your 
+letters to me, I am not ashamed of being deemed impertinently selfish, when I commence my reply to your last very 
+obliging communication of November, <a href='/results.php?year=1809'>1809</a>, by telling you 
+that about a year and three-quarters ago, I changed my 
+residence, and find myself in the habitation which my family 
+now occupies, and which we find more salubrious than 
+Clapham Common. We are just one mile from the turnpike gate at Hyde Park corner, which I think you will not 
+have forgotten yet, having about three acres of pleasure ground around my house, or rather behind it, and several 
+old trees, walnut and mulberry, of thick foliage. I can sit 
+and read under their shade, which I delight in doing, with 
+as much admiration of the beauties of nature (remembering the same time the words of my favourite poet : nature is 
+but an effect, whose cause is God), as if I were two hundred miles from the great city. 
+</p><p>
+My parliamentary duties force me to be within easy 
+reach of London all the winter, and even spring, and sometimes for a part of the summer. I have a very affectionate 
+wife, who is always unwilling to be at a distance from me ; 
+and <a href='/results.php?city=providence' rel='city'>Providence</a> has blest us with six children, the eldest 
+of whom is hot quite twelve, the youngest under two years 
+of age. My family are breathing pure air, and taking exercise quietly and without restraint, while I am in the harness 
+at St. Stephens, or, to continue the metaphor, in a very 
+good stable just opposite Westminster Hall, where I commonly, or rather chiefly take both my food and rest during 
+the whole session, often being unable to come over to Kensington-gore from Monday morning to Saturday night; 
+always, however, within call, should domestic matters 
+require my presence. 
+</p><p>
+I was not aware that my egotism would be so tedious, 
+yet again let me confess that I am not afraid of subjecting 
+myself, with you, to any severity of censure. When I have 
+a regard for any one, I like to know his habits of life, times, 
+places, &c, and I recollect with pleasure, that you kindly 
+gave me an account of your family matters, and of your 
+present situation and pursuits. Let me beg you to be so 
+obliging as to continue so to do, in any letter which you may 
+do me the favour to write ; next, let me not forget to inform 
+you, that your friendly packet of the 8th November last, of 
+which I received duplicates first, brought me two copies of 
+your favour of 14th April, <a href='/results.php?year=1800'>1800</a>, for which, however late, 
+accept my best thanks. In conformity with the kind wish 
+you express, that I should name to you some person in 
+London to whom your letters may be addressed, let me 
+name Robert Barclay, Esq. (the great brewer), or Samuel Hoare, Esq., the banker, both of whom I think you knew. 
+</p><p>
+I wish I could recollect with certainty, how many of the 
+reports of the African Institution I sent you. I will, however, transmit to you either to New- York or <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+accordingly as on inquiry I shall judge best, all the reports 
+but the first. Indeed on consideration, I will send them all, 
+as you may promote our common object, by giving away 
+any copies you do not wish to retain. 
+I am grieved to tell you, that both your countrymen and 
+my own are still carrying on the abominable traffic in human flesh, in spite of the abolition laws of their respective 
+countries. I trust that a continuance of the vigorous 
+methods we are using to carry our law into effect, will by 
+degrees force our commercial men to employ their substance 
+in some more innocent commerce. It has given me no 
+little pleasure, to find all your several ministers (both <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a>, <a href='/results.php?tla=jam' rel='colleague met'>Mr. Monroe</a>, and <a href='/results.php?tla=top' rel='colleague met'>Mr. Pinckney</a> warmly disposed 
+to co-operate, so far as they properly could in their peculiar 
+situation ; and I am not without hopes of a practical, though 
+not a formal adoption of the only effectual expedient for 
+suppressing the slave trade, that of the armed vessels of 
+both our countries taking the slave ships of the other as well 
+as those of its own. There might be objections, though I 
+own I can see none of sufficient importance to outweigh 
+the countervailing benefits to a regular compact between 
+our two countries for the above purpose ; but it will answer 
+the same end, provided we respectively abstain from claiming any of our vessels which may have been captured when 
+engaged in the slave trade. I have received, within a few 
+weeks, the opinion of your attorney-general in its practical 
+tendency in favour of the system I am wishing to see established. 
+</p><p>
+My dear sir, I know not how I have been able, .with the 
+pen in my hand, to abstain so long from expressing the sincere and great pleasure it has given me to find affairs taking 
+a more favourable turn between our two countries. I can 
+only account for my not breaking out on this topic, on my 
+first sitting down to write to you, by the consideration that 
+when once there is a favourable issue in any case, in which 
+we have been receiving or communicating from time to 
+time the tidings of the day, with extreme anxiety and earnestness (the French word empressement better expresses 
+what I mean), as for instance in the case of the illness of a 
+friend, we become so cool that we perhaps forget to inquire 
+about, or to name at all, the very topic on which, during the 
+state of suspense, \vc were continually asking for or giving 
+intelligence with such feverish solicitude. Really, the idea 
+of a war between our two countries is perfectly horrible; 
+and I am really happy to say, that I think in this country this most just sentiment gains ground. Like all propositions which are founded in truth and reason, it gradually 
+sinks into the minds of men, and though perhaps slowly and inscnsiUy. by degrees it leavens nearly the whole mass. It 
+will tend to produce this friendly disposition on your side of 
+the water, if mere of your countrymen would come over and 
+live awhile among us. We are an idle people ; we are a 
+busy people, and may not have leisure or disposition to pay 
+all the personal attentions which politeness might prescribe; 
+but I am persuaded that any gentleman of character and 
+moderation who should visit this country, would meet with 
+such a friendly reception as would show him that the circumstance of our being the descendants of common progenitors is not forgotten, or rather, that it is reviving and 
+diffusing itself with increasing force. 
+</p><p>
+Before I conclude, let me express the satisfaction it gave 
+me to find that you were safely laid up, if I may so express 
+it, in a comfortable and tranquil harbour, after having figuratively as well as literally been so long, or at least so often, 
+tossed on the stormy sea of public life. May I confess to 
+you, at very near 51 only in years, but with only a weakly 
+constitution and after having been in parliament very near 
+thirty years, that I begin to look forward to the same secession from public life ; meaning, however, to form no positive 
+determination for the future, but to follow the leadings of Providence, and do on the day the duties of the day. 
+</p><p>
+In three or four years, my four boys, the eldest especially, will be attaining that period of life when a father's 
+eye and tongue may be most useful and necessary to their 
+future well-doing; and really the business of parliament 
+has increased so much of late years, as to render it next 
+to impossible for any man who cannot live for six or seven 
+months in every year with a very small proportion of food 
+or sleep, especially the latter, to attend at all, as he would 
+otherwise be glad to do, to domestic or social claims. 
+Then let me add, — and if you will take it as intended in 
+the way of a hint to yourself, excuse only my freedom 
+in giving it, and you will not greatly mistake my meaning : 
+any man who has acted his part at all creditably on the 
+stage of public life, may render very great service to mankind, especially to his own countrymen, with whose opinions, prejudices, and errors he is well acquainted, by his 
+pen ; for instance, by bearing testimony to the truth of the 
+position winch, however trite, it is still useful now and then 
+to repeat and enforce, that honesty is the best policy, &c. 
+</p><p>
+I happen to have just now many claims of an epistolary 
+nature, which have been too long neglected, owing to my 
+having left them, as in your case, to be attended to w r hen 
+the recess of parliament should afford me a little more 
+leisure. Much writing also affects my breathing. I must 
+therefore conclude. But before I lay down my pen, let me, 
+recollecting your kindly opening your mind to me on one 
+important occasion, in, I think, <a href='/results.php?year=1795'>1795</a> (or <a href='/results.php?year=1796'>1796</a>), beg that 
+when you next write to me, you would favour me by telling 
+me how you would vote, &c, if you were in our House of 
+Commons, on the question of parliamentary reform. I do 
+not ask you to take the trouble of entering into a detailed 
+statement of the premises which may lead you to form your 
+judgment on that point, whatever it may be ; I wish only 
+(unless you have a little leisure) for your conclusion. I 
+will own to you, that one main motive with me for having 
+supported, on a late occasion, the motion for parliamentary 
+reform, was the persuasion that by taking away what must 
+be confessed to be a blemish or blot, in an assembly which 
+is professedly formed on the principle of representation, we 
+are lessening the power of bad men to misrepresent and 
+defame our constitution, and to mislead the well-intentioned 
+but perhaps less acute and long-sighted, into a concurrence 
+in their measures. 2dly, it' the measure should be adopted at 
+all, it is desirable that it should be so at a time when, as is 
+really the case now, notwithstanding the confident assurances of such men as Cobbett and his adherents, the country 
+feels coolly on the subject, and is therefore not likely to 
+push its representatives to go dangerous lengths; for I think 
+you will agree with me, that it is a species of reform, all 
+things considered, concerning which, in this country and at 
+this time, it is better of the two not to go quite far enough, 
+than to go too far. 
+</p><p>
+Farewell, my dear sir, and believe me, with cordial esteem and regard, 
+</p><p>
+Your faithful servant, 
+</p><p>
+<a href="/results.php?tla=wwi" rel="me">W. WILBERFORCE</a>. 
+</p><p>
+P.S. As I shall be sending you a parcel, and I do not 
+recollect that 1 ever begged your acceptance of a religious 
+publication, which I first sent into the world the year I married (and what I say of wedded life, I thank heaven I should 
+not now alter), let me now transmit it as a testimony of my 
+esteem and regard. It was, in truth, principally intended 
+for the use of my friends, and therefore I may send it to you 
+with great propriety. I will also accompany it with another on the slave trade. May these books preserve in 
+your family the memorial of our friendly, connexion, and if 
+you will not call me impertinent, I will request from you 
+some similar memorial. 
+</p>
+</letter>

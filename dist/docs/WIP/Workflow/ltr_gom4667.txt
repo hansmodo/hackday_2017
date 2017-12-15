@@ -1,0 +1,25 @@
+<letter id="gom4667">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have just received the letter, which you did me the honor 
+to write me on the third, with the accompanying copies of the 
+decrees. The reparation enjoined by the representatives of 
+the French nation is worthy of its justice, and consequently 
+the United States will be perfectly satisfied with it. 
+</p><p>
+They will also discover, Sir, in that which exempts their 
+vessels from the dispositions of the decree of May ninth, a 
+new proof of the fidelity of the French in fulfilling their engagements. I shall give them an account, at the same time, of 
+the instructions which you have the goodness to send to citizen Genet. I beg you, Sir, to accept the assurances of my 
+gratitude for the promptness with which you have attended 
+to this business. ;&gt; ... 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

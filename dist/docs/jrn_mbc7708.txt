@@ -1,0 +1,11 @@
+<letter id="mbc7708">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Friends came to make taffy and stayed the livelong day. They played cards. One man, a soldier, 
+had only two teeth left in front and they lapped across each other. On account of the condition of his mouth, he had 
+maintained a dignified sobriety of aspect, though he told some funny stories. Finally a story was too much for him, 
+and he grinned from ear to ear. Maggie gazed, and then called out as the negro fiddlers call out dancing figures, 
+" Forward two and cross over ! Fancy pur faces. The hero of the two teeth, relapsing into a decorous arrangement of mouth, said: " Cavalry are the eyes of an army; they bring the news ; the artillery are the boys to make a 
+noise ; but the infantry do the fighting, and a general or so gets all the glory. 
+</p>
+</letter>

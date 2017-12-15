@@ -1,0 +1,36 @@
+<letter id="jod3589">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='10'>10</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+WE go on as usual, Congress resolving one thing and 
+the democratical societies resolving the contrary ; the 
+President doing what is right, and clubs and mobs re 
+solving it to be all wrong. 
+</p><p>
+We had in Senate, a few days ago, the greatest 
+curiosity of all. The senators from Virginia moved, 
+in consequence of an instruction from their constituents, that the execution of the fourth article of the 
+treaty of peace, relative to bona Jide debts, should 
+be suspended, until Britain should fulfil the seventh 
+article. When the question was put, fourteen voted 
+against it, two only, the Virginia delegates, for it, and 
+all the rest, but one, ran out of the room to avoid 
+voting at all, and that one excused himself. This is 
+the first instance of the kind. 
+</p><p>
+The motion disclosed the real object of all the wild 
+projects and mad motions which have been made during the whole session. O ! liberty. O ! my coun 
+try. O ! debt, and O ! sin ? These debtors are the 
+persons who are continually declaiming against the 
+corruption of Congress. Impudence ! thy front is 
+brass. 
+</p><p>
+The House is upon ways and means, which will 
+take us the rest of the month, I fear. 
+</p><p>
+Yours, as ever, <a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

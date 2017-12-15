@@ -1,0 +1,29 @@
+<letter id="wli3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, 	<a rel='day origin' value='16'>16</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+In my letter of the 21st of May, I mentioned to 
+your Excellency that a body of volunteer militia were 
+assembling at the Mingo Bottom, to go against Sandusky. The inclosed letters, one from Colonel Williamson, second in command, and the other from 
+Lieutenant Rose, my Aid-de-camp, contain all the particulars of this transaction which have yet come to 
+my knowledge. I am of opinion, had they reached 
+the place in seven days, instead of ten, which might 
+have been done, especially as they were chiefly mounted, they would have succeeded. They should also 
+have pushed the advantage evidently gained at the 
+commencement of the action. They failed in another 
+point, which they had my advice, and indeed positive 
+orders for, namely, to make the last day's march as long as possible, and attack the place in the night; 
+but they halted in the evening, within nine miles, and 
+fired their rifles at seven in the morning, before they 
+marched. These people now seem convinced that 
+they cannot perform as much by themselves as they 
+some time since thought they could. Perhaps it is 
+right that they should put more dependence on regular troops. I am sorry I have not more, to afford 
+them assistance. I have the honor to be. 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id="mbc7616">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. When we came home from Richmond, there stood Warren Nelson, propped up against my door, 
+lazily waiting for me, the handsome creature. He said he 
+meant to be heard, so I walked back with him to the drawing-room. They are wasting their time dancing attendance 
+on me. I can not help them. Let them shoulder their musket and go to the wars like men. 
+</p><p>
+After tea came " Mars Kit "he said for a talk, but that Mr. Preston would riot let him have, for Mr. Preston 
+had arrived some time before him. Mr. Preston said " Mars Kit " thought it " bad form " to laugh. After that 
+you may be sure a laugh from " Mars Kit " was secured. Again and again, he was forced to laugh with a will. I reversed Oliver Wendell Holmes's good resolution never to be as funny as he could. I did my very utmost. 
+</p><p>
+Mr. Venable interrupted the fun, which was fast and furious, with the very best of bad news ! Newbern shelled 
+and burned, cotton, turpentine everything. There were 5,000 North Carolinians in the fray, 12,000 Yankees. Now 
+there stands Goldsboro. One more step and we are cut in 
+two. The railroad is our backbone, like the Blue Ridge and 
+the Alleghanies, with which it runs parallel. So many discomforts, no wonder we are down-hearted. 
+</p><p>
+Mr. Venable thinks as we do Garnett is our most thorough scholar ; Lamar the most original, and the cleverest of 
+our men L. Q. C. Lamar time fails me to write all his name. Then, there is <a href='/results.php?tla=rmh' rel='acquaintance met'>R. M. T. Hunter</a>. Muscoe Russell Garnett and his Northern wife : that match was made at my house in Washington when Garnett was a member of the 
+United States Congress. 
+</p>
+</letter>

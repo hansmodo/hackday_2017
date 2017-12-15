@@ -1,0 +1,126 @@
+<letter id="aba3409">
+<recipient first="Lucy" last="Cranch" type="individual"/>
+<p>
+<a href='/results.php?city=auteuil' rel='city origin'>Auteuil</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1785" rel="origin">1785</a>. 
+</p><p>
+I presume my dear Lucy would be disappointed, 
+if her cousin did not deliver her a line from her 
+aunt. Yet it is hardly fair to take up an exhausted 
+pen to address a young lady, whose eager search 
+after knowledge entitles her to every communication 
+in my power. 
+</p><p>
+I was in hopes to have visited several curiosities 
+before your cousin left us, that I might have been 
+able to relate them to my friends ; but several 
+engagements in the company way, and some preparation for his voyage, together with the necessary arrangements for our own journey, have so 
+fully occupied me, that I fear I shall fail, in my intentions. We are to dine to-day with <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a>. 
+Should any thing occur there worthy of notice, it 
+shall be the subject of my evening pen. 
+</p><p>
+Well, my dear niece, I have returned from <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>'s. When I got there, I found a pretty 
+large company. It consisted of the <a href='/results.php?tla=laf' rel='acquaintance met'>Marquis</a> and 
+Madame de la Fayette ; the Count and Countess 
+de ; a French Count, who had been a general in America, but whose name I forget ; Commodore Jones ; Mr. Jarvis, an American gentleman, lately 
+arrived, the same who married Amelia Broom, who 
+says there is so strong a likeness between your 
+cousin and his lady, that he is obliged to be upon his 
+guard lest he should think himself at home, and 
+make some mistake ; he appears a very sensible, 
+agreeable gentleman ; a Mr. Bowdoin, an American 
+also ; I ask the Chevalier de la Luzerne's pardon, 
+I had like to have forgotten him ; Mr. Williams, of 
+course, as he always dines with <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson</a> ; and 
+Mr. Short, though one of <a href='/results.php?tla=thj' rel='friend met'>Mr. Jefferson's</a> family, as 
+he has been absent some time, I name him. He 
+took a resolution that he would go into a French 
+family at St. Germain, and acquire the language ; 
+and this is the only way for a foreigner to obtain it. 
+I have often wished that I could not hear a word of 
+English spoken. I think I have mentioned Mr. 
+Short before, in some of my letters ; he is about the 
+stature of Mr. Tudor ; a better figure, but much like 
+him in looks and manners ; consequently a favorite 
+of mine. They have some customs very curious 
+here. When company are invited to dine, if twenty 
+gentlemen meet, they seldom or never sit down, but 
+are standing or walking from one part of the room 
+to the other, with their swords on, and their chapeau de bras, which is a very small silk hat, always 
+worn under the arm. These they lay aside whilst 
+they dine, but reassume them immediately after. 
+I wonder how the fashion of standing crept in 
+amongst a nation, who really deserve the appellation of polite ; for in winter it shuts out all the fire 
+from the ladies ; I know I have suffered from it 
+many times. At dinner, the ladies and gentlemen 
+are mixed, and you converse with him who sits next 
+you, rarely speaking to persons across the table, 
+unless to ask if thev will be served with any thing 
+from your side. Conversation is never general, as 
+with us ; for, when the company quit the table, they 
+fall into tete-a-tete of two and two, when the conversation is in a low voice, and a stranger, unacquainted with the customs of the country, would 
+think that everybody had private business to transact. 
+Last evening, as we returned, the weather being 
+very soft and pleasant, I proposed to your uncle to 
+stop at the Tuileries and walk in the garden, which 
+we did for an hour ; there was, as usual, a collection of four or five thousand persons in the walks. 
+This garden is the most celebrated public walk in 
+Paris. It is situated just opposite to the river Seine, 
+upon the left hand as you enter Paris from <a href='/results.php?city=auteuil' rel='city'>Auteuil</a>. 
+Upon <a href='/results.php?city=boston' rel='city'>Boston</a> Neck, suppose that on one side flows 
+the river Seine, and on the other hand is the garden 
+of the Tuileries. There is a high wall next the 
+street, upon which there is a terrace, which is used 
+as a winter walk. This garden has six large gates, 
+by which you may enter. It is adorned with 
+noble rows of trees, straight, large, and tall, which 
+form a most beautiful shade. The populace are not 
+permitted to walk in this garden but upon the day 
+of Saint Louis, when they have it all to themselves. 
+Upon one side of this garden is the castle of the 
+Tuileries, which is an immense pile of building, 
+very ancient. It is in one of these chateaus, that 
+the concert spirituel is held. Upon the terrace which 
+borders this chateau, are six statues and two vases. 
+These vases are large, circular spots of water, 
+which are conveyed there from the Seine by leaden 
+pipes under ground. Round the great vase, which 
+is in the midst of the parterre, are four groups 
+of white marble. One represents Lucretia ; the 
+story, I know, is familiar to you. The Parisians do 
+well to erect a statue to her, for at this day, there 
+are many more Tarquins than Lucretias. She is 
+represented as plunging the dagger into her bosom 
+in presence of her husband. There is another 
+statue, Anchises saved from the flames of <a href='/results.php?city=troy' rel='city'>Troy</a> 
+by his son iEneas, who is carrying him out upon his 
+shoulders, leading Ascanius, his son, by his hand. 
+The third is the rape of Orithyia, the daughter of 
+Erectheus, King of Athens, by Boreas ; and the 
+fourth, the ravishment of Cybele bv Saturn ; the 
+two last very pretty ornaments for a public garden. 
+At the end of the great alley fronting the largest 
+water-piece, which is in the form of an octagon, are 
+eight more marble statues. Upon the right is Hannibal, counting the rings which were taken from the 
+knights who were killed in the battle of Cannse. 
+Two Seasons, Spring and Winter, are upon the left 
+hand, and a very beautiful figure of Scipio Africanus, near which are the two other Seasons, Summer 
+and Autumn, and a statue of the Empress Agrippina. 
+Over against these are four Rivers, colossal, represented sleeping, the Seine, the Loire, the Tiber, and 
+the Nile. At the end of the two terraces, are two 
+figures in marble, mounted upon winged horses ; one 
+is Mercury, and the other Fame, who, as usual, is 
+blowing a trumpet. In very hot weather, the alleys 
+are watered ; under the trees are seats and chairs, 
+which you may hire to sit in for a sous or two. 
+There are many plots of grass interspersed. 
+</p><p>
+Thus, you see, I have scribbled you a long letter. 
+I hope my description will please you. This is my 
+eleventh letter, and I have yet several others to 
+write ; so adieu, my clear Lucy, and believe me 
+</p><p>
+most affectionately yours, 
+</p><p>
+A. A. 
+</p>
+</letter>

@@ -1,0 +1,30 @@
+<letter id="hog3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, Camp, <a href='/results.php?city=behmus heights' rel='city origin'>Behmus's Heights</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="10"><a rel="month origin" value="11">November</a></a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Since the action of the 19th ultimo, the enemy 
+have kept the ground they occupied the morning of 
+that day, and fortified their camp. The advanced sentries of my pickets are posted within shot, and opposite the enemy's. Neither side have given ground an 
+inch. In this situation, your Excellency would not 
+wish me to part with the corps the army of <a href="/results.php?tla=jhb" rel="adversary">General Burgoyne</a> are most afraid of. From the best intelligence, he has not more than three weeks provision in 
+store ; it will take him at least eight days to get 
+back to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> ; so that, in a fortnight at farthest, he must decide whether he will rashly risk, at 
+infinite disadvantage, to force my camp, or retreat to 
+his den. In either case, I must have the fairest prospect to be able to reenforce your Excellency, in a 
+more considerable manner than by a single regiment. 
+</p><p>
+I am sorry to repeat to your Excellency the Distress I have suffered for want of a proper supply of 
+musket cartridges from Springfield, or the materials to 
+make them. The inclosed, from the Commissary of 
+Ordnance Stores at <a href='/results.php?city=albany' rel='city'>Albany</a>, will convince your Excellency of the truth of this assertion. My anxiety, also, 
+upon account of provisions has been inexpressible ; a greater error has not been committed this war than 
+the changing the Commissaries in the middle of the campaign. You, Sir, must have your grievances. I. therefore, will not enhance them by enlarging upon mine. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

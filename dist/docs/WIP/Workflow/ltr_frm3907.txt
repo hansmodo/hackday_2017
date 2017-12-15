@@ -1,0 +1,32 @@
+<letter id="frm3907">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=st stephans' rel='city origin'>ST. STEPHENS</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+I received yours of the 17th. The flag must be sent immediately 
+back, with all her cargo, passengers, attendance, goods, &c., &c., except Mrs. Shad, Mrs. Barnes and Miss Simmons, and their attendances 
+and property; and I positively order no other man, woman or servants, 
+or any property, be landed, or suffered to come ashore but the vessel 
+ordered immediately to go out of the harbor, on pain of being made a 
+prize in twenty-four hours after such notice be given; and you are 
+hereby ordered to make prize of said vessel, cargo, &c., &c., and the 
+captain, crew and passengers to put in close confinement, without suffering any person whatever to visit or speak to either of said prisoners, 
+until rny further orders. McClean, with his companions, must be kept in close confinement until a proper opportunity offers to send them to the Governor of North Carolina. Col.'s is trading on his private 
+account, and I am not surprised at anything he has, or can do; he is no friend. I wrote you respecting the pilots, and I left you to act as 
+you pleased respecting the boat mentioned in my last. Mr. Chatelleat has my pass to go to the Northward. You will permit the flag to carry 
+one barrel of rice, and a few poultry, for the relief of Mr. John Clements, a prisoner, and wounded in Charlestown; he is one of my brigade. 
+No officer ever had a right to public horses; but those you have you will keep, and you have a right to them, until my further orders. The 
+officers and men of your corps here must remain as yet. The report of galley or armed vessels to go to <a href='/results.php?city=georgetown' rel='city'>Georgetown</a>, I do not think true, as 
+I had a letter from Charlestown last evening, that says a French fleet is at Tybee; and, from the person it came from, I have reason to believe it may be true. 
+</p><p>
+I am, with esteem, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p><p>
+P ? S. Since I wrote the above, I have perused the papers sent, and 
+find Col. Ray is exchanged; he and the others mentioned in General 
+Butler's pass are to be put on board the flag vessel, and suffered to proceed to Charlestown. 
+</p>
+</letter>

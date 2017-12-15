@@ -1,0 +1,67 @@
+<letter id='mad1635'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="http://www.familytales.org/results.php?city=orange" rel="city">Orange</a>, Janr 14, <a href="http://www.familytales.org/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, Your favor of the 2d instant, with theattending it, never came to hand 'til last evening. I have good 
+reason to believe that the delay happened between <a href="http://www.familytales.org/results.php?city=alexandria" rel="city">ALEXANDRIA</a> 
+and <a href="http://www.familytales.org/results.php?city=fredericksburg" rel="city">Fredericksburg</a>, rather than at or from the latter place. 
+Mr. F. Maury pays particular attention to allwhich arrive 
+there for me, and forwards them to <a href="http://www.familytales.org/results.php?city=orange" rel="city">Orange</a> by opportunities 
+which are frequent and safe. I apprehend there will be no impropriety in committing a confidential letter to that channel. 
+As an additional precaution, I will desire him to be particularly 
+attentive to any letter which may have your name on it. 
+</p><p>
+I have heard from two only of the 'returns from the Electoral districts;* the one in favor of Mr. Gilchrist, the other of 
+General Stevens. He succeeded against Col. Cabell by a majority of 82 votes.f He owes his success to the coalition between the two parties in Spottsylvania. My situation is unfavorable for intelligence from the State at large, and therefore 
+I can say little of the prospects as to the February election. 
+</p><p>
+I fear, from the vague accounts which circulate, that the federal Candidates are likely to stand in the way of each other. 
+This is not the case, however, in my district. The field is left 
+entirely to Monroe and myself. The event of our competition 
+will probably depend on the part to be taken by two or three 
+descriptions of people, whose decision is not known, if not yet 
+to be ultimately formed. I have pursued my pretensions much 
+further than I had premeditated, having not only made great 
+use of epistolary means, but actually visited two Counties, Culpeper and Louisa, and publicly contradicted the erroneous reports propagated against me. It has been very industriously 
+inculcated that I am dogmatically attached to the Constitution 
+</p><p>
+* For choosing electors of President and Vice President. 
+</p><p>
+t Stevens. 
+</p><p>
+CdbeU. 
+</p><p>
+71 Albemarle. 
+</p><p>
+270 Amherst. 
+</p><p>
+66 Fluvanna. 
+</p><p>
+10 Spottsylvania. 
+</p><p>
+4 <a href="http://www.familytales.org/results.php?city=orange" rel="city">Orange</a>. 
+</p><p>
+26 Culpeper. 
+</p><p>
+157 Buckingham. 
+</p><p>
+82 bal. in favor of Stevens. 
+</p><p>
+The unanimity in Amherst was produced by a previous declaration, as I am 
+told, of Col. Cabell, on the subject of the president, which satisfied the Federal 
+party. Little attention seems to have been paid anywhere to the Vice President. 
+Among the bulk of the people, the choice of the President has been regarded as 
+the sole subject of the election. 
+</p><p>
+
+in every clause, syllable, and letter, and therefore not a single 
+amendment will be promoted by my vote, either from conviction or a spirit of accommodation. This is the report most 
+likely to affect the election, and most difficult to be combated 
+with success within the limited period. There are a number 
+of others, however, which are auxiliaries to it. With my respectful compliments to Mrs. Washington, and the others of 
+your family, 
+</p><p>
+I remain, Dear Sir, your mo. obed. and affect. serv. 
+</p>
+</letter>

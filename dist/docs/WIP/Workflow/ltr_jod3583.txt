@@ -1,0 +1,51 @@
+<letter id="jod3583">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='3'>3</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE post of the day brought me your kind letter of 
+26th ultimo. The more I am charmed with your 
+bravery and activity in farming, the more I am mortified that my letters in answer to yours are so insignificant and insipid. I must leave all your agriculture to your judgment and the advice of your assist 
+ants. I sent you more grass seeds with the furniture, 
+which I hope has arrived before now. 
+</p><p>
+The times are so critical and parties so nearly balanced that I cannot in honor, nor consistently with 
+my duty, abandon my post. There are so many 
+wild projects and motions, and so many to support 
+them, that I am become of more importance than 
+usual, in the opinion of the soundest part of the community. We have very disagreeable business to do 
+in finding ways and means for the expenses we have 
+already incurred. It grieves me to the heart to see 
+an increase of our debts and taxes, and it vexes me 
+to see men opposing even these augmentations, who 
+are every day pushing for measures that must involve us in war, and ten times greater expenses. 
+But the inconsistencies and absurdities of men are no 
+novelties to me. 
+</p><p>
+I have pleased myself with a hope that I should get 
+home in April, but the general opinion is, we shall 
+be obliged to remain here till the middle of May. I 
+have little expectation of seeing you before election. 
+You are so valorous and noble a farmer that I feel 
+little anxious about agriculture. Manure in hills if 
+you think best, but manure your barley ground and 
+harrow it well. I have now the pleasing hope of seeing my honored mother again in comfortable health. 
+I have suffered many melancholy hours both on her 
+account and yours, and I think myself indebted, under <a href='/results.php?city=providence' rel='city'>Providence</a>, to your tender care and indefatigable 
+assiduity for the prolongation of her life. 
+</p><p>
+If the yellow fever should make its appearance 
+here, we shall soon fly ; but there is no symptom of 
+it as yet. I am sometimes obliged to give critical 
+votes, which expose me to the passions of parties ; 
+but I have been wonderfully spared this session. They 
+find it best to let me alone, for I get credit by their 
+abuse. I am, most sincerely and most kindly, 
+</p><p>
+Your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

@@ -1,0 +1,17 @@
+<letter id="mbc7587">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Last night there was a crowd of men to see us and they were so markedly critical. I made a futile 
+effort to record their sayings, but sleep and heat overcame me. To-day I can not remember a word. One of Mr. Mason's stories relates to our sources of trustworthy information. A man of very respectable appearance standing on 
+the platform at the depot, announced, "I am just from the seat of war." Out came pencil and paper from the news 
+paper men on the qui vive. il Is Fairfax Court House burned? " they asked. " Yes, burned yesterday." " But I am just from there," said another; " left it standing 
+there all right an hour or so ago. " " Oh ! But I must do them justice to say they burned only the tavern, for they 
+did not want to tear up and burn anything else after the railroad." " There is no railroad at Fairfax Court 
+House," objected the man just from Fairfax. "Oh! In deed! " said the seat-of-war man, " I did not know that; 
+is that so ? : And he coolly seated himself and began talking of something else. 
+</p><p>
+Our people are lashing themselves into a fury against the prisoners. Only the mob in any country would do that. 
+But I am told to be quiet. Decency and propriety will not be forgotten, and the prisoners will be treated as prisoners 
+of war ought to be in a civilized country. 
+</p>
+</letter>

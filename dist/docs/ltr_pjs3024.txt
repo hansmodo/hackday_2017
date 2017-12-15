@@ -1,0 +1,106 @@
+<letter id="pjs3024">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort edward' rel='city origin'>Fort Edward</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+On the 12th instant <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> arrived here. 
+As he fell in with Hudson's River about twelve 
+miles below this, I ordered the troops to halt at Fort 
+Miller, having no kind of shelter for them at any 
+other place, and not even a sufficiency of boards at 
+that. What the number is that have arrived I have 
+not yet been able to learn, as the greatest confusion 
+imaginable prevails here. <a href='/results.php?tla=arc' rel='colleague met'>General St. Clair</a> supposes 
+about fifteen hundred. Nor can I say what militia 
+are in this quarter. I do not, however, suppose that 
+our whole strength, in this department, exceeds four 
+thousand five hundred men. 
+</p><p>
+Colonel Warner, with the remains of his regiment, 
+I have ordered to remain on what are commonly 
+called the New Hampshire Grants, together with the 
+militia from that part of this State. He has direction. to drive off all the cattle and carriages; but 
+whether he will be able to effect it is a doubt, as I 
+am informed a very great proportion of the inhabit 
+ants are taking protections from <a href='/results.php?tla=jhb' rel='adversary'><a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a></a>, as 
+most of those in this quarter are also willing to do. 
+</p><p>
+Two regiments of the militia from, the State of the 
+Massachusetts, under the command of Learned and 
+Wells, who were sent up to supply, in part, the deficiencies of the other regiments from that State, are, 
+to a man, gone home. 
+</p><p>
+General Nixon arrived the night before last, with 
+his brigade. From the slowness with which they 
+moved from <a href='/results.php?city=albany' rel='city'>Albany</a> to this, being four days marching  forty-six miles, I was led to conclude that they were a formidable body; but to my great mortification, I find the whole to consist of five hundred 
+and seventy-five, rank and file, fit for duty, and eleven sick. Several of these are negroes, and many 
+of them young, small, and feeble boys. Desertion 
+prevails, and disease gains ground ; nor is it to be 
+wondered at, for we have neither tents, houses, barns, 
+boards, or any shelter, except a little brush. Every 
+rain that falls, and we have it in great abundance 
+almost every day, wets the men to the skin. We 
+are, besides, in great want of every kind of necessaries, provisions excepted. Camp-kettles we have so 
+few, that we cannot afford above one to twenty men. 
+Although we have near fifteen tons of powder, yet 
+we have so little lead, that I could not give each 
+man above fifteen rounds; and although I have saved 
+about thirty pieces of light artillery, yet I have not 
+a single carriage for them, so that my whole train 
+of artillery consists of two iron field-pieces, which General Nixon brought up with his brigade. 
+</p><p>
+I have, indeed, written to Springfield for the can 
+non which were there ; but the answer I got was, that 
+they were all ordered another way. I have also 
+written for a variety of articles to that place and to 
+<a href='/results.php?city=boston' rel='city'>Boston</a> ; not that I expect any thing will be sent me, 
+but that I may stand justified, for I have never yet 
+been able to get much of any thing from thence. 
+In this situation I have only to look up to your Excellency for relief ; and permit me to entreat you to 
+send a reenforcement of troops, and such a supply 
+of artillery, ammunition, and every other necessary, 
+except provisions and powder, as an army ought to 
+have, if it can possibly be spared. 
+</p><p>
+An express has passed through the country from 
+<a href='/results.php?tla=jhb' rel='adversary'><a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a></a> to General Howe. The latter will, probably, on receipt thereof, immediately move up Hudson's River. 
+</p><p>
+I inclose your Excellency copy of the proceedings 
+of a Council of General Officers, held at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, 
+a copy of which I beg you will transmit to congress, and be so good as to mention that I have not 
+time to do myself the honor to write them. It contains the principles on which the evacuation of that 
+fortress took place. 
+</p><p>
+If the enemy will permit us to pass unmolested, 
+three days longer, to Fort George, I shall be able to 
+bring away all the stores from thence, and then draw 
+off the few troops we have there. 
+</p><p>
+Yesterday, accompanied by the General Officers and 
+engineers, I examined the country, and found a very 
+defensible spot about four miles below this, to which 
+place we are this day moving part of the army, and 
+our stores. I propose remaining here until Fort 
+George is abandoned, and as much longer as the 
+enemy will permit me. 
+</p><p>
+General Nixon, with his brigade, supported by 
+about six hundred militia, is advanced to Fort Ann, 
+to fell trees into Wood Creek, and into the road 
+from Fort Ann to this place. I have also stationed 
+a body of militia about five miles on this side of 
+Fort George, to cover the retreat of the garrison 
+now at that place. 
+</p><p>
+We are informed that part of the enemy are still 
+at Skenesborough, and that a body is coming by the 
+way of Lake George. I hope it will not be very 
+soon. Adieu, my dear Sir; and believe me, unfeignedly, and with great respect, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

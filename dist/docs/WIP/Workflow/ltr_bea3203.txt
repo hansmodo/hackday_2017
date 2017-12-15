@@ -1,0 +1,31 @@
+<letter id="bea3203">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=german flats' rel='city origin'>German Flats</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Your favor of the 19th instant was delivered to me last evening, and I am happy to hear that you are well and have joined 
+the army. I beg leave to congratulate you on our late success 
+over the enemy by the troops commanded by General Stark. I 
+make no doubt it will have a happy effect. 
+</p><p>
+I leave this place this morning with twelve hundred Continental troops, officers included, and a handful of militia, for Fort 
+Schuyler, which is still besieged by a number equal to ours. 
+Nothing shall be omitted that can be done to raise the siege. 
+You will hear of my being victorious, or no more ; and, as soon 
+as the safety of this part of the country will permit, I will fly to 
+your assistance. 
+</p><p>
+General Herkimer died yesterday. I will make your compliments and return your thanks to the other gentlemen when I 
+have the pleasure of seeing them. 
+I am credibly informed that General St. Leger has sent to 
+<a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a> for a reinforcement. I believe it will not be 
+in his power to spare them, except they have marched before the 
+late action, which may be worth inquiring into. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>.
+</p>
+</letter>

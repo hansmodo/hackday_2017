@@ -1,0 +1,121 @@
+<letter id="chl3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="day origin" value="29">29</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I am now so far recovered, though far from well, that I shall set out in two days. The stripping 
+<a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> so entirely of its heavy cannon, is a most unfortunate circumstance, as the transportation 
+of them from this place is a business of monstrous difficulties, expense, and labor. 
+</p><p>
+The Congress have, as yet, not taken the least step 
+for the security of this place. The instant I leave it, 
+I conclude the Provincial Congress and inhabitants in 
+general will relapse into their former hysterics; the 
+men-of-war and Mr. Tryon will return to their old 
+station at the wharves; and the first regiments, who 
+arrive from England, will take quiet possession of 
+the town and Long Island. I have written letters 
+till I am tired, on the subject, to the Congress, but 
+have received no answer. The Committee of three, 
+who were here to confer with me, agreed it was 
+necessary that five thousand men should be in the 
+place. They left us, and no notice has been taken 
+of the affair since. Great and extensive works were 
+resolved upon ; and we have scarcely sufficient numbers to mark out the ground, much less to throw 
+up the works. In short, I know not what to make 
+of this apathy on so important a subject. 
+</p><p>
+Messrs. Price, Walker, and, since them, the volunteer Melchior, are arrived from Canada. It is very 
+lucky, for they can communicate all the necessary 
+lights to the Congress with respect to the measures which must be taken in that country. By their accounts, nothing is so much wanted as artillerymen. 
+Captain Lamb's company were all taken prisoners. I 
+wish, indeed it is necessary, you should spare us a 
+company from <a href='/results.php?city=boston' rel='city'>Boston</a>. We cannot possibly do with 
+out them. We have none here. I entreat, dear General, you would detach Captain Badlam's company. 
+The Captain and I are now well acquainted, and agree 
+wonderfully. The Pennsylvania and Jersey troops march for Canada; are good and strong in numbers. 
+The spirit of enlisting prevails through the whole 
+country. I am told, but cannot believe it, that the 
+New England Delegates oppose the enlisting for a 
+year. They say, by means of a shorter engagement 
+the whole country would be soldiers. A curious whim 
+this. Who the d 1 can fill their heads with such 
+nonsense ? 1 should think a letter from you on the 
+subject, to either of the Adamses, would have a good 
+effect, 
+</p><p>
+I have this moment received yours of the 22d. It 
+is a sort of reprimand for not having more exactly 
+informed you of the occurrences here. I do assure 
+you, General, that I have wrote fully and frequently. 
+It is true, I believe, two posts have carried no letters 
+from me, but I would not trouble you when I had 
+nothing material to communicate. I shall not in 
+trench myself behind the parade of great business, 
+for my first business is to be attentive to my General. Nor shall I make a plea of the loss of Palfrey, 
+since whose departure I have been obliged to write 
+with my own hand every the most trifling note. But, 
+in fact, though I confess I am naturally remiss, I 
+have not neglected my duty in this point. I have 
+suffered no safe opportunity to escape me. But 
+enough of this. 
+</p><p>
+I shall now give you a detail of what we have 
+been doing, and in what circumstances we arc. Our 
+force, including the minute-men, amounts to about 
+seventeen hundred men. Ward's regiment, which is 
+the strongest, I have stationed on Long Island. They 
+are employed in making fascines, and preparing other 
+materials for constructing three redoubts, one of which will, in great measure, (in correspondence with a battery which I have sunk opposite to it in the city), 
+secure the entrance of the East River. Waterbury's and Stirling's regiments are quartered in the city; the former in the upper barracks, the latter in the 
+lower. Two hundred minute-men are likewise lodged in the town. Drake's regiment of minute-men, and one more company (in all about two hundred), are 
+stationed at Horen's Hook, which commands the pass of Hell Gate. They are employed in throwing up a redoubt to contain three hundred men. 
+</p><p>
+As to the town, having few hands, and the necessary duty being hard, I have been able to effect little. I have indeed thrown down the side of the fort next 
+the town, to prevent its being converted into a citadel for the use of the enemy. It was absolutely impossible to be moulded into any thing which could 
+annoy their ships. I have likewise thrown a traverse, 
+or barrier, across the Broadway, two hundred yards 
+in the rear of the fort, with four pieces of cannon, to 
+prevent the enemy lodging themselves in the remains 
+of the fort, and repairing it. It is likewise my intention to barricade all the streets leading into the 
+Broadway, both on the right and left, to secure us 
+against being taken in reverse. Batteries are to be 
+erected on the eminence behind Trinity Church, to 
+keep their ships at so great a distance as not to 
+injure the town. As we are surrounded by navigable 
+waters, I consider inclosed works as rather dangerous. It was, therefore, my intention to throw up a 
+great number of large fleches or redans at certain Distances, one behind another, so as to render it a Disputable field of battle against any force. King's 
+Bridge, being a most important pass, without the 
+command of which we could have no communication 
+with Connecticut, I had resolved to make as strong 
+as possible. 
+Such were my schemes ; but as the Congress have 
+not furnished the force which I was taught to expect 
+from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, we have not had it in our power 
+to effect more than I have related. Governor Tryou 
+and the Asia still continue betwixt Nutten's and Bedloe's Islands. It has pleased his Excellency, in violation of the compact he had made, to seize several 
+vessels from Jersey, laden with flour. It has, in 
+return, pleased my Excellency to stop all provision 
+from the city, and cut off all intercourse with him, a 
+measure which has thrown the Mayor, Council, and 
+Tories into agonies. The propensity, or rather rage, 
+for paying court to this great man, is inconceivable. 
+They cannot be weaned from him. We must put 
+wormwood on his paps, or they will cry to suck, as 
+they are in their second childhood. 
+</p><p>
+Captain Smith is just returned from Fort Constitution. He gives me a most terrible account of it. 
+The expense of its construction has been enormous. Its defects, both in point of situation, laying out, finishing, &c., are numerous. He has made the plan 
+of another, which will command, as far as I can judge from it on paper, the river effectually. 
+</p><p>
+I have now related, as minutely as necessary, our situation. As I shall set out very soon, it will probably be my last from this place. I must entreat, once more, dear General, that you will spare us a 
+company of artillery. Badlam seems rather averse, on proposing it. 
+</p><p>
+Adieu, dear Sir. Yours, with the greatest respect 
+and affection, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

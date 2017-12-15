@@ -1,0 +1,35 @@
+<letter id='dol1410'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1410'>
+<recipient first='Mary' last='Cutts' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, September 18, <a href="/results.php?year=1831">1831</a>. 
+</p><p>
+MY DEAREST MARY, I hasten to answer your nice letter in order to obtain 
+your forgiveness about the mislaid letter ; I fear Beckey may have used it to kindle 
+the fire she was so anxious about for her master, and as far as I can discover collected everything in the way of paper on 
+my table this morning. It was so short I hope you can recollect enough of it to 
+write it again for your amiable correspondent, to whom give my assurance of 
+love. I am so grieved that your mamma is not well, but trust it proceeds from 
+fatigue. Do persuade her to go to see Mrs. B., and not to worry about household 
+cares. I hope the alarm of "insurrections" is over in the city, though every one should 
+be on guard after this. I am quiet, hearing little about it, and quite helpless if 
+in danger. Tell Mr. Trist I send him a few leaves, if not the whole flower, of his 
+dear lady (Cape Jessamine), who is now blooming, when all her contemporaries 
+have changed color and are passing away, emblematic of her good disposition and 
+heart, whose fragrance will last until the end. 
+</p><p>
+Your Uncle Madison still wears the bead ring you placed on his finger, and I 
+see him look at it every now and then without saying anything. 
+</p><p>
+My eyes are troubling me, still I write on a great deal of nonsense. To-morrow 
+I expect a large party from Richmond and the lower country to stay with us. I feel 
+very grateful to all those ladies who are so kind to your mother while she is ailing, 
+and could love the blackest Indian who was good to her ; indeed, it seems to me 
+I would like to bribe the whole world to make her well. Payne is on the wing 
+again with three gentlemen in his train. 
+</p><p>
+Adieu, dearest niece. Ever yours, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">DOLLY MADISON</a>. 
+</p></letter></letter>

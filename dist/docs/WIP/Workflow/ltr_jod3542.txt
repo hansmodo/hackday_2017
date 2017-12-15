@@ -1,0 +1,64 @@
+<letter id="jod3542">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=amsterdam' rel='city origin'>Amsterdam</a>, 	<a rel="day origin" value='18'>18</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE letters from Mr. Dana and his young attendant at St. Petersburg. Both well and in good spirits. 
+Letters to Mrs. Dana and to you go by Captain Trowbridge and by Dr. Dexter. I have no certain news as 
+yet of Charles's sailing from <a href='/results.php?city=bilboa' rel='city'>Bilboa</a>, but I presume 
+he is sailed. You will have suffered great anxiety on 
+his account, but I pray he may arrive safe. I acted 
+for the best when I consented he should go with Gil- 
+Ion, little expecting that he would be landed in Spain 
+again. Keep him to his studies, and send him to 
+college, where I wish his brother John was. 
+</p><p>
+My health is feeble, but better than it was. I am 
+busy enough, yet not to much perceptible purpose as 
+yet. There is no prospect at all of peace. Let our 
+people take care of their trade and privateers next 
+year. They have not much of a land war to fear. 
+<a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> has struck the most sublime 
+stroke of all in that article of the capitulation which 
+reserves the tories for trial by their peers. This has 
+struck toryism dumb and dead. I expect that all the 
+rancor of the refugees will be poured out upon Corn- 
+wallis for it. Our enemies now really stand in a ridiculous light. They feel it, but cannot take the 
+resolution to be wise. The Romans never saw but 
+one caudine forks in their whole history. Americans 
+have shown the Britons two in one war. But they 
+must do more. Remember, you never will have 
+peace, while the Britons have a company of soldiers 
+at liberty within the United States. <a href='/results.php?city=new york' rel='city'>New York</a> must 
+be taken, or you will never have peace. All in good time. 
+</p><p>
+The British army estimates are the same as last 
+year. The navy less by several ships of the line. 
+What can these people hope for ? I fancy the southern States will hold their heads very high. They 
+have a right. They will scarcely be overrun again, I 
+believe, even in the hasty manner of Cornwallis. 
+Burgoyne don t seem to be affronted that his nose is 
+out of joint. He is in good spirits. Experience has 
+convinced him, so I hope it has Cornwallis, that the 
+American war is impracticable. The flower, the 
+choice of the British army was with him. The King 
+of England consoles his people under all their dis 
+graces, disasters and dismal prospects, by telling them 
+that they are brave and free. It is a pity for him that 
+he did not allow the Americans to be so seven years 
+ago. But the great designs of <a href='/results.php?city=providence' rel='city'>Providence</a> must be 
+accomplished. Great indeed ! The progress of so 
+ciety will be accelerated by centuries by this revolu 
+tion. The Emperor of Germany is adopting, as fast 
+as he can, American ideas of toleration and religious 
+liberty, and it will become the fashionable system of 
+all Europe very soon. Light spreads from the day 
+spring in the west, and may it shine more and more 
+until the perfect day! Duty to parents. Love to 
+brothers, sisters and children. It is not in the power 
+of worlds to express the tenderness with which I bid 
+you farewell. 
+</p>
+</letter>

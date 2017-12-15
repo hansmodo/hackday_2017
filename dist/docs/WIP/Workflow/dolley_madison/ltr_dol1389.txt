@@ -1,0 +1,18 @@
+<letter id='dol1389'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1389'>
+<recipient first='Edward' last='Coles' type='individual'/>
+<p>
+July 2, <a href="/results.php?year=1813">1813</a>. 
+</p><p>
+I have the happiness to assure you, my dear cousin, that <a href="/results.php?tla=mad" rel="spouse met">Mr. Madison</a> recovers ; 
+for the last three weeks his fever has been so slight as to permit him to take bark 
+every hour and with good effect. It is three weeks now I have nursed him, night 
+and day, sometimes with despair ! but now that I see he will get well I feel as if 
+I might die myself from fatigue. Adieu ! 
+</p><p>
+Ever yours, 
+</p><p>
+<a href="/results.php?tla=dol" rel="me">D. P. MADISON.</a>. 
+</p>
+</letter></letter>

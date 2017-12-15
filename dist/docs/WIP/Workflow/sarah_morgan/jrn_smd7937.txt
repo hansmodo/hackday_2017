@@ -1,0 +1,16 @@
+<letter id="smd7937">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], <a rel="month origin" value="3">March</a> <a rel='day origin' value='17'>17th</a>. [<a href='/results.php?year=1863' rel="origin">1863</a>]
+</p><p>
+<em>On dit</em> the Yankees have gone back to <a href='/results.php?city=baton rouge' rel='city'>Baton Rouge</a>, hearing we had sixty thousand men coming 
+down after them. I believe I am positively disappointed! I did want to see them soundly thrashed! 
+The light we thought was another burning house was that of the Mississippi. They say the shrieks of 
+the men when our hot shells fell among them, and after they were left by their companions to burn, were perfectly appalling. 
+</p><p>
+Another letter from Lilly has distressed me beyond measure. She says the one chicken and two dozen 
+eggs Miriam and I succeeded in buying from the negroes by prayers and entreaties, saved them from 
+actual hunger ; and for two days they had been living on one egg apiece and some cornbread and syrup. 
+Great heavens! has it come to this? Nothing to be bought in that abominable place for love or money. Where the next meal comes from, nobody knows. 
+</p><p>
+</letter>

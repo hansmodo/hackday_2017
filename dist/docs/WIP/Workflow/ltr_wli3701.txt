@@ -1,0 +1,113 @@
+<letter id="wli3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel='day origin' value='7'>7</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+The present strength of the garrison at <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> 
+is two hundred and thirty. At least thirty of these 
+are unfit for field duty, and several, even garrison 
+duty From this number, detachments are made to 
+garrison Forts Mcintosh and Wheeling, the first distant thirty miles, the latter eighty. <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> is in a 
+bad state for defence ; Fort Mcintosh, pretty easily repaired. If <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> were in the best state, the work 
+is too extensive for less than a garrison of at least 
+four hundred and fifty men, to make a tolerable defence. Fort Mcintosh would take one hundred and 
+fifty to defend it properly, and be able to send patrolling parties towards Wheeling. 
+</p><p>
+Wheeling should have twenty-five or thirty men, 
+and an equal number at some intermediate post. From 
+<a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a> to the Laurel Hill, northwards, it would take 
+two hundred men in actual service, from the first of 
+April to the last of October, to guard that quarter 
+from the incursions of the savages. By this arrangement, it would take nine hundred and fifty men to 
+act on the defensive The whole of the summer season. 
+The number of militia in Washington county is said 
+to he two thousand; in Westmoreland, one thousand. 
+The inhabitants are dispirited, and talk much of making their escape early in the spring to the east side 
+of the mountain, unless they see a prospect of support. 
+</p><p>
+The Indians have all left us, except ten men ; and, 
+by the best accounts, are preparing to make a stroke 
+in the spring, either against General Clark, at the 
+Rapids, or on <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>; which, my informant could 
+not with certainty say, but was positive one or the 
+other was intended. I am apprehensive, from the 
+steps taken by the Commandant at Detroit, that something serious is intended. First, thirteen nations of 
+Indians have been treated with, in the beginning of 
+November; at the conclusion, they were directed to 
+keep themselves compact, and ready to assemble on 
+short notice. Secondly, the Moravians are carried into captivity, and strictly watched, and threatened with 
+severe punishment, if they should attempt to give us 
+information of their movements. Thirdly, part of five 
+nations are assembled at Sandusky. The Shawanese 
+and lowas have settled nearer Detroit than formerly. 
+There is no magazine of provision laid in at any of 
+our posts, to hold out a siege ; ammunition exhausted ; 
+no craft to transport materials for repairing the fort, 
+or to keep up a communication with Fort Mcintosh 
+or Wheeling, or to supply these posts with provision 
+or stores, in case of exigence. 
+</p><p>
+To carry on an expedition against Detroit would 
+take two thousand men, to give a tolerable certainty 
+of success ; the time would be three months, and the 
+best season to march from <a href='/results.php?city=fort pitt' rel='city'>Fort Pitt</a>, the 1st of August. Then the waters are low; morasses, and soft, rich 
+meadows dried up ; by land totally, preferable to any 
+part by water, the enemy having entire command of 
+the lake with armed vessels ; the navigation of rivers 
+uncertain ; besides, the number of boats, and waste of 
+time, would make it more expensive than land carriage. Pack-horses to carry provision would be better 
+and more certain than wagons ; but, as a road must 
+be cut for artillery, the ammunition and military stores 
+would be transported with greater facility and more 
+safety in wagons. One thousand horses would carry 
+flour for two thousand men for three months. Beef 
+must be driven on foot. Twenty-five wagons would 
+carry military stores sufficient for the train, which 
+should consist of two twelve-pounders, two sixes, one 
+three-pounder, one eight-inch howitzer, and one royal. 
+At least one half should be regular troops. If it is 
+necessary to keep half the number of troops to act 
+on the defensive that it will to act offensively, and 
+three months are sufficient to complete the expedition, 
+then the only difference in the expense will be transportation of provision and stores; as acting on the defensive, seven months will be the least, and the same 
+quantity of provision will be consumed, and ammunition wasted. If we act offensively, it will draw the 
+whole attention of the enemy to their own defence, 
+by which our settlements will have peace; and such of 
+the militia, as do not go on the expedition, will have 
+time to raise crops. On the contrary, continual alarms 
+will keep them from these necessary duties. The garrison at Detroit is three hundred regular troops, the 
+militia (Canadians), from seven hundred to one thousand ; the number of Indians that could assemble in 
+ten days' notice, to a certain point, about one thousand. 
+</p><p>
+Query. Should we be able to take Detroit, shall we hold it ? If not, what advantage will the bare reduction of the place be of, if immediately evacuated ? 
+</p><p>
+Answer. The reduction of Detroit, in the fall of 
+the year, will prevent an intercourse with the Western 
+Indians for a whole year, as it would be late in the 
+succeeding summer before the British could reestablish 
+themselves, during which time we might either open 
+a trade with such savages as would ask for peace, or, 
+by frequently penetrating into, and establishing posts 
+in their country, oblige them to retire to such a distance as would put it out of their power to harass 
+the back inhabitants. It would be attended with 
+great expense, and vast risk, to support a garrison at 
+Detroit, as long as the British possess the lower part 
+of Canada, and have the command of Lake Erie. 
+</p><p>
+The present garrison is too weak to repair the fort, 
+and perform other necessary duties ; no cash to pay 
+artificers ; the troops in bad temper for want of pay ; 
+under very bad discipline; too long in one station, as 
+they have formed such connections as make them tenacious of the rights of citizens, while they at the 
+same time retain all the vices common to a soldiery. 
+What is contained in the foregoing report, is all that 
+occurs to my memory at present, necessary to trouble your Excellency with. I have the honor to be, 
+with perfect respect. Sir, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wli" rel="me">William Irvine</a>. 
+</p>
+</letter>

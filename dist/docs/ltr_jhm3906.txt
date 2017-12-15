@@ -1,0 +1,25 @@
+<letter id="jhm3906">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="5">May</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I enclose you the instructions for quieting the discontents of the 
+people on Little Pee Dee, with whom you some time ago entered into 
+a truce. The express brings you twenty commissions. I also enclose 
+you an order for arms and ammunition. I think there is something 
+else you mentioned to me in the course of our conversation to-day, but 
+in the multiplicity of business I have engaged in since I came home, it 
+has slipt my memory j you will, therefore, be pleased to repeat it to me 
+by the return of the express I send you to-morrow. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p><p>
+P. S. Be pleased to send me your opinion in writing before you go 
+away, whether it will be best to sell the negroes, and recruit with money, 
+or continue on the old plan of recruiting with negroes. 
+</p>
+</letter>

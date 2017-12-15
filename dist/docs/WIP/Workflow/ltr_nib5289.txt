@@ -1,0 +1,14 @@
+<letter id="nib5289">
+<recipient first="Daniel" last="Webster" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. Aug <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1833' rel="origin">1833</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+Altho we do not feel anxious as to the result of the movements at Washington touching the Bank, still it is 
+thought prudent to prepare for any adverse event and accordingly we have this day given instructions to the Branches 
+to keep their discounts at their present amount and to shorten the time for which they buy bills of exchange. This 
+will make the institution strong &amp; if any sudden movement is attempted by the Cabinet, proper or improper, we shall 
+be ready. This will, I trust be temporary, as the squall may blow over. 
+</p>
+</letter>

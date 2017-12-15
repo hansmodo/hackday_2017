@@ -1,0 +1,24 @@
+<letter id="joj4024">
+<recipient first="George" last="Washington" type="individual"/>
+<p>   	 
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+Your very kind letter of the 7th inst., gave me all that pleasure which accompanies marks of cordial esteem and 
+attachment from those whose commendation is praise, and whose friendship is discriminate. 
+</p><p>
+Among the objects of my mission are some which, however just, will not be easily attained, and therefore its success will be precarious, and probably partial. The only 
+satisfaction I promise myself from this appointment, will flow from the rectitude with which the duties of it will be 
+discharged, and not from a prospect of general approbation. God grant that the time may not be far distant when 
+peace and liberty shall lead you from the field, to enjoy, in silence and retirement, the luxury of reflecting that you had saved your country. 
+</p><p>
+Adieu, my dear sir, 
+</p><p>
+With sincere affection and esteem, 
+</p><p>
+I am your friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id="nag3905">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+HEAD-QUARTERS, <a rel="month origin" value="4">April</a> <a rel='day origin' value='14'>14</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your favor of the 13th inst. is this moment came to hand. The 
+prospect of a general action is not so immediate as I expected a few 
+days ago. You will, therefore, halt in the neighborhood of Strawberry 
+</p><p>
+Ferry, and wait there, or in that neighborhood, until you hear further 
+from me. I don t believe the enemy will make another excursion soon 
+into St. Thomas , but they may. I should be obliged to you to get an 
+account of all the forage in that quarter; with us it is scarce. I begin 
+to feel afraid our cavalry will be obliged to cross the Edisto for subsistence. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+<p> 
+</p>
+</letter>

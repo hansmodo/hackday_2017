@@ -1,0 +1,55 @@
+<letter id="crg3902">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+(NEAR THE GOVERNOR'S QUARTERS), <a rel="month origin" value="10">October</a> <a rel='day origin' value='21'>21</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+Your favor of the 18th I received by Mr. Ferguson, on his return 
+from Accabe, his commission about the negroes being at an end. The 
+British, it seems, make a pretence that it was because Major Rudolph 
+had taken a small party near their lines, and unless <a href='/results.php?tla=nag' rel='colleague'>Gen. Greene</a> returned them, they would not send a negro out; but this is a mere pretence, they had not the least right to make such a demand on the 
+General. I should be extremely happy to have it in my power to oblige 
+you, and serve <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>, whose perseverance, firmness and merit, 
+must be evident to everybody. Should the agreement be received, 
+which I think there is little probability of, you may be assured that 
+nothing in my power shall be wanting to serve him, <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>; and, 
+as Col. Moncrieff has the negroes, who is one of the principal opposers 
+of the agreement being complied with, I will use my endeavors with 
+the Governor, if he can do it with propriety, to make a particular demand for them. The measure was certainly amazingly to the advantage of the British nation ; and, if their troops here had not as little 
+spirit with regard to them as our people manifestly show with regard to this State (by that d -d communication with the town, which has 
+now over-run all bounds) they would gladly have complied with the 
+agreement to a title; but private interest on their side has overset it. 
+Leslie has been very anxious about it for months past, and seen the 
+advantages we had over him, and made several overtures before it was 
+brought to a point. For my part, my friend, I was always for keeping 
+coolly the ground the Assembly left us, pointing out to the enemy the 
+glaring superiority we had, and, at the same time, hinting that, if they 
+wantonly distressed us, the Assembly, however willing of themselves, 
+would certainly make use of the means in their power to do the State 
+justice. This, as often as I had opportunity in private conversation 
+with the Governor, I constantly gave as my opinion; however, his 
+Excellency thought otherwise, and, without consulting the Privy 
+Council at all, made the agreement himself. As soon as I saw it, I 
+was very sorry for it, looking upon it as weak in itself, unnecessary, 
+impolitic, humiliating, and pregnant with bad consequence to the State. 
+Finding by the penning of the fourth article that the Privy Council 
+seemed to be made parties thereto, though never consulted upon that 
+ground, I took the liberty to write to his Excellency, expressed my disapprobation of it in the warmest terms, and pointed out many of its 
+defects. This I mention to you as a friend. We are all indebted to 
+you my dear sir, and I shall always be happy to have it in my power 
+to discharge part of my public debt to you, by rendering you any agree 
+able service. They still talk of the enemy s evacuating soon. I cannot 
+but hear of the motions tending thereto as well as others; but seeing 
+no reasons from within ourselves to oblige them to go away, but too 
+many for their staying, I am still, and shall not think they intend absolutely to go until 1 hear they are over the bar. All their manoeuvring 
+seems to be attended with a mixture of as much delay as possible, as if 
+they still waited further orders, and were determined not to go a moment 
+before they could possibly avoid. 
+</p><p>
+Pray remember me to <a href='/results.php?tla=peh' rel='colleague met friend'>Col. Horry</a>, and all enquiring friends with you. 
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=crg" rel="me">CHRISTOPHER GADSDEN</a>. 
+</p>
+</letter>

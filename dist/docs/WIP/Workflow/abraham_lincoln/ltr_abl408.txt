@@ -1,0 +1,20 @@
+<letter id='abl408'>
+<recipient first='Henry' last='Halleck' type='individual'/>
+<p>
+McCLELLAN'S HEADQUARTERS, October 3, <a href="/results.php?year=1862">1862</a>.
+</p><p>
+MAJOR-GENERAL HALLECK:
+</p><p>
+General Stuart, of the rebel army, has sent in a few of our prisoners
+under a flag of truce, paroled with terms to prevent their fighting
+the Indians, and evidently seeking to commit us to their right to
+parole prisoners in that way. My inclination is to send the
+prisoners back with a definite notice that we will recognize no
+paroles given to our prisoners by the rebels as extending beyond a
+prohibition against fighting them, though I wish your opinion upon
+it, based both upon the general law and our cartel. I wish to avoid
+violations of the law and bad faith. Answer as quickly as possible,
+as the thing, if done at all, should be done at once.
+</p><p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN, President</a>
+</p></letter>

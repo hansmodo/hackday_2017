@@ -1,0 +1,35 @@
+<letter id="gom4637">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="1">January</a> <a rel='day origin' value='6'>6th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>.
+</p><p>
+Dear Sir, 
+</p><p>
+Mr Short, who is so kind as to take charge of my letters as 
+far as Bordeaux, will go, he says, this day. I therefore take 
+the latest opportunity to write, and to inform you, that the appearances have not at all changed since mine of the first. 
+Dumouriez has been some days in Paris ; he stays at home 
+under pretence of illness, but in fact to receive and consider 
+the propositions of the different parties. 
+</p><p>
+It would seem that he is not reconciled to Pache, the minister of War. Pache is very strong in Paris, and that circumstance renders him formidable, both to his colleagues and to 
+the Convention. I am told that the majority of the latter body 
+expect soon to be supported by a considerable number of volunteers from the departments. I am also told that it cannot 
+be long before the bursting of the storm, which has been so long 
+brewing. This last intelligence is from one of those who, 
+though a promoter of the last revolution, is now marked as one 
+of the victims. He says he will die hard, but laments the feebleness of temper which he experiences among those who, like 
+him, are doomed to destruction. 
+</p><p>
+On the other hand, a person of cool discerning temper and 
+understanding, who is in the confidence of those who direct the 
+Jacobins, told me when last I saw him, that they are determined to rule, or perish. You will easily suppose, that this provision of horrors is far from pleasant. I have, I assure you, 
+been not a little tempted to spend a few days with some of my 
+friends in the country during the festive season, which would 
+render such an excursion natural, but the critical state of things 
+with Great Britain might take a turn, which it would be important for you to know, and, therefore, it is right that I stay 
+here. I have the honor to be, &-c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

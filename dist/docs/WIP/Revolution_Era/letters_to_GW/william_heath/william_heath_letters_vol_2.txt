@@ -1,0 +1,372 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.sTQpXf on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--wih
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Heath
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wih3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+We find, by the destination of the prisoners of 
+<a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>'s army to this neighbourhood, a 
+wide and difficult field opens to us. To provide quarters, provisions, fuel, &c., for five or six thousand 
+men, will be no small task. The Assembly suppose 
+them to be under my direction, and have advised 
+that they be placed in the barracks on Prospect and 
+Winter Hills, <a href='/results.php?city=cambridge' rel='city'>Cambridge</a>, and Sewell's Point- and, 
+indeed, I do not see where else they can be quartered, if they are to remain together, and near this 
+place. I have applied for a thousand or twelve hundred men for guards and am determined, on the one hand, to treat them with politeness and humanity, 
+and, on the other, with precaution and strict order. 
+But I must entreat your Excellency's endeavours to 
+facilitate their removal as soon as possible, as their 
+continuance, for any considerable time, will greatly 
+distress the inhabitants, both as to provisions and 
+fuel, especially the latter. 
+</p><p>
+Wood is now twelve or fourteen dollars per cord, 
+on the wharves, and the inhabitants cannot obtain a 
+supply at that price. So many of the coasters are 
+taken by the enemy's cruisers, that they are become 
+very unwilling to run the risk of falling into their 
+hands. I submit to your Excellency the propriety 
+and expediency of obtaining a protection from Lord 
+Howe for such a number of vessels as may be 
+thought necessary to supply the prisoners, from the 
+eastern country. If some such method cannot be devised, I do not at present see how it can be obtained. I have wrote to Congress on the subject, and 
+would also request your Excellency's direction as 
+soon as may be convenient .to you. As soon as the 
+disposition of, and regulations for, the prisoners are 
+made, I will transmit them to your Excellency. It 
+will be necessary, if practicable, to convey a quantity 
+of flour this way. I have the honor to be, with 
+great respect, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter><letter id="wih3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=bald hill' rel='city origin'>Bald Hill</a>, <a rel="day origin" value="18">18</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Yesterday, at half past nine o clock, A. M., I received your orders to march for <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. At twelve, the division began their march ; marched fifteen miles,, 
+and halted ; at three, this morning, pursued the march, 
+and reached <a href='/results.php?city=peekskill' rel='city'>Peekskill</a> at half past three, P. M. On 
+my arrival, I found General Howe had sent off his 
+cannon, and his division was filing off towards the 
+Highlands. The enemy appeared to be advancing in 
+force near the New Bridge. I threw my division in 
+the rear, sent Patterson's to the Gorge, and Nixon's, 
+Parsons's, and Huntington's to these heights, not being able to get further with the baggage. 
+</p><p>
+Early in the morning I shall send on the baggage 
+into the Highlands, and follow with the troops, giving the enemy an offer of attacking us in rear, if 
+they choose it. Sir Henry Clinton is once more disappointed, after marching all day on my flank. Fortutely, I have formed a junction. Since I arrived 
+here, I have been honored with yours of yesterday, 
+inclosing one to General Glover. Immediately on the 
+receipt of your letter, I sent off an express to hurry 
+his brigade on, with all possible expedition, by the 
+shortest and best route ; and directed the express to 
+take fresh horses. I &lt; shall critically observe the motions of the enemy in the morning. I have the 
+honor to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter><letter id="wih3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=mandevilles' rel='city origin'>Mandeville's</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I was honored with your favor of yesterday, on 
+my way from <a href='/results.php?city=bald hill' rel='city'>Bald Hill</a> to this place. I had before 
+ordered Parsons's brigade to encamp near Robinson's ; 
+Huntington's, near the place where Parsons's encamped 
+before they left this place; Patterson's, between that 
+place and Danforth's ; Nixon's, at the gorge of the 
+mountains. Glover's is not yet arrived. May I be 
+permitted to request that, when it does, it may be 
+attached to General Howe's division? 
+</p><p>
+By intelligence received since I had the honor to 
+write in the morning, I learn that the enemy's advanced sentinels and videttes were posted, the last 
+night, on the New Bridge. They appear to advance 
+with the greatest caution. I think Major-General 
+Howe was very fortunate in making his retreat the 
+instant he did. Had he remained, I think he would 
+have been Burgoyned; his intelligence being good, 
+he escaped it. I have taken measures to obtain intelligence from every quarter on this side the river. 
+Such as I receive shall be transmitted. I have ordered the light-horse to the left, and am determined 
+to harass the enemy, if possible. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter><letter id="wih3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=highlands' rel='city origin'>Highlands</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+In the following I shall give your Excellency a 
+state of facts relative to the late capture of Lieutenant-Colonel Thompson and part of his detachment, on 
+the lines of this post, on the 3d instant. 
+</p><p>
+Lieutenant-Colonel Thompson was at that time at 
+Young's, near the White Plains ; his detachment consisted of five companies. Captain Watson, of the 
+third regiment, with his company, was at Young's 
+house with the Lieutenant-Colonel. Captain Roberts, 
+of the fifteenth regiment, and Captain Stoddard, of the 
+first regiment, were on his right ; their greatest distance about two miles. On his left were Captain Lieutenant Farley, of the ninth regiment, and Captain 
+Cooper, of the fourteenth regiment ; their extreme 
+distance rather greater than the companies on the 
+right. Pickets were advanced from each. 
+</p><p>
+On the morning of the 3d instant, about nine-o'clock, the Lieutenant-Colonel was informed that a 
+body of the enemy's horse were advancing, and, at 
+that time, about two and a half miles distant. Apprehending the enemy to be horse only, he determined to remain where he was, and sent to the several 
+companies to join him. Soon after this, the enemy 
+attacked his picket (a sergeant and eight men), who 
+fired on the horse, which checked them. On which 
+the picket attempted to join the body, but were over 
+taken by the horse, one or two of them wounded, 
+and the whole taken prisoners. Not long after, the 
+enemy's horse appeared in sight of the house. The 
+Lieutenant-Colonel had been joined by Captain Roberts's company, who formed on the right. The enemy's horse halted at a distance, and discharged their 
+rifles. Soon after, the infantry appeared, advancing to 
+the front and right flank of our troops, who were now 
+joined by Captain-Lieutenant Farley's company on 
+the left; Captain Stoddard and Captain Cooper coming up, one on the right, the other on the left. Our troops preserved their order, and did not fire until 
+some time after the enemy began. When they received orders to fire, the enemy immediately scattered, 
+availing themselves of trees and the ground, of which, 
+it must be acknowledged, they very judiciously took 
+the advantage, springing from one tree and place to 
+another, and constantly gaining ground ; their fire being directed both against the front and flank of our troops, and a number being killed and wounded, 
+they broke, some retreating up the road, others into 
+the house, from the doors and windows of which 
+they fired on the enemy. 
+</p><p>
+At this time, Captain Stoddard and Captain Cooper 
+came up ; the former gave the enemy two or three fires, but, the distance being great, probably did little 
+or no execution. The horse, at this instant, were 
+very active, and overtook several of our men who 
+were making their escape. It is said our troops discovered great bravery, and fought well for about fif 
+teen minutes, when the Lieutenant-Colonel was compelled to surrender. We had fourteen men killed on 
+the spot, including Captain Roberts ; and seventeen 
+wounded, three of whom are since dead. Lieutenant Colonel Thompson, of Marshall's, Captain Watson, of 
+Greaton's, Captain Farley, of Wesson's, Lieutenant Burley, of Tupper's, Lieutenant Maynard, of Greaton's, 
+Ensign Fowler, of Nixon's, and Ensign Bradley, of 
+Sheppard's, with ninety non-commissioned officers and 
+soldiers, were taken prisoners ; nine of whom, who 
+were wounded, were left by the enemy at a house 
+some miles down the road. 
+</p><p>
+The enemy set fire to Young's house, and soon re 
+tired, leaving two dead, and carrying off their wounded; among whom was a Captain of grenadiers, wound
+in the hip, and a Lieutenant of the infantry, in 
+the thigh. Our troops immediately after went on to 
+the ground, and buried the dead. The enemy's force 
+is said to have consisted of about sixty horse, 
+</p><p>
+and forty of the refugees, and between four hundred 
+and five hundred infantry, detached from different 
+corps, including a part or the whole of the grenadier 
+and light infantry companies of the guards. Colonel Enimerick was out as a volunteer, on foot, with his 
+rifle, and was very active. Colonel Morton, of the 
+guards, commanded the whole, and Colonel Delany 
+was with the refugee horse. 
+</p><p>
+By two deserters, who left Fort Washington a few days since, I am informed that the enemy had 
+at that place about one hundred and fifty sleighs, 
+when they came away. The sleighs were employed 
+in hauling wood. I am just now informed, by Colonel Badlam, who is on the advanced post, that a body of 
+three hundred of the enemy's horse (probably part of 
+these militia), and the seventh British regiment, came 
+the last Monday from -Long Island to Westchester on 
+the ice, where they now are. Whether their taking post at Westchester is with offensive or defensive 
+views, is uncertain; probably both. I have written 
+Brigadier-General Poor to hold his brigade in the 
+most perfect readiness for action, have patrols on the 
+ice of Hudson's River, against <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, and from the 
+guard at , down towards Fort Montgomery. 
+</p><p>
+Every precaution is in exercise; and I trust the enemy will be disappointed, should they attempt to surprise us. I have the honor to be, with the greatest 
+respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter><letter id="wih3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=roxbury' rel='city origin'>Roxbury</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I was, some time since, honored with yours of the 
+28th ultimo, respecting clothing for the recruits, and, 
+this morning, with that of the 17th instant. 
+</p><p>
+Several officers have already come from <a href='/results.php?city=west point' rel='city'>West Point</a> 
+on the recruiting service, and others are on the road. 
+I wish they may be successful, but am at a loss, from 
+the tenor of your Excellency's letter, to determine what bounty the recruits, raised by this State (Massachusetts), are to receive. It seems the Continental 
+bounty, after the act of March, <a href='/results.php?year=1779'>1779</a>, w T as to be two 
+hundred dollars. The General Assembly of this State, 
+on the 30th of September last, passed the following 
+resolution, namely ; " Resolved, that a bounty of 
+three hundred dollars, in addition to the bounty and 
+subsistence-money allowed by Congress, be paid to 
+each non-commissioned officer and soldier, who has or 
+shall enlist as one of this State's quota of the Continental army, during the continuance of the present 
+war between the United States of America and Great 
+Britain." This bounty appears to be intended over 
+and above the Continental bounty, and extended to 
+all the soldiers belonging to their quota of the army 
+enlisted at any preceding period. I purpose, to-morrow, to lay the matter before the Assembly, who, it 
+is probable, may have received some particular instruction on the subject, or, at least, that they may 
+conduct as they think proper. 
+On Tuesday last two privateers, belonging to Salem (the Franklin and Jack), sent into that port a 
+large letter-of-niarcjue ship, having on board one thou 
+sand barrels of pork and beef, seven hundred and 
+fifty barrels of flour, eight hundred firkins of butter, 
+and dry goods to the amount of fifteen thousand 
+pounds. 
+</p><p>
+A Dr. Apedale, lately come from <a href='/results.php?city=new york' rel='city'>New York</a> to 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, and, some time before, from Canada to <a href='/results.php?city=new york' rel='city'>New York</a>, reports, that before he left Canada, it was said 
+that about one thousand regulars and Tories, with as 
+many Indians as could be collected and would join 
+them, were to make an excursion on our frontiers on 
+the Mohawk River, as soon as the season was suit 
+able, in two divisions, under the command of John 
+son and Butler; and that Lieutenant-Colonel Stacy 
+was held a prisoner in Canada with a view to be 
+exchanged for Johnson or Butler, should either of 
+them happen to be taken. How much credit is to 
+be given to this report, your Excellency may be able 
+best to determine. 
+</p><p>
+I have the happiness to forward this by Major-General the <a href='/results.php?tla=laf' rel='colleague'>Marquis De Lafayette</a>, who arrived at 
+<a href='/results.php?city=boston' rel='city'>Boston</a> on the 28th instant, where he was received 
+with every demonstration of joy. I have the honor 
+to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter><letter id="wih3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=roxbury' rel='city origin'>Roxbury</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+Since I had the honor of writing you on the 
+28th instant, I have been endeavouring to obtain intelligence of the situation of the enemy at <a href='/results.php?city=halifax' rel='city'>Halifax</a>, 
+&c. I learn that their naval force, not long since, 
+consisted of one ship of seventy-four guns, one of 
+twenty, one sloop of war, and two or three privateers. 
+General McLean, a vigilant officer, commands the 
+land forces, which are said to consist of six regiments, each about five hundred strong, four of which 
+are at <a href='/results.php?city=halifax' rel='city'>Halifax</a>, the other two at different posts in 
+the province. The militia of the town is said to be 
+about eleven hundred. 
+</p><p>
+From a gentleman, of the strictest probity and 
+warmest attachment to our cause, and who has made upwards of forty voyages from <a href='/results.php?city=boston' rel='city'>Boston</a> to <a href='/results.php?city=halifax' rel='city'>Halifax</a>, I 
+learn that, when he was last there, which was before 
+the commencement of hostilities, the enemy had a 
+strong work on George's Island, at the entrance of 
+the harbour; another about half a mile from the centre of the town, and about the same distance from 
+George's Island ; a battery on the east side, about 
+two miles below, or without George's Island ; a battery also at the town ; the ship-yard and Arsenal 
+about a mile above the town, where there is another 
+battery. The basin begins just above the ship-yard, 
+and extends up about six miles northerly, from east 
+to west. Between three and four miles above the 
+Navy Yard was a block-house, at a place called the 
+Narrows. The citadel is on a high hill, back of the 
+town, at the distance of a quarter of a mile, and 
+commands both the town and harbour. The basin is 
+very spacious, capable, perhaps, to contain the whole 
+navy of England. 
+</p><p>
+I have just called at the Honorable Mr. Bowdoin s. 
+He has preserved a chart of the harbour of <a href='/results.php?city=halifax' rel='city'>Halifax</a>; has 
+made several inquiries of the gentleman I mentioned 
+in my last, who, I believe, without the least suspicion, 
+answered every one of them. Mr. Bowdoin is now 
+making some minutes explanatory of the chart and 
+the information he has received from the gentleman. 
+The chart and minutes he will forward by to-morrow's 
+or the next post, to your Excellency. I am looking 
+out for the best pilots, and believe shall find a number of very good ones. 
+</p><p>
+By the last accounts from Penobscot, there were 
+appearances of an evacuation, or the removal of a 
+part of the ordnance and troops to some other place. 
+The garrison at Penobscot, at present, is by no means 
+strong, at most not more than four hundred. Captain 
+La Touche, of his most Christian Majesty's frigate the 
+Hermione, in his late cruise, ran into Penobscot Bay, 
+where he lay for some time, made several signals, 
+and took a plan of the works, which he has forwarded to the Minister at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. It is said the 
+appearance of this frigate in the Bay has caused a 
+great consternation and alarm. 
+</p><p>
+I have just established a correspondence with General Wadsworth, who commands the troops in the 
+eastern parts of this State, and with Colonel Allen, 
+at Machias, and have requested every piece of intelligence they may be able to obtain, either from Halifax or Penobscot. 
+</p><p>
+The last night,, I received most alarming accounts 
+from <a href='/results.php?city=west point' rel='city'>West Point</a>, of the scantiness of provisions and 
+rum at that post, A quantity of the latter is on the 
+road to Springfield. Since I have been here, I have 
+been endeavouring to promote the recruiting service 
+all in my power; but the Court Unfortunately stop 
+ping the towns bounties, in the settlements with the 
+soldiers, has almost totally prevented enlistments. 
+The new Assembly convened this day. I apprehend 
+they will go any lengths that are recommended, to 
+complete their quota, even by drafts, if they cannot 
+be otherwise obtained. I wish to know your Excellency's pleasure, whether I shall urge it, arid how 
+far. 
+</p><p>
+The issuing Commissary here informs me that there 
+are upwards of nine hundred quintals of dry codfish 
+in the stores, a considerable part of which will be 
+in danger of spoiling in the course of the summer, if 
+it is not issued. What pity it is that the army, in 
+their present straits, cannot be relieved by it. 
+</p><p>
+A report prevails, to-day, that the Trumbull frigate 
+and a French ship have re-taken the Iris, formerly 
+the Hancock frigate, off Sandy Hook. I hope it will 
+be confirmed. I have the honor to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

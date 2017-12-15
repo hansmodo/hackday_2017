@@ -1,0 +1,58 @@
+<letter id="sid5020">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='3'>3d</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+My letters from Bordeaux and since, to which I have received no reply, will give you my situation, but lest some 
+of them fail, I will briefly in this give you the history of my proceedings. Immediately on my arrival, I sent forward 
+your bills, a large part of which were protested, and intelligence arriving of the loss of Canada, and that Carleton was 
+even on the frontiers of the Colonies, and at the same time the formidable armament gone and going over, made every 
+one here give up the Colonies as subdued. To have tried for a credit under such circumstances would have been 
+worse than useless ; it would have been mortifying, as a refusal must have been the consequence. Mr Delap generously 
+offered to advance five or six thousand pounds, but when I considered it was already more than four months since you 
+began to prepare for remitting, and that next to nothing was received, I really found myself embarrassed, and hoping 
+every day for some relief, I suspended engaging, and came up to Paris, having previously sent Mr Morris's letter to his 
+different correspondents, not one of which appeared inclinable to be concerned in a credit. 
+</p><p>
+I sent to procure the goods in Amsterdam, if to be had, but found our credit worse there than in France. 
+A gentleman here offered me a credit for a million of livres, but it was, when explained, on the following conditions. I 
+must produce direct authority from the Congress, with their promise of interest ; all American vessels must he sent to 
+his address ; and until this could be secured him I must provide a credit, or in other words a security in Europe. Here 
+you are sensible my negotiation ended. I then contracted for the supplies of the army, and crowded into the contract 
+as large a proportion of woollens as I well could, sensible that with them you might do something, and hoping your 
+remittances might still arrive, or some intelligence of the situation of your affairs, for I thought I judged rightly, that if 
+in six or seven months you were unable to send out one third the remittances, the returns must be equally difficult. On 
+this ground I have been anxiously waiting to hear something from you. Meantime I shipped forty tons of saltpetre, two 
+hundred thousand pounds of powder, via Martinique, one hundred barrels via Amsterdam. The late affairs at 
+Long Island, of which we had intelligence in October, and the burning of <a href='/results.php?city=new york' rel='city'>New York</a>, the report of Carletoa's having 
+crossed the lakes, and that you were negotiating, has absolutely ruined our credit with the greater part of Individuals ; 
+and finding so little prospect of completing the Indian goods, I have attended ilie closer to despatch the supplies for the 
+army, for which I had obtained a credit ostensibly from a private person, but really from a higher source. Meantime 
+the monies remitted are in Mr Delap's hands, except what I have drawn out for my private expenses, for payment of 
+the saltpetre, for the fitting out of Captain Morgan, and for the equipment of certain officers going to America. For the 
+200,000 weight of powder Mr Delap is my surety, consequently should he receive nothing more from you he will 
+have no considerable balance in his hands. Could I have received but one half the amount in any season, I would 
+have ventured on the goods long before this, but to what purpose would it have been, could I have been credited the 
+amount, if you were unable to remit? The same obstruction must subsist against their arrival. I am however at last 
+promised the goods on credit by the san-se way as the stores have been procured, and hope to ship them this month ; but 
+some of the articles are not manufactured any where in Europe except Great Britain, and others must be substituted in 
+the best manner I can. 
+</p><p>
+I have written to Mr Delap to send you his account, also to send the particulars to me, which I will transmit as soon 
+as received. The goods may be expected in the month of February ; meantime I pray you, not on this account only., 
+but on others, to exert yourselves in remitting so much as to 
+support the credit of the Continent, for which I am now engaged to a very great amount. Tobacco, rice, Hour, indigo, 
+peltry, oil, whale fins, flaxseed, spermaceti, masts, spars, he. are in good demand, Tobacco at 9 to 10 sous per lb. 
+and rising, free of duty or expense, save commission. Rice 30 livres per cwt. Flour 22 to 24 livres. 
+</p><p>
+I am, most respectfully, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p><p>
+P. S. When I say tobacco is free of duty, I mean if sold to the Farmers-General directly ; on other conditions it is inadmissible at any rate. 
+</p>
+</letter>

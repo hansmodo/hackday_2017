@@ -1,0 +1,53 @@
+<letter id="laf3722">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=paramus' rel='city origin'>Paramus</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+We arrived last night at this place, and were much 
+favored by the weather in our recognizing of the 
+Island, where, I confess, my feelings were different 
+from what I had experienced when looking at these 
+forts with a hopeful eye. I saw the fatal sentry, alluded to by Colonel Gouvion, on an upper battery of 
+Jeffery's Hook. I also saw a small vessel playing 
+off this Hook J but quite a trifling thing, without 
+guns, and but two men on board. Nothing else on 
+the river but the usual guards of Spiten Devil. 
+</p><p>
+As you have been pleased to consult me on the 
+choice of an Adjutant-General, I will repeat, here, my 
+dear General, that, though I have a claim upon General Hand, in every other point of view, his zeal, 
+obedience, and love of discipline, have given me a 
+very good opinion of him. Colonel Smith has been 
+by me wholly employed in that line, and I can assure you that he will perfectly answer your purpose. 
+</p><p>
+Unless, however, you were to cast your eye on a 
+man who, I think, would suit better than any other 
+in the world. Hamilton is, I confess, the officer whom 
+I should like to see in that station. With equal advantages, his services deserve from you the preference 
+to any other. His knowledge of your opinions and 
+intentions on military arrangements ; his love of discipline ; the superiority he would have over all the others, 
+principally when both armies shall operate together; 
+and his uncommon abilities, — are calculated to render 
+him perfectly agreeable to you. His utility would 
+be increased by this preferment ; and on other points 
+he could render important services. An Adjutant-General ought always to be with the Commander-inchief. Hamilton should, therefore, remain in your 
+family ; and his great industry in business would render him perfectly serviceable under all circumstances. 
+On every public or private account, my dear General, I would advise you to take him. 
+</p><p>
+I shall, on my arrival at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, write you 
+how those matters are going, upon which I build my 
+private schemes. But I heartily wish that some account or other from Europe may enable you to act, 
+this winter, on maritime operations. I hate the idea 
+of being from you for so long a time ; but I think I 
+ought not to stay idle. At all events I must return 
+when your army takes the field. 
+</p><p>
+I flatter myself with the hope of meeting Mrs. 
+Washington on the road. Adieu, my dear General. 
+Most affectionately and respectfully yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

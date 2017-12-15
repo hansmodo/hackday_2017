@@ -1,0 +1,76 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--ccp
+--DOC-AUTHOR-FIRST--Charles
+--DOC-AUTHOR-LAST--Pinckney
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="ccp4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear General, 
+</p><p>
+South Carolina has ratified the Federal Constitution. 
+Our Convention assembled the 12th instant, and yesterday the vote of ratification was taken ; — one hundred and forty-nine ayes, and seventy-three noes. I 
+inclose you a list of the members who voted on each 
+side. You will be pleased to find, that the names 
+you are best acquainted with were in favor of the 
+Constitution, and that those who were against it 
+have declared they would do all in their power to 
+reconcile their constituents to its adoption, and would 
+exert themselves in its support. 
+</p><p>
+Mrs. Pinckney joins me in tendering our best respects to Mrs. Washington and yourself, and to Major 
+Washington and his lady ; and I remain, 
+</p><p>
+With sincere gratitude, for all your favors, &c., 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">Charles Cotesworth Pinckney</a>. 
+</p><p>
+P. S. Major Butler, out of a principle of delicacy 
+too refined, declined serving in the State Convention. 
+You will not therefore see his name among the yeas 
+or nays. 
+</p>
+</letter><letter id="ccp4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>Charleston</a>, <a rel='day origin' value='19'>19</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I am infinitely obliged to you, for having favored me with introductory letters for my nephew, Mr. Horry. It will give him an opportunity of travelling 
+with such great advantage, that every improvement he may thereby acquire, I shall always with gratitude attribute to your benevolent patronage. 
+</p><p>
+We have lately ratified a new Constitution for this 
+State. You will at once see that it is by no means 
+perfect ; but, considering the different interests in this 
+State, it is the best we could make, and the representation is calculated to give numbers and wealth 
+their proper influence. By it, the poor will be protected in their freedom, and the rich in their property ; and it is attended with one great advantage, that 
+might not perhaps attend a Constitution theoretically 
+perfect ; it gives general satisfaction, both to the upper and lower parts of the country-, and was ratified 
+unanimously. The Convention, before they dissolved 
+themselves, prepared and directed an address to you. 
+The Legislature which met last January, did not 
+present an address ; because, as the Convention w^as 
+to meet in May, it was thought that an address from 
+the Legislature could not so properly or forcibly express the sentiments and gratitude of South Carolina, 
+as the Convention of the people. 
+</p><p>
+Mr. Henry Middleton, who served with you in the first Congress, and the son of the deceased Mr. Arthur Middleton, whom you may remember in some 
+subsequent Congresses) will have the honor of delivering you this. He is travelling through the Middle and Northern States, for his improvement, and I 
+have desired him to take charge of this letter, that 
+he may have an opportunity of paying his respects 
+to you, as he passes through <a href='/results.php?city=new york' rel='city'>New York</a>. I have the honor to be, with great gratitude and respect, your 
+much obliged 
+</p><p>
+And most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">Charles Cotesworth Pinckney</a>. 
+</p>
+</letter>

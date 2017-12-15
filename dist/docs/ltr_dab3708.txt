@@ -1,0 +1,49 @@
+<letter id="dab3708">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>, 
+</p><p>
+Dear General, 
+</p><p>
+I am honored with your favor of the 28th ultimo, 
+and am thankful for the contents. I have acknowledged the receipt of your letter of the 29th of December, and shall give every encouragement to General Clark's intended enterprise. I wish he may be 
+in readiness before the waters fail, and the Kentucky 
+settlements are destroyed by the enemy. But I am 
+informed that little or nothing hath as yet been done 
+at his boat-yards, and that the militia he expected 
+from this side of the mountain are availing themselves of the unsettled jurisdiction. 
+</p><p>
+Since my last, a small paper was brought to me 
+by some faithful Indians, who found it rolled up very 
+neatly in a powder-horn, which a disaffected person 
+had lost near the waters of the Sandusky. I take 
+the liberty to inclose a copy of it. I have discovered the writer, and put him in irons; but as, too probably, some of the garrison are concerned, he may 
+escape before he meets the reward of his demerit. 
+Indeed, this place is infested with such a set of disaffected inhabitants, that I have been under the necessity of ordering some away, and others must soon 
+follow, to prevent greater injury to the service. 
+</p><p>
+A number of Delaware Indians, from Coochocking, 
+have been here since my last, and appear to be as 
+friendly as ever. I am persuaded that a few are 
+well affected ; but they are now put to the trial, by 
+being ordered to remove hither without loss of time, 
+and remain under our protection, where their daily 
+transactions will be seen and known. 
+</p><p>
+I have called upon the county Lieutenants for a 
+few of the militia ; and if I am not disappointed as 
+usual, I intend to surprise the Indian towns about 
+Coochocking. Two Delaware Indians, who, in their 
+cups, spoke contemptuously of our service, I have 
+confined in irons ; but I am at a loss what farther to 
+do with them, until I see what number joins us, and 
+hear what their general conduct has been. Immediately after the termination of the intended excursion, 
+I will avail myself of your indulgence to represent 
+the state of things in this district. I have the honor 
+to be, with the most perfect respect and esteem, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p><p>
+P. S. By the arrangement, it appears that Captain Brady is arranged in the third Pennsylvania regiment ; but, as he cannot be more useful than he is 
+in this part of the country, I hope he will be permitted to remain until the campaign is closed. 
+</p>
+</letter>

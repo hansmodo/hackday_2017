@@ -1,0 +1,14 @@
+<letter id="mbc7718">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='18'>18th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. Went out to sell some of my colored dresses. What a scene it was such piles of rubbish, and 
+mixed up with it, such splendid Parisian silks and satins. A mulatto woman kept the shop under a roof in an out-of-the-way old house. The ci-devant rich white women sell to, and the negroes buy of, this woman. 
+</p><p>
+After some whispering among us Buck said : Sally is going to marry a man who has lost an arm, and she is proud 
+of it. The cause glorifies such wounds. Annie said meekly, " I fear it will be my fate to marry one who has lost his 
+head/ " Tudy has her eyes on one who has lost an eye. What a glorious assortment of noble rnartj^rs and heroes ! 
+" The bitterness of this kind of talk is appalling." 
+</p><p>
+<a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> had tears in his eyes when he spoke of his daughter-in-law just dead that lovely little Charlotte Wickham, Mrs. Roony Lee. Roony Lee says " Beast " Butler was very kind to him while he was a prisoner. The " Beast " has sent him back his war-horse. The Lees are men enough to speak the truth of friend or enemy, fearing not the consequences. 
+</p>
+</letter>

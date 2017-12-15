@@ -1,0 +1,33 @@
+<letter id="chl3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new haven' rel='city origin'>New Haven</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+We have been so baffled by the weather, that we 
+only arrived here last night. I believe we shall find 
+no difficulties in procuring a sufficient body of volunteers for the <a href='/results.php?city=new york' rel='city'>New York</a> expedition. The unhappy 
+accounts from Canada seem to animate these people, 
+rather than depress. Indeed, we have new occasion 
+for exertion and decision. I am apprehensive that 
+the Congress must be inspired by you. They have 
+just given a strong, and, I think, unfortunate instance 
+of indecision. Colonel Waterbury had raised a regiment. The regiment was equipped, and ready for embarkation. They were to have landed in Oyster Bay, 
+to have attacked the Tories in Long Island. Lord 
+Stirling was to have attacked them on the other side. 
+All this by order of Congress; when suddenly Colonel Waterbury received an order to disband his regiment ; and the Tories are to remain unmolested till 
+they are joined by the King's assassins. 
+</p><p>
+<a href='/results.php?tla=jht' rel='colleague'><a href='/results.php?tla=jht' rel='colleague'>Governor Trumbull</a></a>, like a man of sense and spirit, has ordered this regiment to be reassembled. I believe it will be ready on Sunday, the day on which 
+I shall march from this town. I shall send immediately an express to the Congress, informing them of my situation, and, at the same time, conjuring them 
+not to suffer the accursed Provincial Congress of <a href='/results.php?city=new york' rel='city'>New York</a> to defeat measures so absolutely necessary to salvation. 
+</p><p>
+The affairs of Canada will, I suppose, very soon, if not instantly, require a very considerable force from this Province. Neither will the circumstances of New 
+York admit of its being too much stripped of men, for which reason I should think it advisable immediately to raise some additional regiments in Massachusetts Bay. Adieu, dear General. God prosper you and the arms of virtue ! 
+</p><p>
+Yours, most sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

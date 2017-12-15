@@ -1,0 +1,68 @@
+<letter id="rhl3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your favor of the 17th I received yesterday, and 
+was a good deal surprised to find you had been told 
+that Congress had appointed General Conway a Major-General. No such appointment has been made ; nor 
+do I believe it will, while it is likely to produce the 
+evil consequences you suggest. It is very true, that 
+both within and without doors, there have been advocates for the measure ; and it has been affirmed that 
+it would be very agreeable to the army, whose favorite Mr. Conway was asserted to be. My judgment 
+on this business was not formed until I received your letter. I am very sure Congress would not take any 
+step that might injure the army, or even have a tendency that way; and I verily believe they wish to 
+lessen your difficulties by every means in their power, 
+from an entire conviction that the purest motives of 
+public good direct your actions. 
+</p><p>
+The business of a Board of War is so extensive, 
+so important, and demanding such constant attention, 
+that Congress see clearly the necessity of constituting a new Board, out of Congress, whose time shall be entirely devoted to that essential department. It 
+is by some warmly proposed that this Board shall 
+be filled by the three following gentlemen; <a href='/results.php?tla=jor' rel='colleague'>Colonel Reed</a>, <a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a>, the present Adjutant-General, and Colonel Harrison, your Secretary 5 and that 
+General Conway be appointed Adjutant-General, in the 
+room of <a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a>. It is my wish, and I am 
+sure it is so of many others, to know your full and 
+candid sentiments on this subject. For my own part, 
+I cannot be satisfied with giving any opinion on the 
+point until I am favored with your sentiments, which 
+I shall be much obliged to you for, Sir, as soon as 
+your time will permit. It has been affirmed that 
+General Conway would quit the service if he were 
+not made a Major-General. But I have been told, in 
+confidence, that he would leave it at the end of this 
+campaign, if he was appointed, unless his word of 
+honor were taken to continue for any fixed time. 
+And it is a question with me, whether the advocates 
+for General Conway will not miss their aim, if he 
+should be appointed Adjutant-General, unless he has 
+the rank of Major-General also. My reason for thinking so is, that I have been informed General Conway 
+desires to retire to his family, provided he can carry 
+from this country home with him a rank that will 
+raise him in France.* 
+</p><p>
+It is very certain that the public good demands a 
+speedy erecting and judicious filling of the new Board 
+of War ; and I sincerely wish it may be done in the 
+most proper manner. I do not imagine Congress 
+would appoint Colonel Harrison without first knowing whether you could spare him; nor do I think 
+that so important an office as that of Adjutant-General should be touched without maturest consideration. 
+</p><p>
+We every moment expect the express, with an ac 
+count that will enable us to congratulate you on the 
+surrender of <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>, and the remains of 
+his shattered army. This will be one of the Prussian 
+sixes, and I augur that the other will soon cast up 
+upon the Delaware. 
+</p><p>
+I am, with sincerest wishes for your health and 
+success, dear Sir, 
+</p><p>
+Your most affectionate and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter>

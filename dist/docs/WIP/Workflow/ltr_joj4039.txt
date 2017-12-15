@@ -1,0 +1,47 @@
+<letter id="joj4039">
+<recipient first="Silas" last="Talbot" type="individual"/>
+<p>
+to capt. silas talbot.
+</p><p>
+Late of the Washington, ship of war, 
+</p><p>
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+Although I have not had the pleasure of your acquaintance, I am not a stranger to your merit. 
+</p><p>
+On receiving your favour of the 11th ult., I sent a copy 
+of it to his excellency <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a>, and warmly recommended your case to his attention. I am persuaded he will 
+do all in his power for your relief, and that the distinguished prisoner of war in England. 
+</p><p>
+Not being authorized by Congress to provide for American prisoners in England, I could not justify undertaking it, 
+and therefore referred your application to <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a>, 
+within whose department that business appears to me 
+to fall. 
+</p><p>
+I shall always be ready as an individual to contribute to 
+the relief of my distressed countrymen, and should now 
+give you proof of it ; but as your case and that of your 
+fellow-prisoners ought to be, and probably are provided for 
+by the public, I think assistance should there be asked and 
+denied, before it can become the duty of private benevolence to supply public omissions. 
+</p><p>
+If the application to <a href='/results.php?tla=ben' rel='colleague met'>Dr. Franklin</a> should be fruitless, I 
+shall then consider myself bound, as a good American, to 
+contribute towards the relief of a fellow-citizen, who has 
+so nobly fought in the cause of our country ; and I shall in 
+that case desire Mr. Williams, at Nantz, who forwarded 
+your letter to me, to advance you fifty dollars on my private 
+account ; which sum you will repay to me whenever you 
+may be in circumstances to do it, for should misfortunes 
+delay or prevent your being in that situation, it would be 
+more agreeable to me to advance you a farther sum, than 
+to demand the repayment of this. 
+</p><p>
+I am, sir, with real esteem, 
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,73 @@
+<letter id="ben4828">
+<recipient first="James" last="Bowdoin" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I should very readily have recommended your Son to the 
+Care of my Friend Dr. Priestly if he had continued to superintend the Academy at Warrington: But he has left that 
+Charge some time since, and is now Pastor of a Congregation at Leeds in Yorkshire. I am much obliged to you for 
+introducing me to the Acquaintance of Mr. Erving, who 
+appears a very intelligent, sensible Man. 
+</p><p>
+The Governing of Colonies by Instructions has long been 
+a favourite Point with Ministers here. About 30 Years since, 
+in a Bill brought into Parliament relating to America, they 
+inserted a Clause to make the King's Instructions Laws in 
+the Colonies, which being opposed by the then Agents, was 
+thrown out. And I well remember a Conversation with Lord 
+Granville soon after my Arrival here, in which he expressed 
+himself on that Subject in the following Terms; "Your 
+American Assemblies slight the King's Instructions, pretending that they are not Laws. The Instructions, sent over to 
+your Governors, are not like the Pocket Instructions given 
+to Embassadors, to be observ'd at their Discretion as Circumstances may require. They are drawn up by grave Men 
+learned in the Laws and Constitutions of the Realm; they 
+are brought into Council, thoroughly weigh'd, well considered, 
+and amended if necessary by the Wisdom of that Body; 
+and when receiv'd by the Governors, are the Law of the Land ; 
+for the King is the Legislator o) the Colonies" 
+</p><p>
+I remember this the better, because being new Doctrine 
+to me, I put it down as soon as I return'd to my Lodging. 
+To be sure if a Governor thinks himself oblig'd to obey all 
+Instructions, whether consistent or inconsistent with the Constitution, Laws and Rights of the Country he governs, and can 
+proceed to govern in that Train, there is an End of the Constitution, and those Rights are abolish'd. But I wonder, 
+that any honest Gentleman can think there is Honour in being 
+a Governor on such Terms. And I think the Practice cannot 
+possibly continue, especially if opposed with Spirit by our 
+Assemblies. At present no Attention is paid by the American 
+Minister to any Agent here whose Appointment is not ratified by the Governor's Assent; and if this is persisted in, 
+you can have none to serve you in publick Character that do 
+not render themselves agreable to these Ministers; those 
+otherwise appointed can only promote your Interests by 
+Conversation as private Gentlemen or by Writing. 
+</p><p>
+Virginia had, as you observe, two Agents, one for the Council, the other for the Assembly ; but I think the latter only was 
+considered as Agent for the Province. He was appoint'd 
+by an Act, which expired in the time of Lord Botetourt, and 
+was not revived. The other I apprehend continues, but I 
+am not well acquainted with the Nature of his Appointment. 
+I only understand that he does not concern himself much 
+with the general Affairs of the Colony. 
+</p><p>
+It gives me great Pleasure that my Book afforded any to 
+my Friends. I esteem those Letters of yours among its 
+brightest Ornaments; and have the Satisfaction to find, 
+that they add greatly to the Reputation of American Philosophy. 
+</p><p>
+There is in the Governor's Collection of Papers relative 
+to the History of the Colony of Massachusetts Bay, published 
+<a href='/results.php?year=1769'>1769</a>, a Copy of an Answer made by Randolph to several 
+Heads oj Enquiry, which I take to be the same with those I 
+sent you. I shall be very glad to have an Account of the present Number of rateables, when you can obtain it for me. 
+</p><p>
+In Ireland among the Patriots I din'd with Dr. Lucas.
+They are all Friends of America, in which I said every thing 
+I could think of to confirm them. Lucas gave <a href='/results.php?tla=jab' rel='met'>Mr. Bowdoin</a> 
+of <a href='/results.php?city=boston' rel='city'>Boston</a> for his Toast. My best respects to Mrs. Bowdoin. 
+With sincere and great Esteem, I am, dear Sir, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

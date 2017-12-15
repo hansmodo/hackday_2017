@@ -1,0 +1,28 @@
+<letter id="rim5003">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+CAMP NEAR <a href='/results.php?city=st johns' rel='city origin'>ST. JOHNS</a>, <a rel="month origin" value="10">OCTOBER</a> <a rel='day origin' value='6'>6TH</a> [<a href='/results.php?year=1775' rel="origin">1775</a>]. 
+</p><p>
+MY DEAR JANET : 
+</p><p>
+It is with inexpressible concern I find by a letter from 
+your <a href="/results.php?tla=rol" rel="kin met">father</a> that you are ill. I wish he had kept the intelligence a secret ; I do not want any addition to my uneasiness. 
+That this may find you recovered is my warmest wish ! 
+</p><p>
+Little change has happened since my last. 1 still wait for reinforcement ; the troops have hitherto gone home sick, almost 
+as fast as they came. We have been like half-drowned rats crawling thro' the swamp, but the weather is now much altered 
+for the better, and I hope it will continue. I believe we shall in a few days set about our business in earnest. If powder don't 
+fail us, 1 think we shall finish this affair. I have had overtures for an accommodation from St. Luke Le Come, and some other 
+principal people of <a href='/results.php?city=montreal' rel='city'><a href='/results.php?city=montreal' rel='city'>Montreal</a></a>. He is a great villain and as cunning as the devil, but I have sent a New Englander to negotiate with him. 
+</p><p>
+Had we twice or thrice as many men, everything would long ago have been settled. All the lower class of people are 
+anxious for our success, but have been intimidated much by our weakness, lest by a miscarriage they should be left to the vengeance of tyranny. 
+</p><p>
+I am extremely sorry to hear of your <a href="/results.php?tla=rol" rel="kin met">father's</a> indisposition and your mother's, but hope most sincerely their health may by 
+this time be reestablished. My affectionate duty attends them and also your grandfather. 
+</p><p>
+Farewell, my dear Janet ; believe me ever yours, 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

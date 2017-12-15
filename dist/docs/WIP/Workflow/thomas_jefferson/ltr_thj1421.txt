@@ -1,0 +1,60 @@
+<letter id='thj1421'>
+<recipient first='' last='' type='individual'/>
+<p>
+TO MESSRS. N. AND J. VAN STAPHORST, Amsterdam.
+</p><p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, July 30, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Gentlemen,
+</p><p>
+I received yesterday your favor of the 25th. Supposing that the funds,
+which are the object of your inquiry, are those which constitute what
+we call our domestic debt, it is my opinion that they are absolutely
+secure: I have no doubt at all but that they will be paid, with their
+interest at six per cent. But I cannot say that they are as secure and
+solid as the funds which constitute our foreign debt: because no man
+in America ever entertained a doubt that our foreign debt is to be paid
+fully; but some people in America have seriously contended, that the
+certificates and other evidences of our domestic debt, ought to be
+redeemed only at what they have cost the holder; for I must observe
+to you, that these certificates of domestic debt, having as yet no
+provision for the payment of principal or interest, and the original
+holders being mostly needy, have been sold at a very great discount.
+When I left America (July, <a href="/results.php?year=1784">1784</a>,) they sold in different States at from
+15s. to 2s. 6d. in the pound; and any amount of them might, then have
+been purchased. Hence some thought that full justice would be done, if
+the public paid the purchasers of them what they actually paid for them,
+and interest on that. But this is very far from being a general opinion;
+a very great majority being firmly decided that they shall be paid
+fully. Were I the holder of any of them, I should not have the least
+fear of their full payment. There is also a difference between different
+species of certificates; some of them being receivable in taxes, others
+having the benefit of particular assurances, &c. Again, some of these
+certificates are for paper-money debts. A deception here must be guarded
+against. Congress ordered all such to be re-settled by the depreciation
+tables, and a new certificate to be given in exchange for them,
+expressing their value in real money. But all have not yet been
+re-settled. In short, this is a science in which few in America are
+expert, and no person in a foreign country can be so. Foreigners should
+therefore be sure that they are well advised, before they meddle with
+them, or they may suffer. If you will reflect with what degree of
+success persons actually in America could speculate in the European
+funds, which rise and fall daily, you may judge how far those in Europe
+may do it in the American funds, which are more variable from a variety
+of causes.
+</p><p>
+I am not at all acquainted with Mr. Daniel Parker, farther than having
+once seen him in <a href="/results.php?city=Philadelphia" rel="city">Philadelphia</a>. He is of Massachusetts, I believe, and
+I am of Virginia. His circumstances are utterly unknown to me. I think
+there are few men in America, if there is a single one, who could
+command a hundred thousand pounds' sterling worth of these notes, at
+their real value. At their nominal amount, this might be done perhaps
+with twenty-five thousand pounds sterling, if the market price of
+them be as low as when I left America. I am with very great respect,
+Gentlemen,
+</p><p>
+your most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

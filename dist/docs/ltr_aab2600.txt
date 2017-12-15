@@ -1,0 +1,40 @@
+<letter id="aab2600">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=washington" rel="city origin">Washington City</a>, <a rel="month origin" value="4">April</a> <a rel="day origin" value="15">15th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+DEAR SIR : Your very interesting letter of the 21st of December, arrived here just after I had passed through 
+this city on my way to South Carolina, and was not received until about two months after its date : the subject of it has since that time been daily in my mind. 
+Independently of considerations personal to myself, I learn with the utmost pleasure that you are to be restored 
+to the social and the active world. Your talents and acquirements seem to have destined you for something 
+more than vegetable life, and since the first hour of our acquaintance, I have considered your seclusion as a fraud on society. 
+</p><p>
+The confidence you have been pleased to place in me is extremely flattering, and it would seem that there has 
+been, without explanation, a sort of consent between our minds. In a matter of so much moment, and on which I 
+am so imperfectly informed, it would be hazarding too much to offer advice ; yet it is due to the frankness of 
+your letter, to acknowledge that I had projected, and still meditate, a speculation, precisely of the character you 
+have described. It would have been submitted to your consideration in October last, if I had then the good for 
+tune to find you at home. The business, however, depends, in some degree, on contingencies, not within 
+my control, and will not be commenced before December or January, if ever. From this circumstance, and as the 
+matter, in its present state, can not be satisfactorily explained by letter, the communication will be deferred 
+until a personal interview can be had. With this view I pray to be informed of your intended movements the 
+ensuing season, and in case you should visit Orleans, at what time, and at what port you may be expected on the 
+Atlantic coast. But I must insist that these intimations be not permitted to interrupt the prosecution of any 
+plans which you have formed for yourself no occupation which shall not take you off the continent can interfere 
+with that which I may propose. You would certainly be pleased, probably charmed, with the manners and the 
+society of Orleans. As a place of business, too, it offers great advantages ; most of those who style themselves 
+lawyers, are become visionary speculators, or political fanatics. Mr. Brown, by avoiding these follies, has in 
+spired confidence, and is growing rich. The country is deficient in the means of education, and the climate is 
+thought, I believe with reason, unfriendly to children. 
+</p><p>
+"We shall have no war unless we should be actually invaded. Some estimate of the views and temper of our 
+Government may be formed from the proceedings of the House of Representatives, with closed doors. A copy of 
+that part of their journal is sent for your amusement. 
+</p><p>
+Accept, dear sir, assurances of the great consideration and respect with which I am, 
+</p><p>
+Yours obediently, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p><p>
+<a href="/results.php?tla=hnb" rel="met colleague">H. BLENNERHASSETT</a>, ESQ. 
+</p>
+</letter>

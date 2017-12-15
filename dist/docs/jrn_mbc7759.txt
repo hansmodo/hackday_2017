@@ -1,0 +1,15 @@
+<letter id="mbc7759">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Yesterday I broke down gave way to abject terror under the news of <a href='/results.php?tla=wts' rel=''>Sherman's</a> advance with no 
+news of my husband. To-day, while wrapped up on the sofa, too dismal even for moaning, there was a loud knock. 
+Shawls on and all, just as I was, I rushed to the door to find 
+a telegram from my husband : "All well ; be at home Tuesday." It was dated from Adam's Run. I felt as lighthearted as if the war were over. Then I looked at the date and the place Adam's Run. It ends as it began in a run 
+Bull's Run, from which their first sprightly running astounded the world, and now Adam's Run. But if we must 
+run, who are left to run? From Bull Run they ran fullhanded. But we have fought until maimed soldiers, women, 
+and children are all that remain to run. 
+</p><p>
+To-day Kershaw's brigade, or what is left of it, passed through. What shouts greeted it and what bold shouts of 
+thanks it returned ! It was all a very encouraging noise, absolutely comforting. Some true men are left, after all. 
+</p>
+</letter>

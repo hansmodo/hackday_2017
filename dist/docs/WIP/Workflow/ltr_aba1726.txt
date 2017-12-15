@@ -1,0 +1,31 @@
+<letter id='aba1726'>
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href="http://www.familytales.org/results.php?city=braintree" rel="city">Braintree</a>, 12 November, <a href="http://www.familytales.org/results.php?year=1775">1775</a>. 
+</p><p>
+THE intelligence you will receive before this reaches you, will, I should think, make a plain path, though 
+a dangerous one, for you. I could not join to-day, in the petitions of our worthy pastor, for a reconciliation between our no longer parent state, but tyrant 
+state, and these colonies. Let us separate ; they are unworthy to be our brethren. Let us renounce them ; and, instead of supplications as formerly, for 
+their prosperity and happiness, let us beseech the Almighty to blast their counsels, and bring to nought all their devices. 
+</p><p>
+I have nothing remarkable to write you. A little skirmish happened last week ; the particulars I have 
+endeavoured to collect, but whether I have the facts right, I am not certain. A number of cattle were 
+kept at Lechmere's point, where two sentinels were placed. In a high tide, it is an island ; the regulars 
+had observed this, and a scheme was laid to send a number of them over and take off the stock. Accordingly a number of boats and about four hundred 
+men were sent. They landed, it seems, unperceived by the sentinels, who were asleep ; one of whom 
+they killed, and took the other prisoner. As soon as they were perceived, they fired the cannon from 
+Prospect Hill upon them, which sunk one of their boats ; but, as the tide was very high, it was difficult 
+getting over, and some time before any alarm was given. A Colonel Thompson, of the riflemen, marched instantly with his men ; and, though a very stormy day, they regarded not the tide nor waited for boats, 
+but marched over neck high in water, and discharged their pieces, when the regulars ran, without waiting to get off their stock, and made the best of their way to the opposite shore. The General sent his thanks in a public manner to the brave officer and 
+his men. <a href="/results.php?tla=thm" rel="met acquaintance">Major Mifflin</a>, I hear, was there, and flew about as though he would have raised the whole army. May they never find us deficient in courage and spirit. 
+</p><p>
+<a href="/results.php?tla=ben" rel='met acquaintance'>Dr. Franklin</a> invited me to spend the winter in <a href="http://www.familytales.org/results.php?city=philadelphia" rel="city">Philadelphia</a>. I shall wish to be there unless you return. I have been like a nun in a cloister, ever since you went away, and have not been into any 
+other house than my father's and sister's, except once to Colonel Quincy's. Indeed, I have had no 
+inclination for company. My evenings are lone some and melancholy. In the daytime family affairs take off my attention, but the evenings are 
+spent with my departed parent. I then ruminate upon all her care and tenderness, and am sometimes 
+lost and absorbed in a flood of tenderness, ere I am aware of it, or can call to my aid my only prop and 
+support. I must bid you adieu ; t'is late at night. 
+</p><p>
+Most affectionately yours. 
+</p>
+</letter>

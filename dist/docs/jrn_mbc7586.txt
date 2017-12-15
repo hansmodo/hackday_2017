@@ -1,0 +1,18 @@
+<letter id="mbc7586">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='13'>13th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Hon. Robert Barnwell says, " The Mercury's influence began this opposition to Jeff Davis before 
+he had time to do wrong. They were offended, not with him 
+so much as with the man who was put into what they considered Barnwell Rhett's rightful place. The latter had 
+howled nullification and secession so long that when he found his ideas taken up by all the Confederate world, he 
+felt he had a vested right to leadership/ 
+</p><p>
+Jordan, <a href='/results.php?tla=pgb' rel='met'>Beauregard's</a> aide, still writes to Mr. Chesnut that the mortality among the raw troops in that camp is 
+fearful. Everybody seems to be doing all they can. Think of the British sick and wounded away off in the Crimea. 
+Our people are only a half -day's journey by rail from 
+Richmond. With a grateful heart I record the fact of reconciliation with the Wigfalls. They dined at the Presi 
+dent's yesterday and the little Wigfall girls stayed all night. 
+</p><p>
+<a href='/results.php?tla=wls' rel=''>Seward</a> is feting the outsiders, the cousin of the Emperor, Napoleon III., and Russell, of the omnipotent London Times. 
+</p>
+</letter>

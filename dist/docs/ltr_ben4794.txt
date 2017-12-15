@@ -1,0 +1,39 @@
+<letter id="ben4794">
+<recipient first="Du Pont" last="De Nemours" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="10">Oct.</a> 	<a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I received with great Pleasure the Assurances of your kind 
+Remembrance of me, and the Continuance of your Good will 
+towards me, in your Letter by M. le Comte Chreptowitz. 
+I should have been happy to have rendered him every Civility 
+and Mark of Respect in my Power (as the Friend of those I 
+so much respect and honour) if he had given me the Opportunity: But he did not let me see him. 
+</p><p>
+Accept my sincere Acknowledgements and Thanks for the 
+valuable Present you made me of your excellent Work on the 
+Commerce of the India Company, which I have perused with 
+much Pleasure and Instruction. It bears throughout the 
+stamp of your Masterly Hand, in Method, Perspicuity, & 
+Force of Argument. The honourable Mention you have 
+made in it of your Friend is extremely obliging. I was 
+already too much in your Debt for Favours of that kind. 
+</p><p>
+I purpose returning to America in the ensuing Summer, 
+if our Disputes should be adjusted, as I hope they will be 
+in the next Session of Parliament. Would to God I could take 
+with me Messrs, du Pont, du Bourg, and some other French 
+Friends with their good Ladies! I might then, by mixing 
+them with my Friends in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, form a little happy 
+Society that would prevent my ever wishing again to visit 
+Europe. 
+</p><p>
+With great and sincere Esteem and Respect, I am, Dear Sir, 
+Your most obedient 
+</p><p>
+& most humble servant, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

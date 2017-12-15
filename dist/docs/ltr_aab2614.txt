@@ -1,0 +1,14 @@
+<letter id="aab2614">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=york" rel="city origin">York</a>, <a rel="month origin" value="3">March</a> <a rel="day origin" value="9">8th</a>, <a href="/results.php?year=1813" rel="origin">1813</a>. 
+</p><p>
+SIR : Your letter of the 24th January has been some days in my hands, and I have been searching but in vain 
+for something to enlighten me as to the nature of the action which you would propose to bring against Wilkins, 
+etc. No objection, however, occurs to me against making the assignment you ask. When you shall inform me of 
+the grounds of the proposed suit, if they shall appear to me to be well founded, and not calculated to produce a 
+reaction on myself, it is probable I may accede to your wishes without delay, not, however, with any reservation of an interest as you have proposed. 
+</p><p>
+I am, sir, your obedient, <a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p>
+</letter>

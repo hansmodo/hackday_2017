@@ -1,0 +1,28 @@
+<letter id="jod3605">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='9'>9</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+THE Senate are now in possession of the budget. It 
+is a bone to gnaw for the aristocrats as well as the 
+democrats, and while I am employed in attending the 
+digestion of it, I send you enclosed an amusement 
+which resembles it only in name. I can form no 
+judgment when the process will be over. We must 
+wait with patience. 
+</p><p>
+I dined yesterday, in the family way, with the 
+President. He told me that the American minister 
+at the <a href='/results.php?city=hague' rel='city'>Hague</a> had been very regular and intelligent in 
+his correspondence. The whole family made the 
+usual inquiries concerning you and sent you the usual 
+compliments. 
+</p><p>
+Be very careful, my dearest friend, of what you 
+say, in that circle and city. The times are perilous. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

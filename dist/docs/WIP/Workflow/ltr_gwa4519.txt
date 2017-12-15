@@ -1,0 +1,28 @@
+<letter id="gwa4519">
+<recipient first="Jean Baptiste" last="de Vimeur" type="individual"/>
+<p>
+TO COUNT DE ROCHAMBEAU. 
+</p><p>
+<a href='/results.php?city=kings ferry' rel='city origin'>King's Ferry</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have this moment the honor of your letter by Monsieur Blanchard. I am very sorry for the difficulties 
+and impediments, which fall in the way of your march, 
+and hope they will decrease as you proceed. I have 
+the pleasure to inform your Excellency, that my troops 
+arrived at the Ferry yesterday, and began to pass the 
+river at ten o'clock in the morning, and by sunrise of 
+this day they were all completely on this side of the 
+river. I hope your army will be enabled to cross with 
+the same facility when they arrive. 
+</p><p>
+I have no news worthy of communicating from any 
+quarter. I shall be happy in your company to-morrow 
+at dinner at my quarters, and will meet you at the 
+ferry to-morrow by eight o'clock, when we will either 
+be furnished with some cold repast en passant, or I will 
+take you to my quarters about three miles from the 
+Ferry, where you shall be introduced to a warm breakfast. I have the honor to be, &c. 
+</p>
+</letter>

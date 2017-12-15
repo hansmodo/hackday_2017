@@ -1,0 +1,56 @@
+<letter id="nib5269">
+<recipient first="Charles" last="Ingersoll" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="2">Feby</a>. <a rel='day origin' value='11'>11</a>. <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+. . . Here am I, who have taken a fancy to this Bank &amp; having built it up with infinite care am striving to keep it I 
+from being destroyed to the infinite wrong as I most sincerely &amp; conscientiously believe of the whole country. To me all other considerations are insignificant I mean to stand by 
+it &amp; defend it with all the small faculties which <a href='/results.php?city=providence' rel='city'>Providence</a> 
+has assigned to me. I care for no party in politics or religion 
+have no sympathy with <a href='/results.php?tla=anj' rel='adversary'>Mr Jackson</a> or <a href='/results.php?tla=hec' rel='colleague'>Mr Clay</a> or <a href='/results.php?tla=wiw' rel='colleague'>Mr Wirt</a> or <a href='/results.php?tla=jcc' rel='colleague'>Mr Calhoun</a> or Mr Ellmaker or <a href='/results.php?tla=mvb' rel='adversary'>Mr Van Buren</a>. 
+I am for the Bank &amp; the Bank alone. Well then, here comes <a href='/results.php?tla=anj' rel='adversary'>Mr Jackson</a> who takes it into his head to declare that the Bank 
+had failed &amp; that it ought to be superceded by some ricketty machinery of his own contrivance. <a href='/results.php?tla=anj' rel='adversary'>Mr Jackson</a> being the 
+President of the U.S. whose situation might make his ignorance mischeivous, we set to work to disenchant the country of their foolery &amp; we have so well succeeded that I will venture to say that there is no man, no woman, &amp; no child in U.S. who does not understand that the worthy President was in a great error. . .
+</p><p>
+It remains to see how its evil consequences may be averted. 
+It seems to me there is no one course by which his friends may 
+extricate him not merely safely but triumphantly. He has 
+made the Bank a Power. He has made the Bank a deciding 
+question as to his own selection. Now let him turn this power 
+to his own advantage. As yet the Bank is entirely uncommitted the Bank is neither for him nor against him. In 
+this state let his friends come forward boldly, &amp; taking the 
+Bank out of the hands of their enemies, conciliate back the 
+honest friends whom their rashness has alienated, and who 
+think that the only difficulty which he has yet to overcome 
+is the dread of their internal convulsion to which the prostration of the Bank will lead. The most extraordinary part 
+of the whole matter is that the President &amp; the Bank do not 
+disagree in the least about the modifications he desires. He 
+wishes some changes The Bank agrees to them and yet 
+from some punctilio which is positively purile his rash friends 
+wish him to postpone it. Do they not perceive that his enemies are most anxious to place him in opposition to the Bank ? 
+And should not every motive of prudence induce him to disappoint their calculations ? The true &amp; obvious theory seems 
+to me to disarm the antagonists of their strongest weapon 
+to assume credit for settling this question for the administration. If the present measure fails, it carries bitterness into 
+the ranks of the best part of the opposition. If it succeeds without the administration it displays their weakness. If the 
+bill passes &amp; the President negatives it, I will not say that it will destroy him but I certainly think it will &amp; moreover 
+I think it ought to. I can imagine no question which seems 
+more exclusively for the representatives of the people than 
+the manner in which they choose to keep &amp; to manage the 
+money of the people. 
+</p><p>
+... I suppose the President has been made to believe that 
+the Bank is busy in hostility to him you know how wholly 
+unfounded this is. For myself I do not care a straw for him 
+or his rivals I covet neither his man servant nor even 
+his maid servant, his ox nor any of his asses. Long may he live 
+to enjoy all possible blessings, but if he means to wage war 
+upon the Bank if he pursues us till we turn &amp; stand at 
+bay, why then he may perhaps awaken a spirit which has 
+hitherto been checked &amp; reined in and which it is wisest--^ 
+not to force into offensive defence. 
+</p><p>
+Ponder over these things and believe me 
+</p>
+</letter>

@@ -1,0 +1,33 @@
+<letter id="gom4643">
+<recipient first="Alexander" last="Hamilton" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>   <a rel="month origin" value="2">February</a> <a rel='day origin' value='16'>16th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My last was of the sixteenth of January, of which I now 
+enclose a copy. It has so happened that a very great pro 
+portion of the French officers, who served in America, have 
+been either opposed to the revolution at an early day, or felt 
+themselves obliged at a later period to abandon it. Some of 
+them are now in a state of banishment, and their property confiscated. Among these last there are a few, who had entrusted 
+to their agents the certificates received from our treasury, and 
+these last under the pressure of penal decrees either detain 
+those certificates, or have delivered them up to those persons 
+appointed by the republic to take charge of confiscated property. 
+</p><p>
+There certainly can be no question on this subject, under 
+the laws hitherto existing among nations ; but I shall not undertake to decide either on rights or pretensions to right, 
+especially where I am not authorised to act ; but it is proper 
+that I should lay before you a state of facts, for your ulterior 
+decision. The only one at present before me is the case of 
+Colonel Laumoy, to whom I shall write in answer to his ap 
+plications, that I am not authorised to make payment but on 
+production of the certificate, and therefore he must address 
+himself on the subject to you, in the full confidence that right 
+and justice will take place, such being the clear determination 
+of the United States. I am, &tc. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

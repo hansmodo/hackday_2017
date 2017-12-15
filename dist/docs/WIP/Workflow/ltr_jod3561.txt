@@ -1,0 +1,34 @@
+<letter id="jod3561">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=braintree' rel='city origin'>Braintree</a>, 	<a rel="day origin" value='2'>2</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+BEFORE this time I hope you have the happiness to 
+see your daughter J out of all danger, and your son- 
+in-law and your two grandchildren in perfect health. 
+I have no letter from you since that you wrote at 
+<a href='/results.php?city=hartford' rel='city'>Hartford</a>, and I cannot find fault, because this is the 
+first I have written to you. We are all very well, 
+and go on very well. We are all in a flurry with 
+politics. Mr. Dalton and Mr. Strong are senators, 
+and Mr. Lowell will be representative for the district 
+of Suffolk, as is generally supposed. Mr. Varnum, 
+Mr. Partridge, Colonel Leonard, Mr. Grout? Mr. Sedgwick or Mr. Lyman, Mr. Jackson, or Mr. Dane, 
+or Mr. Goodhue, Mr. Thatcher or Colonel Sewell, are named for other districts. 
+</p><p>
+My love to our children, and respects and regards 
+wherever you please. Don t be uneasy on account 
+of your family here, nor in haste to come home before 
+a good opportunity presents. I don t enter into any 
+political details. My mind has balanced all circumstances, and all are reducible to two articles vanity 
+and comfort. I have the alternative in my own power. 
+If they mortify my vanity, they give me comfort. 
+They cannot deprive me of comfort without gratifying my vanity.
+</p><p>
+I am, my dearest friend, yours forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

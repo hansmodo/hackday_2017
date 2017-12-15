@@ -1,0 +1,9 @@
+<letter id="mbc7576">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='14'>14th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mr. Chesnut remained closeted with the President and <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> all the afternoon. The news 
+does not seem pleasant. At least, he is not inclined to tell me any of it. He satisfied himself with telling me how sensible and soldierly this handsome <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> is. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee's</a> military sagacity was also his theme. Of course the President dominated the party, as well by his weight of 
+brain as by his position. I did not care a fig for a description of the war council. I wanted to know what is in 
+the wind now ? 
+</p>
+</letter>

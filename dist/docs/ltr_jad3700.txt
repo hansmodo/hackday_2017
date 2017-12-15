@@ -1,0 +1,80 @@
+<letter id="jad3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='10'>10</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Yesterday I had the honor of your Excellency's 
+very friendly letter of the 4th instant, for which be 
+pleased to accept my warmest thanks. 
+</p><p>
+Before this reaches jour hands, you will have received the new arrangement of the army. Submitted, 
+as it is, to your opinion, it is only to be considered 
+as an essay, open to such alterations as you may 
+suggest. The idea of a majority of Congress was 
+clear, that it would be too hazardous to risk the defence of America on the practicability of drawing an 
+army for the war into the field by the first of January. The alternative, therefore, as you will find it 
+guarded, was thought necessary, though all admitted 
+a permanent force to be most desirable. I saw and 
+explained the danger of an alternative, however cautiously expressed. The States may think they do 
+enough if they comply with either of the injunctions; 
+and while men who make arms a profession have a 
+prospect of being annually retained for high premiums, they will hardly tie themselves at once for 
+the war. 
+</p><p>
+In the original proposition there was another alternative, — for the war, or for three f/ears ; besides that 
+which gives your Excellency so much and such just 
+apprehension. This last was rejected by a majority, 
+perhaps unfortunately, as, in The opinion of many, it 
+strengthened the reasons for the annual supply by 
+drafts. I do not think it too late to correct this error, if pointed out with the force that every thing 
+falls from your pen. The manner of reduction is, 
+I am confident, liable to great objection, and I have 
+no doubt but you will suggest a rule, or principle, 
+or any thing you may think better, which will avoid 
+the difficulty you suggest, and meet with approbation ; for I do not conceive that a single member 
+will be tenacious of the provision on this article. Indeed, I am persuaded that your Excellency's representations, on this and every subject, will have as much influence as you can wish; and that, on this 
+particular occasion, nothing hut a clear conviction of 
+impracticability will induce Congress to overrule your opinion. 
+</p><p>
+A false estimate of the power and perseverance of 
+our enemies was friendly to the present revolution, 
+and inspired that confidence of success, in all ranks 
+of people, which was necessary to unite them in so 
+arduous a cause. You cannot forget the opinions 
+which were current on this floor, at the first and 
+second Congresses, and how firmly they established 
+this error. We seem to part with it with reluctance; 
+it still hangs heavy upon us, and has produced the 
+indecision, the expedients, and the debility of which 
+you complain. I hope misfortunes and distresses will, 
+at length, rouse us to just sentiments and vigorous 
+exertions, and, with your Excellency, I pray God, 
+that the fatal delusion which has marked our conduct, may end here. 
+</p><p>
+When the enemy turn their eyes to the southward, 
+they see too much imbecility not to be encouraged 
+to attempt to extend their conquest, and improve 
+advantages which they have derived, in no small 
+degree, from our own temerity and misconduct. I 
+believe we shall not want men to oppose them, Virginia having made efforts, the expensiveness of which 
+is incredible, and North Carolina being equally disposed to act vigorously, though not so capable to 
+raise their quota, for a fixed and certain period. I 
+wish we may have it in our power to provide the 
+necessary supplies. Your Excellency too well knows 
+and feels our difficulties and embarrassments, and that 
+they are only to be surmounted by great exertions. 
+I flatter myself that you do me no more than justice 
+in believing that duty and inclination equally demand 
+my assiduous endeavours to correct our past errors, 
+and draw forth our resources. 
+</p><p>
+I am much obliged to your Excellency for your 
+account of the interview at <a href='/results.php?city=hartford' rel='city'>Hartford</a>; and beg you 
+to believe, that no man can be with greater affection 
+and personal attachment than I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jad" rel="me">James Duane</a>. 
+</p>
+</letter>

@@ -1,0 +1,94 @@
+<letter id="alh3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head-Quarters, <a href='/results.php?city=fishkill' rel='city origin'>Fishkill</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I lodged last night in the neighbourhood of New 
+Windsor. This morning early, I met Colonel Morgan 
+with his corps, about a mile from it, in march for 
+head-quarters. I told him the necessity of making 
+all the despatch he could, so as not to fatigue his 
+men too much which he has promised to do. 
+</p><p>
+I understand, from Colonel Morgan, that all the 
+Northern army were marching down on both sides the 
+river, and would probably be to-morrow at <a href='/results.php?city=new windsor' rel='city'>New Windsor</a> and this place; and that <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a> had 
+held a Council for the general disposition of them, in 
+which it was resolved to send you four thousand men. 
+and to keep the rest on this side the river. I came 
+here in expectation that matters were in such a train 
+as to enable me to accomplish my errand without 
+going any farther, unless it should be to hasten the 
+troops that were on their march. But, on my arrival, I learn from Mr. Hughes, an Aid-de-camp of 
+General Grates, that the following disposition of the 
+Northern army had taken place. 
+</p><p>
+General Patterson's, Glover's, and Nixon's brigades, 
+and Colonel Warner's Mountain Boys to remain in 
+and about <a href='/results.php?city=albany' rel='city'>Albany</a>; barracks building for them. 
+</p><p>
+General Poor's brigade, marching down this side of 
+the river to join <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, will probably be 
+here to-morrow. General Learned's brigade, Morgan's 
+corps, Warner's brigade of Massachusetts militia, and 
+some regiments of <a href='/results.php?city=new york' rel='city'>New York</a> militia, on their march 
+on the west side of the river. 
+</p><p>
+I have directed <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, in your name, 
+to send forward, with all despatch, to join you, the 
+two Continental brigades and Warner's militia brigade. 
+This last is to serve till the latter end of this month. 
+Your instructions did not comprehend any militia; 
+but as there are certain accounts here that most of 
+the troops from <a href='/results.php?city=new york' rel='city'>New York</a> are gone to reenforce 
+General Howe, and as so large a proportion of the 
+Continental troops have been detained at <a href='/results.php?city=albany' rel='city'>Albany</a>, I 
+concluded you would not disapprove of a measure 
+calculated to strengthen you, though but for a small 
+time, and have ventured to adopt it, on that presumption. 
+</p><p>
+Being informed, by <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, that General 
+Winds, with seven hundred Jersey militia, was at 
+King's Ferry, with intention to cross to <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, I 
+prevailed upon him to relinquish that idea, and send 
+off an immediate order for them to march towards 
+Red Bank. 
+</p><p>
+It is possible, however, unless your Excellency sup 
+ports this order by an application from yourself, he 
+may march his men home instead of to the place he 
+has been directed to repair to. Neither Lee's [nor] Jackson's regiments, nor the detachments belonging 
+to <a href='/results.php?tla=alm' rel='colleague'>General McDougall</a>'s division, have yet marched. 
+I have pressed their being sent, and an order has 
+been despatched for their instantly proceeding. 
+</p><p>
+Colonel Hughes is pressing some fresh horses for 
+me. The moment they are ready, I shall recross the 
+river in order to fall in with the troops on the other 
+side, and make all the haste I can to <a href='/results.php?city=albany' rel='city'>Albany</a>, to get 
+the three brigades there sent forward. 
+</p><p>
+Will your Excellency permit me to observe, that I 
+have some doubts, under present circumstances and 
+appearances, of the propriety of leaving the regiments 
+proposed to be left in this quarter? But if my 
+doubts on this subject were stronger than they are, I 
+am forbid, by the sense of Council, from interfering 
+in this matter. I have the honor to be, with the 
+warmest esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p><p>
+P. S. General Poor's brigade is just arrived here. 
+They will proceed to join you with all expedition. 
+So strongly am I impressed with the importance of 
+endeavouring to crush Mr. Howe, that I am apt to 
+think it would be advisable to draw off all the Continental troops. Had this been determined on, General 
+Warner's sixteen hundred militia might have been 
+left here. 
+</p>
+</letter>

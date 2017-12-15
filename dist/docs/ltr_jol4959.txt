@@ -1,0 +1,25 @@
+<letter id="jol4959">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='13'>13th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+I have barely time, my dearest friend and father, 
+to say that my heart overflows with gratitude at the 
+repeated proofs of your tender love ; and must defer 
+answering your kind letters of the 6th and 10th , till 
+my return from Count D'Estaing's fleet, where the 
+General has thought proper to send me with dispatches. I must immediately prepare for my journey and voyage. I could wish that Mons r Le Comte 
+were furnished with a proper number of intelliGen. coast pilots ; that as many pilot boats, schooners and other small swift sailing vessels were employed under 
+the conduct of judicious seamen, to reconnoitre the enemy's fleet whenever it appears at sea, and give 
+the French admiral the earliest account of their strength, &ca., as well as keep him constantly advised afterwards of all their motions. 
+</p><p>
+The movement of our army across the I^orth river, 
+to make demonstration near ~N. York, may have a 
+happy effect in preventing the English admiral from 
+making his fleet so strong as he otherwise would. 
+</p><p>
+God protect you, my dear father. 
+</p><p>
+JOHN LAURENS.
+</p>
+</letter>

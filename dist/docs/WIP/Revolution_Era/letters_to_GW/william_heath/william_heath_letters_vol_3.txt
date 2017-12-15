@@ -1,0 +1,325 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.vC5Naz on line 207
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--wih
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Heath
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wih3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I arrived here the last night, and this morning 
+had the honor of congratulating Monsieur le <a href='/results.php?tla=cdr' rel='colleague met'>Compte De Rochambeau</a>, and Monsieur le <a href='/results.php?tla=cdt' rel='colleague met'>Chevalier De Ternay</a>, 
+on their safe arrival in this harbour. The fleet consists of seven sail of the line ; — the Due de Burgogne, of eighty guns ; Le Neptune and Le Conquerant, of seventy-four; Le Jason, L'Eville, L' Ardent, 
+and Le Provence, of sixty-four; Le Fantasque, hospital ship, of sixty-four, mounts forty guns; two frigates and two bombs, with about five thousand land forces and one thousand marines. 
+</p><p>
+The inhabitants appear disposed to treat our allies 
+with much respect. The town is to be illuminated 
+this evening, by a vote of the inhabitants. For myself, I am charmed with the officers. I have promised them every assistance in my power. Monsieur 
+Rochambeau has desired me to publish an advertisement, inviting the inhabitants to bring small meats, 
+vegetables, &c., to market, and that they shall receive 
+hard money in payment. This the Count intended 
+with a good view to our currency. I have told him it will have a different effect, and that even at a 
+distance. I shall, therefore, only assure the farmers 
+that they will receive a handsome price. I have the 
+honor to be, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a> 
+</p><p>
+P. S. Inclosed is copy of a resolve of the General Assembly of this State. I have ventured to grant a 
+pardon to such deserters from <a href='/results.php?tla=chg' rel='colleague met'>Colonel Greene</a>'s regiment as return by the first of September next, and 
+hope it will meet your Excellency's approbation, as 
+some of the deserters are at a distance. 
+</p>
+</letter><letter id="wih3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>, 
+</p><p>
+Dear General, 
+</p><p>
+Nothing of any considerable consequence has happened since I had the honor last to write you. The 
+French troops are landed, and encamped in a fine 
+situation, to the south-east of the town, and extend 
+nearly across the Island. The troops make a good 
+appearance. The legion, under the command of the 
+<a href='/results.php?tla=cdl' rel='colleague met'>Duke De Lauzun</a> (the officer who took Senegal the 
+last year), is as fine a corps as ever I saw. It is 
+about six hundred strong. The officers express, the 
+highest satisfaction at the treatment they meet with. 
+The markets are become very good, and great regularity is preserved. In short, in every respect, I may 
+say, hitherto every thing appears agreeable and satisfactory. 
+</p><p>
+I have this moment received a letter from a gentleman in <a href='/results.php?city=boston' rel='city'>Boston</a>, advising that a vessel is just sent 
+into that port, which was one of a fleet of thirty-six sail from Ireland for <a href='/results.php?city=new york' rel='city'>New York</a>. I have given information of it to the General and Admiral, and, I apprehend, some of the fleet will go out on a cruise. The 
+Hermione has been cruising for these three or four 
+days. 1 have the honor to he, with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter><letter id="wih3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, 10 o'clock, P. M., <a rel='day origin' value='21'>21</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+This afternoon, fifteen or sixteen British ships of 
+war have made their appearance off this harbour, 
+to the eastward of Block Island. More than half of 
+them, I think, are ships of the line. From appearances, at sun-setting, they intended to come to, under 
+Block Island. 
+</p><p>
+Admiral Graves has probably joined Admiral Arbuthnot, and their design is to block up the fleet of 
+Monsieur le <a href='/results.php?tla=cdt' rel='colleague met'>Chevalier De Ternay</a>, and, if possible, intercept the expected second division of the French 
+fleet. I thought it my duty to give immediate notice to your Excellency, and beg leave to submit the 
+expediency of some small cruisers being immediately 
+sent from the Delaware, to cruise for the French 
+fleet, and direct them to a place of safety. I have 
+written to the Council and Navy Board, at <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+and proposed the same, in case the fleet should take 
+the eastern coast. I have mentioned this to his 
+Excellency, <a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a>, who was so much 
+pleased with it, that he requested I would write, for 
+that he should leave it wholly with me. 
+</p><p>
+This night is spent in mounting a number of guns 
+at advantageous posts at the entrance of the harbour, 
+to make a cross-fire with the ships, &c. There are 
+with the army a number of good engineers, and an 
+exceedingly fine corps of artillery, with a numerous 
+train of field-artillery, and some battering cannon. 
+</p><p>
+I had ordered <a href='/results.php?tla=chg' rel='colleague met'>Colonel Greene</a>'s regiment to march 
+immediately for the main army, but, under present 
+appearances, I think it best to detain them a few 
+days. I have ordered them to take post at Butts's 
+Hill, at the north end of the Island, to secure the 
+communication. This has given much satisfaction to 
+<a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a>, and I hope will meet with your 
+Excellency's approbation. I have the honor to be, 
+with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>.
+</p>
+</letter><letter id="wih3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='25'>25</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Nothing of consequence has transpired since I had 
+the honor last to write to you. The British fleet continue off the harbour, sometimes at anchor, at other 
+times cruising. Yesterday afternoon I counted twelve 
+sail, principally large ships, at anchor, and four sail 
+of frigates and sloops of war, cruising ; the former 
+to the east of Block Island, the latter between that 
+place and Point Judith. Their intention, undoubtedly, is to block up the squadron under the command 
+of <a href='/results.php?tla=cdt' rel='colleague met'>Monsieur De Ternay</a>, intercept the expected second 
+division of our allies, cut ofi all supplies by water, 
+and impede the operations of the campaign; and, I 
+fear, without the arrival of a further naval force, they 
+have laid an embargo on the squadron now here. 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> arrived here the last 
+evening. Universal joy was diffused throughout the 
+camp. I have the honor to be, with the greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p><p>
+P. S. The troops, which put into <a href='/results.php?city=boston' rel='city'>Boston</a>, arrived here last night, by the way of <a href='/results.php?city=providence' rel='city'>Providence</a>. Inclosed is a return of the platform plank, at this place, belonging to the public. 
+</p><p>
+Upon the appearance of the British fleet, standing 
+in for this place, I ordered <a href='/results.php?tla=chg' rel='colleague met'>Colonel Greene</a>'s regiment, 
+and the recruits for the Rhode Island line, who were 
+under orders to march to the army, to take post at 
+Howland's and Bristol Ferry, Butts's Hill, and the 
+dock where our flat-bottomed boats lie. This gave 
+great satisfaction to <a href='/results.php?tla=cdr' rel='colleague met'>Count Rochambeau</a>, who, under 
+present appearances, is very earnest to have them 
+remain a few days longer, for the security of the 
+ferry, flat-bottomed boats, &c. The <a href='/results.php?tla=laf' rel='colleague met'>Marquis</a> is of the 
+same opinion. 
+</p>
+</letter><letter id="wih3704">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, 9 o'clock, P M., <a rel='day origin' value='25'>25</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+This afternoon the intelligence, contained in the 
+inclosed, came to hand; upon which <a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a> immediately made a requisition for two thousand militia. I have called upon Governor Greene 
+for fifteen hundred men, and on Brigadier Godfrey, 
+of the brigade in the county of Bristol, Massachusetts, for eight hundred. <a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a> says 
+that in six days he shall be safe, without the assistance of the militia. I have written to the Council of 
+<a href='/results.php?city=boston' rel='city'>Boston</a>, that, if their militia for reenforcing the army 
+for three months are detached, and not marched, those 
+from the counties of Suffolk, <a href='/results.php?city=plymouth' rel='city'>Plymouth</a>, Barnstable, 
+and Bristol, may march to Tiverton, which will not 
+be greatly out of their way to the place of their 
+destination ; and, should Sir Henry Clinton be coming 
+this way, they may answer a good purpose. It will also be less burdensome to the militia, who, after so 
+great drafts as have been lately made, will think an 
+additional one, in the midst of harvest, almost insurmountable. 
+</p><p>
+If Sir Henry should not come this way, there shall 
+be no needless detention of any of the levies. The 
+<a href='/results.php?tla=laf' rel='colleague met'>Marquis De Lafayette</a> is in sentiment with me in this 
+particular. I hope it will not be disagreeable to your 
+Excellency. It cannot, at any rate, make a detention 
+of more than five or six days. It is with pain that 
+I call on the militia to turn out; but <a href='/results.php?tla=cdr' rel='colleague met'>General Rochambeau</a> is so pressing in his application, that he 
+cannot be denied. Indeed, if Sir Henry, Clinton has 
+a land force to spare from <a href='/results.php?city=new york' rel='city'>New York</a>, adequate to 
+the enterprise, I think he never had a more inviting 
+object than the present situation and circumstances 
+of things offer him here. I have the honor to be, 
+with the greatest respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a> 
+</p><p>
+P. S. The article of bread will be obtained, I fear, 
+with much difficulty, for the troops that will assemble here. 
+</p>
+</letter><letter id="wih3705">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='26'>26</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+By a variety of intelligence, from various quarters 
+(all which agree) the enemy intend to make an attempt on the fleet and army of our great and good 
+ally at this place. I have called for the neighbouring militia of Massachusetts, and the whole of this 
+State. I have also requested the Council of Massachusetts to send all the three months' militia this 
+way, except those of the counties of Hampshire and 
+Berkshire. Whilst these are collecting, with the advice of the <a href='/results.php?tla=laf' rel='colleague met'>Marquis</a>, I shall call on <a href='/results.php?tla=jht' rel='colleague met'>Governor Trumbull</a> to send one thousand militia from the nearest 
+towns of Connecticut, to rendezvous at Greenwich. I 
+have the honor to be, with the greatest respect, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p><p>
+P. S. The fleet off the harbour, from their first 
+appearance, have kept nearly the same station, to the 
+eastward of Block Island. 
+</p>
+</letter><letter id="wih3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Garrison, <a href='/results.php?city=west point' rel='city origin'>West Point</a>, 7 o'clock P. M. ; 	<a rel='day origin' value='6'>6</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+</p><p>
+The inclosed this moment came to hand, which I 
+beg to submit to your Excellency. This wall be forwarded at gun-firing in the morning. I detain the 
+express, and wish your answer, if agreeable, by the 
+return of the bearer, that Colonel Hull may have notice as early as possible. Colonel Thomas mentioned 
+the matter in a letter to me yesterdays but, as it did not come from Colonel Hull, I took no notice of 
+it. If the plan should be approved, it will probably 
+be necessary to furnish the militia with some ammunition. As to burning the houses at Morrisania, although they are a nest for the nefarious enemy, yet, 
+as many of them belong to persons friendly to our 
+cause, who have been obliged to abandon their habitations, it may not only be impolitic but injurious to 
+do it. However, I will advise as your Excellency 
+may think fit to direct. 
+</p><p>
+I must confess, I do not well like the militia having so much to do in the matter. Notifying and 
+collecting men from three regiments, among whom 
+many disaffected persons reside, and upon the very 
+line of the enemy, is very likely to give air of the 
+design; and a knowledge of the design will tend to 
+blow the whole. I have the honor to be, with the 
+greatest respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter><letter id="wih3707">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, 	<a rel='day origin' value='15'>15</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear General, 
+I arrived here yesterday afternoon, found the General Assembly sitting, and presented your letter to 
+<a href='/results.php?tla=jht' rel='colleague met'>Governor Trumbull</a>, together with a representation, 
+containing the spirit of my instructions. This morning I attended the Governor, Council, and the Representatives in the Council Chamber, when the papers were read, and I had an opportunity to speak on 
+them. The papers were committed to a Committee 
+of both Houses. I have the pleasure to acquaint 
+your Excellency, they had that attention paid to 
+them which their interesting importance required. A 
+resolution has passed to send on immediately one 
+hundred and sixty head of beef-cattle, which, it is 
+supposed, will amount to five thousand rations per 
+day, to the 1st of June. One thousand barrels of 
+salted meat are also to be forwarded with the greatest 
+despatch, with a quantity of rum. There are about 
+a thousand barrels of salted meat deposited in this 
+town ; it has been repacked, and is well stored. I 
+shall endeavour, in the morning, to obtain a return 
+of the whole quantity which has been procured in 
+this State. I believe an accurate return has never 
+been given in of the whole. 
+</p><p>
+An addition is made to the Committee of both 
+Houses, who are to proceed to the consideration of 
+the great supply for the campaign. Their resolutions 
+on this head I think will equal your expectations. I 
+have sent an express to Mr. Phelps, to forward all 
+the beef-cattle he can command, without a moment's 
+delay. I shall proceed to Rhode Island to-morrow, 
+I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter><letter id="wih3708">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newport' rel='city origin'>Newport</a>, <a rel='day origin' value='31'>31</a> <a rel="month origin" value="7">July</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+In consequence of intelligence, received yesterday 
+morning from the westward, that the fleet of transports, which were lately in the Sound, and supposed 
+to be coming this way, had sailed towards <a href='/results.php?city=new york' rel='city'>New York</a>, 
+General Count de Rochamheau expressed his pleasure 
+that the militia, which had arrived and were on their 
+march for his support, except those detached for 
+three months, should return home, I immediately 
+communicated it to them. 
+</p><p>
+Nothing could have exceeded the spirit which has 
+been shown by the militia on this occasion. The hint 
+given by the Count, that he had come to their support, but at that moment stood in need of theirs, instantly fired every breast, and old and young, of all 
+denominations, were determined to rush into the field 
+to his aid. The Count expresses the highest pleasure 
+and satisfaction, as do all the officers on this occasion. The Count wishes to detain the three months' 
+men a few days, to secure the pass at Howland's 
+Ferry. I have the honor to be, with the greatest 
+respect. 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">William Heath</a>. 
+</p>
+</letter>

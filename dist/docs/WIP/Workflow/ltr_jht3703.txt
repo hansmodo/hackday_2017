@@ -1,0 +1,92 @@
+<letter id="jht3703">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+State of Connecticut, <a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="11">November</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+The very interesting and important news of the 
+surrender of General Lord CornwalliS; with the British 
+army, shipping, &c., &c., under his command, reached 
+me on the 26th ultimo by a vessel from the Chesapeake to Rhode Island ; and the full confirmation, a 
+few days since by a letter from my son. My warmest and most sincere congratulations await your Excellency on an event so honorable and glorious to 
+yourself, so interesting and happy to the United 
+States ; — an event, which cannot fail to strengthen 
+the impressions of the European powers in favor of the 
+great and good cause, in which you have so long and 
+so successfully contended, and go far to convince the 
+haughty King of Great Britain, that it is in vain to 
+persevere in his cruel and infamous purpose of enslaving a people, who can boast of Generals and armies that neither fear to meet his veterans in the 
+high places of the field, or pursue them to their 
+strong-holds of security, and for whose help the arm 
+of the Almighty has been made bare, and his salvation rendered gloriously conspicuous; — an event, 
+which will hasten the wished-for happy period, when 
+your Excellency may retire to and securely possess 
+the sweets of domestic felicity and glorious rest from 
+the toils of war, surrounded by the universal applauses of a free, grateful, and happy people. 
+</p><p>
+The very important assistance and powerful cooperation afforded by the fleet and army of our illustrious ally, the King of France, demand the most 
+grateful acknowledgments. The gallant and intrepid conduct of the Commanders and Officers of both, has 
+acquired them great glory, and entitles them and 
+their army to the warmest thanks of America. 
+</p><p>
+Your Excellency has been made acquainted with 
+the destruction lately committed upon New London 
+and Groton, by a considerable force of the enemy 
+under the infamous traitor, whose name and memory 
+should rot. A force much more considerable has been 
+kept there since. They have done much to repair 
+the injury done to the fortifications; and particularly 
+that on Groton side, which entirely commands the 
+town and harbour, is already in much better condition than before, and the work is still going on. 
+And, as I take it for granted that part of the naval 
+force of his most Christian Majesty will remain on 
+the station through the winter, I would take leave 
+to offer to the consideration of your Excellency, that 
+they may be stationed at the port of New London, 
+which I conceive would be attended with advantages 
+superior, with respect to themselves and the country, 
+to any place they could choose. The harbour is very 
+sufficient to contain any number and size of ships ; 
+is peculiarly safe from the injuries of wind or storms. 
+Its immediate connection with the main renders it 
+accessible by the militia in case of need; and, adjoining to a country, through the favor of <a href='/results.php?city=providence' rel='city'>Providence</a> 
+at present abounding with every kind of provision 
+they can want, will render their supplies much more 
+easy and safe than at the Island where they last 
+wintered, and where they received great part of their 
+supplies by water from New London, exposed to loss 
+and capture, and which actually did, and must always, happen in some instances. 
+</p><p>
+I have very lately received a pressing request from 
+his Excellency, the General of Martinico, for large supplies of fresh beef from this State, for the use of 
+the garrisons and hospitals there. I purpose to permit and encourage private adventures to furnish it, 
+which must be shipped from that port. The lying 
+of a fleet there would greatly secure and protect the 
+coasts, for a considerable distance, against the armed 
+vessels of the enemy, who will doubtless get knowledge of the design, and be engaged to intercept vessels with such cargoes. And, for their more effectual protection, I must also request a convoy of a 
+frigate, armed sloop, or something adequate, for any 
+number of vessels which may be ready to sail, and 
+ask your Excellency's direction in that respect also 
+and on the assurance of which, I doubt not, a full 
+and speedy supply might and would be afforded ; 
+and without it I fear it will fall short. 
+</p><p>
+Permit me to add, in favor of the town which has 
+so severely suffered, that a fleet stationed there would 
+also afford relief and help to many of the distressed 
+inhabitants, who have lost their all; and would be 
+a protection to as much property, taken from the 
+enemy, as perhaps is brought into any port standing 
+in need of such protection. 
+</p><p>
+On the whole, I submit these and other reasons, 
+which will readily occur to your Excellency's wisdom 
+and candor. With every sentiment of esteem and 
+consideration, I have the honor to be, your Excellency's 
+</p><p>
+Most obedient and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">Jonathan Trumbull</a>. 
+</p>
+</letter>

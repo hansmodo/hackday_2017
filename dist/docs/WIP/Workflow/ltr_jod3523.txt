@@ -1,0 +1,73 @@
+<letter id="jod3523">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="13">13</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+YOURS of 15th December was sent me yesterday by 
+the Marquis, whose praises are celebrated in all the 
+letters from America. You must be content to receive 
+a short letter, because I have not time now to write a 
+long one. I have lost many of your letters, which 
+are invaluable to me, and you have lost a vast number of mine. Barnes, Niles, and many other vessels 
+are lost. 
+</p><p>
+I have received intelligence much more agreeable 
+than that of a removal to Holland ; I mean that of 
+being reduced to a private citizen, which gives me 
+more pleasure than \ ou can imagine. I shall there 
+fore soon present before you your own good man. 
+Happy happy indeed shall I be, once more to see 
+our fireside. I have written before to Mrs. Warren, 
+and shall write again now. Dr. J. is transcribing your 
+Scotch song, which is a charming one. Oh, my 
+leaping heart ! 
+</p><p>
+I must not write a word to you about politics, be 
+cause you are a woman. 
+</p><p>
+What an offence have I committed ! A woman ! 
+</p><p>
+I shall soon make it up. I think women better 
+than men, in general, and I know, that you can keep a 
+secret as well as any man whatever. But the world 
+don t know this. Therefore if I were to write my 
+sentiments to you, and the letter should be caught 
+and hitched into a newspaper, the world would say, I 
+was not to be trusted with a secret. 
+</p><p>
+I never had so much trouble in my life as here, 
+and yet I grow fat. The climate and soil agree with 
+me. So do the cookery and even the manners of the 
+people, of those of them at least that I converse with, 
+churlish republican as some of you on your side 
+the water call me. The English have got at me in 
+their newspapers. They make fine work of me 
+fanatic, bigot, perfect cipher, not one word of the 
+language, awkward figure, uncouth dress, no address, 
+no character, cunning, hard-hearted attorney ; but the 
+falsest of it all is, that I am disgusted with the Parisians. Whereas I admire the Parisians prodigiously. 
+They are the happiest people in the world, I believe, 
+and have the best disposition to make others so. If I 
+had your ladyship and our little folks here, and no 
+politics to plague me, and a hundred thousand livres 
+a year rent, I should be the happiest being on earth. 
+</p><p>
+Nay, I believe I could make it do with twenty thousand. 
+</p><p>
+One word of politics. The English reproach the 
+French with gasconade, but I don t believe their 
+whole history could produce so much of it as the 
+English have practised this war. The commissioners proclamation with its sanction from the ministry 
+and ratification by both houses, I suppose is hereafter 
+to be interpreted like Burgoyne's, " Speaking daggers 
+but using none." They cannot send any considerable reinforcement, nor get an ally in Europe. This, 
+I think, you may depend upon. Their artifice in 
+throwing out such extravagant threats was so gross, 
+that I presume it has not imposed on any. Yet a nation that regarded its character never could have 
+threatened in that manner. 
+</p><p>
+Adieu. 
+</p>
+</letter>

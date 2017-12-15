@@ -1,0 +1,30 @@
+<letter id="joj4062">
+<recipient first="Benjamin" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="9">Sept.</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have been favoured with your letter of yesterday, and will answer it explicitly. 
+</p><p>
+I have no reason whatever to believe that you was averse to our obtaining the lull extent of boundary and fishery secured to us by the treaty. Your conduct respecting them throughout the negotiation indicated a strong and 
+a steady attachment to both these objects, and in my opinion, promoted the attainment of them. 
+</p><p>
+I remember that in a conversation which Mr. de Rayneval, the first secretary of Count de Vergennes, had with you and me, in the summer of <a href='/results.php?year=1782'>1782</a>, you contended for 
+our full right to the fishery, and argued it on various principles. 
+</p><p>
+Your letters to me, when in Spain, considered our territory as extending to the Mississippi, and expressed your 
+opinion against ceding the navigation of that river in very strong and pointed terms. 
+</p><p>
+In short, sir, I do not recollect the least difference in sentiment between us respecting the boundaries or fisheries ; 
+on the contrary, we were unanimous and united in adhering to and insisting on them. nor did I ever perceive the least disposition in either of us to recede from our claims, or be satisfied with less than we obtained. 
+</p><p>
+I have the honour to be, with great respect and esteem, 
+</p><p>
+Sir, 
+</p><p>
+Your most obedient and very humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

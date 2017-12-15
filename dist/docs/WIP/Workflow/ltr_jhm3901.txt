@@ -1,0 +1,44 @@
+<letter id="jhm3901">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received yours of the 8th instant late last evening. I now write to 
+Heriot and Tucker about the indigo, which you will forward to 
+them. I answered your former letter respecting Mr. Philip Porcher, 
+by referring you to the orders I had given respecting those who should 
+come from within the enemy's lines; lest any accidents should have 
+happened to that dispatch, I now enclose it. These orders are general, 
+therefore unnecessary to observe upon the other. I have already in 
+formed you that <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself agreed to the last proposition 
+you made respecting Maham's and <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> corps, which was to continue <a href='/results.php?tla=peh' rel='colleague'>Horry's</a> dismounted, to act as infantry. If the matter can be 
+accommodated upon this plan, I shall give myself no further trouble 
+about it, as they have so little time to serve. Whilst I am on this subject, I must take notice of the conduct of Mr. Thomas Drayton, who 
+was sent to the southward to impress horses. He has made so improper 
+a use of the authority given him, that I have been obliged to order him 
+on no account to impress another horse, and to return such as he had 
+impressed. The reason of my ordering him to return those he had 
+taken was, that at all events Maham would have <a href='/results.php?tla=peh' rel='colleague'>Horry's horses</a>, and 
+consequently could not want more; however, whether the thing takes 
+place or not, the impressing of horses is attended with such ruinous 
+consequences, that I am determined not to countenance it. You will, 
+therefore, sir, look upon the authority given you on the 6th of March 
+last, for impressing horses, as hereby revoked. I have given no com 
+missions in the second regiment. I did give <a href='/results.php?tla=top' rel='colleague'>Mr. Thomas Pinckney</a> a 
+certificate for a commission in the first regiment before I knew of the 
+form observed for commissions in the regiments of this State. You say 
+the application can only be made to the Colonel of the regiment. In this 
+</p><p>
+case the Governor, who has the sole right to appoint if he chooses to 
+exercise it, becomes a mere machine. At all events, I shall expect a 
+decent regard to be paid to any recommendation from me. This is a 
+point I do not think I am at liberty to give up. I should be glad Mr. Hall's baggage was sent forward, as the public papers in it are much 
+wanted. 
+</p><p>
+I am, sir, with esteem and regard, your most obdt. servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

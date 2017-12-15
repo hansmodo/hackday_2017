@@ -1,0 +1,27 @@
+<letter id="mbc7789">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. My silver wedding-day, and I am sure the unhappiest day of my life. Mr. Portman came with Christopher Hampton. Portman told of Miss Kate Hampton, who is perhaps the most thoroughly ladylike person in the world. 
+When he told her that <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> had surrendered she started up from her seat and said, " That is a lie." " Well, Miss Hampton, I tell the tale as it was told me. I can do no more. 
+</p><p>
+No wonder John Chesnut is bitter. They say Mulberry has been destroyed by a corps commanded by General Logan. Some one asked coolly, " Will General Chesnut be shot as a soldier, or hung as a senator? " " I am not of sufficient consequence," answered he. " They will stop short of brigadiers. I resigned my seat in the United States Senate weeks before there was any secession. So I can not be hung as a senator. But after all it is only a choice between drumhead court martial, short shrift, and a lingering death at home from starvation." 
+</p><p>
+These negroes are unchanged. The shining black mask they wear does not show a ripple of change ; they are 
+sphinxes. Ellen has had my diamonds to keep for a week or so. When the danger was over she handed them back to 
+me with as little apparent interest in the matter as if they had been garden peas. 
+</p><p>
+Mrs. Huger was in church in Richmond when the news of the surrender came. Worshipers were in the midst of 
+the communion service. Mr. McFarland was called out to send away the gold from his bank. Mr. Minnegerode's English grew confused. Then the President was summoned, and distress of mind showed itself in every face. The night 
+before one of <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee's</a> aides, Walter Taylor, was married, and was off to the wars immediately after the ceremony. 
+</p><p>
+One year ago we left Richmond. The Confederacy has double-quicked down hill since then. One year since I 
+stood in that beautiful Hollywood by little Joe Davis's grave. Now we have burned towns, deserted plantations, 
+sacked villages. You seem resolute to look the worst in the face," said General Chesnut, wearily. " Yes, poverty, with 
+no future and no hope." li But no slaves, thank God! " cried Buck. " We would be the sdbrn of the world if the 
+world thought of us at all. You see, we are exiles and paupers." " Pile on the agony." " How does our famous 
+captain, the great <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a>, bear the Yankees galling chain? " I asked. "He knows how to possess his soul in patience, 
+answered my husband. " If there were no such word as subjugation, no debts, no poverty, no negro mobs backed by 
+Yankees ; if all things were well, you would shiver and feel benumbed," he went on, pointing at me in an oratorical 
+attitude. " Your sentence is pronounced Camden for life." 
+</p>
+</letter>

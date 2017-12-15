@@ -1,0 +1,32 @@
+<letter id='thj1346'>
+<recipient first='' last='' type='individual'/>
+<p>
+TO JOHN PAGE.
+</p><p>
+<a href="http://www.familytales.org/results.php?city=Williamsburg" rel="city">Williamsburg</a>,
+</p><p>
+January 22, <a href="http://www.familytales.org/results.php?year=1779">1779</a>.
+</p><p>
+Dear Page,
+</p><p>
+I received your letter by Mr. Jamieson. It had given me much pain, that
+the zeal of our respective friends should ever have placed you and me
+in the situation of competitors. I was comforted, however, with the
+reflection, that it was their competition, not ours, and that
+the difference of the numbers which decided between us, was too
+insignificant to give you a pain, or me a pleasure, had our dispositions
+towards each other been such as to admit those sensations. I know you
+too well to need an apology for any thing you do, and hope you will for
+ever be assured of this; and as to the constructions of the world, they
+would only have added one to the many sins for which they are to go to
+the devil. As this is the first, I hope it will be the last, instance
+of ceremony between us. A desire to see my family, which is in Charles
+City, carries me thither to-morrow, and I shall not return till Monday.
+Be pleased to present my compliments to Mrs. Page, and add this to the
+assurances I have ever given you, that I am, dear Page,
+</p><p>
+your affectionate friend,
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

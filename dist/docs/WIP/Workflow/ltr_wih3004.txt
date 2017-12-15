@@ -1,0 +1,117 @@
+<letter id="wih3004">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=westchester' rel='city origin'>Westchester</a>, <a rel="day origin" value="6">6</a> <a rel="month origin" value="2">February</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The last evening I received the honor of yours of 
+the 3d and 4th instant, which has given me great 
+pain. Perhaps I may venture to say, that no officer 
+is more attentive to orders or more anxious to carry 
+them into execution, than I am. When I received your Excellency's orders to march towards King's 
+Bridge, nothing could be more agreeable than the 
+manoeuvre ; but I cannot say the taking the command of a body of troops, entirely militia, was so. 
+It was indeed far otherwise. Before I received your 
+Excellency's orders to move myself towards King's 
+Bridge, upon the application of the Committee of the 
+State of <a href='/results.php?city=new york' rel='city'>New York</a>, I appointed General Parsons to 
+take the command of the troops destined for their 
+secret expedition. He gave me his answer in writing , accepting the command in obedience to orders, 
+but, at the same time, desiring that his answer might 
+remain in writing, that it might appear, that although 
+he cheerfully obeyed orders, yet that he considered 
+the taking the command of a body of militia for 
+such an attempt, to use his own words, as a sacrifice 
+of his character. By your Excellency's orders to me, 
+his has escaped, but it seems mine is to receive the 
+fatal stab. As I feel myself much interested in this 
+matter, your Excellency will bear with me to be a little explicit, and to recapitulate the whole expedition. 
+Upon my arrival before the fort, I summoned the garrison to surrender, as your Excellency is sensible 
+is the practice on the first investing of a place ; and 
+this in particular I did at the motion of a gentleman 
+before I left <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, as it was supposed the garrison consisted of Hessian troops ; and, from some preceding circumstances, it might answer a very good 
+purpose. And although some of the enemy may 
+laugh at a fort being summoned, and not taken, I 
+believe they will scarcely publish the summons. After this I called a Council of War, as I did in every 
+instance of importance during our continuance before 
+the fort, and in every one of them the Council were 
+unanimous. I have taken the liberty to inclose one of them, to wit, that preceding our remove, by which 
+your Excellency will perceive that the landing of 
+Lord Percy, to surround us, was not so much as mentioned. 
+</p><p>
+The facts were briefly these. The troops were 
+scattered in a circle of more than eight miles. We had tried to hut them, but the rain, preceding our 
+remove, had driven four of <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a>'s regiments from their huts, with the loss of nearly all 
+their ammunition. The enemy had sallied, early one 
+morning, and surprised one of our out-guards. The 
+regiment nearest the place were struck with a panic, 
+and had quitted their quarters, leaving their baggage. 
+The troops were so scattered as not to be collected 
+in less than two or three hours ; in which case, those 
+who were quartered within cannon shot of the fort, 
+as was the case, would be entirely cut to pieces be 
+fore they could be supported. A diffidence and uneasiness were discovered in even the bravest officers. 
+In such a situation, and a universal desire to get 
+more advantageously quartered, every officer objected 
+to a storm, as they apprehended the militia inadequate to such an enterprise. Every purpose, it was 
+supposed, would be, and has been ^answered, by the 
+troops in their present cantonment, except that of 
+reducing the fort. 
+</p><p>
+lS T o officer could be more anxious to effect some 
+thing to purpose than I have been during the expedition here, or more harassed, perplexed, and fatigued, 
+with an undisciplined militia ; and if, after all this, 
+and having taken every step agreeably to the result 
+in the Councils of War, I am to be censured, it is 
+truly discouraging. However, if there has been error 
+in judgment, we have all been in the dark, except 
+some who may be distinguished for their sense and judgment. But, if I am not mistaken in them, their 
+military propositions, in some instances, have been as 
+laughable as my summons may be. It is not uncommon for those unacquainted with military operations 
+to expect as much from undisciplined as disciplined 
+troops, if their numbers are considerable ; but, in our 
+present case, the officers of artillery, one and all, in 
+formed me, that they could not be accountable for 
+the artillery, if they were to be covered with militia; 
+and every officer, acquainted with service, was wishing 
+for a few Continental troops, when our conquest would 
+have been easy. 
+</p><p>
+I thank your Excellency for your secret admonition, but must entreat that you would be pleased to 
+let me know who were your Excellency's informers, 
+as you were pleased to mention that they were some 
+who have been with me. I think, what your Excellency is pleased to mention with respect to the fo 
+rage, we are pursuing. I am a little at a loss for your 
+final determination, as to my conduct here. In your 
+letter of the 3d instant, you are pleased to direct 
+that, after fixing a number of troops in this quarter 
+and at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, the remainder should immediately 
+march forward and join you; and in your letter of 
+the 4th, you are pleased to advise some further at 
+tempts on the fort. The last night I ordered a large 
+scouting party to march, at one o clock this morning, 
+from Ward s, to surprise the out-guards near Fort 
+Independence, and attempt whatever might appear 
+practicable. I have not as yet heard from them. I 
+had yesterday ordered some of the troops lower 
+down, and to take quarters below "Ward s. I shall 
+immediately endeavour to make the necessary arrangement directed by your Excellency, and shall, in 
+obedience to your orders, consult Colonel Duer; other-wise I should not do it in military matters, although 
+I much esteem him for his good sense and judgment 
+in other affairs. It will, most probably, be several 
+days before the troops can move, in which time I 
+hope to hear again from you; and in the mean time 
+I can assure your Excellency, they shall not be idle. 
+I thank your Excellency for the leave you have 
+been pleased to grant me to ride to New England. 
+Nothing but necessity could have induced me to solicit the favor. I shall endeavour to return in about 
+four weeks from the time that I leave <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, 
+which will give me about two weeks at home. I 
+have the honor to be, 
+</p><p>
+Your Excellency's most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

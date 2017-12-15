@@ -1,0 +1,26 @@
+<letter id="joh3028">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Congress [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel="day origin" value="22">22</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1777" rel="origin">1777</a>; half past 1 o clock, P. M. 
+</p><p>
+SIR, 
+</p><p>
+This moment an express is arrived from Maryland, 
+with an account of near two hundred sail of Mr. 
+Howe's fleet, being at anchor in the Chesapeake Bay. 
+A copy of the letter, brought by express, I inclose to 
+you, and to which I refer you. In consequence of 
+this advice, Congress have ordered the immediate removal of all the stores and prisoners from Lancaster 
+and York, in this State, to places of greater safety. 
+</p><p>
+Congress have this moment come to the inclosed 
+resolution, to which I beg leave to refer you; and, 
+indeed, I need not add, as the whole matter is submitted to you. I will not detain the express only to 
+say, that I am, with every sentiment of esteem and 
+respect, Sir, 
+</p><p>
+Your very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

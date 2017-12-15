@@ -1,0 +1,64 @@
+<letter id="rom3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Office of Finance, <a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your favor of the 27th, from Chatham, has just 
+been delivered to me by Colonel Miles, and, in consequence, I have advised him to secure the assistance 
+of the President and Council of this State, in case it 
+should be necessary. But, as a preferable mode of 
+procuring the craft, I advise his engaging to pay 
+them in a short time after the service is performed; 
+and, if needful, I shall join in this assurance, and 
+finally see it performed. 
+</p><p>
+I directed the Commissary-General, immediately on 
+my return from camp, to cause the deposit of three 
+hundred barrels of flour, three hundred barrels of salt 
+meat, and twelve hogsheads of rum, to be made at 
+the Head of Elk, and pointed out the means of obtaining them. For this purpose, he sent down a 
+Deputy some clays since, and I expect all will be 
+ready there. I have written to the Quarter-master of 
+Delaware and Maryland, Mr. Donaldson Gates, to exert himself in procuring the craft. I am much more 
+apprehensive on the score of craft in Delaware and 
+Chesapeake. I have written to the Governor, and 
+several of the most eminent merchants in <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>, to 
+extend their assistance and influence in expediting this 
+business. Foreseeing the necessity of supplies from 
+Maryland and Delaware, I have written, in the most 
+pressing terms, to the Governors and Agents, to have 
+the specific supplies required of them by Congress in 
+readiness for delivery to my order; and now that 
+your movements must be unfolded to them, I shall 
+still more strongly show the necessity, and stimulate 
+their exertions by holding forth what is due to their 
+own immediate interest and safety. But still I fear 
+you will be disappointed in some degree as to the 
+shipping, and that I shall be compelled to make purchases of provisions, which, if it happens, must divert 
+the money from those payments to the army that I 
+wish to make. I have already advised your Excellency of the unhappy situation of money matters, and 
+very much doubt if it will be possible to pay the detachment a month's pay, as you wish. Therefore it 
+will be best not to raise in them any expectation of 
+that kind. Should it come unexpectedly, so much the 
+better. I do not think it practicable to provide the 
+salt provisions here, even if a disappointment happens 
+in New England; but have particularly recommended 
+attention to the article in Maryland, which is to furnish ten thousand five hundred barrels of beef and 
+pork. 
+</p><p>
+No news here yet of the Count de Grasse ; but I 
+have had occasion to lament that too many people have, for some clays past, seemed to know your Excellency's intended movements. This city is filled with 
+strangers, so that Colonel Miles cannot procure private 
+lodgings, and my family being chiefly at Springetsbury, affords me the opportunity of appropriating my 
+house in town to your use. I believe we can accommodate your Aids, &c., with mattresses, but our beds 
+are chiefly in the country; and as what I have cannot possibly be appropriated to a better use, I beg 
+your Excellency will consider and use my house, and 
+what it affords, as your own. 
+</p><p>
+I have the honor to be, your devoted servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">Robert Morris</a>. 
+</p>
+</letter>

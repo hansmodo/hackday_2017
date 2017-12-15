@@ -1,0 +1,113 @@
+<letter id="jol4907">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='7'>7th</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+I had the pleasure of writing to you yesterday by 
+Col Morgan, and the day before by Baron Frey, a 
+stranger lately arrived from France who is gone to 
+offer his service to Congress. The cannonading 
+heard day before yesterday was between the Somerset 
+64 Gun Ship, the Roebuck and some other vessel on 
+the one part, and our row-gallies seconded by a two 
+gun battery on the other the affair was as follows : 
+</p><p>
+The above mentioned vessels advanced towards our 
+chevaux de frise Gen'l Varnum had thrown up a 
+fascine battery on a commanding piece of ground 
+below Red-bank, and order'd an eighteen pounder 
+and a twelve pounder to be moved into it. The 
+eighteen pounder was overset in its way, which 
+accident prevented its arrival before two o clock. In the intermediate time, however, the piece of twelve, 
+was well employed the ships dropped down to the 
+distance of a mile and a half from the battery, and 
+the Somerset ran aground, in which situation she 
+underwent a constant Fire from the Battery, which 
+Gen'l Varnnm thinks must have injur'd her exceedingly. She made several signals of distress, upon 
+which our Commodore with a great force advanced 
+towards her and made a dreadful hut ineffectual 
+roaring with his cannon the Roebuck, with the third 
+vessel whose name I dont recollect and a galley, 
+brought their bow guns to bear on our fleet and 
+kept them at a respectful distance. The flood made, 
+and the Somerset moved slowly off under cover of the 
+other ships. She received farewell salutes from the 
+battery as long as she continued within reach. 
+</p><p>
+Our anxiety had been raised in camp, by a report 
+that a heavy firing of musquetry had been heard for a 
+considerable time on the evening of the same day 
+it turns out to be nothing more than a few single guns which Potter's militia and the enemy's detachment 011 Province Island make a practice of firing 
+at each other without com 8 to any action. Four 
+deserters from the enemy brought in this morning, say 
+that the militia men call'd to the British soldiers and 
+invited them to go over, promising them beef and 
+flour the red-coats in return ask'd them to come 
+and partake of their salt that from raillery they 
+proceeded to abuse- and at length to discharging 
+their pieces at each other, without any other effect as 
+far as they know than wounding a Hessian yager. 
+</p><p>
+There have been several women from Ph a within 
+two days past, who have applied for leave to pass into 
+the country declaring that unless this indulgence 
+be granted to them, they must inevitably starve. 
+Our humane General says he will grant their request 
+upon condition that they do not return into the city, 
+and I believe directions are given for that purpose to 
+the officers commanding sub-posts, who have hitherto 
+stopt them. 
+</p><p>
+Rubenhaupt, the Dutch general who conducted the 
+celebrated siege of Grave, shielded by national phlegm 
+against any impression from female and infantine distress, rudely sent back into the town crowds of 
+women and children, who presented themselves in his 
+camp to entreat that he would deliver them from the 
+horrors of famine by suffering them to pass his lines. 
+</p><p>
+The polite and gallant Prince of Conde, upon a 
+similar application, when he was particularly called 
+upon not to act inconsistently with the amiable 
+characteristic of his countrymen the women of the 
+besieged town who petitioned his leave to quit it, 
+saying " they were persuaded a French Nobleman 
+could not be so impolite as to reject the prayer of 
+unfortunate ladies " dexterously parried this artful 
+address to his feelings as a Frenchman, by replying 
+that "he could not consent to deprive himself of the 
+most desirable part of his conquest." 
+</p><p>
+I write this to go by James, who came to Head 
+Quarters this morning to see me and take my commands. I happen'd to be out with the General when 
+he arrived, and did not know of his being here till 
+after dinner, which according to our late hour, made 
+it near evening and as I had a second ride to take 
+I detained him for the rest of the day. Mrs. Hartley 
+is too far from camp for me to pay her my respects. 
+If James returns that way, I will write her a note of 
+thanks for her care of your letter of 26th Octob'r which 
+I received yesterday. 
+</p><p>
+8th. His Excellency detains James in order to write 
+by him to Congress I congratulate you, upon your 
+succession to the Presidentship, tho we shall not 
+know you in that capacity at Head Quarters till you 
+are announced. 
+</p><p>
+Permit me to say, that I have the honour to be 
+with as much respect for your public station, as any 
+citizen in the United States, and with an increasing 
+flow of filial affection. 
+</p><p>
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I wrote yesterday to St. Mary Axe, under cover to 
+Babut and Labouchere, by way of <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>, and 
+committed my packet to the care of Col Morgan. 
+</p><p>
+Since writing as above, I have received your kind 
+favor of the 4th . 
+</p>
+</letter>

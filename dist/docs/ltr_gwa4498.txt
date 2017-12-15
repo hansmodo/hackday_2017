@@ -1,0 +1,80 @@
+<letter id="gwa4498">
+<recipient first="Benjamin" last="Lincoln" type="individual"/>
+<p>
+Instructions. 
+</p><p>
+Sir, 
+</p><p>
+The object of your present command, — consisting of two regiments, formed into four battalions, under the 
+command of Colonel Scammell and Lieutenant-Colonel Sprout, of a detachment of artillery under the command of Captain Burbeck, of the corps of watermen 
+under the command of Major Darby, and the waterguard under the command of Captain Pray, — is to attempt the surprise of the enemy's posts upon the north end of York Island. 
+</p><p>
+My ideas, as to the most probable mode of attaining this object, have been minutely detailed in the several conversations which we have had upon the subject, 
+and you have been furnished with such papers as I 
+have been able to collect, and upon which my judgment has been formed. But it is not my wish, or desire, that these should be any restraint upon you. 
+Your own observation and the circumstances of the 
+moment must in a great degree govern you. 
+</p><p>
+The success of your enterprise depending absolutely 
+upon secrecy and surprise, it w ill be wrong to prosecute it a moment after you are discovered, unless the 
+discovery is made so near the works, that you may, by 
+a rapid movement, gain them before the enemy have 
+time to recollect and put themselves in a posture of 
+defence. Fort George, upon Laurel Hill, ought to be 
+your primary object, because success at that place will 
+open a communication with the main, afford an asylum 
+to the troops, who may be disappointed in other attacks, and secure a retreat in case of necessity to the 
+main body of the army. 
+</p><p>
+Should you carry Fort Knyphausen and Fort Tryon only, you cannot without infinite risk hold them, as we shall not be in a situation to support you from without. 
+I would therefore recommend your damaging them as much as you possibly can and relinquishing them. The artillery-men will be proportionably divided for the three 
+attacks ; each party will be provided with two lanterns and two rockets, one of which is to be fired in each work as soon as it is carried. 
+</p><p>
+It" complete success should attend the enterprise, not 
+a moment should be lost in drawing the boats across 
+the Island from the North River into Haerlem Creek, 
+and securing them under the guns of Fort George, if 
+circumstances will admit of it. But in case of a disappointment, and being obliged to retreat by water, 
+and not being able to pass the enemy's ships and boats, 
+the dernier resort must be a push over to the Jersey 
+shore, and an abandonment of the boats, if they cannot 
+be drawn up the bank and carried ofT on carriages. It 
+will be very essential, that I should be made acquainted 
+as early as possible with your success, and the extent 
+of it. If complete, you will announce it by the firing 
+of thirteen cannon, at one minute's interval, after all less 
+firing and confusion have ceased. If Fort George only 
+is carried, six cannon are to be fired in the same manner. For Fort Knyphausen, Tryon, or both of them, 
+you need not give a signal, because you are, as before 
+directed, immediately to relinquish them. 
+</p><p>
+The foregoing is upon a supposition, that the principal object, the attempt upon the works on York 
+Island, is carried into execution ; hut, should you, upon 
+reconnoitering the enemy to-morrow, find it unadvisable 
+to prosecute the plan, or should you be obliged to give 
+it over on account of an early discovery by the enemy's 
+shipping or boats, I would then have you turn your attention to the support of an attempt, which is also to 
+be made on the morning of the 3d by the <a href='/results.php?tla=cdl' rel='co-worker'>Duke De Lauzun</a> upon Delancey's corps lying at Morrisania. 
+To effect this, you will land your men at any convenient place above the mouth of Sphen Devil Creek, 
+and march to the high grounds in front of Kingsbridge, 
+where you will lie concealed until the Duke's attack is 
+announced by firing or other means. You may then 
+dispose of your force in such a manner, in view of the 
+enemy, as to make them think your party larger than 
+it is, which may have the double effect of preventing 
+them from coming over the bridge to turn the Duke's 
+right, and also of preventing any of Delancey's party 
+from escaping that way. Your further operations must 
+depend upon the movements of the enemy and other 
+circumstances. 
+</p><p>
+I expect to be in the neighbourhood of Kingsbridge 
+early in the morning of the 3d, with the remainder of 
+the army. I shall as soon as possible open a communication with you, and give you such orders as the 
+general state of matters may require. If you land upon the east side of the river, above the mouth of Spiten Devil Creek, you will send your boats up along 
+the east shore. If Major Darby receives no particular 
+directions from me, he will proceed with them to King's 
+Ferry. Given at Head-Quarters, near <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, this 
+	<a rel='day origin' value='1'>1st</a> day of <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p>
+</letter>

@@ -1,0 +1,18 @@
+<letter id="frm3910">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a rel="month origin" value="4">April</a> <a rel='day origin' value='30'>30</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+Yours of the 26th came to hand. You may do as you please with Mr. Shad's daughter. Let Col. Moultrie have four rations. I wrote 
+you last night, and enclosed Meyer's account, but the letter is lost. You will pay him out of the indigo and rice you have in your hands; 
+if not sufficient, he must wait. I am called to join <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. You will keep a good look-out, lest the enemy form an attack against you ; 
+and let it be always a rule to be ready at a moment, if a retreat should be necessary, as my former orders. I shall be absent I fear some time. 
+A wagon, with fifty stand of arms, is on its way from High Hills for you. Should you want ammunition, send to Mr. William Richardson. 
+I am told your officers have public horses, and the best; they must be given up, and all your horses and men that are out must be called in 
+immediately, when I shall send for such as may be for dragoon service. I am, in haste, adieu, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

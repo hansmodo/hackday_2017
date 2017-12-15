@@ -1,0 +1,17 @@
+<letter id='mad1633'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Dec' 12th, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, The inclosed letter has been just sent me by Miss Blttenhouse, and I avail myself of the delay of Mr. Morris to give it a conveyance. Since mine already in the hands of Mr. 
+Morris, further returns have been received from the Western Counties of this State, which, though not the entire residue, 
+reduce the final result to certainty. There will be seven representatives of the federal party, and one a moderate anti-federalist. I consider this choice as ensuring a majority of friends 
+to the federal Constitution in both branches of the Congress; as securing the Constitution against the hazardous experiment 
+of a second Convention; and, if prudence should be the character of the first Congress, as leading to measures which will conciliate the well meaning of all parties, and put our affairs into an auspicious train. 
+</p><p>
+I am charged by a Monsieur St. Trise, who is here, with his compliments to you. He is an officer in the French Cavalry, and appears to be an agreeable, worthy man. 
+</p><p>
+With every sentiment of esteem and attachment, I am, dear 
+sir, your friend and serv. 
+</p>
+</letter>

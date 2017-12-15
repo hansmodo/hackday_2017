@@ -1,0 +1,46 @@
+<letter id="nib5309">
+<recipient first="John" last="Huske" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="8">Aug'st</a>. <a rel='day origin' value='6'>6th</a> . <a href='/results.php?year=1835' rel="origin">1835</a> 
+</p><p>
+Dear Sir 
+</p><p>
+... In regard to the offer from the State Bank of the 
+Presidency of the Branch at <a href='/results.php?city=fayetteville' rel='city'>Fayetteville</a>, I think you should 
+not hesitate to accept it. My great anxiety now is, that the !3fficers of the Bank should be able to separate from it with 
+;he least possible inconvenience to themselves and I am anxious particularly that they should lose no opportunity 
+&gt;f obtaining proper employment elsewhere. If therefore the 
+situation offered be in other respects satisfactory, there is 
+nothing in your relations with the Bank that should induce 
+you to decline it. 
+</p><p>
+This brings me to another matter connected with it on 
+which I proposed to write to you. We are now making 
+arrangements with several of the new Banks to purchase 
+the whole establishment of the Office near them banking 
+house, debts &amp; all. This plan is very advantageous to the 
+new Bank which thus succeeds to the standing, capital, de 
+posits &amp; custom of the Office, &amp; to the Bank of the U.S. it 
+possesses the attraction of enabling them to close the Office 
+at once. As an example of such a settlement, I will mention 
+what has just taken place at <a href='/results.php?city=lexington' rel='city'>Lexington</a>, Kentucky. The President &amp; Cashier of the Office have been appointed President 
+&amp; Cashier of the Northern Bank of Kentucky and that 
+Institution has agreed to take the Banking House at the valuation hitherto put up upon it in our schedules &amp; also to 
+take the whole of the current debt not including of course 
+the domestic bills at its nominal amount, giving the notes 
+of the Bank of Kentucky payable in I, 2, 3, &amp; 4 years with 
+interest at five per cent. The suspended debt the Bank of 
+Kentucky agrees to manage and collect without charge. 
+</p><p>
+Now, if you could make a similar arrangement with the 
+Bank of the State or any other institution, it would be satis 
+factory to us. 
+</p><p>
+Let me hear from you soon on this subject &amp; believe me 
+meanwhile 
+</p><p>
+
+</p><p>
+To Herman Cope 255 
+</p>
+</letter>

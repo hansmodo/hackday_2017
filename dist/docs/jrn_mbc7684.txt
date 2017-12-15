@@ -1,0 +1,37 @@
+<letter id="mbc7684">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='1'>1</a>, <a href='/results.php?year=1864' rel="origin">1864</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. <a href='/results.php?tla=jbh' rel='acquaintance met'>General  Hood's</a> an awful flatterer I mean an awkward flatterer. I told him to praise my husband to some one else, not to me. He ought to praise me to somebody who would tell my husband, and then praise 
+my husband to another person who would tell me. Man and wife are too much one person to wave a compliment 
+straight in the face of one about the other is not graceful. 
+</p><p>
+One more year of Stonewall would have saved us. Chickamauga is the only battle we have gained since Stone 
+wall died, and no results follow as usual. Stonewall was not so much as killed by a Yankee : he was shot by his own 
+men ; that is hard. <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> can do no more than keep back <a href='/results.php?tla=grm' rel=''>Meade</a>. " One of <a href='/results.php?tla=grm' rel=''>Meade's</a> armies, you mean," said I, 
+" for they have only to double on him when <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> whips one 
+of them." 
+</p><p>
+General Edward Johnston says he got <a href='/results.php?tla=usg' rel=''>Grant</a> a place esprit de corps, you know. He could not bear to see an old 
+army man driving a wagon; that was when he found him out West, put out of the army for habitual drunkenness. 
+He is their right man, a bull-headed Suwarrow. He don't care a snap if men fall like the leaves fall ; he fights to win, 
+that chap does. He is not distracted by a thousand side issues ; he does not see them. He is narrow and sure sees 
+only in a straight line. Like Louis Napoleon, from a battle in the gutter, he goes straight up. Yes, as with <a href='/results.php?tla=abl' rel=''>Lincoln</a>, 
+they have ceased to carp at him as a rough clown, no gentle man, etc. You never hear now of <a href='/results.php?tla=abl' rel=''>Lincoln's</a> nasty fun ; only 
+of his wisdom. Doesn't take much soap arid water to wash 
+the hands that the rod of empire sway. They talked of <a href='/results.php?tla=abl' rel=''>Lincoln's</a> drunkenness, too. Now, since Vicksburg they have 
+not a word to say against <a href='/results.php?tla=usg' rel=''>Grant's</a> habits. He has the disagreeable habit of not retreating before irresistible veterans. 
+<a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> and Albert Sidney Johnston show blood and breeding. They are of the Bayard and Philip Sidney order 
+of soldiers. Listen: if <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> had had <a href='/results.php?tla=usg' rel=''>Grant's</a> resources he would have bagged the last Yankee, or have had 
+them all safe back in Massachusetts. " You mean if he had not the weight of the negro question upon him? 
+" No, I mean if he had <a href='/results.php?tla=usg' rel=''>Grant's</a> unlimited allowance of the powers of war men, money, ammunition, arms." 
+</p><p>
+Mrs. Ould says <a href='/results.php?tla=mtl' rel=''>Mrs. Lincoln</a> found the gardener of the White House so nice, she would make him a major-general. 
+<a href='/results.php?tla=abl' rel=''>Lincoln</a> remarked to the secretary: " Well, the little woman must have her way sometimes. 
+</p><p>
+A word of the last night of the old year. l Gloria Mundi sent me a cup of strong, good coffee. I drank two cups 
+and so I did not sleep a wink. Like a fool I passed my whole life in review, and bitter memories maddened me 
+quite. Then came a happy thought. I mapped out a story of the war. The plot came to hand, for it was true. Johnny 
+is the hero, a light dragoon and heavy swell. I will call it F. F.'s, for it is the F. F.'s both of South Carolina and 
+Virginia. It is to be a war story, and the filling out of the skeleton was the best way to put myself to sleep. 
+</p>
+</letter>

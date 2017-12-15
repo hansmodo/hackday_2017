@@ -1,0 +1,20 @@
+<letter id="joj4208">
+<recipient first="Peter" last="Van Schaack" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='23'>23d</a> <a rel="month origin" value="1">Jan.</a>, <a href='/results.php?year=1827' rel="origin">1827</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have received your friendly letter of the 27th ult. It gives me pleasure to reflect that our mutual esteem and regard have, from an early period, been constantly productive of cordiality and gratification. 
+</p><p>
+A kind Providence has extended our lives to the commencement of another year. Very few of our early associates remain with us. Our abode here is merely "pro hac vice," and our departure is then to place us in a suit of eternal good or evil. That good can only ned by means of our merciful Redeemer, who was pleased to declare "without me, ye can do nothing." 
+</p><p>
+Although I have long been in a state of debility, yet it was lately so increased by an additional complaint, as caused me to delay preparing a few lines to you more seasonably. 
+</p><p>
+That you and your family may always be blessed with beneficial prosperity, be assured, is the wish of my children, and also 
+</p><p>
+Of your affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

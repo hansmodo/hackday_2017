@@ -1,0 +1,104 @@
+<letter id="ccp3903">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+I am sure my honored Mother must be anxious to know the event of 
+yesterday's cannonade. I therefore take the earliest opportunity of 
+acquainting her with the particulars of it. As my station was at Fort 
+Johnston, and the whole of the engagement was at Sullivan's Island, I 
+was only a spectator, though I and every man here declared they longed 
+earnestly to have been there, to have partaken the honor and danger 
+with their fellow soldiers. 
+</p><p>
+Yesterday, about eleven o clock, the Bomb Ketch, and a ship-of-war, 
+came up from Five-Fathom Hole, and a signal was fired from the Commodore for the other ships of war to weigh anchor. At about half 
+after eleven, the Ketch began to favor Sullivan's Island with some 
+bombs. I could distinctly see many of them burst in the air. Five fell in the Fort at Sullivan's Island, but did no other damage than slightly wounding one man. The Solebay, of 28 guns, who was ahead 
+of the line, received a shot from the Island, and immediately returned 
+it with her whole broadside. The enemy then formed in two lines to 
+attack the Fort on Sullivan's Island. In the first line the Bristol, of 
+50 guns, the Solebay, of 28, the Active, of 28, and a 40 gun vessel, 
+which I am told is called the Roebuck, (I am not sure of her name, 
+but certain of her strength, for I could plainly see her guns.) In the 
+second line was the Syren, of 28, and two other frigates, whose names 
+I do not know ; behind them were the Bomb Ketch, and a heavy hulk 
+of a vessel something like our Prosper. 
+</p><p>
+A brisk and heavy cannonading was kept up at first, both from the 
+ships and the Fort. Some shot from the Fort put their second line into 
+disorder, and carried away the bowsprit of one of the frigates; and as they 
+were near that bank of sand which runs out from the Fort towards Sullivan's Island, and then turns towards Cummins Point (called the Lower 
+Middle), the two ships, whose names I do not know, ran aground there. 
+The first line of the enemy appeared to us at this place to be about six 
+or seven hundred yards from the Island, but from them I hear they were 
+within 500 yards. All the 26 pounders were pointed at the Bristol, 
+and about two hours after the cannonading began, she received so much 
+damage that she was obliged to draw back, but still continued to fire, 
+though not so briskly as before. At about three o clock the Fort had 
+expended all its ammunition, (it had thirty odd rounds to each gun, and 
+thirty-two guns.) The shipping still kept up a heavy cannonade; the 
+Fort could not return it. In about two hours they got a supply of 200 lbs. of gunpowder from Tufts , and 500 lbs. from Hacldrell's Point. 
+They fired again, but slowly, and with great judgment. Night came 
+on, and the cannonading still continued on both sides, and the greatest 
+number of our shot (if we may judge from the noise they made against 
+the sides of the ships) took place, but the ships fired near fifty for one. 
+A little after nine o clock, the ships thought they were sufficiently 
+battered, and ceased firing; and half after nine began to work down 
+again to their old station in Five-Fathom Hole. One of the ships which 
+ran aground got off again, the other (at least a twenty-gun ship) stuck 
+fast there. Upon being fired at from the Island this morning, she re 
+turned the fire ; the Island fired again. The men then that were on 
+board her loaded all their guns, set her on fire, got into her boats, leaving all the colors flying aboard the ship, and rowed off to the rest of the 
+fleet. When she burnt down to her cannon, she gave a noble discharge. 
+A boat from the Island went on board of her, and brought away her 
+Jack. She is now almost burnt down to the water's edge; in a little 
+while we shall scarcely see the remains of her. The ships that warped 
+off must have received considerable damage, as in general the shot from 
+the Island was exceedingly well placed. The Bristol's mizen mast is this 
+moment fallen down, doubtless in consequence of the shot she got yesterday. Several parts of the ships, and some parts of the cabin, have 
+floated up to town, so that I believe they have met with a reception 
+they little expected. The officers and men at the Island I am informed, 
+behaved with the greatest bravery; and notwithstanding so heavy a 
+cannonade for ten hours, we had but ten men killed and twenty-two 
+wounded. There were only Moultrie's Regiment, consisting of about 
+350 men, and thirty of Roberts Artillery, in the Fort. The officers 
+behaved nobly, and pointed every gun themselves ; and what is remark 
+able, though there was not a man killed but what was close to an officer, 
+yet only Lieut. Gray was slightly wounded by a splinter from a carriage 
+in his thigh, and a spent ball on his breast. Lieuts. Hall and Mazyck 
+received two contusions in their faces. The first man that was killed 
+was a Corporal of Grenadiers. The rest of the men who belonged to 
+his gun immediately threw him off the platform with their handspikes, 
+crying out, u Revenge, let us revenge our comrade's death ! 7 and immediately returned to their gun with the greatest eagerness. 
+</p><p>
+The enemy shot away the flag -staff, with our colors. A grenadier 
+immediately ran through a shower of grape shot, and stuck up the 
+colors on a pike. One McDonald, a sergeant in Capt. Frank Huger's 
+Company, being mortally wounded, as they were carrying him away, 
+cried out, " I am killed my brethren, but don t let liberty expire with 
+me !" While this happened at the end of Sullivan's Island, where this 
+Fort is, the enemy, whose troops are on Long Island, attempted to pass 
+over to that end of Sullivan's Island which was nearest them, but received so warm a reception from Thompson's Rangers, the Virginia 
+Riflemen, some of the North Carolina troops, a few of the Militia, and 
+an eighteen pounder that we had there, that they were obliged to re 
+treat, without wounding so much as one of our men. The enemy's 
+loss in men must have been considerable, as our shots were chiefly levelled at the hull of the ships. The transports lay in Five-Fathom 
+Hole during the whole engagement. I assure you I never saw men in 
+higher spirits than ours were during the whole cannonade; and though 
+from our station here we were unfortunate enough to be out of it, there 
+was not a man but was wishing most earnestly to be there. 
+</p><p>
+The Fort, though well peppered with shot, has received scarcely any 
+damage, not a single breach being made in it, nor did the Palmetto 
+logs, of which it is built, at all splinter. The powder room on board 
+the burning frigate, has this instant blown up. You cannot conceive 
+what a noble column of smoke it makes till it loses itself among the highest clouds. 
+</p><p>
+My brother is well. Pray give my love to my sister and Dan, and 
+compliments to Mrs. Elliott, and the ladies at Sandy Hill. I remain, 
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter>

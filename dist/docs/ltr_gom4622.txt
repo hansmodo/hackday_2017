@@ -1,0 +1,54 @@
+<letter id="gom4622">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="9">September</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The object of this is merely to transmit a letter forwarded to 
+me by Mr Cathalan, who desires me to communicate the 
+scarcity to my friends, and at the same time mentions, that if 
+I will encourage him thereto, he will immediately set off to 
+America to procure wheat. My answer of this date is 
+enclosed. 
+</p><p>
+By the first convenient opportunity I shall write to you 
+respecting the state of things here, and I shall now send with 
+this letter the several gazettes. We have had one week of 
+unchecked murders, in which some thousands have perished in 
+this city. It began with between two and three hundred of 
+the clergy, who had been shut up because they would not 
+take the oaths prescribed by the law, and which they said 
+were contrary to their conscience. Thence, these executors 
+of speedy justice went to the Abbaye, where the persons were 
+confined, who were at court on the tenth of August. These 
+were despatched also, and afterwards they visited the other 
+prisons. All those who were confined either on the accusation, 
+or suspicion of crimes, were destroyed. Madame de Lamballe 
+was, I believe, the only woman killed, and she was beheaded 
+and embowelled, the head and entrails paraded on pikes 
+through the streets, and the body dragged after them. They 
+continued I am told in the neighborhood of the Temple, until 
+the Queen looked out at this horrid spectacle. 
+</p><p>
+Yesterday the prisoners from Orleans were put to death at 
+Versailles. The destruction began here about five in the 
+afternoon on Sunday, the second instant. A guard had been 
+sent a few days since to make the Duke de la Rochefoucault 
+prisoner. He was on his way to Paris under their escort with 
+his wife and mother, when he was taken out of his carriage 
+and killed. The ladies were taken back to la Roche Guyonne 
+where they are now in a state of arrestation. Monsieur de 
+Montmorin was among those slain at the Abbaye. You will 
+recollect, that a petition was signed by many thousands to 
+displace the Mayor on account of his conduct on the twentieth 
+of June. The signing of this petition is considered as a sufficient proof of the crime of Feuillantism, and it was in contemplation with some to put all those who were guilty of signing 
+that petition to death. This measure seems, however, to be 
+suspended, for the present at least ; but as there is no real 
+executive authority, the plan may be easily resumed, should it 
+suit the views of those who enjoy the confidence of that part 
+of the people, who are now active. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

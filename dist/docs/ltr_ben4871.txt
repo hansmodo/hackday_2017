@@ -1,0 +1,82 @@
+<letter id="ben4871">
+<recipient first="Thomas" last="Gushing" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='2'>2</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+SIR, 
+</p><p>
+The above is a Copy of my last. A few Days after my 
+leaving your Petition with Lord Dartmouth, his Lordship 
+sent for me to discourse with me upon it. After a long 
+Audience, he was pleased to say, that, notwithstanding all I 
+had said or that could be said, in Support and Justification of 
+the Petition, he was sure the presenting it at this time could 
+not possibly produce any good: That the King would be 
+exceedingly offended, but what Steps his Majesty would take 
+upon it was uncertain ; perhaps he would require the Opinion 
+of the Judges or Government Lawyers, which would surely 
+be against us; perhaps he might lay it before Parliam', 
+and so the Censure of both Houses would be drawn down 
+upon us. The most favourable thing to be expected was 
+a severe Reprimand to the Assembly by Order of his Majesty the natural Consequence of which must be more Discontent and Uneasiness in the Province. That possessed as he 
+was with great Good will for New England, he was extreamly 
+unwilling, that one of the first Acts of his Administration, 
+with regard to the Massachusetts, should be of so unpleasant 
+a Nature. That Minds had been heated and irritated on both 
+Sides the Water, but he hoped those Heats were now cooling, 
+and he was averse to the Addition of fresh Fuel. That as 
+I had delivered the Petition to him officially, he must present 
+it, if I insisted upon it; but he wished I would first consult 
+my Constituents, who might possibly on Reconsideration think 
+fit to order its being deferred. 
+</p><p>
+I answered, that the great Majority with which the Petition 
+and the Resolves on which it was founded were carried thro' 
+the House, made it scarce expectable, that their Order would 
+be countermanded; that the slighting, evading, or refusing 
+to receive Petitions from the Colonies, on some late Occasions by the Parliament, had occasioned a total loss of the 
+Respect for and Confidence in that Body, formerly subsisting so strongly in America, and brought on a Questioning 
+of their Authority: That his Lordship might observe Petitions came no more from thence to Parliament, but to the King only: That the King appeared now to be the only 
+Connection between the two Countries; and that as a continued Union was essentially necessary to the Wellbeing of the 
+Whole Empire, I should be sorry to see that Link weakened, 
+as the other had been : That I thought it a dangerous Thing 
+for any Governm' to refuse receiving Petitions, and thereby 
+prevent the Subjects from giving vent to their Griefs. 
+</p><p>
+His L p interrupted me by replying, that he did not refuse 
+to deliver the Petition ; that it should never justly be said of 
+him, that he interrupted the Complaints of his Majesty's 
+Subjects; and that he must and would present it, as he had 
+said before, whenever I should absolutely require it; but 
+from Motives of pure Good Will to the Province, he wish'd 
+me not to insist on it, till I should receive fresh orders. 
+</p><p>
+Finally, considering that since the Petition was ordered, 
+there had been a Change in the American Administration, 
+that the present minister was our Friend in the Repeal of the 
+Stamp Act, and seems still to have good Dispositions towards 
+us; that you had mentioned to me the Probability, that the 
+House would have remonstrated on all their other Grievances, 
+had not their Time been taken up with the difficult Business 
+of a general Valuation ; and since the Complaint of this Petition was likely alone to give Offence, it might perhaps be 
+judg'd adviseable to give the Substance of all our Complaints 
+at once, rather than in Parts and after a Reprimand received ; 
+I say upon the whole I thought it best not to disoblige him in 
+the Beginning of his Administration, by refusing him what 
+he seem'd so desirous of, a Delay at least in presenting the 
+Petition, till farther Directions should be received from my 
+Constituents. If after Deliberation they should send me 
+fresh Orders, I shall immediately obey them, and the Application to the Crown itself may possibly derive greater Weight 
+from the Reconsideration given it, while the Temper of the 
+House may be thought somewhat calmed by the Removal 
+of a Minister, who had rendred himself so obnoxious to them. 
+Accordingly, I consented to the Delay desired, wherein I 
+hope my Conduct will not be disapproved. 
+</p><p>
+With the greatest Esteem and Respect, I have the Honour 
+to be, Sir, your and the Committee's most obedient and most 
+humble Serv, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

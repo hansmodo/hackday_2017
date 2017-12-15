@@ -1,0 +1,92 @@
+<letter id='mad1664'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=orange" rel="city">Orange</a>, Nov r 20, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, It was my purpose to have dropped you a few 
+lines from Philad', but I was too much indisposed during my 
+detention there to avail myself of that pleasure. Since my arrival here, I have till now been without a fit conveyance to the 
+Post office. 
+</p><p>
+You will recollect the contents of a letter shewn you from 
+Mr. Innes to Mr. Bf own. Whilst I was in <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> I was 
+informed by the latter, who was detained there by indisposition, 
+as well as myself, that he had received later accounts, tho' not 
+from the same correspondent, that the Spaniards have finally 
+put an entire stop to the trade of our citizens down the river. 
+The encouragements to such as settle under their own Government are continued. 
+</p><p>
+A day or two after I got to <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a> I fell in with Mr. 
+Morris. He broke the subject of the residence of Congress, and 
+made observ.ions which betrayed his dislike of the upshot of 
+the business at N. York, and his desire to keep alive the Southern project of an arrangement with Pennsylvania. I reminded 
+him of the conduct of his State, and intimated that the question 
+would probably sleep for some time in consequence of it. His 
+answer implied that Congress must not continue at N". York, 
+and that if he should be freed from his engagements with the 
+Eastern States, by their refusal to take up the bill and pass it 
+as it went to the Senate, he should renounce all confidence in 
+that quarter, and speak serv.usly to the Southern States. I 
+told him they must be spoken to very serv.usly after what had 
+passed, if Pennsyl* expected them to listen to her; that, indeed^ 
+there was probably an end to further intercourse on the subject. 
+He signified that, if he should speak, it would be in earnest, and 
+he believed that no one would pretend that his conduct would 
+justify the least distrust of his going through with his undertakings; adding, however, that he was determined, and accordingly gave me, as he had -given others, notice that he should 
+call up the postponed Bill as soon as Congress should be reas 
+sembled. I observ. to him that if it were desirable to have 
+the matter revived, we could not wish to have it in a form more 
+likely to defeat itself. It was unparliamentary, and highly inconvenient; and would therefore be opposed by all candid 
+friends to his object as an improper precedent, as well as by 
+those who were opposed to the object itself. And if he should 
+succeed in the Senate, the irregularity of the proceeding would 
+justify the other House in withholding the signature of its 
+Speaker, so that the Bill could never go up to the President. 
+He acknowledged that the Bill could not be got through unless 
+it had a majority of both Houses on its merits. Why, then, I 
+asked, not take it up anew? He said he meant to bring the gentlemen who had postponed the Bill to the point, acknowledged 
+that he distrusted them, but held his engagements binding on 
+him until this final experiment should be made on the respect 
+they meant to pay to theirs. I do not think it difficult to augur 
+from this conversation the views which will govern Pennsyl* at 
+the next Session. Conversations held by Grayson, both with 
+Morris and others, in Philadel a , and left by him in a letter to 
+me, coincide with what I have stated. An attempt will first 
+be made to alarm N. York and the Eastern States into the plan 
+postponed, by holding out the Potowmac and Philad 1 as the alternative; and if the attempt should not succeed, the alternative will then be held out to the Southern members. On the 
+other hand, N. York and the Eastern States will enforce the 
+policy of delay by threatening the Southern States, as heretofore, 
+with Germantown or Trenton, or at least Susquehannah, and 
+will no doubt carry the threat into execution if they can, rather 
+than suffer an arrangement to take place between Pennsyl a and 
+the Southern States. 
+</p><p>
+I hear nothing certain from the Assembly. It is said that 
+</p><p>
+an attempt of Mr. H y to revive the project of commutables 
+</p><p>
+has been defeated; that the amendments (to the federal Constitution) have been taken up and are likely to be put off to the 
+next Session, the present House having been elected prior to 
+the promulgation of them. This reason would have more force 
+if the amendments did not so much correspond, as far as they 
+go, with the propositions of the State Convention, which were 
+before the public long before the last election. At any rate, 
+the Assembly might pass a vote of approbation, along with the 
+postponement, and assign the reason for referring the ratification to their successors. It is probable that the scruple has 
+arisen with the disaffected party. If it be construed by the 
+public into a latent hope of some contingent opportunity for promoting the war against the GEN'L Government, I am of opinion 
+the experiment will recoil on the authors. As far as I can 
+gather, the great bulk of the late opponents are entirely at rest, 
+and more likely to censure a further opposition to the Government, as now administered, than the Government itself. One 
+of the principal leaders of the Baptists lately sent me word that 
+the amendments had entirely satisfied the disaffected of his sect, 
+and that it would appear in their subsequent conduct. 
+</p><p>
+I ought not to conclude without some apology for so slovenly 
+a letter. I put off writing it till an opportunity should present 
+itself, not knowing but something from time to time might turn 
+up that would make it less unworthy of your perusal. And it 
+has so happened that the opportunity barely gives me time for 
+this hasty scrawl. 
+</p>
+</letter>

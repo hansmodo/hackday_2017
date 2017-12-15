@@ -1,0 +1,28 @@
+<letter id="mbc7561">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='5'>May</a> <a rel='day origin' value='20'>20th</a>  [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. LunchecLajJ <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis's</a>; everything nice to eat, and I was ravenous. For a fortnight I have not 
+even gone to the dinner table. Yesterday I was forced to dine on cold asparagus and blackberries, so repulsive in 
+aspect was the other food they sent me. <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> was as nice as the luncheon. When she is in the mood, I do not 
+know so pleasant a person. She is awfully clever, always. 
+</p><p>
+We talked of this move from Montgomery. Mr. Chesnut opposes it violently, because this is so central a position for our government. He wants our troops sent into Maryland in order to make our fight on the border, and so 
+to encompass Washington. I see that the uncomfortable hotels here will at last move the Congress. Our statesmen 
+love their ease, and it will be hot here in summer. " I do hope they will go," <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> said. " The Yankees will 
+make it hot for us, go where we will, and truly so if war comes." " And it has come," said I. " Yes, I fancy 
+these dainty folks may live to regret losing even the fare of the Montgomery hotels. " " Never. 
+</p><p>
+Mr. Chesnut has three distinct manias. The Maryland scheme is one, and he rushes off to Jeff Davis, who, I dare 
+say, has fifty men every day come to him with infallible plans to save the country. If only he can keep his temper. 
+<a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> says he answers all advisers in softly modulated, dulcet accents. 
+</p><p>
+What a rough menagerie we have here. And if nice people come to see you, up walks an irate Judge, who engrosses the conversation and abuses the friends of the company generally; that is, abuses everybody and prophesies 
+every possible evil to the country, provided he finds that denouncing your friends does not sufficiently depress you. 
+Everybody has manias up North, too, by the papers. 
+</p><p>
+But of Mr. Chesnut's three crazes : Maryland is to be 
+made the seat of war, old Morrow's idea of buying up steamers abroad for our coast defenses should be adopted, 
+and, last of all, but far from the least, we must make much cotton and send it to England as a bank to draw on. The 
+very cotton we have now, if sent across the water, would be a gold mine to us. 
+</p>
+</letter>

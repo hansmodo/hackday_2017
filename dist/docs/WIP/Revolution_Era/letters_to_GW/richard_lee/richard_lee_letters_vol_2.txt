@@ -1,0 +1,364 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.L1tgyU on line 138
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--rhl
+--DOC-AUTHOR-FIRST--Richard
+--DOC-AUTHOR-LAST--Lee
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+</letter><letter id="rhl3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your favor of the 17th I received yesterday, and 
+was a good deal surprised to find you had been told 
+that Congress had appointed General Conway a Major-General. No such appointment has been made ; nor 
+do I believe it will, while it is likely to produce the 
+evil consequences you suggest. It is very true, that 
+both within and without doors, there have been advocates for the measure ; and it has been affirmed that 
+it would be very agreeable to the army, whose favorite Mr. Conway was asserted to be. My judgment 
+on this business was not formed until I received your letter. I am very sure Congress would not take any 
+step that might injure the army, or even have a tendency that way; and I verily believe they wish to 
+lessen your difficulties by every means in their power, 
+from an entire conviction that the purest motives of 
+public good direct your actions. 
+</p><p>
+The business of a Board of War is so extensive, 
+so important, and demanding such constant attention, 
+that Congress see clearly the necessity of constituting a new Board, out of Congress, whose time shall be entirely devoted to that essential department. It 
+is by some warmly proposed that this Board shall 
+be filled by the three following gentlemen; Colonel 
+Reed, <a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a>, the present Adjutant-General, and Colonel Harrison, your Secretary 5 and that 
+General Conway be appointed Adjutant-General, in the 
+room of <a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a>. It is my wish, and I am 
+sure it is so of many others, to know your full and 
+candid sentiments on this subject. For my own part, 
+I cannot be satisfied with giving any opinion on the 
+point until I am favored with your sentiments, which 
+I shall be much obliged to you for, Sir, as soon as 
+your time will permit. It has been affirmed that 
+General Conway would quit the service if he were 
+not made a Major-General. But I have been told, in 
+confidence, that he would leave it at the end of this 
+campaign, if he was appointed, unless his word of 
+honor were taken to continue for any fixed time. 
+And it is a question with me, whether the advocates 
+for General Conway will not miss their aim, if he 
+should be appointed Adjutant-General, unless he has 
+the rank of Major-General also. My reason for thinking so is, that I have been informed General Conway 
+desires to retire to his family, provided he can carry 
+from this country home with him a rank that will 
+raise him in France.* 
+</p><p>
+It is very certain that the public good demands a 
+speedy erecting and judicious filling of the new Board 
+of War ; and I sincerely wish it may be done in the 
+most proper manner. I do not imagine Congress 
+would appoint Colonel Harrison without first knowing whether you could spare him; nor do I think 
+that so important an office as that of Adjutant-General should be touched without maturest consideration. 
+</p><p>
+We every moment expect the express, with an ac 
+count that will enable us to congratulate you on the 
+surrender of <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>, and the remains of 
+his shattered army. This will be one of the Prussian 
+sixes, and I augur that the other will soon cast up 
+upon the Delaware. 
+</p><p>
+I am, with sincerest wishes for your health and 
+success, dear Sir, 
+</p><p>
+Your most affectionate and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter><letter id="rhl3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="20">20</a> <a rel="month origin" value="10">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have no doubt of being excused by you for not 
+sooner answering your favor of the 24th last, when 
+you are informed that my ill state of health has prevented me from attending, as I ought, to the important matter it contains. I gave Mr. Jones the letter, 
+that he might inform Congress of such parts as it 
+imported the public they should be acquainted with. 
+As it appeared, by the letters of <a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a>, that 
+he objected only to serve in the Quarter-masters De 
+partment, that his health was returning, and that he 
+was willing to continue his aid to the public cause, 
+Congress appointed him one of the Commissioners of 
+the new Board, because he is competent to the right 
+discharge of its duties, because that would best suit 
+his valetudinary state, and as showing a just sense 
+of his uniform, vigorous, and well-founded patriotism. 
+I have strong hopes that, by the skill and industry 
+of this new Board, and from the right execution of 
+business in that important department, you will, in 
+future, find great relief. 
+</p><p>
+General Conway has not lately been mentioned in 
+Congress, nor has there been much talk of an Adjutant-General, since it is not certainly known whether 
+<a href='/results.php?tla=tip' rel='colleague'>Colonel Pickering</a> will accept his new appointment. 
+Mr. Fleming's character stands very fair, and, so far as I am able to judge, he would answer well in this 
+Commission. You will see, in the inclosed, what Mr. 
+Sergeant says of him. j <a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a> has proposed a 
+plan for the Quarter-master's Department, that appears 
+judicious, and well fitted to answer the purpose of 
+good service and economy at the same time. He 
+would divide this department into its military and 
+civil branches ; the former to be filled by a person 
+well qualified to discharge its duties, and the latter 
+again to be divided into Commissaries of Teams, of 
+Forage, of Tents, &c., to be governed in their purchases by estimates from the Quartermaster-General, , 
+who is to touch no money but a moderate and sufficient salary. 
+</p><p>
+It is Unfortunately too true, that our enemies pay 
+little regard to good faith, or any obligations of justice and humanity, which renders the Convention of 
+<a href='/results.php?city=saratoga' rel='city'>Saratoga</a> a matter of great moment ; and it is also, 
+as you justly observe, an affair of infinite delicacy. 
+The undoubted advantage they will take, even of the 
+appearance of infraction on our part, and the Ameri 
+can character, which is concerned in preserving its 
+faith inviolate, cover this affair with difficulties, and 
+prove the disadvantage we are under in conducting 
+war against an old, corrupt, and powerful people, who, 
+having much credit and influence in the world, will 
+venture on things that would totally ruin the reputation of young and rising communities like ours. 
+</p><p>
+The English, however, were not to blame in the 
+business of Closter Seven. That Convention was left 
+incomplete by the Commanders who made it. It was 
+stipulated, particularly, that the Court of Versailles 
+must ratify, and that within a certain time, which 
+was not done until long after the time was elapsed, 
+and before which ratification the troops of Hanover 
+had returned to arms. Upon this occasion, the good 
+faith of England is not impeached. 
+</p><p>
+It is greatly to be regretted that the situation of 
+your army unfits it for vigorous action, because it is 
+very obvious that the enemy's possession of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> this winter and the ensuing spring, may produce consequences extensively injurious. You well 
+know, Sir, how weak and divided the people of this 
+State are from various causes. Those of Delaware are 
+still worse. In this condition, with the infinite arts 
+of our enemies, pushed up almost to the centre of 
+the above Governments, and aided by the powerful 
+means of supplying the wants, fanciful and real, of 
+the people, with all kinds of European goods and 
+salt, it will be no great matter of surprise if we were 
+to find a total revolution in Pennsylvania and Dela 
+ware. Add to this, the ill condition of our finances, 
+which totter upon every seeming success of the 
+enemy. 
+</p><p>
+It is not to be supposed that, where so much is at 
+stake, Great Britain will fail to make most potent 
+efforts to recover her honor, and prevent her ruin. 
+Upon this ground, we may expect considerable reenforcements, and early as possible in the spring. With 
+an army much strengthened, General Howe may effect 
+purposes dangerous to America, It happens, too, unluckily for us, that, in order to support the credit of 
+our money, the several States must, of necessity, impose large and immediate taxes. This is the most 
+delicate and difficult of all Government operations, 
+even in old and undisturbed states. Yet it is una 
+voidable, and Congress have pressingiy requested that 
+it may be quickly and extensively entered upon. 
+</p><p>
+It was most evident, to discerning men, that the 
+change in the Commissariat, at the time it was adopted, would produce most mischievous consequences, 
+yet such was the rage of reformation, that no en 
+deavours to prevent the evil could avail 5 and now I 
+feel the most anxious solicitude, for fear the consequences may disperse our army even in face of the 
+enemy. A Committee is appointed to confer with 
+the Commissary-General, and to try what can be 
+done to avert the evil. I wish they may be for 
+tunate enough to hit upon a remedy. That there 
+should be a want of flour amazes me, and proves 
+great want of attention in the Commissary-General, 
+because I well know that any quantity might have , 
+been got in Virginia at a reasonable price. 
+</p><p>
+By our last despatches from the West Indies, it 
+would seem as if a war between France and England 
+was inevitable, unless the latter should restore all her 
+captures made from the former without the limits 
+prescribed by treaty, and which have been made under authority of an Act of Parliament. But the 
+royal spleen against America is such, that every con 
+sideration falls before the wish to subjugate this free country. Yet Mr. Bingham mentions, that the ministerial writings are calculated to rouse the national 
+resentment against France. If so, it is evident they 
+want to set Europe on fire, that the smoke may 
+cover them from the eyes of their injured country. 
+Mr. Carmichael writes that Dr. Lee was returning to 
+Paris from Berlin, having finished his business success 
+fully at the Prussian Court; and Mr. Bingham says 
+it is certain that the King of Prussia has opened his 
+ports to the United State's, and that Portugal has 
+deserted the interest of England, and acceded to the 
+family compact. This is all good news, and will, I 
+hope, furnish employment quickly for our unprin 
+cipled enemies.
+</p><p>
+My ill state of health will compel me to return 
+home in a few days, where I shall continue ardently 
+to pray for your health and success. 
+</p><p>
+I am, dear Sir, affectionately yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter><letter id="rhl3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="16">16</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The unfortunate cause, which hath prevented me 
+from attending to your last favor sooner, will, I hope, 
+be my excuse. The long sickness and death of my 
+much-loved brother of Bellevue, has for some time 
+past confined me in Virginia, and removed every other 
+consideration from my mind. I now embrace the first 
+good opportunity of sending you the pamphlet of 
+forgeries, that I formerly mentioned. It is among the 
+pitiful arts of our enemies, to endeavour at sowing 
+dissension among the friends of liberty and their country. With me, such tricks can never prevail. 
+</p><p>
+Give me leave, dear Sir, to congratulate you on 
+the happy event of our treaty with France being so 
+effectually concluded. Congress have ratified it on 
+their part, and ordered the ratification to be delivered 
+in due form. This will be announced to the public 
+immediately. The counsels of France have been governed, in this affair, by true magnanimity and sound 
+policy. It was magnanimous in his Most Christian 
+Majesty, not to avail himself of our situation to demand unequal and oppressive terms; and it was wise 
+to leave the commerce of America open to all the 
+maritime states, which will prevent their jealous} 
+and enmity, and make them foes instead of friends to 
+England. Great Britain has its choice now of madness or meanness. She will not war with the house 
+of Bourbon and North America at the same time ; so 
+that I incline to think meanness will be her choice, 
+as best befitting her present state and the minds of 
+her rulers. It will probably happen, that the trade of France will not now be interrupted ; and thus, by 
+affording no pretext for war, the whole force of our enemies may be devoted to one last and vigorous 
+campaign against us. As wise men, we ought to be 
+prepared for such an event, by collecting a strong 
+army, and by every other means that can discourage 
+and defeat such intentions of our inveterate enemies. 
+Being disappointed this campaign, must infallibly compel the acknowledgment of our independence, and 
+keep the world, for some time longer, in peace. Eng 
+land alone will pay, for her wickedness and folly, by 
+the loss of North America. 
+</p><p>
+Our information is good, that very few troops can 
+come here from Germany ; and private letters, as well 
+as public papers, say that the plan of getting regiments by subscription, though much boasted of at 
+first, has fallen very low. From the Highlands of 
+North Britain some men will be obtained, and per 
+haps a few from England and Ireland, but there 
+seems no reason to suppose that their every exertion can add more than four or five thousand to the 
+present force in North America. But this will re 
+quire a very considerable strength, on our part, to 
+make the event certain. An unsettled dispute between the Emperor and the King of Prussia (which 
+England will undoubtedly foment) concerning the di 
+vision of the estate of the late Elector of Bavaria, 
+has threatened a rupture in Europe, not for our ad 
+vantage, because the former of these princes being 
+with us, the latter might be disposed to favor the 
+views of Great Britain, to our injury. 
+</p><p>
+Alderman Lee writes, that there is some hope of 
+this being negotiated happily. An intelligent correspondent in England writes to Alderman Lee, that it 
+was uncertain whether Lord North's Bills would be 
+agreed to or not, but that they were industriously 
+sent over here, and circulated, to prevent our treaty 
+with France from being concluded. Vain and unwise 
+men ! Their means are always destructive of their 
+ends. North's delusive and indecent propositions 
+have accelerated an adoption of the agreement with 
+France. 
+</p><p>
+I am much concerned to find, in Virginia, such want of method and industry in collecting and bringing forward the drafts. When I came away, there 
+were all the men (amounting to forty-one or two), 
+both of the former and the latter drafts, remaining 
+in King George, merely for want of an officer to 
+bring them away ; and I am misinformed if it is not 
+the case in other counties. As far as I have been 
+able to learn, it is probable that, if dexterous recruiting officers were properly furnished for the business, 
+and sent out, almost all these veterans, that have 
+been discharged from our nine regiments, would reenlist in a short time. I am, with sincere esteem, dear Sir, 
+</p><p>
+Your most affectionate and obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p><p>
+P. S. Alderman Lee says, they talk of sending 
+Lord Westcote and Hans Stanley here, to treat with 
+us, and that they are to bring half a million of guineas to bribe the Congress. From their own corruptions, these men reason to the corruption of all others. 
+</p><p>
+I had almost forgot to mention, that four expresses 
+were sent from St. James's, on the subject of Generals Howe and Clinton. The latter had leave to go 
+home ; the Court was disgusted with the , former, and 
+had recalled him, but recollecting that Clinton might 
+be come away, another messenger was sent to stop 
+Howe, if that should be the case. I hoped, they are 
+both gone.
+</p>
+</letter><letter id="rhl3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I hope the measures you have taken will be effectual to the purpose of reenlisting the army, because 
+it is an object of great importance; and I readily 
+admit the propriety of first trying those methods 
+which promise fewest ill consequences. Danger will 
+only arise from pressing such too far, and urging 
+the experiment too long. I very much fear, Sir, that 
+the knowledge of depreciation has reached the most 
+uninformed, and, therefore, that every evil which can, 
+will happen to us from this cause. But I am not 
+without hope that such measures will be adopted as 
+may, before it is too late, restore our currency to its 
+proper value. 
+</p><p>
+It is, indeed, no easy matter to judge of the designs of the enemy. They have created to themselves a great choice of difficulties. I "believe they would 
+willingly change their war of conquest to one of revenge altogether ; but revenge must be postponed to 
+safety. General Clinton's army is the only hope of 
+Canada, Nova Scotia, the Floridas, the West Indies, 
+and, I may safely add, much so of Great Britain and 
+Ireland. Whilst this is the case, although <a href='/results.php?city=boston' rel='city'>Boston</a>, in 
+its present situation, is a very tempting object, I can 
+not think they will undertake it. However, what 
+can be attempted, may be attempted, and wisdom 
+points to precaution. If it be true, and our information comes pretty direct, that Dominica has fallen, 
+that Jamaica and St. Kitts are in jeopardy, and that 
+Keppel has fled from the fleet of France, we may sup 
+pose that our enemies can make no long stay with 
+us. Distance and land-carriage distress us greatly in 
+the article of bread provision- to which is added an 
+artificial scarcity, created in the midst of plenty, by 
+an infamous set of engrossers, who have raised the 
+price of flour from four dollars a hundred to five 
+and six pounds. I hope the measures we are taking 
+with these gentry will make them suffer in a way 
+most hurtful to them. 
+</p><p>
+Mr. Eustis had quitted this city before your letter 
+came to hand, and as he is gone to the army, I have 
+inclosed the letter in this. I am, with much esteem 
+and regard, dear Sir, your most obedient and very 
+humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rhl" rel="me">RICHARD HENRY LEE</a>. 
+</p>
+</letter>

@@ -1,0 +1,76 @@
+<letter id="ben4876">
+<recipient first="Barbeu" last="Dubourg" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="12">Dec.</a> <a rel='day origin' value='26'>26</a>. <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Last Night I received your Favour of the ig^ per Post, 
+which I think is the best Conveyance for our Letters without 
+any indirect Address; for I perceive that not only the little 
+Piece which I sent on the 14 th Inst. but a long Letter of the 
+8 th have miscarried. With the first I only thank'd you for 
+the Square of nooo, & made a short Remark of some Imperfection I observ'd in it, and told you I had some where a 
+square of 8, with the Diagonals you requir'd, w'' I would send 
+you if I could find it. I also mentioned that I deferr'd 
+sending the other Pieces you directed, till I should hear from 
+you that the first was correct. Nevertheless they went the 
+Week following, and I suppose have likewise miscarried. 
+I shall write over again the Purport of my Letter of the 8'. b 
+& send it with this. And as I pay no Postage here, I would 
+request that for the future you would keep a little Ace' of 
+what you pay there, and we will divide that Expence between 
+us. Only I wish you to let me know how I may make 
+my Letters cheapest, i.e. whether Letters are paid for in 
+Paris according to their Weight, or according to the Number 
+of Pieces of Paper as here. 
+</p><p>
+Page 179 Binnacle, Boyer explains this under the Word 
+Bittacle, which is the same thing, tho' the first is more agreable 
+to the common Pronunciation. 
+</p><p>
+P. 209. it ought to be <a href='/results.php?year=1756'>1756</a>, and not <a href='/results.php?year=1754'>1754</a> 
+</p><p>
+P. 219. Acrement close, is a proper Name, the Name 
+of a particular Field 
+</p><p>
+P. 225. It should be, a Point as at P. in Fig. 2. 
+</p><p>
+P. 231. What you say on the Fixing of Salt, may be put 
+in a Note of the Translator. 
+</p><p>
+P. 253. after a warm Spell. Spell is a Vulgar English 
+Word, therefore improper. It should have been after a 
+warm Season. 
+</p><p>
+P. 266. there make another Note of the Translator. 
+</p><p>
+P. 278. A Surveyor's Chain meant here, is four Poles or 66 feet. 
+</p><p>
+P. 311. Outward Warmth It is not a "chaleur exterieure que Ton eprouve en entrant dans une Chambre pour 
+y prendre le bain froid," that would indeed be unintelligible. 
+As the Passage seems difficult, I have got my Clerk who is of 
+French Extraction, to put it into his French, which perhaps 
+you will understand better than my English. 
+</p><p>
+I will as you desire send to Mess 6 Dilly & enquire for the 
+Amer 11 Transactions. If it is not come there, I shall send you 
+another by the first Opportunity. I am sure the President 
+of that Society can have but one Objection to your translating their Book, which is, an Apprehension that the Sale of 
+it will not pay for the Trouble & Expence of printing; 
+and the Society must esteem it great Honour to them to 
+enroll you among their foreign Members. 
+</p><p>
+I have not the least Objection to your making what Notes 
+you please in the Translation. I only wish I could have the 
+Advantage of seeing them before my new Edition is printed 
+in English. 
+</p><p>
+M" e Biheron has been indisposed, but is now well again. 
+We join in the Wishes of the Season for you & Mad e Dubourg. I am ever 
+</p><p>
+Yours most affectionately 
+</p><p>
+B. F. 
+</p>
+</letter>

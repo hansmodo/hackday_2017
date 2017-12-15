@@ -1,0 +1,27 @@
+<letter id="sid5051">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+In my letter of the 30th ult. I took the liberty of mentioning to Congress a circumstance, which made me very 
+solicitous for a final issue of my affairs, which was the illiberal and abusive attacks made on my character, as the 
+public agent and minister of these States, by a certain Mr Thomas Paine, styling himself Secretary for Foreign Affairs, and pretending to address the public in his official 
+capacity. This person has since, in Mr Dunlap's paper of the 2d inst, ventured to assure the public, that the supplies, which I contracted for with Mons. Beaumarchais, were 
+promised and engaged, and that as a present, before I arrived in France, and that he has in his possession full proof of this. 
+</p><p>
+I cannot suppose that Mr Paine is possessed of any letters, or papers on this subject, which are not 
+before Congress, or to which the honorable members are strangers. I will not trouble Congress with any observations on the many groundless and extravagant assertions 
+of this writer, but justice to my own character obliges me to entreat, that, if what he has asserted on this subject is a 
+fact, I may be made acquainted with it. Mons. Beaumarchais, in his letter to Congress of the 23d of March last, 
+asserts directly the contrary to what this man has ventured to publish ; and as my engagements with Mons. Beaumarchais were made on a very different ground, it is of the last importance to me to know if I have been deceived in the 
+whole of this transaction, and how, that I may be able to regulate my conduct accordingly. 
+</p><p>
+I have the honor to be, with the utmost respect, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

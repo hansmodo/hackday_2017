@@ -1,0 +1,32 @@
+<letter id="joj4002">
+<recipient first="Robert" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='29'>29th</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Dear Robert, 
+</p><p>
+The pleasure I expected from a junction of all our families at Bristol has vanished. Dr. Bard tells me the waters 
+there would be injurious to Mrs. Jay's complaints ; so that 
+I shall again take a solitary ride to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, whenever the Convention, who directed me to abide here until their 
+further order, shall think proper to dismiss me. 
+</p><p>
+Messrs. Alsop and Lewis set out next Saturday for 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. <a href="/results.php?tla=jad" rel="colleague">Mr. Duane</a> informs me that he is about to 
+return home, and considering how long he has been absent 
+from his family, I think him entitled to that indulgence. I 
+pray God that your health may enable you to attend constantly, at least till it may be in my power to relieve you. 
+Is Mr. Clinton returned? 
+</p><p>
+Our Convention will, I believe, institute a better government than the present, which in my opinion will no longer 
+work anything but mischief; and although the measure of obtaining authority by instructions may have its advocates, 
+I have reason to think that such a resolution will be taken as will open a door to the election of new or additional 
+members. But be the resolution what it may, you shall have the earliest advice of it. And should my conjectures 
+prove right, I shall inform the members of Duchess of your readiness to serve, and advise them to elect you. 
+</p><p>
+Don't be uneasy at receiving so few letters from me. I have been so distressed by the ill health of my wife and parents, that I have scarce written any thing. 
+</p><p>
+I am, dear Robert, your affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

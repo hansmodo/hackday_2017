@@ -1,0 +1,32 @@
+<letter id="aba3445">
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1797" rel="origin">1797</a>. 
+</p><p>
+" The sun is dressed in brightest beams, 
+To give thy honors to the day." 
+</p><p>
+And may it prove an auspicious prelude to each 
+ensuing season. You have this day to declare yourself head of a nation. " And now, O Lord, my 
+God, thou hast made thy servant ruler over the people. Give unto him an understanding heart, that he 
+may know how to go out and come in before this 
+great people ; that he may discern between good and 
+bad. For who is able to judge this thy so great a 
+people ? ' were the words of a royal sovereign ; and 
+not less applicable to him who is invested with the 
+chief masistracv of a nation, though he wear not a 
+crown, nor the robes of royalty. 
+</p><p>
+My thoughts and my meditations are with you, 
+though personally absent ; and my petitions to 
+Heaven are, that " the things which make for peace 
+may not be hidden from your eyes." My feelings 
+are not those of pride or ostentation, upon the occasion. They are solemnized by a sense of the obligations, the important trusts, and numerous duties 
+connected with it. That you may be enabled to 
+discharge them with honor to yourself, with justice 
+and impartiality to your country, and with satisfaction to this great people, shall be the daily prayer of 
+your 
+</p><p>
+A. A. 
+</p>
+</letter>

@@ -1,0 +1,101 @@
+<letter id="aba3455">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=quincy' rel='city origin'>Quincy</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1804" rel="origin">1804</a>. 
+</p><p>
+SIR, 
+</p><p>
+Sickness for three weeks past has prevented my 
+acknowledging the receipt of your letter of Sept. 
+11th. When I first addressed you, I little thought of 
+entering into a correspondence with you upon subjects of a political nature. I will not regret it, as 
+it has led to some elucidations, and brought on some 
+explanations, which place in a more favorable light 
+occurrences which had wounded me. 
+</p><p>
+Having once entertained for you a respect and 
+esteem, founded upon the character of an affectionate 
+parent, a kind master, a candid and benevolent friend, I could not suffer different political opinions 
+to obliterate them from my mind ; I felt the truth 
+of the observation, that the heart is long, very long 
+in receiving the conviction that is forced upon it byreason. It was not until circumstances concurred 
+to place you in the light of a rewarder and encourager of a libeller, whom you could not but detest 
+and despise, that I withdrew the esteem I had long 
+entertained for you. Nor can you wonder, Sir, that 
+I should consider as a personal unkindness, the instances I have mentioned. I am pleased to find that 
+which respected my son altogether unfounded. He 
+was, as you conjecture, appointed a commissioner 
+of Bankruptcy, together with Judge Dawes, and 
+continued to serve in it with perfect satisfaction to 
+all parties, (at least I never heard the contrary,) 
+until superseded by the appointment of others. The 
+idea suggested that no one was in office, and consequently no removal could take place, I cannot consider in any other light than what the gentlemen 
+of the law would term a quibble, as such I pass it. 
+Judge Dawes was continued or re-appointed, which 
+placed <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a> in a more conspicuous light as 
+the object of personal resentment. Nor could I, 
+upon this occasion, refrain calling to mind the last 
+visit you made me at Washington, when in the 
+course of conversation you assured me, that if it 
+should lay in your power at any time to serve 
+me or my family, nothing would give you more 
+pleasure, With respect to the office, it was a small 
+object, but the disposition of the remover was considered by me as the barbed arrow. This, however, 
+by your declaration, is withdrawn from my mind. 
+With the public it will remain. And here, Sir, may 
+I be allowed to pause, and ask whether, in your 
+ardent desire to rectify the mistakes and abuses, as 
+you may term them, of the former administrations, 
+you may not be led into measures still more fatal 
+to the Constitution, and more derogatory to your 
+honor and independence of character ? I know, 
+from the observations which I have made, that there 
+is not a more difficult part devolves upon a Chief 
+Magistrate, nor one which subjects him to more 
+reproach and censure, than the appointment to office. 
+And all the patronage which this enviable power 
+gives him is but a poor compensation for the responsibility to which it subjects him. It would be well, 
+however, to weigh and consider characters, as it 
+respects their moral worth and integrity. He who 
+is not true to himself, nor just to others, seeks an 
+office for the benefit of himself, unmindful of that of 
+his country. 
+</p><p>
+I cannot accord with you in opinion that the Constitution ever meant to withhold from the National 
+Government the power of self-defence ; or that it 
+could be considered an infringement of the Liberty 
+of the Press, to punish the licentiousness of it. 
+</p><p>
+Time must determine, and posterity will judge, 
+with more candor and impartiality, I hope, than the 
+conflicting parties of our day, what measures have 
+best promoted the happiness of the people ; what 
+raised them from a state of depression and degradation to wealth, honor and reputation ; what has made 
+them affluent at home and respected abroad ; and to 
+whomsoever the tribute is due, to them may it be 
+given. 
+</p><p>
+I will not any further intrude upon your time ; 
+but close this correspondence by my wishes that you 
+may be directed to that path which may terminate in 
+the prosperity and happiness of the people over 
+whom you are placed, by administering the government with justice and impartiality. And be assured, 
+Sir, no one will more rejoice in your success than 
+</p><p>
+Abigail Adams. 
+</p><p>
+MEMORANDUM, 
+</p><p>
+[Subjoined to the copy of this letter, in the handwriting of <a href='/results.php?tla=jod' rel='friend met spouse'>Mr. Adams</a>.] 
+</p><p>
+<a href='/results.php?city=quincy' rel='city'>Quincy</a>, 19 November, 1804. 
+</p><p>
+The whole of this correspondence was begun and 
+conducted without my knowledge or suspicion. Last 
+evening and this morning, at the desire of Mrs. 
+Adams, I read the whole. I have no remarks to 
+make upon it, at this time and in this place. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. Adams</a>. 
+</p>
+</letter>

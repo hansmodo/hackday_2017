@@ -1,0 +1,25 @@
+<letter id="joj4010">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a rel='day origin' value='26'>26th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+As an opportunity of going to <a href='/results.php?city=albany' rel='city'>Albany</a> will not probably 
+be given me during the session of the Legislature, and as I 
+have too long kept you in suspense relative to the farm you 
+was so kind as to offer me, I ought now to acquaint you 
+that I am under a necessity of denying myself the pleasure 
+of being your neighbour. My father's infirmities have so 
+increased as to render a removal to <a href='/results.php?city=saratoga' rel='city'>Saratoga</a> so inconveniert and painful, if practicable, that he cannot prevail 
+upon himself to undertake it. So that, my dear sir, filial 
+obligations will constrain me to continue in his neighbourhood. 
+</p><p>
+He is greatly obliged by your friendly offer, and believe 
+me, it will ever excite the gratitude of your obliged and 
+</p><p>
+Affectionate friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

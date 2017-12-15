@@ -1,0 +1,31 @@
+<letter id="jod3649">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='28'>28</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1798' rel="origin">1798</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE received yours of the 18th, and none later. 
+Your company here is much desired by every body, 
+but by none so much as me. My occupation in business is so incessant that I could have little time to 
+pass with you, but that little every day would be precious and invaluable. You express a willingness to 
+come on ; but the thought of attempting it without 
+consulting your friends and physicians distresses and 
+terrifies me lest it should prove fatal to a life that is 
+dear to me beyond all expression. If, however, your 
+physicians are of opinion that you can come on by 
+easy journeys, in any way you can think of, your arrival here will be an inexpressible satisfaction to me. 
+But if you attempt to come without a fixed resolution to take care of your health and renounce those 
+fatigues of public places, drawing rooms, great dinners, &c., I am very apprehensive that this winter 
+will be your last. A constitution so wrecked and 
+exhausted as yours has been by a three months confinement, may be easily overset 
+</p><p>
+We are all well and every thing goes on very well. 
+We had the ministry and general officers to dine on 
+Monday, and all agreeable. 
+</p><p>
+I am, with tenderness inexpressible, ever yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

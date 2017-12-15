@@ -1,0 +1,18 @@
+<letter id="mbc7753">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Miss Olivia Middleton and Mr. Frederick Blake are to be married. We Confederates have invented the sit-up-all-night for the wedding night; Isabella calls it the wake, not the wedding, of the parties married. 
+The ceremony will be performed early in the evening ; the whole company will then sit up until five o clock, at which 
+hour the bridal couple take the train for Combahee. Hope <a href='/results.php?tla=wts' rel=''>Sherman</a> will not be so inconsiderate as to cut short the honeymoon. 
+</p><p>
+In tripped Brewster, with his hat on his head, both hands extended, and his greeting, " Well, here we are! " 
+He was travel-stained, disheveled, grimy with dirt. The prophet would have to send him many times to bathe in 
+Jordan before he could be pronounced clean. 
+</p><p>
+<a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> will not turn and pursue <a href='/results.php?tla=wts' rel=''>Sherman</a>. Thomas is at his heels with forty thousand men, and can have as many 
+more as he wants for the asking. Between Thomas and <a href='/results.php?tla=wts' rel=''>Sherman</a>, <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> would be crushed. So he was pushing I 
+do not remember where or what. I know there was no comfort in anything he said. 
+</p><p>
+Serena's account of money spent : Paper and envelopes, $12.00 ; tickets to concert, $10.00 ; tooth-brush, $10.00 ; total, $32.00. 
+</p>
+</letter>

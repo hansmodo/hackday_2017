@@ -1,0 +1,25 @@
+<letter id="nag3914">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+DEAR SIR: 
+</p><p>
+I have just got letters from Gen. Gist, giving an account of a little 
+action between <a href='/results.php?tla=jol' rel='colleague met'>Col. Laurens</a> and the enemy, about twelve miles below 
+the ferry on Combahee, where he had taken post, and thrown up a 
+little work to fire on the enemy's shipping, as they passed down the 
+river. The enemy landed in considerable force. The Colonel's party 
+being small, was beat back, in which conflict the Colonel fell, and we 
+had the mortification to lose a howitzer. Gen. Gist got up just time 
+enough to save the party from suffering further injury. We had twenty-four killed, wounded and missing. After this action the enemy embarked, and went down the river to the mouth of it, where they lay 
+when Gen. Gist's dispatches came away; it is said they are going to 
+Port Royal. There is no mention made of the enemy's loss; but they 
+must have suffered considerably, and I believe they have got little or 
+no rice. This is the substance of the General's letter. I lament the 
+unhappy fate of <a href='/results.php?tla=jol' rel='colleague met'>Col. Laurens</a>. I am, with great respect, 
+Your Excellency's most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

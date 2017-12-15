@@ -1,0 +1,74 @@
+<letter id="joj4083">
+<recipient first="Gilbert Du Motier" last="Lafayette" type="individual"/>
+<p>   	 
+Office for Foreign Affairs, 2 
+</p><p>
+[<a href='/results.php?city=new york' rel='city origin'>New-York</a>], <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Accept my thanks for your interesting letter of the 19th 
+March, which was immediately communicated to Congress. 
+I consider it as a new proof of that constant and useful 
+attention to our affairs, from which the United States have 
+so often derived both pleasure and advantage. Let me 
+request the continuance of your correspondence, and be 
+assured that it will always give me pleasure to communicate to you such intelligence respecting American occurrences as may appear interesting. 
+</p><p>
+Don Diego Gardoqui is arrived, and has been received 
+so much in the spirit of friendship, that 1 hope his master 
+and himself will be well pleased. Our negotiations with 
+him will soon commence, and I sincerely wish that the 
+issue of them may be satisfactory to both countries. To 
+prepare for war, and yet be tenacious of peace with all the 
+wwld, is, I think, our true interest. I wish Mr. Gardoqui's 
+instructions may be sufficiently extensive to admit of a settlement of our boundaries, &c, on principles which alone 
+can create and perpetuate cordiality. 
+</p><p>
+The British show no disposition to evacuate our frontier 
+posts. What their real designs are, can at present be only 
+inferred and conjectured from appearances ; and present 
+appearances induce a suspicion that they mean to hold 
+them. The letters we expect from <a href='/results.php?tla=jod' rel='colleague met friend'>Mr. Adams</a> will probably remove all doubts on that head. It is certain that 
+they pay great attention to the Indians, and give great encouragement to emigrants from us. Their expectations 
+from the latter circumstance will fail them. I wish that 
+every acre of ground they hold in America was settled by 
+natives of the United States. They would transplant their 
+love of liberty, their spirit of enterprise, and their attachment to republicanism into countries in which it is our 
+interest that such plants should be propagated and flourish ; 
+in time they will bear fruit. 
+</p><p>
+The commercial class of our people sensibly feel the 
+restraints on our trade, and look up to Congress for a 
+remedy. Good will come out of evil ; these discontents 
+nourish federal ideas. As trade diminishes, agriculture 
+must suffer ; and hence it will happen that our yeomen will 
+be as desirous of increasing the powers of Congress, as our 
+merchants now are. All foreign restrictions, exclusions, and 
+unneighbourly ordinances will tend to press us together, 
+and strengthen our bands of union. 
+</p><p>
+I send you herewith a number of gazettes, from which 
+you will discern something of the spirit which prevails. 
+</p><p>
+Congress go on doing business with great concord, 
+temper, and harmony. I enclose a copy of the ordinance 
+for regulating the Land Office. They are now on the subject of requisitions ; and I flatter myself, that as the highest 
+respect for good faith prevails in the House, that exertions 
+will be made by the States to preserve the public credit. 
+</p><p>
+Governor Livingston was appointed for the Hague, but 
+declining that place, <a href='/results.php?tla=ewr' rel='colleague met friend'>Gov. Rutledge</a> has been elected for it. 
+His answer has not yet reached. 
+</p><p>
+When, my dear sir, will your court send us a minister ? 
+Our having one at Versailles, affords reason to expect one 
+from thence. The report of Mons. De Montiers coming 
+over in that capacity dies away. From the little I saw of 
+him in Paris, I am inclined to think he would be an agreeable, as well as an able minister. 
+</p><p>
+I am, dear sir, your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

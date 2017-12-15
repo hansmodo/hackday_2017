@@ -1,0 +1,15 @@
+<letter id="jhm3914">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=cane acre' rel='city origin'>CANE ACRE</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I am informed there is a number of seamen prisoners at <a href='/results.php?city=georgetown' rel='city'>Georgetown</a> ; 
+I, therefore, desire you would endeavor to negotiate an exchange with 
+the British Commander at Charlestown, for an equal number of American seamen, giving a preference to our own as far as we have a claim. 
+I am, sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

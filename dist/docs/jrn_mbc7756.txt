@@ -1,0 +1,13 @@
+<letter id="mbc7756">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='27'>27th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Oh, why did we go to Camden? The very dismalest Christmas overtook us there. Miss Rhett 
+went with us a brilliant woman and very agreeable. "The world, you know, is composed, said she, "of men, women, 
+and Rhetts " (see Lady Montagu). Now, we feel that if we are to lose our negroes, we would as soon see <a href='/results.php?tla=wts' rel=''>Sherman</a> 
+free them as the Confederate Government ; freeing negroes is the last Confederate Government craze. We are a little 
+too slow about it; that is all. 
+</p><p>
+Sold fifteen bales of cotton and took a sad farewell look at Mulberry. It is a magnificent old country-seat, with old 
+oaks, green lawns and all. So I took that last farewell of Mulberry, once so hated, now so beloved. 
+</p>
+</letter>

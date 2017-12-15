@@ -1,0 +1,16 @@
+<letter id='bsl843'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=san francisco' rel='city origin'>San Francisco</a><br/>  
+Jan. <a rel='day origin' value='8'>8th</a>, <a href="/results.php?year=1850">1850</a>
+</p><p>
+Jno. L. Stephens Esq.
+</p><p>
+It affords me pleasure to introduce to your acquaintance Genl. Thos. I. Green. The Genl. had the honor representing one of our most populous districts in the first Senate of California. You will glean from him desirable intelligence in relation to this "term." A scheme is now an foot to locate the capital of Cal. Capital and influence is not wanting--the Genl. will explain fully. I shall write you particulars by this steamer in the care of the Genl., who will see you at Panama. Davd Broderick Esq. of this city joins me in our rembrance to you.
+</p><p>
+With due respect,<br/>  
+Yr. obdt. sert<br/>  
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>
+

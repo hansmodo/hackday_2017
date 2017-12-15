@@ -1,0 +1,34 @@
+<letter id='mad1730'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+August 27th, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+DEAR SIR, I wrote you a few lines by the last post from this 
+place, just to apprise you of my movement to it. I have since 
+seen the <a href="/results.php?city=richmond" rel="city">RICHMOND</a> and the Philad'a papers, containing, the 
+latter, the certificate of Jay & King, and the publications relating to the subject of it; the former, the proceedings at <a href="/results.php?city=richmond" rel="city">RICHMOND</a>, dictated, no doubt, by the cabal at Philad'. It is 
+painful to observ.the success of the management for putting Wythe at the head of them. I understand, however, that a 
+considerable revolution has taken place in his political sentiments, under the influence of some disgusts he has received from the State Legislature. By what has appeared, I discover 
+that a determination has been formed to drag before the public the indiscretions of Genet, and turn them and the popularity of the President to the purposes driven at. Some impression 
+will be made here, of course. A plan is evidently laid in <a href="/results.php?city=richmond" rel="city">RICHMOND</a> to render it extensive. If an early and well-digested 
+effort for calling out the real sense of the people be not made, there is room to apprehend they may, in many places, be misled. 
+</p><p>
+This has employed the conversation of and myself. 
+</p><p>
+We shall endeavor at some means of repelling the danger, particularly by setting on foot expressions of the public mind in 
+important counties, and under the auspices of respectable 
+names. I have written, with this view, to Caroline, and have 
+suggested a proper train of ideas, and a wish that Mr. P. would 
+patronize the measure. Such an example would have great 
+effect. Even if it should not be followed, it would be considered as an authentic specimen of the Country temper, and 
+would put other places on their guard against the snares that 
+may be laid for them. The want of opportunities, and our 
+ignorance of trustworthy characters, will circumscribe our 
+efforts in this way to a very narrow compass. The rains for 
+several days have, delayed my trip to the gentleman named in 
+my last. Unless to-morrow should be a favorable day, I shall 
+be obliged to decline it altogether. In two or three days I 
+shall be in a situation to receive and answer your, as 
+usual. That by Mr. D. R. has not reached me. 
+</p>
+</letter>

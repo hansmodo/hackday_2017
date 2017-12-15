@@ -1,0 +1,18 @@
+<letter id="mbc7556">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1861' rel="origin">1861</a>]. Note the glaring inconsistencies of life. Our chatelaine locked up Eugene Sue, and returned even 
+Washington Allston's novel with thanks and a decided hint that it should be burned ; at least it should not remain 
+in her house. Bad books are not allowed house room, except in the library under lock and key, the key in the Master's 
+pocket ; but bad women, if they are not white, or serve in a menial capacity, may swarm the house unmolested; the 
+ostrich game is thought a Christian act. Such women are no more regarded as a dangerous contingent than canary birds would be. 
+</p><p>
+If you show by a chance remark that you see some particular creature, more shameless than the rest, has no end 
+of children, and no beginning of a husband, you are frowned down; you are talking on improper subjects. 
+There are certain subjects pure-minded ladies never touch upon, even in their thoughts. It does not do to be so hard 
+and cruel. It is best to let the sinners alone, poor things. If they are good servants otherwise, do not dismiss them; 
+all that will come straight as they grow older, and it does ! They are frantic, one and all, to be members of the church. 
+The Methodist Church is not so pure-minded as to shut its eyes ; it takes them up and turns them out with a high hand 
+if they are found going astray as to any of the ten commandments. 
+</p>
+</letter>

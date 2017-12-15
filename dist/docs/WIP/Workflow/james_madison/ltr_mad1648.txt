@@ -1,0 +1,17 @@
+<letter id='mad1648'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, May 13, <a href="/results.php?year=1789">1789</a>. 
+</p><p>
+DEAR SIR, I have been favored with yours of April 
+</p><p>
+The newspapers will have given you some idea of our proceedings, though in a state always mutilated, and often perverted. 
+The impost is still the subject of deliberation. The general 
+quantum of duties has at some periods been a source of discussion; at others, the ratio of particular duties have produced still 
+more of it. The proper one between Rum and Molasses has 
+been the last and the longest question of that sort. I fear it will 
+not be possible to establish a due and politic proportion without admitting excises, so far as to reach the distilleries. The 
+dilemma between that expedient and a palpable inequality in 
+the burden, and injury to the Treasury, is a perplexing one. 
+</p>
+</letter>

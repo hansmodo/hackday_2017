@@ -1,0 +1,51 @@
+<letter id="jol4927">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='8'>8th</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have just finished a few hasty lines and dispatched Mr. Payne, hut in my hurry I forgot to inform you of an interesting letter which the general received this 
+morning from Sir Wm. Howe, in which he declares that he is ready to give his consent to a General exchange of prisoners upon the terms formerly offered 
+by <a href='/results.php?tla=gwa' rel='co-worker friend met'>Gen'l Washington</a>, alledging his desire to relieve 
+the men and officers from the misery which unavoidably accompanies captivity, as his only motive. He 
+disavows the cruel treatment of our prisoners with 
+which he has been so often charged; and quotes the 
+license which he has lately given to our commissaries 
+to purchase blanketing for the unhappy American 
+captives, to establish his reputation in point of humanity. He farther says he is informed that the claims 
+upon Lieut. <a href='/results.php?tla=jhb' rel='adversary'>Gen'l Burgoyne</a>'s army for provisions 
+have been made a pretext for infringing if not totally 
+breaking the convention of <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, and says he will 
+give orders for liquidating accounts of this nature and 
+paying the balances, when he hopes the proper orders 
+will be given by Gen. "Washington for the embarcation of the convention troops. But as this letter is 
+not announced to you officially, I must entreat you to 
+let the existence of it remain a secret with yourself. 
+</p><p>
+The <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a> left camp on Friday. Duplessis set out this morning. They both have told 
+me things which humble me as a republican. Our 
+freedom depends upon the patriotic exertions of a few 
+individuals. It is with grief I learn that Congress is 
+composed of so small a number as fifteen. The state 
+of Virginia you see has assented to the articles of confederation. Is there not some latent eastern policy 
+in the article which requires a majority of nine voices 
+to four to decide every important general question ? 
+Adieu, my dear friend and father. I can not form a 
+better wish for my country, than that it had more men 
+like you. The paucity of such citizens is an unanswerable argument for your remaining in public office. 
+I am with the greatest respect and tenderest 
+</p><p>
+affection, 
+</p><p>
+Your 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+A day or two ago, a handsome young lad, who call'd himself Cope, and said he was an ensign in the 35th British. He said that in an affair of honor, he 
+had killed his man, and fearing the consequences, threw himself into our protection. He was treated with that generosity which I hope will ever characterize Americans. A collection of clothes and money 
+was made for him ; the Marquis took him with him, and is to furnish him with letters for his friends in France. We have since discovered that he is an impostor. A duel has lately been fought in which an 
+officer was killed, but Cope was not concerned in it, It is probable that he is some young officer who has been obliged to fly in consequence of some disgraceful action, or perhaps a series of follies. I just had 
+time to send the Marquis a message by Duplessis to put him on his guard. 
+</p>
+</letter>

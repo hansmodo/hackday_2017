@@ -1,0 +1,29 @@
+<letter id="nib5345">
+<recipient first="John" last="Tyler" type="individual"/>
+<p>
+(private &amp; confidential) <a href='/results.php?city=andalusia' rel='city origin'>Andalusia</a> <a rel="month origin" value="8">Aug</a> <a rel='day origin' value='19'>19</a>. <a href='/results.php?year=1842' rel="origin">1842</a> 
+</p><p>
+My dear sir, 
+</p><p>
+In my quiet seclusion I watch with great anxiety the progress of things at Washington and as lookers on at the 
+game sometimes see a move which may escape the busy players, I venture to make a suggestion. It is prompted by 
+an intense sensitiveness to the present state of the country by my desire to see your administration prosper and more 
+especially by the instinctive wish to come to the aid of one [for] whom I have long entertained a sincere personal z regard 
+at the moment when he is overcome by numbers. 
+</p><p>
+It is manifest that your opponents are striving to make you odious as an enemy to the interests protected by the 
+Tariff 3 which you are ready to sacrifice in order to gratify your personal dislike to <a href='/results.php?tla=hec' rel='colleague'>Mr Clay</a> and <a href='/results.php?tla=hec' rel='colleague'>Mr Clay's</a> favorite measure. 
+</p><p>
+Now if I understand your last veto You do not dislike 
+the Tariff bill itself &amp; you would have signed it but for its 
+connection with the Distribution clause. If this be so, you 
+have a chance of striking one of those master strokes which 
+decide instantly the fate of the campaigns. It is this : 
+</p><p>
+To send immediately a message to Congress, urging, in consideration of the exhausted State of the Treasury a revenue bill 
+exactly like that vetoed bill word for word, or as near as you can to it without saying anything about the Distribution 
+clause. Look at the effect of it. If it succeeds, if your adversaries dare not vote against it it is your triumph your 
+measure a popular measure for the country cares only for the Tariff &amp; comparatively little for the Distribution. 
+But if it fails if your opponents vote against it, you will have done your duty. . . . 
+</p>
+</letter>

@@ -1,0 +1,23 @@
+<letter id="aab2602">
+<recipient first="Harman" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city origin">Philadelphia</a>, <a rel="month origin" value="7">July</a> <a rel="day origin" value="24">24th</a>, <a href="/results.php?year=1806" rel="origin">1806</a>. 
+</p><p>
+DEAR SIR : Owing to an absence of unexpected duration from this city, your letter of the 23d of May was not 
+received until a few days ago. My daughter has gone on to <a href="/results.php?city=bedford" rel="city">Bedford</a>. My engagements in this city not permitting me to attend her, I shall follow in a few days, and 
+be at your house before the 20th of August. Let me find you at home, or not far off. I propose to pass two 
+or three days with you. My daughter was charmed with your hospitable and friendly overture, and wished much 
+to avail herself of it. This, however, will not be in her power till October, the period of my return from Kentucky, when it is probable she may. 
+</p><p>
+I omit, till a personal interview, a further answer to your obliging letter. 
+</p><p>
+Two young gentlemen of respectable connections and character, are on their way down the river, Mr. S. 
+Swartwout, of <a href="/results.php?city=new york" rel="city">New York</a>, and Mr. S. Ogden, of New 
+Jersey. I have desired that they would stop at your door, hand you this, and wait long enough to answer any 
+inquiries you might please to make about Cis-Montane men or things. I pray that they may experience your wonted courtesy 
+</p><p>
+Very respectfully, your friend and faithful servant, 
+</p><p>
+<a href="/results.php?tla=aab" rel="me">A. BURR</a>. 
+</p>
+</letter>

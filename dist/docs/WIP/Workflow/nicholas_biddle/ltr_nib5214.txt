@@ -1,0 +1,28 @@
+<letter id="nib5214">
+<recipient first="Daniel" last="Webster" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> <a rel="month origin" value="2">Feby</a>. <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1826' rel="origin">1826</a> 
+</p><p>
+My dear Sir, 
+</p><p>
+... I have no doubt that we could at once give to 
+the Southern &amp; Western sections of the country two or three 
+millions of sound &amp; useful circulating medium if we could 
+sign that amount of 5 &amp; 10 dollars. But to make two mil 
+lions of five dollar notes, it would be necessary to sign my 
+name 40x3,000 times, which, to a person whose time is &amp; 
+must be absorbed during the day by the duties of his station, is wholly impracticable. The application for this purpose was made to Congress some years ago, but it was ac 
+companied by a request that Congress would alter the 
+Charter so as to prevent the universal receivability of the 
+notes. This I am satisfied from experience, as I was at the 
+time from theory, is not desirable; &amp; all that the Bank now 
+wants is, that it may carry into execution a purpose useful 
+alike to itself &amp; to the community, by assisting in the diffusion of a wholesome currency. I wish therefore to consult 
+you as to the best mode of presenting that subject to Congress. I have been for three years past so anxious to keep 
+the Bank out of view in the political world &amp; bring it down to its true business character as a Counting House, that I 
+have been very reluctant to apply to Congress for anything. ... I believe it to stand better with Congress than it did 
+some time ago, but the political odour of sanctity is very evanescent &amp; if our purpose can be obtained without bring 
+ing on two weeks debate upon the constitutionality of the Bank, the usurpations of the Supreme Court, &amp; omni scibile 
+&amp; quibusdem aliis, it would be a great satisfaction. . . . 
+</p>
+</letter>

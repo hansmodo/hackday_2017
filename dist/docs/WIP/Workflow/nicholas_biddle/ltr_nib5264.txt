@@ -1,0 +1,16 @@
+<letter id="nib5264">
+<recipient first="Gardiner" last="Greene" type="individual"/>
+<p>
+(private) <a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="1">Jan</a> <a rel='day origin' value='16'>16th</a> <a href='/results.php?year=1832' rel="origin">1832</a> 
+</p><p>
+My Dear Sir 
+</p><p>
+The Bank having after great consideration presented 
+a memorial for the renewal of the charter, the citizens of Philad are forwarding petitions on the subject of a similar 
+measure [which] will be transmitted by the State Banks. It 
+would be greatly desirable to have the same thing done else 
+where. I have written to-day to our friend Col. Perkins &amp; I wish 
+you &amp; our other friends would endeavour to have a strong &amp; 
+general expression of the sense of your community so that Congress may be apprized of the real sentiments of the country. 
+</p>
+</letter>

@@ -1,0 +1,51 @@
+<letter id="toc3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=arlington' rel='city origin'>Arlington</a>, State of Vermont, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I am exceedingly unhappy when I view the critical situation of the interest of the United States, and 
+the great evils which attend the people in this quarter by the unhappy internal broils and contentions, 
+caused by the disputes between them and the several 
+adjacent States, which prevent that line of correspondence with your Excellency necessary to make the common interest become mutual, and which, I 
+am not insensible, puts it out of your Excellency's 
+power to hold such correspondence as, I presume, 
+from your known humanity and warm attachment to 
+the liberties of mankind, would be otherwise granted 
+with pleasure. 
+</p><p>
+Notwithstanding I esteem it my duty to inform 
+your Excellency of the perseverance of the inhabitants of this State in the grand cause of liberty in 
+which they have embarked, and of the high estimation they entertain of your Excellency's eminent services as Commander-in-chief of the American arms 
+(not to flatter), I am wanting in language to express their feelings. I can only assure your Excellency that nothing impedes their willingness to support your Excellency in the important trust of Commander-in-chief, at the risk of every thing dear to 
+them, but a want of being assured, at the end, of 
+sharing equal privileges with the United States. 
+</p><p>
+It gives me pain to give your Excellency any intelligence which ma}, in the least, add to your burden. But duty to my country, and self-preservation, 
+make it become necessary to present an official account of our situation in this quarter, so far as respects the interest of the common cause ; for which I 
+refer your Excellency to the inclosed letters, which 
+are copies of those sent, as therein specified, and will 
+give a particular relation of the subject. 
+</p><p>
+I can only mention further to your Excellency, 
+that many prisoners, inhabitants of this State, are in 
+the custody of the enemy in Canada; and that, notwithstanding we have taken more than three times 
+the number from them, it is at present out of our 
+power to return equal numbers, having delivered 
+prisoners so taken, from time to time, to the United States. We are about settling a cartel for the redemption of our men in Canada, as before mentioned. 
+I must, therefore, beg your Excellency's indulgence 
+with a sufficient number of prisoners to answer such 
+an exchange, should the Commissioners, appointed for 
+that purpose, agree. Should this proposal meet your 
+Excellency's approbation, a return of the number 
+shall be immediately transmitted, and a compliance 
+with any reasonable requisition that may be necessary 
+to complete a matter so earnestly wished for by. Sir, 
+your Excellency's most respectful 
+</p><p>
+And most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=toc" rel="me">Thomas Chittenden</a>. 
+</p>
+</letter>

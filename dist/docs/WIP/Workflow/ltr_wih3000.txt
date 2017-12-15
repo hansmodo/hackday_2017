@@ -1,0 +1,30 @@
+<letter id="wih3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=kings bridge' rel='city origin'>King's Bridge</a>, <a rel="day origin" value="17">17</a> <a rel="month origin" value="8">August</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+The 1st night the fire-ships and row-galleys made 
+an attempt upon the enemy's ships, which lay at anchor up the river. The fire-ships were well conducted ; the armed schooner was grappled and burnt ; 
+the Phoenix was grappled for about ten minutes, but 
+got herself clear. The Lady Washington galley and 
+Independence, were conducted with great judgment 
+and bravery. I wish I could say that the other galleys did any thing at all. The Phoenix either slipt 
+or cut her cable ; the Rose was left alone, and it is 
+thought might have been taken. I was an eye-witness to the whole; and, from the confusion which was 
+apparent, I am confident that if an attempt should 
+be made on the fleet below, and but one or two 
+ships set on fire, their confusion would be beyond 
+description. 
+</p><p>
+I have the pleasure to acquaint your Excellency, that <a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a> has about five hundred men at 
+a moment's notice, to aid you in case of need. They were the last evening drawn out, when I reviewed 
+them. They are of Colonels Slice's and Magaw's regiments, and the best disciplined of any troops that 
+I have yet seen in the army. I shall, this evening, or to-morrow, send a return of the troops at this 
+post. We are pushing our works with all diligence. I have the honor to be, with great respect, 
+Your Excellency's humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=wih" rel="me">WILLIAM HEATH</a>. 
+</p>
+</letter>

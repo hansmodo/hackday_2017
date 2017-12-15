@@ -1,0 +1,35 @@
+<letter id="ben4813">
+<recipient first="Jonathan" last="Shipley" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='24'>24</a>. <a href='/results.php?year=1771' rel="origin">1771</a> 
+</p><p>
+MY LORD, 
+</p><p>
+I got home in good time, and well. But on perusing the 
+Letters that were come to me from America during my Absence, and considering the Business they require of me, I 
+found it not convenient to return so soon as I had intended. 
+I regret my having been obliged to leave that most agreable 
+Retirement which good Mrs. Shipley put me so kindly in 
+possession of. I now breathe with Reluctance the Smoke 
+of London, when I think of the sweet Air of Twyford. And 
+by the Time your Races are over, or about the Middle of next 
+Month, (if it should then not be unsuitable to your Engagements or other Purposes) I promise myself the Happiness 
+of spending another Week or two where I so pleasantly 
+spent the last. 
+</p><p>
+I have taken the Liberty of sending by the Southampton 
+Stage, which goes to-morrow, a Parcel directed to your Lordship, to be left at the Turnpike next beyond Winchester, containing one of my Books for Miss Georgiana, which I hope 
+she will be good enough to accept as a small Mark of my 
+Regard for her philosophic Genius: and a Specimen of the 
+American dry'd Apples for Mrs. Shipley, that she may judge 
+whether it will be worth while to try the Practice. I doubt 
+some Dust may have got among them, as I found the Cask 
+uncovered: therefore it will not perhaps be amiss to rinse 
+them a minute or two in warm Water and dry them quick 
+in a Napkin : but this is submitted to her better Judgment. 
+With the greatest Esteem and Respect, and many Thanks 
+for your abundant Civilities, I am, my Lord, &c. 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,52 @@
+<letter id="gom4698">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+In a letter, which I had the honor of writing to you on the 
+10th of January, <a href='/results.php?year=1793'>1793</a>, I gave you some traits respecting Mr Westermann, and as my public despatches had already communicated the plans of Damon, you will not have been surprised at what has lately happened to them. I wrote to you 
+on the 25th of June, that those who ruled had just ideas of the value of popular opinion. Also, that should they reach a 
+harbor, it would be as much by good luck, as by good management, and that at any rate, part of the crew would be 
+thrown overboard. Those I had then particularly in view were Chabot and company, of which company a part still exists. 
+</p><p>
+On the eighteenth of October, I gave you a short view of the nature of the then government, and added what seemed to 
+be the probable termination. I therein observed that, whether 
+France would pass to that point through the medium of a Triumvirate, or other small body of men, seemed as yet undetermined; but that I thought it most probable she would. At 
+that period things were wound up very high, and ever since the utmost uncertainty has prevailed, as to the stroke which would be given. 
+</p><p>
+I enclose herein a copy of what I wrote on the twelfth of 
+last month, since which, both the Dantonists and Hebertists 
+are crushed. The fall of Danton seems to terminate the idea 
+,of a Triumvirate. The chief, who would in such case have 
+been one of his colleagues, has wisely put out of the way a 
+dangerous competitor. Hence it would seem, that the high 
+road must be laid through the Comite de Salut Public; unless, 
+indeed, the army should meddle. But as to the army, no 
+character seems as yet to have appeared with any prominent 
+feature ; neither is there so much discipline as would give an 
+aspiring character just ground of hope. It is a wonderful 
+thing. Sir, that four years of convulsion, among four and twenty millions of people, has brought forth no one, either in civil 
+or military life, whose head would fit the cap which fortune has 
+woven. 
+</p><p>
+Robespierre has been the most consistent, if not the only 
+consistent. He is one of those of whom Shakspeare's Caesar 
+speaks to his frolicsome companion, He loves no sports as 
+thou dost, Anthony. There is no imputation against him for 
+corruption. He is far from rich, and still farther from appearing so. It is said that his idol is ambition ; but I think that 
+the establishment of the Republic would, all things considered, be most suitable to him. Whether he thinks so is another 
+question, which I will not pretend to answer, nor how far such 
+establishment may appear to him practicable. If it be sup 
+posed that a man in his situation should absolutely despair of 
+the Republic, and have so much diffidence either in his abilities or his influence, as to despair also of obtaining, much less 
+of preserving the supreme power, then it might be supposed 
+that Danton's plan would be by such person carried into execution. Yet all this supposition is but conjectural foundation of new conjecture. 
+</p><p>
+And what are the Allies about? Forming schemes to be 
+executed, if they should continue to be Allies. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

@@ -1,0 +1,16 @@
+<letter id="mbc7606">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='2'>February</a> <a rel='day origin' value='23'>23d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. While Mr. Chesnut was in town I was at the Prestons. John Cochran and some other prisoners had 
+asked to walk over the grounds, visit the Hampton Gardens, and some friends in Columbia. After the dreadful 
+state of the public mind at the escape of one of the prison 
+ers, General Preston was obliged to refuse his request. Mrs. Preston and the rest of us wanted him to say " Yes," and 
+so find out who in Columbia were his treacherous friends. Pretty bold people they must be, to receive Yankee invaders 
+in the midst of the row over one enemy already turned loose amid us. 
+</p><p>
+General Preston said: " We are about to sacrifice life and fortune for a fickle multitude who will not stand up 
+to us at last. The harsh comments made as to his lenient conduct to prisoners have embittered him. I told him 
+what I had heard Captain Trenholm say in his speech. He said he would listen to no criticism except from a man with 
+a musket on his shoulder, and who had beside enlisted for the war, had given up all, and had no choice but to succeed or die. 
+</p>
+</letter>

@@ -1,0 +1,29 @@
+<letter id="gom4525">
+<recipient first="Johann" last="Thugut" type="individual"/>
+</p><p>
+TO THE BARON DE THUGUT. 
+</p><p>
+<a href='/results.php?city=vienna' rel='city origin'>Vienna</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='31'>31st</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+Sir, 
+</p><p>
+I have the honor to send you herewith a letter for Madame de Lafayette, requesting you in the first place to pardon me 
+this liberty, then to examine the letter, and finally to have the goodness to transmit it to her. Your good sense will easily 
+perceive the reasons, which have induced me to write to her, 
+and will know how to appreciate them. It would, however, be a most praiseworthy action on your part to suppress the 
+letter, and to send me, in place of any answer to it, an order for the release of the unfortunate individual in question. In 
+that case, I promise you not only the good news, which is expected from the Rhine, but also that which perhaps is not expected from Italy ; which, like the favor I venture to solicit, will not be the less agreeable, for having been unexpected. 
+You will probably smile at my absurd pretensions to the character of a prophet ; but only promise me, that the passports of 
+Lafayette shall be prepared three days after you shall have heard of the defeat of Bonaparte, and we shall then see what will happen. 
+</p><p>
+But for the rest, whatever may happen, I return to my first subject, and take the liberty of observing to you once more, 
+that the sooner he is liberated the better, if, as I suppose, that is finally to be done. And since no one has had any right to 
+know why his Majesty, the Emperor, determined to detain him as a prisoner, so no one can assume that of demanding why 
+his kindness has set him at liberty. The maxim, stat pro ratione voluntcts, may be applied to acts of mercy, as well as to 
+those of authority ; and, generally, if not with the same splendor, at least with the same dignity. Think, also, that forgiveness granted to others is the only unobjectionable title, of which we can avail ourselves before the King of kings. And 
+may we be at last permitted to hope that the year, which will soon commence, may be crowned in its cradle by the hand of 
+clemency, and in its course by that of glory. I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

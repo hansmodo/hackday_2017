@@ -1,0 +1,26 @@
+<letter id="sid5059">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+TO THE PRESIDENT OF CONGRESS. 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+Sir, 
+</p><p>
+I heard yesterday, by accident, that an honorable gentleman in Congress had made a calculation from the general account, which I gave in my narrative of the price of the clothes purchased in France, and that given by M. Holker, in a memorial of his, and had drawn consequences very injurious to me there from. In my narrative 
+I informed Congress that the clothes cost 32s. or 33s. sterling complete, delivered on board. This was nearly the 
+average price, and of that, and not of the particular, I spoke. 32s. sterling is equal to 36 livres, I 1 sols, 5 deniers. The 
+clothes bought of Messrs Sabbatier and Desprez cost 36 livres nearest, delivered on board ; those of Mons. Monthieu a few sols more ; those by Mr Williams, the same, 
+nearly as I recollect ; and about a thousand suits of M. Coder, of a different fashion, more than 40 livres each. I have before related to Congress, that Mr Lee himself approved of these purchases, having been present at the contracting of a part of them, those of M. Coder in particular, and had signed the settlement of the accounts, and orders or draughts for the money. 
+</p><p>
+Surprised at the calculation made, and the injurious inferences drawn therefrom, I wrote to M. Holker the 
+enclosed letter, and received his answer thereto, a copy of which I take the liberty of enclosing. 37 livres being 
+equal to 32s. 4 l-2d. sterling, it is evident that the calculation made is wrong, even if I had fixed the price positively at 32s. or 33s. sterling. 
+</p><p>
+I will not trouble Congress at present with any further observations on the subject. 
+</p><p>
+But am, with much respect, etc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p>
+</letter>

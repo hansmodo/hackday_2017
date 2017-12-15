@@ -1,0 +1,432 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.p1vuHW on line 140
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3200
+--LETTER-TLA--hog
+--DOC-AUTHOR-FIRST--Horatio
+--DOC-AUTHOR-LAST--Gates
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume II., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="hog3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am just now honored with the receipt of your Excellency's letter of the 14th instant, from White 
+Marsh. I have never entertained the smallest idea 
+that <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a> should be permitted to ex 
+change the port of embarkation, or that the least 
+variation of the spirit and letter of the Convention 
+would be indulged to the troops under his command. 
+There is no doubt but the British regiments, upon 
+their arrival in England, will be ordered to do duty there; but the Germans cannot, by the laws, serve in 
+Great Britain or Ireland. 
+</p><p>
+If <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a> has any sinister design, what 
+I suggested to Congress in my letter of the 10th 
+instant, a copy of which I conclude your Excellency 
+has received, will be a good method of delaying, if 
+not finally preventing, the execution of his project. 
+</p><p>
+I shall write to-morrow, by the <a href='/results.php?city=boston' rel='city'>Boston</a> post, to 
+General Glover, who is charged with the embarkation 
+of the prisoners under the Convention, and send hima copy of your Excellency's letter. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+To prevent the enemy's army, now marching across 
+the Jerseys, from receiving any considerable reenforcement from the troops in and near <a href='/results.php?city=new york' rel='city'>New York</a>, I 
+propose moving the main body of this army to the 
+White Plains, and shall take a strong camp in that neighbourhood. I have all my cavalry, and a consider 
+able body of infantry, now properly posted between 
+the two rivers, to intercept the enemy's parties, and 
+cut off their communication with the interior country, 
+which has also given the alarm of an attack being 
+meditated upon <a href='/results.php?city=new york' rel='city'>New York</a>, as confirmed by good intelligence, which Colonel Graham assures me he has 
+received. Probably the slow movements of the enemy, joined to the obstructions thrown in their way, 
+may so retard their march through the Jerseys as 
+to give your Excellency an opportunity to harass 
+them exceedingly with your dragoons and light infantry, aided by the militia, which will most assuredly 
+produce, amongst other good things, a considerable 
+desertion, and, perhaps, finally such an opening as 
+may enable your Excellency to make a glorious finishing of the war. I should apprehend the enemy's re 
+sours for provisions on their march must be scanty ; 
+and, if they are once obliged to take a fixed position, 
+or force your army from a very strong one, their 
+desperation may be their ruin. 
+</p><p>
+In order to eke out the magazine, I have increased 
+the quantity of flour and rice, and reduced the meat. 
+Of the two former we have large supplies. I think a 
+quantity of cured shad might be sent us from the 
+southward. I am, Sir, 
+</p><p>
+Your Excellency's most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3202">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=danbury' rel='city origin'>Danbury</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am this moment honored with the receipt of your Excellency's letter of to-day's date. 
+</p><p>
+I am sorry for the disgrace we have suffered in 
+the Jerseys; but imagine that the enemy take ad 
+vantage of the supine ness that constantly seizes our people, when they have been long unmolested. This 
+is an evil, that even the best officers cannot remedy. 
+<a href='/results.php?tla=alm' rel=''>General McDougall</a>'s division will be put upon 
+the march immediately, as your Excellency has commanded. 
+</p><p>
+Your Excellency will excuse me when I say, I like 
+not the divided state of your army. The enemy are 
+upon the qui-vive ; they have the advantages of a 
+river, to navigate upon each of our flanks. To divide is to conquer, in politics. I hope it may not, with 
+regard to us, prove so in the war. 
+</p><p>
+I hope Lord Stirling and General Maxwell will answer all your Excellency's expectations in the Jerseys ; they certainly are best acquainted with that 
+country. 
+</p><p>
+Inclosed is a letter I have this moment received 
+from Major Tallmadge. Your Excellency will please 
+to order Colonel Pettit to supply the necessary articles. I am, Sir, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3203">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+Yesterday I had the honor to receive your Excellency's letter of the 14th ultimo, from <a href='/results.php?city=middlebrook' rel='city'>Middlebrook</a>. 
+I am sorry to find your Excellency seems to have 
+given over all thoughts of penetrating into Canada 
+by the route of Coos, after the preparations made for 
+that purpose, at an incredible expense. 
+I am satisfied you could not have advised with 
+two men, upon this Continent, better acquainted with 
+the practicable routes to the River St. Lawrence, than 
+General Bayley and Colonel Hazen, the latter being 
+an officer of great merit and service, and who long 
+resided upon the River Sorel ; and the former, the 
+best of any acquainted with the country between 
+Coos and Lake St. Peter's, who likewise has the most 
+extensive influence upon the brave and numerous in 
+habitants in the northern parts of the States which 
+lie near Canada. As your Excellency advised with 
+them, and determined upon the route by Coos, I beg 
+leave to express my astonishment at the sudden 
+change of your sentiments, and relinquishment of that 
+plan. 
+</p><p>
+To go into Canada by Lake Champlain, before the 
+enemy's fleet are taken or destroyed, is almost impracticable ; to attempt it by Lake Ontario, before 
+Niagara is taken, and vessels upon that Lake are re 
+moved, is still more difficult, as the Fort at La Galette must be reduced before the passage down the 
+River St. Lawrence is open to Montreal. I believe 
+that, in the present state of our army, and the actual 
+situation of our magazines, to attempt a serious invasion of Canada, by whatever route, would prove unsuccessful, unless the fleet of our allies should, at the 
+same time, cooperate with us, by sailing up the River 
+St. Lawrence. In that case, the enemy's force would 
+all (their fleet excepted) move down the river, to 
+succour Quebec ; and our armament from Coos, assisted by the Canadians, who would flock to meet us, 
+might march in the utmost security from Coos to 
+Lake St. Peter s. The Upper Canada would then be 
+wholly ours, and the English fleet on Lake Champlain, thus rendered useless, would be destroyed by its own crews, before these should be ordered down 
+the river, to make the best of their way to Quebec. 
+</p><p>
+I much lament the amazing and needless expense 
+that is incurred by the preparations making on the 
+upper part of Hudson's River; for, I am confident, 
+no force of ours can get into Canada by either of the 
+routes from <a href='/results.php?city=albany' rel='city'>Albany</a>, in <a href='/results.php?year=1779'>1779</a>. 
+</p><p>
+The last paragraph of your Excellency's letter 
+alarms me exceedingly. There is no magazine of 
+flour in all these States ; and to have no hopes of 
+procuring one, either by land or sea, is a most melancholy consideration. 
+</p><p>
+The Navy Board, here, just now acquainted me 
+with their having lost all hopes of any supply of 
+rice from South Carolina, that State having laid an 
+embargo on that article. With very great respect 
+and esteem, I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3204">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="8">8</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+Thursday night I had the honor to receive your Excellency's letter of the 1st instant, and immediately gave orders for moving the Continental troops 
+over the bay to <a href='/results.php?city=greenwich' rel='city'>Greenwich</a>; but, the weather proving 
+so very stormy the whole day, that could not be effected before Saturday evening. I came myself that 
+night to <a href='/results.php?city=providence' rel='city'>Providence</a>, and gave orders for Jackson's 
+regiment, stationed here, to march this morning for 
+Plainfield ; if the weather continues tolerable, I have 
+no doubt but the whole will reach <a href='/results.php?city=hartford' rel='city'>Hartford</a> Saturday. 
+I have advised with those who are the best acquainted with the different routes at this season of the 
+year ; they all prefer that by <a href='/results.php?city=hartford' rel='city'>Hartford</a>, upon account 
+of the facility of passing the ferries, and the goodness of the roads that way. 
+</p><p>
+I shall bring with me only four pies of light 
+brass field artillery, and propose leaving what is 
+called the park, here, with a small guard to take 
+care of it. If your Excellency wishes more to be 
+brought forward, it may be easily done after the receipt of your farther orders. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+In obedience to the orders contained in your Excellency's letters of the 1st and 2d instant, I marched the whole of the Continental troops from the 
+State of Rhode Island, and arrived yesterday morning, with the first division, consisting of a detachment of Colonel Crane's artillery, with two six-pounders, Colonel Livington's, Colonel Jackson's, and Colonel Webb's regiments, at <a href='/results.php?city=hartford' rel='city'>Hartford</a>. The second division, 
+consisting of the rest of Colonel Crane's, with the 
+like artillery, <a href='/results.php?tla=chg' rel=''>Colonel Greene</a>'s, Colonel Angell's, and 
+Colonel Sherburne's regiments, will be here this evening. As I find no orders here, and have not received 
+any letter from your Excellency since that dated the 
+2d instant, I shall encamp the troops, and wait your further commands. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3206">
+<recipient first="Simon" last="Fraser" type="individual"/>
+<p>
+Head-Quarters, <a rel="day origin" value="2">2</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Last night I was favored with your letter of yesterday's date. 
+The return you request is by this conveyance transmitted to his 
+Excellency <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a>. Surgeons, medicines, and attendance, with every comfort imaginable, have been amply supplied 
+to the sick and wounded officers and soldiers, prisoners at <a href='/results.php?city=bennington' rel='city'>Bennington</a>, as it is the wish of every generous mind, that the calamities of war should lie as light as possible upon unhappy individuals who are wounded or taken. You will be satisfied these 
+are my sentiments when you examine Ensign and Quarter-master 
+Sanders, who were brought by one of my scouts, last year, to 
+<a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. In Brigadier-General St. Leger's retreat from Fort Stanwix, and during the siege thereof, some British officers and 
+soldiers have fallen into our hands. As soon as I know their 
+names, they shall be sent to you in writing. Your letter, ad 
+dressed to the senior British officer, is sent to <a href='/results.php?city=bennington' rel='city'>Bennington</a>. I 
+have the honor to be, Sir, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3207">
+<recipient first="Benjamin" last="Lincoln" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=behmus heights' rel='city origin'>Heights above Behmus</a>, <a rel="day origin" value="19">19</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+It is the opinion of all the Generals that I have consulted 
+with, that, in the present position and circumstances of General 
+Burgoyne's army, considered with his apparent views, your army 
+ought to be posted at Stillwater, and that not one moment should 
+be lost in your marching them thither. Upon your arrival there, 
+you will take possession of the height upon the east side, and fix 
+five or six hundred men thereupon. The rest you will encamp 
+at the old station. <a href='/results.php?tla=jhb' rel=''>General Burgoyne</a> has not left the smallest 
+article at any of the posts in the rear. This, I informed you of 
+in my last. You will march by the shortest route to Stillwater. 
+Provisions, &c., shall be provided for you there. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3208">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+<a href='/results.php?tla=gec' rel=''>Governor Clinton</a> will present you my letter to him of this 
+date, which contains my unalterable sentiments of the measures 
+which ought to be taken, should Sir Harry Clinton attempt to 
+succour or reenforce Sir William Howe. I will not again repeat 
+them here, but only take the liberty earnestly to recommend the 
+profoundest secrecy in whatever you determine to do ; for, depend 
+upon it, that that consummate, artful woman, Mrs. Robinson, will 
+do all in her power to be acquainted with your secrets. 
+</p><p>
+As to any attack upon <a href='/results.php?city=new york' rel='city'>New York</a>, I utterly disapprove of it; 
+for, while the enemy's ships of war can act in the North and 
+East Rivers, the taking of that city would be doubtful, and, if 
+I have had as yet no information of the event of Colonel Johnson's 
+attack on the Mount. My loss of men, in these several actions, is 
+not more than three or four killed, and five wounded. The enemy's 
+loss is less. I find myself in possession of two hundred and ninety-three prisoners, namely; two Captains, nine subalterns, two Commissaries; non-commissioned officers and privates, one hundred and forty-three British, and one hundred and nineteen Canadians; eighteen artificers ; and retook more than one hundred of our men ; total, two 
+hundred and ninety-three, exclusive of the prisoners retaken. The 
+Avater- craft I have taken is one hundred and fifty bateaux, above 
+the Falls ; in Lake Champlain, fifty, above the Falls, including several large gun-boats and an armed sloop ; arms equal to the number of 
+prisoners ; some ammunition ; and many other things which I cannot 
+as yet ascertain. I must not forget to mention a few cannon, which 
+may be of great service to us." 
+taken, could not be held ; and be assured, that all stores, of any 
+value to us, are or will be afloat, before any large detachments 
+leave that city, and I can see no good in taking an empty town, 
+which we cannot hold. Of course it is not an object to divert 
+the attention of the King's Generals from their more important 
+designs. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3209">
+<recipient first="John" last="Burgoyne" type="individual"/>
+<p>
+<a href='/results.php?city=york' rel='city origin'>York</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I am exceedingly mortified that you did not accept of my offer 
+at <a href='/results.php?city=albany' rel='city'>Albany</a>, to go to England in a vessel, that the State of Massachusetts Bay would, at my request, have provided. General 
+Glover, with whom you are acquainted, was, in that case, to have 
+attended you in his own ship ; and I am persuaded you would 
+have avoided many disagreements, had it pleased you to have 
+accepted that offer. Your case I feel, as I ever shall that of the 
+unfortunate brave. If courage, perseverance, and a faithful attachment to your Prince could have prevailed, I might have been 
+your prisoner. The chance of war has determined otherwise. 
+</p><p>
+The Congress now send the passports you desire ; and I am 
+happy to acquaint you, that the Major and Lady Harriet Ackland 
+are in <a href='/results.php?city=new york' rel='city'>New York</a>, and may possibly be in England as soon as, 
+or very soon after you. With respect, I am, Sir, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3210">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="29">29</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+As I have not heard a syllable from you, or <a href='/results.php?tla=isp' rel=''>General Putnam</a>, 
+for a week past, I conclude you are in no want of any further 
+assistance from me. Colonel Malcom promised to write as soon 
+as he saw your Excellency. I have a sloop gone with a flag of 
+truce to <a href='/results.php?city=new york' rel='city'>New York</a>, on board of which is the widow Cortlandt 
+Schuyler, her family, servants, &c., with Lieutenant Swords and 
+his family. The sloop is commanded by Captain Van Buren. 
+Colonel H. B. Livingston, who went in the bateau that carried 
+Lord Viscount Petersham, Aid-de-camp to Lientenant-General 
+Burgoyne, has my orders to see you upon his return from General Vaughan, to whom he carried a letter from me. Captain 
+Van Buren will also make you his report as lie passes New 
+Windsor. I am exceedingly impatient to hear from the south 
+and the south-west. I am happy to tell you, that <a href='/results.php?tla=bel' rel=''>General Lincoln</a> and <a href='/results.php?tla=bea' rel=''>General Arnold</a> are both in a fair way of recovery. 
+I am, 
+</p><p>
+Your Excellency's most affectionate, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter><letter id="hog3211">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Upon my return last night from Coeyman's, I had the pleasure 
+to receive your Excellency's letter of the 30th of last month. If 
+Sir Henry Clinton is directed to reenforce the army of Sir William Howe, which I believe to be the case, he will either land 
+his troops at Amboy, and march by the lower road to Mount 
+Holly, to support any designed attack upon <a href='/results.php?city=fort mifflin' rel='city'>Fort Mifflin</a>, and the 
+fortified pass of the Delaware River ; or he will land at <a href='/results.php?city=elizabethtown' rel='city'>Elizabethtown</a>, and march by Brunswic and <a href='/results.php?city=princeton' rel='city'>Princeton</a> to <a href='/results.php?city=trenton' rel='city'>Trenton</a>, in order to facilitate Sir William Howe's retreat across the Delaware, 
+and through the Jerseys. In either attempt, I am clearly of opinion that all the troops I sent to your assistance, with all that 
+can properly, from your neighbourhood, be added to them, should 
+march without delay to <a href='/results.php?city=morristown' rel='city'>Morristown</a>, and for their further operations, be governed, in great measure, by the movements of the 
+enemy. Of these, the Commanding Officer should procure the 
+best intelligence. 
+</p><p>
+If Sir Henry Clinton marches towards Mount Holly, our army 
+will, of course, move directly to <a href='/results.php?city=princeton' rel='city'>Princeton</a>, and hang upon his 
+rear and right flank. If he marches towards <a href='/results.php?city=trenton' rel='city'>Trenton</a>, our army 
+will march to Somerset Court-House, and be ready to move, as he 
+moves, towards <a href='/results.php?city=trenton' rel='city'>Trenton</a> ; our General carefully acquainting General <a href='/results.php?city=washington' rel='city'>Washington</a> with his own, and the enemy's motions, and receiving his directions for the cooperation of his army. 
+</p><p>
+The Governor of the Jerseys should, at the same time, be 
+requested to order the militia of that State to second the motions 
+of our army. If Colonel Morgan and his rifle regiment have 
+marched, it would be right to send an express to stop them at 
+Van Camp's, and order him to march from thence to Sussex 
+Court-House and <a href='/results.php?city=morristown' rel='city'>Morristown</a>. 
+</p><p>
+The heavy brass artillery I sent down the river, should be sent 
+up again by water, or so disposed as to be secured from any 
+surprise. The light brass field-guns, which you mentioned in a 
+former letter, should be sent with the troops to <a href='/results.php?city=morristown' rel='city'>Morristown</a>. I 
+have the best reason to believe, that, with the troops I have 
+here, I can secure every thing this way until June, and perhaps 
+do more. 
+</p><p>
+If the public affairs of this State do not require your Excellency's immediate attendance upon them, I wish you could be 
+spared to command the army to be assembled at <a href='/results.php?city=morristown' rel='city'>Morristown</a>. 
+But if your meeting the Legislature here cannot be dispensed 
+with, I wish General Parsons might be ordered for that service, 
+and now take the liberty to recommend it to <a href='/results.php?tla=isp' rel=''>General Putnam</a> by 
+this express. Nevertheless, I wish you would immediately cross 
+the river to <a href='/results.php?tla=isp' rel=''>General Putnam</a>, and show him this letter, and confer with him upon this important movement of the troops. 
+</p><p>
+As I have sent <a href='/results.php?tla=isp' rel=''>General Putnam</a> a very fine brigade from 
+hence, with two excellent regiments of Connecticut militia, I 
+think he will be able to spare one brigade of Continental troops 
+from his side, with General Parsons. 
+</p><p>
+I utterly disapprove of any attempt upon <a href='/results.php?city=new york' rel='city'>New York</a>, knowing 
+that while the enemy s" ships of force occupy the East and North 
+Rivers, and there is a tolerable garrison on the Isthmus, the 
+taking the city would be very doubtful ; and, when taken, it 
+would be found without any military stores of consequence ; for 
+those, you may be assured, are afloat; and it is also so commanded from the water, that it cannot be held, until we are 
+superior at sea. 
+</p><p>
+If you cannot wait upon <a href='/results.php?tla=isp' rel=''>General Putnam</a> yourself, send him .a 
+copy of this letter, and your sentiments thereupon, with my letter 
+to him inclosed. I am, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

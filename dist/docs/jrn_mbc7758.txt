@@ -1,0 +1,7 @@
+<letter id="mbc7758">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. You do the Anabasis business when you want to get out of the enemy's country, and the Thermopylae business when they want to get into your country. But we retreated in our own country and we gave up our mountain passes without a blow. But never mind the Greeks ; if we had only our own Game Cock, Sumter, our own Swamp 
+Fox, Marion. Marion's men or Sumter's, or the equivalent of them, now lie under the sod, in Virginia or Tennessee. 
+</p>
+</letter>

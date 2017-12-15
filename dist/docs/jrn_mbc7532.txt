@@ -1,0 +1,13 @@
+<letter id="mbc7532">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='12'>December</a> <a rel='day origin' value='21'>21st</a> [<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, S. C., <a href='/results.php?year=1860' rel="origin">1860</a>]. Mrs. Charles Lowndes was sitting with us to-day, when Mrs. Kirkland brought in a copy of the 
+Secession Ordinance. I wonder if my face grew as white as hers. She said after a moment : "God help us. As our 
+day, so shall our strength be." How grateful we were for this pious ejaculation of hers ! They say I had better take 
+my last look at this beautiful place, Combahee. It is on the coast, open to gunboats. 
+</p><p>
+We mean business this time, because of this convocation of the notables, this convention. In it are all our wisest 
+and best. They really have tried to send the ablest men, the good men and true. South Carolina was never more 
+splendidly represented. Patriotism aside, it makes society delightful. One need not regret having left Washington. 
+</p>
+</letter>

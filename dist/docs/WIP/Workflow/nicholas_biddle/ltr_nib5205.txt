@@ -1,0 +1,28 @@
+<letter id="nib5205">
+<recipient first="John" last="Calhoun" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="12">Dec'r</a> <a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1822' rel="origin">1822</a> 
+</p><p>
+Dear Sir, 
+</p><p>
+I had the pleasure last night of receiving your letter 
+of the 2d inst, thank you with great cordiality for the 
+friendly dispositions which dictated it. The course which 
+I have hitherto prescribed to myself, has been neither to 
+seek nor to shun a situation of so much responsibility, but 
+if I am called to share in the administration of the Bank, 
+I shall bring to its service at least a laborious &amp; zealous devotion to its interests. This unfortunate institution has 
+from its birth been condemned to struggle with the most 
+perplexing difficulties, yet even with all its embarrassments 
+it has sustained the national currency &amp; rescued the country from the dominition of irresponsible banks, &amp; their 
+depreciated circulation. The time has perhaps arrived when 
+it may combine its own &amp; the country's security with a more 
+enlarged development of its resources and a wider extension 
+of its sphere of usefulness. To this object to which my own 
+exertions shall be anxiously directed. I have long known and 
+appreciated the manly &amp; decisive services which you have 
+rendered to the same cause &amp; if I should see any occasion in which the Bank may avail itself of your assistance I 
+shall ask it with the same frankness &amp; sincerity with which 
+I now assure you of the great personal respect &amp; esteem of 
+</p>
+</letter>

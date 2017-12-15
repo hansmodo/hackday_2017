@@ -1,0 +1,31 @@
+<letter id="joj4192">
+<recipient first="" last="Romeyn" type="individual"/>
+<p>
+to the rev. dr. romeyn, 
+</p><p>
+Secretary of the American Bible Society. 
+</p><p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1816' rel="origin">1816</a>. 
+</p><p>
+Rev. Sir, 
+</p><p>
+Your letter of the 1st inst. informing me that I had been 
+elected one of the vice-presidents of the American Bible 
+Society, arrived by the last mail. 
+</p><p>
+I rejoice in the institution of that national society, and 
+assure the Board of Managers, that I am very sensible of the 
+honour they have done me, in thus connecting me with it. 
+</p><p>
+The events and circumstances under which such societies have been established and multiplied, in my opinion, indicate an origin, which makes it the duty of all Christians to 
+unite in giving them decided patronage and zealous support. 
+</p><p>
+I have the honour to be, with respect and esteem, 
+Rev. sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+* A Plea for Catholic Communion. 
+</p>
+</letter>

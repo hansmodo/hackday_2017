@@ -1,0 +1,47 @@
+<letter id="jol4910">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="11">Novem.</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+Your kind letter of the 12th , concluded on the 15th , has been deliver'd to me barely time enough to run it over. 
+</p><p>
+The express is to be sent back immediately with 
+dispatches that were ready, so that I shall have but 
+few moments allowed me for writing to you. The 
+little innovation in the epithet applied to Gen'l Howe's 
+oration, I took the liberty of forming from Kite, a 
+character in the comedy of the Recruiting Officer, 
+and meant to draw a parallel between the sergeant's 
+harangue and that of the General but upon recollection I believe I have done the former an injustice 
+who confined his promises to more practicable things. 
+I shall not now have time to give you my dear Father 
+a particular account of the progress of the besiegers 
+and persevering defence of our brave garrison, to the 
+time when perpetual hail of musquetry and hand 
+grenades from the round tops of the Empress of 
+Russia, an East Indiaman cut down and converted 
+into a floating battery of 18 twenty-four pounders, 
+made it impossible for men to do any thing more in 
+the fort than sacrifice themselves unrevenged. I hate 
+to blame without sure grounds ; but as far as I can 
+judge at this distance, the naval department has been 
+deficient in its duty. The Commodore is brave, but 
+has no command. The questions now are can we 
+prevent the enemy's raising the chevaux de frise by 
+keeping possession of Red Bank or Fort Mercer if 
+the enemy should effect a lodgment on Mud Island 
+can our fleet maintain its present position ? Is it not 
+possible to take the Empress of Russia, and sink an obstruction in the channel thro which she pass'd ? I say 
+yes to them all, except the second and the enemy's lodgm' may be prevented. 
+</p><p>
+You, my dear father will call me a presumptuous young man, especially when you hear that three general officers are gone to investigate these points on the 
+spot. Pardon the manner of my letter, in consideration that I have been endeavouring to satisfy the problem which requires the most written in the least given 
+time. Chagrined at the necessity of taking leave so abruptly, I console myself with the prospect of writing more deliberately in a day or two. 
+</p><p>
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

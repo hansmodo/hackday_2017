@@ -1,0 +1,38 @@
+<letter id="tmp4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='31'>31</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Sir, 
+</p><p>
+By Mr. James Morris, who sailed in the May packet, I transmitted you a letter from the <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a>, at the same time informing you that 
+the Marquis had intrusted to my charge the key of the Bastille, and a drawing of that prison, as a 
+present to your Excellency. <a href='/results.php?tla=jhr' rel='colleague met'>Mr. J. Rutledge</a>, Jr. had intended coming in the ship. <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a> and I had chosen that opportunity for the purpose of transmitting the present ; but the ship not 
+sailing at the time appointed, <a href='/results.php?tla=jhr' rel='colleague met'>Mr. Rutledge</a> takes his passage in the packet, and I have committed to 
+his care those trophies of liberty, which I know it will give you pleasure to receive. The French revolution is not only complete, but triumphant ; and the 
+envious disposition of this nation is compelled to own the magnanimity with which it has been conducted. 
+</p><p>
+The political hemisphere is again clouded by a dispute between England and Spain ; the circumstances 
+of which you will hear before this letter can arrive. A messenger was sent from hence the 6th instant 
+to Madrid, with very peremptory demands, and to wait there only forty-eight hours. His return has 
+been expected for two or three days past. I was this morning at the Marquis del Campo's ; but nothing is yet arrived. <a href='/results.php?tla=jhr' rel='colleague met'>Mr. Rutledge</a> sets off at four 
+o'clock this afternoon ; but, should any news arrive before the making up the mail on Wednesday, June 2d, I will forward it to you under cover. 
+</p><p>
+The views of this Court, as well as of the nation, so far as they extend to South America, are not for the purpose of freedom, but conquest. They already 
+talk of sending some of the young branches to reign over them, and to pay off their national debt with 
+the produce of the mines. The bondage of those countries will, as far as I can perceive, be prolonged by what this Court has in contemplation. 
+</p><p>
+My bridge is arrived, and I have engaged a place to erect it in. A little time will determine its fate; but I yet see no cause to doubt of its success, 
+though it is very probable that a war, should it break out, will, as in all new things, prevent its progress, so far as regards profits. 
+</p><p>
+In the partition, in the box which contains the key of the Bastille, I have put up half a dozen razors, manufactured from cast-steel, made at the works 
+where the bridge was constructed, which I request you to accept as a little token from a very grateful heart. I received, about a week ago, a letter from 
+Mr. G. Clymer. It is dated the 4th of February, but has been travelling ever since. I request you to acknowledge it for me, and that I will answer it when 
+my bridge is erected. With much affection to all my friends, and many wishes to see them again, I am, 
+Sir, your much 
+</p><p>
+Obliged and obedient, humble servant. 
+</p><p>
+<a href="/results.php?tla=tmp" rel="me">Thomas Paine</a>.
+</p>
+</letter>

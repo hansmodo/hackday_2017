@@ -1,0 +1,62 @@
+<letter id="jod3616">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='13'>13</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I HAVE only time to inform you that Monday and 
+Thursday have passed away without bringing me a 
+letter from you. It is the first week that has failed 
+me in the whole, though sometimes the letters have 
+not arrived on the proper day. 
+</p><p>
+There is a Dr. somebody here from Connecticut, 
+who pretends, with an instrument made of some kind 
+of metal or composition of metals, by a sort of mesmerian rubbing, or stroking, or conjuration, to cure rheumatisms, headaches, pleurisies, and I know not 
+what. Ellsworth will not say that he believes in it, 
+but he states facts and tells stories. I expect the 
+heads of all the old women, (males I mean, you 
+know,) will be turned. They have got him into the 
+President's house among some of his servants, and 
+Mrs. Washington told me a story on Tuesday, before 
+a number of gentlemen, so ineffably ridiculous that I 
+dare not repeat it in writing. The venerable lady 
+laughed as immoderately as all the rest of us did. 
+</p><p>
+A barrier is erected between Europe and America. 
+It seems as if no vessel could get through or over it. 
+I went with Charles last night to the drawing room. 
+As the evening was fair and mild, there was a 
+great circle of ladies and a greater of gentlemen. 
+<a href='/results.php?tla=atw' rel=''>General Wayne</a> was there in glory. This man's 
+feelings must be worth a guinea a minute. The 
+Pennsylvanians claim him as theirs, and show him a 
+marked respect. 
+</p><p>
+W T e are now near the middle of February. Last 
+year I left this place on the 19th. Now, I must 
+stay through the long months of March, <a rel="month origin" value="4">April</a>, 
+and May. Long ? Nothing is long ! The time will 
+be soon gone, and we shall be surprised to know what 
+is become of it. How soon will my sands be all run 
+out of the glass ! After sixty, the days and hours 
+have additional wings, which they wave and beat 
+with increasing rapidity. 
+</p><p>
+Dr. Priestley is here. I drank tea with him at the 
+President's on Thursday evening. He says he always 
+maintained against Dr. Price, that old age was the 
+pleasantest part of life, and he finds it so. I think so 
+too. One knows not what infirmities may come on, 
+what pains, griefs or sorrows ? I am determined to 
+make my small remainder as easy as I can, and en 
+joy the hours as they pass, but do a little good as I 
+have opportunity. 
+</p><p>
+You have not informed me whether you have let 
+the farms. Duty and love as usual. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

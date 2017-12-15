@@ -1,0 +1,30 @@
+<letter id="hek4314">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+War Department [<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>], <a rel='day origin' value='31'>31</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Sir, 
+I have the honor to submit herein, inclosed, a letter to the Governor of Georgia, and one to Mr. Seagrove ; the former draughted by the Attorney-General, 
+and both approved by the same, and the Secretary 
+of the Treasury. The principles you were pleased to 
+suggest have been the basis of these papers. The 
+manner of treating the Spaniards and McGillivray, 
+was unanimously considered as the most proper to be 
+adopted in the present conjuncture. One of the 
+Spanish Commissioners is at present in Virginia, and 
+the other in the country, but will return either today or to-morrow. I shall see him, and, conformably 
+to the advice of the gentlemen, mention the affair 
+verbally and informally; the result of which I will 
+have the honor to transmit to you. 
+</p><p>
+Letters have just been received from Major-<a href='/results.php?tla=atw' rel='colleague'>General Wayne</a>. All quiet. He has transmitted his ideas of 
+the further progress of the war, in case the negotiations should fail, which shall be transmitted by the 
+next post. I have directed that the express be furnished with one hundred dollars, out of which he 
+will return the money you were pleased to advance 
+him. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

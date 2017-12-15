@@ -1,0 +1,90 @@
+<letter id="chl3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="2">February</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I should have written to you more constantly, but 
+really had no means of conveying my letter. A Mr. 
+Buchanan and Tolby, bound for head-quarters, will 
+deliver you this. You will excuse the conciseness, 
+as my time is short. The Governor and Captain of 
+man-of-war had threatened perdition to the town if 
+the cannon were removed from the batteries and 
+wharves; but I ever considered their threats as a brutum fulmen, and even persuaded the town to be of 
+the same way of thinking. We accordingly conveyed 
+them to a place of safety in the middle of the day, 
+and no cannonade ensued. Captain Parker publishes 
+a pleasant reason for his passive conduct. He says 
+it was manifestly my intention, and that of the New 
+England men under my command, to bring down destruction on this town, so hated for their loyal principles ; but that he was determined not to indulge 
+us, so remained quiet out of spite. The people here 
+laugh at his nonsense, and begin to despise the menaces which formerly used to throw them into 
+convulsions. To do them justice, the whole show a 
+wonderful alacrity; and in removing the cannon, men 
+and boys, of all ages, worked with the greatest zeal 
+and pleasure. I really believe that the generality are as well affected as any on the Continent, The Provincial Congress have ordered on fifteen 
+hundred minute-men. A number equal to two battalions are coming from Pennsylvania and the Jerseys. 
+Lord Stirling's regiment is already here, but not 
+complete. When the major part, or a sufficient number, arrive, we shall begin our works. My intention 
+is to pull down that part of the fort on the town 
+side, to prevent its being converted into a citadel for 
+the enemy, and to erect a battery on a traverse in 
+the street, to prevent their making a lodgment in it. 
+A redoubt and battery at the pass of Hell Gate will 
+prevent their ships and tenders passing and repassing 
+to and from the Sound. 
+</p><p>
+We have fixed on a -spot in Long Island for a retrenched camp, which I hope will render it impossible for them to get footing on that important Island. 
+As this camp can always be reenforced, it is our intention to make it so capacious as to contain four 
+thousand men. The batteries on the pass of Hud 
+son's River will be secured as soon as possible. Some 
+of the heavy cannon from hence must be sent up for 
+the purpose. It is really a fine train we are in possession of. You shall have a return of the guns as 
+well as stores by the post. 
+</p><p>
+Captain Smyth is an excellent, intelligent, active 
+officer, and I take the liberty of commending him to 
+your protection. Captain Badlam, of the artillery, is 
+likewise a man of great merit in his way. You 
+must pardon me, dear General, for a liberty I have taken. You know that Sears was to collect our volunteers in Connecticut, but he thought he could not 
+succeed unless he had some nominal office and rank. 
+I accordingly, most impudently, by the virtue of the 
+power deputed by you to me (which power you never 
+deputed), appointed him assistant Adjutant-General, 
+with rank of Lieutenant-Colonel, for the expedition. 
+It can have no bad consequences. The man was 
+much tickled, and it added spurs to his heat. He 
+is a creature of much spirit and public virtue, and 
+ought to have his back clapped. 
+</p><p>
+With respect to the Canada expedition, which you 
+indirectly propose to me, I have only one answer to 
+make. Wherever I can be of most service, there I 
+should choose to be. I have, indeed, just at this in 
+stant, one objection, which is, I am not without apprehensions that facing the cold may throw me into 
+a relapse, so as not only to render me unfit for service there, but everywhere else. I am, indeed, much 
+better, but extremely tender. I begin to walk it 
+has been a d d attack; a constant violent fever 
+attending it. I neither ate nor slept for eight days; 
+but my fever is passed, and I begin to eat; a week 
+I hope will set me up. 
+</p><p>
+Several members of Congress have indicated a desire I should go to Canada. I have explained to 
+them my apprehensions, but assured them most honestly of my willingness ; but, in fact, unless they Expedite an army, and some heavy artillery, it will 
+be in vain to trouble their heads about a General. 
+Colonel Richmore, who lately left Montreal, tells us 
+that what few troops are HOAV there will infallibly 
+</p><p>
+This word is so obscurely written, in the original manuscript, that 
+it is difficult to decide whether it is heat, hat, or head. 
+return home early in April. He is gone to the congress, and I hope will give them (as he is capable) the necessary lights 5 but whatever steps they 
+take, ])e assured, dear General, that I am, with the greatest readiness, prepared to receive and execute 
+your and their commands. Canada is, I confess, if I am only to be ably accoutred, a glorious field, which must flatter the ambition of 
+</p><p>
+Yours, most sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

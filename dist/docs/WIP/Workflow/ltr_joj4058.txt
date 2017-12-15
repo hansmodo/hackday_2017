@@ -1,0 +1,24 @@
+<letter id="joj4058">
+<recipient first="M" last="Livingston" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Madam, 
+</p><p>
+I have long been accustomed to hear, and I might add read, so much in which the heart has no concern, that the few letters like yours which reach me, are particularly welcome. 
+</p><p>
+The peace appears to me, as it does to you, to be seasonable as well as advantageous; and I sincerely join with you in ascribing that and every other of our b] s to 
+the Supreme Author of all the good that ever was and ever will be in the world. 
+As your letter is of the 12th April, and as I have received others dated late in May, which mention nothing of my sister, I indulge some little hope that she is still alive ; 
+if so, I shall be very thankful ; if not, God's will be done. To her, this world has not been a paradise. Her leaving it will be a misfortune to the few who knew her worth, and 
+to whom she was attached. She will have reason to rejoice in the change. I feel most sensibly for the effect it would have on my brother; it would double the pressure 
+of all his afflictions. God grant him resignation, and permit me to return soon to comfort him. He has every right to expect it from me, and if my life be spared, he shall not 
+be disappointed. I cannot proceed. 
+</p><p>
+God bless you, my dear madam ; 
+</p><p>
+I am, your affectionate and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

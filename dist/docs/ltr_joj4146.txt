@@ -1,0 +1,35 @@
+<letter id="joj4146">
+<recipient first="Benjamin" last="Rush" type="individual"/>
+<p>   	 
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='22'>22d</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have received and read with pleasure your elegant 
+eulogium on the late Mr. Rittenhouse. Such attentions to 
+worthy characters, cherish and encourage modest merit. 
+As a man and a philosopher, his title to esteem and praise 
+is, I believe, universally acknowledged. 
+</p><p>
+The "Illustrations of the Prophecies" which you mention, 
+I have not seen. On my return to New-York I will inquire 
+for it. The author's applying certain of the prophecies to 
+certain recent events, renders his work the more interesting. 
+I have frequently known this to be done with more imagination than judgment, but from your account of the book, 
+I presume it is not liable to that remark. The subject 
+naturally excites attention, and the present extraordinary 
+state of things permits an idea to slide into the mind, that 
+even additional events, admitting of a like application, may 
+precede a general peace. 
+We live, my dear sir, in times that furnish abundant 
+matter for serious and profound reflections. It is a consolatory (me, thai every scourge of every kind by which 
+nations are punished or corrected, is under the control of a 
+wise and benevolent Sovereign. 
+</p><p>
+With sincere esteem and regard, 1 am, dear sir, 
+</p><p>
+Your faithful and obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

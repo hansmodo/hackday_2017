@@ -1,0 +1,87 @@
+<letter id='abl410'>
+<recipient first='George' last='McClellan' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>,<br />
+October 13, <a href="/results.php?year=1862">1862</a>.
+</p><p>
+MY DEAR SIR--You remember my speaking to you of what I called your over-cautiousness.  Are you not over-cautious when you assume that
+you cannot do what the enemy is constantly doing? Should you not claim to be at least his equal in prowess, and act upon the claim?
+</p><p>
+As I understand, you telegraphed <a href="/results.php?tla=hwh" rel="co-worker">General Halleck</a> that you cannot subsist your army at Winchester unless the railroad from Harper's Ferry to that point be put in working order. But the enemy does now
+subsist his army at Winchester, at a distance nearly twice as great
+from railroad transportation as you would have to do, without the
+railroad last named. He now wagons from Culpepper Court-House, which
+is just about twice as far as you would have to do from Harper's
+Ferry. He is certainly not more than half as well provided with
+wagons as you are. I certainly should be pleased for you to have the
+advantage of the railroad from Harper's Perry to Winchester; but it
+wastes an the remainder of autumn to give it to you, and, in fact,
+ignores the question of time, which cannot and must not be ignored.
+</p><p>
+Again, one of the standard maxims of war, as you know, is "to operate
+upon the enemy's communications as much as possible, without exposing
+your own." You seem to act as if this applies against you, but
+cannot apply in your favor. Change positions with the enemy, and
+think you not he would break your communication with Richmond within
+the next twenty-four hours? You dread his going into Pennsylvania.
+But if he does so in full force, he gives up his communications to
+you absolutely, and you have nothing to do but to follow and ruin
+him; if he does so with less than full force, fall upon and beat what
+is left behind all the easier.
+</p><p>
+Exclusive of the water line, you are now nearer to Richmond than the
+enemy is, by the route that you can and he must take. Why can you
+not reach there before him, unless you admit that he is more than
+your equal on a march? His route is the arc of a circle, while yours
+is the chord. The roads are as good on yours as on his.
+</p><p>
+You know I desired, but did not order, you to cross the Potomac below
+instead of above the Shenandoah and Blue Ridge. My idea was, that
+this would at once menace the enemy's communications, which I would
+seize if he would permit. If he should move northward, I would
+follow him closely, holding his communications. If he should prevent
+our seizing his communications, and move toward Richmond, I would
+press closely to him, fight him if a favorable opportunity should
+present, and at least try to beat him to Richmond on the inside
+track. I say "try;" if we never try, we shall never succeed. If he
+makes a stand at Winchester, moving neither north or south, I would
+fight him there, on the idea that if we cannot beat him when he bears
+the wastage of coming to us, we never can when we bear the wastage of
+going to him. This proposition is a simple truth, and is too
+important to be lost sight of for a moment. In coming to us he
+tenders us an advantage which we should not waive. We should not so
+operate as to merely drive him away. As we must beat him somewhere
+or fail finally, we can do it, if at all, easier near to us than far
+away. If we cannot beat the enemy where he now is, we never can, he
+again being within the entrenchments of Richmond.
+</p><p>
+Recurring to the idea of going to Richmond on the inside track, the
+facility of supplying from the side away from the enemy is
+remarkable, as it were, by the different spokes of a wheel extending
+from the hub toward the rim, and this whether you move directly by
+the chord or on the inside arc, hugging the Blue Ridge more closely.
+The chord line, as you see, carries you by Aldie, Hay Market, and
+Fredericksburg; and you see how turnpikes, railroads, and finally the
+Potomac, by Aquia Creek, meet you at all points from WASHINGTON; the
+same, only the lines lengthened a little, if you press closer to the
+Blue Ridge part of the way.
+</p><p>
+The gaps through the Blue Ridge I understand to be about the
+following distances from Harper's Ferry, to wit: Vestal's, 5 miles;
+Gregory's, 13; Snicker's, 18; Ashby's, 28; Manassas, 38; Chester, 45;
+and Thornton's, 53. I should think it preferable to take the route
+nearest the enemy, disabling him to make an important move without
+your knowledge, and compelling him to keep his forces together for
+dread of you. The gaps would enable you to attack if you should
+wish. For a great part of the way you would be practically between
+the enemy and both WASHINGTON and Richmond, enabling us to spare you
+the greatest number of troops from here. When at length running for
+Richmond ahead of him enables him to move this way, if he does so,
+turn and attack him in rear. But I think he should be engaged long
+before such a point is reached. It is all easy if our troops march
+as well as the enemy, and it is unmanly to say they cannot do it.
+This letter is in no sense an order.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a></letter>

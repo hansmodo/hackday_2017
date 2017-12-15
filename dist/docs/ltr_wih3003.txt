@@ -1,0 +1,46 @@
+<letter id="wih3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=burlings' rel='city origin'>Burling's</a>, near Ward's, <a rel="day origin" value="30">30</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I have just received the honor of yours of the 27th instant. The last evening we moved back from 
+the neighbourhood of <a href='/results.php?city=kings bridge' rel='city'>King's Bridge</a> ; <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a>'s troops to Dobbs's Ferry and Tarrytown ; the 
+Connecticut militia, to New Rochelle; and the York militia, towards White Plains. This remove was for the following reasons. 
+</p><p>
+We could not reduce the fort by cannonade, being destitute of proper artillery. As to taking of it by storm, it is surrounded by chevaux-de-frise, hooked together; yet I think it might have been taken, if we had been so happy as to have had a few Continental 
+troops. But our army is all militia, and your Excellency well knows that they are by no means adequate to such an enterprise. The houses in the vicinity are so scattered, that the troops were every 
+hour exposed to surprise, if the enemy should make 
+a sudden sally, or continually harassed by keeping 
+out large guards exposed, in the open air, to the in 
+clemency of the season ; and, as there remained little 
+or no probability of success, either against the fort 
+or island, and the principal object now being to collect the forage, protect the well-disposed, and curb 
+the disaffected, the Generals who were present in 
+council, namely, Lincoln, Wooster, Ten Broeck, and 
+Scott, were unanimously of opinion that, as the be 
+fore-mentioned purposes could be as well answered 
+by the troops falling back, as remaining so near the 
+fort, and many inconveniences avoided, the manoeuvre 
+was advisable; and it was accordingly made. 
+We have collected considerable quantities of forage. 
+At present, it is stored at Kingstreet and Wright's 
+Mills. Large quantities are still uncollected. 
+</p><p>
+The person who lately brought me intelligence from 
+the city has,, since I wrote your Excellency, mentioned one piece which, if true (and he thinks it is), 
+is very extraordinary, namely, that General Carletons 
+army formed a junction with Howe's before the army 
+went into the Jerseys ; and that a small garrison 
+only is left at Quebec. It is reported here, and 
+gains credit, that the enemy have burnt Newport and 
+left Rhode Island. 
+</p><p>
+Daniel Strang was executed at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>, on Monday last, agreeably to his sentence. The Tories gave out that we dare not hang him. I have the honor to be 
+</p><p>
+Your Excellency's most humble servant, 
+</p><p>
+W. HEATH. 
+</p>
+</letter>

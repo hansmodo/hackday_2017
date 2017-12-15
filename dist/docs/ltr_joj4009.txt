@@ -1,0 +1,23 @@
+<letter id="joj4009">
+<recipient first="Philip" last="Schuyler" type="individual"/>
+<p>
+<a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I hope you will seriously determine to serve your country, 
+at least in a legislative capacity. Class yourself with those 
+great men of antiquity, who, unmoved by the ingratitude 
+of their country, omitted no opportunities of promoting the 
+public weal. In this field malice cannot prevent your 
+reaping laurels, and remember that the present state of our 
+affairs offers you a plentiful harvest. Set about it then, my 
+dear sir, in earnest. I know not w T ho will be the bearer of 
+this letter, and therefore forbear enlarging. 
+I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

@@ -1,0 +1,42 @@
+<letter id="gwa4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+Head-quarters, <a href='/results.php?city=middlebrook' rel='city origin'>Middlebrook</a>,
+</p><p>
+<a rel="month origin" value="5">May</a> 	<a rel='day origin' value='10'>10th</a>, <a href='/results.php?year=1779' rel="origin">1779</a>.
+</p><p>
+I seize a moment of leisure to thank you, my dear sir, 
+for your obliging favours of the 21st and 26th of April. 
+My friendship for you will always make me take pleasure 
+in cultivating the esteem and confidence of which you so 
+politely assure me. 
+</p><p>
+You give an affecting summary of the causes of the 
+national evils we feel, and the still greater we have reason 
+to apprehend. To me it appears that our affairs are in a 
+very delicate situation ; and what is not the least to be 
+lamented is, that many people think they are in a very 
+flourishing way ; and seem in a great measure insensible to 
+the danger with which we are threatened. If Britain should 
+be able to make a vigorous campaign in America this 
+summer, in the present depreciation of our money, scantiness of supplies, want of virtue and want of exertion, 'tis 
+hard to say what may be the consequence. 
+</p><p>
+It is a melancholy consideration that any concerned in 
+the conduct of public affairs should discover an indifference 
+to the state of our currency. Nothing, in my opinion, can 
+be more manifest, than that if something effectual be not 
+done to restore its credit, it will in a short time either cease 
+to circulate altogether, or circulate so feebly as to be utterly 
+incapable of drawing out the resources of the country. 
+This is nearly the case now. 
+</p><p>
+With every sentiment of esteem and regard, 
+</p><p>
+I am, dear sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=gwa" rel="me">George Washington<a/>. 
+</p>
+</letter>

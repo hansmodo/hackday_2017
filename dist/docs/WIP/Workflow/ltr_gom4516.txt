@@ -1,0 +1,53 @@
+<letter id="gom4516">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='1'>1st</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear <a href='/results.php?tla=joj' rel='colleague friend met'>Jay</a>, 
+</p><p>
+I have received your letter of the 13th of October, from 
+Paris. That part of it in cypher, (relating to Oswald's commission,) I have communicated only to <a href='/results.php?tla=rom' rel='colleague friend met'>Mr Morris</a> and Mr Livingston ; to them, and to them only, for reasons which 
+will be obvious to you. Your letters to Congress, for 
+such I call those you write the Minister of Foreign Affairs, 
+are what they ought to be, and have the effect you would 
+wish. You should remember, however, that the back lands 
+are as important in the eyes of some, as the fisheries are in 
+those of others. Men are forgetful, and therefore it will be 
+well by timely declarations of your sentiments to recall your 
+conduct while in Congress. You and I differ about the western country, but you and your sovereign are of the same option. 
+</p><p>
+<a href='/results.php?tla=alm' rel='colleague met'>General McDougall</a>, Colonel Brooks of the Massachusetts, 
+and Colonel Ogden of the Jersey line, are now here, with a 
+petition to Congress from the army for pay. The army are 
+now disciplined, and their wants as to food and clothing are 
+relieved, but they are not paid. Their back accounts are 
+not settled. If settled, the balances are not secured by competent funds. No provision is made for the half-pay promised 
+them. Some persons, and indeed some Slates, pretend to dispute their claim to it. The army have swords in their hands. 
+You know enough of the history of mankind to know much 
+more than I have said, and possibly much more than they 
+themselves yet think of. I will add, however, that I am glad 
+to sec things in their present train. Depend on it, good will 
+arise from the situation to which we are hastening. And this 
+you may rely on, that my efforts will not he wanting. I pledge 
+myself to you on the present occasion, an I although I think it 
+probable, that much of convulsion will ensue, yet it must terminate in giving to government that power, without which 
+government is but a name. 
+</p><p>
+Accept my sincere wishes, that the year now commencing 
+may prove to you and yours the kind dispenser of every 
+human felicity. All your friends are well, and rejoice that you 
+are in a situation so essential to America, as that which you 
+now hold. Some persons have hinted to me, that you are too 
+suspicious. I think they are much mistaken. The observation, if it proceeds from the heart, shows only that they are 
+not so well acquainted will) human nature as you are. Go on, 
+my good friend, continue to merit the esteem of all good men, 
+and give to envy her favorite food. When you are tired of 
+Europe, and have completed your business there, I will invits 
+you, in the language of Sheastone, 
+</p><p>
+"Coinc, come, my friend, with taste, with genius hlesf, 
+Ere age impair lliee, and eru gold allure." 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

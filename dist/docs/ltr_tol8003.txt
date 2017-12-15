@@ -1,0 +1,39 @@
+<letter id='tol8003'>
+<recipient first='' last='' type='individual'/>
+<p>
+Consulate of the United States, 
+</p><p>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, California, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1846' rel="origin">1846</a>.
+</p><p>
+Sir : <a href="/results.php?tla=jhf" rel="colleague met">Captain J. C. Fremont</a> with a party of fifty men has been within the limits of California about two months, within a few days encamped about 
+eight leagues from this Town, resting his men & animals, he has two letters from the General and Prefecto, wherein he is ordered to leave this 
+Country, or they will take immediate measures to compel him, they sent me copies of the same, which I have sent in English to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>. I 
+have not heard from the camp since, this morning I wrote to <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> in duplicate, one by a Native, the other by a Foreigner, by to-morrow 
+there will be collected together nearly three hundred men, with the intention to drive out the strangers, and if required, there will be by the next week, a 
+much larger body collected ; should this force be used against <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, much blood will be shed, his party though of only fifty in number, 
+have from three to six guns, rifles, and pistols each,— and very determined, both Commander & men, having every confidence in each other. It was 
+the intention of <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, to leave this week, if his animals were in good condition, perhaps he may not now be willing, as the people wish to 
+force him ; he was at my house alone in February, and in company with me, visited the General, Prefecto & Alcalde, informed them of his orders to 
+survey the nearest route to the Pacific, and had come into California to purchase provisions, clothes & other necessaries, including horses ; no 
+objection was made at the time, since then, the General states, that he has received by the " Hannah," positive orders from Mexico, to drive <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> from the country. I shall send this letter open to Consul Parrott 
+of Mazatlan, with copies of this weeks correspondence. If there is a fight between these people & <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a>, be the result for or against 
+him ; the American residents are under some apprehensions of their safety hereafter. I would therefore request you, if in your power, to despatch a 
+Sloop of War, to this Port, from Mazatlan, on the receipt of this. 
+</p><p>
+I understand there were in December, five of our Ships of War then in that Port, should this be the case, I hope it will not be inconvenient to 
+comply with this request. I have looked for the Portsmouth over two months ; Captain Montgomery informed me he was to return. 
+</p><p>
+I remain, Sirs, your respectfull servant, 
+</p><p>
+(Signed) Thomas O. Larkin. 
+</p><p>
+To the Commander of any American Ship of War,<br>
+in San Bias, or Mazatlan.<br>
+Monterey, May 29, 1846. 
+</p><p>
+The above is a copy of the original — drawn off at the request of Captain Montgomery - <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> was not attacked - the Californians did 
+not come within three leagues of his camp — he is now on his way to Oregon. 
+</p><p>
+(Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p>
+</letter>

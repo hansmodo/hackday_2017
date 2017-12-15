@@ -1,0 +1,26 @@
+<letter id="nib5306">
+<recipient first="Silas" last="Stilwell" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="10">Oct</a> <a rel='day origin' value='30'>30</a>. <a href='/results.php?year=1834' rel="origin">1834</a>. 
+</p><p>
+Dear Sir 
+</p><p>
+I received yesterday your favor of the 27th inst which was forthwith disposed of as requested. 
+</p><p>
+On the subject of aid from this quarter the fact is, I under 
+stand, that the contributions fall on a very narrow circle of 
+not wealthy people and that on the late occasion they have 
+been completely exhausted and a little dispirited that their 
+exertions have proved so little productive in proportion to 
+their expectations. I should not think it at all probable that 
+any thing further could be obtained from them. As to the 
+Bank itself, I have always made it a point of duty never to 
+permit its interference in any manner with our political concerns. It was a refusal to become partizans to the present set in J 
+power which has made them its enemies, and it will persevere " 
+in the same neutrality to the end altho all the temptations 
+to depart from that course are obvious &amp; strong, &amp; however 
+much the consequences may be deplored of the present misrule. We shall not look with less anxiety however on your 
+great struggle, on which the fate of the country now in a great degree depends. With the hope that you and the 
+good cause you support may triumph in that struggle, I remain 
+</p>
+</letter>

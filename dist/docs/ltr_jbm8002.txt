@@ -1,0 +1,41 @@
+<letter id='jbm8002'>
+<recipient first='William' last='Ide' type='individual'/>
+<p>
+U. S. Ship Portsmouth,<br>
+<a href='/results.php?city=sausalito' rel='city origin'>Sausalito</a>, Bay of San Francisco, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='16'>16</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: On the point of despatching an officer to Sonoma to confer with you respecting the state of alarm and apprehension into which our sudden 
+movement seems to have thrown the helpless people of Sonoma and the country around, your messenger, Mr. Todd, arrived and handed me your 
+communication of yesterday, addressed to Commodore Stockton, but designed, as Mr. Todd said, for me. The circumstances therein stated, which 
+has led to the hasty organization of the foreign population of this part of California in opposition to the constituted authorities, had in part previously 
+reached me through irregular channels not entirely to be relied on ; and in 
+respect to which I would only observe as a general rule without direct application or reference to the position in which you stand, that I hold it to be 
+the privilege of all men everywhere, by such proper means as they possess, to 
+counteract the sinister designs of treachery, and resist oppression in whatever form or manner they may be assailed by them, and that a right motive 
+and a just cause will be always characterized by a miid, tender, and humane regard for the security of the happiness, proper interests, and privileges of others. 
+</p><p>
+I am most happy, sir, to understand from Mr. Todd, that these (by proclamation) have been guaranteed to your prisoners and the defenceless 
+people within your reach, and I sincerely hope that whatever may be the future course of the popular movement in which you are engaged that this 
+policy may distinguish the conduct of your party as well as that of your opposers. 
+</p><p>
+Permit me, sir, in response to your call for powder for the use of your party, to say that I am here as a representative of a government at peace 
+(as far as I know) with Mexico and her province of California, having in charge the interests and the security of the commerce and citizens of the 
+United States lawfully engaged in their pursuits, and have no right or authority to furnish munitions of war, or in any manner to take sides with any 
+political party, or even indirectly to identify myself, or official name, with any popular movement (whether of foreign or native residents) of the 
+country, and thus, sir, must decline giving the required aid. 
+</p><p>
+Lieutenant Missroom, the executive officer of the U. S. Ship Portsmouth, under my command, who will hand you this, will explain more fully than the 
+few moments allowed me to answer your letter will permit me to do. 
+</p><p>
+I am, sir, your obedient servant, 
+</p><p>
+(Signed) <a href="/results.php?tla=jbm" rel="me">Jno. B. Montgomery</a>,
+</p><p>
+Commander. 
+</p><p>
+To Win. B. Ide, Esq., 
+</p><p>
+Commanding the Fortress of Sonoma, Upper California. 
+</p>
+</letter>
+

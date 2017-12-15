@@ -1,0 +1,94 @@
+<letter id="jol4943">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have read with pleasure the report of the commit 
+tee of Congress, on the subject of the insulting and 
+insidious overtures made by the British ministers, tho 
+I think more firmness and energy would have made 
+it more republican. The pardons offered to the subjects of the states who had embraced the party of the 
+enemy, will, I am persuaded, be attended with extensive good consequences. The measure is dictated by 
+policy, and unites the advantage of being founded in 
+humanity. A few copies of the handbill have been 
+sent to Governor Tryon in return for the triplicate 
+packets of the British bill which he was so obliging as 
+to send to the Commander in Chief. It appears to me 
+that this proceeding of L'd North will be the signal for 
+France to declare war. The reducing the commerce 
+and naval power of her natural enemy, increasing her 
+own, and humbling an inveterate rival, are objects too 
+important in a political view, for her to hazard them 
+to the wiles of negociation after they have been 
+secured from the chance of war. This apart, the 
+death of the Elector of Bavaria, it is generally thought 
+will embroil Europe. And if our men in power, and 
+men of influence, will redouble their exertions instead 
+of being lulled into security, the new and artful 
+attack of the British minister, will be foiled and 
+expose him to contempt. He will be obliged to with 
+draw his troops I mean as many of them as we suffer to escape and tacitly to acknowledge what he 
+will be afterwards forced explicitly to ratify our 
+independence. At the same time, if no secret alliance 
+has been entered into on our part with France, our 
+agents at that court need not represent it as an impossible event, that a treaty should take place between 
+Great Britain and America, from the degree of affection which may still remain between the two nations 
+and the propensity to a connexion which arises from 
+the indentity of habits and language. 
+</p><p>
+I have been informed that the tone of our embassadors was infinitely too modest to produce the effects 
+which we had a right to expect. 
+</p><p>
+It gives me pleasure to find that Congress has directed <a href='/results.php?tla=hog' rel='co-worker'>General Gates</a> to have a conference with 
+<a href='/results.php?tla=gwa' rel='co-worker friend met'>Gen'l Washington</a> previous to his setting out for his 
+northern command. A proper force kept up in the 
+neighbourhood of <a href='/results.php?city=new york' rel='city'>New York</a>, provided it can be done 
+without prejudice to this army, may be attended with 
+very important good consequences. 
+</p><p>
+It is a favourite plan with some men, to make a 
+sudden attempt in that quarter with a part of this 
+army, and change the theatre of the war; but there 
+are many irrefragable arguments against the project. 
+Their plan is to carry that city by storm ; but the 
+preliminary steps to be taken, and the length of march 
+would inevitably betray the design. The part of the 
+army left here would be attacked and dissipated by 
+a superior force. The British army would be recruited from among the numerous disaffected, which 
+swarm in this state, and the force before <a href='/results.php?city=new york' rel='city'>New York</a>, 
+if sufficient to proceed by regular approaches, would 
+be obliged to raise the siege with disgrace, upon reinforcements being thrown in, which might very well 
+be spared from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; besides, as <a href='/results.php?city=new york' rel='city'>New York</a>, 
+supposing it carried, cannot be maintained while the 
+enemy have the superiority by sea, it can by no means 
+deserve to be made a principal object of attention. 
+But if we are sufficiently strengthened here to act 
+offensively, and a respectable force is posted in the 
+vicinity of N". York, we may hope for decisive success, and we avoid the risk of suffering the enemy to 
+establish themselves, and strengthen their party in 
+this state; cut off the communication between the 
+northern and southern states, and reduce the Congress 
+to the disgraceful necessity of decamping a second 
+time. I say nothing of the unavoidable loss of stores, 
+whatever diligence may be used in removing them. 
+</p><p>
+I must ask, my dear father, a thousand pardons for 
+this ill-digested and incoherent letter. I set out with 
+a good intention, but from my first beginning it till 
+now, I have undergone perpetual interruption. 
+</p><p>
+Cap 6 G-ibbes has disappointed me in not purchasing 
+the stuff for summer wear. I must entreat you to let 
+James procure me as much as will make two or three 
+changes, provided the extravagance of the price does 
+not forbid it. 
+</p><p>
+Adieu my dearest friend and father, 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+I send a letter which you will be so good as to inclose by Mr. Francis, to Col Gervaise, to be for warded. 
+</p>
+</letter>

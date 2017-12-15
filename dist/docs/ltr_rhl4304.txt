@@ -1,0 +1,29 @@
+<letter id="rhl4304">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='6'>6</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+On the Sunday night after leaving <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, I arrived here, where, to my surprise, I found 
+that a quorum of the Senate was not assembled, and but a small majority of Representatives. 
+</p><p>
+On this day we went to business ; and, to my very great satisfaction, I heard a unanimous vote of the 
+electing States in favor of calling you to the honorable office of President of the United States. Before 
+this period, I judged it might not be acceptable to speak my sentiments to you on this subject. But 
+now, I hope I may be permitted to express my ardent hope, that your inclinations may correspond with 
+the united wish of America, that you should preside over those councils which you have so greatly contributed to render independent. Indeed, I am sure 
+that the public happiness, which I know you have so much at heart, will be very insecure without your acceptance. 
+</p><p>
+The two Houses feel the necessity of proceeding to the preparation of some important business, that 
+it may be in all possible forwardness against your arrival; that of securing the impost on the spring 
+arrivals, seems to be the most pressing. An express goes also to <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a> immediately, to inform him 
+of his election to the office of Vice-President. I pray to "be remembered affectionately to your lady and 
+the family at <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>. With every sentiment 
+of respect, I am, dear Sir, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=rhl" rel="me">Richard Henry Lee</a>.
+</p>
+</letter>

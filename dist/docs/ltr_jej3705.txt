@@ -1,0 +1,63 @@
+<letter id="jej3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Having returned to Congress a few days only, and 
+private matters requiring my attention for great part 
+of the time, I have not been able regularly to attend to business, or to acknowledge the receipt of your 
+favor transmitted to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, after my leaving it, 
+and sent after me to Virginia by <a href='/results.php?tla=mad' rel='colleague'><a href='/results.php?tla=mad' rel='colleague'>Mr. Madison</a></a>. The 
+moment for successful operations against our enemies 
+was certainly immediately after the disaster in Gardiner's Ba}, when, had it been embraced, the port at 
+<a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, and the troops under Arnold, as well as 
+the British ships then in Virginia, must have fallen 
+an easy conquest to our united efforts ; for which 
+purpose the State was, I believe, in readiness. 
+</p><p>
+Abortive as the project has proven, we yet hope 
+for the best, and that still it may be in the powder 
+of our ally to give us effectual aid in the Chesapeake I and, believe me, at no time was it more necessary than at present, when all the lower country 
+of our State, from its great navigable waters, is exposed to the ravage and rapine, not only of British ships of war, but of the vessels employed by 
+the Board of Refugee Commissioners in <a href='/results.php?city=new york' rel='city'>New York</a>. 
+To you it is unnecessary to describe the distress of 
+the inhabitants upon the navigable waters of Virginia. 
+Your knowledge of the country enables you sufficiently to judge of it, exclusive of such information 
+as, I doubt not, you receive from that quarter. Had 
+we a sufficient stock of arms, distressing as it is to 
+our militia to be so generally out on duty, as it must 
+be to them at this season of the year, I think they 
+would do much in opposition to the enemy, supported even by no considerable body of regulars. But, 
+wanting arms, their negroes flying from them, and 
+their prospects of making little or nothing from their 
+estates to support their families and bear the burdens of the war, may shake their fidelity and attachment to the cause so far as to slacken their exertions, if some succour is not afforded them by water, to restrain the ravage of these plunderers. I mention 
+these things as facts falling under my own observation before I left the State, that, if they have not 
+been more particularly communicated by others, you 
+might hear some intimation of them. 
+</p><p>
+The late movements of Cornwallis and Phillips indicate a junction of their armies on the Roanoke, 
+from whence they may direct their operations north 
+or south, as they shall see best, without the fear of 
+successful opposition ; or may, it would seem, cut off 
+all communication between Virginia and the other 
+Southern States, and reduce <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> to the 
+greatest extremity. From these dangers, that at present threaten us, a naval force sent to the Chesapeake would at once relieve us, and admit Virginia 
+to afford that succour to the other Southern States 
+they so much need. The great object of the enemy 
+is undoubtedly the Southern States ; and it is submitted to your reflection, how far you can support them 
+by your influence, in the destination of such aids as 
+may arrive from Europe, or the operation of that 
+force now here. We are told all the ships of war 
+have left <a href='/results.php?city=new york' rel='city'>New York</a>, with about two thousand troops, 
+after having once put back. Adieu ! Pardon the 
+haste of this letter, which is written in Congress, in 
+consequence of the President's information that an 
+express was coming off for head-quarters. 
+</p><p>
+Yours, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jej" rel="me">Joseph Jones</a>. 
+</p>
+</letter>

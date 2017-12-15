@@ -1,0 +1,18 @@
+<letter id="hnb2405">
+<recipient first="Margaret" last="Blennerhassett" type="individual"/>
+<p>
+<a href="/results.php?city=baltimore" rel="city origin">Baltimore</a>, Tuesday, <a rel="month origin" value="11">Nov.</a> <a rel="day origin" value="3">3d</a>, <a href="/results.php?year=1807" rel="origin">1807</a>. 
+</p><p>
+<a href="/results.php?tla=aab" rel="met colleague">Col. Burr</a> set off to-day at 1 o'clock, P. M., in the mail, 
+for <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, with S. Swartwout, as he had no particular desire to behold a representation of his execution. I was a little more curious ; and, notwithstanding hand 
+bills were this morning scattered through the town, purporting that the execution of Judge Marshall, <a href="/results.php?tla=aab" rel="met colleague">A. Burr</a>, Luther Martin and myself would take place at Gallows Hill, at 3 o'clock this evening, I both dined and supped at 
+the public table, with very large companies, here at Evans's, and am, after all, hearty and in good spirits. 
+The mob was made up from the Point, but pledged their honor, which they did not violate, that they would hurt 
+no person. They were followed by two troops of horse through the streets, to see they did their business orderly. 
+All have dispersed at least three hours ago, it being now 11, P. M. 
+</p><p>
+I start to-morrow for <a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, where I am sure I shall not receive such public honors. I tire you with too many letters ; but it is to prevent your paying any attention to the newspapers. I expect Doctor Commins and myself will travel together to <a href="/results.php?city=natchez" rel="city">Natchez</a>. I pray God this may find you and the boys well. This is the only care that occupies 
+</p><p>
+Your husband, <a href="/results.php?tla=hnb" rel="me">HARMAN BLENNERHASSETT</a>. 
+</p>
+</letter>

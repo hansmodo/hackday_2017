@@ -1,0 +1,68 @@
+<letter id='thj1383'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, February 17, <a href="/results.php?year=1781">1781</a>.
+</p><p>
+Sir,
+</p><p>
+By a letter from <a href='/results.php?tla=nag' rel='co-worker'>General Greene</a>, dated Guilford Court House, February
+10th, we are informed that Lord Cornwallis had burned his own wagons in
+order to enable himself to move with greater facility, and had pressed
+immediately on. The prisoners taken at the Cow-pens, were happily saved
+by the accidental rise of a water-course, which gave so much time as to
+withdraw them from the reach of the enemy. Lord Cornwallis had advanced
+to the vicinities of the Moravian towns, and was still moving on
+rapidly. His object was supposed to be to compel <a href='/results.php?tla=nag' rel='co-worker'>General Greene</a> to an
+action, which, under the difference of force they had, would probably
+be ruinous to the latter. <a href='/results.php?tla=nag' rel='co-worker'>General Greene</a> meant to retire by the way of
+Boyd's Ferry, on the Roanoke. As yet he had lost little or no stores or
+baggage, but they were far from being safe. In the instant of receiving
+this intelligence, we ordered a reinforcement of militia to him, from
+the most convenient counties in which there was a hope of finding any
+arms. Some great event must arise from the present situation of things,
+which, for a long time, will determine the condition of southern
+affairs.
+</p><p>
+Arnold lies close in his quarters. Two days ago, I received information
+of the arrival of a sixty-four gun ship and two frigates in our bay,
+being part of the fleet of our good ally at Rhode Island. Could they
+get at the British fleet here, they are sufficient to destroy them; but
+these being drawn up into Elizabeth river, into which the sixty-four
+cannot enter, I apprehend they could do nothing more than block up the
+river. This, indeed, would reduce the enemy, as we could cut off their
+supplies by land; but the operation being tedious, would probably be
+too dangerous for the auxiliary force. Not having yet had any particular
+information of the designs of the French Commander, I cannot pretend to
+say what measures this aid will lead to.
+</p><p>
+Our proposition to the Cherokee Chiefs, to visit Congress, for the
+purpose of preventing or delaying a rupture with that nation, was too
+late. Their distresses had too much ripened their alienation from us,
+and the storm had gathered to a head, when Major Martin got back. It was
+determined to carry the war into their country, rather than await it
+in ours, and thus disagreeably circumstanced, the issue has been
+successful.
+</p><p>
+The militia' of this State and North Corolina penetrated into their
+country, burned almost every town they had, amounting to about one
+thousand houses in the whole, destroyed fifty thousand bushels of grain,
+killed twenty-nine, and took seventeen prisoners. The latter are mostly
+women and children.
+</p><p>
+I have the honor to be, &c. your Excellency's
+</p><p>
+most obedient, humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p><p>
+
+P.S. Since writing the above, I have received information which, though
+not authentic, deserves attention: that Lord Cornwallis had got to
+Boyd's Ferry on the 14th. I am issuing orders, in consequence, to other
+counties, to embody and march all the men they can arm. In this fatal
+situation, without arms, there will be no safety for the Convention
+troops but in their removal, which I shall accordingly order. The
+prisoners of the Cowpens were at New London (Bedford Court House) on the
+14th. T. J.
+</p>
+</letter>

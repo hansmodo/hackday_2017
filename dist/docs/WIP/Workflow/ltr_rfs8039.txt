@@ -1,0 +1,37 @@
+<letter id="rfs8039">
+<recipient name="editors of the californian" type="group"/>
+</p><p>
+UNITED STATES FRIGATE CONGRESS, 
+HARBOUR OF <a href='/results.php?city=san diego' rel='city origin'>SAN DIEGO</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='10'>10</a>, <a href='/results.php?year=1847' rel="origin">1847</a>. 
+</p><p>
+TO THE EDITORS OF THE CALIFORNIAN, MONTEREY: 
+</p><p>
+GENTLEMEN : In an editorial article in the  Californian of the 13th February, you may find the following paragraph : 
+</p><p>
+Commodore Stockton announced to the officers that the whole expedition was placed under the command of <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a>, himself holding his station as 
+Commander-in-chief of California, and <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> did command the whole expedition 
+</p><p>
+I take the first opportunity to say to you that the above paragraph is not true in any one of its important particulars. It is not true that I placed the whole 
+expedition under the command of <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a>, nor did I so announce it. 
+</p><p>
+On the request of <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a>, and with the consent of Lieutenant Rowan, (to whom, with the consent of Lieutenant Minor, who had previously 
+held it, I had given the command only the night before,) I appointed <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a> to command the troops, and so announced it; at the same time, stated 
+distinctly that I still retained my own position as Commander-in-chief. The word California did not pass my lips upon that occasion. 
+</p><p>
+Now, Messrs. Editors, if you say that I delegated, or intended to delegate, to <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a>, or to any one else, any part of my duty or authority as the 
+director of the expedition or Commander-in-chief of the forces, or that <a href='/results.php?tla=swk' rel='colleague'>General Kearney</a>, or any other person but myself, exercised, or pretended to exercise, 
+any such power or authority from the time we left San Diego until we arrived at the Ciudad de los Angeles, then I must say to you that all such statements are false. 
+</p><p>
+But, Messrs. Editors, it is quite true that  Commodore Stockton did leave San Diego at the head of the forces at his command, and marched into the Ciudad de los Angeles in the same way. 
+</p><p>
+There are other most glaring misstatements in the editorial referred to, which, no doubt, in due season, will be corrected. In the mean time, go on. 
+</p><p>
+Sic iter ad astra. 
+</p><p>
+Your obedient servant, 
+</p><p>
+R. F. STOCKTON. 
+</p><p>
+P.S. This communication has been delayed in the hope that I could be at Monterey before this time. 
+</p><p>
+</letter>

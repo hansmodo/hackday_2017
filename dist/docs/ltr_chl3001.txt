@@ -1,0 +1,51 @@
+<letter id="chl3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=stamford' rel='city origin'>Stamford</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="1">January</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+It was unnecessary sooner to trouble you with my 
+scrawl, as I could give you no information the least 
+interesting. I find the people through this Province 
+more alive and zealous than my most sanguine expectation. I believe I might have collected ten thousand 
+volunteers. I take only four companies with me, and 
+Waterbury's regiment, which is so happily situated on 
+the frontier. Ward's regiment I have ordered to remain at their respective homes, until they hear further. These Connecticutians are, if possible, more 
+eager to go out of their country, than they are to 
+return home, when they have been out for any considerable time. 
+</p><p>
+Inclosed I send yon my letter to the General congress. That of the Provincial Congress of <a href='/results.php?city=new york' rel='city'>New York</a> 
+to me, with my answer, I hope will have your approbation. 
+</p><p>
+The Whigs, I mean the stout ones, are, it is said, 
+very desirous that a body of troops should march and 
+be stationed in their city. The timid ones are averse, 
+merely from the spirit of procrastination, which is the 
+characteristic of timidity. The letter of the Provincial 
+Congress, you will observe, breathes the very essence 
+of this spirit. It is wofully hysterical. I conclude I 
+shall receive the orders of the General Congress be 
+fore, or immediately on,, my arrival; otherwise I should 
+not venture to march into the Province, as, by their 
+late resolve, every detachment of the Continental 
+troops is to be under the direction of the Provincial 
+Congress in which they are ; a resolve, I must say 
+with submission to their wisdom, fraught with difficulties and evils. It is impossible, having two sovereigns, that any business should be carried on. 
+</p><p>
+Have you seen the pamphlet, Common Sense? I 
+never saw such a masterly, irresistible performance. 
+It will, if I mistake not, in concurrence with the 
+transcendent folly and wickedness of the ministry, 
+give the coup-de-grace to Great Britain. In short, I 
+own myself convinced by the arguments, of the necessity of separation. Poor brave Montgomery ! But it 
+it is not a time to cry, but to revenge. God bless 
+you, my dear General, and crown us with the success 
+I am sure we merit, from the goodness of our cause. 
+My love to the ladies. I shall write a long letter to 
+Gates, when I have time and materials. Adieu. 
+Yours, most affectionately, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

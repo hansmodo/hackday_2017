@@ -1,0 +1,20 @@
+<letter id="hog3205">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+SIR, 
+</p><p>
+In obedience to the orders contained in your Excellency's letters of the 1st and 2d instant, I marched the whole of the Continental troops from the 
+State of Rhode Island, and arrived yesterday morning, with the first division, consisting of a detachment of Colonel Crane's artillery, with two six-pounders, Colonel Livington's, Colonel Jackson's, and Colonel Webb's regiments, at <a href='/results.php?city=hartford' rel='city'>Hartford</a>. The second division, 
+consisting of the rest of Colonel Crane's, with the 
+like artillery, <a href='/results.php?tla=chg' rel=''>Colonel Greene</a>'s, Colonel Angell's, and 
+Colonel Sherburne's regiments, will be here this evening. As I find no orders here, and have not received 
+any letter from your Excellency since that dated the 
+2d instant, I shall encamp the troops, and wait your further commands. I am, Sir, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

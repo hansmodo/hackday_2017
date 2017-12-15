@@ -1,0 +1,13 @@
+<letter id="smd7852">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a rel="month origin" value="7">July</a> <a rel='day origin' value='27'>27th</a>. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+I have my bird back! As I waked this morning, 
+I heard a well-known chirp in the streets, and called 
+to mother I knew it was Jimmy. Sure enough it is 
+my bird. Lucy Daigre has had him ever since the 
+shelling, as a negro caught it that day and gave it 
+to her. 
+</p><p>
+</letter>

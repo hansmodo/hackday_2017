@@ -1,0 +1,19 @@
+<letter id="tip4952">
+<recipient first="James" last="Latham" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1774' rel="origin">1774</a> , Morning. 
+</p><p>
+To DR. JAMES LATHAM, at Salem Hospital.
+</p><p>
+SIR : I have just received your letter, dated at Salem 
+Hospital, the 19th instant, in which you request me to meet 
+you, to-day, at Mr. Goodhue's tavern. I am ignorant of 
+any business you can have there to transact with me. 
+When you have informed me of your design in making
+this request, I shall be able to give you a further answer. 
+At present, I can only assure you that 
+I am, Sir, 
+</p><p>
+TIMOTHY PICKERING, JR. 
+</p>
+</letter>

@@ -1,0 +1,50 @@
+<letter id="toc3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=arlington' rel='city origin'>Arlington</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I had the honor to receive your Excellency's favor of the 1st of January by express. I am not insensible that the delicacy of your station in the empire renders it ineligible for you to address me in 
+my public character. Your noticing us, therefore, in 
+your private capacity, under our circumstances, I beg 
+leave to esteem as the strongest mark of your magnanimity and friendship. 
+</p><p>
+While we receive with gratitude the resolves of 
+Congress, of the 7th and 21st of August last, it affords us great satisfaction that your Excellency is 
+willing to consider them as implying the right, which 
+Vermont claims, to be a State, within certain described bounds. And, as the dispute of boundary is the 
+only one that hath prevented our union with the Confederacy, I am very happy in being able to acquaint 
+your Excellency that that is now removed on our 
+part, by our withdrawing our claims upon New Hampshire and <a href='/results.php?city=new york' rel='city'>New York</a>, and by confining ourselves solely, or very nearly, to that tract of country which is 
+described in the resolve of Congress of the 21st of August last. Since, therefore, we have withdrawn our 
+jurisdiction to the confines of our old limits, we entertain the highest expectations that we shall soon obtain what we have so long been seeking after, an 
+acknowledgment of independence and sovereignty. 
+For this we have appointed Commissioners, with plenary powers to negotiate an alliance with the Confederated States, and, if they succeed, to take seats 
+in Congress. 
+</p><p>
+Should Heaven prosper the design of their negotiation, we please ourselves much that we, who are of 
+one sentiment in the common cause, and who have 
+but one common interest, shall yet become one nation, 
+and yet be great and happy. The glory of America 
+is our glory, and with our country we mean to live 
+or die, as her fate shall be. 
+</p><p>
+I have no need to acquaint your Excellency, that 
+our local as well as our military (not to say political) 
+situation, as an extended frontier, awfully exposeth 
+these infant plantations to the power and fury of the 
+common enemy. Might we be so happy as to draw 
+the attention of our country, we hope to be favored 
+with your particular exertion. I have the honor to 
+be. Sir, with great respect. 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=toc" rel="me">Thomas Chittenden</a>. 
+</p><p>
+P. S. This will be delivered by one of our agents, 
+to whom I beg leave to refer your Excellency for 
+the more particular situation of this State, with regard to military preparations and state of defence. 
+</p>
+</letter>

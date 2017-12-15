@@ -1,0 +1,25 @@
+<letter id="ben4789">
+<recipient first="John" last="Ewing" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">Aug</a> <a rel='day origin' value='27'>27</a>. <a href='/results.php?year=1770' rel="origin">1770</a>. 
+</p><p>
+REV SIR, 
+</p><p>
+I received your Favour of June 14, with several Copies 
+of your Observations of the Transit of Venus, for which I 
+thank you. I have sent one of them to M r Maskelyne as you 
+desired, with an Extract from your Letter, and another to 
+Paris, I have not yet obtained from him the Estimate he 
+promised me, but hope to have it soon ; tho' by what I hear 
+from others I begin to fear the Expense will be thought too 
+heavy for us. I shall send the new Volume of the Transactions to M rB Franklin, where you will find what Observations have been received and published here. I am, very respectfully, 
+</p><p>
+Reverend Sir, 
+</p><p>
+Your most obedient 
+</p><p>
+humble Servant 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

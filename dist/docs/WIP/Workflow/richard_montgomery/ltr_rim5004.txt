@@ -1,0 +1,39 @@
+<letter id="rim5004">
+<recipient first="Janet" last="Livingston" type="individual"/>
+<p>
+CAMP NEAR <a href='/results.php?city=st johns' rel='city origin'>ST. JOHNS</a>, <a rel="month origin" value="10">OCTOBER</a> <a rel='day origin' value='9'>9th</a> [<a href='/results.php?year=1775' rel="origin">1775</a>].
+</p><p>
+This evening I received my dear Janet's three letters to the 23rd September, which bring me the agreeable news of your recovery. I hope to have the same account of your good <a href="/results.php?tla=rol" rel="kin met">father</a> 
+and mother, whose health and happiness I think myself deeply interested in. You are certainly right: I most certainly might 
+have advanced Harry to a majority. Disinterested and generous motives will forever, I hope, prevent me from serving myself or family at the expense of the public. Though a fine, 
+spirited fellow, he has not experience for such an important post. I grant there are others as bad and worse it is not my doing, nor will I ever have such a weight on my conscience, 
+always told you what I know to be a fact ; I am unfit to deal with mankind in the bulk, for which reason I wish for retirement. 1 feel too sensibly the rascality, ignorance and selfishness 
+so common among my fellow creatures to deal with them and keep my temper. I have been dragged from obscurity much 
+against my inclination and not without P me struggle, as you well know ; and depend upon it, the instant I can with decency 
+slip my neck out of the yoke, I will return to my family and farm, and that peace of mind which I can't have in my present situation. 
+</p><p>
+<a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a> may return in a few days. His return to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> has been a most fortunate affair. We should most 
+certainly have been obliged to return half-starved, and leave the unfortunate Canadians to take care of themselves. <a href='/results.php?city=providence' rel='city'>Providence</a> 
+does much for us and we little for ourselves ! 
+</p><p>
+The negotiation with St. Luke ended in nothing. It is supposed the Governor had gotten some hint of it. and St. Luke, in order to acquit himself, made the Indian deliver my letter, 
+which was an answer to his message, to the Governor, who ordered it to be burned without reading it. I suppose lie wan afraid of making a discovery which would have obliged him to 
+treat. St. Luke roughly. I anxiously wait to hear of the Kennebec expedition. If it succeed, it will be a great stroke; if we don't get more powder I am afraid this will be a tedious affair 
+and that we shall be obliged to starve them out. You must not go into the house until I return. If you have a mind for Mrs. What-do-you-call-her the Frenchwoman, keep her by all 
+means. Harry is well, as are the two officers you mention. Willett has been ill. I answered <a href='/results.php?tla=jad' rel='colleague'>Mr. Duane</a>'s letter. It went by an express to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>; he was at that time returned to 
+York ; do mention it when you write to Robert ; I should be sorry to have him think me wanting in common politeness 
+</p><p>
+The box arrived in good time. I am now sitting beside a very comfortable tire in my tent, and we have had for the first time some very pleasant weather. 
+</p><p>
+I am obliged to Shone for his good opinion, but alas ! he is a very indifferent judge. At the forts I will not winter; it is 
+possible I may be obliged to stay in Canada, but I shall certainly return if in my power. 
+</p><p>
+My affectionate good wishes and duty wait on your grandfather. My love to the girls. 
+</p><p>
+Adieu, my dear Janet ; believe me 
+</p><p>
+Your truly affectionate 
+</p><p>
+<a href="/results.php?tla=rim" rel="me">RICHARD MONTGOMERY</a>.
+</p>
+</letter>

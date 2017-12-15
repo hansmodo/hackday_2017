@@ -1,0 +1,21 @@
+<letter id="usg7055">
+<recipient first="George" last="Thomas" type="individual"/>
+<p>
+[<a rel='day origin' value='6'>6th</a> of <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a>, <a href='/results.php?city=nashville' rel='city origin'>Nashville</a>]
+</p><p>
+MAJOR-GENERAL THOMAS: 
+</p><p>
+Reports of scouts make it evident that <a href='/results.php?tla=jpj' rel='colleague adversary'>Joe Johnston</a> has removed most of his force from your front, two divisions going to 
+<a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a>. <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> has been reinforced by troops from the East. This makes it evident the enemy intends to secure East 
+Tennessee if they can, and I intend to drive them out or get whipped this month. For this purpose you will have to detach 
+at least ten thousand men besides Stanley's division (more will be better). I can partly relieve the vacuum at Chattanooga by 
+troops from Logan's command. It will not be necessary to take artillery or wagons to Knoxville, but all the serviceable artillery 
+horses should be taken to use on artillery there. Six mules to each two hundred men should also be taken, if you have them to 
+spare. Let me know how soon you can start. 
+</p><p>
+GRANT, 
+</p><p>
+Major-General. 
+</p><p>
+</p>
+</letter>

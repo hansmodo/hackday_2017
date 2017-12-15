@@ -1,0 +1,48 @@
+<letter id="gom4700">
+<recipient first="Edmund" last="Randolph" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My last was of the fifteenth. This is written merely to 
+cover copies of mine to the Minister of the eleventh of March, 
+twelfth and twenty-second of March, of his answer of the 
+sixth Germinal, mine of the second of April, and the answer 
+to it of the twenty-third Germinal, written by Buchot, a second 
+Charge Provisoire of the department of Foreign Affairs. 
+</p><p>
+You will, perhaps, ask why my letters to the Minister are 
+in French, rather than in my own language. It is not to save 
+time or trouble to myself, as you will easily suppose , but 
+there are two strong reasons for it. First, it cuts off one 
+source of delay which, in the tediousness of transacting business at present, is important, and the more so, as the objects 
+once thrown off the Minister's table upon a translator's desk, 
+might run the risk of not being taken up again. Another reason, of a different complexion, is, to avoid misinterpretation 
+and mistake. A slight change of idea in changing the phrases 
+might have unpleasant consequences, for men are very ticklish 
+in such revolutions as the present; and, therefore, it becomes 
+me to be cautious, so as not to say either too much or too little ; 
+and, moreover, to use an Eastern phrase, not to put my 
+tongue in the mouth of another. 
+</p><p>
+Tn reading over the letters, of which copies are enclosed, I 
+am reminded of what I wrote very long ago respecting Mr Coffyn, the agent at Dunkirk, who has expressed a wish to 
+be appointed Vice Consul at that place, having heretofore 
+acted in that capacity under the auspices of our Consul Geneeral, and of Dr Franklin. If I did not impose upon myself 
+the obligation never to recommend to appointments, which I 
+have no right to interfere in, the conduct of that gentleman, 
+and his general good character, would have drawn from me a 
+recommendation. As it is, I do not yet know whether my 
+letter was ever received. 
+</p><p>
+In mine of the twenty-first of December, <a href='/results.php?year=1792'>1792</a>, I mentioned 
+the plan of Danton, adding that I believed that it had never 
+been wholly abandoned. His late execution will show that 
+faith to have been well founded. And I am now told that, 
+when condemned to death, he declared that he was glad to be 
+rid of a state of society so abominable. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

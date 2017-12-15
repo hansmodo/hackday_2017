@@ -1,0 +1,39 @@
+<letter id="jod3514">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+A VERY idle, vain conversation at a dinner has produced you this letter from a venerable old lady in 
+this neighborhood, the wife of Monsieur Grand the 
+banker. As the subject was introduced, and according to the turn the conversation really took, there was 
+not so much vanity and ostentation on my part as you 
+will suspect from her account of it. But as I speak 
+French very imperfectly, and she understands not a 
+syllable of English, I suppose she did not fully under 
+stand me. All that I maintained was, that it was the 
+duty of a good citizen to sacrifice all to his country in 
+some circumstances. God grant, I may never be 
+called to do this again so often as I have done already, 
+for I have hazarded all, very often, and done as much 
+as sacrifice all, sometimes. You will have a deli 
+cate task to answer her. Write to her in English. 
+She has a son about five and twenty, who is a master 
+of English, and will interpret. It is a virtuous family, 
+and very civil to me and my dear Johnny, of whom 
+the whole family is very fond. 
+</p><p>
+We are in deep concern for America ; the last ac 
+counts having left D Estaing going to Rhode Island 
+and Lord Howe after him. 
+</p><p>
+It is high time for me to write to my children, but 
+hitherto I have not had time. I hope you have received twenty letters from me, in which I have desired 
+you to draw upon me for what money you want. 
+</p><p>
+Yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

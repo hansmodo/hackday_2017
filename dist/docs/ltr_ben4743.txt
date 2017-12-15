@@ -1,0 +1,47 @@
+<letter id="ben4743">
+<recipient first="Du Pont" last="De Nemours" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+I RECEIVED your obliging letter of the loth May, with the 
+most acceptable present of your Physiocratie, which I have 
+read with great pleasure, and received from it a great deal of 
+instruction. There is such a freedom from local and national 
+prejudices and partialities, so much benevolence to mankind 
+in general, so much goodness mixt with the wisdom, in the 
+principles of your new philosophy, that I am perfectly 
+charmed with them, and wish I could have stayed in France 
+for some time, to have studied in your school, that I might 
+by conversing with its founders have made myself quite a 
+master of that philosophy. ... I had, before I went into 
+your country, seen some letters of yours to Dr. Templeman, 
+that gave me a high opinion of the doctrines you are engaged in cultivating and of your personal talents and abilities, 
+which made me greatly desirous of seeing you. Since I had 
+not that good fortune, the next best thing is the advantage 
+you are so good to offer me of your correspondence, which 
+I shall ever highly value, and endeavour to cultivate with all 
+the diligence I am capable of. 
+</p><p>
+I am sorry to find that that wisdom which sees the welfare 
+of the parts in the prosperity of the whole, seems yet not to 
+be known in this country. . . . We are so far from conceiving that what is best for mankind, or even for Europe in 
+general, may be best for us, that we are even studying to 
+establish and extend a separate interest of Britain, to the prejudice of even Ireland and our colonies. ... It is from 
+your philosophy only that the maxims of a contrary and more 
+happy conduct are to be drawn, which I therefore sincerely 
+wish may grow and increase till it becomes the governing 
+philosophy of the human species, as it must be that of superior 
+beings in better worlds. I will take the liberty of sending 
+you a little fragment that has some tincture of it, which, on 
+that account, I hope may be acceptable. 
+</p><p>
+Be so good as to present my sincere respect to that venerable apostle, Dr. Quesnay, and to the illustrious Ami des 
+Hommes (of whose civilities to me at Paris I retain a grateful 
+remembrance), and believe me to be, with real and very 
+great esteem Sir, 
+</p><p>
+Your obliged and most obedient humble servant 
+</p><p>
+B. FRANKLIN 
+</p>
+</letter>

@@ -1,0 +1,46 @@
+<letter id='thj1407'>
+<recipient first='John' last='Adams' type='individual'/>
+<p>
+<a href="/results.php?city=Paris" rel="city">Paris</a>, June 23, <a href="/results.php?year=1785">1785</a>.
+</p><p>
+Dear Sir,
+</p><p>
+My last to you was of the 2nd instant, since which I have received
+yours of the 3rd and 7th. I informed you in mine of the substance of our
+letter to Baron Thulemeyer: last night came to hand his acknowledgment
+of the receipt of it. He accedes to the method proposed for signing,
+and has forwarded our despatch to the King. I enclose you a copy of
+our letter to <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a>, to go by the packet of this month. It contains a
+statement of our proceedings since the preceding letter, which you
+had signed with us. This statement contains nothing but what you had
+concurred with us in; and, as <a href="/results.php?tla=ben" rel="co-worker met">Benjamin Franklin</a> expects to go early in July
+to America, it is probable that the future letters must be written by
+you and myself. I shall therefore take care that you be furnished with
+copies of every thing which comes to hand on the joint business.
+</p><p>
+What is become of this Mr. Lambe? I am uneasy at the delay of that
+business, since we know the ultimate decision of Congress. <a href="/results.php?tla=ben" rel="co-worker met">Benjamin Franklin</a>,
+having a copy of the "Corps Diplomatique", has promised to prepare a
+draught of a treaty to be offered to the Barbary States: as soon as he
+has done so, we will send it to you for your corrections. We think it
+will be best to have it in readiness against the arrival of Mr. Lambe,
+on the supposition that he may be addressed to the joint ministers for
+instructions.
+</p><p>
+I asked the favor of you in my last, to choose two of the best London
+papers for me; one of each party. The Duke of Dorset has given me leave
+to have them put under his address, and sent to the office from which
+his despatches come. I think he called it Cleveland office, or Cleveland
+lane, or by some such name; however, I suppose it can easily be known
+there. Will Mr. Stockdale undertake to have these papers sent regularly,
+or is this out of the line of his business? Pray order me also any
+really good pamphlets that come out from time to time, which he will
+charge to me.
+</p><p>
+I am, with great esteem, dear Sir,
+</p><p>
+your friend and servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

@@ -1,0 +1,16 @@
+<letter id='bsl848'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=sacramento' rel='city origin'>Sacramento</a> 	<a rel='day origin' value='28'>28th</a> March, <a href="/results.php?year=1854">1854</a><br/>  
+Mr. J.W. Mandeville,
+</p><p>
+Sir
+</p><p>
+Enclosed I send a letter from Mrs. D.A Enyart. Please peruse it and at your earliest convenience I would respectfully request an interview. Mr. Enyart is desirous to have an answer and I am as equally desirous that an amicable understanding should be had between you.
+</p><p>
+Can you call at the Orleans, say this afternoon at 4 or 5 o'clock. respectfully
+</p><p>
+Yr. etc.<br/>  
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>

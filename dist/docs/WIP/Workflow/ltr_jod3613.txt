@@ -1,0 +1,29 @@
+<letter id="jod3613">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='26'>26</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1796' rel="origin">1796</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YESTERDAY I came to the Senate, as usual on a Monday morning pleasing my imagination and my heart 
+with the hope and expectation of a letter from 
+my dearest friend. No letter for the Vice President! 
+says Matthew. 
+</p><p>
+All day in bad humor. Dirty weather wet walking nothing good nothing right. 
+</p><p>
+The poor post offices did not escape. It was some 
+blunder some carelessness of theirs in <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, <a href='/results.php?city=new york' rel='city'>New York</a>, or <a href='/results.php?city=boston' rel='city'>Boston</a>. 
+</p><p>
+Or perhaps mam is sick Oh dear! Rheumatisms Oh dear ! Fever and ague ! Thus peevishly, fretfully, and unphilosophically, was yesterday 
+passed. Yet, to divert it, I read a number of books in Cowper's Homer and smoked I know not how many cigars. 
+</p><p>
+I have had the agreeable society of Josiah Quinsy and Martin Lincoln to assist in consoling me a little of late. 
+</p><p>
+There is absolutely nothing to write, public or private, but such as the above. 
+</p><p>
+Adieu. 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

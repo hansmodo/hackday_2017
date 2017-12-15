@@ -1,0 +1,177 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.ttEnuT on line 212
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3700
+--LETTER-TLA--pjs
+--DOC-AUTHOR-FIRST--Philip
+--DOC-AUTHOR-LAST--Schuyler
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume III., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="pjs3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='21'>21</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I embrace the opportunity which is offered me by 
+Colonel Hughes to acknowledge the receipt of your 
+Excellency's favor of the 10th instant, and most sincerely sympathize with you on the embarrassments 
+which the disagreeable event in Jersey will occasion you. It is an awful lesson to the States ; and if it 
+would produce a serious attention to their situation; 
+if it would induce to greater exertions, and hence relieve you from the variety of difficulties which their 
+torpor has occasioned you if it would evince the necessity of parting with so much of their sovereignty, 
+respectively, as would enable the governing power to 
+draw forth the strength and resources of the country, — the event would be happy to America. But, if 
+only alarmed for the moment, and no adequate means 
+are pursued for the future subsistence and pay of 
+the army, our cause is lost, unless another system of 
+ government is adopted. 
+</p><p>
+Impressed with the necessity of lodging competent 
+powers somewhere, to prosecute the war with vigor, 
+and finding a disposition in the Legislature to second 
+my views, I have moved, in Senate, to request of the 
+Eastern States to join in a Convention, to be held at 
+an early day, for the purpose of settling and adjusting every difference which may exist with respect to 
+boundaries ; to form a perpetual league of incorporation, subservient, however, to the common interest of 
+all the States ; to invite others to accede to it ; to 
+create a new State in this quarter, on conditions to 
+be stipulated in such Convention ; to appreciate the 
+most effectual means for prosecuting the war with 
+vigor; to devise a fund for the redemption of the 
+common debts ; to form a permanent and uniform 
+system for drawing out the resources of the country, 
+that we may not be incessantly exposed to the many 
+evils incident on temporary expedients ; and, lastly, 
+to invest Congress with powers so extensive as to 
+oblige each State to do its duty. 
+</p><p>
+This motion is not yet decided upon ; but I believe it will not meet with much, if any, opposition 
+ill either House. Mrs. Schuyler joins me in best 
+wishes to you, Mrs. Washington, and the family. I 
+am, dear Sir, your 
+</p><p>
+Most obedient and affectionate humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter><letter id="pjs3701">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="4">April</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your Excellency's obliging favor of the 23d of last 
+month I had the pleasure to receive on the 31st following. It was exceedingly mortifying to me, that 
+the Senate was so thin of members when your lady 
+honored us with a visit, that my attendance could 
+not be dispensed with, even for a day. I was, consequently, deprived of affording that attention which 
+inclination, esteem, and the most friendly feelings, 
+impelled me to. She saw my embarrassments, and, 
+with a good nature and complaisance which at once 
+charmed and captivated, made every allowance. 
+</p><p>
+The motives which led Congress to postpone filling 
+the War department have leaked out, and been communicated to me. <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> was in nomination; 
+but his friends, reflecting that the impropriety of appointing him before he had exculpated himself from 
+the imputation of misconduct in his command, would 
+be too glaring an abuse of power, deferred it, in 
+hopes that, by an acquittal, the public confidence will 
+be restored to him. But surely the gentlemen who 
+intend him the office, neither consult his reputation 
+nor the public interest. Not the former, because his 
+inability to discharge it will certainly draw disgrace 
+on him ; nor that of the latter, for, if even he was 
+competent, he ought to be precluded, as the inveterate enmity which he bears to you, and which will 
+influence him the more for being groundless, will lead 
+him, without hesitation, to reject or thwart the most 
+salutary measures you may propose. Gracious God! 
+How much it is to be lamented that rulers, charged with the affairs of an empire, will sacrifice the best 
+interests of their constituents to little, narrow-minded 
+prejudices, and local politics, favorable only to their 
+unworthy sycophants ! That they will close their eyes 
+to the evident advantages which would result from 
+choosing men to fill the great offices of the State, 
+who have a mutual confidence in each other, and will 
+give mutual support to every measure calculated to 
+promote the public weal. The man in question, I 
+fear, will also embarrass the Financier ; for he has not 
+the least idea of public economy in his composition, 
+nor do I believe that they entertain much esteem for 
+each other. 
+</p><p>
+I most sincerely lament that a plan so judiciously 
+formed as that you mention in conj&dence, should be 
+defeated by those who would have reaped so much 
+credit from the success which would, in all human 
+probability, have ensued, and the glory of having 
+rendered so essential a service to the allied powers.'' 
+My heart realizes your feelings on the occasion, and 
+cordially sympathizes with yours. You have the 
+weakness of some, and the wickedness of others, to 
+encounter; obstacles and embarrassments to surmount, 
+which blunderers, with one object, and without system, daily create, as well as those vvdiich unavoidable 
+accidents and events, which none can foresee, occasion. But I trust the day is rapidly advancing, when 
+an astonished world will know what it would be improper to communicate now, and feel what they ought, 
+an increase of gratitude, that best affection of the 
+human heart. 
+</p><p>
+May your next despatches from the southern quarter relieve you from the disagreeable situation 
+which the torture of doubt and suspense occasions, 
+and announce some capital advantage over the enemy. Mrs. Schuyler and my daughter join me in affectionate regards to you and your lady. Be pleased 
+to make my compliments acceptable to Colonel Harrison, and the other gentlemen of your family. I 
+am, vith great esteem and regard, 
+</p><p>
+And most affectionately, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter><letter id="pjs3702">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='15'>15</a> <a rel="month origin" value="1">January</a>. , <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Agreeably to your Excellency's order in August 
+last, <a href='/results.php?tla=jac' rel='colleague'>Brigadier-General Clinton</a> left me a guard of one 
+sergeant, one corporal, and eleven privates, chiefly 
+aged and infirm men. He has lately ordered these 
+to he reduced to a corporal's guard. It is now a 
+notorious fact, that three parties have been expressly 
+sent from Canada to take or put me to death. Captain Brownson, lately returned from Canada, a Mr. Shephard, of Tryon county, a Mr- Mott of <a href='/results.php?city=saratoga' rel='city'>Saratoga</a>, and others who have made communications to 
+the Commissioners for detecting conspiracies, all agree, 
+that the British are determined to get me into their 
+possession. The imprudence of the Commissioners for 
+detecting conspiracies, to whom, in order to save a 
+person employed by me, I was under the necessity 
+of communicating some secret matters, which have 
+been divulged, has rendered the enemy's inveteracy 
+still greater ; and I am persuaded that, even with my 
+former guard, I shall run some risk both in person 
+and property, and that, without such a one, I must 
+remove myself and family to a place of greater security. I have, therefore, to entreat your Excellency 
+the favor of an order to <a href='/results.php?tla=jac' rel='colleague'>General Clinton</a>, to recomplete the guard, as he left it in August last. 
+</p><p>
+Yesterday, I received advice that the people on 
+the Grants had generally assembled in town meetings, had declared their apprehensions that a criminal 
+intercourse prevailed between some of their people 
+and the British, and determined on an examination 
+of the conduct of the suspected persons; and had, by 
+a great majority of the towns, voted that a relinquishment should be made of their late extended 
+claim, both on the east and west. The latter part of 
+this intelligence is this moment confirmed to me, in 
+such a manner that I have not a doubt remaining of 
+its truth; and I have reason to believe that the former part is not without foundation. With every wish, 
+which affection and esteem can inspire, 
+</p><p>
+I am, my dear Sir, your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">Philip Schuyler</a>. 
+</p>
+</letter>

@@ -1,0 +1,26 @@
+<letter id='thj1379'>
+<recipient first='Samuel' last='Huntington' type='individual'/>
+<p>
+TO HIS EXCELLENCY THE PRESIDENT OF CONGRESS.
+</p><p>
+<a href="/results.php?city=Richmond" rel="city">Richmond</a>, January 17, <a href="/results.php?year=1781">1781</a>.
+</p><p>
+Sir,
+</p><p>
+I do myself the honor of transmitting to your Excellency a resolution of
+the General Assembly of this Commonwealth, entered into in consequence
+of the resolution of Congress of September the 6th, <a href="/results.php?year=1780">1780</a>, on the subject
+of the Confederation. I shall be rendered very happy if the other States
+of the Union, equally impressed with the necessity of that important
+convention, shall be willing to sacrifice equally to its completion.
+This single event, could it take place shortly, would overweigh every
+success which the enemy have hitherto obtained, and render desperate the
+hopes to which those successes have given birth.
+</p><p>
+I have the honor to be, with the most real esteem and respect,
+</p><p>
+your Excellency's most obedient and most humble servant,
+</p><p>
+<a href="/results.php?tla=thj" rel="me">Th: Jefferson</a>.
+</p>
+</letter>

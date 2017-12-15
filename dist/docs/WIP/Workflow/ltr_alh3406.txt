@@ -1,0 +1,45 @@
+<letter id="alh3406">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="month origin" value="11">November</a> <a rel="day origin" value="5">5</a>, <a href="/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+By inquiry, I have learned that General Patterson's brigade, which is the one you propose to send, is by far the 
+weakest of the three now here, and does not consist of more 
+than about six hundred rank and file fit for duty. It is 
+true, that there is a militia regiment with it of about two 
+hundred, but the time of service for which this regiment is 
+engaged is so near expiring, that it would be past by the 
+time the men could arrive at their destination. 
+</p><p>
+Under these circumstances, I cannot consider it either as 
+compatible with the good of the service, or my instructions 
+from his excellency <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a>, to consent that 
+that brigade be selected from the three to go to him, but I 
+am under the necessity of desiring, by virtue of my orders 
+from him, that one of the others be substituted instead of 
+this, either General Nixon's or General Glover's, and that 
+you will be pleased to give immediate orders for its embarkation. 
+</p><p>
+Knowing that <a href='/results.php?tla=gwa' rel='colleague met'>General Washington</a> wished me to pay the 
+greatest deference to your judgment, I ventured so far to 
+deviate from the instructions he gave me, as to consent, in 
+compliance with your opinion, that two brigades should 
+remain here instead of one. At the same time, permit me 
+to observe, that I am not myself sensible of the expediency 
+of keeping more than one, with the detached regiments in 
+the neighbourhood of this place, and that my ideas coincide 
+with those gentlemen whom I have consulted on the occasion, whose judgment I have much more reliance upon than 
+on my own, and who must be supposed to have a thorough 
+knowledge of all the circumstances. Their opinion is, that 
+one brigade and the regiments before mentioned would 
+amply answer the purposes of this post. When I preferred your opinion to other considerations, I did not imagine 
+you would pitch upon a brigade little more than half as 
+large as the others, and finding this to be the case, I indispensably owe it to my duty to desire, in his excellency's 
+name, that another may go instead of the one intended, and 
+without loss of time. As it may be conducive to despatch 
+to send Glover's brigade, if agreeable to you, you will give 
+orders accordingly. 
+</p>
+</letter>

@@ -1,0 +1,164 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.Ohzdhu on line 287
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--rol
+--DOC-AUTHOR-FIRST--Robert
+--DOC-AUTHOR-LAST--Livingston
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="rol4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The Washington packet arrived this morning. I have not yet had leisure to read all my letters f but as an express is ready to go early to-morrow, I rather 
+choose to rely upon your goodness to excuse a letter written in extreme haste, than to hold myself inexcusable, by not informing you of what we yet know 
+of the state of our negotiations. None of my letters is of a later date than the 25th of December. All 
+difficulties had then been removed with respect to us, and the preliminaries were signed; they consist of nine articles. 
+</p><p>
+The first acknowledges our independence. 
+</p><p>
+The second describes our boundaries, which are as extensive as we could wish. 
+</p><p>
+The third ascertains our rights as to the fishery, and puts them upon the same footing that they were before the war. 
+</p><p>
+The fourth provides that all British debts shall be paid. 
+</p><p>
+The fifth and sixth are inclosed for your perusal, as they are likely to be the least satisfactory here.'-'' 
+</p><p>
+The seventh stipulates that hostilities shall immediately cease, and that the British troops be withdrawn, 
+without carrying off any property, or dismantling fortifications ; that records and archives shall be restored. 
+</p><p>
+The eighth stipulates that the navigation of the Mississippi shall be open to us and Great Britain. 
+</p><p>
+The ninth, that all conquests, made in America after the ratification, shall be restored. 
+</p><p>
+These preliminaries are only provisional upon the 
+determination of a peace with France, whose negotiations have not made such progress as ours. I believe 
+they find themselves very much embarrassed by the demands of their other allies. 
+</p><p>
+The Count de Vergennes, in a letter of the 25th of December, says, "I cannot foresee the issue, for difficulties arise from the disposition we have shown 
+to remove them. It would be well, Sir, to prepare Congress for every event. I do not despair ; I rather hope but all is y^i uncertain." 
+</p><p>
+But, Sir, whatever the event of the negotiations may be, I persuade myself the enemy will leave these 
+States. Mr. Oswald has made some propositions to our Ministers upon this subject, proposing that they might be permitted to embark without molestation, 
+and endeavour to recover West Florida from the Spaniards. This last communication, which you will 
+consider as confidential, I thought might be important to your Excellency. By attending to their conduct, you will be able to judge if they mean to pursue this system, or if it was only thrown ont to deceive. 
+</p><p>
+I inclose also, for your perusal, extracts from the Addresses, not having time to have them copied at large. They are mere echoes to the speech. Supplies were voted without one dissenting voice. 
+</p><p>
+I must pray your Excellency to send on the inclosed packets. Any expense it occasions, will he paid by the Governor. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.
+</p>
+</letter><letter id="rol4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='24'>24</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+You will by this express receive the agreeable intelligence of a general peace, upon which I most sincerely congratulate you and the army. Harmony, a 
+regard for justice, and fidelity to our engagements, are all that now remains to render us a happy people. The vessel that brought these despatches was 
+sent out by the Count d'Estaing to recall the French cruisers. As the Minister tells me he will forward the orders and passports to j^our Excellency, I will 
+not detain the messenger till I have mine copied. This should, in my opinion, be immediately sent either by Congress or your Excellency to Sir Guy Carleton. 
+</p><p>
+A private letter to me mentions, that the Bahama Islands are also ceded to the British, Holland seems 
+to have come worst off; and France, by getting little for herself, has laid in a store of reputation, which will 
+be worth more than much territory. I must request your Excellency to send on the inclosed letters by express to the Governor. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.. 
+</p><p>
+P. S. I have thought proper to send Mr. Lewis Morris to <a href='/results.php?city=new york' rel='city'>New York</a>, to inform General Carleton of 
+the happy re-union of the powers at war ; and also of a resolution of Congress of this day, directing their 
+Agent of Marine to take proper measures to stop all further hostilities by sea. 
+</p>
+</letter><letter id="rol4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='12'>12</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I congratulate your Excellency, most sincerely, upon the cessation of hostilities, which you will learn from the inclosed proclamation. You will doubtless have 
+heard directly from General Carleton on the subject, so that it will not be necessary to trouble you with the substance of his letter to me. 
+</p><p>
+Congress will this day, upon my report, take into consideration the propriety of discharging the prisoners, and the manner in which it is to be done. Sir 
+Guy Carleton presses hard, in his letter, for the execution of the fifth of the Preliminary Articles. I have replied that it cannot be executed, till the treaty 
+is ratified; and in the mean time endeavoured to convince him that the recommendation of Congress will 
+be received with much more respect, when the persons, who compose our Legislatures, have returned to 
+their respective homes, and the asperities, occasioned by the war, shall be a little worn down by the enjoyment of peace. It is a very capital omission, in 
+our treaty, that no time has been fixed for the evacuation of <a href='/results.php?city=new york' rel='city'>New York</a>. 
+</p><p>
+It were to be wished that General Carleton's intentions on this head could be sounded by your Excellency. 
+</p><p>
+I have the honor to be, dear Sir, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.
+</p>
+</letter><letter id="rol4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=clermont' rel='city origin'>Clermont</a>, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1795' rel="origin">1795</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Possessing no official situation, which entitles me to offer my sentiments on political measures, I may 
+possibly be deemed intrusive when I offer my unasked advice. But, Sir, feeling the same ardent love 
+for my country, which has so frequently, in times of danger and difficulty, served as an apology for my 
+letters, I still presume, without any other than that which arises from my solicitude, in the present alarming situation of our affairs, to offer you the unbiased 
+sentiments of a citizen, whose whole life has been employed in endeavouring to understand, and, as far 
+as in him lay, in promoting the interests of his country; of one, who considers your glory as closely connected with that interest, and who views the present 
+as a favorable moment to place it above the reach of party violence, and to procure to yourself a second 
+time, by the common consent of America, the endearing appellation of the saviour of your country. 
+</p><p>
+In my present retired situation, I have carefully read and considered the treaty with England. I see 
+in it not the slightest satisfaction for our wrongs. I see them, in some instances, authorized. In the commercial part, I see articles, which, though professing 
+to be mutual, are in no sort reciprocal. I see a want 
+of precision in many, which may involve us in frequent disputes. But, above all, I dread, in the ratification of the treaty, an immediate rupture with 
+France, where (as I am informed by letters from thence) the very apprehension has already excited very disagreeable sensations. To discuss these points, 
+or even to dwell on the construction which France may put on the twenty-fourth and twenty-fifth articles, would be an unnecessary waste of your time, since 
+the objections to them could not have escaped your discernment; and they may possibly admit of a construction variant from that, which they at first view 
+appear to carry with them. But, at any rate, they were unnecessary, and peculiarly improper at the present moment. 
+</p><p>
+There are two other articles which, though less pointed at, France can hardly, in my opinion, consider 
+as much short of a direct declaration of hostilities. By the twenty-seventh article, it is expressly admitted 
+that enemies' property, on board of American ships, is liable to capture. This is, at least, a question of considerable doubt, since the general assent of civilized 
+nations to the principle of the armed neutrality, Britain alone dissenting. And surely this was a very improper moment to turn that doubt into a certainty, 
+to the injury of ourselves and our allies. By the latter part of the twelfth article, this question, it seems. is again to be revived, within two years after the war. 
+Now, as this question is capable of discussion as well at this as at any future time, and as it depends in no sort upon the war, what other construction can 
+France possibly put upon this delay than a tacit agreement between us and Britain to aid her, even at our own expense, in her determined hostility to 
+that Republic, while we were availing ourselves of a contrary principle to protect the property of her rival? 
+</p><p>
+This argument derives additional force from the eighteenth article, which, notwithstanding what we 
+have suffered from the British construction of siege and blockade, leaves it still undefined, and, of course, 
+agreeably to a known principle of the law of nations (Vat. 2d lib. 27th cap.), acquiesces in their absurd 
+and unlimited constructions, and enables them, as I am just informed they have done, to renew their 
+attempt to starve France and her Colonies. In our treaty with France, tar, turpentine, cordage, masts, 
+sails, plank, &c., are expressly declared not to be contraband. By this treaty, all these articles are 
+made contraband. Upon what principle can France suppose that we entered into this stipulation at this 
+time, and in the very face of our proclamation, by which you refer to the modern law of nations for a 
+just definition of the word contraband, unless it were to distress them ? 
+</p><p>
+Pardon me. Sir, on the score of my solicitude for the peace and welfare of my country, if I intrude 
+upon your time and patience. I dread a war with France, as the signal for a civil war at home. She 
+can, and I greatly fear that she will, should the treaty be ratified, compel us to enter the lists by 
+claiming the effect of our guaranty of the Islands. Rent, as our country unhappily is, by parties, nothing 
+but personal consideration for your virtues can attach the public confidence to the measures of Government; 
+nothing but your glory can save, under these circumstances, the honor of our nation. 
+</p><p>
+I have the honor to be, &c., 
+</p><p>
+<a href="/results.php?tla=rol" rel="me">Robert R. Livingston</a>.
+</p>
+</letter>

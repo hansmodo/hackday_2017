@@ -1,0 +1,10 @@
+<letter id="mbc7590">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='17'>17th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Captain Shannon, of the Kirkwood Rangers, called and stayed three hours. Has not been under fire 
+yet, but is keen to see or to hear the flashing of the guns; proud of himself, proud of his company, but proudest of all 
+that he has no end of the bluest blood of the low country in his troop. He seemed to find my knitting a pair of socks a 
+day for the soldiers droll in some way. The yarn is coarse. He has been so short a time from home he does not know how 
+the poor soldiers need them. He was so overpoweringly flattering to my husband that I found him very pleasant company. 
+</p>
+</letter>

@@ -1,0 +1,24 @@
+<letter id='tol8000'>
+<recipient first='James' last='Buchanan' type='individual'/>
+<p>
+Consulate of the United States, 
+</p><p>
+<a href='/results.php?city=monterey' rel='city origin'>Monterey</a>, California, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='4'>4</a>, <a href='/results.php?year=1846' rel="origin">1846</a>. 
+</p><p>
+Sir: The undersigned has the honor to inform the Honorable Secretary that <a href="/results.php?tla=jhf" rel="colleague met">Captain J. C. Fremont</a> arrived within this department in January 
+last, with his party of fifty men, and was at the home of the undersigned a few days during the last month, for the purpose of getting funds for 
+refitting and clothing his party, which he received as far as could be procured. He is now in this vicinity surveying, and will be again at this consular house during this month. He then proceeds for the Oregon, returns 
+here in May, and expects to be in Washington about September. To this gentleman is due, from the Government, unqualified praise for the patience, 
+industry, and indefatigable perseverance in attaining the object he is <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont</a> passed three degrees south of Fort Hall, having taken 
+a route supposed to be a desert, which made his distance to California eight or nine hundred miles less. He considers the distance from Independence to 
+Monterey about one thousand nine hundred miles. He describes the new route he followed far preferable, not only on account of the less distance, 
+but it is less mountainous, with good pasturage, and well watered. The second day of his arrival in Monterey, he visited the commandante general, 
+prefecto, and alcalde, and by verbal request of the general, informed him officially of his object in visiting California. The undersigned forwards, 
+with this, the two annexed letters respecting <a href="/results.php?tla=jhf" rel="colleague met">Captain Fremont's</a> arrival. 
+</p><p>
+I am, sir, with the highest respect and consideration, your most obedient 
+servant, (Signed) <a href="/results.php?tla=tol" rel="me">Thomas O. Larkin</a>. 
+</p><p>
+To the Hon. Secretary of State, City of Washington. 
+</p>
+</letter>

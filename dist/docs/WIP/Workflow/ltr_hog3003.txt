@@ -1,0 +1,62 @@
+<letter id="hog3003">
+<recipient first="Benedict" last="Arnold" type="individual"/>
+<p>
+Upon your arrival at Crown Point, you will proceed with the fleet of the United States under your command, down Lake 
+Champlain, to the narrow pass of the Lake made by the Split 
+Rock, or to the other narrow approach down the Lake, made 
+by Isle-aux-Tetes and the opposite shore. You will station the 
+fleet in the best manner to maintain the possession of those 
+passes, according as your judgment shall determine, cautiously 
+avoiding to place the vessels in a manner, which might unnecessarily expose them to the enemy's heavy artillery from the 
+shore. You will most religiously observe, that it is my positive 
+order that you do not command the fleet to sail below the pass 
+of the Isle-aux-Tetes, above mentioned, incessantly reflecting, 
+that the preventing the enemy's invasion of our country is the 
+ultimate end of the important command with which you are 
+now intrusted. It is a defensive war we are carrying on ; 
+therefore no wanton risk or unnecessary display of the power 
+of the fleet is at any time to influence your conduct. 
+</p><p>
+Should the enemy come up the Lake, and attempt to force 
+their way through the pass you are stationed to defend, in that 
+case you will act with such cool, determined valor, as will 
+give them reason to repent their temerity. But if, contrary to 
+my hope and expectation, their fleet should have so increased 
+as to force an entrance into the upper part of the Lake, then, 
+after you shall have discovered the insufficiency of every effort 
+to retard their progress, you will, in the best manner you can, 
+retire with your squadron to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. Every vessel in the 
+fleet being furnished with a bateau, you will have it in your 
+power to keep out scout-boats at night, and occasionally to annoy the enemy's small craft. In the daytime your boats can 
+act, when opportunity offers, under cover of the cannon of your 
+fleet. 
+</p><p>
+As the most Honorable the Congress of the United States 
+rest a great dependence on your wise and prudent conduct in 
+the management of this fleet, you will on no account detach 
+yourself from it, upon the lesser services above mentioned. A 
+resolute but judicious defence of the northern entrance into this 
+side of the Continent, is the momentous part which is commit 
+ted to your courage and abilities. I doubt not you will secure 
+it from further invasion. 
+</p><p>
+As I am entirely unacquainted with marine affairs, I shall 
+not presume to give any directions respecting the duty and Discipline of the seamen and marines on board the fleet. 
+</p><p>
+I have traced the great outline of that service which your country expects from the rank and character you have acquired. 
+I have, as is my duty, fixed the limits beyond which you are 
+not to go. But you must communicate that restriction to no 
+body. I wish, on the contrary, that words, occasionally dropped 
+from you with that prudence which excludes every sort of affectation, and which I believe you possess, may, together with 
+all your motions, induce our own people to conclude it is our 
+real intention to invade the enemy, which, after all, may hap 
+pen. It will keep up their spirits, without affecting your reputation, whatever may be the event. 
+</p><p>
+It only remains for me to recommend you to the protection 
+of that Power, upon whose mercy we place our hopes of freedom here, and of happiness hereafter. You will frequently report the state and situation of your fleet, and of every interesting occurrence. 
+</p><p>
+Given at <a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, this <a rel="day origin" value="7">7th</a> day of <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>, Major- General. 
+</p>
+</letter>

@@ -1,0 +1,32 @@
+<letter id="jol4957">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+President of Congress, <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. 
+</p><p>
+(Private). 
+</p><p>
+HEAD QUARTERS NEAR <a href='/results.php?city=new brunswick' rel='city origin'>BRUNSWICK</a>, <a rel='day origin' value='6'>6th</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I beg leave to introduce to your acquaintance, and 
+recommend to your civilities the Marquis de la Yienne. He arrived in camp while we were at <a href='/results.php?city=valley forge' rel='city'>Valley Forge</a>, with recommendatory letters to the 
+<a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a>, and has been with him ever since. He is now going to present himself to Congress. If he asks for any thing, they will best know 
+whether his request is reasonable and well founded. Unfortunately there is a prejudice against foreigners in many of our officers. It is not without uneasiness 
+that some of them see <a href='/results.php?tla=frs' rel='co-worker'>Baron De Steuben</a>, who has certainly rendered us very important services, and who is without doubt as capable of commanding as 
+any major general we have, appointed to the temporary command of a division in the absence of so many major generals. 
+</p><p>
+The last accounts from the enemy are, that they were busily employed in embarking their baggage and 
+horses. Yesterday I had a view of their fleet, which appeared to be getting under weigh. 
+</p><p>
+Six grenadiers came in yesterday, one of them a very intelligent fellow, says that desertion prevails so 
+much among them that unless they are speedily embarked, their army will dwindle into nothing. 
+</p><p>
+I felicitate you, my dear father, upon the many 
+happy events which have taken place during your presidency, and upon the happy prospects which continue 
+to present themselves. May God preserve you to enjoy the complete triumph of liberty and your country. 
+Your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

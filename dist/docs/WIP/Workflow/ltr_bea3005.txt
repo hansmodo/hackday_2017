@@ -1,0 +1,62 @@
+<letter id="bea3005">
+<recipient first="George" last="Washington"/>
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="1">January</a>, <a href="http://www.familytales.org/results.php?year=1777" rel="origin">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+By the best intelligence we have been able to procure of the enemy's force on Rhode Island, it consisted of about six thousand men; eleven regiments 
+of British, and four of Hessians. Two thousand embarked the 21st instant, in twenty-four transports, and 
+sailed from Newport three days since, supposed for 
+<a href='/results.php?city=new york' rel='city'>New York</a>, as they were seen off New London, Part of the remainder, believed about fifteen hundred, are 
+disposed over the Island in seeming great security. 
+They have a small fort opposite Bristol Ferry, and 
+are raising a work opposite Fogland Ferry. One of 
+their frigates was lately drove from thence, and was 
+yesterday replaced by a fifty-gun ship and two tenders, which we are preparing to attack, by guns on 
+shore, and our galleys, which are ordered down. 
+</p><p>
+At a Council of General Officers, held a few days 
+since, it was advised to land a body of eight thou 
+sand men (if they can be procured) on Rhode Island, 
+and attack the enemy in the following manner, namely; Five thousand men, with proper artillery, to embark at Rowland's Ferry and land nearly opposite 
+Fogland Ferry, and to take post on a high ground, 
+under cover of a thick wood, on the middle of the 
+Island, six miles this side of Newport. Three thou 
+sand men to embark at Bristol and Rowland's Ferry, 
+and attack the enemy in the different posts, a diversion to be made by a party from Seconnet, who are 
+to land three miles from Newport. At the same 
+time, two fire-ships are to be sent into Newport 
+among the transports; two frigates and two galleys 
+are to be placed between Bristol and Rowland's Ferry, which, with the batteries, will effectually secure 
+our retreat. We are making every necessary preparation of boats, artillery, &c., which will be complete 
+in two or three weeks. Nothing will be wanting but 
+men. We have, at present, only four thousand. Not 
+more than one thousand more (of the six ordered) 
+can be expected. With this number, as they are 
+chiefly raw militia, I believe your Excellency will not 
+think it prudent for us to make a general attack. 
+The deficiency I know of no way of making up but 
+by calling in four or five Continental regiments from 
+the States of Massachusetts Bay and New Hampshire. 
+If this number can be procured, we have a good prospect of dislodging the enemy from Newport; if not, 
+we must be content to harass them with small parties. I suppose Major-General Spencer has wrote 
+your Excellency very particularly on the subject, and 
+will wait for your directions in the matter. 
+</p><p>
+This will be delivered to your Excellency by Captain Mansfield, whom, I recommended, in my last as 
+a proper person to command a company of artillery. If your Excellency should think proper to appoint 
+him, I beg the favor that he may be allowed to return here immediately. I am, with sentiments of great respect and esteem, Dear General, 
+</p><p>
+Your affectionate and most obedient, 
+</p><p>
+Humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p><p>
+P. S. I have inclosed a plan of Rhode Island and 
+the adjacent country, by which you will observe the 
+great difficulty of coining at the enemy, and the necessity of having a superior force, if we land on the 
+Island. B. A. 
+</p>
+</letter>

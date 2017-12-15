@@ -1,0 +1,40 @@
+<letter id="jhm3922">
+<recipient first="Francis" last="Marion" type="individual"/>
+<p>
+<a href='/results.php?city=uxbridge' rel='city origin'>UXBRIDGE</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received yours of the 27th the last evening. The information 
+both <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a> and myself had received, agree that there were two 
+parties going out one Northwardly, and the other Southwardly. How 
+ever, I am very happy to find they have dropped the Northern expedition, which I am in great hopes will leave you at leisure to form some 
+plan, if possible, to put a stop to this infamous traffic, that is carried 
+on with the town through Goose Creek and down Cooper River. I 
+cannot help thinking it reflects no great credit on our cavalry in this 
+part, to lie still in their quarters and suffer about a dozen or twenty 
+negroes to come out almost every night in the week, and carry off 
+cattle, horses, and anything else they want, within twelve or fifteen 
+miles of their camp; but I have spoke of it so often, that I am deter 
+mined never to mention the matter again. I must entreat you, sir, to 
+form some plan which will be most effectual to stop such a shameful 
+commerce; it is no less villainous than true that the Charlestown mar 
+kets are now daily supplied with the greatest plenty of everything they 
+want. There is no political consideration whatever that can induce me 
+to alter the substance of my proclamation. I must request you to have 
+it carried into the most rigid execution. I am clearly convinced nothing 
+will do with the Southern militia until you are at leisure to undertake 
+the management of them. The news contained in the paper you sent 
+me is very important indeed, and I trust will lead to happy consequences. 
+I observe they are contending for a restoration of the confiscated estates. 
+This, I knew, would be the case, and told the House of Assembly so 
+when they were about passing the Confiscation Act ; for it is a matter 
+</p><p>
+that must be finally settled by negociation. I enclose you a copy of a letter I have just received from <a href='/results.php?tla=nag' rel='colleague met'>Gen. Greene</a>. Poor <a href='/results.php?tla=jol' rel='colleague'>Laurens</a> ! I am 
+very sorry for his fate. I also enclose you twenty blank commissions, which were omitted to be sent before. 
+</p><p>
+I am, sir, your most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhm" rel="me">JOHN MATTHEWS</a>. 
+</p>
+</letter>

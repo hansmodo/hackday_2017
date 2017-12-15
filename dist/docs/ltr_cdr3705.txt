@@ -1,0 +1,44 @@
+<letter id="cdr3705">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel='day origin' value='5'>5</a> <a rel="month origin" value="2">February</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+The legion of Lauzun had began to march, when very cold weather came on, and the ground was covered with snow six inches deep. As, by the intelligences I had from your Excellency, and those I got 
+from the flag, it appears that the reenforcement from 
+<a href='/results.php?city=new york' rel='city'>New York</a> for <a href='/results.php?city=charleston' rel='city'>Charleston</a> does not exceed thirteen 
+hundred men, I have not judged this rapid movement 
+of the legion quite necessary, when, in these melted 
+snows, all its equipments, both of horse and foot, 
+would have been utterly spoiled; and therefore have 
+ordered it into its quarters again, until the weather 
+be milder. In the mean time, I hope I shall receive 
+your Excellency's answer. 
+</p><p>
+The news I had from <a href='/results.php?city=new york' rel='city'>New York</a> by the flag are, 
+that all the men-of-war under sixty-four are gone, a 
+month since, to join Admiral Hood ; that there remain only at <a href='/results.php?city=new york' rel='city'>New York</a> the Lion, commanded by Digby, some fifty and forty-gun ships, and several 
+frigates. That is quite sufficient to keep the Romulus in awe. They brag, likewise, at <a href='/results.php?city=new york' rel='city'>New York</a>, of an 
+immediate large reenforcement from Ireland, with the 
+same particulars of two regiments of dismounted dragoons. Though I have not the least faith in it, I 
+believe it would be necessary, before we come to 
+any resolution, to know whether this storm will take 
+its direction to the northward or towards the south. 
+It is the same report which was spread in <a href='/results.php?city=charleston' rel='city'>Charleston</a>, 
+and which has alarmed <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. 
+</p><p>
+As your Excellency's answer might be long coming, 
+by reason of the rivers being full of floating ice, and 
+of our not having had any intercourse with the Northern States this fortnight past, I have resolved to send 
+back to <a href='/results.php?city=new york' rel='city'>New York</a> all the convalescents, which it 
+will be possible to assemble, that they may be exchanged against our convalescents of the West India 
+brigade, taken in the Bonetta. I believe it will be 
+better for both to return among their countrymen, 
+there to receive the assistance they stand in need of 
+I am, with respect and personal attachment. Sir, 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cdr" rel="me">Le <a href='/results.php?tla=cdr' rel='colleague'>Compte De Rochambeau</a></a>. 
+</p>
+</letter>

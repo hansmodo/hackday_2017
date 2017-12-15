@@ -1,0 +1,16 @@
+<letter id="jhr3907">
+<recipient first="" last="Garden" type="individual"/>
+<p>
+<a href='/results.php?city=charlestown' rel='city origin'>CHARLES TOWN</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='27'>27</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+SIR: 
+</p><p>
+As your regiment may be more usefully employed at present near 
+<a href='/results.php?city=savannah' rel='city'>Savannah</a> river, to guard their settlements and prevent the depredations 
+of the enemy in that part of the country, than by acting with the continental troops under Col. Pinckney ; you will be pleased to make the 
+best disposition of it, for that purpose. 
+</p><p>
+I am, sir, your most humble servant, 
+</p><p>
+J. RUTLEDGE, 
+</p>
+</letter>

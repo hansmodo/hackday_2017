@@ -1,0 +1,26 @@
+<letter id="nib5233">
+<recipient first="Josiah" last="Nichol" type="individual"/>
+<p>
+Bank of the United States 
+</p><p>
+<a rel="month origin" value="6">June</a> <a rel='day origin' value='23'>23rd</a> <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+Dear Sir 
+</p><p>
+. . . We are obliged to receive and glad to receive nominations from any respectable quarter, &amp; always treat them 
+with respect but you must not suspect that any particular 
+consideration is given to nominations from Washington. With 
+Washington, in its character as the seat of Gov , the Bank 
+has no concern. It has in fact nothing to do with the Gov, 
+except that in administering the national finances, it will give 
+its aid cordially and sincerely to every administration. But 
+with no administration will it have any political connexion. 
+Nor would the influence of the President and all the Departments put together be sufficient to appoint a single Director 
+who was not considered qualified for his trust. This independence forms the point of honor with the Bank. You must 
+not, therefore, believe for a moment, that any influence from 
+any quarter could interfere with the regular course of our 
+nominations or prevent our consulting you and our friends 
+in <a href='/results.php?city=nashville' rel='city'>Nashville</a> on a subject of so much importance as the choice 
+of those to whom the prosperity of the Bank is entrusted.
+</p>
+</letter>

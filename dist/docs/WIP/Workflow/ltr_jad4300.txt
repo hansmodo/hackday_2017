@@ -1,0 +1,59 @@
+<letter id="jad4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=trenton' rel='city origin'>Trenton</a>, <a rel='day origin' value='16'>16</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I entertained the pleasing hope of meeting you at 
+this place ; on no better authority, indeed, than report, and yet I feel the disappointment in proportion 
+to my affection for your person, my gratitude for 
+your public services, and the kind attention with 
+which you have always indulged me. Be pleased to 
+take in good part the address which I have the honor to transmit, with the freedom of our city in a 
+golden box. It can add nothing to your glory ; but 
+we flatter ourselves it may not be unacceptable as 
+a permanent testimony of the esteem and gratitude 
+of citizens, who, of all others, have been most distinguished by your care and solicitude. 
+</p><p>
+I once flattered myself that the dignity of our Government would have borne some proportion to the 
+illustrious achievements by which it was successfully 
+established ; but it is to be deplored that federal attachment, and a sense of national obligation, continue 
+to give place to vain prejudices in favor of the independence and sovereignty of the individual States. I 
+have endeavoured, in pursuance of the great motive 
+which induced me to continue in public life, to inculcate more enlarged and liberal principles ; but the 
+spirit of the times seems opposed to my feeble efforts, 
+and I have lost credit with our Assembly ; though, I 
+hope, not with the world. If opportunity offers, I 
+shall take the liberty to submit to your perusal 
+the judgment pronounced in the Court where I preside, which has produced the censure promulgated in 
+the papers ; in effect, " that we had the presumption 
+to control the operation of an act of the Legislature, 
+from a respect to the treaty of peace and the law 
+of nations." I trust you know me too well to think 
+that I can be otherwise concerned for this event than 
+as it may injure the reputation of my native State, 
+of which I have so long been a faithful and confidential servant. <a href='/results.php?tla=joj' rel=''>Mr. Jay</a>, Mr. Dickinson, and other 
+great men, from public considerations, have honored 
+us with the highest approbation. Their comments are 
+calculated for the public eye, and will appear when 
+they can do the greatest good. 
+</p><p>
+I have too long been indulged in writing to you 
+with unreserved freedom and confidence, to suppress 
+this detail ; and, if it was ever so immaterial, your 
+goodness would pardon it. 
+</p><p>
+Do me the honor to make my most respectful 
+compliments acceptable to Mrs. Washington, and to 
+assure her that, in the circle of her numerous friends, 
+there are none who remember her with more sincere 
+regard than Mrs. Duane and all the branches of our 
+family. With every sentiment of the most perfect 
+and affectionate attachment, 
+</p><p>
+I have the honor to be, &c., &c., 
+</p><p>
+<a href="/results.php?tla=jad" rel="me">James Duane</a>. 
+</p>
+</letter>

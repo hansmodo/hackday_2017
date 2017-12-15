@@ -1,0 +1,28 @@
+<letter id='mad1720'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=orange" rel="city">Orange</a>, June 17, <a href="/results.php?year=1793">1793</a>. 
+</p><p>
+MY DEAR SIR, Your favor of the 9th I received late last 
+night by a messenger from the neighbourhood of <a href="/results.php?city=fredericksburg" rel="city">Fredericksburg</a>, who returns early this morning. I have therefore not had 
+time to read the papers inclosed in it, and even the letter itself 
+but hastily. Its silence as to France is a cordial to the fears we 
+have been kept in by the newspapers and reports here, of hearing every moment of her final catastrophe. If the army had 
+stood by Dumouriez's treason, as was the uncontradicted idea 
+for a time, scarce a possibility seemed to remain of any other 
+result. I fell in two days ago with French Strother, who was 
+returning circuitously from <a href="/results.php?city=richmond" rel="city">RICHMOND</a>. He had seen W. C. Nicholas on his way, and spoke of him as among the decided 
+friends of the French cause. In general, I discovered that his 
+testimony and conviction corroborated the fact that the people 
+of this Country, where you cannot trace the causes of particular 
+exceptions, are unanimous and explicit in their sympathy with 
+the Revolution. He was in <a href="/results.php?city=richmond" rel="city">RICHMOND</a> during the session of the 
+Court of the United States, and heard the opinions of the Judges 
+on the subject of the British debts. Jay's, he says, was, that the 
+depreciated payments into the Treasury discharged the debtor, 
+but leaves the State liable to the creditor. It would be a hard 
+tax on those who have suffered themselves by the depreciation 
+to bear Such a burden. It would be severely felt by those who 
+put money into the Treasury on loan, and have received certificates by the scale, and those again further reduced by the modifications of the assumption. 
+</p>
+</letter>

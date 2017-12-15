@@ -1,0 +1,27 @@
+<letter id="now4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=baltimore' rel='city origin'>Baltimore</a>, 	<a rel='day origin' value='18'>18</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1785' rel="origin">1785</a>. 
+</p><p>
+Sir, 
+</p><p>
+If the request I am now to make should need any apology hut such as will naturally be suggested by its own importance, I am sure it will find it in your candor. 
+</p><p>
+The favorable reception of my grammatical publication in the Northern States, has induced me to offer them for sale in the Southern ; and I am happy to 
+find they meet the approbation of those literary gentlemen with whom I have conversed on my tour to 
+<a href='/results.php?city=charleston' rel='city'>Charleston</a>. The performance may possibly appear, 
+at first thought, trifling ; and yet, as containing the 
+rudiments of our native language, the foundation of our other scientific improvements, it doubtless ought 
+to be considered as extremely important. If you. Sir, view it in the latter point of light, and have 
+taken the trouble to examine the general plan and execution, your name, as a patron of the Institute, 
+would be very influential in introducing it to notice in these States. 
+</p><p>
+I should be very unhappy to make any request, a compliance with which would require the least sacrifice from so distinguished a character ; but if it can 
+be done, consistently with the sentiments of your heart and the delicacy of your feelings, the addition 
+of your name, Sir, to the catalogue of patrons, will, I vainly hope, be a continuation of your public utility, and will certainly be esteemed a singular favor 
+conferred on one who is anxious to improve the literature and advance the prosperity of this country. 
+I have the honor to be, &c., &c., 
+</p><p>
+<a href="/results.php?tla=now" rel="me">Noah Webster, Jr.</a> 
+</p>
+</letter>

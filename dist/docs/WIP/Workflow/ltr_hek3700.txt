@@ -1,0 +1,80 @@
+<letter id="hek3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, 	<a rel='day origin' value='27'>27</a> <a rel="month origin" value="3">March</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+There being no established principles to govern the 
+appointments to the vacancies of officers in the artillery, some doubts have arisen since the last regulation of the army, whether the right of appointment 
+is in Congress, as generally has been the case, or in 
+the States in which the regiments of artillery are apportioned, as part of their quotas. This uncertainty 
+has operated to the prejudice of the service, by keeping vacant many second Lieutenantcies, which are 
+highly necessary to be filled, as there is a great deficiency of officers of that rank. 
+</p><p>
+The regiments of artillery having different origins, 
+the appointments, of course, have been derived from 
+different authorities. Colonels Lamb's and Crane's 
+regiments were raised, and the officers appointed, by 
+virtue of powers given your Excellency in December, 
+<a href='/results.php?year=1776'>1776</a>. Colonel Harrison's regiment was raised and 
+appointed by the State of Virginia, under the authority of Congress. Colonel Proctor's was originally 
+raised by Pennsylvania, as a State regiment, and afterwards taken upon the Continental establishment 
+by a resolve of Congress. The new appointments, 
+which have taken place since the first formation of 
+the regiments, have been made by Congress, in consequence of the request and certificates of the officers 
+commanding regiments, countersigned by the General Officer commanding the corps. 
+</p><p>
+The promotions have been regimental to, and including, the rank of Captains, and to Field-Officers in 
+the line of the corps at large. It is this principle 
+which connects the regiments of artillery, and forms 
+them into one corps, and which, if taken away, will 
+reduce it to so many distinct regiments, independent 
+of each other, without cement or any other quality 
+which will enhance its utility and reputation. If the 
+States interfere in the appointments, it is apparent 
+the connection between the different regiments will 
+be destroyed ; for the same power, which has a right 
+to appoint, will claim a right to promote in case of 
+vacancies; one is the consequence of the other. The 
+distinction between the right of appointment and promotion, is too nice to be observed, or rather cannot 
+be made. 
+</p><p>
+We have the experience of our own service, in addition to that of others, that rank is esteemed an 
+unalienable right, and the acquisition of it the highest reward of military virtue. The principles of promotion, therefore, ought to be fixed and certain, and 
+so clear as not to be liable to be misunderstood. 
+The artillery, being composed of troops from different States, no one State can have the direction of 
+the promotion of the whole, or even a part ; as a 
+single promotion must affect the whole line. Congress only, with propriety, can make the appointments and promotions. 
+</p><p>
+The qualifications requisite for an officer of artillery being materially different from those for an officer of infantry, great care ought to be taken that 
+none are appointed but such as possess a proper 
+proportion of knowledge of the mathematics, and 
+other necessary abilities for the nature of the service. 
+It is from the talents of the officers of artillery, improved by experience, that America may expect to 
+derive an essential part of her military character. 
+That the greatest caution should be observed in 
+making the appointments, I would humbly propose that they should originate with the Colonels of the 
+regiments, who shall certify that the person recommended appears possessed of a proper proportion of 
+mathematical knowledge, and such other qualifications 
+as to make a good officer of artillery, and that this 
+certificate should be countersigned by the General Officer commanding the corps, and by him transmitted to Congress ; that the promotions should be regimental to Captains, and to Field-Officers in the line 
+of the corps at large ; and that the principles of the 
+appointments and promotions be expressed in the most 
+explicit terms. 
+</p><p>
+I am persuaded, that unless the Honorable Congress immediately establishes a system for the appointments and promotion of artillery, the corps will 
+soon be involved in the utmost confusion. The best 
+of the officers, seeing the uncertainty of promotion, 
+will be disgusted, and leave the service ; and the present state of the artillery, which has been the work 
+of years, may be ruined in an hour, by the premature promotion of an individual State. If your Excellency should view this matter in the same point 
+of light, I beg you would be pleased to make such 
+a representation to Congress, as may prevent the 
+evils apprehended. 
+</p><p>
+I have the honor to be, with the highest respect 
+and esteem, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hek" rel="me">Henry Knox</a>. 
+</p>
+</letter>

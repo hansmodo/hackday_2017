@@ -1,0 +1,60 @@
+<letter id="gom4694">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="2">February</a> <a rel='day origin' value='27'>27th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Sir, 
+</p><p>
+The Captains of American vessels brought into your ports, 
+and persons interested in the said vessels and their cargoes, 
+address to me very serious complaints, which seem but too 
+well founded. 
+</p><p>
+I will not here examine the measure itself, excusable per 
+haps on account of the extraordinary circumstances in which 
+the Republic is placed. But even could severe necessity 
+justify a violation of the rights of a neutral and allied nation, 
+she ought, at Jeast, to expect to suffer only the inevitable 
+grievances arising from this violation. She has a right to 
+expect, that the French Republic will be so much the more 
+liberal and prorhpt in making compensation for these forced 
+supplies, as the method by which she took possession of them 
+was uncommon. 
+</p><p>
+But T see with regret that those who, sailing for France, had 
+the misfortune to be carried into England, have had less cause 
+of complaint, than those who have been brought into the ports 
+of the Republic. Here delays and expense consume the 
+whole. Some of the American vessels have been retaken, 
+but the Captains, kept with part of their crews, on board the 
+French vessels, which had captured them, have not been 
+informed of their recapture until their arrival in some port of 
+the Republic, where for months they have solicited indemnification, assistance, means of subsistence, and permission to 
+depart. I am sorry to add that all their solicitations have 
+been fruitless. The Captains Florence, Donavan, and Benjamin Rogers, carried into Brest by the ship VImpetueux, 
+Captain I Eveque, are in this predicament. 
+</p><p>
+Many vessels and American cargoes, among others the 
+cargo of the Danish ship, le Krageroc, are in the same port, 
+and I am told, that there is no one there, authorised by the 
+Republic, to treat for the cargoes, to pay the freight of the 
+vessels, or to fix the indemnification, xvhich the aggrieved 
+persons think they have a right to demand. Thus the unfortunate men captured at sea, by the ships of an allied nation, 
+and carried prisoners into her remote ports, find themselves, 
+although without means and almost destitute of resources, 
+obliged to undertake a long and expensive journey to obtain 
+that justice, which at least can only be rendered to them in the 
+ports which they have left, since it is there that the articles 
+must be proved, and their prices regulated according to their 
+quality. 
+</p><p>
+I hope, Sir, that the most precise orders will be despatched 
+to remedy these grievances, and that you will soon enable me 
+to give a satisfactory account of them to the American 
+Government. I have the honor to be, &LC. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

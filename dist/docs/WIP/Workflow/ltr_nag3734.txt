@@ -1,0 +1,78 @@
+<letter id="nag3734">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Head- Quarters, <a href='/results.php?city=ashley hill' rel='city origin'>Ashley Hill</a>, 	<a rel='day origin' value='10'>10</a> <a rel="month origin" value="12">December</a>,  <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Sir, 
+</p><p>
+I doubt not your Excellency expected to hear of 
+the evacuation of <a href='/results.php?city=charleston' rel='city'>Charleston</a> long before this. The 
+enemy are not yet gone, although now just upon the 
+eve of their departure. In two days more, the town 
+will be free. 
+</p><p>
+Your letter of the 23d of September I just acknowledged in November, with a promise to give it 
+a more full answer at a future day. The Minister at 
+War sent me an order for incorporating and arranging the troops of the several States, agreeably to the 
+resolution of Congress of the 7th of August. I have 
+formed one complete regiment out of the Pennsylvania troops, and one out of the Maryland troops, and 
+sent the remainder belonging to both States home. 
+Few of those of the Pennsylvania line have longer to 
+serve than January next ; the Maryland troops have 
+most of them a longer time to serve. I have sent 
+home also the Delaware troops, and shall send the 
+detachment of the fourth regiment of cavalry, under 
+Captain Gill, to Virginia, to join the rest of the regiment in that State. I believe, as soon as the enemyare gone, I shall send the legion to Virginia. The 
+first and third regiments being incorporated, will afford sufficient protection to this country from present 
+appearances. I have not fully determined how to 
+dispose of the legion, nor can I, until I am better 
+satisfied with respect to the force at St. Augustine, 
+to which place all the Provincial corps contained in 
+the inclosed list are gone. The British troops that 
+were there have joined those at <a href='/results.php?city=charleston' rel='city'>Charleston</a>. 
+</p><p>
+By one observation in your Excellency's letter, respecting offensive operations, it appears a doubt with 
+you whether you have authority to order an enterprise against St. Augustine. As there is a doubt 
+on the matter, I shall remain quiet until I am more 
+fully instructed. But if we had orders to undertake 
+it, the thing would be impracticable without a convoy to convey the provisions and stores by water, if 
+not the troops also. But more of this, hereafter. As 
+to an Indian expedition, I perfectly agree with your 
+Excellency that there is nothing to apprehend from 
+them after British influence once fails ; and by all 
+I can learn, the savages are generally inclined to 
+peace, except a few of the more restless and enterprising young men, who are ambitious of military 
+honors. 
+</p><p>
+By intelligence from <a href='/results.php?city=charleston' rel='city'>Charleston</a>, the British troops 
+are going to the West Indies. The Hessians, and such 
+of the Provincial corps as remain, are going to New 
+York, which is not to be evacuated till spring; nor 
+do I believe it will then, if the war continues. I am afraid the Southern States can produce but few 
+men in the field, by any possible exertion in their 
+power. South Carolina and Georgia I am sure cannot. The force that North Carolina will have in the 
+field, after a few days, will not exceed seven hundred men. There is a detachment of Virginians here, 
+which had better be completed from the troops levying in Virginia to a regiment, or march from here, Srud join those in the State. I shall wait your orders on the subject. 
+</p><p>
+Whatever disposition you intend to make with the 
+troops in this department, I could wish to be made 
+acquainted with it as early as possible, to be in readiness to carry your orders into execution as early 
+and as fully as possible. South Carolina and Georgia 
+have not more than one small battalion of troops, and 
+those not of the best kind. The enemy's force at 
+St. Augustine is not contemptible, which, aided by 
+the savages, and the militia, now numerous from its 
+being a place of resort for the Tories, may make a 
+serious impression upon Georgia. The State, without 
+a considerable force to protect it for some time, cannot recover from the ravages it has felt, or even 
+prosecute any trade or agriculture. <a href='/results.php?city=charleston' rel='city'>Charleston</a> will 
+be stripped, and left defenceless, until new fortifications can be raised, and cannon provided. In this 
+situation, and being altogether uncertain of the enemy's future plan of operations, I hope it will not be 
+thought that I have detained too many troops for the 
+present. I am, with great respect and perfect esteem, 
+</p><p>
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

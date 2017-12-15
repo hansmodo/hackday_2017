@@ -1,0 +1,275 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.kdk5n9 on line 288
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4300
+--LETTER-TLA--jht
+--DOC-AUTHOR-FIRST--Jonathan
+--DOC-AUTHOR-LAST--Trumbull
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume IV., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="jht4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, 	<a rel='day origin' value='20'>20</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Having had the satisfaction to accord with you in 
+the sentiment of retiring from the busy cares of public life, to the tranquil scenes of private enjoyment, 
+I anticipate, with much pleasure, the reflections which 
+such a state will enable us to make upon the happy 
+issue of those anxious and perplexing vicissitudes 
+through which, in the course of an eight years' unusual war, you and I have had the lot to pass, and, 
+in the cares and solicitudes of which, we have borne 
+no ignoble part. 
+</p><p>
+I felicitate you, Sir, with great cordiality, on your having already reached the goal of your wishes, and 
+most devoutly invoke the Divine benediction on your enjoyments and pursuits. A month more, I trust, will 
+bring me to the haven of retirement ; in the tranquillity of which I hope to have leisure to attend to and 
+cultivate those seeds of private friendship, which have 
+been planted during the tumults of war, and in the 
+cultivation of which I promise myself to reap much pleasure. 
+</p><p>
+Indulging these prospects, I am induced to wish, 
+and even to hope, that the correspondence between 
+you and me, which commenced under the pressure 
+of disagreeable circumstances, may not wholly cease 
+when we find ourselves in a happier situation. Although enveloped in the shades of retirement, the 
+busy mind cannot suppress its activity, but will be 
+seeking some employment, which will indeed be necessary to dispel that languor which a scene of inactivity would be apt to produce. Subjects will not be 
+wanting ; far different, and more agreeable, I trust, 
+than those we have been accustomed to dwell upon; 
+and occasions will present which may serve to beguile 
+a lingering hour, and afford some pleasing amusement, 
+or instructive information. Let not the disparity of 
+age, or the idea of a correspondent seventy-three 
+years advanced on his journey through life, chill 
+your expectations from this proposal. I promise you 
+my best endeavours; and when you perceive, as too 
+soon, alas ! you may, that your returns are not proportional to your disbursements, you have only to 
+cease your correspondence ; I shall submit. 
+</p><p>
+The fruits of our peace and independence do not, 
+at present, wear so promising an appearance as I 
+had fondly painted to my mind. The jealousies, the 
+prejudices, and turbulence of the people, at times, 
+almost stagger my confidence in our political establishment, and almost occasion me to think that they 
+will show themselves unworthy the noble prize for 
+which we have contended, and which, I had pleased 
+myself, was so near our enjoyment. But again, I 
+check this rising impatience, and console myself under the present prospect, with the consideration that 
+the same beneficent and wise <a href='/results.php?city=providence' rel='city'>Providence</a> which has 
+done so much for this country, will not eventually 
+leave us to ruin our own happiness, to become the 
+sport of chance, or the scoff of an admiring world; 
+but that great things are still in store for this people, 
+which time, and the wisdom of the Great Director, 
+will produce in its best season. In this better confidence, I bid you adieu for the present, wishing you 
+every felicity, while I subscribe myself, with sincere 
+esteem, and the most affectionate regard, &c. &c., 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p>
+</letter><letter id="jht4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=hartford' rel='city origin'>Hartford</a>, 	<a rel='day origin' value='9'>9</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+With great satisfaction I have the honor to inform 
+you that, last evening, the Convention of this State, 
+by a great majority, voted to ratify and adopt the 
+new proposed Constitution for the United States ; yeas 
+one hundred and twenty-seven, nays forty. With additional pleasure I can inform you, that the debates 
+on this subject have been conducted with a spirit of 
+great candor, liberality, and fairness, and the decision 
+received with the universal applause of a numerous 
+body of the people of the State, who attended the 
+public deliberations of their Convention, and expressed 
+their cordial assent, on the moment of decision, with 
+a general clap. 
+</p><p>
+The great unanimity with which this decision has 
+been made, and the liberality with which its previous 
+deliberations have been conducted in this State, I 
+hope will have a happy influence on the minds of 
+our brethren in Massachusetts. Their Convention is 
+now collecting, and will be favored with this information to-morrow. It may not be amiss to mention that, 
+in the list of affirmants in this State, stand the names 
+of all our principal characters, with the men of liberality, sentiment, and influence. 
+</p><p>
+Although not honored with the appointment as a 
+Delegate (being, in my particular circle, under the 
+cloud of Commutation and <a href='/results.php?city=cincinnati' rel='city'>Cincinnati</a>), I have attended 
+the debates of this Convention from their beginning 
+to the close, and have been amply compensated by 
+the pleasure, the satisfaction, and instruction I have 
+participated on the occasion. With all those sentiments of sincere cordiality and respect with which I 
+have ever had the honor to address you, my dear Sir, 
+</p><p>
+I now have the pleasure to subscribe myself, &c., 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p><p>
+P. S. While I take the pleasure of congratulating 
+you. Sir, on this joyous occasion, I pray you to indulge my wishes in begging you to present my sincerest respects to Mrs. Washington, with my tender 
+solicitations for her health and happiness. 
+</p>
+</letter><letter id="jht4302">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, 	<a rel='day origin' value='28'>28</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+My dear General, 
+</p><p>
+Nothing worthy of your notice having fallen in my 
+way to communicate, since the receipt of your very 
+esteemed favor of the 20th of July, I have forbore to 
+trouble you with my acknowledgments therefor until 
+this time ; and I can now inform that the General Assembly of this State has lately been in session for a 
+few days. After passing some resolves for organizing 
+the Congress under the new Constitution, and doing 
+but little other business, they were adjourned to January, the time for appointing Electors. This appointment the Assembly have retained in their own power, 
+thinking it more likely to be exercised with judgment and discretion by the Legislature than it would 
+probably be, was it to be intrusted to the people at 
+large. Our Senators are the Honorable William Johnson and Oliver Ellsworth, Esquires, two very worthy 
+and respectable members. The Representatives are to 
+be chosen by the people before January next, in a 
+mode very similar to that by which our Assistants and 
+Delegates to Congress have been wont to be elected. 
+</p><p>
+The circular letter for the Convention of the State 
+of <a href='/results.php?city=new york' rel='city'>New York</a>, being among the letters which the 
+Governor laid before the Assembly, had, of course, a 
+reading among the other public communications. This 
+was all that passed respecting it; for although we 
+had, in our Assembly, the champion of our antics, 
+with some of his principal aids, yet no one had 
+hardiness enough to call up the consideration of that 
+letter, or to mention one word of its subject. Thus 
+passed, in silent review, that formidable communication. 
+Excepting a few, very few discordant souls, whose 
+inharmonious principles will never suffer them to act 
+in general concert, we continue very unanimous in 
+sentiment and salutary measures in this State, and 
+are progressing with much cheerfulness and great 
+good humor to the commencement of the new Constitution. In the choice of a President we have, I 
+believe, no discordant voice ; all minds are agreed, 
+and every heart exults in the pleasing prospect of 
+having their wishes so nobly gratified in this first 
+great appointment. 
+</p><p>
+I wish the States were like to be as happily unanimous in their Vice-President. For myself, since 
+our minds seem so much to be turned towards Massachusetts for filling that office, and since <a href='/results.php?tla=jod' rel='colleague'>Mr. Adams</a> 
+is so much talked of as one, if not the first, of the 
+Supreme Federal Court, I could wish to hear the name of <a href='/results.php?tla=jab' rel='colleague met'>Mr. Bowdoin</a> more generally mentioned than 
+it is for the Vice-Presidency. From a long knowledge of this gentleman, in private as well as public life, I 
+am led to entertain a high veneration for his character. I view him as a gentleman of liberal sentiments, 
+extensive knowledge, and enlarged mind — a gentleman to whose wise, firm, and determined exertions, 
+during the late troubles in Massachusetts, much more 
+than to the studied popularity of their present Governor, is owing the happy tranquillity which that 
+State now enjoys. It would afford me much satisfaction to reflect on the aid and support, which you, 
+my dear Sir, would receive from the wisdom, prudence and discretion of such a character, in the arduous situation to which you will, you must he, advanced. 
+</p><p>
+If my <a href='/results.php?tla=dah' rel='friend met'>Friend Humphreys</a> continues to reside with 
+you. Sir (I mention this circumstance with doubt, 
+because, from his long silence and reserve, many of 
+his friends consider him to be dead or absconded), if 
+he should prove to be still with you, may I pray 
+your Excellency to be so good as to mention to 
+him the kind remembrance of his old friend T., and 
+whisper in his ear that, if he should find himself not 
+too fat or too indolent, his friend will be much 
+pleased in hearing from him, or, at least, in hearing 
+of him. 
+</p><p>
+My dear General, your very affectionate, obliged, 
+and faithful friend and humble servant, 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p>
+</letter><letter id="jht4303">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, 	<a rel='day origin' value='31'>31</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+By some unaccountable delay, the letter with which 
+you have favored me, of the 13th instant, did not 
+reach me till the 30th. While writing mine of the 
+2d of this month, the doubt which you have been 
+pleased to mention, respecting the law of Congress 
+fixing the seat of Government, occurred to me ; but, 
+turning to the law, I found the fifth section mentions, 
+" That prior, &c., all offices attached to the seat of 
+Government shall be removed to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, &c., at 
+which place, the session of Congress next ensuing, shall 
+be held." The sixth section mentions, "That in the 
+year <a href='/results.php?year=1800'>1800</a> the seat of Government shall be transferred, &c., and all offices, &c. shall be also removed, 
+&c.;" but not a word of the Legislature; by which 
+it would seem it is left to its own adjournment, and 
+the discretion of the President on extra occasions. Indeed, I conceived that the Constitution, in granting 
+this discretion, must have contemplated Place, as well 
+as time, of meeting ; because the necessity for its exercise might be grounded equally in one as the 
+other. Witness the existing instance, the first that 
+has occurred. 
+</p><p>
+Moreover, the Constitution must be paramount to 
+the law in such cases ; otherwise, the power granted 
+may be so controlled as not to be sufficient to surmount the necessity of the occasion. The like necessity may also exist under other circumstances ; such 
+as the total destruction of the city by fire, or other 
+means ; its being in complete possession of an enemy, 
+and other insurmountable calamities which might occur. Ill all which cases if the law, fixing the seat 
+of Government, must rise superior to the Constitution, the discretionary power of the President, calculated to afford a remedy under such exigencies, must 
+be futile, and prove totally inadequate to the purposes for which it was intended. 
+</p><p>
+I also considered that, should doubts arise, they 
+would be easily obviated by reflecting that this exercise of discretion could not be dangerous, because it 
+would be in the power of Congress, as soon as met, 
+to remedy the evil, should they apprehend any, by 
+an immediate adjournment to wherever they might 
+judge proper. Besides, it is calculated to remedy an 
+existing inconvenience and danger to themselves, 
+which in its nature is only temporary, and is hoped 
+to prove of but short continuance. 
+</p><p>
+As to the place of meeting, I am very sensible it 
+wall be an object of delicacy to decide. When I took 
+the liberty to suggest the hints I gave to you, this 
+difficulty presented itself; and I was then almost 
+tempted to add a word on that head, but was repressed by the fear of assuming too much. I therefore now mention, what I before thought, that in casting about, it is probable the towns of <a href='/results.php?city=baltimore' rel='city'>Baltimore</a> and 
+<a href='/results.php?city=new york' rel='city'>New York</a> will present themselves to your mind as 
+the most convenient places. To the latter, I am sensible, objections will be started by some, notwithstanding its superior advantages, perhaps, for the present 
+temporary occasion. To obviate, therefore, these objections to <a href='/results.php?city=new york' rel='city'>New York</a>, should they appear with weight, 
+and to save any uneasiness in the minds of our southern brethren from that quarter, I have thought for 
+myself (and in this I have been joined by others) 
+that I should perfectly acquiesce in <a href='/results.php?city=baltimore' rel='city'>Baltimore</a>. I 
+should mention the expedient of convening Congress somewhere in the vicinity of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and leave 
+the final decision of i^lace to their determination, 
+but that I fear such event may occasion disputes 
+and delay, not to say heats, perhaps, which might 
+prove much more detrimental to our general interests 
+than your fixing, at once, a place by your own judgment and discretion. I most sincerely hope that, 
+whatever place is appointed, the melancholy occasion 
+of lea^nng <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> may speedily be removed, and 
+that Congress may soon be able to return to that 
+city again. 
+</p><p>
+With real regard and respect, I am, &c. 
+</p><p>
+<a href="/results.php?tla=jht" rel="me">Jonathan Trumbull</a>.
+</p><p>
+P. S. Before closing this letter we are gratified 
+with much more favorable accounts from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+than for some time past. I really hope they may 
+prove true, and that circumstances in that distressed 
+city may continue to meliorate, so that you may 
+have complete relief from your present dilemma on 
+that score.
+</p>
+</letter>

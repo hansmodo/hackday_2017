@@ -1,0 +1,31 @@
+<letter id="mbc7575">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a rel='month origin' value='7'>July</a> <a rel='day origin' value='13'>13</a>, <a href='/results.php?year=1861' rel="origin">1861</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va.]. Now we feel safe and comfortable. We can not be flanked. Mr. Preston met us at Warrenton. Mr. Chesnut doubtless had too many spies to receive from Washington, galloping 
+in with the exact numbers of the enemy done up in their back hair. 
+</p><p>
+Wade Hampton is here; Doctor Nott also Nott and Glyddon known to fame. Everybody is here, en route for 
+the army, or staying for the meeting of Congress. 
+</p><p>
+Lamar is out on crutches. His father-in-law, once known only as the humorist Longstreet, author of Georgia Scenes, now a staid Methodist, who has outgrown the follies of his youth, bore him off to-day. They say Judge Longstreet has lost the keen sense of fun that illuminated his life in days of yore. Mrs. Lamar and her daughter were here. 
+</p><p>
+The President met us cordially, but he laughed at our sudden retreat, with baggage lost, etc. He tried to keep us 
+from going ; said it was a dangerous experiment. Dare say he knows more about the situation of things than he 
+chooses to tell us. 
+</p><p>
+To-day in the drawing-room, saw a vivandiere in the flesh. She was in the uniform of her regiment, but wore 
+Turkish pantaloons. She frisked about in her hat and feathers; did not uncover her head as a man would have 
+done; played the piano; and sang war-songs. She had no drum, but she gave us rataplan. She was followed at 
+every step by a mob of admiring soldiers and boys. 
+</p><p>
+Yesterday, as we left the cars, we had a glimpse of war. It was the saddest sight : the memory of it is hard to shake 
+off sick soldiers, not wounded ones. There were quite two hundred (they said) lying about as best they might on the 
+platform. Robert Barnwell J was there doing all he could. Their pale, ghastly faces ! So here is one of the horrors of 
+war we had not reckoned on. There were many good men and women with Robert Barnwell, rendering all the service 
+possible in the circumstances. 
+</p><p>
+Just now I happened to look up and saw Mr. Chesnut with a smile on his face watching me from the passageway. 
+I flew across the room, and as I got half-way saw <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> touch him on the shoulder. She said he was to go at once 
+into <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis's</a> room, where <a href='/results.php?tla=rel' rel='acquaintance met'>General Lee</a> and General Cooper were. After he left us, <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> told me <a href='/results.php?tla=pgb' rel='met'>General Beauregard</a> had sent Mr. Chesnut here on some army business. 
+</p>
+</letter>

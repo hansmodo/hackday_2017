@@ -1,0 +1,45 @@
+<letter id="gom4636">
+<recipient first="William" last="Carmichael" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> <a rel="month origin" value="1">January</a> <a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+Dear Sir, 
+</p><p>
+This will, I trust, be soon and safely delivered by Mr Short, who is now on his way to Madrid. Herewith I send you a copy of what in my last letter relates to the situation of this country. 
+</p><p>
+A problem to be resolved just now is, whether the convention of neutrality lately entered into with Spain is, on the part 
+of the latter, concerted with Great Britain ; or whether your 
+Due d Alcudia prefers otium cum NOVA dignitate to the uncertain splendors of a great undertaking. As I am not apt to 
+trace up to rational causes the conduct of a creature so irrational as man, I should decide at once, perhaps, that the un 
+nerved indolence of a courtier has more to say in the decision, 
+than any complicated combinations of state policy, if there were 
+not a remarkable coincidence in the time and circumstance 
+with what has passed lately in the British Parliament. Is the 
+conduct of Spain to be attributed to a design of making future 
+hostilities popular, by making them appear to result from French 
+aggression ; or does it arise from the dread, that war might 
+awaken the court from that profound oblivious sleep, in which 
+its interest and its glory are all forgotten? 
+</p><p>
+On the contingent answers to these questions- there results 
+an alternative, which may operate favorably to the object of 
+Mr Short's mission. If, for instance, a war should be imminent, I think that they would wish to avoid any contest with 
+us ; and if ease and luxury be their motives, I think you may 
+plague them into concessions, which, after all, (under the rose 
+be it spoken) are of very little consequence to our country ; for 
+I have no golden hopes from an uphill navigation of three or 
+four hundred leagues. 
+</p><p>
+I will not now go into any long discussions on the state of 
+affairs here, because I have communicated my opinions to Mr. Short pretty fully, and shall continue to do so until he takes 
+his departure. The Council here talk so highly to Great Britain that you, who know mankind, will conclude them to be 
+afraid ; and this conclusion is not far from the truth. Mr Pitt 
+has the nation now in his hand, and may do what he pleases. 
+Will he make war? The King is, I believe, decidedly for it. 
+Will he make war? Perhaps he can gain more by peace. 
+Will he make war ? He envies, I am told, his father's fame. 
+A gentle armament places him in a condition to make the belligerent powers bid high for his favor, while it will convince 
+Old England that when at last he strikes, it is her honor which compels the blow ; and then she will fight, you may rely on it. I am, &sc. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

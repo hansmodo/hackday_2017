@@ -1,0 +1,34 @@
+<letter id="gec3208">
+<recipient first="Israel" last="Putnam" type="individual"/>
+<p>
+<a href='/results.php?city=pleasant valley' rel='city origin'>Pleasant Valley</a>, <a rel="day origin" value="27">27</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I am favored with yours of this date. I flattered myself I 
+should have had the pleasure of seeing you ere now, as, when I 
+left <a href='/results.php?city=kingston' rel='city'>Kingston</a>, it was my principal business ; and, though it was 
+dark when I crossed the river, I reached <a href='/results.php?city=poughkeepsie' rel='city'>Poughkeepsie</a> that 
+night, when in hopes to have overtaken you there, but was too 
+late, as you had left that the preceding day. Ever since I have 
+been here, I have been so unwell as not to dare venture out, 
+considering the badness of the weather; but the moment the rain 
+ceases, I will set out for your quarters. 
+</p><p>
+<a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, in his letter of the 24th instant, gives me rea 
+son to believe a large part of his army are on the move down 
+each side of the river. Part of them had reached Hurley yesterday. He supposed the enemy yet to be up the river near <a href='/results.php?city=red hook' rel='city'>Red Hook</a>, and intended to retake Fort Montgomery before they 
+could get down to reenforce it. For this purpose he was for 
+warding a considerable train of artillery, and asked an interview 
+with me at Coeyman's, this side of <a href='/results.php?city=albany' rel='city'>Albany</a>, yesterday. I could 
+not attend then for the reasons above, but wrote him, informing 
+him of the different situation of the enemy, which will, of course, 
+alter his intended plan. At the same time I suggested it as my 
+opinion, that the enemy would not now attempt any thing capi 
+l up the river this season, but detach their main force to 
+strengthen Howe at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, to which grand scene we undoubtedly ought to turn our chief attention, for on our successes there every thing worth regarding depends. 
+Yours, sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gec" rel="me">GEORGE CLINTON</a>. 
+</p>
+</letter>

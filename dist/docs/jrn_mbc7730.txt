@@ -1,0 +1,15 @@
+<letter id="mbc7730">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='8'>August</a> <a rel='day origin' value='2'>2d</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. <a href='/results.php?tla=wts' rel=''>Sherman</a> again. Artillery parked and a line of battle formed before Atlanta. When we asked 
+Brewster what Sam meant to do at Atlanta he answered, Oh oh, like the man who went, he says he means to stay 
+there! " Hope he may, that's all. 
+</p><p>
+Spent to-day with Mrs. McCord at her hospital. She is dedicating her grief for her son, sanctifying it, one might 
+say, by giving up her soul and body, her days and nights, to the wounded soldiers at her hospital. Every moment of her 
+time is surrendered to their needs. 
+</p><p>
+To-day General Taliaferro dined with us. He served with <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> at the second battle of Manassas and at Fredericksburg, where <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> won his major-general's spurs. On the battle-field, <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a>, he said, " has military inspiration." 
+We were thankful for that word. All now depends on that army at Atlanta. If that fails us, the game is up. 
+</p>
+</letter>

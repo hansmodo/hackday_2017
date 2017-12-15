@@ -1,0 +1,35 @@
+<letter id="frm3919">
+<recipient first="Peter" last="Horry" type="individual"/>
+<p>
+<a href='/results.php?city=burghs' rel='city origin'>BURGH'S</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1782' rel="origin">1782</a>, 
+</p><p>
+DEAR SIR : 
+</p><p>
+Yours of the 5th inst. came to hand. I am very sorry to hear you 
+are yet sick. Yesterday, Major Ganey and myself signed a treaty. 
+The principals are to submit it, and those who do not chose it are to 
+be permitted to go within the enemy's lines with their wives and children, and their movable property, except stock, which they may sell. 
+It seems all the officers will *go, and a few men who are so notorious, 
+as they will not be suffered to live. Col. Fanning, with thirty men came a few days ago in the truce, and is thought will endeavor to make 
+his way to Charlestown; but it is not unlikely he may make some 
+attempt on your post, as his number is increased since he came. You 
+will, therefore, guard against any sudden attack, by keeping a look-out 
+at Wragg's and Black River Ferries. I am informed your troops receive rations of coffee and sugar I mean the militia with you. I 
+never knew that such articles were ever given to troops but in a besieged 
+garrison, where provisions are scarce, "and therefore must be stopped. 
+Mutton, veal and poultry are not soldiers food. I also am informed, 
+that the officer who succeeds you in command, when you are absent, 
+gives passes to men to go to Dewees with articles for tradiDg. You 
+must give a general order te prevent it, and occasional commandants 
+must be notified to take that liberty. Please send me some coffee by 
+the bearer, as I am entirely out. You will let me know any particulars 
+you may learn, for I find I cannot return soon, as we cannot finish here 
+before the 25th ult., which is the time that these who are to go to 
+town are to march, and possibly some few on the line, who never were 
+subject to any command, may give us further trouble. I am with wishing you a speedy recovery, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=frm" rel="me">FRANCIS MARION</a>.
+</p>
+</letter>

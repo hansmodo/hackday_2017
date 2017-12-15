@@ -1,0 +1,52 @@
+<letter id="pjs3015">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>; 4 o clock, P. $1. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The letter, which I had the honor to write you 
+yesterday, I delivered to <a href='/results.php?tla=daw' rel='colleague met'><a href='/results.php?tla=daw' rel='colleague met'>General Wooster</a></a>, who sailed 
+this day. 
+</p><p>
+I have, within this half hour, received a letter from 
+<a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>General Arnold</a></a>, of which the inclosed is a copy. I 
+fear the next will announce the evacuation of Canada by our troops, probably with loss, as I fear that 
+not a sufficient attention has been paid to a recommendation of mine, to bring all the bateaux, that 
+could possibly be spared from Sorel, to St. John s. I 
+shall immediately despatch an express to Fort George 
+to send bateaux to St. John's ; but, after all, the 
+number will be very small, for want of men to navigate them. I suppose one hundred and twenty, at 
+least, are at Lake George. 
+</p><p>
+I am not under the least apprehension that the 
+enemy will be able to cross Lake Champlain, provided that our army is able to retreat into that Lake, 
+that ammunition is speedily sent up, and a further 
+supply of pork forwarded, without delay, to this 
+place. 
+</p><p>
+Your Excellency will perceive that <a href='/results.php?tla=bea' rel='colleague met'><a href='/results.php?tla=bea' rel='colleague met'>General Arnold</a></a> 
+informs me, that the enemy have the frames, &c., for 
+gondolas on board. We should therefore build a 
+number of these vessels, with all possible despatch; 
+one is now on the stocks, but we want people that 
+understand the construction of them. I have some 
+time ago begged Congress to send one, express; let 
+me entreat that some more capable persons may be 
+sent up, and twenty shipwrights with them. 
+As I fear the saw-mills will not be able to saw a 
+sufficient number of plank, I wish to have a dozen 
+of whipsaws and files sent up with all possible despatch. 
+</p><p>
+I shall order all the bateaux that do not go to 
+St. John's out of Lake George, to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, that 
+they may be ready, at that place, to be sent to 
+Skenesborough, to convey the militia,, should they be 
+sent up. I am, with every respectful sentiment, your 
+Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>. 
+</p>
+</letter>

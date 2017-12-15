@@ -1,0 +1,43 @@
+<letter id="joj4147">
+<recipient first="" last="Grenville" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New-York</a>, <a rel='day origin' value='4'>4th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+My Lord, 
+</p><p>
+A long interval has passed between the date of my last 
+letter and that of this. They would have been more 
+frequent, had they been exposed to less risk of interception. 
+</p><p>
+My respect and esteem for your lordship remain unabated, 
+and I yet flatter myself with the pleasure of becoming a 
+better correspondent. It will give you satisfaction to know 
+that the letters I have received from <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a> and Mr. Gore, make honourable mention of the candour and good 
+faith of your government. They both appear to be well 
+pleased, and I am glad of it. The proceedings of the 
+Congress now in session will doubtless be sent to you. 
+There appears to be a general disposition to pacific measures throughout our country. If it procures peace, so 
+much the better ; if not, we shall be the more united. To 
+put our adversaries in the wrong is always a valuable point 
+gained, especially as the forbearance necessary for the purpose will not in the present instance be prompted by fear, 
+nor produce dejection. 
+</p><p>
+In every event, some malcontents are to be expected ; 
+and it is remarkable that patriots born in British dominions, 
+are very distinguishable among those who the most invariably oppose our government and its measures. They 
+appear to be as little disposed to promote good-will between 
+our two countries, as the French ; indeed, they seem to like 
+</p><p>
+our government as little as they did their own. 
+</p><p>
+I have the honour to be, with very great respect, esteem, 
+</p><p>
+and regard, 
+</p><p>
+My lord, 
+</p><p>
+Your lordship's most obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

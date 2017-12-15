@@ -1,0 +1,98 @@
+<letter id="ben4768">
+<recipient first="Cadwallader" last="Evans" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='7'>7</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have now before me your favours of June nth and July 
+15th. I thank you for communicating to me the observations of the transit made by Messrs. Biddle and Bayley. I 
+gave them immediately to Mr. Maskelyne, the Astronomer 
+Royal, who will compare and digest the whole received from 
+different parts of the world, and report thereon to the Royal 
+Society. They are the only ones I have received from our 
+Society ; those made by the others were sent to Mr. Penn. 
+Being last week with Mr. Maskelyne, at Flamsteed House, I 
+found he had got them. I shall send him to-day the corrected account, which I have since received from you by way 
+of Liverpool. 
+</p><p>
+I should be very sorry that any thing of party remained in 
+The American Philosophical Society after the union. Here 
+the Royal Society is of all parties, but party is entirely out of 
+the question in all our proceedings. 
+</p><p>
+It grieves me to hear that our friend Galloway is in so bad a state of health. He should make a long journey, or take a 
+sea voyage. I wish he would come to London for the winter. 
+</p><p>
+<a href='/results.php?tla=pah' rel=''>Mr. Henry</a>'s Register, which you communicated to me last 
+year, is thought a very ingenious one, and will be published 
+here, though it has long been delayed. I have not seen Mrs. 
+Dowell. I suppose she is not yet come to town. At least I 
+have not heard of her being here, though possibly she might 
+while I was in France. 
+</p><p>
+Our friend W ,' who is always complaining of a constant fever, looks nevertheless fresh and jolly, and does not 
+fall away in the least. He was saying the other day at <a href='/results.php?city=richmond' rel='city'>Richmond</a>, (where we were together dining with Governor 
+Pownall,) that he had been pestered with a fever almost continually for these three years past, and that it gave way to 
+no medicines, all he had taken, advised by different physicians, 
+having never any effect towards removing it. On which I 
+asked him, if it was not now time to inquire, whether he had 
+really any fever at all. He is indeed the only instance I ever 
+knew, of a man's growing fat upon a fever. But I see no 
+occasion for reading him the lecture you desired, for he appears to me extremely temperate in his eating and drinking. 
+His affairs here are I think in a good train, but every thing 
+to be transacted in our great offices requires time. I suppose 
+he will hardly be able to return before the spring. 
+</p><p>
+By a ship just sailed from hence, (the captain a stranger, 
+whose name I have forgotten,) I send you a late French 
+treatise on the management of silkworms. It is said to be 
+the best hitherto published, being written in the silk country 
+by a gentleman well acquainted with the whole affair. It 
+seems to me to be, like many other French writings, rather too much drawn out in words ; but some extracts from it, of the 
+principal directions, might be of use, if you would translate 
+and publish them. I think the bounty is offered for silk from 
+all the colonies in general. I will send you the act. But I 
+believe it must be wound from the cocoons, and sent over in 
+skeins. The cocoons would spoil on the passage, by the dead 
+worm corrupting and staining the silk. A public filature 
+should be set up for winding them there ; or every family 
+should learn to wind their own. In Italy they are all brought 
+to market, from the neighbouring country, and bought up by 
+those that keep the filatures. In Sicily each family winds 
+its own silk, for the sake of having the remains to card and 
+spin for family use. If some provision were made by the 
+Assembly for promoting the growth of mulberry trees in all 
+parts of the province, the culture of silk might afterwards 
+follow easily. For the great discouragement to breeding 
+worms at first is the difficulty of getting leaves and the being 
+obliged to go far for them. 
+</p><p>
+There is no doubt with me but that it might succeed in our 
+country. It is the happiest of all inventions for clothing. 
+Wool uses a good deal of land to produce it, which, if employed 
+in raising corn, would afford much more subsistence for man, 
+than the mutton amounts to. Flax and hemp require good 
+land, impoverish it, and at the same time permit it to produce 
+no food at all. But mulberry trees may be planted in hedgerows on walks or avenues, or for shade near a house, where 
+nothing else is wanted to grow. The food for the worms, 
+which produce the silk, is in the air, and the ground under the 
+trees may still produce grass, or some other vegetable good 
+for man or beast. Then the wear of silken garments continues so much longer, from the strength of the materials, as to give it greatly the preference. Hence it is that the most 
+populous of all countries, China, clothes its inhabitants with 
+silk, while it feeds them plentifully, and has besides a vast 
+quantity both raw and manufactured to spare for exportation. 
+Raw silk here, in skeins well wound, sells from twenty to 
+twenty-five shillings per pound; but, if badly wound, is not 
+worth five shillings. Well wound is, when the threads are 
+made to cross each other every way in the skein, and only 
+touch where they cross. Badly wound is, when they are laid 
+parallel to each other ; for so they are glued together, break 
+in unwinding them, and take a vast deal of time more than 
+the other, by losing the end every time the thread breaks. 
+When once you can raise plenty of silk, you may have manufactures enough from hence. With great esteem, I am, my 
+dear friend, yours affectionately, 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

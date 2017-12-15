@@ -1,0 +1,54 @@
+<letter id="joj4038">
+<recipient first="Benjamin" last="Franklin" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel="month origin" value="7">July</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Many weeks have elapsed since I have been favoured with any letters from you. I have received a letter from 
+<a href='/results.php?tla=jol' rel='colleague'>Colonel Laurens</a>, dated at sea, and covering the one herewith enclosed for you. A vessel has arrived at Bilboa, in 
+twenty-four days from Salem. I received by her some family letters, which came from Bilboa under cover to a 
+gentleman here. She brought for me a large packet, which was put into the post-office, and ought to have come to 
+hand a week ago. I have inquired for it, but in vain. This is not an uncommon case, and shows how necessary 
+it is that Congress should take some other means for conveying intelligence to and from their ministers than the 
+European post-offices. Be pleased to make my compliments to your grandson, and remind him that he is three letters in my debt. 
+</p><p>
+You will also find herewith enclosed a copy of a letter I have received from Silas Talbot, a prisoner at <a href='/results.php?city=plymouth' rel='city'>Plymouth</a>, requesting aid. 
+</p><p>
+This gentleman gives a true description of himself. He 
+has on various occasions acted like a very brave and enterprising officer, and the journals of Congress contain 
+ample evidence of it. I sincerely lament his situation, and 
+regret that my own does not put it in my power to afford 
+him relief. The far greater part of the money which the 
+public demands require here, I draw from you. The 
+amount of the bills drawn upon me by Congress far exceeds that of the funds prepared for their payment, and 
+the debts already incurred on account of distressed American seamen still remain unpaid. It would not be delicate 
+in me to advance money to Colonel Talbot, and then request the favour of you to replace it, especially as his 
+situation places him more immediately under your care 
+than mine. All that I can therefore do with propriety is 
+to make you acquainted with his case. He has served his 
+country zealously, and has a right to her care ; gratitude 
+as well as policy dictates it. I fear too little attention has 
+in general been paid to our captive seamen. I often hear 
+of many entering into the enemy's service for want of 
+bread, and for ill treatment not retaliated ; even those who 
+have had the good fortune and address to escape, are frequently obliged, in seeking opportunities to return home, to 
+wander about from place to place, friendless, penniless, 
+ignorant of the language of the strangers through whose 
+Land they pass, making known their wants only by the voice 
+of distress, and subsisting on the wretched husks cast to 
+them by the frugal hand of charity. Nor is this all: 
+although their misfortunes, on finding American vessels 
+bound home, ought to recommend them to their brethren, 
+yet it too often happens that masters of American vessels 
+inhumanly refuse (unless paid passage-money) to carry 
+home these unfortunate people, though offering to do duty 
+without wages as sailors during the voyage. 
+</p><p>
+I am, dear sir, with sincere esteem and regard, 
+</p><p>
+Your obliged and affectionate servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

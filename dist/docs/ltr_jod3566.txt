@@ -1,0 +1,56 @@
+<letter id="jod3566">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='24'>24</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+OUR good friend, <a href='/results.php?tla=bel' rel='colleague met friend'>General Lincoln</a>, gave me this 
+morning your favor of the 7th, which compensated in 
+part for my disappointment by Monday's post. I set 
+my heart on one letter a week, and as many more as 
+you please. 
+</p><p>
+I cannot say that my desire of fame increases. It 
+has been strong in some parts of my life, but never 
+so strong as my love of honesty. I never in my life, 
+that I know of, sacrificed my principles or duty to 
+popularity or reputation. I hope I am now too old 
+ever to do it. But one knows not how trials may be 
+borne till they are made. The hell-hounds are now 
+in full cry in the newspapers against the President, 
+whom they treat as ill as ever they did me. The 
+same insolent and impudent Irishman who is said to 
+have written so much against me, is now suspected 
+to be writing against him. 
+</p><p>
+Both houses of Congress are making strict inquisition into the treasury, with upright and patriotic 
+views, no doubt. Hamilton will find ho more mercy 
+than is due from a generous nation to a faithful servant. But I presume his character will shine the 
+brighter. However, it is still but an experiment 
+whether the ministers of state under an elective executive, will not be overborne by an elective legislature. I believe it to be certain that two elective 
+houses of legislation, or even one, have it in their 
+power whenever they shall have it in their will, to 
+render any minister of state, or even any elective executive, unpopular, though he may be possessed of 
+the best talents and most perfect integrity. I presume 
+that neither of our houses will be disposed to such 
+injustice, but the time may come. 
+</p><p>
+I am so well satisfied with my present simplicity, 
+that I am determined never to depart from it again, 
+so far as I have. My expenses in future, forever, 
+shall at all events be within my income, nay, within 
+my salary. I will no longer be the miserable dupe 
+of vanity. My style of life is quite popular. What 
+say you to living with me in lodgings next winter ? 
+This shall be my plan, if I cannot hire a house for 
+six months only. Your friends, who are very numerous, inquire tenderly after your health. Benson 
+says he is for making <a href='/results.php?tla=aba' rel='spouse met friend'>Mrs. Adams</a> Autocratrix of the 
+United States. This, however, must be secret, be 
+cause it is a sort of treason. 
+</p><p>
+Tenderly yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

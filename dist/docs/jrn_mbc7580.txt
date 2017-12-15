@@ -1,0 +1,26 @@
+<letter id="mbc7580">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1861' rel="origin">1861</a>]. Here Mr. Chesnut opened my door and walked in. Out of the fulness of the heart the mouth 
+speaketh. I had to ask no questions. He gave me an account of the battle as he saw it (walking up and down my 
+room, occasionally seating himself on a window sill, but too restless to remain still many moments) ; and told what 
+regiments he was sent to bring up. He took the orders to <a href='/results.php?tla=tjj' rel=''>Colonel Jackson</a>, whose regiment stood so stock still under 
+fire that they were called a " stone wall." Also, they call 
+<a href='/results.php?tla=pgb' rel='met'>Beauregard</a>, Eugene, and <a href='/results.php?tla=jpj' rel=''>Johnston</a>, Marlboro. Mr. Chesnut rode with Lay's cavalry after the retreating enemy in 
+the pursuit, they following them until midnight. Then there came such a fall of rain rain such as is only known 
+in semitropical lands. 
+</p><p>
+In the drawing-room, Colonel Chesnut was the lt belle of the ball ; they crowded him so for news. He was the 
+first arrival that they could get at from the field of battle. But the women had to give way to the dignitaries 
+of the land, who were as filled with curiosity as them selves Mr. Barnwell, <a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a>, Mr. Cobb, Captain Ingraham, etc. 
+</p><p>
+Wilmot de Saussure says Wilson of Massachusetts, a Senator of the United States, came to Manassas, en route 
+to Richmond, with his dancing shoes ready for a festive scene which was to celebrate a triumph. The New York 
+Tribune said: " In a few days we shall have Richmond, Memphis, and New Orleans. They must be taken and at 
+once. For a few days maybe now they will modestly substitute l in a few years. 
+</p><p>
+They brought me a Yankee soldier's portfolio from the battle-field. The letters had been franked by Senator Harlan. One might shed tears over some of the letters. Women, wives and mothers, are the same everywhere. 
+What a comfort the spelling was ! We had been willing to admit that their universal free-School education had put 
+them, rank and file, ahead of us literarily, but these letters do not attest that fact. The spelling is comically bad. 
+</p>
+</letter>

@@ -1,0 +1,57 @@
+<letter id="dab3711">
+<recipient first="George" last="Washington" type="individual"/><p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='17'>17</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+Your favor of the 14th of August I had the honor 
+to receive on the 7th instant, and am very thankful 
+for the contents. You must, ere now, be convinced 
+that Colonel Bowman's apprehensions were founded on 
+certain intelligence, of an expedition intended against 
+the forts on Kentucky. I have sent out parties to 
+take cattle and grain from the inhabitants, and expect 
+to obtain a considerable supply of flour, as the mills 
+begin to have water sufficient to manufacture it; but 
+the inhabitants disappoint us of getting beef, by driving their cattle into the mountains. And we have, at 
+present, neither bread nor meat, but expect a small 
+supply immediately. Captain Brady is on command. 
+and Captain McIntyre has leave of absence to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> ; as soon as they return, I will express your 
+Excellency's thanks for their conduct. 
+</p><p>
+In full confidence that a sufficient supply of provision would, sooner or later, be furnished for the 
+troops in this district, as well as for such number of 
+militia as policy or the exigencies of aftairs might 
+render it necessary to call into action, T, with a view 
+to cut off the Wyandots and other Indian towns that 
+were very troublesome to our settlements, called fur 
+a draft from the militia, at three different times, and 
+was as often disappointed in obtaining provisions ; 
+which, with the unsettled state of the boundary line 
+between Pennsylvania and Virginia, has greatly discouraged the inhabitants, and, I apprehend, given a 
+handle to the disaffected. I take the libert} to inclose 
+copies of letters, lately received from Colonels Butler 
+and McCleary, purporting some of the above facts. 
+</p><p>
+The Delaware Chiefs, with upwards of thirty warriors, are come to aid me upon an expedition ; but, 
+as I have neither bread nor meat to give them, they 
+will soon discover that it is not in my power to act 
+offensively. They appear much dejected on account 
+of the total want of goods, which they were promised 
+in exchange for their peltry. 
+</p><p>
+Unless supplies of beef, &c. are procuring below 
+the mountains, which I know nothing of, the troops 
+here will experience great hardship before spring, 
+and desertions will be very frequent. I have frequently represented to the Honorable Board of War 
+the hardships of the troops, and am now informed by 
+their Secretary that compulsion is tolerated by the 
+Supreme Executive Council of Pennsylvania for a 
+temporary supply. I continue my inquiries respecting the strength of Detroit, and my intelligence is of a 
+piece with that formerly communicated. 
+</p><p>
+I have the honor to be. &c., &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter>

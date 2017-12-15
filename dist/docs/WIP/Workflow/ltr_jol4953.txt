@@ -1,0 +1,118 @@
+<letter id="jol4953">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='15'>15th</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+The world looks with anxious expectation for the 
+answer of Congress to the British commissioners. 
+A paper was said to have been pasted up in camp, 
+which contained the terms that are offered on their 
+part. The general has given orders to have the 
+matter immediately traced. Low artifices of this 
+kind discover feeble hopes of succeeding in a more 
+regular and open way. 
+</p><p>
+Doctor "Welford dined with us yesterday, but I had 
+no opportunity of conversing with him but in a promiscuous way. He confirms our opinion of the enemy's intention to pass through the Jerseys ; says that 
+they have destroyed a vast number of blankets, etc., 
+that they have strengthened their cavalry by mounting 
+many of their light infantry, or at least providing 
+horses, on which they are to be mounted occasionally. 
+By this means they will have, he thinks, 2,500 horse 
+men ; that General Grant has escaped a court martial 
+for his conduct on the affair of <a href='/results.php?tla=laf' rel='colleague met friend'>Marquis De Lafayette</a>, 
+by his powerful interest, but that he is much blamed 
+</p><p>
+and abused in circles of officers. The doctor contradicts the report of Gov. Johnston's having been 
+mobbed. He says, on the contrary, he is more respected than either of his colleagues, being regarded 
+as the only proper person to gain the confidence 
+of America, and succeed in the important business 
+which they have in view. 
+</p><p>
+Gov. Johnston, it is said, accuses Howe of having 
+acted the part both of a villain and a fool ; the latter, 
+in his military operations, the former in wanton and 
+unauthorized destruction of private property. 1 
+</p><p>
+I hope the answer of Congress will arrive to-day, 
+that it will be consistent with the reply already made 
+to Gen'l Clinton, &c., and if possible be calculated to 
+give them less hopes. 
+</p><p>
+The <a href='/results.php?tla=frs' rel='co-worker'>Baron De Steuben</a> has received a letter from 
+Mr de Beaumarchais, which informs him that war is 
+rekindled between the Russians and Turks that 
+the king of Prussia is in Bohemia, at the head of 
+00,000 men, where he has already seized a fortified 
+castle and two regiments, to show that he is deter 
+mined to have satisfaction for the dismemberment of 
+the electorate of Bavaria. 
+</p><p>
+Gen'l Reed has some very interesting gazettes, and 
+a number or two of the Parliamentary Register, parts 
+of which ought to be made public, without delay, 
+in the course of calling for authentic papers, and 
+letters relative to American transactions. The minority has made some discoveries, which if they were 
+generally known here, would prove an excellent anti 
+dote to the deceitful arts which the commissioners 
+are now practising. A letter from Lord Howe and 
+his brother, in Novem., <a href='/results.php?year=1776'>1776</a> (at a time when they 
+thought nothing could turn the current of success 
+from them), inclosed their proclamation offering a 
+general pardon to the Americans. But they remark 
+to the ministry that it will be proper to make a few 
+examples, and upon the whole plainly indicate their 
+intention to make as many as shall be found convenient, notwithstanding their promises. 
+</p><p>
+You will receive by this courier an application from 
+the captain of the General's guard. He has had the 
+mortification of seeing himself outstripped by a vast 
+number of his juniors who had no greater merit than 
+himself. He has always done his duty in his station, 
+and from what I saw of his behaviour at Barren Hill, 
+wants only an opportunity to establish his character 
+as an officer of bravery and steadiness, in action ; and 
+I really think he is entitled to a majority, at least to 
+a brevet for one. 
+</p><p>
+Adieu, my dear father ; we pass a most tiresome time 
+of inactivity and suspense in camp. I suppose you 
+sympathize with us in the latter. I omitted to inform 
+you above that Doctor Welford says the people in 
+town have no other than salt provisions. Even that 
+is brought to them from their vessels. As Mr "W. ought to pass for a prisoner of war, I do not mention 
+his name as author of any intelligence, but in confidence to you, not that I think his history will 
+be kept secret, but because I would not be the occasion of discovering it. As this courier was setting 
+out hastily on a case of life and death, I did not intend 
+to have said any thing on the subject of a reform, but 
+as he delays I will venture to oifer a few arguments 
+in favour of it. Our regiments, as you well know, 
+are many of them in a very weak state, and there is 
+no kind of parity between them, which is the occasion 
+of great trouble and confusion in encamping, march 
+ing, the detail for guards and detachments, &ca. 
+To remedy these inconveniences, the General has 
+issued an order to each brigadier to form his brigade 
+into batallions of not less than 80 files, nor more than 
+111 ; by which means they will be sufiiciently equalized to admit of their being regarded as a common 
+measure for the army, and to facilitate the service. 
+But as this is only a temporary arrangement, the 
+field officers who are appointed by seniority to the 
+command of these batallious, will not pay that attention to the welfare and discipline of the men under 
+their command, which they would do in the case of 
+their own soldiers ; and, from an idea that there is no 
+permanent relation between them, will not have that 
+affection for them which the good of the service 
+requires. 
+</p><p>
+Had we any prospect that the States would furnish 
+their due quotas for completing their respective batallions, a reduction of regiments would be unnecessary ; but as you and I very well know we have no 
+right to expect them to do their duty in this respect. 
+</p><p>
+My letter is called for, and I must abruptly bid adieu. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

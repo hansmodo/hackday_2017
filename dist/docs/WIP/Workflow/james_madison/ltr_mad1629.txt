@@ -1,0 +1,48 @@
+<letter id='mad1629'>
+<recipient first='Edmund' last='Randolph' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Nov'r 23d, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+MY DEAR FRIEND, Your two favors of the 5th and 10th instant have been duly received. The appointments for the Senate, communicated in the latter, answer to the calculations I 
+had formed, notwithstanding the contrary appearances on which 
+the former was founded. My only surprise is, that in the present temper and disproportionate number of the anti-federal part 
+of the Assembly, my name should have been honored with so 
+great a vote as it received. When this circumstance is combined with that of the characters which I have reason to believe 
+concurred in it, I should be justly chargeable with a very mistaken ambition if I did not consider the event in the light which 
+you anticipated. I shall not be surprised if the attempt should 
+be equally successful to shut the door of the other House against 
+me, which was the real object of my preference, as well for the 
+reason formerly suggested to you, as for the additional one that 
+it will less require a stile of life with which my circumstances 
+do not square, and for which an inadequate provision only will 
+probably be made by the public. Being not yet acquainted 
+with the allotment of <a href="/results.php?city=orange" rel="city">Orange</a> in the districts, I can form no estimate of the reception that will be given to an offer of my serv.es. The district in which I am told it is likely to be thrown, 
+for the choice of an Elector, is a very monitory sample of what 
+may and probably will be done in that way. 
+</p><p>
+My present situation embarrasses me somewhat. When I 
+left <a href="/results.php?city=new york" rel="city">New York</a>, I not only expected that the choice for the 
+Senate would be as it is, but was apprehensive that the spirit 
+of party might chuse to add the supposed mortification of dropping my name from the deputation to Congress for the fraction 
+of a year remaining. I accordingly left that place under arrangements which did not require my return. At the same 
+time, I had it in view, if left entirely to my option, to pass the 
+winter or part of it there, being desirous of employing some 
+of the time in matters which need access to the papers of Congress, and supposing, moreover, that I should be there master 
+more of my time than in Virginia. The opportunity of executing my plan is given me, I find, by one of the votes of the Assembly. On the other hand, I am now pressed by some of my 
+friends to repair to Virginia, as a requisite expedient for counteracting the machinations against my election into the House 
+of Representatives. To this, again, I am extremely disinclined, 
+for reasons additional to the one above mentioned. It will 
+have an electioneering appearance,, which I always despised and 
+wish to shun. And as I should shew myself in <a href="/results.php?city=orange" rel="city">Orange</a> only, 
+where there will probably be little difficulty, my presence could 
+have no very favorable effect; whilst it is very possible that 
+such a mark of solicitude, strengthened by my not declining a 
+reappointment to Congress, and now declining to serv.in it, 
+might, by a dexterous misinterpretation, be made to operate on 
+the other side. These considerations are strong inducements 
+to join my colleagues at <a href="/results.php?city=new york" rel="city">New York</a>, and leave things to their 
+own course in Virginia. If <a href="/results.php?city=orange" rel="city">Orange</a> should fall into a federal 
+district, it is probable I shall not be opposed; if otherwise, a 
+successful opposition seems unavoidable. My decision, however, is not finally taken. 
+</p>
+</letter>

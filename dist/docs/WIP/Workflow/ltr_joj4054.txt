@@ -1,0 +1,110 @@
+<letter id="joj4054">
+<recipient first="Benjamin" last="Vaughan" type="individual"/>
+<p>
+<a href='/results.php?city=madrid' rel='city origin'>Paris</a>, <a rel='day origin' value='28'>28th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1783' rel="origin">1783</a>, 
+</p><p>
+Dear Sir, 
+</p><p>
+Whence came the idea, that the moment a minister loses 
+a question in parliament, he must be displaced ? That kings 
+should adopt such a maxim is not very unnatural, but that 
+a free parliament should think an influential dictator < 
+them necessary to the government of the kingdom, seems 
+rather a new opinion. Perhaps it arose gradually from the 
+practices of the court and the decay of public virtue during 
+the last hundred years. 
+</p><p>
+So far as the peace respects France and America, I am 
+persuaded it was wise in Britain to conclude it. The 
+cessions to France are not, in my opinion, extravagant ; 
+and the terms settled with America, m removing all causes 
+of future variance, certainly load to conciliation and friendship. 
+</p><p>
+It appears to me that the discussion of this subject might 
+have been more ample and satisfactory. Why was not 
+parliament told of our offer i rce, and the mu
+tual navigation of the American waters? The word ; 
+procity would not then have been deemed so nug 
+</p><p>
+We have received particular instructions on the business 
+of commerce, and Mr. Fitzherbert has been informed of our 
+readiness to add to th< isional treaty, an article for 
+</p><p>
+opening and regulating the trade between us on principles 
+as liberal and reciprocal as you please. What more can 
+be said or done ? Mr. Pitt's bill was a good one, a wise one, and one that will for ever do honour to the extent and 
+policy of his views, and to those of the administration 
+undcrwho.se auspices it was formed. For my own part, 
+however, 1 think that. America need not be exceedingly 
+anxious about the matter; for it will be in our power to 
+derive from a navigation act of our own, full as many 
+advantages as we should lose by the restrictions of your laws. 
+</p><p>
+The objections drawn from your treaties with Russia, 
+&c. appear to me weak, and have been answered; but 
+why not give them similar terms on similar conditions ? 
+They furnish you with raw materials chiefly, and you them 
+with manufactures only. The gain, therefore, must be 
+yours. With respect to carriage and navigation, they stand 
+in a very different predicament from us. 
+</p><p>
+As to the tories who have received damage from us, why 
+so much noise about them, and so little said or thought of 
+;s who have suffered ten times as much from these same 
+tories, not to mention the desolations of an unjust and licentious war. 
+</p><p>
+We forget our sufferings, and even agree to recommend 
+to favour a set of men, of whoi i very few would consider 
+the having their deserts in the light of a blessing. How 
+does reciprocity stand in this account ? 
+</p><p>
+Some, it seems, think that New-York should be retained 
+as a rod to drive us on in this business of the tories. Strange 
+that the idea of driving us should still be entertained. I 
+pledge myself to you that, should such a design be adopted 
+and become apparent, the refugees will get nothing, and the 
+progress of reconciliation will be as slow as the warmest 
+Gallican could wish. 
+</p><p>
+I hear there is to be a Congress here ; that is, that Britain and France have requested the two imperial courts to send 
+mediatorial ambassadors here for the purpose of being witnesses to the execution of the definitive treaties ; — a very 
+important errand, no doubt, and very complimentary to those sovereigns. Is it probable that a Congress should be 
+called for that poor, single, simple purpose ? Why your court agreed to it is hard to conceive. 
+</p><p>
+I have written to my countrymen, that Lord Shelburne's 
+system respecting them appeared to me to be liberal and 
+conciliatory, but that his hesitations about avowing the 
+acknowledgment of our independence discouraged extensive confidence without further facts. I always think it 
+best to be candid and explicit. I hope we shall soon be in 
+the full possession of our country and of peace, and as we 
+expect to have no further cause of quarrel with Great 
+Britain, we can have no inducement to wish or to do her 
+injury ; on the contrary, we may become as sensible to her 
+future good offices as we have been to her former evil 
+ones. A little good-natured wisdom often does more in 
+politics than much slippery craft. By the former, the French 
+acquired the esteem and gratitude of America, and by the 
+latter, their minister is impairing it. 
+</p><p>
+Thus I have written you a hasty letter. Since the 
+receipt of yours, until this moment, I have been promising 
+myself the pleasure of paying you a visit. I now find it 
+probable that I shall be detained here some time longer. 
+</p><p>
+Mrs. Jay charges me to say civil things to you. You are 
+a favourite of hers, and deserve to be so of everybody. 
+Our little girl is well, and when able to speak, shall be taught 
+to send you her compliments. I shall reply to certain parts 
+of your letter in my next ; at present, I am pressed for 
+time. I must not, however, forget my worthy friend, Mr. Oswald. He deserves well of his country, and posterity 
+will not only approve, but commend his conduct. Assure 
+him of my esteem and attachment, and believe me to be, 
+with the best wishes for the health and happiness of Mrs. 
+Vaughan and your little daughter, 
+</p><p>
+Dear sir, 
+Your sincere and affectionate friend, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

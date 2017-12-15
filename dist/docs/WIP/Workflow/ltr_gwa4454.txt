@@ -1,0 +1,25 @@
+<letter id="gwa4454">
+<recipient first="Gilbert du Motier" last="Lafayette" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='14'>14</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Marquis, 
+</p><p>
+Your two letters of the 10th came to hand last night. In mine of the 11th, I informed you as fully as it was prudent to do upon paper, that there was at present 
+little or no prospect of an operation in the quarter you seem to wish. The contingencies appeared to me so 
+remote, in the conversations I had with <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a>, that I could not justify myself in withdrawing a detachment already so far advanced towards the 
+point in which relief is immediately and absolutely necessary. 
+</p><p>
+To have sent the detachment by water would certainly have been in every respect advantageous ; but, 
+even supposing M. Destouches should consent to spare the number of ships you mention, would it be safe to 
+risk so valuable a body of men, and so unequal a force, in the face of the whole British fleet? We cannot 
+suppose their intelligence so bad, but they would have notice of the embarkation, and take measures to intercept it. 
+</p><p>
+Congress have received information through General Forman, that Sir Henry Clinton means in person to take post upon the Delaware at Newcasde. I have 
+heard of no preparation at <a href='/results.php?city=new york' rel='city'>New York</a> for an embarkation of that consequence, or of any other, and therefore I do not put much confidence in the report, upon 
+so large a scale. A party may perhaps be going into the Delaware Bay to interrupt the commerce of <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, and draw supplies from the disaffected near 
+the shores. I expect to hear of some desertions from you in consequence of your move ; but the composition of your troops is good, and, if the officers enter 
+upon the service with alacrity, I have no doubt but the men will soon forget their attachments in this 
+quarter, and follow cheerfully. I am, &c. 
+</p>
+</letter>

@@ -1,0 +1,141 @@
+#!/usr/bin/env php 
+<?php
+		$filename 	= $_ENV['TM_FILENAME'];
+		$document 	= file_get_contents('php://stdin');
+
+		$author_tla	= get_letter_tla();
+
+		$person_names = array(
+			'/General Cadwalader/','/Gen\'l Cadwalder/', 
+			'/Mr. Burr/','/Major Burr/','/Colonel Burr/',
+			'/Mr. Monroe/','/Mr Monroe/','/President Monroe/',
+			'/Mr. Adams/','/Mr. John Adams/','/J. Q. A./','/Mr. J. Q. A./',
+			'/Mr. Biddle/','/Mr Biddle/',
+			'/Mr. Clay/','/Mr Clay/',
+			'/Mr. Webster/','/Mr Webster/',
+			'/Mr. Calhoun/','/Mr Calhoun/',
+			'/Mr. Rush/','/Mr Rush/',
+			'/Mr. Forsyth/','/Mr Forsyth/',
+			'/Mr. Tyler/','/Mr Tyler/','/President Tyler/',
+			'/Mr. Crowninshield/','/Mr Crowninshield/',
+			'/Mr. Jackson/','/Mr Jackson/','/Gen\'l Jackson/','/General Jackson/',
+			'/Mr. Adams/','/Mr Adams/',
+			'/Mr. Van Buren/','/Mr Van Buren/',
+			'/Mr. McDuffie/','/Mr McDuffie/',
+			'/Mr. Gallatin/','/Mr Gallatin/',
+			'/Mr. Wirt/','/Mr Wirt/',
+			'/Mr. Burr/','/Mr Burr/',
+			'/Mr. Barbour/','/Mr Barbour/',
+			'/Mr. Sergeant/','/Mr Sergeant/',
+			'/Mr. Cadwalader/','/Mr Cadwalader/','/Gen\'l Cadwalader/','/General Cadwalader/',
+			'/Mr. Colt/','/Mr Colt/',
+			'/Mr. Lenox/','/Mr Lenox/',
+			'/Mr. Lewis/','/Mr Lewis/',
+			'/Mr. Davis/','/Mr Davis/',
+			'/Mr. Cooper/','/Mr Cooper/',
+			'/Mr. Smith/','/Mr Smith/',
+			'/Mr. Ingersoll/','/Mr Ingersoll/',
+		);
+
+		$relationship_matrix = array(
+			'nib' => array('hec'=>'colleague','web'=>'colleague','jam'=>'colleague','jcc'=>'colleague','rir'=>'colleague','jof'=>'colleague','jot'=>'colleague','bwc'=>'colleague','anj'=>'adversary','jqa'=>'','mvb'=>'adversary','gmd'=>'colleague','alg'=>'colleague','wiw'=>'colleague','aab'=>'','jab'=>'','jse'=>'colleague','tmc'=>'colleague','roc'=>'colleague friend','rbl'=>'colleague','wll'=>'colleague','chd'=>'colleague','tac'=>'colleague','sas'=>'colleague','chi'=>'colleague',),
+			'hec' => array('nib'=>'colleague',),
+			'web' => array('nib'=>'colleague',),
+			'jam' => array('nib'=>'colleague',),
+			'jcc' => array('nib'=>'colleague',),
+			'rir' => array('nib'=>'colleague',),
+			'jof' => array('nib'=>'colleague',),
+			'jot' => array('nib'=>'colleague',),
+			'bwc' => array('nib'=>'colleague',),
+			'anj' => array('nib'=>'colleague',),
+			'jqa' => array('nib'=>'colleague',),
+			'mvb' => array('nib'=>'colleague',),
+			'gmd' => array('nib'=>'colleague',),
+			'alg' => array('nib'=>'colleague',),
+			'wiw' => array('nib'=>'colleague',),
+			'aab' => array('nib'=>'colleague',),
+			'jab' => array('nib'=>'colleague',),
+			'jse' => array('nib'=>'colleague',),
+			'tmc' => array('nib'=>'colleague',),
+			'roc' => array('nib'=>'colleague',),
+			'rbl' => array('nib'=>'colleague',),
+			'wll' => array('nib'=>'colleague',),
+			'chd' => array('nib'=>'colleague',),
+			'tac' => array('nib'=>'colleague',),
+			'sas' => array('nib'=>'colleague',),
+			'chi' => array('nib'=>'colleague',),
+		);
+
+		$name_tla_lookup = array(
+			'mr clay' => 'hec','mr. clay' => 'hec',
+			'mr webster' => 'web','mr. webster' => 'web',
+			'mr. monroe' => 'jam','mr monroe' => 'jam','president monroe' => 'jam',
+			'mr calhoun' => 'jcc','mr. calhoun' => 'jcc',
+			'mr rush' => 'rir','mr. rush' => 'rir',
+			'mr forsyth' => 'jof','mr. forsyth' => 'jof',
+			'mr tyler' => 'jot','mr. tyler' => 'jot',
+			'mr crowninshield' => 'bwc','mr. crowninshield' => 'bwc',
+			'mr jackson' => 'anj','mr. jackson' => 'anj','general jackson' => 'anj','gen\'l jackson'=>'anj',
+			'mr. adams' => 'jqa','mr adams' => 'jqa','mr. john adams' => 'jqa','mr john adams' => 'jqa','mr. j. q. a.' => 'jqa','j. q. a.'=>'jqa',
+			'mr van buren' => 'mvb','mr. van buren' => 'mvb',
+			'mr mcduffie' => 'gmd','mr. mcduffie' => 'gmd',
+			'mr gallatin' => 'alg','mr. gallatin' => 'alg',
+			'mr wirt' => 'wiw','mr. wirt' => 'wiw',
+			'mr burr' => 'aab','mr. burr' => 'aab','major burr' => 'aab','colonel burr' => 'aab',
+			'mr barbour' => 'jab','mr. barbour' => 'jab',
+			'mr sergeant' => 'jse','mr. sergeant' => 'jse',
+			'general cadwalader' => 'tmc','gen\'l cadwalader'=>'tmc',
+			'mr colt' => 'roc','mr. colt' => 'roc',
+			'mr lenox' => 'rbl','mr. lenox' => 'rbl',
+			'mr lewis' => 'wll','mr. lewis' => 'wll',
+			'mr davis' => 'chd','mr. davis' => 'chd',
+			'mr cooper' => 'tac','mr. cooper' => 'tac',
+			'mr smith' => 'sas','mr. smith' => 'sas',
+			'mr ingersoll' => 'chi','mr. ingersoll' => 'chi',
+		);
+
+		echo preg_replace_callback($person_names,"linkify_person",$document);
+
+		//the preg replace callback 
+		function linkify_person($matches){
+		//print_r($matches);
+		  global $name_tla_lookup;
+		  global $author_tla;
+		  $lc_match 		= strtolower($matches[0]);	
+		  $subject_tla 	= $name_tla_lookup[$lc_match];
+			//echo" $author_tla = $subject_tla | ";
+		  $relationship	= get_relationship($author_tla,$subject_tla);
+			//echo"$relationship\n";
+		  $ret_val 		= "<a href='/results.php?tla=" . $subject_tla . "' rel='" . $relationship . "'>" . ucwords($matches[0]) . "</a>"; 
+
+		  return $ret_val;
+		}
+	
+		//given the author and subject(person being talked about) - find their xfn relationship
+		function get_relationship($author_tla,$subject_tla){
+			global $relationship_matrix;
+			$relationship = $relationship_matrix[$author_tla][$subject_tla];
+			return $relationship;
+		}
+
+		//Get three letter acronym associated with letter file
+		function get_letter_tla(){
+			global $document;
+			$pattern = "/--LETTER-TLA--\w{3}/";	
+			preg_match($pattern, $document, $matches);
+//print_r($matches);
+			$author_tla = substr($matches[0], -3);
+//echo "author_tla= $author_tla";
+			//for legacy documents with no meta information
+			if(!$author_tla || $author_tla ==''){
+				global $filename;
+				$pattern = "/[ltr|jrn|doc]{1}_(?<tla>[a-zA-Z]{2,4})\d{3,5}/";
+				preg_match($pattern, $filename, $matches);
+				$author_tla = $matches['tla'];
+				
+			}
+			echo "author_tla= $author_tla";
+			return $author_tla;
+		}
+	
+?>

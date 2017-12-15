@@ -1,0 +1,34 @@
+<letter id="ben4755">
+<recipient first="John" last="Bartram" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">January</a> <a rel='day origin' value='9'>9</a>, <a href='/results.php?year=1769' rel="origin">1769</a>. 
+</p><p>
+MY DEAR OLD FRIEND, 
+</p><p>
+I received your kind letter of November 5th, and the box 
+directed to the King is since come to hand. I have written 
+a line to our late dear friend's son, 2 (who must be best acquainted with the usual manner of transacting your affairs 
+here,) to know whether he will take charge of the delivery of 
+it ; if not, to request he would inform me how or to whom it is 
+to be sent for the King. I expect his answer in a day or two, 
+and I shall, when I see him, inquire how your pension is hereafter to be applied for and received, though I suppose he has 
+written to you before this time. 
+</p><p>
+I hope your health continues, as mine does hitherto; but 
+I wish you would now decline your long and dangerous 
+peregrinations in search of new plants, and remain safe and 
+quiet at home, employing your leisure hours in a work that is 
+much wanted, and which no one besides is so capable of performing ; I mean the writing a Natural History of our country. I imagine it would prove profitable to you, and I am 
+sure it would do you honour. My respects and best wishes 
+attend Mrs. Bartram and your family. With sincere esteem 
+</p><p>
+I am, as ever, your affectionate friend, 
+</p><p>
+B. FRANKLIN. 
+</p><p>
+P. S. January 28th. The box is delivered, according to 
+Mr. Michael Collinson's directions, at Lord Bute's. I have 
+sent over some seed of naked oats and some of Swiss barley, six rows to one ear. If you would choose to try some 
+of it, call on Mrs. Franklin. 
+</p>
+</letter>

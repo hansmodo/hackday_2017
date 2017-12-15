@@ -1,0 +1,42 @@
+<letter id="jol4935">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='22'>22d</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+This will be delivered to you by Brigadier General Du Portail, commanding officer of Engineers, whom 
+I am glad of having an opportunity of introducing to 
+your acquaintance. His knowledge of his profession 
+renders him respectable, and by aiding his want of 
+fluency in the English, with your French, you will 
+find his conversation agreeable and worth attending to. 
+</p><p>
+I do not know whether what I am going to solicit 
+can be effected, nor would I ask it if it were anything 
+contrary to rule, or that could be productive of the 
+most remote ill consequences. Mr. De Murnant, a 
+French gentleman, offered himself as assistant engineer, under strong recommendations from Gen'l Du Portail. His excellency submitted the matter to the 
+committee in camp, and it is very probable that in 
+the order of business it might not present itself till 
+very late for the ratification of Congress. In the 
+mean time, the poor man is kept in a state of suspense, and what is equally bad, of expence. If the 
+question relative to him could be brought 011 the 
+carpet immediately, as it cannot be a subject of long 
+debate or occasion any interruption to business, 
+Gen'l Du Portail and himself wish that it maybe done. 
+He is at present employed in works of the camp. 
+</p><p>
+I must not defer thanking you for your kind letter 
+of the 15th inst. Tho I am unable to give such 
+answer to it as you wish, I still hope that the arguments which you use on the subject of your retiring 
+from Congress, will be seen in another light. 
+</p><p>
+Du Plessis told me that he had commissioned a Mr. De la Balme to put some books into your hands for 
+me. My dearest friend and father, adieu. 
+</p><p>
+Ever your affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

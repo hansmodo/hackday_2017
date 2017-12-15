@@ -1,0 +1,37 @@
+<letter id="mbc7776">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Lawrence says Miss Chesnut is very proud of the presence of mind and cool self-possession she showed 
+in the face of the enemy. She lost, after all, only two bottles of champagne, two of her brother's gold-headed canes, 
+and her brother's horses, including Claudia, the brood mare, that he valued beyond price, and her own carriage, 
+and a fly-brush boy called Battis, whose occupation in life was to stand behind the table with his peacock feathers and 
+brush the flies away. He was the sole member of his dusky race at Mulberry who deserted " Ole Marster " to follow the Yankees. 
+</p><p>
+Now for our losses at the Hermitage. Added to the gold-headed canes and Claudia, we lost every mule and 
+horse, and <a href='/results.php?tla=jed' rel='acquaintance met'>President Davis's</a> beautiful Arabian was captured. John's were there, too. My light dragoon, Johnny, 
+and heavy swell, is stripped light enough for the fight now. Jonathan, whom we trusted, betrayed us ; and the plantation 
+and mills, Mulberry house, etc., were saved by Claiborne, that black rascal, who was suspected by all the world. Claiborne boldly affirmed that Mr. Chesnut would not be hurt by destroying his place; the invaders would hurt only the 
+negroes. " Mars Jeems," said he, " hardly ever come here and he takes only a little sompen nur to eat when he do come. . 
+</p><p>
+FfiST- continuing, I sent for St. Julien Ravenel. We had a wrangle over the slavery question. Then, he fell foul 
+of everybody who had not conducted this war according to his ideas. Ellen had something nice to offer him (thanks 
+to the ever-bountiful Childs!), but he was too angry, too anxious, too miserable to eat. He pitched into Ellen after 
+he had disposed of me. Ellen stood glaring at him from the fireplace, her blue eye nearly white, her other eye blazing 
+as a comet. Last Sunday, he gave her some Dover's powders for me ; directions were written on the paper in which 
+the medicine was wrapped, and he told her to show these to me, then to put what I should give her into a wine-glass 
+and let me drink it. Ellen put it all into the wine-glass and 
+let me drink it at one dose. " It was enough to last you your lifetime," he said. " It was murder." Turning to 
+Ellen: " What did you do with the directions? " "I nuwer see no d rections. You nuvver gimme none." " I 
+told you to show that paper to your mistress." " Well, I flung dat ole brown paper iri de fire. What you makin all 
+dis fuss for ? Soon as I give Missis de physic, she stop frettin an flingin bout, she go to sleep sweet as a suckling 
+baby, an she slep two days an nights, an now she heap better." And Ellen withdrew from the controversy. 
+</p><p>
+" Well, all is well that ends well, Mrs. Chesnut. You took opium enough to kill several persons. You were worried out and needed rest. You came near getting it thoroughly. You were in no danger from your disease. But 
+your doctor and your nurse combined were deadly. May be I was saved by the adulteration, the feebleness, of confederate medicine. 
+</p><p>
+A letter from my husband, written at Chester Court House on March 15th, says : "In the morning I send Lieut. Ogden with Lawrence to Lincolnton to bring you down. I have three vacant rooms ; one with bedsteads, chairs, washstands, basins, and pitchers; the two others bare. You can have half of a kitchen for your cooking. I have also at 
+Dr. Da Vega's, a room, furnished, to which you are in vited (board, also). You can take your choice. If you can 
+get your friends in Lincolnton to assume charge of your valuables, only bring such as you may need here. Perhaps 
+it will be better to bring bed and bedding and the other indispensables. 
+</p>
+</letter>

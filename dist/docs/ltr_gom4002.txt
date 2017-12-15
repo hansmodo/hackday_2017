@@ -1,0 +1,41 @@
+<letter id="gom4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='10'>10th</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+Dear Jay, 
+</p><p>
+I write to acknowledge your letter of the 24th September. Being uncertain where you are, and consequently 
+what course this letter may take, and through what hands 
+it will pass, I shall not say so much as I otherwise might. 
+I will direct to the care of <a href="/results.php?tla=ben" rel="colleague">Dr. Franklin</a>. 
+</p><p>
+Your attachment to America, when removed from it, is 
+the old story of travellers ; but when it comes from one in whose feelings we feel an interest, decies repetita placebit. 
+Of your health you speak despondingly, yet you say your spirits are good. Believe me, my friend, good spirits will 
+both make and preserve good health. I mean to extend the observation generally, but not universally. Whatever lot 
+betides us, I wish you at least one happy year, and I hope that Heaven will do you the justice to grant a long succession of them. Make my good wishes acceptable to Mrs. Jay, and present me tenderly to your children. 
+</p><p>
+I was lately in New-York, and have the pleasure to tell you that all your friends were well. Things there are now 
+in that kind of ferment which was rationally to have been expected ; and I think the superior advantages of our constitution will now appear in the repressing of those turbulent spirits who wish for confusion, because that in the 
+regular order of things they can only fill a subordinate sphere. 
+</p><p>
+This country has never yet been known to Europe, and God knows whether it ever will be so. To England it is 
+less known than to any other part of Europe ; because they constantly view it through a medium either of prejudice or of faction. True it is, that the general government 
+wants energy ; and equally true it is that this want will eventually be supplied. A national spirit is the natural result of national existence ; and although some of the present 
+generation may feel colonial oppositions of opinion, that generation will die away, and give place to a race of Americans. On this occasion, as on others, Great Britain 
+is our best friend ; and by seizing the critical moment when we were about to divide, she has shown clearly the dreadful consequences of division. You will find that the States 
+are coming into resolutions on the subject of commerce ; which, if they had been proposed by Congress on the plain reason of the thing, would have been rejected with resentment, and perhaps contempt. 
+</p><p>
+With respect to our taste for luxury, do not grieve about it. Luxury is not so bad a thing as it is often supposed to 
+be ; and if it were, still we must follow the course of tidings, and turn to advantage what exists, since we have not the 
+power to annihilate or create. The very definition of luxury is as difficult as the suppression of it. 
+</p><p>
+Do not condemn us till you see us. Do not ask the British to take off their foolish restrictions. Let them 
+alone, and they will be obliged to do it themselves. While the present regulation exists, it does us more of political good than it can possibly do of commercial evil. 
+</p><p>
+Adieu. Believe me always, yours, 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

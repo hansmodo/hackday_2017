@@ -1,0 +1,57 @@
+<letter id='mad1623'>
+<recipient first='Thomas' last='Jefferson' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, October 8th, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, Herewith inclosed are a letter for yourself, forwarded to my hands from <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a>, and two others 
+for the Marquis, one from the same quarter, the other from 
+myself. I put both the last under cover to you, not knowing 
+what regard may be due to newspaper authority that the Marquis is under the open displeasure of the court, and may therefore be the less likely to receive through any other 
+channel. Sometimes the report runs that he is in the Bastile; 
+at another, that he is at the head of a resome one of the 
+Provinces. 
+</p><p>
+My last have followed each other so quickly, and the 
+last of all is of such recent date, that this opportunity by a 
+gentleman going to France enables me to add but little to what 
+has been already communicated. The result of the meeting at 
+Harrisburg was the latest event worthy of notice at the date of 
+my last. Nothing has since taken place in relation to the new 
+Government but the appointment of <a href='/results.php?tla=rom' rel='co-worker'>Mr. Robert Morris</a> and 
+Mr. Maclay to represent Pennsylvania in the Senate. A law 
+has also passed in that State providing for the election of members for the House of Representatives, and of electors of the 
+President. The act proposes that every citizen throughout the 
+State shall vote for the whole number of members allotted to 
+the State. This mode of election will confine the choice to 
+characters of general notoriety, and so far be favorable to 
+merit. It is, however, liable to some popular objections urged 
+against the tendency of the new system. In Virginia, I am 
+inclined to think, the State will be divided into as many districts 
+as there are to be members. In other States, as in Connecticut, 
+the Pennsylvania example will probably be followed. And in 
+others, again, a middle course be taken. It is, perhaps, to be 
+desired that various modes should be tried, as by that means 
+only the best mode can be ascertained. 
+</p><p>
+There is no doubt that <a href='/results.php?tla=gwa' rel='co-worker met'>General Washington</a> will be called to 
+the Presidency. For the vice Presidency are talked of principally <a href='/results.php?tla=joh' rel='co-worker'>Mr. Hancock</a> and <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a>. <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a> or <a href='/results.php?tla=hek' rel='co-worker'>General Knox</a> 
+would, I believe, be preferred to either, but both of them will 
+probably chuse to remain where they are. It is impossible to 
+say which of the former would be preferred, or what other candidates may be brought forward. 
+</p><p>
+I have a letter from Mr. George Lee Turberville, of Virginia, 
+requesting me to mention to you a report proceeding from 
+Greenwich, that a Doctor Spence and his lady (the former a 
+Virginian, of respectable family, in the lower end of the Northern neck, and whose mother is still living in a second marriage 
+with a Doctor Thomson, of Westmoreland County) were captured on their way to Virginia, and carried into Algiers. This 
+event is said to have happened seven or eight years ago, though 
+discovered but lately, it having been taken for granted that the 
+vessel and all on board had perished at sea. I am much inclined to believe that this supposition is the true one, and that 
+the Greenwich story has no foundation. I communicate it, 
+nevertheless, as requested by Mr. Turberville, that you may have 
+an opportunity of collecting for the friends of Doctor Spence 
+any information which may be interesting to them, and of taking 
+any steps that such information may suggest in behalf of the 
+distressed. 
+</p>
+</letter>

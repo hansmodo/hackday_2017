@@ -1,0 +1,32 @@
+<letter id="ben4002">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=passy' rel='city origin'>Passy</a>, <a rel="month origin" value="4">April</a> <a rel='day origin' value='22'>22</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have undertaken to pay all the bills of your acceptance 
+that have come to my knowledge, and I hope in God no 
+more will be drawn upon us, but when funds are first provided. In that case your constant residence at Madrid is 
+no longer so necessary. You may make a journey either 
+for health or pleasure, without retarding the progress of a 
+negotiation not yet begun. Here you are greatly wanted, 
+for messengers begin to come and go, and there is much 
+talk of a treaty proposed, but I can neither make, nor agree 
+to propositions of peace, without the assistance of my colleagues. <a href='/results.php?tla=jod' rel='colleague met'>Mr. Adams</a>, I am afraid, cannot just now leave 
+Holland. <a href='/results.php?tla=thj' rel='colleague met'>Mr. Jefferson</a> is not in Europe, and <a href='/results.php?tla=hel' rel='colleague'>Mr. Laurens</a> 
+is a prisoner, though abroad upon parol. I wish, therefore, 
+that you would resolve upon the journey, and render yourself here as soon as possible. You would be of infinite 
+service. Spain has taken four years to consider whether 
+she should treat with us or not. Give her forty, and let us 
+in the mean time mind our own business. I have much to 
+communicate to you, but choose rather to do it viva voce, 
+than trust it to letters. 
+</p><p>
+I am ever, my dear friend, 
+</p><p>
+Yours most affectionately, 
+</p><p>
+<a href="/results.php?tla=ben" rel="me">Benjamin Franklin</a>. 
+</p>
+</letter>

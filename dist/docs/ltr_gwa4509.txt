@@ -1,0 +1,30 @@
+<letter id="gwa4509">
+<recipient first="Samuel" last="Huntington" type="individual"/>
+<p>
+<a href='/results.php?city=dobbs ferry' rel='city origin'>Dobbs's Ferry</a> <a rel='day origin' value='25'>25</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>
+</p><p>
+Sir, 
+</p><p>
+I have been honored with your favor of the 10th, announcing your resignation of the chair of Congress 
+and the election of Mr. McKean to that important station. I flattered myself with the hope of an opportunity of personally acknowledging the attentions, which 
+I received from you during your presidency ; but as I 
+find you could not with convenience make a visit to 
+the army on your way home, I am constrained to 
+take this method of returning my thanks and expressing my sincere wishes for the re-establishment of your 
+health. I am exceedingly happy to hear, that our political affairs begin to assume a new and pleasing appearance, which, if continued, will I hope have an influence upon the military. That department is yet 
+laboring under every difficulty and distress, and there 
+seems to me little chance of its being relieved from 
+the debility to which it is reduced ; for, notwithstanding my pressing requisitions, and the more pressing 
+occasion which there is for recruits at this moment, I 
+may almost say I have not received one man since 
+my last demand. 
+</p><p>
+The station, which you have lately filled -with so 
+much honor, has given you an opportunity of making 
+yourself intimately acquainted with our real situation ; 
+and a representation from you to your State will naturally have more weight, than that of a stranger to public affairs. Be assured. Sir, you cannot employ your 
+time better at home, than in constantly impressing all 
+ranks with the necessity of recruiting and supplying 
+the army. I have the honor to be, &c. 
+</p>
+</letter>

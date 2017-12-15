@@ -1,0 +1,35 @@
+<letter id="gom4604">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='21'>21st</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Yesterday I was informed that the Senate had agreed to your 
+nomination of diplomatic servants. If I know my own heart, 
+this intelligence is far less agreeable to me on my own account 
+than on that of the public. I am sure that a rejection, from 
+whatever cause it may have arisen, would have been attributed 
+to disunion in our counsels. 
+</p><p>
+I find that the King of France has appointed to the office 
+of Foreign Affairs a Monsieur Dumouriez, and that it is considered as a sacrifice to the Jacobins. He is a bold, determined 
+man. I am not acquainted with him personally, but I know 
+that he has long been seeking a place in the administration, 
+and was, about six months ago, determined, if appointed one 
+of the ministers, to destroy at the peril of his life the Jacobin 
+and all other clubs, and to effect a change in the government. 
+How far he may have changed his opinions since I really can 
+not tell, but I mention this to you now, because when I know 
+more I can refer to this letter and say, that by coming into office he has not changed his sentiments, if he persists in those 
+his ancient determinations. If not, I will tell you, that he is 
+more prudent than was supposed. And these words will in 
+either case mean nothing more than is here set down for them. 
+The King consulted him (as I was told by his confidential friend 
+in the middle of last October) on the state of affairs, when 
+M. de Montmorin when out ; but the high toned measures he 
+proposed were not adopted. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

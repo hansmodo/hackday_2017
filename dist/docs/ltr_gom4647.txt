@@ -1,0 +1,123 @@
+<letter id="gom4647">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a> ,  <a rel="month origin" value="3">March</a> <a rel='day origin' value='7'>7th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Enclosed you have copies of what I had the honor to write on the twenty-fifth of January, and thirteenth of February ; also 
+the copy of a letter of the twelfth of February, from Mr Pinckney, with my answer of the eighteenth. I send these last, to 
+the end that due attention may be paid to such vessels as may be furnished with his passports, and which may perhaps prove to be British bottoms. 
+</p><p>
+I am so well persuaded that the United States will strictly 
+observe the laws "of nations, and rigidly adhere to their neutrality, that [ am solicitous to prevent a practice which might 
+expose us to suspicion, and finally involve us in war. On 
+this chapter it is proper also, that I should communicate a fact 
+which I have mentioned to Mr Pinckney, and desired him to 
+transmit. 
+</p><p>
+Monsieur Genet took out with him three hundred blank 
+commissions, which he is to distribute to such as will fit out cruizers in our ports, to prey on the British commerce. I 
+am convinced that few of my countrymen will be so lost to all 
+moral sense, as to embark in a game so abominable, where the 
+murder of their fellow creatures enters as a leading chance. 
+I am apprehensive, however, lest some profligates may be led 
+to fix a blot on our national character, and deprive both them 
+selves and their countrymen of the great and certain advantages to flow from honest industry on the present important occasion, an occasion, which, duly attended to and properly 
+cultivated, will give to our navigation an increase too rapid al 
+most for conjecture, and place us in the happy situation to be 
+in two or three years the exclusive carriers of our immense 
+productions. These considerations weigh much, but they are 
+still but a feather in the balance with those of a much higher 
+nature, which stand in connexion with the nature of our government, and of course with the happiness of generations to come. 
+I know of nothing so dangerous, and I might say fatal to morals, 
+as the sudden acquisition of wealth by bad means. Industry 
+is thereby discouraged, and honesty discountenanced. The 
+vulgar are soon dazzled by the glare of prospering vice, and 
+the young are seduced from the paths of virtue ; and virtue 
+once gone, freedom is but a name ; for I do not believe it to be 
+among possible contingencies, that a corrupted people should 
+be for one moment free. Excuse, I pray, my dear Sir, these 
+observations, which I cannot restrain. They flow from the 
+conviction of my earliest reason, and are strengthened by the 
+experience of twenty years. 
+</p><p>
+In mine of the thirteenth of February, I mentioned to you 
+that this country would procure the five hundred thousand 
+men required, and at that time there was every reason to think 
+so, because the recruiting service went on well for all the new 
+corps which had been ordered ; but it now appears that this 
+arose from little circumstances of dress and flattery, calculated 
+to catch idlers, and that there is a real scarcity of men. The 
+losses of the last campaign are sensible in the mass of population, so that notwithstanding the numbers thrown out of em 
+ploy by the stagnation of some manufactures, and the reduction of private fortunes, the want of common laborers is felt 
+throughout the whole country. Already they talk of drafting 
+for the service, an experiment of very doubtful and dangerous 
+complexion. Jt would however succeed just now ; but if delayed it would not, I believe, go down ; and at any rate would 
+not produce in season the required force ; especially if the enemy should have any considerable successes; for you must 
+not imagine that the appearances in this country are all real, 
+and you must take into your estimation, that the Convention is 
+falling into contempt, because the Tribunes govern it imperiously. They try to save appearances, but the people cannot long 
+be dupes. It is the old story of King Log, and how long it 
+may be before Jupiter sends them a Crane to destroy the Frogs 
+and Froglings, is a matter of uncertainty. Already they begin 
+to cry out for a Dictator. An insurrection also is brewing, 
+whose object I am told is to destroy the faction of the Gironde. 
+I think I mentioned to you, that the death of the King would 
+be but the forerunner of their destruction. And already they 
+see the sword hanging over their heads. The majority of the 
+Convention is clearly at the disposition of their enemies. 
+The consuls will forward to you, and you will see in the 
+gazettes, the decree for opening all the ports of this nation to 
+our vessels on equal terms with their own. You will be so kind 
+as to observe, that this was done on a report of the Committee 
+of Safety. Now you must know that the members of this 
+Committee, or at least a majority of them, are sworn foes to 
+the members of the Diplomatic Committee. This is necessary to explain a little of what is said in mine of the 13th, about 
+the latter Committee. I have received indirectly a kind of 
+assurance from the former, (which disposes entirely of the 
+Convention) that they will do anything for the United States 
+which I will point out, but in fact I know not anything which 
+we ought to ask 5 the decrees above mentioned contain, I believe, all that we want. The history of them is not material. 
+</p><p>
+I had the honor to mention to you also, that I did not believe the attempt against Holland would succeed, and also that 
+time was extremely precious to both parties, especially in regard to Maestricht, in whose fate was involved perhaps that of 
+the whole campaign. This town had, I am told, offered to 
+capitulate, but terms of such rigor were insisted on, as to induce a longer defence, and this delay has saved them. The 
+siege is raised, and unless the French army should gain a vic 
+tory, I do not see how they are to escape, provided the enemy 
+exerts himself. Dumouriez had taken Breda, and was preparing to enter Holland, being ordered by the Minister of War ; 
+to whom he replied, that he would go in, but the Minister 
+must find his way out. This latter may be no very easy 
+task. The enemy on the side of Maestricht are, I believe, 
+superior in numbers ; and certainly if the French in that quarter are beaten, the Allies may cut off the retreat of Dumouriez, in which case his fate must depend not only on the 
+strength of his army, not over numerous, but also on the state 
+of his magazines, which I believe to be bad. Should Valence be able to make good a gentle retreat, then he may be 
+joined perhaps by Dumouriez at Louvain, and together they 
+may cover Brussels. 
+</p><p>
+But all these things, again, depend on some moral contingencies, such for instance as the following questions. What 
+will be the temper and spirit of those departments nearest to 
+the scene of action ? What will be the degree of hope or apprehension among the inhabitants of the Low Countries ? As 
+to them you will see by the gazettes, that they are fast expressing their adherence to the French Republic freely pronounced. 
+</p><p>
+But since it has been no small question among metaphysicians, what it is that constitutes the freedom of the will, there 
+is no small question also on this subject among politicians, as to 
+the case before us. Are men actuated by interest, are they 
+instigated by desire, are they seduced by hope, are they compelled by fear? Alexander, you know, cut the knot which he 
+could not untie, and the French have imitated the example of 
+that conqueror. Some striking examples of those, who op 
+posed the union with France, induced all the rest to give both 
+their speedy and their free consent. It is therefore a problem 
+to be resolved, what degree of force must be produced by the 
+Allies to operate on the free will of this people, in a counter 
+sense. I think the solution of that problem is in Brussels. 
+</p><p>
+On the whole, my dear Sir, the hour is big with important 
+events. As soon as I learn anything more, I will communicate 
+it ; in the mean time accept the assurances of that respect, with 
+which I have the honor to be, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

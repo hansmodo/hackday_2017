@@ -1,0 +1,27 @@
+<letter id="jhb3201">
+<recipient first="Friedrich" last="Baum" type="individual"/>
+<p>
+Near <a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel="day origin" value="14">14</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+The accounts you have given me are very satisfactory, and I doubt not every proceeding under your direction will be the 
+same. I beg the favor of you to report whether the route you 
+have marched will be practicable with a large corps of cannon, 
+without repair, or with what sort of repair. The desirable circumstance for your corps is, at present, to possess <a href='/results.php?city=bennington' rel='city'>Bennington</a> ; 
+but should you find the enemy too strongly posted, and maintaining such a countenance as would make a coup de main ardous, I wish you to take such a post as you can maintain till you 
+hear further from me ; and upon your reports and other circumstances, I will either support you in force or withdraw you. 
+</p><p>
+You will please to send to my camp, as soon as you can, wagons and draught-cattle, and likewise such other cattle as are not 
+necessary for your subsistence. Let the wagons and carts bring 
+off what flour and wheat they can, that you do not retain for the 
+same purpose. I will write to you in full to-morrow in regard to 
+purchasing horses out of the hands of the savages. In the mean 
+time, let them be assured that whatever you select from them, fit 
+to mount the dragoons, shall be paid for at proper price. 
+</p><p>
+I am, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter>

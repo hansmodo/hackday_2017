@@ -1,0 +1,30 @@
+<letter id="gwa4493">
+<recipient first="Robert" last="Morris" type="individual"/>
+<p>
+Head-Quarters, near <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="6">June</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Your opinion of the absolute necessity of a repeal 
+of all Under laws, before a new species of paper, 
+though upon ever so good an establishment, will gain 
+credit with the public, is certainly founded upon reason and justified by experience. I am extremely 
+obliged to you for the assistance you have already 
+afforded us in the article of flour. Without that aid, 
+we should have been already distressed ; and I must 
+confess to you, that I see no prospect of being supplied, but through your means, as, by the last letters 
+from the President and Council of Pennsylvania, I could 
+expect little or nothing from that quarter. Whether 
+the Assembly, in their present session, have adopted 
+any more vigorous measures to obtain supplies, I have 
+not yet been informed. 
+</p><p>
+<a href='/results.php?tla=pjs' rel='co-worker met'>General Schuyler</a> a few days ago acquainted you, 
+that there were more considerable quantities of flour 
+upon the North River, than he had expected. The 
+ease and cheapness of transporting any in that situation will undoubtedly induce you to secure what may 
+be in that quarter, should you find yourself enabled to 
+extend your purchases. I have the honor to be, with 
+perfect respect and esteem, &,c. 
+</p>
+</letter>

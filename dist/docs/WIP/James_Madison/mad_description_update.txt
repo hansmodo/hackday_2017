@@ -1,0 +1,33 @@
+/////////////////////*** Change / Add Descriptions for items 1450 - 1499 ***///////////////
+update media set description = '' where mediaID = 'ltr_mad1450';
+update media set description = '' where mediaID = 'ltr_mad1451';
+update media set description = '' where mediaID = 'ltr_mad1452';
+update media set description = '' where mediaID = 'ltr_mad1453';
+update media set description = '' where mediaID = 'ltr_mad1454';
+update media set description = '' where mediaID = 'ltr_mad1455';
+update media set description = '' where mediaID = 'ltr_mad1456';
+update media set description = '' where mediaID = 'ltr_mad1457';
+update media set description = '' where mediaID = 'ltr_mad1458';
+update media set description = '' where mediaID = 'ltr_mad1459';
+
+/////////////////////Below Completed///////////////
+
+update media set description = 'It seems that most of the Indian tribes, particularly those of the Iroquois, retain a strong predilection for the French' where mediaID = 'ltr_mad1502';
+update media set description = 'It inclosed a cypher, for which I thank you, and which I shall make use of as occasion may require' where mediaID = 'ltr_mad1503';
+update media set description = 'I had intended by this post to commence our correspondence with a narrative of what has been done and is proposed to be done at the present Session of the General Assembly' where mediaID = 'ltr_mad1504';
+update media set description = 'The umbrage given to the Commissioners of the United States by the negociations of New York with the Indians was not altogether unknown to me' where mediaID = 'ltr_mad1505';
+update media set description = 'I inform you that the Bill for confirming surveys against subsequent entries has been negatived by a large majority' where mediaID = 'ltr_mad1506';
+update media set description = 'On Saturday last a proposition was agreed to for establishing Circuit Courts throughout this Commonwealth' where mediaID = 'ltr_mad1507';
+update media set description = 'Our progress in the Revisal has been stopped by the waste of time produced by the inveterate and prolix opposition of its adversaries, and the approach of Christmas.' where mediaID = 'ltr_mad1508';
+update media set description = 'The act empowering Congress to surrender Citizens of this State to the Sovereign demanding them, for certain crimes committed within his jurisdiction, has passed.' where mediaID = 'ltr_mad1509';
+update media set description = 'Be pleased to accept my congratulations on the event which has given to your talents a station in which they cannot fail to be equally useful to the public and honorable to yourself.' where mediaID = 'ltr_mad1510';
+update media set description = 'A Resolution has passed both Houses instructing the Commissioners, appointed in June last to settle with Maryland Commissioners the jurisdiction of the Potowniac' where mediaID = 'ltr_mad1511';
+update media set description = 'I fear, a revival of those intrigues and contests of ambition which have more than once distracted and dishonoured the National Councils.' where mediaID = 'ltr_mad1512';
+update media set description = 'I learn from an intelligent person lately from Kentucky, that the Convention there produced nothing but a statement of grievances' where mediaID = 'ltr_mad1513';
+update media set description = 'Nature has given the use of the Mississippi to those who may settle on its waters, as she gave to the United States their independence.
+' where mediaID = 'ltr_mad1514';
+update media set description = 'He has probably already mentioned to you the advances which Kentucky was said to be making towards an independent Government.' where mediaID = 'ltr_mad1515';
+update media set description = 'The appointment of Mr. Adams to the Court of Great Britain is a circumstance which does not contradict my expectations.' where mediaID = 'ltr_mad1516';
+update media set description = 'I thank you much for your attention to my literary wants.' where mediaID = 'ltr_mad1517';
+update media set description = 'I hear frequent complaints of the disorders of our coin, and the want of uniformity in the denominations of the States.' where mediaID = 'ltr_mad1518';
+update media set description = 'It is fortunate that the variant ideas have been so easily accommodated touching the mode of surveying and selling the territorial fund.' where mediaID = 'ltr_mad1519';

@@ -1,0 +1,51 @@
+<letter id='mad1701'>
+<recipient first='Edmund' last='Pendleton' type='individual'/>
+<p>
+<a href="/results.php?city=philadelphia" rel="city">PHILADELPHIA</a>, Jan' 21, <a href="/results.php?year=1792">1792</a>. 
+</p><p>
+DEAR SIR, I have delayed for some time writing, in the 
+daily expectation that I should be able to resume the subject of 
+the Representation bill, the progress and fate of which were 
+mentioned in my last. A motion for reviving it in another 
+form has been some days on the table, and is now the order 
+of the day, but has been kept back partly by a general torpor 
+resulting from the critical loss of the bill, and partly by the 
+interference of other business. The motion alluded to proposes, as compensation for the present inequality of fractions, 
+a repetition of the census in 4 or 5 years, which will have not 
+only the effect of shortening the term of the fractions complained of, but of preventing the accumulation of much greater 
+inequalities within a period of ten years. This expedient is 
+relished generally by the Southern States, and by <a href="/results.php?city=new york" rel="city">New York</a> 
+and Vermont, which are growing States. It will be equally 
+unpalatable to Massachusetts, Connecticut, &c., which are very 
+willing to take the benefit of the future operation of an apportionment for ten years, although they raise so great an outcry 
+against the little fractional advantage accruing to other States 
+from the ratio of 1 for 30,000. 
+</p><p>
+The House of Representatives has been occupied for some 
+days, with shut doors, on the communications of the President 
+relating to the Western Frontiers. There is a pretty general 
+disposition to make the protection effectual, but a great wrmt 
+of unanimity as to the best means. It is probable that much 
+will be left to the judgment of the President; and it is to be 
+hoped that the lessons of past experience will not be without 
+effect. 
+</p><p>
+I have reserv. for you a copy of the Report of the Secretary 
+of the Treasury on Manufactures, for which I hoped to have 
+found before this a private conveyance, it being rather bulky 
+for the mail. Having not yet succeeded in hitting on an opportunity, I send you a part of it in a newspaper, which broaches a 
+new Constitutional doctrine of vast consequence, and demanding the serv.us attention of the public. I consider it myself as 
+subverting the fundamental and characteristic principle of the 
+Government; as contrary to the true and fair, as well as the 
+received construction, and as bidding defiance to the sense in 
+which the Constitution is known to have been proposed, advocated, and adopted. If Congress can do whatever in their discretion can be done by money, and will promote the General 
+Welfare, the Government is no longer a limited one, possessing 
+enumerated powers, but an indefinite one, subject to particular 
+exceptions. It is to be remarked that the phrase out of which 
+this doctrine is elaborated is copied from the old Articles of 
+Confederation, where it was always understood as nothing 
+more than a general caption to the specified powers, and it is a 
+fact that it was preferred in the new instrument for that very 
+reason, as less liable than any other to misconstruction. 
+Remaining always most affectionately yours. 
+</p></letter>

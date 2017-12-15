@@ -1,0 +1,89 @@
+<letter id="rom4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="11">Nov.</a> 	<a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1783' rel="origin">1783</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I hear your health is mended since the date of your last 
+letter of the 20th July, and rejoice at it. Your distant 
+friends suffer irreparable injury if you are indisposed to 
+write; those who write so well should write often, and 
+even your short letters say so much in so few words, that 
+it is impossible not to wish for them, if longer ones cannot 
+be had. I acknowledge the force of all your observations 
+on my intended resignation, and know the necessity of perseverance so long as there is a prospect of being useful ; 
+but you must also acknowledge that it is folly in the extreme to continue in the drudgery of office after you see 
+clearly that the public cannot be benefited ; your own 
+affairs suffering, your feelings daily wounded, and your 
+reputation endangered by the malice and misrepresentation 
+of envious and designing men. During the war, I was 
+determined to go through with the work I had undertaken, 
+and although my resignation was made before the signing 
+of the provisional treaty was known, yet I made no hesitation to declare to a committee of Congress, that if the war 
+lasted I would continue. The war, however, ceased — 
+Congress feared to dismiss their army without some pay ; 
+they had not money, and could only make payment by 
+paper anticipation, and even this could not be effected 
+without my assistance. I was urged to continue, and 
+forced into that anticipation. The army was dispersed, 
+and since their departure, the men who urged these measures most, and who are eternally at war with honour and 
+integrity, have been continually employed in devising 
+measures to prevent my being able to fulfil my engagements, in hopes of effecting my ruin in case of failure. I 
+must, however, in justice to the majority of Congress, 
+which has ever been composed of honest men, declare that 
+the faction I allude to is but inconsiderable in numbers, 
+although they make themselves of some consequence by 
+this assiduity. You know the ****, &c. : I should disregard these men totally, if I found a disposition in the 
+several Legislatures to support national faith, credit, and 
+character ; but, unhappily, there is at present a total inattendon on their parts. I am, however, persuaded, that 
+sooner or later, the good sense of America will prevail, and 
+that our governments will be intrusted in the hands of men 
+whose principles will lead them to do justice, and whose 
+understandings w T ill teach the value of national credit. 
+This may be too long in coming to pass, at least for me, 
+and therefore you may rest assured, that I quit all public 
+employ the moment my engagements are fulfilled. 
+</p><p>
+The court of France having refused the last sum asked, 
+I do not wish to trouble them further. I am not sensible 
+of having at any time made an improper application, either 
+as to substance or manner. Those who are solicited in 
+such cases, are in the situation to make whatever objections 
+they find convenient. I wish, however, that the ministers 
+in France were sensible of one truth, which is, that my administration either saved them a good deal of money, or a 
+great deal of disgrace ; for if I had not undertaken it when 
+I did, they must either have advanced ten times the amount 
+I received, or have deserted America, after having undertaken her cause, and perhaps have been obliged to subscribe 
+to very indifferent terms of peace for themselves. 
+</p><p>
+It is happy for me that the loan in Holland stepped in to 
+our relief, after the refusal of the court to grant the moderate sum of 3,000,000 livres as the concluding point. This 
+refusal was ill-timed and impolitic. I could show resentment with some effect, if I were so disposed ; but so far 
+from it, I retain a grateful remembrance of past favours, 
+and make a point to promote the commercial intercourse 
+between France and this country. I must also show my 
+sense of the obligations conferred on us by the Hollanders. 
+We hear that the definitive treaty is signed. I long to see 
+it ; for you may depend that unless some new articles are 
+added respecting our intercourse with the British West 
+Indies, it will be both a work of difficulty and time to carry 
+measures that will justify your opinion of us. I thank you 
+for the kind sentiments which you express of me in several 
+parts of your letters. I will endeavour to deserve them. 
+I do not know whether <a href='/results.php?tla=gom' rel='friend met colleague'>Gouverneur</a> writes to you by this 
+opportunity ; you must cherish his friendship, it is worth 
+possessing, lie has more virtue than he shows, and more 
+consistency than anybody believes. He values you exceedingly, and hereafter you will be very useful to each other. 
+Mrs. Morris will write to Mrs. Jay, and say for herself 
+what she has to say ; though I don't believe she will tell 
+her, as she docs to everybody else, the high estimation in 
+which she holds Mrs. Jay and yourself. Permit me also, 
+my worthy friend, to assure you both of the sincerity of 
+that affection with which I profess myself 
+</p><p>
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=rom" rel="me">Robert Morris<a/>. 
+</p>
+</letter>

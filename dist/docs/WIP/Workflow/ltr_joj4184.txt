@@ -1,0 +1,33 @@
+<letter id="joj4184">
+<recipient first="Noah" last="Webster" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='31'>31st</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1813' rel="origin">1813</a>. 
+</p><p>
+Sir, 
+</p><p>
+I received by the last mail your letter of the 19th inst. 
+The circumstances mentioned in it cannot be regarded 
+with indifference by those who wish you well ; and I feel as 
+well as think so. 
+It is not improbable, that doubts prevail respecting the 
+design and tendency of the work you have in hand. The 
+literary productions of Britain and America being interesting to each other, many are of opinion, and I concur in it, 
+that the English language and its orthography should be 
+the same in both countries. Apprehensions have been entertained that your dictionary would tend to impair that 
+sameness ; and those apprehensions may, to a certain degree, have had an unfavourable influence. 
+</p><p>
+The progress of the subscription having been so long 
+suspended, I think it better to enclose what I intended to 
+subscribe, than trouble your agents at New-York with it. 
+</p><p>
+If any plan to render your prospects more promising, 
+and in my power to promote, should be adopted, be pleased 
+to communicate it to me. 
+</p><p>
+I am, sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

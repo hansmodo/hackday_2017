@@ -1,0 +1,32 @@
+<letter id="joj4161">
+<recipient first="Maria" last="Jay" type="individual"/>
+<p>   	 
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel='day origin' value='2'>2d</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1804' rel="origin">1804</a>. 
+</p><p>
+My dear Daughter, 
+</p><p>
+I passed a part of yesterday morning very agreeably in writing a letter to you. Happy to learn from your brother 
+and sister that your health was fast improving, and well knowing the innocent gratifications you were deriving, 
+probably "in long perspective" from your dear little boy, my letter insensibly grew long, nor could I easily quit these topics. 
+</p><p>
+Last night, I received Mr. Banyer's letter of the 27th. You can judge of my feelings on the occasion. It has cast 
+a gloom on both families. I have to lament the departure of my only grandson, as well as the affliction of my dear 
+and affectionate daughter. It is natural that such events should excite grief in a high degree; I know this by 
+experience, and I know by experience also, that no consolation is to be derived from any other source than 
+acquiescence in and resignation to the will of God, without whose appointment or permission nothing comes to pass. 
+</p><p>
+Our Heavenly Father has called this child home, and the very best wish that you or I could have formed for him. 
+was, that after a long and virtuous abode bore, he might be where he now is. We have indeed reason to grieve for 
+the comforts we lose by his absence, but not that he is where he is. His happiness is now certain, complete, eternal. Happy shall we all be to arrive finally at the same 
+blest abodes; and there to be received by him, and many others of our best and dearest friends and kindred. 
+</p><p>
+Let us all endeavour to become the wiser and better for these chastisements; and remember the expressions of Job when all his children were taken away from him. I wish, my 
+dear Maria, to comfort both you and myself. Let us both consider these things, and hold fast our confidence in Him who alone can console and bless us. 
+</p><p>
+I am, my dear Maria, 
+</p><p>
+Your very affectionate father, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

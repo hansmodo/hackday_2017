@@ -1,0 +1,40 @@
+<letter id="ben4832">
+<recipient first="Ezra" last="Styles" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="1">Jan.</a> <a rel='day origin' value='13'>13</a>. <a href='/results.php?year=1772' rel="origin">1772</a>
+</p><p>
+DEAR SIR, 
+</p><p>
+There is lately published in Paris a Work intitled ZendAvesta, Outrage de Zoroastre, contenant les I dees Theologiques, Physiques, et Morales, de ce Legislateur; les Ceremonies 
+du Culte Religieux qu'il a etabli, et plusieurs Traits importans 
+relatijs a PAneienne Histoire des Perses. Traduit en Fran$ois sur V Original Zend, avec des Remarques; et accompagne de plusieurs Traites propres a eclaircir les Matieres 
+qui en sont V Ob jet. Par M. Anquetil du Perron, de PAcademie 
+Royale des Inscriptions et Belles- Lettres, et Interprets du 
+Roy pour les Langues Orientates. It is in two Volumes 4to. 
+Near half the Work is an Account of the author's Travels in 
+India, and his Residence among the Parses during several 
+Years to learn their Languages. 
+</p><p>
+I have cast my Eye over the Religious Part; it seems to 
+contain a nice Morality, mix'd with abundance of Prayers, 
+Ceremonies, & Observances. If you desire to have it, I will 
+procure it for you. There is no doubt of its being a genuine 
+Translation of the Books at present deem'd sacred as the Writings of Zoroaster by his Followers ; but perhaps some of 
+them are of later Date tho' ascrib'd to him; for to me there 
+seems too great a Quantity & Variety of Ceremonies & 
+Prayers, to be directed at once by one Man. In the Romish 
+Church they have increased gradually in a Course of Ages to 
+their present Bulk. Those who added new ones from time 
+to time found it necessary to give them Authority by Pretences of their Antiquity. The Books of Moses indeed, if 
+all written by him, which some doubt, are an Exception to 
+this Observation. With great Esteem, I am ever, Dear 
+</p><p>
+Sir, &c. 
+</p><p>
+Your affectionate 
+</p><p>
+Friend and hum Serv
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

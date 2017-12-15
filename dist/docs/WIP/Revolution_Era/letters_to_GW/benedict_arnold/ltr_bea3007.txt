@@ -1,0 +1,48 @@
+<letter id="3007">
+<p>
+<a href='/results.php?city=providence' rel='city'>Providence</a>, 26 March, <a href="http://www.familytales.org/results.php?year=1777">1777</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+I was made very unhappy, a few days since, by 
+hearing your Excellency was exceedingly ill with a 
+fever. I soon after had the pleasure of hearing, 
+by Mr. Learned, you were so far recovered as to be 
+able to ride out. My fears have not entirely subsided. I am still anxious for your safety, and apprehensive your zeal for the public service will induce 
+you to exert yourself before you are perfectly recovered. 
+</p><p>
+I wrote your Excellency the 11th instant, since 
+which our intended expedition against Rhode Island 
+is laid aside. We now confine ourselves to a defensive opposition only. Desertions from the Island are 
+frequent. The most intelligent persons agree that 
+the enemy have six battalions of Hessians, and four 
+of British troops ; the whole about four thousand men. 
+Several inhabitants, who came from Newport the evenings of the 23d and 25th instant, say that all 
+the enemy's transport-ships are hauled off from the 
+wharves, their water in, and sails bent, and ready for 
+sailing. Sir Peter Parker has sent his baggage on 
+board, and was to embark soon. It is said, by their 
+seamen, that they are bound for <a href='/results.php?city=new york' rel='city'>New York</a>. From 
+appearances, they will doubtless soon leave Newport, 
+and probably join General Howe. 
+</p><p>
+In my last, I intimated to your Excellency the 
+impossibility of my remaining in a disgraceful situation in the army. My being superseded must be 
+viewed as an implicit impeachment of my character. 
+I therefore requested a court of inquiry into my conduct. I believe the time is near at hand, when I 
+can leave this department without any damage to the 
+public interest. When that is the case, I will wait 
+on your Excellency, not doubting my request will be 
+granted, and that I shall be able to acquit myself of 
+every charge malice or envy can bring against me. 
+</p><p>
+General Spencer writes your Excellency very particularly by this opportunity. I have only to add 
+my sincere wishes for your restoration to perfect 
+health, and preservation in any danger, and am, very 
+respectfully, dear General, 
+</p><p>
+Your affectionate and most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=bea" rel="me">BENEDICT ARNOLD</a>. 
+</p>
+</letter>

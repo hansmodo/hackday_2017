@@ -1,0 +1,59 @@
+<letter id="gom4509">
+<p>
+<recipient first="Sarah" last="Gouverneur" type="individual"/>
+</p><p>
+<a href='/results.php?city=york town' rel='city origin'>York Town</a>, Pennsylvania, <a rel="month origin" value="4">April</a> <a rel='day origin' value='17'>17th</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+Dear Madam, 
+</p><p>
+I sit down to let you know, that I am in this world, though in a remote part of it. I have heard of you but not 
+form you, since I left <a href='/results.php?city=morrisania' rel='city'>Morrisania</a> ; neither have I had the satisfaction to learn, that, of the many letters I have written, 
+you have ever received one. It would give me infinite pleasure to hear of my friends, yourself in particular, but 
+since it is my lot to know no more than the burthen of general 
+report, I must be contented. 
+</p><p>
+I received great pain from being informed, that you are 
+distressed on my account. Be of good cheer, I pray you. I 
+have all that happiness, which flows from conscious rectitude. 
+I am blessed with as great a portion of health, as usually belongs 
+to the share of mankind. Content with what I have, and with 
+what I am, I look forward serenely to the course of events, confident that the Fountain of supreme wisdom and virtue will provide for the happiness of his creatures. It gives me pain, that 
+I am separated from those I love, but comparing this with 
+what thousands suffer, I dare not repine. Let me earnestly 
+recommend to you so much of religion, as to bear inevitable 
+evils with resignation. I would that it were in my power to 
+solace and comfort your declining age. The duty I owe to 
+a tender parent demands this of me, but a higher duty has 
+bound me to the service of my fellow creatures. The natural indolence of my disposition has unfitted me for the paths of 
+ambition, and the early possession of power taught me how 
+little it deserves to be prized. Whenever the present storm 
+subsides, I shall rush with eagerness into the bosom of private 
+life, but while it continues, and while my country calls for the 
+exertion of that little share of abilities, which it has pleased 
+God to bestow on me, I hold it my indispensable duty to give 
+myself to her. 
+</p><p>
+I know that for such sentiments I am called a rebel, and that such sentiments are not fashionable among the folks you 
+see. It is possible, though I hope not, that your maternal tenderness may lead you to wish, that I would resign these 
+sentiments. Let me, however, entreat, that you be not concerned on my account. I shall again see you, perhaps the 
+time is not far off. I am much distressed for . I sincerely love him, and I fear that we are separated for a long season. 
+Pray remember me to him most affectionately, and to my sister. 
+She too has been much wounded. The loss of her infant 
+must have greatly distressed her ; but perhaps her own expedience may have led her to prize life at its just value, and if 
+so, it is a blessing she may not think so estimable, as to wish it 
+for her child. Remember me most tenderly to all her little 
+infants, to Isaac particularly, who, I am told, has not forgotten me. Poor child, I hope it may be in my power to return his 
+attention by the protection of a parent. God forbid that he 
+should need it, or any of them. Remember me to Mrs Ashfield and her children, for I think she has more than one. 
+I wish her husband had acted more consistently ; but enough 
+of this. And now, my dear Madam, let me again entreat 
+you to make yourself happy. Discard the gloomy ideas, 
+which are too apt to crowd into the mind in your situation 
+and time of life. There is enough of sorrow in this world, 
+without looking into futurity for it. Hope the best. If it happens, well; if not, it will then be time enough to be afflicted, 
+and at any rate the intermediate space will be well filled. 
+Adieu. Yours, most affectionately. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

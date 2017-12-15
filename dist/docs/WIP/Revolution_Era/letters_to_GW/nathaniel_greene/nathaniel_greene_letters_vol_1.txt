@@ -1,0 +1,320 @@
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3000
+--LETTER-TLA--nag
+--DOC-AUTHOR-FIRST--Nathanael
+--DOC-AUTHOR-LAST--Greene
+--DOC-SOURCE--Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the End of His Presidency, Volume I., Jared Sparks, 1853
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="nag3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="24">24</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Inclosed you have a copy of the letter, in answer 
+to mine to Congress, relative to cartridges. As soon 
+as the cartridges come up, they shall be forwarded. 
+Colonel Biddle has wrote to Amboy for ninety thousand that are at that post. 
+</p><p>
+We have collected all the wagons in our power, 
+and sent over. Our people have had extreme hard 
+duty ; the common guards, common fatigue, and the 
+extraordinary guards and extraordinary fatigue, for 
+the removal of the stores, and forwarding the provisions, have kept every man on duty. 
+</p><p>
+<a href='/results.php?tla=isp' rel='colleague'>General Putnam</a> requested a party of men to re-enforce them at Mount Washington. I sent between 
+two and three hundred of Colonel Durkee's regiment. 
+Please to inform me whether your Excellency approves thereof. 
+</p><p>
+We shall get a sufficient quantity of provisions 
+over to-day for the garrison at Fort Washington. 
+<a href='/results.php?tla=thm' rel='colleague'>General Mifflin</a> thinks it not advisable to pull the 
+barracks down yet. lie has hopes of our army returning to that ground for winter-quarters. I think 
+this would be running too great a risk to leave them 
+standing in expectation of such an event. There being  several strong fortifications in and about King's 
+Bridge, if the enemy should throw in a thousand or 
+fifteen hundred men,, they could cut off our communication effectually; and, as the state of the barracks 
+is, they would find exceeding good cover for the 
+men. But if we were to take the barracks down, if 
+the boards were not removed, it would, in a great 
+measure, deprive them of that advantage. However, 
+I have not had it in my power to do either as yet. 
+</p><p>
+I have directed all the wagons that are on the 
+other side to be employed in picking up the scattered boards about the encampments. I believe, from 
+what I saw yesterday in riding over the grounds, 
+they will amount to several thousands. As soon as 
+we have got these together, I purpose to begin upon 
+the barracks. In the mean time, I should be glad 
+to know if your Excellency has any other orders to 
+give respecting the business. 
+</p><p>
+I have directed the Commissary and Quartermaster-General of this department to lay in provisions and 
+provender, upon the back road to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, for 
+twenty thousand men for three months. The principal magazine will be at Aquackanock. I shall fortify 
+it as soon as possible, and secure that post and the 
+pass at the bridge, which is now repaired and fit for 
+an army to pass over, with the baggage and artillery. 
+I rejoice to hear of the defeat of that vile traitor, 
+Major Rogers, and his party of Tories, though I am 
+exceeding sorry to hear it cost us so brave an officer 
+as Major Greene. I am, with great respect, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter><letter id="nag3001">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="31">31</a> <a rel="month origin" value="10">October</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+The enemy have possession of Fort Independence, 
+on the heights above King's Bridge. They made their 
+appearance the night before last. We had got every 
+thing of value away. The bridges are cut down, and 
+I gave Colonel Magaw orders to stop the road between the mountains. 
+</p><p>
+I should be glad to know your Excellency's mind 
+about holding all the ground from King's Bridge to 
+the lower lines. If we attempt to hold the ground, 
+the garrison must still be reenforced; but if the garrison is to draw into Mount Washington, and only 
+keep that, the number of troops on the Island is too 
+large. 
+</p><p>
+We are not able to determine, with any certainty, 
+whether those troops, that have taken post above 
+King's Bridge, are the same troops or not that were 
+in or about Haerlem. Several days past they clisap-peared from below, all at once, and some little time 
+after about fifty boats, full of men, were seen going 
+up towards Hunt's Point, and that evening the enemy 
+were discovered at Fort Independence. We suspect 
+them to be the same troops that were engaged in 
+the Sunday skirmish. 
+</p><p>
+Six officers, belonging to privateers that were taken 
+by the enemy, made their escape last night. They 
+inform me they were taken by the last fleet that 
+came in. They had about six thousand foreign troops 
+on board, one quarter of which had the black scurvy, 
+and died very fast. 
+</p><p>
+Seventy sail of transports and ships fell down to 
+Red Hook. They were bound for Rhode Island, and 
+had on board about three thousand troops. They also 
+inform, that after the Sunday action an officer of Distinction was brought into the city, badly wounded. 
+</p><p>
+The ships have come up the river to their station 
+again, a little below their lines. Several deserters 
+from Paulus Hook have come over. They all report 
+that General Howe is wounded, as did those from 
+the fleet. It appears to be a prevailing opinion in 
+the land and sea service. 
+</p><p>
+I forwarded your Excellency a return of troops at this post, and a copy of a plan for establishing magazines. I could wish to know your pleasure as to the magazines, as soon as possible. 
+</p><p>
+I shall reenforce Colonel Magaw with Colonel Rawlings's regiment, until I hear from your Excellency respecting the matter. 
+</p><p>
+The motions of the Grand Army will best deter 
+mine the propriety of endeavouring to hold all the 
+ground from King's Bridge to the lower lines. I shall 
+be as much on the Island of York as possible, so as 
+not to neglect the duties of my own department. 
+</p><p>
+I can learn no satisfactory account of the action 
+the other day. I am, with great respect, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter><letter id="nag3002">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="10">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+By an express from Major Clark, stationed at 
+Dobbs's Ferry, I find the enemy are encamped right 
+opposite, to the number of between three and four 
+thousand ; and the Major adds, from their disposition 
+and search after boats, they design to cross the river. 
+A frigate and two transports or provision-ships passed the chevaux-de-frise night before last. They were 
+prodigiously shattered, from the fire of our cannon. 
+The same evening, Colonel Tupper attempted passing  the ships with the petiaugres, loaded with flour. 
+The enemy manned several barges, two tenders, and 
+a row-galley, and attacked them. Our people ran 
+the petiaugres ashore, and landed and defended them. 
+The enemy attempted to land several times, but 
+were repulsed. The fire lasted about an hour and a 
+half, and the enemy moved off. Colonel Tupper still 
+thinks he can transport the provision in flat-bottomed 
+boats. A second attempt shall be speedily made. 
+We lost one man, mortally wounded. 
+</p><p>
+General Mercer writes me the Virginia troops are coming on. They are now at <a href='/results.php?city=trenton' rel='city'>Trenton</a>. He proposes an attack on Staten Island; but the motions of the enemy are such I think it necessary for them to  come forward as fast as possible. On York Island, 
+the enemy have taken possession of the hill, next to Spiten Devil. I think they will not be able to 
+penetrate any farther. There appears to be about fifteen hundred of them. From the enemy's motions, 
+I should be apt to suspect they were retreating from your army, or at least altering their operations. Mr. Lovell, who is at last enlarged from his confinement, 
+reports that Colonel Allen, his fellow prisoner, was informed that transports were getting in readiness to sail, at a moment's warning, sufficient to transport fifteen thousand men. 
+</p><p>
+The officers of Colonel Hand's regiment are here, with enlisting orders. The officers of the Pennsylvania regiments think it a grievance (such of them 
+as are commissioned for the new establishment), that officers of other regiments should have the privilege of enlisting their men before they get orders. I 
+have stopped it until I learn your Excellency's pleasure. Governor Ewing is very much opposed to it. 
+You will please to favor me with a line on the subject, I am, with the greatest respect, 
+</p><p>
+Your Excellency's obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter><letter id="nag3003">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort lee' rel='city origin'>Fort Lee</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Your Excellency's letter of the 8th, this moment came to hand. I shall forward the letter to General Stevens by express. The stores at Dobbs's Ferry I 
+had just given orders to the Quartermaster to prepare wagons to remove. I think the enemy will 
+meet with some difficulty in crossing the river at Dobbs's Ferry. However, it is not best to trust too much to the expected difficulties they may meet there. 
+</p><p>
+By the letter that will accompany this, and was to 
+have gone last night by <a href='/results.php?tla=thm' rel='colleague'>Major Mifflin</a>, your Excellency will see what measures I took before your favor 
+came to hand. The passing of the ships up the river 
+is, to be sure, a full proof of the insufficiency of the 
+obstructions in the river to stop the ships from going  up ; but that garrison employs double the number of men to invest it that we have to occupy it. 
+They must keep troops at King's Bridge, to prevent 
+a communication with the country; and they dare 
+not leave a very small number, for fear our people 
+should attack them. 
+</p><p>
+Upon the whole, I cannot help thinking the garrison is of advantage; and I cannot conceive the garrison to be in any great danger. The men can be 
+brought off at any time, but the stores may not be 
+so easily removed; yet I think they can be got off, 
+in spite of them, if matters grow desperate. This 
+post is of no importance only in conjunction with 
+Mount Washington. I was over there last evening. 
+The enemy seem to be disposing matters to besiege 
+the place ; but Colonel Morgan thinks it will take 
+them till December expires before they can carry it. 
+If the enemy do not find it an object of importance, 
+they will not trouble themselves about it; if they 
+do, it is open proof they feel an injury from our 
+possessing it. Our giving it up will open a free 
+communication with the country, by the way of 
+King's Bridge, that must be a great advantage to 
+them and injury to us. 
+If the enemy cross the river, I shall follow your 
+Excellency's advice respecting the cattle and -forage. 
+Those measures, however cruel in appearance, were 
+ever my maxims of war, in the defence of a country ; in attacking, they would be very improper. 
+</p><p>
+By this express, several packets from Congress are 
+forwarded to you. 
+</p><p>
+I shall collect our whole strength, and watch the 
+motions of the enemy; and pursue such measures, 
+for the future, as circumstances render necessary. 
+</p><p>
+As I have your Excellency's permission, I shall 
+order General Stephen on as far as Aquackanock, at 
+least. That is an important pass. I am fortifying it 
+as fast as possible. 
+</p><p>
+I am, dear Sir, your most obedient, 
+</p><p>
+And very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter><letter id="nag3004">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=long island' rel='city origin'>Long Island</a>, <a rel="day origin" value="21">21</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+From the last accounts from Great Britain, it appears absolutely necessary that there should be an 
+augmentation of the American forces, in consequence 
+of which I suppose there will be several promotions. 
+As I have no desire of quitting the service, I hope 
+the Congress will take no measure that will lay me 
+under the disagreeable necessity of doing it. I have 
+ever found myself exceeding happy under your Excellency's command. I wish my ability to deserve 
+was equal to my inclination to merit. How far I 
+have succeeded in my endeavours, I submit to your 
+Excellency's better judgment. I hope I shall never 
+be more fond of promotion than studious to merit it. 
+Modesty will ever forbid me to apply to that House 
+for any favors. I consider myself immediately under your Excellency's protection, and look up to you for 
+justice. Every man feels himself wounded, where he 
+finds himself neglected, and that in proportion as he 
+is conscious of endeavouring to merit attention. I 
+shall be satisfied with any measure that the Congress 
+shall take, that has not a direct tendency to degrade 
+me in the public estimation. A measure of that 
+sort would sink me in my own esteem, and render 
+me spiritless and uneasy in my situation, and consequently unfit for the service. 
+</p><p>
+I wish for nothing more than justice, either upon 
+principle of merit or rank, and will at all times rest 
+satisfied when your Excellency tells me I ought to 
+be. I feel myself strongly attached to the cause, to 
+the Continental Congress, and to your Excellency's 
+person and I should consider it a great misfortune 
+to be deprived of an opportunity of taking an active 
+part in the support of the one, and the promotion of 
+the other. 
+</p><p>
+But should any thing take place contrary to my 
+wishes, which might furnish me with sufficient reason 
+of quitting the service, yet I will not do it, until the 
+danger and difficulties appear less than at present. 
+Believe me to be, with the highest respect, your Excellency's 
+</p><p>
+Most obedient and humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter><letter id="nag3005">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp on <a href='/results.php?city=long island' rel='city origin'>Long Island</a>, <a rel="day origin" value="25">25</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+I have just completed a brigade return for the vacancies in the different regiments. My brigade is so dispersed that it is difficult getting returns seasonably. I should have made this return yesterday, but could not get Colonel Hand's until last evening. 
+</p><p>
+The outguards report nothing worthy your Excellency's notice this morning. 
+</p><p>
+I am so confined, writing passes, &c., that it is impossible for me to attend to the duties of the day, which, in many instances, prejudices the service. Such 
+a confined situation leaves one no opportunity of viewing things for themselves. It is recommended, by one of the greatest Generals of the age, not only 
+to issue orders, but to see to the execution ; for the army being composed of men of indolence, if the commander is not attentive to every individual in the 
+different departments, the machine becomes dislocated, and the progress of business retarded. 
+</p><p>
+The science or art of war requires a freedom of 
+thought, and leisure to reflect upon the various incidents that daily occur, which cannot be had where 
+the whole of one's time is engrossed in clerical employments. The time devoted to this employment is 
+not the only injury I feel ; but it confines my thoughts as well as engrosses my time. It is like a merchandise of small wares. 
+</p><p>
+I must beg leave to recommend to your Excellency's consideration the appointing an officer to write and sign the necessary passes. The person I should 
+wish to be appointed is Lieutenant Bio d get. If it was put in general orders, that passes signed by him should be deemed authentic, as if signed by me, it 
+would leave me at liberty to pursue the more important employments of my station. 
+</p><p>
+I hope your Excellency will not think this application results from a lazy habit, or a desire to free myself from business. Far from it. I am never more 
+happy than when I am honorably or usefully employed. If your Excellency thinks I can promote the service as much in this employment as in any other, 
+</p><p>
+I shall cheerfully execute the business, without the least murmur. 
+</p><p>
+I am, with all due respect, your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">NATHANAEL GREENE</a>. 
+</p>
+</letter>

@@ -1,0 +1,73 @@
+<letter id="jht3009">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=lebanon' rel='city origin'>Lebanon</a>, <a rel="day origin" value="4">4</a> <a rel="month origin" value="7">July</a>, <a href="http://www.familytales.org/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+The retreat of the Northern army, and its present 
+situation, have spread a general alarm. By intelligence from Major-<a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, received last-evening, I have reason to conclude that they are 
+now at Crown Point and <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, in a weak 
+state, and under the necessity of an immediate re-enforcement, to enable them to make a stand, and 
+prevent the enemy from passing the Lake and penetrating into the country. The prevalence of the 
+smallpox among them is every way unhappy. Our 
+people, in general, have not had that distemper. Fear 
+of the infection operates strongly to prevent soldiers 
+from engaging in the service, and the battalions ordered to be raised in this Colony fill up slowly; and 
+though no measures be taken to remove the impediment, may not the army be soon freed from that infection ? Can the reinforcements be kept separate 
+from the infected ? Or may not a detachment be 
+made from the troops under your command and the 
+militia raising in the several Colonies and ordered to 
+<a href='/results.php?city=new york' rel='city'>New York</a>, of such men as have had the smallpox, 
+to be replaced by the troops raising for the Northern 
+Department? Could any expedient be fallen upon, 
+that would afford probable hopes that this infection 
+may be avoided, I believe our battalions would soon 
+join the Northern army. I shall omit nothing in my 
+power to expedite them. 
+</p><p>
+The retreat of the army from Canada exposes the 
+Northern frontiers of <a href='/results.php?city=new york' rel='city'>New York</a> and New Hampshire 
+to the ravages of the Indians, who will doubtless be 
+spirited up to fall upon them. Some of the settlements on Onion River, I am informed, are breaking 
+up and removing, and the whole filled with the 
+most disquieting apprehensions. Some powder and 
+lead, upon application, have been supplied them from 
+this Colony ; but the settlers there, from their infant 
+state, and consequent poverty, are unable to devote themselves to the defence of the frontiers, unless they should be enabled to hire laborers to carry on 
+the business of their farms in their absence. I 
+could therefore wish, that your Excellency might 
+think proper to recommend it to the Continental 
+Congress, to order a battalion to be raised and stationed there, for the defence of those settlements. It 
+would, I trust, be immediately filled up with a hardy 
+race of men in that quarter, well adapted to repel 
+the attacks of the savages, and ready to join and 
+support the Northern army, upon occasion, and at 
+all times may scour the woods, and furnish intelligence of the enemy's motions. 
+</p><p>
+If those settlers are driven back, besides the loss 
+of their property, a much heavier expense will fall 
+upon some of the Colonies for the support of their 
+families, than the charges arising from the raising 
+and maintaining a battalion of Continental troops ; and 
+we shall still have a frontier to defend. 
+</p><p>
+The anxiety of the friends and relations of many, 
+if not most, of those settlers who emigrated from this 
+Colony, and the importance of the matter, will, I 
+trust, be my sufficient apology for wishing to engage 
+your influence with Congress, to support the motion 
+I judge advisable and shall make, to have a battalion 
+raised out of, and stationed on, those frontiers. 
+</p><p>
+By a letter from <a href='/results.php?tla=pjs' rel='colleague'>General Schuyler</a>, of the 1st in 
+stant, received last evening, I am advised that Generals Schuyler, Gates, and Arnold, were to set out on 
+Tuesday morning. I trust they are by this time at 
+the end of their journey, and hope their presence 
+may have a happy effect towards retrieving affairs in 
+that quarter. I am, with great truth and regard, Sir, 
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jht" rel="me">JONATHAN TRUMBULL</a>. 
+</p>
+</letter>

@@ -1,0 +1,100 @@
+<letter id="laf3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, near <a href='/results.php?city=bottoms creek' rel='city origin'>Bottom's Creek</a>, 	<a rel='day origin' value='4'>4</a> <a rel="month origin" value="5">May</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I request you will receive my affectionate acknowledgments for your kind letters. Every mark of 
+friendship I receive from you adds to my happiness, 
+as I love you with all the sincerity and warmth of 
+my heart; and the sentiment I feel for you goes to 
+the very extent of my affections. Inclosed, I send 
+you, my dear General, two copies of letters to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>, which I also have sent to Congress for 
+their information. You will also find copies of the 
+strange letters I have received from General Phillips, 
+and the answers, which, if he does not behave better, 
+will break off our correspondence. 
+</p><p>
+The leaving of my artillery appears a strange 
+whim. But had I waited for it, <a href='/results.php?city=richmond' rel='city'>Richmond</a> was lost, 
+and Major Galvan, who has exerted himself to the 
+utmost, cannot be with us under two days, as he 
+could never obtain or seize horses for the artillery 
+and ammunition wagons. It is not without trouble 
+I have made this rapid march. General Phillips has 
+expressed to an officer, on flag, the astonishment he 
+felt at our celerity; and when, on the 30th, as he 
+was going to give the signal to attack, he reconnoitred our position, Mr. Osburn, who was with him, 
+says that he flew into a violent passion, and swore 
+vengeance against me and the corps I had brought 
+with me. 
+</p><p>
+I am, however, uneasy, my dear General, and do 
+not know what the public will think of our conduct. 
+The little dependence we put upon their militia, I 
+cannot expose in an official letter. I cannot say that 
+no boat, no wagons, no intelligence, not one spy 
+could be obtained ; that if once I had been manoeuvring with Phillips, he had every advantage over me ; 
+that a defeat would have scattered the militia, lost 
+the few arms we have, and knocked down this handful of Continental troops. A great deal of mischief 
+had already been done. I did not know but that the 
+enemy meant to establish a post. Under these circumstances, I thought it best to fight on none but 
+my own grounds, and to defeat the main and most 
+valuable object of the enemy. Had I gone on the 
+other side, the enemy would have given me the slip, 
+and taken <a href='/results.php?city=richmond' rel='city'>Richmond</a>, leaving nothing to me but the 
+reputation of a rash, inexperienced young man. Our 
+stores could not be removed. 
+</p><p>
+No orders from <a href='/results.php?tla=nag' rel='colleague'>General Greene</a> have as yet come 
+to me. I cannot conceive the reason of his delay in 
+answering my letters. In the meanwhile, Phillips is 
+my object ; and if, with a thousand men, I can be 
+opposed to three thousand in this State, I think I am 
+useful to <a href='/results.php?tla=nag' rel='colleague'>General Greene</a>. In a former letter, he 
+tells me his object is to divide the enemy; and having no orders, I must be regulated by his opinion. I 
+wish he would call for the Pennsylvanians, and leave 
+me here. The enemy are gone down the river. I 
+have detached some militia to Hood's, where I mean 
+to make a fort. Colonel Innes, with another corps of 
+militia, is gone towards <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>. His orders are, in case the enemy land there, to annoy them, 
+and in case they mean to establish a post, he is to 
+disturb them until I arrive. This position is sixteen 
+miles from <a href='/results.php?city=richmond' rel='city'>Richmond</a>, forty-two from <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, 
+sixty from <a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a>. I have sent an officer to 
+Point Comfort, and established a chain of expresses 
+to know if they appear to turn towards the Potomac. 
+Should it be the case, <a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a> will have my 
+attention. Having missed <a href='/results.php?city=richmond' rel='city'>Richmond</a>, Mr. Hunter's 
+Works, at <a href='/results.php?city=fredericksburg' rel='city'>Fredericksburg</a>, must be their next object, 
+as they are the only support of our operations at the 
+southward. 
+</p><p>
+Your first letters, my dear General, will perhaps 
+tell me something more about your coming this way. 
+How happy I should be to see you, I hope I need 
+not to express. As you are pleased to give me the 
+choice, I shall frankly tell my wishes. If you cooperate with the French against the place you know/'' 
+I wish to be at head-quarters. If something is cooperated in Virginia, I shall find myself very happily 
+situated. For the present, in case my detachment 
+remains in this State, I wish not to leave it, as I 
+have a separate and active command, though it does 
+not promise great glory. But, as you gave me leave 
+to do it, I shall in a few days write to you more 
+particularly on my private concerns. It is not only 
+on account of my own situation, that I wish the 
+French fleet may come into the Bay. Should they 
+come, even without troops, it is ten to one that they 
+will block up Phillips in some of the rivers, and 
+then I answer he is ruined. Had I but ships, my 
+situation would be the most agreeable in the world. 
+</p><p>
+Adieu, my dear General. You will make me happy to write me sometimes. With the highest respect, 
+and most tender affection, 
+</p><p>
+I have the honor to be, yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

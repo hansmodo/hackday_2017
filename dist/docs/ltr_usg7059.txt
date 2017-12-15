@@ -1,0 +1,33 @@
+<letter id="usg7059">
+<recipient first="Henry" last="Halleck" type="individual"/>
+<p>
+[<a href='/results.php?city=nashville' rel='city origin'>NASHVILLE</a>, <a rel='day origin' value='12'>12th</a>, <a rel='month origin' value='2'>February</a> <a href='/results.php?year=1864' rel="origin">1864</a>]
+</p><p>
+MAJOR-GENERAL HALLECK, 
+</p><p>
+General-in-Chief, Washington: 
+</p><p>
+GENERAL, I have got General Thomas ready to move a force of about fourteen thousand infantry into East Tennessee to aid the 
+force there in expelling <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> from the State. He would have started on Monday night if I had not revoked the order. 
+My reasons for doing this are these : General Foster, who is now here (or left this morning), says that our possession of the portion 
+of East Tennessee is perfectly secure against all danger. The condition of the people within the rebel lines cannot be improved 
+now after losing all they had. <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a>, where he is, makes more secure other parts of our possessions. Our men, from scanty 
+clothing and short rations, are not in good condition for an advance. There are but very few animals in East Tennessee in 
+condition to move artillery or other stores. If we move against <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> with an overwhelming force he will simply fall back 
+towards Virginia until he can be reinforced or take up an impregnable position. The country being exhausted, all our sup 
+plies will have to be carried from Knoxville the whole distance advanced. We would be obliged to advance rapidly and return 
+soon whether the object of the expedition was accomplished or not. <a href='/results.php?tla=jml' rel='colleague adversary met'>Longstreet</a> could return with impunity on the heels of our 
+returning column, at least as far down the valley as he can supply himself from the road in his rear. <a href='/results.php?tla=jms' rel='co-worker'>Schofield</a> telegraphs to the 
+same effect. All these seem to be good reasons for abandoning the movement, and I have therefore suspended it. Now that our 
+men are ready for an advance, however, I have directed it to be made on Dalton, and hope to get possession of that place and hold 
+it as a step towards a spring campaign. Our troops in East Tennessee are now clothed ; rations are also accumulating. When 
+Foster left most of the troops had ten days supplies, with five hundred barrels of flour and forty days meat in store, and the 
+quantity increasing daily. 
+</p><p>
+I am, general, very respectfully, your obedient servant, 
+</p><p>
+U. S. GRANT, 
+</p><p>
+Major- General. 
+</p>
+</letter>

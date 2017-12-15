@@ -1,0 +1,11 @@
+<letter id="mbc7603">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a rel='month origin' value='2'>February</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1862' rel="origin">1862</a>. Had an appetite for my dainty breakfast. Always breakfast in 
+bed now. But then, my Mercury contained such bad news. That is an appetizing style of matutinal news 
+paper. Fort Donelson has fallen, but no men fell with it. It is prisoners for them that we can not spare, or prisoners for us that we may not be able to feed : that is so much to be " foref ended," as Keitt says. They lost six thousand, 
+we two thousand ; I grudge that proportion. In vain, alas ! ye gallant few few, but undismayed. Again, they make a 
+stand. We have Buckner, <a href='/results.php?tla=pgb' rel='met'>Beauregard</a>, and Albert Sidney Johnston. With such leaders and God's help we may be 
+saved from the hated Yankees ; who knows ? 
+</p>
+</letter>

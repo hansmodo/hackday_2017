@@ -1,0 +1,17 @@
+<letter id="mbc7698">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. The President walked home with me from church (I was to dine with <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>). He walked 
+so fast I had no breath to talk ; so I was a good listener for once. The truth is I am too much afraid of him to say very 
+much in his presence. We had such a nice dinner. After dinner <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> came for a ride with the President. 
+</p><p>
+<a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a>, of Virginia, walked home with me. He made himself utterly agreeable by dwelling on his friendship and admiration of my husband. He said it was high time <a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> should promote him, and that he had told 
+<a href='/results.php?tla=jed' rel='acquaintance met'>Mr. Davis</a> his opinion on that subject to-day. 
+</p><p>
+Tuesday, Barny Heyward went with me to the President's reception, and from there to a ball at the McFarlands . Breckinridge alone of the generals went with us. 
+The others went to a supper given by Mr. Clay, of Alabama. I had a long talk with Mr. Ould, Mr. Benjamin, and 
+<a href='/results.php?tla=rmh' rel='acquaintance met'>Mr. Hunter</a>. These men speak out their thoughts plainly enough. What they said, means " We are rattling down 
+hill, and nobody to put on the brakes." I wore my black velvet, diamonds, and point lace. They are borrowed for 
+all " theatricals," but I wear them whenever they are at home. 
+</p>
+</letter>

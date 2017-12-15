@@ -1,0 +1,25 @@
+<letter id="laf4301">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, Tuesday evening, <a rel='day origin' value='10'>10</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1784' rel="origin">1784</a>. 
+</p><p>
+My dear General,
+</p><p>
+I have already had the pleasure to acquaint you with my arrival in America, and am endeavouring to 
+reach <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a> as soon as possible. My first 
+plan was only to stay here two days; but the affectionate reception I have met with in this city, and 
+the returning some compliments to the Assembly, render it necessary to stay one day longer. On Friday, I will be at the Head of Elk ; the next day, at 
+<a href='/results.php?city=baltimore' rel='city'>Baltimore</a> ; and by Sunday, or Monday, I hope at last to be blessed with a sight of my dear General. 
+There is no rest for me until I go to <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>. I long for the pleasure to embrace you, my dear General; and the happiness of being once more with 
+you will be so great, that no words can ever express it. Adieu, my dear General ; in a few days I shall 
+be at <a href='/results.php?city=mount vernon' rel='city'>Mount Vernon</a>, and I do already feel delighted 
+with so charming a prospect. My best respects wait upon Mrs. Washington; and, not long after you receive this, I will tell you myself how respectfully and 
+affectionately I have the honor to be, my dear General, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="/results.php?tla=laf" rel="me">Lafayette</a>. 
+</p><p>
+P. S. In case your affairs call you to the Springs, I beg leave to go there after you, or to accompany you in your journey. 
+</p>
+</letter>

@@ -1,0 +1,75 @@
+<letter id="gom4672">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='22'>22d</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My last was of the thirteenth of last month. This will ac 
+company a triplicate of what I had the honor to write on the 
+seventh of August, also some copies of letters to the Ministers. 
+By the bye, I shall cease to send you copies of my various 
+applications in particular cases, for they are so numerous, that 
+they will cost you more in postage than they are worth. I 
+suppose Mr Pinckney has his hands full of similar business, 
+for I learn, now and then, that the British privateers make as 
+free with our vessels as the French have done. 
+</p><p>
+I understand that it is still in contemplation to repeal the decree I complained of, and that, in the mean time, it has not 
+been transmitted to the tribunals. We shall see, in effect, 
+that this decree can do very little harm, because the fleets of 
+this country are confined by those of the enemy, and the privateers by a decree of the Convention. 
+</p><p>
+The exchange, during the last month, experienced great 
+shocks, owing to the violent measures pursued by the government to support it. On the whole, they have kept it at about 
+two and a half to three for one. But merchandizes have risen 
+rapidly in price, and must continue to rise ; among other reasons, which will easily suggest themselves to your mind, be 
+cause the compression on the paper mass in one place must 
+force it out in another. Even lands feel the effect, although 
+the market has been for two years, at least, greatly overstocked with that article. 
+</p><p>
+The paralyzing of apart of the Assignats had, as I told you, 
+an effect which could be but momentary. A further decree 
+was therefore passed against them, whose effect also diminished in the first moment. To prevent agiotage, the Effets 
+publics were ordered to be recorded, and the India Company's property was seized ; and as this was not sufficient, the 
+Caisse d Escompte was abolished. Still the immense amount 
+raised by political gas, could not but bring down with it the 
+supporting balloons ; wherefore, at last the bankers and brokers were laid hold of. I am told that amid the menaces 
+against those who may remit to foreign countries, agents of the 
+government offered some bills cheap, and that the purchasers 
+were imprisoned as Gens suspects. However, experience 
+shows that evils inherent in the nature of things cannot be pre 
+vented, otherwise than by destroying the things themselves. 
+By the law, it is death to sell or buy specie, and yet specie is 
+publicly bought and sold every day. 
+</p><p>
+You have, I hope, received the new constitution, which you 
+see is suspended, until the revolution shall be finished. You 
+will have seen also, that the party of the Girondes, or Brissotins, is quite down ; but as yet none of them have been executed. Probably the first great misfortune will call them from 
+their dungeons as expiatory victims. I am not possessed of the 
+proofs which exist against them, and it is, you know, a maxim 
+of our law, that every man is presumed to be innocent, untft 
+his guilt is proved. If one may judge from the infinite precautions taken, one would conclude that the very great majority 
+in this country is become royalist. I think I have already 
+mentioned my conviction, that there cannot long exist three 
+parties. It is said that the Brissotins, as soon as their adversaries gained the upper hand, enlisted themselves, in secret, 
+under the royal banner ; but I think strong proof should be 
+required before that fact is admitted. 
+</p><p>
+I do not mention to you the military events, because you 
+will learn them fully from the different gazettes, and because I 
+do not think military events decide so much as is generally 
+believed. If the success be nearly balanced, France is so far 
+victorious. But her resources are wearing away very fast, and 
+the period seems to approach when the state of her finances 
+will be of little moment, because the needful things will no 
+longer exist ; and, of course, they can neither be bought with 
+money, nor seized by force, nor obtained through solicitation. 
+Will the allied armies push on to Paris ? What would be 
+the effect of their appearance? Two important questions, 
+To answer the first would be presumption, and to answer the 
+second would look like madness. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

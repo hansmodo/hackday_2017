@@ -1,0 +1,45 @@
+<letter id="mbc7665">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=montgomery' rel='city origin'>Montgomery</a>, <a rel='month origin' value='7'>July</a> <a rel='day origin' value='30'>30th</a> [<a href='/results.php?year=1863' rel="origin">1863</a>]. Coming on here from Portland there was no stateroom for me. My mother alone had 
+one. My aunt and I sat nodding in armchairs, for the floors and sofas were covered with sleepers, too. On the 
+floor that night, so hot that even a little covering of clothes 
+could not be borne, lay a motley crew. Black, white, and 
+yellow disported themselves in promiscuous array. Children and their nurses, bared to the view, were wrapped 
+in the profoundest slumber. No caste prejudices were here. Neither Garrison, John Brown, nor Gerrit Smith ever 
+dreamed of equality more untrammeled. A crow-black, enormously fat negro man waddled in every now and then 
+to look after the lamps. The atmosphere of that cabin was stifling, and the sight of those figures on the floor did not 
+make it more tolerable. So we soon escaped and sat out near the guards. 
+</p><p>
+The next day was the very hottest I have ever known. 
+One supreme consolation was the watermelons, the very finest, and the ice. A very handsome woman, whom't did not 
+know, rehearsed all our disasters in the field. And then, as if she held me responsible, she faced me furiously, " And 
+where are our big men? " " Whom do you mean? " I mean our leaders, the men we have a right to look to to save 
+us. They got us into this scrape. Let them get us out of it. Where are our big men ? : I sympathized with her and 
+understood her, but I answered lightly, " I do not know the exact size you want them." 
+</p><p>
+Here in Montgomery, we have been so hospitably received. Ye gods ! how those women talked ! and all at the 
+same time ! They put me under the care of General Dick Taylor's brother-in-law, a Mr. Gordon, who married one 
+of the Beranges. A very pleasant arrangement it was for me. He was kind and attentive and vastly agreeable with 
+his New Orleans anecdotes. On the first of last January all his servants left him but four. To these faithful few he 
+gave free papers at once, that they might lose naught by loyalty should the Confederates come into authority once 
+more. He paid high wages and things worked smoothly for some weeks. One day his wife saw some Yankee officers 7 
+cards on a table, and said to her maid, " I did not know any of these people had called ? : 
+</p><p>
+Oh, Missis ! the maid replied, "they come to see me, and I have been waiting to tell you. It is too hard ! I can 
+not do it! I can not dance with those nice gentlemen at night at our Union Balls and then come here and be your 
+servant the next day. I can't ! ; " So, " said Mr. Gordon, " freedom must be followed by fraternity and equality." 
+One by one the faithful few slipped away and- the family were left to their own devices. Why not ? 
+</p><p>
+When General Dick Taylor's place was sacked his negroes moved down to Algiers, a village near New Orleans. 
+An old woman came to Mr. Gordon to say that these negroes wanted him to get word to " Mars Dick " that they 
+were dying of disease and starvation ; thirty had died that 
+day. Dick Taylor's help being out of the question, Mr. Gordon applied to a Federal officer. He found this one not 
+a philanthropist, but a cynic, who said : All right ; it is 
+working out as I expected. Improve negroes and Indians off the continent. Their strong men we put in the army. 
+The rest will disappear" 
+</p><p>
+<a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> can sulk. As he is sent West, he says, "They may give <a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> the army <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a> trained." 
+<a href='/results.php?tla=rel' rel='acquaintance met'>Lee</a> is reaping where he sowed, he thinks, but then he was backing straight through Richmond when they stopped his retreating. 
+</p>
+</letter>

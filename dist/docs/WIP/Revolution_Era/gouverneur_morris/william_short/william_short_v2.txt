@@ -1,0 +1,134 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.9qL79E on line 308
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--4550
+--LETTER-TLA--wis
+--DOC-AUTHOR-FIRST--William
+--DOC-AUTHOR-LAST--Short
+--DOC-SOURCE--The Life of Gouverneur Morris With Selections from His Correspondence and Miscellaneous Papers Vol. II., Jared Sparks, 1832
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="wis4550">
+<recipient first="Gouverneur" last="Morris" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="9">September</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+The last letter which I had the pleasure of receiving from 
+you was of the tenth of August ; it was only the beginning of a 
+letter, which some company coming in obliged you to cut short. 
+I was in hopes you would have sent me the continuation of it ; 
+for I have great pleasure in receiving your sentiments on the 
+persons and things which are here before me. Although my 
+opinion of them is not always the same with yours, still you 
+have great authorities and much experience in your favor, and 
+besides support what you say with so much ingenuity and eloquence, as must always instruct and please, and often convince ; 
+and this you know is of all things the most difficult, as every 
+one seems to consider his opinion as a property which is the 
+last he will relinquish. 
+</p><p>
+The present feature of affairs here is such, as confirms your 
+friends in the opinion they had conceived of your judgment in 
+such matters. I see often some of them, who say you not only 
+predicted what was to happen, but how ; they wish to consult 
+you now, that you might tell them when the bankruptcy will 
+arrive, and whether there will be a civil war, and what will be 
+the event of it. There is no danger in talking of you in this 
+manner as you are not here, but if you were within the jurisdiction of the Comite des Recherches, I should be afraid of 
+their making you a nocturnal visit. These visits have lately 
+become fashionable ; one of the most remarkable is one which 
+has just taken place. A washerman found a letter in the dirty 
+pockets of one of his fair customers, which had the appearance to 
+him, as he did not know how to read, of a counter-revolution ; 
+by means of the district this came to the knowledge of the 
+Comite des Recherches. The lady in question was called be 
+fore them late at night, and underwent an interrogatory of some 
+hours. Her papers were examined, but nothing found. The 
+Comite des Recherches made their report to the Assembly, in 
+formed them, as a proof of their vigilance and zeal, that 
+they had passed the whole night without sleeping, were applauded by the Assembly, and the female was ordered not to 
+leave Paris. And all this is considered as the sure and certain road to the establishment of a free government, and 
+particularly to the securing of personal liberty. 
+</p><p>
+There is a plan for paper money now before the Assembly. 
+The Assembly is divided in their opinion, and so are the commercial towns ; but the people who fill the galleries, and who surround 
+the Assembly-house often in crowds, seem to be unanimous in 
+favor of it. Mirabeau undertakes to prove that it is not paper 
+money. It is true that it is a paper, which you may force your 
+creditor to receive, and which is to have all the legal proper 
+ties of money, but still he swears and so do many others, that it 
+is not paper money, because it has land for its pledge. Some 
+insist on calling it papier-terre, and the idea was near passing. 
+It has been lately decided, that the final vote shall not be taken 
+on it before the 17th. My opinion is, that should the two mill 
+ions which they talk of be issued, for the purpose of immediately paying off the dette exigible, a great part of it, instead of 
+being thus applied, will be diverted to the daily exigencies of 
+government, and for which it seems evident a sufficient quantity of taxes will not be collected. You will readily believe, that 
+a government like this will not adopt the harsh business of forcing taxes, so long as they can make use of that gentle means 
+of striking paper to satisfy their demands. This argument, 
+however, has no force with the members of the Assembly ; they 
+all advocate or oppose the system on other principles ; the 
+objection of so great an emission, changing the proportion 
+of prices of all articles of commerce, seems not lo have its full 
+weight, though it is used by some. So much is written 
+and said for and against this system, that it is impossible to 
+discover what will be the decision. I think, however, that if 
+the vote of the Assembly should be taken independent of any 
+external influence, it would be rejected. 
+</p><p>
+An opinion begins now to prevail here, that the Assembly 
+are not very desirous of putting an end to their session. You 
+know they have determined that their powers continue until 
+the constitution is finished. You know also, that they are 
+inviolable for criminal matters, though not for debts (by their 
+decrees.) You know that they concentre in their hands 
+all the powers of government and exercise them daily. To 
+an impartial person this certainly presents the idea of a very 
+aristocratical and tyrannical body. It is observable that public 
+inquiry begins to examine more attentively the nature of their 
+powers; so that if they make no further progress in the constitution, than they have done for some time, it would not be at 
+all surprising if public opinion should soon be as much against, 
+as it has been for them. 
+</p><p>
+You will have heard of M. Necker's retreat from the helm. 
+It produced no effect either on the public mind or public 
+funds. The Assembly received intelligence yesterday of his 
+being stopped on his way to Switzerland by a municipality, 
+although he had a passport from the King and from the mayor of 
+Paris. He and the municipality both wrote to the Assembly ; 
+he, to inform them of his being stopped and to desire a per 
+mission to continue his route ; the municipality, to inform 
+them that as they had determined that ministers should be responsible, and as M. Necker's passport authorised his quitting 
+the kingdom, which would destroy the responsibility, they had 
+thought proper to stop him. The Assembly have directed 
+their President to write to the municipality to give him his 
+liberty. Some members were for voting their thanks to the municipality. 
+</p><p>
+We have intelligence here from <a href='/results.php?city=new york' rel='city'>New York</a> as late as the 
+20th of July. You have probably later. You will have been 
+informed of the removal of Congress. Would it not have 
+been as well to have remained the ten years at <a href='/results.php?city=new york' rel='city'>New York</a>, 
+where they were well settled ? I have seen the bill passed 
+by the Senate for a foreign loan, and for assuming a certain 
+sum of state debt. I am not acquainted with the resources 
+which Congress have in view, but I should fear those of which 
+we know as yet would not be sufficient to fulfil the engagements taken, and I fear still more that a failure of an engagement taken by Congress at present will have a bad effect on 
+future engagements. Still I have much confidence in their 
+wisdom, and suppose they have a certainty of calling to their 
+aid new resources. Their designs as to foreign appointments 
+are enveloped in as much secrecy, as those of Mr Pitt's 
+armaments. I suppose a very short time will give us some certain information on this subject, or at least some data to rea 
+son on. They talk of two ministers and two Charges des Affaires. The salary of the former remains the same ; the 
+latter they have augmented fifty per cent. The proportion is 
+certainly not well preserved, agreeably to the ideas of the 
+courts of Europe. I will thank you, if you have any farther 
+or later information of the proceedings of Congress, to inform 
+me of them. Be assured of the sentiments of attachment 
+with which I am yours, &c. 
+</p><p>
+<a href="/results.php?tla=wis" rel="me">WILLIAM SHORT</a>. 
+</p>
+</letter>

@@ -1,0 +1,44 @@
+<letter id="jod3547">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel="day origin" value='28'>28</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I DARE say there is not a lady in America treated 
+with a more curious dish of politics than is contained 
+in the enclosed papers. You may show them to dis 
+creet friends, but by no means let them go out of your 
+hands or be copied. Preserve them in safety against 
+accidents. 
+</p><p>
+I am afraid we shall have another campaign ; but do 
+not. despair, however, of a peace this winter. America has nothing to do but to be temperate, patient, 
+and faithful to her ally. This is as clearly her duty 
+as it is her interest. She could not trust England if 
+her honor was not engaged to France, which it is 
+most certainly ; and when this is said, all is said. 
+Whether there should be peace or war, I shall come 
+home in the summer. As soon as I shall receive 
+from Congress their acceptance of the resignation of 
+all my employments, which I have transmitted many 
+ways, I shall embark, and you may depend upon a 
+good domestic husband for the remainder of my life, 
+if it is the will of heaven that I should once more 
+meet you. My promises are not lightly made with 
+any body. I have never broken one made to you, 
+and I will not begin at this time of life. 
+</p><p>
+My children, I hope, will once at length discover 
+that they have a father, who is not unmindful of their 
+welfare. They have had too much reason to think 
+themselves forgotten, although I know that an anxiety 
+for their happiness has corroded me every day of my 
+life. 
+</p><p>
+With a tenderness which words cannot express, I 
+am theirs and yours forever, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. ADAMS</a>.  
+</p>
+</letter>

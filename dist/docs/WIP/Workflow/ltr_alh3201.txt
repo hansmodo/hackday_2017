@@ -1,0 +1,108 @@
+<letter id="alh3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I arrived here yesterday, at noon, and waited upon 
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> immediately, on the business of my 
+mission ; but was sorry to find his ideas did not correspond with yours for drawing off the number of 
+troops you directed. I used every argument in my 
+power to convince him of the propriety of the measure ; but he was inflexible in the opinion, that two 
+brigades, at least, of Continental troops should remain 
+in and near this place. His reasons were, that the 
+intelligence of Sir Henry Clinton's having gone to 
+join Burgoyne was not sufficiently authenticated to 
+put it out of doubt ; that there was, therefore, a possibility of his returning up the river, which might ex 
+pose the finest arsenal in America (as he calls the 
+one here) to destruction, should this place be left so 
+bare of troops as I proposed ; and that the want of 
+conveniences, and the difficulty of the roads, would 
+make it impossible to remove the artillery and stores 
+here for a considerable time ; that the New England 
+States would be left open to the depredations and 
+ravages of the enemy; that it would put it out of 
+his power to enterprise any thing against <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, which, he thinks, might be done in the winter, 
+and which he considers it of importance to under 
+take. 
+</p><p>
+The force of the reasons did by no means strike 
+me, and I did every thing in my power to show 
+they were unsubstantial; but all I could effect, was 
+to have one brigade despatched, in addition to those 
+already marched. I found myself infinitely embarrassed, and was at a loss how to act. I felt the importance of strengthening you as much as possible ; 
+but, on the other hand, I found insuperable inconveniences in acting diametrically opposite to the 
+opinion of a gentleman, whose successes have raised 
+him into the highest importance. <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> has 
+won the entire confidence of the Eastern States. If 
+disposed to do it, by addressing himself to the prejudices of the people, he would find no difficulty to 
+render a measure odious, which, it might be said 
+with plausibility enough to be believed, was calculated to expose them to unnecessary danger, notwithstanding their exertions during the campaign had 
+given them the fullest title to repose and security. 
+<a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> has influence and interest elsewhere ; 
+he might use it, if he pleased, to discredit the measure there also. On the whole, it appeared to me 
+dangerous to insist on sending more troops from 
+hence, while <a href='/results.php?tla=hog' rel='colleague met'>General Gates</a> appeared so warmly op 
+posed to it. Should any accident or inconvenience 
+happen in consequence of it, there would be too fair a pretext for censure ; and many people are too w^ell 
+disposed to lay hold of it. At any rate, it might be 
+considered as using him ill, to take a step so contrary to his judgment^ in a case of this nature. 
+</p><p>
+These considerations, and others which I shall be 
+more explicit in, when I have the pleasure of seeing 
+you, determined me not to insist upon sending either 
+of the other brigades remaining here. I am afraid 
+what I have done may not meet with your approbation, as not being, perhaps, fully warranted by 
+your instructions ; but I ventured to do what I 
+thought right, hoping that, at least, the goodness of 
+my intention will excuse the error of my judgment. 
+</p><p>
+I was induced to this relaxation the more readily, 
+as I had directed to be sent on two thousand militia, 
+which were not expected by you, and a thousand 
+Continental troops out of those proposed to be left 
+with <a href='/results.php?tla=isp' rel='colleague met'>General Putnam</a>, which I have written to him, 
+since I found how matters were circumstanced here. 
+to forward to you with all despatch. I did this for 
+several reasons; because your reinforcement would 
+be more expeditious from that place than from this; 
+because two thousand Continental troops at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a> 
+will not be wanted, in the present circumstances, 
+especially as it was really necessary to have a body 
+of Continental troops at this place for the security 
+of the valuable stores here ; and I should not, if I 
+had my wish, think it expedient to draw off more 
+than two of the three brigades now here. This being 
+the case, one of the ends you proposed to be answered by leaving the ten regiments with General 
+Putnam, will be equally answered by the troops here ; 
+I mean that of covering and satisfying the Eastern 
+States ; and one thousand Continental troops, in addition to the militia collected and that may be collected there, will be sufficient in the Highlands for 
+covering the country down that way, and carrying 
+on the works necessary to be raised for the defence 
+of the river. 
+</p><p>
+The troops gone, and going, to reenforce you, are 
+near five thousand, rank and file, Continental troops, 
+and twenty-five hundred Massachusetts and New Hampshire militia. These, and the seven hundred Jersey 
+militia, will be a larger reinforcement than you expected, though not quite an equal number of Continental troops, nor exactly in the way directed. <a href='/results.php?tla=bel' rel='colleague met'>General Lincoln</a> tells me the militia are very excellent; 
+and though their times will be out by the last of 
+this month, you will be able, if you think proper, to 
+order the troops still remaining here, to join you by 
+the time their term of service expires. 
+</p><p>
+I cannot forbear being uneasy lest my conduct 
+should prove displeasing to you; but I have done what, considering all circumstances, appeared to me 
+most eligible and prudent. I have the honor to be. 
+with great esteem and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p><p>
+P. S. Vessels are preparing to carry the brigade to <a href='/results.php?city=new windsor' rel='city'>New Windsor</a>, which will embark this evening. 
+I shall, this afternoon, set out on my return to camp, 
+and, on my way, shall endeavour to hasten the troops 
+forward. 
+</p>
+</letter>

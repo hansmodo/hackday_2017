@@ -1,0 +1,51 @@
+<letter id="bel4305">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=boston' rel='city origin'>Boston</a>, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1789' rel="origin">1789</a>. 
+</p><p>
+My dear General, 
+</p><p>
+I was early convinced, upon your Excellency's retirement from public life, that too much of your time, 
+for your own happiness, was engrossed by a correspondence as extensive as is the knowledge of letters, and by the frequent visits of people throughout 
+the equally extended limits. An idea that these visits were multiplied by the ease with which people 
+obtained letters of introduction to your Excellency, 
+has restrained me from giving such letters but in a 
+few instances, lest I should be instrumental in adding to your cares, and breaking in upon your domestic tranquillity. At this day. Sir, I ought to be more 
+upon my guard than ever, as your burdens are multiplied, and as joiw whole time must be engrossed 
+by the important calls of your elevated office. While 
+under this conviction, I hope and trust that I shall 
+not exceed the bounds of propriety. I consider, however, that there are instances, which to neglect would 
+be highly criminal, and might justly be considered as 
+a neglect of duty to your Excellency and to the 
+public. Such I consider the instance now before me. 
+</p><p>
+This letter will be honored by its being borne by 
+the Honorable George Cabot. Feeling, as all others do, an esteem for and obligations to your Excellency, 
+he intends to wait upon you and express them. I hope his business will permit him to remain a little time with you, for I am sure your Excellency will 
+find him a gentleman, in all respects perfectly agreeable. From his abilities, his integrity, his knowledge 
+of the world, of commerce in general, and its connections with the different nations, our interest with them 
+and with each other, I cannot help considering him an honor to our country, and one of the most able 
+and useful men in it. lie has been drawn into public life ; but we have not had influence enough to 
+retain him. If your Excellency should have time to 
+open with him on the state of trade here, on its foreign and domestic connections, you will receive a 
+very judicious relation; and such a one as will be 
+pleasing, and throw light on the interesting and important subject, and as free from personal views and 
+those local prejudices which have so often clogged 
+our public proceedings and given a false coloring to 
+them, as from any man I know on earth. 
+</p><p>
+Fearing that he would call, as thousands of others 
+must do, without being particularly known, I have 
+taken the liberty to beg it as a favor that he would 
+take charge of this letter, and deliver it with his 
+own hand. I have been urged to this from the fullest conviction that the happiness arising from an interview would be reciprocal. Captain Brown, formerly 
+of Glover's regiment, and who was with your Excellency at <a href='/results.php?city=trenton' rel='city'>Trenton</a>, now a very respectable merchant 
+in this State, will accompany Mr. Cabot. I have the 
+honor of being, with the most perfect esteem, my 
+dear General, 
+</p><p>
+Your Excellency's most obedient, &c., 
+</p><p>
+<a href="/results.php?tla=bel" rel="me">Benjamin Lincoln</a>. 
+</p>
+</letter>

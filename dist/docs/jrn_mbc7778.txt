@@ -1,0 +1,9 @@
+<letter id="mbc7778">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='24'>24th</a> [<a href='/results.php?city=chester' rel='city origin'>CHESTER</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. I have been ill, but what could you expect? My lines, however, have again fallen in pleasant 
+places. Mrs. Da Vega is young, handsome, and agreeable, a kind and perfect hostess ; and as to the house, my room is 
+all that I could ask and leaves nothing to be desired; so very fresh, clean, warm, and comfortable is it. It is the 
+drawing-room suddenly made into a bedroom for me. But it is my very own. We are among the civilized of the earth once more. 
+</p>
+</letter>

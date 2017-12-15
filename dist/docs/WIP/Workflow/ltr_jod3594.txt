@@ -1,0 +1,33 @@
+<letter id="jod3594">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='17'>17</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YESTERDAY I attended the dedication of a temple. 
+The Presbyterian congregation in Market street have 
+taken down their old meeting house and erected a 
+new one in the same place, much larger, higher, 
+more light, airy and elegant. They assembled in it 
+for the first time yesterday, when Dr. Ewing preached 
+in the morning, and Dr. Blair in the afternoon. 
+</p><p>
+I recollected with pleasure, upon this occasion, the 
+course of sermons delivered in rotation by the ministers of <a href='/results.php?city=boston' rel='city'>Boston</a> in the new church in Brattle street, and 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> got nothing by the comparison. Dr. 
+Blair, however, entertained us with an elegant and 
+sublime discourse, in which, among other good things, 
+he gave Tom Paine a hearty reprobation. 
+</p><p>
+I dined at Mr. O's. All well. I hope to receive a 
+line to-day. A journal or diurnal register of farming 
+would be very, very refreshing and entertaining. 
+O ! the tedious solitude that awaits me for three or 
+four months amidst the noise, smoke, wealth, luxury, 
+eloquence, learning, wit and wisdom, of this proud 
+city and our venerable Congress ! To me, one week 
+of domestic felicity and rural amusement would be 
+worth it all. 
+</p>
+</letter>

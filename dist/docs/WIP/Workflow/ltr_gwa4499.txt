@@ -1,0 +1,29 @@
+<letter id="gwa4499">
+<recipient first="" last="Waterbury" type="individual"/>
+<p>
+TO BRIGADIER-GENERAL WATERBURY, AT HORSENECK. 
+</p><p>
+Head-Quarters, <a href='/results.php?city=peekskill' rel='city origin'>Peekskill</a>, <a rel='day origin' value='1'>1</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Sir, 
+</p><p>
+I wrote to you yesterday by Captain Bulkley, directing you to march with all the troops you can collect 
+under your command, and form a junction at Clapp's, 
+in King Street, with Colonel Sheldon, who is to be at 
+that place on the "id instant. I am now to inform you, 
+that you will also be joined at the same time and place 
+by the French legion, under the command of the <a href='/results.php?tla=cdl' rel='co-worker'>Duke De Lauzun</a>, who is a brigadier in the service of his 
+Most Christian Majesty, and an officer of distinction, 
+long service, and merit. The Duke is to command all 
+the troops, that will be assembled at the point mentioned. You will therefore be pleased on his arrival to 
+put yourself and troops under his orders and command, 
+he being furnished with my instructions for his movement subsequent to meeting you at Clapp's. 
+</p><p>
+As the Duke will be a stranger to that part of the 
+country, which is to be the scene of your operations, 
+it will be in vour power to give him much assistance 
+and information, which I have not a doubt but you will 
+do with the greatest cheerfulness and alacrity. The 
+service, to which you will be called, requires great precaution, attention, and despatch. I am. Sir, &,c. 
+</p>
+</letter>

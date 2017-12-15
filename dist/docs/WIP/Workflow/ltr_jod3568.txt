@@ -1,0 +1,46 @@
+<letter id="jod3568">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='12'>12</a> <a rel="month origin" value="2">February</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I RECEIVED yesterday your kind favor of the 1st of 
+this month, and thank you for its agreeable contents. 
+I have now to congratulate you on the arrival of your 
+son and daughter and two grandsons, in fine health, at 
+<a href='/results.php?city=new york' rel='city'>New York</a>. They have done wisely to fly from the evil 
+to come in Europe ; although it is somewhat dubious 
+whether our fellow citizens will have the wisdom to 
+abstain from similar evils in this country. My friend 
+Malesherbes is about to crown the end of his life with 
+greater glory than he gained in his youth or middle 
+age, though this was splendid. Such a character as 
+that great magistrate ought to wish to die on so great 
+a theatre in defence of his prince, and struggling 
+against the disgrace which enthusiasm is about to 
+bring upon the nation. 
+</p><p>
+The spirit of ambition and of conquest, which the 
+French republic in its cradle has already discovered, 
+has alarmed England and Holland. France has been 
+execrated in Europe for their ambition for universal 
+monarchy ; but the passion was imputed to their kings, 
+Henry 4th and Louis 14th. But the people are already 
+giving unequivocal proofs of an equal lust after a 
+universal republic. The passion is, and always has 
+been, in the people, the nation, and their leaders will 
+ever be infected with it, whether they call them 
+kings, or presidents, or citizens. I can only sigh at 
+the prospect of calamities opening on the human race 
+and pray God to avert them. 
+</p><p>
+We have to-day a deep snow, which I hope will 
+last till I can reach <a href='/results.php?city=quincy' rel='city'>Quincy</a> in a sleigh and there enjoy a felicity, which will never be allowed me any 
+where else. 
+</p><p>
+Tenderly yours, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

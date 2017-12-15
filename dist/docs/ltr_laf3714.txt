@@ -1,0 +1,58 @@
+<letter id="laf3714">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, before <a href='/results.php?city=york' rel='city origin'>York</a>, <a rel='day origin' value='30'>30</a> <a rel="month origin" value="9">September</a>,  <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My DEAR General, 
+</p><p>
+You have so often been pleased to ask I would 
+give my opinion upon any subject that may occur, 
+that I will this day take the liberty to mention a few 
+articles. I am far from laughing at the idea of the 
+enemy's making a retreat. It is not very probable ; 
+but it is not impossible. Indeed, they have no other 
+way to escape, and since we cannot get ships above 
+York, I should be still more afraid of a retreat by 
+"<a href='/results.php?city=west point' rel='city'>West Point</a>, than any thing else. The French hussars remaining here, our dragoons and some infantry might be stationed somewhere near <a href='/results.php?city=west point' rel='city'>West Point</a>, rather on the north side. I see the service is much 
+done by details, and, to use your permission, I would 
+take the liberty to observe, that when the siege is 
+once begun it might be more agreeable to the officers 
+and men to serve, as much as possible, by whole battalions. 
+</p><p>
+Colonel Scammell is taken. His absence I had accounted for by his being officer of the day. I am 
+very sorry we lose a valuable officer ; but though 
+Colonel Scammell's being officer of the day has been 
+a reason for his going in front, I think it would be 
+well to prevent the officers under the rank of Generals or Field-Officers reconnoitring, for the safety of 
+their commands, from advancing so near the enemy's 
+lines. There is a great disproportion between Huntington's and Hamilton's battalions. Now that Scammell is taken, we might have them made equal, and 
+put the eldest of the two Lieutenant-Colonels on the 
+right of the brigade. 
+</p><p>
+I have, these past days, wished for an opportunity 
+to speak with your Excellency on Count de Grasse's 
+demand relative to M. de Barras's fleet. This business being soon done, we may think of <a href='/results.php?city=charleston' rel='city'>Charleston</a>, 
+at least of the harbour; or of <a href='/results.php?city=savannah' rel='city'>Savannah</a>. I have 
+long and seriously thought of this matter ; but would 
+not be in a hurry to mention it, until we know how 
+long this will last. However, it might be possible to 
+give Count de Grasse an early hint of it, in case 
+you agree with him upon the winter departure of the 
+whole fleet for the West Indies. 
+</p><p>
+One of my reasons to wish troops, though not in 
+great numbers, to be sent to Gloucester county, by 
+way of <a href='/results.php?city=west point' rel='city'>West Point</a>, is, that for the first days it will 
+embarrass any movement of the enemy up the river, 
+or up the country, on either side; and when it is in Gloucester county it may be thought advantageous, 
+by a respectable regular force, to prevent the enemy's increasing their works there, and giving us the 
+trouble of a second operation; and, at the same time, 
+it will keep from York a part of the British forces. 
+With the highest regard and most sincere affection, 
+I have the honor to be, dear General, 
+</p><p>
+Your most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=laf" rel="me">Lafayette</a>.
+</p>
+</letter>

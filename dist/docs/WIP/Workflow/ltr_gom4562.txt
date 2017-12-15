@@ -1,0 +1,97 @@
+<letter id="gom4562">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='30'>30th</a>, <a href='/results.php?year=1790' rel="origin">1790</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+It may perhaps be proper to mention one or two things, 
+in relation to the objects treated of in my letters of last 
+January. And first, of a commerce with the French Islands. 
+Nothing has, I believe, been done in France, which may be 
+favorable to our views ; but the commotions in the Islands 
+themselves will, I presume, operate like liberal regulations of 
+police, and probably the colonists will eventually demand as a 
+right, what some time since they would have accepted as a favor. 
+I am led to believe that we should not be over anxious on this 
+subject just now, because circumstances will perhaps serve us 
+better than we can serve ourselves. 
+</p><p>
+My predictions respecting the Turk have been so far veri 
+fied, as that he has got rid of one of his enemies upon tolerable 
+terms, for he loses no dominion worth a contest. How far 
+the intercessions now making to the Empress of Russia will 
+produce the desired effect, seems not to be clearly ascertained. 
+If a squadron of Dutch or English ships had arrived in the 
+Baltic last May, it is more than probable that the peace of the 
+north would have been restored ; but there are many events 
+which would enable the Empress of Russia to carry on suc 
+cessful operations against both the Turk and the Swede. 
+The armies of the former, which opposed those of the Empe 
+ror, cannot suddenly be transported to the quarter where they 
+are now wanted ; neither will the expense of them cease during the campaign. It appears to me that the season is too 
+far advanced for anything Prussia can do, let the inclination of 
+the king be what it may ; and Sweden, unprotected by naval 
+superiority, is exposed to the land force of its enemy, 
+without much chance either of aid or diversion. Finland, 
+which will probably be the object of the Czarina, cannot maintain forces needful to defend it, if the sea communication be 
+cut off. Therefore the whole Prussian army, could it be 
+transported thither, would be worse than useless. And thus 
+the withdrawing of Austria from the war will have less influence than might have been expected. 
+</p><p>
+The people of Flanders seem to be given up, after having 
+been used to distress the House of Austria. Heaven knows 
+what desperation may prompt them to ; but it appears to me 
+</p><p>
+that a wise conduct on the part of France would have acquired for her the dominion of that country ; and if ever that 
+should happen, France having at the same time a good constitution, the consequence of this island is gone. Antwerp 
+seems intended by nature for the emporium of European 
+commerce, and the navigation of the Scheldt would undoubtedly be opened if it belonged to a great naval power. That 
+river and the Thames being nearly opposite to each other, 
+mutual visits might be expected, and in these the superiority 
+at land must at length prove decisive. 
+</p><p>
+The situation of France, however, seems at first sight to 
+preclude all effort. The national bank, which was in contemplation, has never taken effect. After deliberating about it and 
+about it, the thing dropped, and they expected to have made 
+out with their new paper currency (the assignats) but my 
+predictions on that subject seem to be verified. Still, how 
+ever, the situation of their finances is not desperate. But 
+their Assembly is losing ground daily in the public opinion. 
+The army, long encouraged in licentious conduct, is now in 
+revolt. All the bands of society are loosened, and authority 
+is gone. Unless they are soon involved in a foreign war, it is 
+impossible to conjecture what events will take place. For 
+sometime past the ministers have been threatened with the Lanterne, and they would gladly get out of office. The 
+great difficulty is, to find successors, or rather substitutes. 
+Lafayette has been contriving an intermediate ministry to last 
+for a few months, till, by the dissolution of the assembly, who, 
+you know, passed a self-denying ordinance, a set could be taken 
+from among the present members of that body. But this will 
+prove a bad business ; for if the intermediaries are not able, 
+then they will make things worse ; and if they are, they will 
+not give up their places. 
+</p><p>
+We are in hourly expectation of hearing the decision of the 
+Assembly upon the family compact. The Spanish Ambassa 
+dor has required, in pointed terms, a compliance on the part 
+of France. This, I have good reason to believe, was in concert with the French administration. If it were possible to answer for such a body as the Assemblee^ and so placed as they 
+are, I would pronounce in favor of their adherence to the terms 
+of that compact. If so, the tone o f the British ministy may 
+be a little lowered. In the meantime, both the Spanish and 
+English fleets are out, and were approaching towards each other. 
+Probably each side means only to terrify at present; but Spain 
+will not recede any farther, except in the last necessity. 
+</p><p>
+In a day or two I expect to learn something of their intentions here respecting us ; and if I do not hear from them, I shall 
+make a final address to his Grace of Leeds. 
+</p><p>
+It is very flattering to me, Sir, that you are so kind as to ap 
+prove of my communications with the ministers of this country, 
+so far as they had gone in the beginning of May. I earnestly 
+hope that my subsequent conduct may meet the same favorable interpretation. This you may rely on, that if in any case 
+I go wrong, it will be from an error of judgment. I am, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

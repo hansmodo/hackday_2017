@@ -1,0 +1,30 @@
+<letter id="mbc7772">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='8'>8th</a> [<a href='/results.php?city=lincolnton' rel='city origin'>LINCOLNTON</a>, N. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. Colonel Childs came with a letter from my husband and a newspaper containing a full account of <a href='/results.php?tla=wts' rel=''>Sherman's</a> cold-blooded brutality in Columbia. Then we walked three miles to return the call of my benefactress, Mrs. McDaniel. They were kind and hospitable at her house, but my heart was like lead; my head ached, and my legs were 
+worse than my head, and then I had a nervous chill. So I came home, went to bed and stayed there until the Fants brought me a letter saying my husband would be here to day. Then I got up and made ready to give him a cheerful 
+reception. Soon a man called, Troy by name, the same who kept the little corner shop so near my house in Columbia, and 
+of whom we bought things so often. We had fraternized. 
+He now shook hands with me and looked in my face pitifully. We seemed to have been friends all our lives. He 
+says they stopped the fire at the Methodist College, perhaps to save old Mr. McCartha's house. Mr. Sheriff Dent, being 
+burned out, took refuge in our house. He contrived to find favor in Yankee eyes. Troy relates that a Yankee officer 
+snatched a watch from Mrs. McCord's bosom. The soldiers tore the bundles of clothes that the poor wretches tried to 
+save from their burning homes, and dashed them back into the flames. They meant to make a clean sweep. They 
+were howling round the fires like demons, these Yankees in their joy and triumph at our destruction. Well, we have 
+given them a big scare and kept them miserable for four years the little handful of us. 
+</p><p>
+A woman we met on the street stopped to tell us a painful coincidence. A general was married but he could not 
+stay at home very long after the wedding. When his baby was born they telegraphed him, and he sent back a rejoicing answer with an inquiry, Is it a boy or a girl ? : He was killed before he got the reply. Was it not sad? His 
+poor young wife says, He did not live to hear that his son lived." The kind woman added, sorrowfully, " Died and 
+did not know the sect of his child. " " Let us hope it will be a Methodist/ said Isabella, the irrepressible. 
+</p><p>
+At the venison feast Isabella heard a good word for me and one for General Chesnut's air of distinction, a thing 
+people can not give themselves, try as ever they may. Lord Byron says, Everybody knows a gentleman when he sees 
+one, and nobody can tell what it is that makes a gentleman. He knows the thing, but he can't describe it. Now there are 
+some French words that can not be translated, and we all know the thing they mean gracieuse and svelte, for in 
+stance, as applied to a woman. Not that anything was said of me like that far from it. I am fair, fat, forty, and 
+jolly, and in my unbroken jollity, as far as they know, they found my charm. You see, she doesn't howl ; she doesn't 
+cry ; she never, never tells anybody about what she was used to at home and what she has lost. High praise, and I in 
+tend to try and deserve it ever after. 
+</p>
+</letter>

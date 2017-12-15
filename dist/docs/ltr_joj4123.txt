@@ -1,0 +1,39 @@
+<letter id="joj4123">
+<recipient first="N" last="Cruger" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel='day origin' value='11'>11th</a> <a rel="month origin" value="9">September</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+A gentleman in Holland has been so obliging as to send 
+me a plan to make my fortune, even to the extent of many 
+millions of pounds sterling. It unfortunately happens that 
+more mercantile knowledge is necessary to the execution 
+of this plan than I possess ; so that, like many others, I 
+must go without a fortune for want of knowing how to 
+get one. That, my good friend, is not your case ; having 
+already made one fortune, you certainly know better how 
+to make another than a person who has never made any. 
+</p><p>
+You will find this golden plan enclosed. If the extensive 
+concerns in which you are already engaged should render 
+its magnitude inconvenient, might it not be well to let our 
+friends Le Roy and Bayard share in it ? I mention them, 
+because I esteem and like them, and because their acquaintance with the commerce of Holland, and their connexions 
+in that country, would afford facilities to all parties. 
+</p><p>
+At any rate, give me credit for good-will. If this plan 
+does not make you more rich, it will not make you less 
+merry ; and mirth sometimes does a man as much good as 
+money. 
+Present my best compliments to Mrs. Cruger. With 
+sincere wishes for your and her health and happiness, 
+</p><p>
+I am, dear sir, 
+Your most obedient and humble servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p><p>
+P.S. The address of my correspondent is (in his own words) Mynheer de Heer Dirk Van Beest, op de Voor Straat de Dordrecht. 
+</p>
+</letter>

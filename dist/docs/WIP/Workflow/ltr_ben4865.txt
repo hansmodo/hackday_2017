@@ -1,0 +1,30 @@
+<letter id="ben4865">
+<recipient first="John" last="Bartram" type="individual"/>
+<p>
+<a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="10">Oct.</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1772' rel="origin">1772</a>. 
+</p><p>
+MY DEAR OLD FRIEND, 
+</p><p>
+I received some time since the enclosed Letter from Dr. 
+Hope ; and lately the Gold Medal it mentions was delivered 
+to me for you. By the first ship directly to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, 
+I shall send it in the Care of some safe Hand, thinking it not 
+so well to hazard it with this Letter round through <a href='/results.php?city=new york' rel='city'>New York</a>. 
+Mr. Hope's Letter to you is not yet come to my hands. 
+</p><p>
+I hope the Rhubarb you have sown and distributed will be 
+taken care of. There seems to me no doubt of its doing as 
+well with us as in Scotland. Remember that for Use the Root 
+does not come to its Perfection of Power and Virtue in less 
+than Seven Years. The Physicians here, who have try'd the 
+Scotch, approve it much, and say it is fully equal to the best 
+imported. I send you enclosed a small Box of Upland Rice, 
+brought from Cochin China. It grows there on dry Grounds, 
+and not in Water like the common Sort. Also a few Seeds of 
+the Chinese Tallow Tree. They have been carefully preserved 
+in bringing hither by Mr. Ellis's Method. I had them from 
+him, and he tells me they are in good Condition fit to vegetate. I hope they may grow under your skilful Care. My 
+love to Mrs. Bartram, and all yours, from your affectionate 
+Friend, B . FRANKLIN. 
+</p>
+</letter>

@@ -1,0 +1,17 @@
+<letter id='abl445'>
+<recipient first='Edwin' last='Stanton' type='individual'/>
+<p>
+EXECUTIVE MANSION, <a href='/results.php?city=washington' rel='city origin'>WASHINGTON</a>,<br/>
+June 4, <a href="/results.php?year=1863">1863</a>.
+</p><p>
+HON. SECRETARY OF WAR.
+</p><p>
+MY DEAR SIR:--I have received additional despatches, which, with
+former ones, induce me to believe we should revoke or suspend the
+order suspending the Chicago Times; and if you concur in opinion,
+please have it done.
+</p><p>
+Yours truly,
+</p>
+<a href="/results.php?tla=abl" rel="me">A. LINCOLN.</a>
+</letter>

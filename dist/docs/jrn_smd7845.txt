@@ -1,0 +1,23 @@
+<letter id="smd7845">
+<recipient first="" last="" type="individual"/>
+</p><p>
+<a rel="month origin" value="7">July</a> 	<a rel='day origin' value='14'>14th</a>, 3 P.M. [<a href='/results.php?year=1862' rel='origin'>1862</a>]
+</p><p>
+Another pleasant excitement. News has just arrived that Scott's cavalry was having a hard fight 
+with the Yankees eight miles from town. Everybody immediately commenced to pick up stray articles, 
+and get ready to .fly, in spite of the intense heat. I am resigned, as I hardly expect a shelling. Another 
+report places the fight fourteen miles from here. A man on horseback came in for reinforcements. Heaven 
+help poor Howell, if it is true. I am beginning to 
+doubt half I hear. People tell me the most extravagant things, and if I am fool enough to believe them 
+and repeat them, I suddenly discover that it is not half so true as it might be, and as they themselves 
+frequently deny having told it, all the odium of "manufacturing" rests on my shoulders, which have 
+not been accustomed to bear lies of any kind. I mean to cease believing anything, unless it rests on the 
+word of some responsible person. By the way the order I so confidently believed, concerning the 
+proclamation, turns out not quite so bad. I was told women were included, and it extended to private 
+houses as well as public ones, though I fortunately omitted that when I recorded it. When I read it, it 
+said, "All discussions concerning the war are prohibited in bar-rooms, public assemblies, and street 
+corners." As women do not frequent such places, and private houses are not mentioned, I cannot imagine 
+how my informant made the mistake, unless, like me, it was through hearing it repeated. Odious as 
+I thought it then, I think it wise now; for more than one man has lost his life through discussions of the kind. 
+</p><p>
+</letter>

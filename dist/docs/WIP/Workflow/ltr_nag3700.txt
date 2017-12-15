@@ -1,0 +1,31 @@
+<letter id="nag3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Near <a href='/results.php?city=bryants tavern' rel='city origin'>Bryant's Tavern</a>, 11 o'clock, <a rel='day origin' value='23'>23</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I informed your Excellency, this morning, that the 
+enemy were on the advance, in force. I now acquaint you that they proceeded, with vigor, until 
+they had gained Connecticut Farms ; they then were 
+checked by Colonel Dayton's regiment. They have 
+since advanced, in two formidable columns, on the 
+Springfield and Vauxhall roads. After very obstinate 
+resistance, they are now in possession of Springfield, 
+with one column ; with the other, they are advanced 
+near the bridge leading to Vauxhall where Angell's 
+pickets lay. From present prospects, they are directing their force against this pass, which I am determined to dispute, so far as I am capable. They are 
+pushing a column to our left, perhaps to gain the 
+pass in our rear towards Chatham. If they pursue 
+this object, we must abandon our present position 
+The militia turn, and are few ; and that few are so 
+divided as to render little or no support. 
+</p><p>
+They advance with seven pieces of artillery in 
+front, and appear not disposed to risk much. The militia are collecting, and I hope to derive support 
+from them. I am 
+Your Excellency's most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

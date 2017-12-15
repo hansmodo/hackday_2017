@@ -1,0 +1,20 @@
+<letter id="smd7876">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=clinton' rel='city origin'>Clinton</a>, Louisiana ], <a rel="month origin" value="8">August</a> <a rel='day origin' value='30'>30th</a>. [<a href='/results.php?year=1862' rel="origin">1862</a>]
+</p><p>
+Still no prospect of a lodging; so here we remain. I never before lived in a house without a balcony, 
+and have only now found out how inconvenient it is. The whole establishment consists of two rooms on 
+each side of a passage as wide as the front door ; and as it has a very low ceiling* with no opening, and no 
+shade near, it is decidedly the warmest spot I ever inhabited. We all sleep on the floor and keep our 
+clothes in our trunks except Lilly, who has an armoir without doors. Knives and forks for dinner 
+to-day, though the table still consists of a single plank. The house really has a suffocating effect on 
+me, there is such a close look about it. The front is fully a foot below the level of the street, while quite 
+a flight of steps leads from the back door to the yard. In fact, the whole town consists of abrupt little 
+mounds. It is rather a pretty place; but Heaven save me from the misery of living in it! Miriam is 
+crazy to remain even advocates that dirty, bare, shutterless boarding-house where we passed the 
+first night, from what attraction I cannot imagine. I am just as anxious to get into the country. I would 
+hate the dull round of this little place ; I prefer solitude where I can do as I please without being 
+observed. Here we are as well known by people we never before heard of as though we were fellow-citizens. 
+</p><p>
+</letter>

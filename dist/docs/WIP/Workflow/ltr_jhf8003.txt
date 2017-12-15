@@ -1,0 +1,40 @@
+<letter id='jhf8003'>
+<recipient first='Thomas' last='Benton' type='individual'/>
+<p>
+Camp at <a href='/results.php?city=bents fort' rel='city origin'>Bent's Fort</a>, <a rel="month origin" value="11">Nov.</a> <a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1848' rel="origin">1848</a>. 
+</p><p>
+My dear Sir : We have met with very reasonable success and some good results this first long step upon our journey. In order to avoid 
+the chance of snow-storms upon the more exposed Arkansas road, I followed up the line of the Southern Kansas (the true Kansas River) 
+and so far added something to geography. For a distance of 400 miles our route led through a country affording abundant timber, game, and 
+excellent grass. We find that the Valley of the Kansas affords by far the most eligible approach to the mountains. The whole valley 
+soU is of very superior quality, well timbered, abundant grasses, and the route very direct. 
+This line would afford continuous and good settlements certainly for 400 miles, and is therefore 
+worthy of consideration in any plan of approach to the mountains. We found our friend Major Fitzpatrick in the full exercise of his functions 
+at a point about thirty miles below this, in what is called the 'Big Timber,' and surrounded by about 600 lodges of different nations. Apaches, 
+Camanches, Kioways, and Arapahoes. He is a most admirable agent, entirely educated for such a post, and possessing the ability and courage 
+necessary to make his education available. He has succeeded in drawing out from among the Camanches the whole Kioway nation with the 
+exception of six lodges, and brought over among them a considerable number of lodges of the Apaches and Camanches. When we arrived he 
+was holding a talk with them, making a feast and giving them a few presents. We found them all on their good behavior, and were treated 
+in the most friendly manner; were neither annoyed by them, nor had any thing stolen from us. I hope you will be able to give him some support. 
+He will be able to save lives and money for the government, and knowing how difficult this Indian question may become, I am particular in 
+bringing Fitzpatrick's operations to your notice. In a few years he might have them all farming here on the Arkansas. 
+</p><p>
+Both Indians and whites here report the snow to be deeper in the mountains than has for a long time been known so early in the season, 
+and they predict a severe winter. This morning for the first time, the mountains showed themselves, covered with snow, as well as the country 
+around us, for it snowed steadily the greater part of yesterday and the night before. Still, I am 
+in nowise discouraged by the prospect, and believe that we shall succeed in forcing our way across. We will ascend the Del Norte to its 
+head, descend on to the Colorado, and so across the Wahsatch mountains and the basin country somewhere near the 37th parallel, reaching the 
+settled parts of California near Monterey. There is, I think, a pass in the Sierra Nevada between the 37th and 38th , which I wish to 
+examine. The party is in good spirits and good health ; we have a small store of provisions for hard times, and our instruments, 
+barometer included, all in good order. We are always up an hour or two before light, and the breakfasts are all over, and the camp 
+preparing to move, before sunrise. This breakfasting before daylight, with the thermometer ranging from 12&#176; to 18&#176;, is a somewhat startling 
+change from the pleasant breakfast-table in your stove-warmed house. I think that I shall never cross the continent again, except at 
+Panama. I do not feel the pleasure that I used to have in these labors, as they remain 
+inseparably connected with painful circumstances, due mostly to them. It needs strong 
+incitements to undergo the hardships and self-denial of this kind of life, and as I find I have these no longer, I will drop into a quiet life. 
+Should we have reasonable success, we shall be in California early in January, say about the 8th, where I shall expect to hear from all 
+by the steamer. Referring you for other details to Jessie, to whom I have written at length, I remain most affectionately yours, 
+</p><p>
+<a href="/results.php?tla=jhf" rel="me">J. C. FREMONT</a>.
+</p>
+</letter>

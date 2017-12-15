@@ -1,0 +1,27 @@
+<letter id="nib5291">
+<recipient first="Robert" last="Lenox" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a> <a rel="month origin" value="10">Oct</a> <a rel='day origin' value='1'>1st</a> . <a href='/results.php?year=1833' rel="origin">1833</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+I have received this morning your letter of the 3Oth ulto. and have since had a long interview with Mr Rathbone 
+to whom I explained our whole situation and views and to whom I must refer you for more particulars than I have leisure to give. 
+</p><p>
+After a great deal of reflection, we are all satisfied that the best thing to be done is to do as little as possible. 1 The ex 
+change operations are placed by the resolutions passed to day on a proper footing. We do not give any instructions as 
+to reducing the local discounts, but we shall reduce ours at the Bank, and if you can gradually diminish yours without ex 
+citing uneasiness among our customers it would be very good policy. Our wish is not to give an order to that effect lest it 
+might create alarm, but to do it quietly and imperceptibly. 
+</p><p>
+The subject which has given us more anxiety than any other is the treatment of the Branch notes. We are now satisfied 
+that our best plan is to continue to receive them as heretofore and that your Office should do the same. The idea we 
+have is this. The balances now in Bank will probably be absorbed by the disbursements of the Government and in the 
+mean time the accruing revenue will be left with the new receiving Banks. There it may accumulate, and masses of it 
+may be held sufficient to incommode some of the smaller Branches, to whom it may be suddenly sent. It is better for 
+us therefore to absorb it if we can until the measures in operation at the Branches will reduce their issues so much 
+as to make them not trouble us. 
+</p><p>
+The closing of the mail so soon obliges me to stop. 
+</p>
+</letter>

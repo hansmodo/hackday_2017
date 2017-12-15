@@ -1,0 +1,92 @@
+<letter id="gwa4451">
+<recipient first="John" last="Laurens" type="individual"/>
+<p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='9'>9</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+My dear Laurens, 
+</p><p>
+Colonel Armand, who was charged with the delivery of many letters to you from the <a href='/results.php?tla=laf' rel='co-worker met friend'>Marquis De Lafayette</a>, 
+imparting to his friends and the ministry of France your mission, unfortunately arrived at <a href='/results.php?city=boston' rel='city'>Boston</a> after you 
+had sailed. By him I gave you an account of the revolt of part of the Jersey troops, Arnold's expedition to 
+Virginia, Leslie's arrival at <a href='/results.php?city=charleston' rel='city'>Charleston</a>, and such other matters as occurred after your departure. 
+</p><p>
+Since that period several interesting events have 
+happened ; some favorable, others adverse. Among 
+the former may be reckoned Morgan's brilliant action 
+with Tarleton ; among the latter, the advantages gained 
+by Lord Cornwallis over <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>. The official 
+accounts of these I enclose to you. Cornwallis, after 
+the defeat of Tarleton, destroyed his wagons, and made 
+a violent effort to recover his prisoners, but, failing 
+therein moved equally light and rapidly against <a href='/results.php?tla=nag' rel='co-worker met'>General Greene</a>, who, though he had formed a junction with 
+Morgan, was obliged to retreat before him into Virginia. Whether from despair of recovering his prisoners, of bringing Greene to a general action, or because he conceived his own situation critical, I do not 
+take upon me to determine ; but the fact is, that here commenced Comwallis's retrograde movements, and Greene's advance from the Roanoke to the place of action. 
+</p><p>
+On the first notice of the storm, which happened 
+on the 22d of January, and of its effects, I intimated 
+to the French general the possibility and importance 
+of improving the opportunity in an attempt upon Arnold. When I received a more certain account of the 
+total loss of the Culloden, and the dismasting of the 
+Bedford, two seventy-four-gun ships belonging to the 
+British fleet in Gardiner's Bay, I immediately put in 
+motion, under the command of the <a href='/results.php?tla=laf' rel='co-worker met friend'>Marquis De Lafayette</a>, as large a part of my small force here, as I 
+could with prudence detach, to proceed to the Head 
+of Elk, and, with all expedition, made a proposal to 
+the <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> and the Chevalier Destouches for a cooperation in Virginia with the whole 
+of the fleet of our allies and a part of their land force. 
+Before my proposition arrived, in consequence of an 
+application to him from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, the Chevalier 
+Destouches had sent a ship of the line and two or 
+three frigates to the Chesapeake Bay, which not only 
+retarded the plan I had proposed (by awaiting their 
+return), but ultimately defeated the project ; as the enemy in the mean time remasted the Bedford with the 
+masts taken out of the Culloden, and, following the 
+French fleet, arrived off the Capes of Virginia before 
+it ; where a naval combat ensued, glorious for the 
+French, who were inferior in ships and guns, but unprofitable for us, who were disappointed of our object. 
+</p><p>
+The failure of this expedition, which was most flattering in the commencement, is much to be regretted ; 
+because a successful blow in that quarter would, in all probability, have given a decisive turn to our affairs 
+in all the southern States ; because it has been attended with considerable expense on our part, and much 
+inconvenience to the State of Virginia, by the assembling of its militia ; because the world is disappointed 
+at not seeing Arnold in gibbets ; and, above all, because we stood in need of something to keep us afloat, 
+till the result of your mission is known ; for, be assured, my dear Laurens, day does not follow night more certainly, than it brings with it some additional 
+proof of the impracticability of carrying on the war without the aids you were directed to solicit. As an honest and candid man, as a man whose all depends 
+on the final and happy termination of the present contest, I assert this, while I give it decisively as my opinion, that, without a foreign loan, our present force, 
+which is but the remnant of an army, cannot be kept together this campaign, much less will it be increased and in readiness for another. 
+</p><p>
+The observations contained in my letter of the fifth of January last are verified every moment ; and, if 
+France delays a timely and powerful aid in the critical 
+posture of our affairs, it will avail us nothing, should 
+she attempt it hereafter. We are at this hour suspended in the balance ; not from choice, but from hard 
+and absolute necessity ; and you may rely on it as a 
+fact, that we cannot transport the provisions from the 
+States in which they are assessed to the army, because we cannot pay the teamsters, who will no longer 
+work for certificates. It is equally certain, that our 
+troops are approaching fast to nakedness, and that we 
+have nothing to clothe them with ; that our hospitals 
+are without medicines and our sick without nutriment 
+except such as well men eat ; and that all our public 
+works are at a stand, and the artificers disbanding. 
+But why need I run into detail, when it may be declared in r. word, that we are at the end of our tether, 
+and that now or never our deliverance must come. 
+While, indeed, how easy would it be to retort the enemy's own game upon them, if it could be made to 
+comport with the general plan of the war to keep a 
+superior fleet always in these seas, and France would 
+put us in a condition to be active by advancing us 
+money. The ruin of the enemy's schemes would then 
+be certain ; the bold game they are now playing would 
+be the means of effecting it ; for they would be reduced to the necessity of concentrating their force at 
+capital points, thereby giving up all the advantages 
+they have gained in the southern States, or be vulnerable everywhere. 
+</p><p>
+Such of the Pennsylvania Hue, as had reassembled 
+and were recruited, say about one thousand, were ordered, about the middle of February, to join the southern army ; and since the disappointment of our enterprise against Arnold, I have directed the detachment 
+under the command of the <a href='/results.php?tla=laf' rel='co-worker met friend'>Marquis De Lafayette</a> to 
+proceed thither; but how either can march, without 
+money or credit, is more than I can tell. With every 
+wish for your success, and a safe and speedy return, 
+and with every sentiment of esteem and affection, I 
+am, dear Sir, &,c. 
+</p></p>
+</letter>

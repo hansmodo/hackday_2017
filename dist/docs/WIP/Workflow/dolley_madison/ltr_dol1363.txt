@@ -1,0 +1,26 @@
+<letter id='dol1363'>
+<recipient first='' last='' type='individual'/>
+<letter id='dol1363'>
+<recipient first='Isaac' last='Winston' type='individual'/>
+<p>
+TO MRS. ISAAC WINSTON. 
+</p><p>
+April, <a href="/results.php?year=1804">1804</a>. 
+</p><p>
+I consider myself a most unlucky being, my dearest aunt, in regard to my letters 
+to you, for you certainly cannot have received my two last or you would have alluded to them in yours, which we have 
+this moment received. What must my dear uncle think of me ! but I will now 
+take the opportunity to scold you for not knowing my heart better, which has always been open to you, you speak to me 
+in apologies for my Cousin Dolly's stay, when I have considered it as a favor, and a 
+very great pleasure, only wishing we could live together all our lives. We hope and 
+expect to go to you in May. Public business, perhaps, was never thicker. I have 
+just received a long letter from mamma, who is quite well, and I pray that your 
+fears may not be realized, my dear aunt, but that you may yet spend a great deal 
+of time together in this life. I should be miserable, indeed, if I did not feel such a 
+conviction. I am taking care of my best prunes and figs for you. Tell dear uncle 
+I am ashamed to speak to him, but he will see by this that it was not my fault. Fare 
+well, dearest aunt, I have nothing new to tell you as you must know all about Burr. 
+</p><p>
+Ever your devoted, <a href="/results.php?tla=dol" rel="me">DOLLY </a>. 
+</p>
+</letter></letter>

@@ -1,0 +1,28 @@
+<letter id="nib5238">
+<recipient first="William" last="Lewis" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel="month origin" value="10">Oct'r</a>. 2i 8t , <a href='/results.php?year=1829' rel="origin">1829</a> 
+</p><p>
+Dear Sir 
+</p><p>
+Your favor of the 16th . inst. was very acceptable as it satisfied me of what I could never permit myself to doubt, 
+that the views of the President were in perfect accordance with those of the Bank in regard to the exclusion of party 
+feelings from its administration. The fact is that among the Directors, it is considered not simply a duty, but a point of 
+honor, not to yield to party spirit and they would anxiously &amp; zealously prevent, or punish it should it occur on 
+the part of any of their Officers. 
+</p><p>
+I cannot give you a stronger proof of that disposition than 
+this letter will afford. You remark in your favor of the 16th 
+inst. that complaint, had reached the President of political feelings shown in the direction of the Branch at New Or 
+leans. The Cashier of that Branch is here &amp; on the point of 
+sailing for <a href='/results.php?city=new orleans' rel='city'>New Orleans</a>. But I have instructed him to go 
+immediately to Washington, to satisfy the President, which 
+I think he can readily do, that the statements he has heard, 
+are erroneous, and at any rate to hear precisely what the allegations are in order that on his arrival at New Orleans he may furnish the necessary refutation of them. It 
+is the purpose of this letter to request that you will have 
+the goodness to put Mr Jaudon in the way of attaining this object. He is a gentleman of high character and capacity 
+inferior to no other Officer in the Bank &amp; with very few equals in the country for intelligence and knowledge of business. 
+</p><p>
+It will afford me great pleasure to see you when you visit Philad'a. &amp; in the mean time I remain 
+</p>
+</letter>

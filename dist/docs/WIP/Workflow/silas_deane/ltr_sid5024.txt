@@ -1,0 +1,25 @@
+<letter id="sid5024">
+<recipient name="The Committee of Secret Correspondence" type="group"/>
+<p>
+TO THE COMMITTEE OF SECRET CORRESPONDENCE. 
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel='day origin' value='12'>12th</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Gentlemen, 
+</p><p>
+Just as I had closed my despatches by the Generals de Coudray and Baron de Kalb, I was most agreeably 
+surprised with a letter from <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a>, at Nantes, where he arrived, after thirty days passage, with two prizes. I 
+hourly expect him here, but knowing of his arrival, I despatch this with a duplicate to Havre de Grace, to go 
+by the ships sailing thence, and have only time to inform you, that I sent an express instantly to j\Ir Lee to join us 
+here without delay, for the news of <a href='/results.php?tla=ben' rel='colleague met'>Dr Franklin</a>'s arrival may occasion his friends being forbid coming from London 
+to France. Nothing has, for a long time, occasioned greater speculation than this event, and our friends here are 
+elated beyond measure, as this confirms them you will not negotiate with England ; and for me, I will not attempt to 
+express the pleasure I feel on this occasion, as it removes at once difficulties under which I have been constantly in 
+danger of sinking. I may not add, as I shall miss the post, but am, with the most grateful and respectful compliments to the Congress, &lc. 
+</p><p>
+<a href="/results.php?tla=sid" rel="me">SILAS DEANE</a>.
+</p><p>
+P. S. The King of Portugal is dead. The Comte Grimaldi, Prime Minister of Spain, has resigned, which 
+will tend to accelerate a rupture in Europe, which I think unavoidable.
+</p>
+</letter>

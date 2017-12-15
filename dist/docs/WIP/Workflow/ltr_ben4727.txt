@@ -1,0 +1,33 @@
+<letter id="ben4727">
+<recipient first="Thomas" last="Livezey" type="individual"/>
+<p><a href='/results.php?city=london' rel='city origin'>London</a>, <a rel="month origin" value="2">Feb.</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1768' rel="origin">1768</a>. 
+</p><p>
+SIR: 
+</p><p>
+I received of Captain Falconer your kind letter of Nov. 
+1 8, with a very welcome present of another Dozen of your 
+wine. The former has been found excellent by many good 
+judges, my Wine Merchant in particular was very desirous 
+of knowing what quantity of it might be had and at what 
+price, in which I could give him no satisfaction. I only 
+said that as the grapes being uncultivated, were not very 
+juicy, I apprehended so many of them must be required, and 
+so much labour in gathering, and pressing them to produce 
+a little wine, that the price could not be very low. I shall 
+apply this parcel as I did the last towards winning the hearts 
+of the Friends of our Country, and wellwishers to the Change 
+of its Government The Partizans of the present, may as 
+you say flatter themselves that such Change will not take 
+place, till the Proprietor's death, but I imagine he hardly 
+thinks so himself. Anxiety and uneasiness are painted on his 
+brow and the woman who would like to see how he would 
+look when dead, need only look at him while living In 
+that respect at least he appears to be a good Christian as one 
+that dieth daily With great regard, and many thanks for 
+your kindness to me, I am, Sir, 
+</p><p>
+Your much obliged Friend and humble Servant 
+</p><p>
+B. FRANKLIN. 
+</p>
+</letter>

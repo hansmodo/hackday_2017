@@ -1,0 +1,23 @@
+<letter id="joj4044">
+<recipient first="George" last="Clinton" type="individual"/>
+<p>   	 
+<a href='/results.php?city=madrid' rel='city origin'>Madrid</a>, <a rel='day origin' value='23'>23d</a> <a rel="month origin" value="2">Feb.</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+My last to you was written on the 16th November, since which I have not had the pleasure of hearing from you. 
+</p><p>
+I congratulate you on the successful issue of the last campaign, to the brilliancy of which the late surrender of Fort St. Philip, at Mahon, has much contributed. 
+</p><p>
+Your hemisphere brightens fast, and there is reason to hope another vigorous campaign will be followed by halcyon days. 
+</p><p>
+Mr. Benson writes me that your judges are industriously serving their country, but that their country had not, as yet, 
+made an adequate provision for them. This is bad policy, and poverty cannot excuse it. The bench is at present 
+well filled; but it should be remembered, that although we are told that Justice should be blind, vet there are no 
+proverbs which declare that she ought also to be hungry. Assure these gentlemen of my esteem ; and believe me to be, dear sir, with sincere attachment, 
+</p><p>
+Your friend and servant, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

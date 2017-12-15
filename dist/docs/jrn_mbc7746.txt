@@ -1,0 +1,30 @@
+<letter id="mbc7746">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='6'>6th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Sally Hampton went to Richmond with the Rev. Mr. Martin. She arrived there on Wednesday. On 
+Thursday her father, Wade Hampton, fought a great battle, but just did not win it a victory narrowly missed. 
+Darkness supervened and impenetrable woods prevented that longed-for consummation. Preston Hampton rode 
+recklessly into the hottest fire. His father sent his brother, Wade, to bring h,im back. Wade saw him reel in the saddle 
+and galloped up to him, General Hampton following. As young W^ade reached him, Preston fell from his horse, and 
+the one brother, stooping to raise the other, was himself shot down. Preston recognized his father, but died without 
+speaking a word. Young Wade, though wounded, held his brother's head up. Tom Taylor and others hurried up. The 
+General took his dead son in his arms, kissed him, and handed his body to Tom Taylor and his friends, bade them take 
+care of Wade, and then rode back to his post. At the head of his troops in the thickest of the fray he directed the fight for 
+the rest of the day. Until night he did not know young Wade's fate; that boy might be dead, too! Now, he says, 
+no son of his must be in his command. When Wade recovers, he must join some other division. The agony of such a 
+day, and the anxiety and the duties of the battle-field it is all more than a mere man can bear. 
+</p><p>
+Another letter from <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a>. She says: " I was dreadfully shocked at Preston Hampton's fate his untimely fate. I know nothing more touching in history than General Hampton's situation at the supremest moment of 
+his misery, when he sent one son to save the other and saw both fall; and could not know for some moments whether 
+both were not killed/ 
+</p><p>
+A thousand dollars have slipped through my fingers already this week. At the Commissary's I spent five hundred 
+to-day for candles, sugar, and a lamp, etc. Tallow candles are bad enough, but of them there seems to be an end, 
+too. Now we are restricted to smoky, terrabine lamps terrabine is a preparation of turpentine. When the chimney of the lamp cracks, as crack it will, we plaster up the place with paper, thick old letter-paper, preferring the 
+highly glazed kind. In the hunt for paper queer old letters come to light. 
+</p><p>
+<a href='/results.php?tla=wts' rel=''>Sherman</a>, in Atlanta, has left Thomas to take care of <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a>. <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> has thirty thousand men, Thomas forty thousand, and as many more to be had as he wants ; he has only to ring the bell and call for them. <a href='/results.php?tla=usg' rel=''>Grant</a> can get all that 
+he wants, both for himself and for Thomas. All the world is open to them, while we are shut up in a bastile. We 
+are at sea, and our boat has sprung a leak. 
+</p>
+</letter>

@@ -1,0 +1,67 @@
+<letter id="jsu3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=valley forge' rel='city origin'>Valley Forge</a>, <a rel="day origin" value="2">2</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+Nothing can be more painful to me, than the repetition of a request, which is known to be disagreeable to a Commander, to whom America in general, 
+and myself in particular, stand so much indebted. 
+After so polite a refusal as I have once had, I should 
+have remained forever silent upon the subject, did 
+not pure necessity, which knows no law, compel me 
+to repeat my request. I sincerely lament my being 
+compelled to discover my situation and my feelings, 
+and hope that a long silence upon the subject will 
+be looked upon by your Excellency rather as evidence of patience, than as a mark of my having the 
+gift of complaining without cause. I shall repeat 
+facts. 
+</p><p>
+When Britain first began to send troops to <a href='/results.php?city=boston' rel='city'>Boston</a>, 
+I began, at great expense, to manoeuvre troops as well 
+in the eastern part of Massachusetts as in our own 
+State. This not only occasioned a loss of time, but 
+the loss of money was inevitable. I then served the 
+public part of two years in Congress. Between the 
+sessions of Congress I undertook to dismantle the 
+fort at Piscataway. The Continent have received and 
+used the cannons, small arms, powder, &c., which were, 
+at my expense, removed into the country, at the distance of a number of miles, for which I have never 
+had the least reward, nor have I the least probability 
+of it. Since I have been in the service I have been 
+rather unfortunate. I have been robbed at Long Is 
+land, <a href='/results.php?city=new york' rel='city'>New York</a>, New Rochelle, and at <a href='/results.php?city=peekskill' rel='city'>Peekskill</a>. The 
+last of these losses I never suspected, till I was on 
+my return from New England, and had arrived within a mile of the place. I lost, at those several times, ten 
+suits of clothes complete, a large quantity of linens, 
+all my camp equipage, a valuable military library, 
+&c. &c. I have, notwithstanding, weathered out the 
+campaign, but have neither clothes nor equipage to 
+begin another, or money to purchase. I have lost 
+three horses in the service, which I am not able to 
+replace ; and though one of them was killed in action, 
+and the others in different service, Congress will 
+make no recompense. 
+</p><p>
+Under these circumstances, I have but two ways 
+left. One is to quit the service entirely, and the 
+other, to quit it for a season, to prepare myself for 
+greater fatigue and losses. I need not mention to 
+your Excellency how inadequate the eight 
+allowed by Congress, is to the support of an officer; 
+my first letter has hinted it ; I am sure your Excellency can see the justice of the hint. I have mentioned two ways of relief for myself. My first letter 
+has shown the necessity, as well as a letter I wrote 
+to Colonel Harrison, from <a href='/results.php?city=princeton' rel='city'>Princeton</a>, in June last. 
+Could I be permitted to have my choice, it would be 
+the former, as I have suffered too much and received 
+too little for the fatigue I have endured. If this 
+can be procured without trouble to your Excellency, 
+and without my incurring your Excellency's censure, 
+it will much oblige, dear General, him that is, with 
+every sentiment of gratitude and respect, 
+</p><p>
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p>
+</letter>

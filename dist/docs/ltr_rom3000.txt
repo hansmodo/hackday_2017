@@ -1,0 +1,54 @@
+<letter id="rom3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="12">December</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+I have just received yours of yesterday, and will 
+duly attend to those things you recommend to my 
+consideration. At present I have to inclose you a 
+letter from Congress, which I suppose contains their 
+resolves of the 20th instant; but as the President 
+does not say, in his letter to me, that they are in 
+closed to you, and as it is necessary you should 
+have them, I take the liberty to send herewith a copy of them.
+</p><p>
+I am well pleased to see the attention they pay 
+General Lee ; and I shall make it a point to collect 
+and send your Excellency, soon as possible, the 
+one hundred half Johannes they order. You will 
+observe Mr. Clymer, Mr. Walton, and myself are appointed a Committee to transact the Continental business here, that may be necessary and proper ; and I 
+apprehend that it will frequently be necessary that 
+we should know the substance of your correspondence with Congress.! Your letters to the President, 
+if sent open under our cover, shall always meet despatch, and their contents kept secret; and when you 
+think it improper we should see them before the 
+Congress, seal them, and they shall go forward untouched ; and, if you do not approve of submitting 
+them to our inspection at all, write us freely, and 
+your wishes in that respect shall be complied with. 
+</p><p>
+We have just heard of your success at <a href='/results.php?city=trenton' rel='city'>Trenton</a>. The account is but imperfect ; but we learn you are 
+master of that place, and all the baggage and stores our enemy had there, and of three hundred prisoners and that your troops were still in pursuit of the 
+flying enemy. I have just wrote to Congress, and 
+told them thus much, as the substance of an account 
+just come down; and I told them further, I had been 
+informed that you had executed in this matter your 
+part of a well-concerted plan; that <a href='/results.php?tla=wih' rel='colleague'>General Heath</a>,- at Hackensack, had orders from you, and that General Ewing and Colonel Cadwalader, also, had orders to 
+cross the Delaware at the same time you did, but had been prevented by driving ice. 
+</p><p>
+Good news sets all the animal spirits to work. 
+The imagination is heated, and I could not help adding , that I expected <a href='/results.php?tla=wih' rel='colleague'>General Heath</a> was to continue 
+his march towards Brunswick, which would draw the 
+attention of any troops posted there and at Prince 
+ton, while you would pursue the flying heroes to Bordentown and Burlington, where Ewing and Cadwalader would stop them, and cut off their communication with the two thousand Hessians and 
+Highlanders, that came after Griffin ; nay, I almost 
+promised them that you should, by following up this 
+first blow, finish the campaign of <a href="http://www.familytales.org/results.php?year=1776">1776</a> with that 
+eclat that your numerous friends and admirers have 
+long wished for. I congratulate you most heartily on 
+what is done ; and am, with perfect esteem, dear Sir, 
+Your Excellency's most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=rom" rel="me">ROBERT MORRIS</a>. 
+</p>
+</letter>

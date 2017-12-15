@@ -1,0 +1,39 @@
+<letter id="ccp3901">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+HONORED MADAM : 
+</p><p>
+No attack has been made upon us yet, and from the strange conduct 
+of the gentry in Five-Fathom Hole, I don t know when to expect one. 
+One man-of-war and seven transports went out of the harbor this 
+morning; they sailed to the north-east, but I can now plainly see them 
+lying at anchor on the other side of the bar. They are certainly much 
+weaker than they are generally reputed to be, or their councils are 
+much divided, or they would not have conducted their affairs in the 
+dilatory manner they have done. If they postpone their attack till 
+Monday, and I do not imagine it is in their power (such has been their 
+conduct) to attack us before that time, we shall be in exceeding good 
+order for them at every outpost and also in town. If they should how 
+ever visit us to-morrow, I believe they will heartily repent it. You 
+would scarcely know the environs of the town again, so many lines, 
+bastions, redans, and military mince-pies have been made all around it, 
+that the appearance of it is quite metamorphosed. All the houses on 
+the wharves are pulled down, so that the town looks from the water much 
+handsomer than it ever did. Every person there is obliged to work j 
+and the tories (reluctantly I believe) now work with the rest. General 
+Lee appears very clever, but is a strange animal ; however, as Adams 
+said, we must put up with ten thousand oddities in him on account of 
+his abilities and his attachment to the rights of humanity. Do give 
+my love to my sister and Dan, and my compliments to Mrs. Elliott, 
+W. Gadsden and all at Sandy Hill. Col. Gadsden is well and desired 
+me to acquaint you that he begs his compliments to you all and is 
+much obliged to you for the care of his son. My brother is well and I 
+remain 
+</p><p>
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter>

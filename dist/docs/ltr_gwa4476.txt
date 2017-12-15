@@ -1,0 +1,24 @@
+<letter id="gwa4476">
+<recipient first="Louis" last="Duportail" type="individual"/>
+<p>
+TO BRIGADIER-GENERAL DUPORTAIL. 
+</p><p>
+<a href='/results.php?city=new windsor' rel='city origin'>New Windsor</a>, <a rel='day origin' value='28'>28</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1781' rel="origin">1781</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+As you are perfectly acquainted with the plan, which 
+has been concerted with his Excellency <a href='/results.php?tla=cdr' rel='co-worker met'>Count De Rochambeau</a> at Weathersfield, I need not enter into a 
+detail of particulars. I have only to request, therefore, 
+that you will be pleased to make the estimates of the 
+articles in your department necessary for the operation, and that the previous arrangements for the siege, 
+as far as they are within the limits of our ability, may 
+be put in the best train, which the circumstances will 
+admit. In the mean time, as it has become necessary, 
+from the decay of the works, the demolition of the 
+barracks, and other circumstances, to abandon the post 
+of Fort Schuyler, and erect new fortifications, at or 
+near Fort Herkimer, I have to request, that you will 
+send an engineer to superintend the works in that department. I am, dear Sir, &,c. 
+</p>
+</letter>

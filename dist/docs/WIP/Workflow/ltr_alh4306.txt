@@ -1,0 +1,62 @@
+<letter id="alh4306">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=new york' rel='city origin'>New York</a>, <a rel='day origin' value='3'>3</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1787' rel="origin">1787</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+In my passage through the Jerseys, and since my 
+arrival here, I have taken particular pains to discover 
+the public sentiment; and I am more and more convinced that this is the critical opportunity for establishing the prosperity of this country on a solid 
+foundation. I have conversed with men of information, not only of this city, but from different parts of 
+the State ; and they agree that there has been an 
+astonishing revolution for the better in the minds of 
+the people. 
+</p><p>
+The prevailing apprehension among thinking men 
+is, that the Convention, from the fear of shocking the 
+popular opinion, will not go far enough. They seem 
+to be convinced, that a strong, well-mounted Government, will better suit the popular palate, than one of 
+a different complexion. Men in office are, indeed, 
+taking all possible pains to give an unfavorable impression of the Convention ; but the current seems to 
+be moving strongly the other way. A plain, but sensible man, in a conversation I had with him yesterday, expressed himself nearly in this manner ; — The 
+people begin to be convinced that "their excellent 
+form of Government," as they have been used to call 
+it, will not answer their purpose, and that they must 
+substitute something not very remote from that which 
+they have lately quitted. 
+</p><p>
+These appearances, though they will not warrant 
+a conclusion that the people are yet ripe for such a 
+plan as I advocate, yet serve to prove that there is 
+no reason to despair of their adopting one equally 
+energetic, if the Convention should think proper to 
+propose it. They serve to prove, that we ought not 
+to allow too much weight to objections drawn from 
+the supposed repugnance of the people to an efficient 
+Constitution. I confess, I am more and more inclined 
+to believe, that former habits of thinking are regaining their influence with more rapidity than is generally imagined. 
+</p><p>
+Not having compared ideas with you. Sir, I cannot 
+judge how far our sentiments agree ; but, as I persuade myself, the genuineness of my representations 
+will receive credit with you. My anxiety for the 
+event of the deliberations of the Convention, induces 
+me to make this communication of what appears to 
+be the tendency of the public mind. I own to you, 
+Sir, that I am seriously and deeply distressed at the 
+aspect of the counsels, which prevailed when I left 
+<a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. I fear that we shall let slip the golden 
+opportunity of rescuing the American Empire from 
+disunion, anarchy, and misery. No motley or feeble 
+measure can answer the end, or will finally receive 
+the public support. Decision is true wisdom, and 
+will not be less reputable to the Convention, than 
+salutary to the community. 
+</p><p>
+I shall of necessity remain here ten or twelve days. 
+If I have reason to believe that my attendance at <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> will not be mere waste of time, I shall, 
+after that period, rejoin the Convention. 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>.
+</p>
+</letter>

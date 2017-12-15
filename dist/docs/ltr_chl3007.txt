@@ -1,0 +1,80 @@
+<letter id="chl3007">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=williamsburg' rel='city origin'>Williamsburg</a>, <a rel="day origin" value="5">5</a> <a rel="month origin" value="4">April</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+MY DEAR GENERAL, 
+</p><p>
+I most sincerely congratulate you, I congratulate 
+the public, on the great and glorious event, your 
+possession of <a href='/results.php?city=boston' rel='city'>Boston</a>. It will be a most bright page 
+in the annals of America, and a most abominable 
+black one in those of the beldam Britain. Go on, 
+my dear General ; crown yourself with glory, and 
+establish the liberties and lustre of your country on 
+a foundation more permanent than the Capitol Bock. 
+</p><p>
+My situation is just as I expected. I am afraid that I shall make a shabby figure, without any real 
+demerits of my own. I am like a dog in a dancing-school. I know not where to turn myself, where to 
+fix myself. The circumstances of the country, intersected by navigable rivers, the uncertainty of the 
+enemy's designs and motions, who can fly in an instant to any spot with their canvas wings, throw me, or would throw Julius Caesar, into this inevitable 
+dilemma. I may possibly be in the North, when, as Richard says, I should serve my sovereign in the West. I can only act from surmise, and have a very 
+good chance of surmising wrong. 
+</p><p>
+I am sorry to grate your ears with a truth ; but must at all events assure you that the Provincial Congress of <a href='/results.php?city=new york' rel='city'>New York</a> are angels of decision, when 
+compared with your countrymen, the Committee of Safety assembled at <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>. Page, Lee, Mercer, and Payne are indeed exceptions; but from Pendleton, Bland, the Treasurer, and Company, libem nosy Domine! 
+</p><p>
+I shall not trouble you with a detail of the army, 
+ordnance, stores; but compendiously say, that the 
+regiments in general are very complete in numbers, 
+the men (those that I have seen) fine, but a most 
+horrid deficiency of arms, no intrenching tools, no 
+guns (although the Province is pretty well stocked) 
+for service. Had I only eight eighteen-pounders, I 
+would immediately, at all events, take post on Craney Island, by which measure I should drive out the 
+enemy, and exclude them from the finest and most 
+advantageous port in America. I have ordered, with 
+this view, the artificers to work night and day. If 
+I succeed, I shall come in for a sprig of laurels. 
+</p><p>
+This essential measure might have been effected 
+long ago, but the same apathy and oblique squinting 
+towards what the milk-and-water people call reconciliation, the prodigious flattering prospect opened by 
+the appointment of Commissioners, were strong arguments against the expense of gun-carriages and in 
+trenching tools. 
+</p><p>
+But this is not all. They have distributed their 
+troops in so ingenious a manner as to render every 
+active offensive operation impossible. An equal number of their battalions are stationed on the different 
+necks. They say, very acutely, that, as the expense 
+is equal, the security ought to be equal. I cannot 
+help persuading myself, that their object will be to 
+take possession of <a href='/results.php?city=williamsburg' rel='city'>Williamsburg</a>, not only from its 
+tempting advantageous situation, commanding, in great 
+measure, two fine rivers, and a country abundant in 
+all the necessaries for an army; but the possession 
+of the Capital would give an air of dignity and decided superiority to their arms, which, in this slave 
+country, where dominion is founded on opinion, is a 
+circumstance of the utmost importance. Perhaps I 
+may be mistaken, but, as the surmise is not irrational, I have called three regiments down the country. 
+</p><p>
+You will excuse, my dear General, the blots and 
+scratches of this letter, for the post is just going out. 
+By the next, I will inform you of the steps we have 
+taken for the security of this place. I have been 
+desired to recommend Colonel Grayson as a man of 
+extraordinary merit. He sets out soon to make application to the Congress for an establishment. If 
+we have, as we must, a Continental Hospital in the 
+Southern Department, Dr. McClary, I suppose, will 
+be the man to direct it. I need not mention his 
+qualifications, they are so well known. I beg you 
+will make somebody write to me from time to time. 
+</p><p>
+Indeed, I think I may modestly insist on Mr. Palfrey's pen being employed often in this service. 
+Adieu, dear General. 
+</p><p>
+Yours, most respectfully and sincerely, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

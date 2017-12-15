@@ -1,0 +1,53 @@
+<letter id="pjs3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=saratoga' rel='city origin'>Saratoga</a>, <a rel="day origin" value="15">15</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+DEAR SIR, 
+</p><p>
+Since I did myself the honor to write to your Excellency from <a href='/results.php?city=new york' rel='city'>New York</a>, nothing very material occurred 
+until yesterday, when I received the inclosed letters. 
+The accounts contained in that marked Number One are 
+truly alarming, in the present defenceless state of the 
+counties of Tryon and <a href='/results.php?city=albany' rel='city'>Albany</a>, and especially as the 
+assistance I can afford them either of men or money is 
+next to nothing ; the few troops at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, &c., 
+being at too great a distance, and not more than sufficient to guard the posts they occupy. I should have 
+been at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a> this day, had not the information from Tryon county arrived, which may make my 
+presence there absolutely necessary, if it should be 
+confirmed. I therefore propose remaining here until 
+to-morrow, when I hope to be further informed. 
+</p><p>
+I wish I may be able to proceed to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, 
+as I am very much wanted there, the greatest confusion having taken place in the controversy between 
+the officers claiming the command in that quarter. 
+Some have taken the liberty to disband troops, others 
+refused to serve unless this or that particular person 
+commanded. The sloop is left without either captain 
+or pilot, both of which are dismissed or come away; 
+much provision wasted or embezzled,, and on the 7th 
+instant only one barrel of flour at <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. I 
+shall have an Augean stable to clean there. 
+</p><p>
+I do myself the honor to inclose a return of the 
+forces in this colony. It is doubtless imperfect, as 
+I have been under a necessity of forming it out of 
+the returns which were evidently so. I hope soon to 
+send you a more complete one. 
+</p><p>
+Be assured, my General, that I shall use my best 
+endeavours to establish order and discipline in the 
+troops under my command. I wish I could add, that I 
+had a prospect of much success in that way. It is extremely difficult to introduce a proper subordination 
+amongst a people where so little distinction is kept up. 
+</p><p>
+Our accounts of the disposition of the Canadians and 
+Canada Indians continue to be favorable, though the 
+intelligence is nothing very authentic. I am your 
+Excellency's 
+</p><p>
+Obedient and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=pjs" rel="me">PHILIP SCHUYLER</a>.
+</p>
+</letter>

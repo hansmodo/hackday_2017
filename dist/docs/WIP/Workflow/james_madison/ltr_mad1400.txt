@@ -1,0 +1,42 @@
+<letter id='mad1400'>
+<recipient first='Edward' last='Coles' type='individual'/>
+<p>
+<a href="/results.php?city=montpelier" rel="city">Montpelier</a>, September 3, <a href="/results.php?year=1819">1819</a>. 
+</p><p>
+I have received, my dear sir, your agreeable letter, which lingered a long time on the way. 
+</p><p>
+We congratulate you much on the various successes of your western career, and 
+the first thing that strikes us is the rapidity of your promotions. Bounding over 
+the preliminary sailorship, the first step on the deck of your bark pardon me, of 
+the noble structure the Ark makes you a pilot ; the name of pilot is scarcely pronounced before you are a captain ; and in 
+less than the twinkling of an eye the captain starts up a commodore. On the land 
+a scene opens out before us in which you, too, figure. We see you at once a plough 
+man, a rail-splitter, a fence-builder, a cornplanter, and a hay -maker. To all these 
+rural functions, which leave but a single defect in your title of husband-(man), you 
+add the facilities of a town life. And to cap the whole you enjoy the official dignity 
+of "Register of the Land Office" in the important Territory of Illinois. We repeat 
+our congratulations on all these honors and employments, and wish that the emoluments may equal them. 
+</p><p>
+You are well off, for this year at least, when you can expect bread from corn 
+planted in July. Here, famine threatens us in the midst of fields planted in April. 
+So severe a drought is not remembered. On some farms, and among them my two 
+small ones near home, there has been no rain at all, or none to produce any sensible 
+effect. It has been, I hear, particularly hard upon the tobacco crop in Virginia, and will make a bad year. 
+</p><p>
+You are pursuing, I observe, the true course with your negroes in order to make 
+their freedom a fair experiment for their happiness. With the habits of the slave 
+and without the instruction, property, or employments of a freeman, the blacks, instead of deriving advantage from the partial benevolence of their masters, furnish 
+arguments against the general efforts in their behalf. I wish your philanthropy 
+could complete its object by changing their color as well as their legal condition. 
+Without this they seem destined to a privation of that moral rank and those social 
+blessings which give to freedom more than half its value. <a href="/results.php?tla=dol" rel="spouse met">MRS. MADISON</a> as well as 
+myself is much gratified by your promise to devote the next winter to your native 
+haunts. We sincerely hope your arrangements will give us an ample share of your 
+time. We will then take the case of your bachelorship into serious and full consideration. <a href='/results.php?tla=dol' rel='spouse met'>Mrs. Madison</a> is well disposed to 
+give all her aid in getting that old thorn out of your side, and putting a young rib in its place. She very justly remarks, however, that with your own exertions hers 
+will not be wanted, and without them not deserved. 
+</p><p>
+Accept our joint wishes for your health and every other happiness. 
+</p><p>
+<a href="/results.php?tla=mad" rel="me">JAMES MADISON</a>. 
+</p></letter>

@@ -1,0 +1,23 @@
+<letter id='mad1606'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, June 4, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, Your favor of the 2 ult was not received 'til my 
+arrival here on Monday evening. I found, contrary to my expectation, that not only a very full house had been made on the 
+first day, but that it had proceeded to the appointment of the 
+President and other officers. <a href='/results.php?tla=edp' rel='co-worker met'>Mr. Pendleton</a> was put into the 
+chair without opposition. Yesterday, little more was done than 
+settling some forms, and Resolving that no question, general or 
+particular, should be propounded 'til the whole plan should be 
+considered and debated, clause by clause. This was moved by 
+Col. Mason, and, contrary to his expectations, concurred in by 
+the other side. To-day, the discussions commenced in Committee of the whole. The Governor has declared the day of previous amendments passed, and thrown himself fully into the federal scale. Henry and Mason made a lame figure, and appeared 
+to take different and awkward ground. The federalists are a 
+good deal elated by the existing prospect. I dare not, however, 
+speak with certainty as to the decision. Kentucky has been 
+extremely tainted, is supposed to be generally adverse, and 
+every piece of address is going on privately to work on the 
+local interests and prejudices.of that and other quarters. 
+In haste, I am, D'r Sir, yrs affect'y. 
+</p></letter>

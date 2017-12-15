@@ -1,0 +1,54 @@
+<letter id="jhr3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='27'>27</a> <a rel="month origin" value="8">August</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I fully intended, for several weeks past, to pay my respects in person to your Excellency, but am 
+obliged to deny myself that pleasure, having been detained here much longer than I expected, and been anxious to return to Carolina. 
+</p><p>
+Though I have no doubt that the matter committed 
+to your Excellency, by a resolve of Congress of the 
+5th instant, has already engaged your attention, and 
+that you will order the most proper plan for effecting so desirable a measure to be carried into execution, as soon as the more immediate object of the 
+present campaign will admit, yet I cannot forbear representing, that the state of South Carolina and 
+Georgia is such as demonstrates the absolute necessity of expelling the enemy from those countries, as 
+speedily as possible ; and that this cannot be done 
+without a considerable naval force, and a large number of regular troops. I therefore flatter myself that, 
+as soon as the intended operations against <a href='/results.php?city=new york' rel='city'>New York</a> 
+shall be terminated, either successfully (as I hope 
+they will be) or by the season's not admitting a continuance of them, or if an attack on that city should 
+not be deemed expedient, your Excellency will send 
+such a force to the southward. 
+</p><p>
+Congress have requested the Minister of France to 
+use his influence to cause the plan of operations which you may form, or the measures which you may 
+recommend to be undertaken by the forces of their 
+most Christian and Catholic Majesties, in consequence 
+of the resolve above mentioned, to be carried into 
+effect. He is heartily disposed and has promised to 
+do so. Should your Excellency require aid from the 
+French forces in the West Indies, I have good reasons to believe it will be afforded, unless the Commanders there are expressly limited to acting in the 
+islands, which I cannot conceive they are. In that 
+case, I am persuaded that your application to the 
+Court of France would obtain a revocation of such 
+orders, and that his most Christian Majesty would 
+grant any lesser forces which you may require, either 
+from his kingdom or his islands. 
+</p><p>
+Thinking that it is thus in your power, and convinced that it is your earnest wish, to restore peace 
+and safety to the two southernmost States, I hope 
+those blessings will be speedily obtained. A consideration of the difficulty and delay attending the 
+collecting any considerable quantity of provisions, will, 
+I am sure, induce your Excellency to give timely 
+notice of what measures you wish to have established 
+in the Carolinas. I shall take the liberty of transmitting to your Excellency, from time to time, any 
+intelligence which may appear material, and shall be 
+happy to hear from you, that the prospect of complete relief to my distressed country is not far distant. I have the honor to be. 
+</p><p>
+With the greatest respect, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhr" rel="me">John Rutledge</a>. 
+</p>
+</letter>

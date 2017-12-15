@@ -1,0 +1,51 @@
+<letter id="dab3700">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=fort pitt' rel='city origin'>Fort Pitt</a>, <a rel='day origin' value='20'>20</a> <a rel="month origin" value="6">June</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Dear General, 
+</p><p>
+I take the liberty to inclose the copy of a letter 
+I have received from Colonel Bowman, and copies of 
+three several letters from the Reverend Mr. Zeisberger. The accounts contained in them are somewhat 
+alarming ; but I hope that my messages to the different Indian nations will prevent the British from 
+carrying their expedition into execution. 
+</p><p>
+Captain-Lieutenant Brady is just returned from 
+Sandusky. He took two squaws prisoners, within a 
+mile of their principal town. One of them made her 
+escape after six days march ; the other he brought to 
+Cuscusky, where he met seven warriors, who had 
+taken a woman and child from Chartier's Creek. He 
+fired upon the Captain of the party and killed him, 
+and has brought in the white woman and the Indian's scalp; but the squaw made her escape at the 
+same time. When Captain Brady fired upon the Indian party, he had but three white men, and only 
+two rounds of powder left. He was without provisions for six days, but has brought his whole party 
+safe to this place. His perseverance, zeal, and good 
+conduct, certainly entitle him to promotion; and I 
+beg leave to recommend him to your Excellency's 
+notice. 
+</p><p>
+I have provisions, at the dependent posts, for four 
+weeks to come ; and, by collecting all the cattle in 
+the possession of the Commissaries, this garrison may 
+be subsisted for the same term. But what I shall 
+do for further supplies, I cannot devise, unless I send 
+out foraging parties, and impress cattle; for the public has neither money nor credit here. 
+</p><p>
+The artillery is arrived, and the military stores are 
+safely lodged. The company consists of three officers, 
+and twenty-five non-commissioned officers and privates. I have not had the honor of a line from your 
+Excellency since that of the 14th of March; but I 
+hope one may be on the road for me, before this 
+reaches head-quarters. Captain McIntyre will set out, 
+a few days hence, towards the Indian country, with 
+a small party of men, to take some prisoners or 
+scalps. With the most sincere respect and esteem, I 
+have the honor to he, your Excellency's 
+</p><p>
+Most ohedient, and most humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=dab" rel="me">Daniel Brodhead</a>.
+</p>
+</letter>

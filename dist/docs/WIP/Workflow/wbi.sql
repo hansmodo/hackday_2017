@@ -1,0 +1,2 @@
+INSERT INTO media VALUES ('ltr_wbi8000','letter','1846-06-15','Sonoma','CA','US','William','Ide','','Robert','Stockton','','individual','','There was now no alternative but to die silently, 
+and singly by the hands of our enemies or fly to meet the foe.','ltr_wbi8000','hans.brough@yahoo.com',NULL,Now(),NULL,'Memoirs of My Life, by John Charles Fremont. 1887, Chicago, New York, Belford, Clarke & Company',0);

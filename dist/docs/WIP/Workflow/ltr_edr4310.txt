@@ -1,0 +1,29 @@
+<letter id="edr4310">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+(Private.) 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 11 o'clock, <a rel='day origin' value='8'>8</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+SiR; 
+</p><p>
+I was honored by your private letter of the 6th instant, about half an hour ago ; and immediately delivered to Mrs. Washington the one addressed to her. 
+</p><p>
+Mr. Butler and Mr. Brown, of the Senate, called to learn the intelligence from Europe. I considered their title to read the despatches as being no better 
+than that of other men; and I told them, verbally, only what I have told others. With the former gentleman some discussion arose how far the Senate 
+might call for the papers relative to the negotiation ; but he did not, however, apply the remark to himself as an individual. I cut the matter short, by 
+observing that he knew my opinion to be that the President was bound, in duty, and possessed the right, to withhold whatsoever he thought improper to be 
+communicated. I could not help asking, at the same time, whether the example of Mr. Edwards, which I mentioned to you in a late letter, did not prove 
+that Senators could disclose secrets as well as other folks. 
+</p><p>
+There is nothing so little talked of as the yellow fever. I believe that I am almost the only inquirer after it; and those to whom I address myself, seem 
+to take time to recollect themselves, as if the subject was a perfect stranger to their memory. <a href='/results.php?tla=hek' rel='met co-worker colleague'>General Knox</a> is with me ; and we shall have ready, for the 
+express of Monday, the analysis of an address to Congress. Mrs. Washington and family were well this morning. 
+</p><p>
+I have the honor to he, Sir, with the highest respect and affectionate attachment, 
+</p><p>
+Your most obedient servant, 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

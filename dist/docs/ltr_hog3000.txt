@@ -1,0 +1,74 @@
+<letter id="hog3000">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=ticonderoga' rel='city origin'>Ticonderoga</a>, <a rel="day origin" value="28">28</a> <a rel="month origin" value="8">August</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+SIR, 
+</p><p>
+Yesterday I had the honor to receive your Excellency's letter of the 14th instant, which is all I have 
+been favored with since that of the 19th July. I 
+have at length the satisfaction to send a pretty correct general return of the army in this part of the 
+northern district of America. A copy of my last 
+letter to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, which is in the packet, 
+will explain the return to your Excellency. I also 
+inclose my orders and instructions to Lieutenant Whitcomb, who went from hence the 20th instant upon 
+a scout towards St. John s, Chamblee, &c. The report of his last scout, which <a href='/results.php?tla=jsu' rel=''>General Sullivan</a> sent 
+him upon, has already been sent to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, who has doubtless transmitted it to your Excellency. 
+</p><p>
+As the smallpox is now perfectly removed from 
+the army, I shall, in consequence of the intelligence 
+received of the motions of the enemy, immediately 
+assemble my principal strength to maintain this important pass ; and hope General Waterbury, in a 
+week, at farthest, will be able to come with the 
+three row-galleys to <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>, and proceed, the instant they arrive and are fitted, to join General arnold upon the Lake. In the mean time, we are Exerting our utmost industry to fortify this post, a 
+plan of which is inclosed. The weather of late has 
+been so uncommonly wet and stormy for the season, 
+that we are much retarded in our works. As the 
+enemy feel alike the inclemency of the season, I 
+hope we shall be prepared for them when they come. 
+My orders to Brigadier-<a href='/results.php?tla=bea' rel=''>General Arnold</a> your Excellency will find in the packet. lie read and entirely 
+approved them before he left <a href='/results.php?city=ticonderoga' rel='city'>Ticonderoga</a>. I hope 
+they are the sentiments of your Excellency, and the 
+most Honorable the Congress, upon that momentous 
+command. 
+</p><p>
+As the New Hampshire and Connecticut militia 
+have come without tents, much time is lost, by those 
+regiments, in covering themselves. It happens, very 
+fortunately, that Mount Independence affords an ample supply of huts ; otherwise those corps must soon 
+have felt great distress. The Massachusetts militia 
+are arrived, well supplied with excellent tents, and a 
+sufficiency of good camp utensils. This, in our present circumstances, is a great help to us, and does 
+that Province much honor. 
+</p><p>
+<a href='/results.php?tla=jht' rel=''>Governor Trumbull</a> acquaints me he has forwarded 
+one thousand felling-axes and two loads of clothing. 
+His Excellency has, from the beginning of the misfortunes of this army, done every thing in his power to 
+establish it in health and power. Too much cannot 
+be said in his praise. Your Excellency must, long 
+ere this, have received from <a href='/results.php?tla=pjs' rel=''>General Schuyler</a> the report of Major Bigelow, who returned with the flag of 
+truce from <a href='/results.php?city=isle-aux-noix' rel='city'>Isle-aux-Noix</a>. As I constantly report 
+every extraordinary occurrence to <a href='/results.php?tla=pjs' rel=''>General Schuyler</a>, 
+I take it for granted there is no delay with him in 
+forwarding them to your Excellency and the congress. I have ordered Commissary A very to forward 
+to Colonel Trumbull the returns and reports that are 
+proper to be made in his department, and Dr. Morgan has, before this, shown your Excellency my letter to him of the 22d instant. 
+</p><p>
+I am pleased . at the account <a href='/results.php?tla=pjs' rel=''>General Schuyler</a> 
+gives me, of five hundred and thirteen thousand dollars being arrived at <a href='/results.php?city=albany' rel='city'>Albany</a> from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>. It 
+is much wanted both there and here, as the militia 
+were promised their mileage and billeting-money at 
+Number Four; but no money was sent there to pay 
+them. This neglect caused much murmuring amongst 
+them, and was very near stopping their march from 
+thence. I wish good care was taken not to make 
+any promises to troops but such as are punctually 
+performed. I apprehend this promise was made by 
+the Legislature at <a href='/results.php?city=watertown' rel='city'>Watertown</a>. I have the honor to 
+be, your Excellency's 
+</p><p>
+Most obedient, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=hog" rel="me">HORATIO GATES</a>. 
+</p>
+</letter>

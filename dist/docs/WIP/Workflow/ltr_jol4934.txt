@@ -1,0 +1,58 @@
+<letter id="jol4934">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='14'>14th</a> <a rel="month origin" value="3">March</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+This will be delivered to you by the <a href='/results.php?tla=kap' rel='colleague'>Count Pulaski</a>, whose prowess is not unknown to you. 
+</p><p>
+The dislike of some of his officers to him as a 
+stranger, the advantages which they have taken of him 
+as such, and their constant contrivances to thwart him 
+on every occasion, made it impossible for him to 
+command with that satisfaction to himself and benefit 
+to the public, which would undoubtedly have resulted 
+from their acting in concert with him. He has there 
+fore resigned his command, and determines to solicit 
+Congress to entrust him with a legionary corps com 
+posed of 68 horse, and about 200 foot. With such a corps and proper officers under him, to be perpetually 
+scouring the interval between the two armies, and 
+embracing every opportunity for a stroke of partisan 
+ship, he thinks he will render considerable service, 
+and I am persuaded from his intelligence and enterprising spirit, that the event will do him honour. 
+</p><p>
+His military ardour is very great, and he is exceedingly uneasy, lest by any delay on the part of Congress 
+he should be obliged to appear late in the field, which would be almost as painful to him as refusal in the first instance. 
+</p><p>
+He apprehends no difficulty in raising his number 
+of cavalry ; to engage the quota of infantry will be 
+almost impossible, unless Congress will make an 
+exception in his favour to their resolution against the 
+admission of prisoners and deserters into the service. 
+This is warranted by the practice of other nations, 
+and deserters, etc., enlisted in detached corps are not 
+by any means so dangerous as if they were admitted in the line. 
+</p><p>
+The count will be allowed, I presume, the Continental bounty for men, and the rate established for 
+equipping his cavalry. His eagerness to distinguish 
+himself will not suffer him to confine himself to the 
+latter if he finds it inadequate. 
+</p><p>
+He expects to retain his rank as brigadier. If his 
+whole history were known, Congress would grant his 
+request with thanks for his generous disinterestedness 
+on the present occasion. 
+I beg leave to introduce the Count to your acquaintance ; you may depend upon it that Congress will not 
+have reason to repent of having employed him in the 
+way which is proposed. 
+</p><p>
+His zeal for our cause and courage, proof against 
+every danger will cover him with glory, and I hope 
+promote the general interest. 
+</p><p>
+I am your most affectionate 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p>
+</letter>

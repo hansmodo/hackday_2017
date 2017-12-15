@@ -1,0 +1,37 @@
+<letter id="jod3658">
+<recipient first="Abigail" last="Adams"/>
+<p>
+President's House, <a href='/results.php?city=washington' rel='city origin'>Washington city</a>, 
+</p><p>
+	<a rel="day origin" value='2'>2</a> <a rel="month origin" value="11">November</a>, <a href='/results.php?year=1800' rel="origin">1800</a>. 
+</p><p>
+MY DEAREST FRIEND. 
+</p><p>
+WE arrived here last night, or rather yesterday, at 
+one o clock, and here we dined and slept. The 
+building is in a state to be habitable, and now we 
+wish for your company. The account you give of 
+the melancholy state of our dear brother Mr. Cranch 
+and his family, is really distressing, and must severely 
+afflict you. I most cordially sympathize with you 
+and them. 
+</p><p>
+I have seen only Mr. Marshall and Mr. Stoddert, 
+General Wilkinson and the two commissioners, Mr. Scott and Mr. Thornton. I shall say nothing of public 
+affairs. I am very glad you consented to come on, 
+for you would have been more anxious at <a href='/results.php?city=quincy' rel='city'>Quincy</a> 
+than here, and I, to all my other solicitudines mordaces, as Horace calls them, i. e., " biting cares," 
+should have added a great deal on your account. 
+Besides, it is fit and proper that you and I should re 
+tire together, and not one before the other. Before I 
+end my letter, I pray heaven to bestow the best of 
+blessings on this house, and on all that shall hereafter 
+inhabit it. May none but honest and wise men ever 
+rule under this roof ! I shall not attempt a description of it. You will form the best idea of it from inspection. 
+Mr. Briesler is very anxious for the arrival of the 
+man and women, and I am much more so for that of 
+the ladies. I am, with unabated confidence and affection, your 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>JOHN ADAMS</a>.  
+</p>
+</letter>

@@ -1,0 +1,87 @@
+<letter id="jol4915">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='23'>23d</a> <a rel="month origin" value="12">December</a> <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I wish it were in my power to enter properly into the different subjects which compose your letter of the 20th . In my present circumstances I must content 
+myself with writing you a short and hasty epistle. The particulars of the aifair alluded to by the Chevalier de Failly, I took it for granted you would have 
+received in your official letter, and therefore regretted the less my want of time to inform you properly of it. 
+The matter was in brief as follows : when we march'd from Whitemarah Camp, and were in the act of crossing the Schuylkil, we received intelligence that the 
+enemy were advancing on this side of the river; infact a ravaging party of four thousand under the command of Lord Cornwallis had pass'd the river and 
+were driving Potter's Militia before them. Two regiments of this corps, however, are said to have conducted 
+themselves extremely well and to have given the enemy no small annoyance as they advanced. <a href='/results.php?tla=jsu' rel='co-worker met'>General Sullivan</a> was Major Gen'l of the day and consequently conducted the march. 
+</p><p>
+His division and part of Wayne's had cross'd the river; being uncertain as to the number of the enemy, and dreading their advance in force. When 
+part of the army should be on one side of the river and part on the other he order'd those troops to recross and our bridge to be render'd impassible. 
+</p><p>
+Notice of this was sent to the Commander in Chief, 
+and when he arrived parties of the enemy were seen 
+on the commanding heights on this side of the river. 
+There was a pause for some time and consultation what 
+was to be done; parties of horse in the mean time 
+were detached to gain certain intelligence of the enemy's number and designs. 
+</p><p>
+It was considered that our army was near a river 
+to which it had march'd by a narrow road, on each 
+side of which thick woods render'd it impossible for the army to display itself; and that if sir Wm Howe sh'd 
+keep up a show on the opposite side Schuylkil, and at 
+the same time march in force from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> upon 
+us, we must in these circumstances inevitably be 
+ruined. Some pronounced hastily that the enemy had 
+received intelligence of our march, although the resolution had been taken in council only the night before, 
+and that they were prepared to oppose our passage. 
+<a href='/results.php?tla=gwa' rel='co-worker friend met'>Gen'l Washington</a> who never since I have been in his 
+family has pass'd a false judgment on such points, 
+gave it as his opinion that the party in view were 
+foragers ; that the meeting was accidental, but, how 
+ever, the enemy might avail themselves of this unexpected discovery, and might draw as much advantage 
+from it as if the rencounter had been premeditated. 
+</p><p>
+The intelligence was received that the enemy were 
+retiring in great haste, but it did not appear satisfactory, 
+and the army was ordered to march to the Swedes 
+Ford three or four miles higher up the river and 
+encamp with the right to the Schuylkil. The next 
+morning the want of provisions I could weep tears of 
+blood when I say it the want of provisions render'd it 
+impossible to march. We did not march till the evening of that day. Our ancient bridge, an infamous 
+construction which in many parts obliged the men to 
+march by Indian file, was restored, and a bridge of waggons made over the Swedes Ford, but fence-rails 
+from necessity being substituted to plank, and furnishing a very unstable footing, this last served to cross a 
+trifling number of troops. As the event turn'd out <a href='/results.php?tla=jsu' rel='co-worker met'>Gen'l Sullivan</a>'s retrograde movement was unspeakably 
+unlucky. If we had persevered in crossing in the 
+first instance, or if we had even crossed in the evening 
+of the first day, the flower of the British army must 
+have fallen a sacrifice to superior numbers. 
+</p><p>
+Among the parties of horse that were out upon this 
+occasion a small detachment of Bland's Regiment 
+composed of trumpeter, farrier, and whatever could 
+be collected for the moment, their Col. at their head, 
+charged a serjeant and guard of Hessians and took 
+them all prisoners. 
+</p><p>
+On the 19th inst. we march'd from the Gulph to this 
+camp, head quarters at the Valley forge. 
+</p><p>
+On the 22 nd at night we received intelligence of a 
+large foraging party of the enemy having pass'd the 
+Schuylkil. Last evening the 22 d Gen'l Potter wrote us 
+that General Howe is with the foragers, from whence 
+we conclude that the greatest part of his army is with 
+him. They encamped on the other side of Derby 
+last night will you believe it starving in a plentiful country. The utmost we could do was to dispatch 
+small parties draughted from each brigade last night, and to take extraordinary means for furnishing the army with provisions to enable a more respectable force to inarch to the enemy. L'd Stirling's Division 
+march cl to-day in order to cover the country and observe the enemy's motions till something more effectual can be done. 
+</p><p>
+I have inquired whence this defect in the Commissariat Department arises; but this must be defer'd 
+till I next have the pleasure of writing to you. I have 
+barely time to repeat my prayers for your speedy recovery, and the assurances of the boundless love of your 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+Enclosed are letters of thanks, one in French and an attempt at one in English, by way of translation, from L* Col. Fleury. By the bye my military title is L* Colonel. 
+</p>
+</letter>

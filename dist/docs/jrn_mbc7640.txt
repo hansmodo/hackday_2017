@@ -1,0 +1,27 @@
+<letter id="mbc7640">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='4'>4th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Battles occur near Richmond, with bombardment of Charleston. <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> is said to be fighting his way out or in. 
+</p><p>
+Mrs. Gibson is here, at Doctor Gibbes's. Tears are always in her eyes. Her eldest son is Willie Preston's lieutenant. They are down on the coast. She owns that she has no hope at all. She was a Miss Ayer, of Philadelphia, 
+and says, " We may look for <a href='/results.php?tla=aeb' rel=''>Burnside</a> now, our troops which held him down to his iron flotilla have been with 
+drawn. They are three to one against us now, and they have hardly begun to put out their strength in numbers, 
+I mean. We have come to the end of our tether, except we wait for the yearly crop of boys as they grow up to the 
+requisite age." She would make despondent the most sanguine person alive. " As a general rule," says Mrs. Gib 
+son, " government people are sanguine, but the son of one high functionary whispered to Mary G., as he handed her 
+into the car, Richmond is bound to go. The idea now is that we are to be starved out. If they shut us in, prolong the 
+agony, it can then have but one end. 
+</p><p>
+Mrs. Preston and I speak in whispers, but Mrs. McCord scorns whispers, and speaks out. She says : "There are our 
+soldiers. Since the world began there never were better, but God does not deign to send us a general worthy of 
+them. I do not mean drill-sergeants or military old maids, who will not fight until everything is just so. The real am 
+munition of our war is faith in ourselves and enthusiasm in our cause. West Point sits down on enthusiasm, laughs it 
+to scorn. It wants discipline. And now comes a new danger, these blockade-runners. They are filling their pockets 
+and they gibe and sneer at the fools who fight. Don't you see this Stonewall, how he fires the soldiers hearts he will 
+be our leader, maybe after all. They say he does not care how many are killed. His business is to save the country, 
+not the army. He fights to win, God bless him, and he wins. If they do not want to be killed, they can stay at home. 
+They say he leaves the sick and wounded to be cared for by those whose business it is to do so. His business is war. 
+They say he wants to hoist the black flag, have a short, 
+sharp, decisive war and end it. He is a Christian soldier." 
+</p>
+</letter>

@@ -1,0 +1,13 @@
+<letter id="anp3901">
+<recipient first="John" last="Irvine" type="individual"/>
+<p>
+<a rel="month origin" value="2">FEBRUARY</a> <a rel='day origin' value='20'>20</a>, <a href='/results.php?year=1779' rel="origin">1779</a>: 
+</p><p>
+SIR : You are hereby desired to be at White Hall on Wednesday next with one third of your Company they to be horsemen and one 
+Lieutenant, and one other third of your Company to continue at White Hall until further orders. You will receive further orders on that day, 
+</p><p>
+I am, sir, your most humble servant, 
+</p><p>
+<a href="/results.php?tla=anp" rel="me">ANDREW PICKENS</a>.  
+</p>
+</letter>

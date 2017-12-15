@@ -1,0 +1,27 @@
+<letter id="jod3588">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, 	<a rel="day origin" value='5'>5</a> <a rel="month origin" value="5">May</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+I MUST remain here, because my friends say I must 
+not go. Those whose principles are the same with 
+mine, whose views of public good coincide with mine, 
+say that if we keep together, we shall succeed to the 
+end of the session as we have hitherto done, in keeping off all the most pernicious projects. 
+</p><p>
+The ways and means before the House of Representatives is a very important and a very difficult system. 
+While I confess the necessity of it, and see its importance in giving strength to our government at 
+home and consideration to our country abroad, I lament the introduction of taxes and expenses which 
+will accumulate a perpetual debt and lead to future 
+revolutions. 
+</p><p>
+I regret every moment I lose here, but I cannot 
+yet be sure that I can see you before June. 
+</p><p>
+With the utmost tenderness of affection, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. A.</a> 
+</p>
+</letter>

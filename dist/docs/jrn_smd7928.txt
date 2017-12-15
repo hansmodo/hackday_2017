@@ -1,0 +1,20 @@
+<letter id="smd7928">
+<recipient first="" last="" type="individual"/>
+</p><p>
+[ <a href='/results.php?city=linwood' rel='city origin'>Linwood</a> Louisiana ], Monday, <a rel="month origin" value="2">February</a> <a rel='day origin' value='9'>9th</a>, <a href='/results.php?year=1863' rel='origin'>1863</a>. Night. 
+</p><p>
+A letter from my dear little Jimmy ! How glad I am, words could not express. This is the first since 
+he arrived in England, and now we know what has become of him at last. While awaiting the 
+completion of the ironclad gunboat to which he has been appointed, like a trump he has put him 
+self to school, and studies hard, which is evident from the great improvement he already exhibits in his letter. . . . 
+</p><p>
+My delight at hearing from Jimmy is overcast by the bad news Lilly sends of mother's health. I have 
+been unhappy about her for a long while ; her health has been wretched for three months; so bad, that 
+during all my long illness she has never been with me after the third day. I was never separated from 
+mother for so long before ; and I am homesick, and heartsick about her. Only twenty miles apart, and 
+she with a shocking bone felon in her hand and that dreadful cough, unable to come to me, whilst I am 
+lying helpless here, as unable to get to her. I feel right desperate about it. This evening Lilly writes 
+of her having chills and fevers, and looking very, very badly. So Miriam started off instantly to see her. 
+My poor mother ! She will die if she stays in <a href='/results.php?city=clinton' rel='city'>Clinton</a>, I know she will ! 
+</p><p>
+</letter>

@@ -1,0 +1,400 @@
+
+Warning: preg_replace_callback(): Delimiter must not be alphanumeric or backslash in /private/tmp/temp_textmate.9YEXFB on line 228
+<meta>
+--DOCUMENT-TYPE--ltr
+--LETTER-START-NUMBER--3900
+--LETTER-TLA--ccp
+--DOC-AUTHOR-FIRST--Charles
+--DOC-AUTHOR-LAST--Pinckney
+--DOC-SOURCE--Documentary History of the American Revolution Consisting of Letters and Papers Relating to the Contest for Liberty, Chiefly in South Carolina, from Originals in the Possession of the Editor, and Other Sources, 1776-1782. R. W. Gibbes, M. D., 1857
+--LETTER-OWNER-EMAIL--hans@broughdesign.com
+</meta>
+
+<letter id="ccp3900">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> <a rel='day origin' value='5'>5</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+Lest my honored mother should be alarmed by hearing exaggerated 
+reports of the fleet off the bar, I snatch a few minutes from the duties 
+of my station to acquaint her of the particulars of it. 
+</p><p>
+There are not more than fifty-two vessels altogether, many of which 
+are very small. I do not believe there -are above six or seven men-of-war 
+and a few tenders amongst them ; the rest I take to be transports some 
+with soldiers and some with provisions. They can not get over the bar 
+with this wind, so that we shall have no fighting to-day. We are pre 
+paring to receive them properly when they do come over. Our men 
+are in fine spirits and I doubt not will behave as they ought to do on 
+the occasion. 
+</p><p>
+Mo watt arrived last night with an express from Gen. Lee, who is on 
+his march from North Carolina to this colony with two thousand men. 
+If the wind should prove unfavorable for a few days to the gentry on 
+the other side the bar, he may be able to join us before an engagement, 
+My brother is exceedingly well. Dr. Spence is with us. I hear the 
+country militia are hurrying to town every hour. 
+</p><p>
+Give my love to Harriott, Dan, Mrs. Doyly and her family; my 
+compliments to Mrs. Elliott and all my friends, and believe me to be 
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter><letter id="ccp3901">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='15'>15</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+HONORED MADAM : 
+</p><p>
+No attack has been made upon us yet, and from the strange conduct 
+of the gentry in Five-Fathom Hole, I don t know when to expect one. 
+One man-of-war and seven transports went out of the harbor this 
+morning; they sailed to the north-east, but I can now plainly see them 
+lying at anchor on the other side of the bar. They are certainly much 
+weaker than they are generally reputed to be, or their councils are 
+much divided, or they would not have conducted their affairs in the 
+dilatory manner they have done. If they postpone their attack till 
+Monday, and I do not imagine it is in their power (such has been their 
+conduct) to attack us before that time, we shall be in exceeding good 
+order for them at every outpost and also in town. If they should how 
+ever visit us to-morrow, I believe they will heartily repent it. You 
+would scarcely know the environs of the town again, so many lines, 
+bastions, redans, and military mince-pies have been made all around it, 
+that the appearance of it is quite metamorphosed. All the houses on 
+the wharves are pulled down, so that the town looks from the water much 
+handsomer than it ever did. Every person there is obliged to work j 
+and the tories (reluctantly I believe) now work with the rest. General 
+Lee appears very clever, but is a strange animal ; however, as Adams 
+said, we must put up with ten thousand oddities in him on account of 
+his abilities and his attachment to the rights of humanity. Do give 
+my love to my sister and Dan, and my compliments to Mrs. Elliott, 
+W. Gadsden and all at Sandy Hill. Col. Gadsden is well and desired 
+me to acquaint you that he begs his compliments to you all and is 
+much obliged to you for the care of his son. My brother is well and I 
+remain 
+</p><p>
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter><letter id="ccp3902">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='17'>17</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+HONORED MADAM: 
+</p><p>
+The enemy has not thought fit to make any attack upon us yet. 
+They employed themselves yesterday in landing some men on LongIsland (a small creek parts it from Sullivan's Island), but whether it 
+was meant as a feint, or whether they were to make a descent on Sullivan's Island in the rear, while the shipping batter it in front, I cannot 
+determine. In either case they will be handsomely received. I, have 
+just heard that a battalion of Virginia Riflemen are arrived in town; 
+so that we are now very strong. We were unlucky enough yesterday 
+to have a small sloop, which was bringing us powder from Eustatia, run 
+aground near Stone Inlet. She was pursued by several of the men-of-war's barges, and rather than that they should make prize of her, the 
+captain blew her up. The explosion was great ; perhaps you heard it at 
+Sandy Hill. With my love to Harriet and Dan and my compliments 
+to Mrs. Elliott and the company at Sandy Hill, I remain 
+</p><p>
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter><letter id="ccp3903">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=fort johnston' rel='city origin'>FORT JOHNSTON</a>, <a rel="month origin" value="6">June</a> 	<a rel='day origin' value='29'>29</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+I am sure my honored Mother must be anxious to know the event of 
+yesterday's cannonade. I therefore take the earliest opportunity of 
+acquainting her with the particulars of it. As my station was at Fort 
+Johnston, and the whole of the engagement was at Sullivan's Island, I 
+was only a spectator, though I and every man here declared they longed 
+earnestly to have been there, to have partaken the honor and danger 
+with their fellow soldiers. 
+</p><p>
+Yesterday, about eleven o clock, the Bomb Ketch, and a ship-of-war, 
+came up from Five-Fathom Hole, and a signal was fired from the Commodore for the other ships of war to weigh anchor. At about half 
+after eleven, the Ketch began to favor Sullivan's Island with some 
+bombs. I could distinctly see many of them burst in the air. Five fell in the Fort at Sullivan's Island, but did no other damage than slightly wounding one man. The Solebay, of 28 guns, who was ahead 
+of the line, received a shot from the Island, and immediately returned 
+it with her whole broadside. The enemy then formed in two lines to 
+attack the Fort on Sullivan's Island. In the first line the Bristol, of 
+50 guns, the Solebay, of 28, the Active, of 28, and a 40 gun vessel, 
+which I am told is called the Roebuck, (I am not sure of her name, 
+but certain of her strength, for I could plainly see her guns.) In the 
+second line was the Syren, of 28, and two other frigates, whose names 
+I do not know ; behind them were the Bomb Ketch, and a heavy hulk 
+of a vessel something like our Prosper. 
+</p><p>
+A brisk and heavy cannonading was kept up at first, both from the 
+ships and the Fort. Some shot from the Fort put their second line into 
+disorder, and carried away the bowsprit of one of the frigates; and as they 
+were near that bank of sand which runs out from the Fort towards Sullivan's Island, and then turns towards Cummins Point (called the Lower 
+Middle), the two ships, whose names I do not know, ran aground there. 
+The first line of the enemy appeared to us at this place to be about six 
+or seven hundred yards from the Island, but from them I hear they were 
+within 500 yards. All the 26 pounders were pointed at the Bristol, 
+and about two hours after the cannonading began, she received so much 
+damage that she was obliged to draw back, but still continued to fire, 
+though not so briskly as before. At about three o clock the Fort had 
+expended all its ammunition, (it had thirty odd rounds to each gun, and 
+thirty-two guns.) The shipping still kept up a heavy cannonade; the 
+Fort could not return it. In about two hours they got a supply of 200 lbs. of gunpowder from Tufts , and 500 lbs. from Hacldrell's Point. 
+They fired again, but slowly, and with great judgment. Night came 
+on, and the cannonading still continued on both sides, and the greatest 
+number of our shot (if we may judge from the noise they made against 
+the sides of the ships) took place, but the ships fired near fifty for one. 
+A little after nine o clock, the ships thought they were sufficiently 
+battered, and ceased firing; and half after nine began to work down 
+again to their old station in Five-Fathom Hole. One of the ships which 
+ran aground got off again, the other (at least a twenty-gun ship) stuck 
+fast there. Upon being fired at from the Island this morning, she re 
+turned the fire ; the Island fired again. The men then that were on 
+board her loaded all their guns, set her on fire, got into her boats, leaving all the colors flying aboard the ship, and rowed off to the rest of the 
+fleet. When she burnt down to her cannon, she gave a noble discharge. 
+A boat from the Island went on board of her, and brought away her 
+Jack. She is now almost burnt down to the water's edge; in a little 
+while we shall scarcely see the remains of her. The ships that warped 
+off must have received considerable damage, as in general the shot from 
+the Island was exceedingly well placed. The Bristol's mizen mast is this 
+moment fallen down, doubtless in consequence of the shot she got yesterday. Several parts of the ships, and some parts of the cabin, have 
+floated up to town, so that I believe they have met with a reception 
+they little expected. The officers and men at the Island I am informed, 
+behaved with the greatest bravery; and notwithstanding so heavy a 
+cannonade for ten hours, we had but ten men killed and twenty-two 
+wounded. There were only Moultrie's Regiment, consisting of about 
+350 men, and thirty of Roberts Artillery, in the Fort. The officers 
+behaved nobly, and pointed every gun themselves ; and what is remark 
+able, though there was not a man killed but what was close to an officer, 
+yet only Lieut. Gray was slightly wounded by a splinter from a carriage 
+in his thigh, and a spent ball on his breast. Lieuts. Hall and Mazyck 
+received two contusions in their faces. The first man that was killed 
+was a Corporal of Grenadiers. The rest of the men who belonged to 
+his gun immediately threw him off the platform with their handspikes, 
+crying out, u Revenge, let us revenge our comrade's death ! 7 and immediately returned to their gun with the greatest eagerness. 
+</p><p>
+The enemy shot away the flag -staff, with our colors. A grenadier 
+immediately ran through a shower of grape shot, and stuck up the 
+colors on a pike. One McDonald, a sergeant in Capt. Frank Huger's 
+Company, being mortally wounded, as they were carrying him away, 
+cried out, " I am killed my brethren, but don t let liberty expire with 
+me !" While this happened at the end of Sullivan's Island, where this 
+Fort is, the enemy, whose troops are on Long Island, attempted to pass 
+over to that end of Sullivan's Island which was nearest them, but received so warm a reception from Thompson's Rangers, the Virginia 
+Riflemen, some of the North Carolina troops, a few of the Militia, and 
+an eighteen pounder that we had there, that they were obliged to re 
+treat, without wounding so much as one of our men. The enemy's 
+loss in men must have been considerable, as our shots were chiefly levelled at the hull of the ships. The transports lay in Five-Fathom 
+Hole during the whole engagement. I assure you I never saw men in 
+higher spirits than ours were during the whole cannonade; and though 
+from our station here we were unfortunate enough to be out of it, there 
+was not a man but was wishing most earnestly to be there. 
+</p><p>
+The Fort, though well peppered with shot, has received scarcely any 
+damage, not a single breach being made in it, nor did the Palmetto 
+logs, of which it is built, at all splinter. The powder room on board 
+the burning frigate, has this instant blown up. You cannot conceive 
+what a noble column of smoke it makes till it loses itself among the highest clouds. 
+</p><p>
+My brother is well. Pray give my love to my sister and Dan, and 
+compliments to Mrs. Elliott, and the ladies at Sandy Hill. I remain, 
+Your dutiful son, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter><letter id="ccp3904">
+<recipient first="John" last="Matthews" type="individual"/>
+<p>
+<a href='/results.php?city=pon pon' rel='city origin'>PON PON</a>, <a rel="month origin" value="5">May</a> 	<a rel='day origin' value='19'>19</a>, <a href='/results.php?year=1782 rel="origin">1782</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+By a letter this moment received from Gen. Huger, dated the 10th 
+of this month, he desires me to inform your excellency, that a Col. Perkins, a trader from Virginia, has contracted for five or six hundred 
+head of cattle on Pee Dee and the Cheraws, and which in a few days 
+will be drove off for Virginia, if not immediately stopped ; the consequences of such a speculation (for our commissaries have it not in their 
+power to go to market with ready money) are truly alarming. 
+I am your excellency's most obedient servant, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter><letter id="ccp3905">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a rel="month origin" value="2">February</a> 	<a rel='day origin' value='24'>24</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+HONORED MADAM : 
+</p><p>
+I embrace with pleasure an opportunity of complying with the request, 
+you made me when I left Santee, of transmitting such intelligence as I 
+thought worthy your notice, though the presence of our active officers 
+(General Moultrie and Col. Pinckney) renders the subject somewhat 
+barren. My cousin and the General returned to town on Tuesday by 
+desire of <a href='/results.php?tla=bel' rel='colleague'>Gen. Lincoln</a>, who was of opinion that unless the assembly 
+took some effectual measures to oblige the militia to do their duty, and 
+placed them under the same articles as those from North Carolina, our 
+situation would soon be discouraging, even to those who had voluntarily 
+resigned their lives and fortunes, in our defence, though at a great distance from danger and who were merely actuated upon this occasion by 
+a love to their country. They opened the matter very fully; related 
+several facts of which we were ignorant; were exceedingly warm; and 
+roused the spirit as well as the indignation of the House so much at the 
+conduct of their fellow-citizens, that notwithstanding they had, some 
+little time before, reprobated the idea of subjecting the militia to martial law, yet an Ordinance being prepared and brought in for that 
+purpose passed both Houses without opposition. The reluctance of our 
+militia to continue at Purysburgh longer than the 1st of March, frustrated one of the best laid schemes, that our affairs have yet given Gen. 
+Lincoln an opportunity of concerting. A detachment of the enemy 
+having taken possession of <a href='/results.php?city=augusta' rel='city'>Augusta</a>, Gen. Ash was immediately detached 
+to reinforce Gen. Williamson; these corps when joined consisted of 
+between two and three thousand men. Gen. Moultrie was ordered to 
+march with his division, consisting of 1,600 Continentals and some 
+regiments of militia; and had he occupied the post to which he was 
+ordered and was then proceeding to, the enemy would have been completely surrounded and either obliged to hazard a battle on the disadvantageous terms of three to one or have surrendered themselves prisoners of war but after marching six or eight miles up the river for this 
+purpose, he received an order from <a href='/results.php?tla=bel' rel='colleague'>Gen. Lincoln</a> to return to his former 
+post; but I am happy in acquainting you that our officers pledge 
+themselves, that they will, with the assistance of only a small part 
+of our militia, free Georgia from the present invasion ; indeed, the 
+enemy themselves confess that they have erred in not marching immediately to Charlestown, after the rout at <a href='/results.php?city=savannah' rel='city'>Savannah</a>; and the late precipitate retreat from <a href='/results.php?city=augusta' rel='city'>Augusta</a>, where they left their Hospital, with a letter 
+recommending their sick and wounded to the care and humanity of 
+Gen. Williamson, convinces me that they either mean to evacuate 
+Georgia very soon, or to confine themselves to <a href='/results.php?city=savannah' rel='city'>Savannah</a> and its 
+environs but it is u matter of doubt with me, whether they will be 
+even able to maintain their post there, as I am informed that the reinforcement which G. M. carries with him, will enable our forces to 
+act offensively. Lincoln is anxious and uneasy at being obliged from 
+the enemy's superiority, or at least equality of numbers, to remain so 
+long inactive, and will assuredly take the first opportunity of paying 
+them a visit. The long expected express from the northward arrived on 
+Monday. Messrs. <a href='/results.php?tla=jol' rel='colleague'>Laurens</a> and <a href='/results.php?tla=wid' rel='colleague'>Drayton</a> acquaint us that it is impossible to spare any Continental troops, as a secret expedition now on the 
+carpet, will demand their whole force. They say that Congress in con 
+sequence of our application, have granted us every assistance in their 
+power, and refer the Governor to the President's letter on that subject, 
+which has not yet come to hand. As to a further aid from North Carolina, they have agreed to send us 2,000 more men immediately. We 
+have now upwards of 3,000 of their men with us; and I esteem this last 
+augmentation, as the highest possible mark of their affection for us and 
+as the most convincing proof of their zeal for the glorious cause in which 
+they are engaged ; they have been so willing and ready upon all occa 
+sions to afford us all the assistance in their power, that I shall ever love a North Carolinian, and join with Gen. Moultrie in confessing that they 
+have been the salvation of this country. 
+</p><p>
+I expect <a href='/results.php?tla=peh' rel='colleague'>Col. Horry</a> will be in town in a few days, as he was on Friday last elected Colonel of a Regiment of light dragoons, which are to 
+be immediately raised for the public service. Maharn is Major there 
+was an opposition in favor of Major Huger, but by no means a serious 
+one, as the Colonel carried it by a majority of 44; Huger will soon be 
+promoted in the Continental service as a Commission arrived yesterday 
+appointing Col. Huger, a Brigadier General. 
+</p><p>
+There is almost a total stagnation of every kind of business; and we 
+daily expect a Proclamation from the Governor and Council for stopping 
+the Courts of Justice and prohibiting all commercial proceedings what 
+soever until the removal of the enemy from Georgia. The people of 
+this country were scarcely roused to a sense of their danger, till within 
+this fortnight, but I believe I may now venture to assert that Carolina, 
+will in a short time (comparatively speaking) be as tenacious of her 
+freedom and as forward in defending her liberties as any State on the 
+continent, though, from her internal disputes and natural weakness, 
+she may not be able to bring as many men into the field. Our town, 
+once the seat of pleasure and amusement, is now dull and insipid; a 
+sameness prevails through every thing, and the duty of the remaining 
+militia is full as fatiguing as that of the regulars. We have very few 
+men left here, notwithstanding which they are daily reducing us, and 
+should a fleet and army appear at our bar, God knows what we should 
+do. If the enemy should prove unable to penetrate into this State, and 
+I can get leave (for no one is suffered to leave the town without it under 
+a heavy fine) I purpose paying you a visit at Santee for a few days. I 
+am fond of variety, and changing the scene now and then is I think 
+very agreeable. I hope the little bantling and my friend Daniel are 
+well. Should the weather continue good, my uncle and family will be 
+at Santee on Thursday. I shall expect an answer from you by your next 
+express, and you may depend upon my writing you as often as I can find 
+a conveyance for a letter. My compliments to Miss Howarth and our 
+Santee friends (in which my mother joins me). Conclude me 
+Your affectionate nephew, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p><p>
+P. S. Mr. Bee being elected Lieutenant-General, and E. Rutledge 
+refusing to go to Congress, Mr. Lowndes and <a href='/results.php?tla=wid' rel='colleague'>William Henry Drayton</a> 
+(who carried it against Daniel Huger by one vote) were elected in their 
+room. 
+</p>
+</letter><letter id="ccp3906">
+<recipient first="Eliza" last="Lucas" type="individual"/>
+<p>
+<a href='/results.php?city=charleston' rel='city origin'>CHARLESTON</a>, <a rel="month origin" value="3">March</a> 	<a rel='day origin' value='28'>28</a>, <a href='/results.php?year=1779' rel="origin">1779</a>. 
+</p><p>
+HONORED MADAM: 
+</p><p>
+This is the second or third time that I have wrote you without hearing a word from you or of you, only in general that you are very well. 
+The last was on the 20th, by your servant, Moses, which I hope you 
+have received. Since that <a href='/results.php?tla=bel' rel='colleague'>General Lincoln</a> has thought proper to re 
+move the army from Purysburgh to the two Sisters (except about three hundred left as a guard to their camp under the command of Col. Pinckney) where it seems the enemy have assembled their whole force, 
+and from whence an easy transition may be made into this State this 
+movement is if possible to prevent their crossing, and keep them at bay 
+until our army is reinforced, either by the arrival of some auxiliaries 
+from the northward, or by a body of our militia from Orangeburgh. I 
+am led to believe the Governor's presence will have a good effect in 
+inducing the militia to turn out more cheerfully than they have hitherto 
+done. We must now or never turn our thoughts entirely to war; we 
+must rouse our spirits and sacrifice with pleasure part of our estates to 
+secure the rest; in short we must be wanting to ourselves in nothing 
+that may be requisite to the common safety have we any reason or the 
+least pretence to be excused from so doing ? In what fatal tranquility 
+did we remain when we received the intelligence of the enemy's being 
+in possession of <a href='/results.php?city=savannah' rel='city'>Savannah</a>, the defeat at <a href='/results.php?city=augusta' rel='city'>Augusta</a>, the taking of our 
+gallies, and other affairs of less importance. We are now sufficiently 
+punished by the consequences of our insensibility ; for had we sent 
+speedy relief to <a href='/results.php?city=savannah' rel='city'>Savannah</a> when besieged, which the common rules of 
+policy and prudence required the enemy would not perhaps have been 
+in possession of it at this day; but by perpetually neglecting the present and vainly hoping, that time would adjust matters and bring them 
+to a better issue ; we have established them in a situation, that they 
+never could have hoped to have arrived at. And yet we need not 
+despair if we have still courage and perseverence enough to make use of 
+the present opportunity, and by properly reinforcing our General, enable 
+him effectually to prevent their crossing. We must all be sensible of 
+the particular protection of <a href='/results.php?city=providence' rel='city'>Providence</a>, in blessings so often offered ; 
+and if we make a just estimate of its repeated favors, who is there but 
+must be touched with the highest gratitude, for our losses are only to be 
+imputed to the little concern we have shown to prevent them ; while a superior power never ceasing to protect us, does yet point out a short and 
+secure way of repairing all our former mistakes, by every man's resolving to do his duty, thereby providing for the safety of his country, and 
+doing all in his power to retrieve her reputation. Those who neglect or 
+do not improve the favorable opportunities offered by <a href='/results.php?city=providence' rel='city'>Providence</a>, forget 
+the acknowledgments that are due to her, and the same imprudence 
+which makes them unfortunate, makes them ungrateful ; for in the 
+minds of men, the last accident commonly impresses the character of misfortune or happiness upon the whole. It is time for us to reform our 
+false mode of reasoning and to be truly ashamed of our want of public 
+virtue. We should preserve at least what remains to prevent an eternal 
+stain upon our reputation. Nor is our interest less at stake. For 
+Georgia being now in their possession, what barrier have we to secure 
+us from the conquerors ? I could mention a number of little skirmishes, 
+that we have lately been unsuccessful in, but as the recital is disagree 
+able, I will pass them over. We must surely be convinced by this 
+time that we have been exceedingly remiss in suffering these encroachments upon our neighbours ; that we have a restless and enterprising 
+enemy to deal with, that all their present designs are levelled against 
+this town, and that all opposition to them, tends in some degree to the 
+safety of the State for can any one be so weak as to imagine that they 
+would undergo all the fatigues and hazards of a winter campaign merely 
+to possess a few paltry posts on <a href='/results.php?city=savannah' rel='city'>Savannah</a> river, and rather not with an 
+eye to this place ? Will they suffer us (if they can prevent it) to enjoy 
+the advantages this town affords, and take up their quarters in a swamp ? 
+No ! they endure the one that they may possess the other. We should 
+in time reflect, what must be the last fatal scene of the bloody tragedy, 
+if while they act the parts of indefatigable conquerors, we remain the 
+patient and gentle spectators of their unbounded violence. Can any be 
+so weak-sighted as not to see that the war is hastening to us ? It must 
+be blindness in them, who will not perceive that the calamities, the 
+Georgians now endure, are the same that are preparing for themselves 
+I fear we shall sometime or other pay very dear for those soft and easy 
+moments we now enjoy through the fatal remissness of our present 
+disposition. You will perhaps say, how easy it is to find fault that 
+censuring is every body's talent ; but that few do their duty, and that 
+those who censure most do the least they who deliver this opinion are 
+commonly right ] however, I shall endeavor as long as I am able to do 
+ray duty, and hope that in a little time the major part of my country 
+men will do the same. My compliments to my cousin, conclude me 
+Your affectionate nephew, 
+</p><p>
+<a href="/results.php?tla=ccp" rel="me">CHARLES COTESWORTH PINCKNEY</a>.
+</p>
+</letter>

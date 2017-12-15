@@ -1,0 +1,59 @@
+<letter id="nic3008">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="9">September</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+In consequence of your letter of the 18th instant, 
+we have sent out our small armed vessel with orders 
+to Captain Whipple to relinquish the voyage to Bermuda, and to prolong his cruise for the packet to 
+the 6th day of October. 
+</p><p>
+Agreeably to your advice I have communicated 
+the proposed adventure to Bayonne to the Congress, 
+and most heartily wish it may be pursued, as the 
+ability and integrity of De Ville are perfectly relied 
+upon here. The following extract from Governor 
+Trumbull's letter to me, of the 18th instant, will in 
+form you of his sentiments respecting the enterprise, 
+and his reasons for declining to take a part in it. 
+</p><p>
+"In mine of the 11th instant, in answer to your 
+esteemed favor of the 9th, I acquainted you with my 
+purpose to lay your letter before my Council, on 
+Thursday, the 14th, which I did. They approve your 
+proposition ; the way appears to them promising at 
+the same time we have advanced money so largely 
+for that article, and have great reason to expect a 
+supply in a similar method, that they judge it not 
+expedient for us to proceed further at this time. It 
+is an article which requires our attention, and wish 
+every method, that appears probable to obtain it, may 
+be pursued. I hope General <a href='/results.php?city=washington' rel='city'>Washington</a> will hearken 
+to your application, and suitably encourage and promote your generous design." 
+</p><p>
+The time for which the combined army was enlisted being nearly expired, it is of great importance 
+to provide some method of reenlisting them, in order 
+to keep up a sufficient force to restrain the enemy 
+during the winter, and to take the field in the 
+spring. My anxious concern on this head, which appears to me to be of the last importance, will excuse 
+my suggesting to you the necessity of giving it the 
+earliest attention, as I greatly fear difficulties may 
+arise which will require time to obviate, and I can 
+safely assure you of the concurrence of this Colony 
+in every prudent measure for the effecting this most 
+essential point. I am, with great truth and respect, 
+Sir, your Excellency's most humble and 
+</p><p>
+Most obedient servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p><p>
+P. S. Since the sailing of the small vessel, I 
+observe, in the <a href='/results.php?city=new york' rel='city'>New York</a> papers, that a packet is 
+arrived there from Falmouth, which I take to be the 
+same that Captain Whipple was sent after. If so, the opportunity is lost ; but by extending his cruise 
+a little longer, he may have a chance for the August packet. 
+</p>
+</letter>

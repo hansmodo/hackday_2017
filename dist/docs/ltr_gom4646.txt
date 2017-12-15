@@ -1,0 +1,38 @@
+<letter id="gom4646">
+<recipient first="William" last="Carmichael" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="3">March</a> <a rel='day origin' value='4'>4th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+Since I had the pleasure of writing to you on the fourth of 
+January by our friend, Mr Short, I am without any of your 
+letters. I lament this, because they always communicate to 
+me both pleasure and instruction, 
+</p><p>
+As far as I can judge, this nation approaches to the point 
+where the vigor of laws must supply the place of enthusiastic 
+zeal, for this latter begins to abate. There will, however, be 
+enough to furnish out a considerable force, when the weather 
+grows a little warmer, especially should events somewhat distant, and rather untoward, require great exertion. Another 
+supposition, (for I do not here notice that continuation of vic 
+tories which people can easily reconcile themselves to,) another 
+supposition is a heavy reverse at a distant point. Now the 
+effect of this would, I think, be various, according to the nature of the calamity. If for instance the enemy should strike 
+a blow, it would probably rouse the nation into effort. If a 
+great project should fail, it would probably spread despondency. 
+</p><p>
+So much for calculation, which after all must depend on 
+some moral causes, which neither France nor the Allies seem 
+sufficiently to estimate, but which with me have very great 
+weight. I believe it more easy to conquer by laws than by 
+arms ; and had I been counsellor to the Duke of Brunswick 
+and Company, I would have repeated to hid from Shakspeare, 
+that when lenity and cruelty play for kingdoms, the gentlest 
+gamester is the surest winner. And so, my dear old friend, 
+adieu. Reproach yourself sometimes for not writing often, 
+and always believe me with truth and affection yours, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p></p>
+</letter>

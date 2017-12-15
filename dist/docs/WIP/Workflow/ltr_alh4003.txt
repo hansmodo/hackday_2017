@@ -1,0 +1,51 @@
+<letter id="alh4003">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+[Private.] 
+</p><p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="9">Sept.</a> <a rel='day origin' value='3'>3d</a>, <a href='/results.php?year=1792' rel="origin">1792</a>. 
+</p><p>
+My Dear Sir, 
+</p><p>
+The proceedings at <a href='/results.php?city=pittsburgh' rel='city'>Pittsburgh</a>, which you will find stated 
+in the enclosed paper, and other incidents in the western parts of this State, announce so determined and persevering 
+a spirit of opposition to the laws, as, in my opinion, to 
+render a vigorous exertion of the powers of government 
+indispensable. I have communicated this opinion to the 
+president, and I doubt not his impressions will accord with 
+it. In this case, one point for consideration will be the 
+expediency of the next circuit court's noticing the state of 
+things in that quarter, particularly the meeting at <a href='/results.php?city=pittsburgh' rel='city'>Pittsburgh</a>, 
+and its proceedings. You will observe an avowed object 
+is to " obstruct Reoperation of the law.*' This is attempted 
+to be qualified by a pretence of doing it by "every legal 
+measure." But "legal measures" " to obstruct the operation of a law," is a contradiction in terms. I therefore 
+entertain no doubt, that a high misdemeanor has been committed. The point, however, is under submission to the 
+attorney-general for his opinion. 
+</p><p>
+There is really, my dear sir, a crisis in the affairs of the 
+country, which demands the most mature consideration of 
+its best and wisest friends. 
+</p><p>
+I beg you to apply your most serious thoughts to it, and 
+favour me, as soon as possible, with the result of your 
+reflections. Perhaps it will not be amiss for you to converse with <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a>. His judgment is sound. He has 
+caution and energy. 
+</p><p>
+Would a proclamation from the president be advisable, 
+stating the criminality of such proceedings, and warning all 
+persons to abstain from them, as the laws will be strictly 
+enforced against all offenders '. 
+</p><p>
+If the plot should thicken, and the application of force 
+should appear to be unavoidable, will it be expedient for the 
+president to repair in person to the scene of commotion ? 
+</p><p>
+These are some of the questions which present themselves. The subject will doubtless open itself in all its 
+aspects to you. With real respect, and affectionate attachment, I remain, dear sir, 
+</p><p>
+Your obedient servant, 
+</p><p>
+<a href="/results.php?tla=alh" rel="me">Alexander Hamilton</a>. 
+</p>
+</letter>

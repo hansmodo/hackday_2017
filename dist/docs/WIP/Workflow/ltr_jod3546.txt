@@ -1,0 +1,26 @@
+<letter id="jod3546">
+<recipient first="Abigail" last="Adams"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, 	<a rel="day origin" value='4'>4</a> <a rel="month origin" value="12">December</a>, <a href='/results.php?year=1782' rel="origin">1782</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+YOUR proposal of coming to Europe has long and 
+tenderly affected me. The dangers and inconveniences are such, and a European life would be so dis 
+agreeable to you, that I have suffered a great deal of 
+anxiety in reflecting upon it. And upon the whole, I 
+think it will be most for the happiness of my family, 
+and most for the honor of our country, that I should 
+come home. I have, therefore, this day written to 
+Congress a resignation of all my employments, and as 
+soon as I shall receive their acceptance of it, I will 
+embark for America, which will be in the spring or 
+beginning of summer. Our son is now on his journey from Petersburg, through Sweden, Denmark, 
+and Germany, and if it please God he come safe, he 
+shall come with me, and I pray we may all meet once 
+more, you and I never to separate again. 
+Yours most tenderly, 
+</p><p>
+<a href='/results.php?tla=jod' rel='me'>J. ADAMS</a>.  
+</p>
+</letter>

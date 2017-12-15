@@ -1,0 +1,17 @@
+<letter id="mbc7799">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='6'>June</a> <a rel='day origin' value='27'>27th</a> [<a href='/results.php?city=camden' rel='city origin'>CAMDEN</a>, S. C., <a href='/results.php?year=1865' rel="origin">1865</a>]. An awful story from Suniter. An old gentleman, who thought his son dead or in a Yankee prison, 
+heard some one try the front door. It was about midnight, and these are squally times. He called out, " What is 
+that? " There came no answer. After a while he heard some one trying to open a window and he fired. The house 
+was shaken by a fall. Then, after a long time of dead silence, he went round the house to see if his shot had done 
+any harm, and found his only son bathed in his own blood on his father's door-step. The son was just back from a 
+Yankee prison one of his companions said and had been made deaf by cold and exposure. He did not hear his 
+father hail him. He had tried to get into the house in the same old way he used to employ when a boy. 
+</p><p>
+My sister-in-law in tears of rage and despair, her servants all gone to " a big meeting at Mulberry/ though 
+she had made every appeal against their going. " Send them adrift," some one said, " they do not obey you, or 
+serve you; they only live on you." It would break her heart to part with one of them. But that sort of thing 
+will soon right itself. They will go off to better themselves we have only to cease paying wages and that is easy, for we have no money. 
+</p>
+</letter>

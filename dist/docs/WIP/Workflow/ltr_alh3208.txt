@@ -1,0 +1,50 @@
+<letter id="alh3208">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=newark' rel='city origin'>Newark</a>, <a rel="day origin" value="23">23</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+I wrote to your Excellency, the evening of the 
+20th, by Major Neville. I remained in the neighbourhood of Black Point till the afternoon following. 
+The Count had received his expected despatches from 
+Congress, and was to sail, as I mentioned before, the 
+first fair wind. At Brunswick, yesterday, Mr. Caldwell joined me. He was immediately from the Point, 
+and brought intelligence that the fleet got under 
+way yesterday morning. The wind, unfortunately, 
+has been much against them, which is so much the 
+more to be regretted, as they are rather in want of 
+water. I need not suggest to your Excellency that 
+an essential part of the Rhode Island plan is, to take 
+every possible measure to watch the enemy's motions, and to establish the expresses from place to 
+place, to give the Count instant information of any 
+movement among their fleet. This will enable him to be in time to intercept them, should they attempt 
+to evacuate <a href='/results.php?city=new york' rel='city'>New York</a> while he is at Rhode Island, 
+and will, in general, facilitate the intercourse and co 
+operation between him and your Excellency. 
+</p><p>
+I have nothing new to communicate, besides what 
+was sent by Major Neville, and what I now send. 
+All the ideas interchanged between the Count and 
+myself were such as were familiar before I left 
+head-quarters. He was to go to Rhode Island, and, 
+in conjunction with <a href='/results.php?tla=jsu' rel='colleague'>General Sullivan</a>, endeavour to 
+possess himself of the enemy's ships and troops there, 
+if; on his arrival, he had good reason to think it 
+could be effected without further assistance. If not, 
+he will be glad of a reenforcement from you in the 
+most expeditious manner possible. What manner you 
+think will be most expeditious, you will adopt; and, 
+if his aid may be useful, he will afford it as soon as 
+he is informed of it. 
+</p><p>
+This being the case, my immediate presence at 
+head-quarters is the less necessary, as to this business ; and I hope your Excellency will indulge me, 
+if I do not make all the despatch back which a case 
+of emergency would require, though I do not mean 
+to delay more than a moderate attention to my frail 
+constitution may make not improper. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=alh" rel="me">ALEXANDER HAMILTON</a>. 
+</p>
+</letter>

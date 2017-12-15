@@ -1,0 +1,54 @@
+<letter id="gom4520">
+<recipient first="George" last="Washington" type="individual"/>
+</p><p>
+<a href='/results.php?city=morrisania' rel='city origin'>Morrisania</a>, <a rel="month origin" value="11">November</a> <a rel='day origin' value='12'>12th</a>, <a href='/results.php?year=1788' rel="origin">1788</a>. 
+</p><p>
+Dear General, 
+</p><p>
+After many unforeseen delays, I am about shortly to take 
+my departure from Philadelphia for the kingdom of France, 
+and I expect to visit both Holland and England. When I 
+desire to be favored with your commands, it is not the mere 
+ceremonious form of words, which you may every day meet 
+from every man you meet, and which you know better than 
+any man how to estimate at its true value. Whether I can be 
+useful to you in any way, I know not ; but this I know, that 
+you may command my best endeavors. And I now desist 
+from farther profession on that subject, because I am sure you 
+know my sincerity. 
+</p><p>
+You will oblige me by giving me letters of introduction to those persons, who may in your opinion be useful to me, and 
+to whom you may think it proper to present me. Among others to <a href='/results.php?tla=thj' rel='acquaintance met'>Mr Jefferson</a>, with whom I have only a slight acquaintance. I believe I once mentioned to you my wish, not to be 
+encumbered with the letters introductory of the many, who are prone to give them. I think them a kind of paper money ; 
+which is not only of little value, but which is not always a reputable, though a legal tender. I solicit yours, as an undoubted 
+bill of exchange, which is gold wherever it goes. Permit me, however, to pursue the mercantile phrase, or metaphor, and 
+honestly to request that you do not give me credit for more than I am worth, lest proving a bankrupt, you be called on by my creditors. 
+</p><p>
+I will pray your care of the enclosed to <a href='/results.php?tla=dah' rel='met'>Colonel Humphreys</a>, who, I doubt not, is still with you, and will, I expect, 
+come on with you in the spring. I promised you some Chinese pigs, a promise which I can perform only by halves ; 
+but such as I have I will send you; and, to piece and patch the matter as well as I may, in company with the pigs shall 
+be sent a pair of Chinese geese, which are really the foolishest geese ever beheld, for they choose all times for sitting but the spring, and one of them is now actually engaged in that business. 
+</p><p>
+It would be degrading to the noble race of man, should I 
+introduce politics after hogs and geese. This is a tolerable 
+excuse for saying nothing, but the truth is I have nothing to 
+say. I am of the breed of optimists, and believe that all will 
+go well, for you will certainly be seated in the President's 
+chair, and will, I am certain, when there greatly labor to prevent things from going ill. As to the rest, I heartily agree in 
+the text, that " the wisdom of man is foolishness with God," 
+having seen both fools and folly succeed in a most surprising 
+manner. And the only key to such sort of success, that I 
+ever met with, was in a sarcastic remark on three lawyers of 
+New York; Smith given to the study of divinity, Alexander 
+deep in mathematics, and C. deep in nothing. Smith, said the 
+wag, is always in the clouds ; Alexander loses himself in 
+angles and triangles ; the only sensible man at the bar is C. 
+for he talks nonsense to a common jury. 
+</p><p>
+Present, I pray you, my sincere respects to Mrs Washington. It is my fervent wish, that neither she nor you may regret 
+the shades of Mount Vernon. But this is more my wish, than expectation, for I do not believe it possible for you to be more 
+happily placed, at least if I may judge from what I saw and what I felt. I am yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>.
+</p>
+</letter>

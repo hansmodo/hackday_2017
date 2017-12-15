@@ -1,0 +1,35 @@
+<letter id="nib5271">
+<recipient first="Charles" last="Ingersoll" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Phil'a</a>. <a rel='day origin' value='26'>26th</a> <a rel="month origin" value="2">Feby</a>. <a href='/results.php?year=1832' rel="origin">1832</a>. 
+</p><p>
+My dear Sir 
+</p><p>
+I yesterday wrote a hasty letter explaining my views in regard to the modifications suggested of the Charter of the 
+Bank. In addition to what was then said of the disposition of the Bank, to acquiesce in any modification which may 
+protect the rights of the States from any encroachment by the Bank I will now add that if the President wishes to 
+stipulate that no new Branch shall be established without demeanour and vivacity of speech, added to great powers of work, and acuteness 
+in detecting the foibles of others, made him a formidable opponent. Further, his 
+marriage with the sister of Bischoffswerder, until lately the King's favourite adviser, added to his influence, which, as was natural with a foreigner, inclined 
+toward the attractive and gainful course. Long afterwards the saviour of Prussia, 
+Baron von Stein, classed him among the narrow, selfish, insincere men who had 
+been the ruin of nations." Cf. Rose, J. H., William Pitt and the Great War (Lon 
+don, <a href='/results.php?year=1912'>1912</a>), p. 203; also cf. Seeley, Stein, vol. I, p. 65. 
+</p><p>
+
+</p><p>
+From Charles Jared Ingersoll 1 8 7 
+</p><p>
+the assent of the State in which it is proposed to locate it, 
+I think there would be no objection to it on the part of the 
+Bank 
+</p><p>
+In truth I believe there is no change desired by the Presi 
+dent which would not be immediately assented to by the 
+Bank. And this it is which gives me so much regret, to find 
+the President &amp; the Bank apparently estranged while there 
+is really no difference between them, and to see the Presidents 
+friends lose the present opportunity of settling the question 
+so well, &amp; so advantageously for him. 
+</p>
+</letter>

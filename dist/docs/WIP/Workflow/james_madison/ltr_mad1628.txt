@@ -1,0 +1,58 @@
+<letter id='mad1628'>
+<recipient first='George' last='Washington' type='individual'/>
+<p>
+<a href="/results.php?city=new york" rel="city">New York</a>, November 5, <a href="/results.php?year=1788">1788</a>. 
+</p><p>
+DEAR SIR, The enclosed memorandum was put into my 
+hands by Mr. St. John, the French Consul. He is a very worthy man, and entitled, by his philanthropy and zealous patronage of whatever he deems useful, to much esteem and regard. 
+You will therefore oblige me by putting it in my power to afford him the little gratification he asks. I have another request 
+to trouble you with, which concerns myself. Col. H. Lee tells 
+me that he has purchased the tract of land through which the 
+canal at the great falls is to run, and on which the basin will 
+be, for 4,000. The tract contains 500 acres only, and is under 
+the incumbrance of a rent of 150 sterling per annum; but, on 
+the other hand, derives from its situation, as he supposes, a certain prospect of becoming immensely valuable. He paints it, 
+in short, as the seat of an early town, the lots of which will be 
+immediately productive, and possessing other peculiar advantages which make the bargain inestimable. In addition to many 
+instances of his friendship, he tenders me a part in it, and urges 
+my acceptance on grounds of advantage to myself alone. I am 
+thoroughly persuaded that I am indebted for the proposal to 
+the most disinterested and affectionate motives; but knowing 
+that the fervor with which he pursues his objects sometimes 
+affects the estimate he forms of them, and being in no condition 
+to make hazardous experiments, it is advisable for me to have 
+the sanction of other judgments to his opinions. You are well 
+acquainted with the situation, and can at once decide whether 
+it presents the material and certain advantages on which Col. 
+Lee calculates. A general intimation, therefore, of the light in 
+which the matter strikes you, will lay me under a very particular obligation. I am by no means sure that in any result it 
+will be in my power to profit by Col. Lee's friendship, but it 
+may be of some consequence whether the opportunity be worth 
+attending to or not. 
+</p><p>
+My information from <a href="/results.php?city=richmond" rel="city">RICHMOND</a> is very unpropitious to federal policy. Yours is no doubt more full and more recent. A 
+decided and malignant majority may do many things of a disagreeable nature, but I trust the Constitution is too firmly established to be now materially vulnerable. The elections for 
+the Legislature of Pennsylvania, New Jersey, and Maryland, 
+ensure measures of a contrary complexion in those States. Indeed, Virginia is the only instance among the ratifying States 
+in which the politics of the Legislature are at variance with the 
+sense of the people, expressed by their Representatives in Convention. We hear nothing from Massachusetts or New Hampshire since the meeting of their general Courts. It is understood that both the appointments and arrangements for the 
+Government will be calculated to support and, as far as possible, to dignify it. The public conversation seems to be not yet 
+settled on the Vice President. <a href='/results.php?tla=joh' rel='co-worker'>Mr. Hancock</a> and <a href='/results.php?tla=jod' rel='co-worker met'>Mr. Adams</a> 
+have been most talked of. The former, it is said, rejects the 
+idea of any secondary station; and the latter does not unite the 
+suffrages of his own State, and is unpopular in many other 
+places. As other candidates, however, are not likely to present 
+themselves, and New England will be considered as having 
+strong pretensions, it seems not improbable that the question 
+will lie between the gentlemen above named. <a href='/results.php?tla=joj' rel='co-worker'>Mr. Jay</a> and 
+<a href='/results.php?tla=hek' rel='co-worker'>General Knox</a> have been mentioned, but it is supposed that 
+neither of them will exchange his present situation for an unprofitable dignity. 
+</p><p>
+I shall leave this in a day or two, and am not yet finally determined how far my journey may be continued Southward. A 
+few lines on the subject above mentioned will either find me in 
+<a href="/results.php?city=philadelphia" rel="city">Philadelphia</a>, or be there taken care of for me. Should anything occur here or elsewhere worth your attention, it shall be 
+duly communicated by, 
+</p><p>
+Dear Sir, your very respectful and affect. serv. 
+</p>
+</letter>

@@ -1,0 +1,79 @@
+<letter id="joj4173">
+<recipient first="Richard" last="Peters" type="individual"/>
+<p>
+<a href='/results.php?city=bedford' rel='city origin'>Bedford</a>, <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1811' rel="origin">1811</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I have received your letter of the 25th November. 
+Although the privations you voluntarily submit to, exceed 
+the " ne quid nimis" of the wise man, they evince a sound 
+mind, and will, I hope, tend to preserve it long in a sound 
+body. 
+</p><p>
+My inquiries respecting speltz were in terms too general. 
+To sow wheat here is like taking a ticket in a lottery ; 
+more blanks than prizes. The fly destroys more than we 
+reap. A substitute, therefore, is desirable ; and if speltz, like: 
+rye, escapes the ravages of that insect, it might be a good 
+one. 1 did not recollect that it required a particular process 
+for cleaning. As we have no mill here adapted to that 
+purpose, it would be useless to introduce it. 
+</p><p>
+From your description of the rye sent to you from 
+France, it appears far to exceed the kind we have. 1 wish 
+that instead of dividing it. you had sowed the whole in your 
+own ground, and distributed parcels <>t the increase. It is 
+said that the quality of rye depends greatly on that of the 
+soil. The prevailing opinion here is, that the rye of this 
+country is all of one and the same species, and yet in some 
+parts the rye bread is excellent, and in others black and 
+strong. The weight and quality of the rye you mention 
+lead me to suspect that it is of another species, or a distinct 
+variety. I doubt there being danger of its depreciating, 
+unless sown too near our own, or in particular cases of 
+neglect. I know but of one kind of grain which, notwithstanding good management, depreciates here ; and that 
+is oats. 
+</p><p>
+I am glad your second volume will soon be published. 
+I expect to read it with pleasure, especially as there has 
+been a hand in it which can make a " goose-quill" diffuse 
+the " utile" and the " dulce" through many a page. I suppose a number will be printed for sale; if so, be so good 
+as to desire the bookseller to send for me six sets. I mean 
+to place a set in our town library, and to distribute others 
+among certain persons in the neighbourhood, who, in my 
+opinion, would make a proper use of them. 
+</p><p>
+Among the accounts you received from Doctor Logan, 
+there are some which I did not expect, particularly those 
+which respect the relative state of the manufactures and 
+agriculture of England. In the present violent fluctuation 
+of European affairs, it does not appear to me extraordinary 
+that bullion should occasionally be scarce, and paper depreciate even in England. I suspect it to be merely occasional 
+and transient, for I have heard of no adequate cause which 
+could produce and continue to produce such effects. That 
+nation, I am persuaded, wish to be and remain on friendly 
+terms with us. I have some reason to believe that the idea 
+of "dividing" is not a new one. If the micrometer is practically accurate, the inventor has done more than I should 
+have expected. 
+</p><p>
+Civil discord, it seems, is assigning to Spanish America 
+a part in the prodigious tragedy now exhibiting on the theatre of the world. We have seen and heard of strange 
+things, and unless you should take your " French leave" 
+before the curtain drops, you will doubtless see and hear of 
+many more. I expect to take my leave more deliberately, 
+but probably more early. Be that as it may, it is a comfortable reflection, that when we do, hope will be the only 
+article in Pandora's box that we shall take with us. Although a little more indisposed than I lately was, I am still 
+much less unwell than I was at this time last year ; so that 
+at present there is some prospect of my living to see further 
+proofs of the perfectibility of human nature by modern 
+philosophers, and of the increased illumination of this age 
+of reason. 
+</p><p>
+Adieu, my dear sir. 
+</p><p>
+Yours, sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

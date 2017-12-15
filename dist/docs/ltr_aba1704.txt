@@ -1,0 +1,27 @@
+<letter id="aba1704">
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href="http://www.familytales.org/results.php?city=weymouth" rel="city">Weymouth</a>, Sunday Evening, 14 September, <a href="http://www.familytales.org/results.php?year=1767">1767</a>. 
+</p><p>
+MY DEAREST FRIEND, 
+</p><p>
+THE Doctor talks of setting out to-morrow for New 
+<a href="http://www.familytales.org/results.php?city=braintree" rel="city">Braintree</a>. I did not know but that he might chance 
+to see you in his way there. I know from the tender affection you bear me and our little ones, that 
+you will rejoice to hear that we are well. Our son 
+is much better than when you left home, and our 
+daughter rocks him to sleep with the song of Come, 
+papa, come home to brother Johnny." Sunday seems 
+a more lonely day to me than any other when you 
+are absent ; for, though I may be compared to those 
+climates which are deprived of the sun half the 
+year, yet upon a Sunday you commonly afforded us 
+your benign influence. I am now at <a href="http://www.familytales.org/results.php?city=weymouth" rel="city">Weymouth</a>, my 
+father brought me here last night ; to-morrow I return home, where I hope soon to receive the dearest 
+of friends, and the tenderest of husbands, with that 
+unabated affection which has for years past, and will 
+whilst the vital spark lasts, burn in the bosom of your affectionate 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=aba" rel="me">A. ADAMS</a>. 
+</p>
+</letter>

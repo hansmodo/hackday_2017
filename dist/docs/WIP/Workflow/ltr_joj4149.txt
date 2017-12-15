@@ -1,0 +1,61 @@
+<letter id="joj4149">
+<recipient first="John" last="Trumbull" type="individual"/>
+<p>
+<a href='/results.php?city=albany' rel='city origin'>Albany</a>, <a rel='day origin' value='27'>27th</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1797' rel="origin">1797</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+I received, three days ago, by the post, your letter of the 
+7th of August, in which was a copy of the one you had 
+written on the 20th of July, and the original of which I had 
+received and read with pleasure. 
+</p><p>
+The difficulty and delicacy of your task, my good friend, 
+are obvious; but I natter myself the reputation to be derived 
+from it will soften the trouble and anxiety it gives you. It 
+was not to be expected that the judgments of the commissioners would not frequently differ, for the best judges 
+sometimes vary in opinion from each other ; but it is to be 
+expected, as well as wished, that their decisions may bear 
+the test of the severe examination which they will certainly 
+at one time or other undergo. 
+</p><p>
+The delays of the court of admiralty do not surprise me. 
+I have no faith in any British court of admiralty, though I 
+have the greatest respect for, and the highest confidence in 
+their courts of justice, in the number of which, those courts 
+do not deserve to be ranked. I do not extend this stricture 
+to the lords of appeal. 
+</p><p>
+The question you hint at is interesting. Perhaps a mode 
+might be devised for making and receiving claims de bene esse; but if any thing of that kind should be done, it should 
+be on more mature consideration than that on which I suggest it ; it is a thought which just occurred to me, and 
+which I have not examined. 
+</p><p>
+I am settled here with my family, at least for the winter. 
+The Legislature have determined that this city shall be the 
+seat of government, and that the principal public offices 
+shall be here. 
+</p><p>
+As to politics, we are in a better state than we were : 
+but we are not yet in a sound state. I think that nation is 
+not in a sound state whose parties are excited by objects 
+interesting only to a foreign power. I wish to see our 
+people more Americanized, if I may use that expression; 
+until we feel and act as an independent nation, we shall 
+always suffer from foreign intrigue. 
+</p><p>
+Whether peace in Europe would ensure peace to America, 
+is a question on which doubts are entertained. In my opinion, 
+it will depend on circumstances, and not on any right or 
+wrong about the matter. 
+</p><p>
+Remember me to our friends, <a href='/results.php?tla=ruk' rel='colleague met'>Mr. King</a>, and Mr. Gore. 
+I owe letters to them, and to others, but the fate of letters 
+has been so precarious, that I have written much fewer 
+than I should otherwise have done. 
+</p><p>
+I am, dear sir, yours sincerely, 
+</p><p>
+<a href="/results.php?tla=joj" rel="me">John Jay</a>. 
+</p>
+</letter>

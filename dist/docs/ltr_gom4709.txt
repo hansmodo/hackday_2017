@@ -1,0 +1,34 @@
+<letter id="gom4709">
+<recipient first="Edmund" last="Randolph" type="individual"/>
+<p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>,  <a rel="month origin" value="8">August</a> <a rel='day origin' value='18'>18th</a>, <a href='/results.php?year=1794' rel="origin">1794</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+This will accompany a duplicate of what I had the honor 
+to write on the twenty-third of last month. Since which, viz. 
+on the sixth instant, I received yours of the tenth of June ; 
+that of the twenty-ninth of April has not arrived. If I could 
+have permitted myself to have formed a personal wish, it 
+would have been precisely what has happened. To be recalled on the application of the Committee of Salut Public, and 
+to preserve, at the same time, the confidence of government, 
+is getting out of a wretched position on better terms than I 
+ever hoped for. Accept, therefore, my thanks, my sincere 
+and hearty thanks, and present them, I pray you, to the 
+President. My only remaining wish respecting this affair is, 
+that my successor may fully succeed, and realize the expectations of the United States, or even surpass them. 
+</p><p>
+It is, I think, proper to correct two things in my last now 
+enclosed. First, as to the dissolution of the alliance against 
+France. I incline to think, at present, that it will take on a 
+new form, instead of being dissolved. Secondly, as to the 
+harvest. It is less abundant than was supposed. I will not 
+say anything, just now, respecting Robespierre, &c. &tc. If 
+my return to America should be delayed, I will inform you 
+pretty fully of the state of things by the first safe opportunity. 
+Accept, in the mean time, the assurances of that esteem and 
+respect, with which I am, my dear Sir, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

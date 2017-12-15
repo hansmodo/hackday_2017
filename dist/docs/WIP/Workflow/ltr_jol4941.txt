@@ -1,0 +1,60 @@
+<letter id="jol4941">
+<recipient first="Henry" last="Laurens" type="individual"/>
+<p>
+HEAD QUARTERS, <a rel='day origin' value='18'>18th</a> <a rel="month origin" value="4">April</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+My Dear Father : 
+</p><p>
+I have barely time to inclose you a <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> 
+paper and to thank you for the epaulettes which you 
+were so kind as to send me. 
+</p><p>
+The General sends you a handbill which has been 
+artfully thrown out by the enemy, and which, unless 
+properly counteracted, will undubitably tend to foment disunion, perhaps the only and evidently the 
+surest method of destroying us. The deserters who 
+have come in lately say it is a common talk that overtures are to be made for a treaty of peace. Capt. Gibbes 
+of the General's guard is now at Lancaster, and I have 
+employed him to purchase me summer wear. My 
+want of it will depend upon his success. However, if what is at York is very good, I shall be very glad to 
+have as much as will make a skirtless waistcoat and a pair of breeches. 
+</p><p>
+With respect to the spurs which you have been so 
+kind as to take so much trouble about, my reason for 
+desiring James to have them changed was on account 
+of their weakness. Being all silver they are apt to 
+break; and I imagined that he might without difficulty exchange them for a pair of plated. If he can 
+not, he must get them mended and I must use them tenderly. 
+</p><p>
+Apropos to spurs, I think in the present deplorable 
+scarcity of good horses, it would be a very acceptable 
+present to the <a href='/results.php?tla=frs' rel='co-worker'>Baron Steuben</a> on the part of Congress 
+to give him an elegant saddle horse. He is exerting 
+himself like a lieutenant anxious for promotion, and 
+the good effects of his labour are visible. 
+</p><p>
+The General I apprehend is restrained from writing 
+to Congress on this head till he shall be acquainted 
+with the sentiments of the brigadiers respecting the 
+Baron's rank (but this between ourselves), as far as I 
+can learn in conversation with those gentlemen, every 
+one is convinced of his zeal and abilities, and thinks 
+him deserving of the grade which he asks for. 
+</p><p>
+Praying your indulgence for this hurried and 
+almost illegible production, 
+</p><p>
+I assure you of my constant love. 
+</p><p>
+<a href="/results.php?tla=jol" rel="me">JOHN LAURENS</a>.
+</p><p>
+All our foreign publications seem to regard an European war, as a certain consequence of the Elector of Bavaria's death. 
+</p><p>
+Mr. R. Strettle Jones, an ostensible and a very 
+intelligent man, writes from <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> to a friend 
+of his in the army that Lord Chatham was certainly 
+at the head of administration. 
+</p><p>
+The reports of a French war tho stifled as much as possible are generally believed." 
+</p>
+</letter>

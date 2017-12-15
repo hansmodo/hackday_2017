@@ -1,0 +1,29 @@
+<letter id="mbc7543">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='10'>10th</a> [<a href='/results.php?city=montgomery' rel='city origin'>MONTGOMERY</a>, Ala., <a href='/results.php?year=1861' rel="origin">1861</a>]. Mrs. Childs was here to-night (Mary Anderson, from Statesburg), with several children. She is 
+lovely. Her hair is piled up on the top of her head oddly. Fashions from France still creep into Texas across Mexican 
+borders. Mrs. Childs is fresh from Texas. Her husband is an artillery officer, or was. They will be glad to promote 
+him here. Mrs. Childs had the sweetest Southern voice, absolute music. But then, she has all of the high spirit of 
+those sweet- voiced Carolina women, too. 
+</p><p>
+Then Mr. Browne came in with his fine English accent, so pleasant to the ear. He tells us that Washington society 
+is not reconciled to the Yankee regime. <a href='/results.php?tla=mtl' rel=''>Mrs. Lincoln</a> means to economize. She at once informed the major-domo that 
+they were poor and hoped to save twelve thousand dollars 
+every year from their salary of twenty thousand. Mr. Browne said <a href='/results.php?tla=jeb' rel=''>Mr. Buchanan's</a> farewell was far more imposing than <a href='/results.php?tla=abl' rel=''>Lincoln's</a> inauguration. 
+</p><p>
+The people were so amusing, so full of Western stories. 
+</p><p>
+Dr. Boykin behaved strangely. All day he had been gaily driving about with us, and never was man in finer spirits. 
+To-night, in this brilliant company, he sat dead still as if in a trance. Once, he waked somewhat when a high public 
+functionary came in with a present for me, a miniature gondola, "A perfect Venetian specimen," he assured me 
+again and again. In an undertone Dr. Boykin muttered: " That fellow has been drinking." " Why do you think 
+so? " Because he has told you exactly the same thing four times. Wonderful ! Some of these great statesmen 
+always tell me the same thing and have been telling me the same thing ever since we came here. 
+</p><p>
+A man came in and some one said in an undertone, 
+" The age of chivalry is not past, O ye Americans! ?; 
+" What do you mean ? : That man was once nominated by <a href='/results.php?tla=jeb' rel=''>President Buchanan</a> for a foreign mission, but some Senator stood up and read a paper printed by this man abusive of a woman, and signed by his name in full. After that 
+the Senate would have none of him; his chance was gone forever. 
+</p>
+</letter>

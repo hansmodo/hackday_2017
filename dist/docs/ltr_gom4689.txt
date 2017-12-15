@@ -1,0 +1,61 @@
+<letter id="gom4689">
+<recipient first="Francois" last="Deforgues" type="individual"/>
+<p>
+[Translation]
+</p><p>
+<a href='/results.php?city=paris' rel='city origin'>Paris</a>, <a rel="month origin" value="12">December</a> <a rel='day origin' value='29'>29th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Sir, 
+</p><p>
+A letter, which I have just received from the citizen Griffith, informs me that he has been two months in prison, with 
+out any charge whatever being exhibited against him. It i 
+a long time since I solicited the liberty of this citizen, with the 
+persuasion of his innocence, but his long detention induces 
+me to apprehend that I may have been mistaken. I pray 
+you, Sir, to favor me with the cause of his detention, that I 
+may render an account of the same to the United States. 
+</p><p>
+Daily complaints are addressed to me from Bordeaux, 
+where the embargo is still in full force. Some exceptions in 
+favor of those vessels, said to be loaded on account of that re 
+public, have produced the effect, which might have been expected. Some, from a principle of respect for the government, suppose that these are individual speculations made on 
+the general misfortune, in the hope that the markets of the 
+United States, unfurnished in consequence of the embargo, 
+will offer an early and advantageous sale for the cargoes, 
+which have lately been despatched to them. Others insist 
+that the speculations in question are on the account of government, and you may easily conceive the sensations which 
+this idea produces. 
+</p><p>
+However it be, it seems to me necessary on every possible 
+account to remedy the evil as soon as possible. I demand 
+justice for my countrymen from the French Republic, not 
+only from a sense of duty to the United States, but also from 
+regard to France. Be assured, Sir, that your enemies could 
+not mark out for you a course of conduct more to your disadvantage, than that which I have just laid before you. 
+</p><p>
+I have the honor to subjoin to this letter, the copy of a petition sent to me by the American citizen, John Gray. He 
+informs me that on his arrival, on the loth of December, a 
+guard was placed on board his brig, and that a member of the 
+Committee at Subsistence told him, that he would be personally 
+responsible, if any portion of the rice were discharged, even 
+to nourish his own countrymen. He offered the cargo to this 
+Committee, which referred him to the Committee appointed to 
+purchase goods arriving in neutral vessels. This latter committee told him that they were not provided with the powers requisite to grant to any person whatever the conditions set forth 
+in his petitions, and that he must apply to the representatives 
+of the people in this city. These are too much occupied to 
+pay the least attention to his business. He therefore says to 
+me, as I can sell my cargo neither to the nation, nor to individuals, as I am forbidden to distribute it among my countrymen, 
+who are in a state of extreme suffering, let me at least be permitted to depart, and seek commerce and liberty elsewhere. 
+</p><p>
+You will observe, Sir, in the petition of citizen Gray, that he 
+was informed, during his passage, of the state of things at 
+Bordeaux, and that he decided to continue his route, only in 
+the opinion that the news he received was merely a calumny 
+invented by the enemies of France. I have no doubt that this 
+intelligence is now spread abroad in America. Judge then 
+whether it be not of moment to efface as soon as possible the 
+impression it may make. I have the honor to be, &tc. 
+</p><p>
+<a href="/results.php?tla=gom" rel="me">Gouverneur Morris</a>.  
+</p>
+</letter>

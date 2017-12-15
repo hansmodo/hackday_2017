@@ -1,0 +1,27 @@
+<letter id="nic3000">
+<recipient first="George" last="Washington" type="individual"/> 
+<p>
+<a href='/results.php?city=providence' rel='city origin'>Providence</a>, <a rel="day origin" value="12">12</a> <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1775" rel="origin">1775</a>. 
+</p><p>
+SIR, 
+</p><p>
+I beg leave to congratulate your Excellency upon 
+your being appointed General of the Armies of the 
+United Colonies, which hath given sincere pleasure 
+to every friend of America, and will, I hope, prove 
+glorious to yourself, and be attended with essential 
+advantages to your country. 
+</p><p>
+The General Assembly of this Colony have the 
+deepest sense of the necessity of a strict union, and 
+the most vigorous efforts, of the Colonies to preserve 
+them from unlimited servitude ; and their utmost Exertions in the common cause may be depended upon. 
+</p><p>
+I also assure your Excellency, that I shall give 
+you every possible assistance in my power; and that 
+I am with very great regard, Sir, your Excellency's 
+Most obedient humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nic" rel="me">NICHOLAS COOKE</a>.
+</p>
+</letter>

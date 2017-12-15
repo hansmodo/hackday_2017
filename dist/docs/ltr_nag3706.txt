@@ -1,0 +1,91 @@
+<letter id="nag3706">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel='day origin' value='31'>31</a> <a rel="month origin" value="10">October</a>,  <a href='/results.php?year=1780' rel="origin">1780</a>. 
+</p><p>
+Sir, 
+</p><p>
+On my arrival at this place, I laid your Excellency's letter before Congress, and addressed them 
+on the business of the Southern department. I am 
+happy to inform you that my appointment is perfectly agreeable to their views and wishes. But I 
+am sorry to acquaint you that, from the best account 
+I can get of the state and condition of the troops in 
+that quarter, nothing is to be expected from them, 
+unless large supplies can be forwarded from the 
+northward. They are altogether without clothing and 
+blankets, and totally unfit for any kind of service. 
+To carry them into the field, in this condition, will 
+only fill the hospitals, and sacrifice the lives of a 
+great many valuable men. Arms are not less wanting than clothing, and wagons as much as either. 
+Men, I believe, may be had, if it was in our power 
+to equip them for the field. But how we shall do 
+this, is difficult for me to imagine. Congress can 
+furnish no money, and the Board of War neither clothing nor other necessaries. Indeed, the prospect 
+is dismal and truly distressing. 
+</p><p>
+I beg your Excellency to urge, unceasingly, the 
+necessity of forwarding supplies for the Southern 
+army, as it will he impossible to carry on a winter 
+campaign without clothing. I have laid before Congress an estimate of our wants; but there is not the 
+shadow of a prospect of their being furnished, unless 
+constant attention is paid to the business. And I 
+am apprehensive, as soon as I am gone, and no one 
+left to urge our wants, they will soon be forgotten. 
+</p><p>
+The late success of the militia against Colonel Ferguson, I am in hopes will be attended with good 
+consequences. It will give a severe check to the 
+Tories, and spirit and confidence to the Whigs. A 
+report prevails this day that Lord Cornwallis has retreated precipitately from Charlotte towards Camden. 
+</p><p>
+The detachment of the enemy, that sailed lately 
+from <a href='/results.php?city=new york' rel='city'>New York</a>, are landed at <a href='/results.php?city=portsmouth' rel='city'>Portsmouth</a>, in Virginia ; and it is said the shipping are pushing up 
+the rivers. The troops have taken possession of the 
+great bridge, by which, I am told, they command all 
+the lower counties. 
+</p><p>
+How to employ our little force, if we are attacked 
+both in Virginia and North Carolina at the same 
+time, is difficult to determine. My first object will 
+be to equip a flying army, to consist of about eight 
+hundred horse, and one thousand infantry. This force, 
+with the occasional aid of the militia, will serve to 
+confine the enemy in their limits, and render it difficult for them to subsist in the interior country. I 
+see but little prospect of getting a force to contend 
+with the enemy upon equal grounds, and therefore 
+must make the most of a kind of partisan war, until 
+we can levy and equip a larger force. Such was the difficulty of getting provisions and providing the 
+means of transportation, that <a href='/results.php?tla=hog' rel='colleague'>General Gates</a> writes, in 
+his last letter, that the army was in the utmost danger of disbanding. 
+</p><p>
+Congress have invested me with the same powers 
+they gave to <a href='/results.php?tla=hog' rel='colleague'>General Gates</a>, and annexed Maryland 
+and Delaware to the Southern department. The arrangement of the army has taken place, and, I hope, 
+upon a footing which will render it more respectable 
+than it has been, provided the business of finance 
+can be got into some regular order. But that is our 
+weak side ; and I wish our distresses may be painted 
+in their true colors to the Minister of France, as he 
+intimated to <a href='/results.php?tla=frs' rel='colleague'>Baron Steuben</a> that your Excellency did 
+not appear to be apprehensive of any difficulty from 
+the state of our affairs. 
+</p><p>
+I have made application to the merchants of this 
+city for clothing for the Southern army; but they 
+excused themselves, as having engaged more already 
+than they can perform. I intend to try to put subscriptions on foot in Maryland and Virginia for the 
+purpose of supplying clothing. Whether it will produce any good or not, time only can determine. At 
+any rate I shall have the satisfaction of having done 
+all in my power; and if there is not public spirit 
+enough in the people to defend their liberties, they 
+will deserve to be slaves. 
+</p><p>
+<a href='/results.php?tla=hek' rel='colleague'>General Knox</a> promised to send forward a company 
+of artillery, if your Excellency approved thereof I 
+wish they may come forward, without loss of time. 
+This State have promised to lend me one thousand 
+stand of arms, upon a promise of their being replaced, which I beg your Excellency to give an order for, as this was the only footing they could be 
+obtained upon. I have the honor to be, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=nag" rel="me">Nathanael Greene</a>.
+</p>
+</letter>

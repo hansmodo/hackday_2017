@@ -1,0 +1,66 @@
+<letter id="jsu3006">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a rel="day origin" value="25">25</a> <a rel="month origin" value="6">June</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+This morning at daybreak, I received your Excellency's favor of the 16th instant; am extremely mortified to find that every thing here has turned out 
+contrary to my expectations, and your Excellency's 
+wishes. This was not owing to my being deceived 
+with respect to the enemy on the ground at the 
+time I wrote, but to the sudden arrival of such a 
+number under <a href='/results.php?tla=jhb' rel='adversary'>General Burgoyne</a>, the night before 
+the battle of Three Rivers, of which I have given 
+a full and perfect account in former letters. I 
+am conscious of having done every thing in my 
+power to gain the ground our troops had lost, and 
+to secure the retreat of the army, when I found our point could not be carried. I imagine that <a href='/results.php?tla=pjs' rel='colleague met'>General Schuyler</a> forgot to inclose the return, as I think -it 
+went from me at the time; "but I am not clear whether it did not go in a separate letter. I dare say 
+it has reached you before this. I now inclose an 
+other which I wish safe to hand, and hope to have 
+a more complete and , perfect one in a few days, 
+which I shall forward to your. Excellency. 
+</p><p>
+I am well convinced of the necessity of a good 
+understanding being kept up among the officers of 
+the army. This has been remarkably the case since 
+my arrival. I have not seen an instance to the contrary, except some few reflections which seemed to 
+take place between the northern and southern troops, 
+which I hope I have sufficiently cured by calling 
+upon the officers of every corps, and requesting them 
+to suppress a thing, which, if continued, must weaken, 
+if not destroy, the army. They all agreed to join 
+heartily in putting an end to this dangerous behaviour among the troops, which I am convinced they 
+did, as I have heard nothing of it since, and find 
+that harmony takes place among the troops in a surprising manner. In all our difficulties there seemed 
+a unanimity of sentiment among all the officers. 
+Indeed, I have not known the least dispute among 
+them. The unfortunate General Thompson, the Baron de Woedtke, and myself were at <a href='/results.php?city=sorel' rel='city'>Sorel</a>. Never did 
+greater harmony and friendship exist. <a href='/results.php?tla=bea' rel='colleague met'>General Arnold</a> was at Montreal, and kept up the most friendly 
+intercourse and correspondence with us, and we with 
+him. It is true, I thought the keeping Colonel De-haas from <a href='/results.php?city=sorel' rel='city'>Sorel</a> was wrong, but only supposed it an 
+error in judgment, as I did that of his keeping the 
+forces in too great numbers at the posts up the country. This I communicated to him in the most friendly manner, which he accounted for in a way 
+that convinced- me that he acted not without some 
+foundation ; though I think it would have been better 
+had it not been done. Assure yourself, my dear 
+General, that I will exert myself in cultivating harmony and friendship among both officers and soldiers 
+in the army, and that I am, with the most profound 
+respect, your Excellency's 
+</p><p>
+Most devoted, humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jsu" rel="me">JOHN SULLIVAN</a>. 
+</p><p>
+P. S. The Brigade-Major and Adjutant of the day 
+have this moment informed me, that, while they 
+were parading the main guard, four men dropped 
+down under arms, and appear like dead men. I am 
+almost distracted with the thought of losing so many 
+men as daily go off by sickness. I shall, to-day, remove from this infectious place to Isle-la-Motte, 
+which I should have done before now, had not too 
+many of our bateaux gone forward with the sick to 
+Crown Point. 
+</p>
+</letter>

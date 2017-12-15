@@ -1,0 +1,31 @@
+<letter id="mbc7609">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='3'>March</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Mary Preston went back to Mulberry with me from Columbia. She found a man there tall enough 
+to take her in to dinner Tom Boykin, who is six feet four, the same height as her father. Tom was very handsome in 
+his uniform, and Mary prepared for a nice time, but he looked as if he would so much rather she did not talk to 
+him, and he set her such a good example, saying never a word. 
+</p><p>
+Old Colonel Chesnut came for us. When the train stopped, Quashie, shiny black, was seen on his box, as 
+glossy and perfect in his way as his blooded bays, but the old Colonel would stop and pick up the dirtiest little negro 
+I ever saw who was crying by the roadside. This ragged little black urchin was made to climb up and sit beside 
+Quash. It spoilt the symmetry of the turn-out, but it was a character touch, and the old gentleman knows no law but 
+his own will. He had a biscuit in his pocket which he gave this sniffling little negro, who proved to be his man Scip's son. 
+</p><p>
+I was ill at Mulberry and never left my room. Doctor Boykin came, more military than medical. Colonel Chesnut brought him up, also Teams, who said he was down in the mouth. Our men were not fighting as they should. 
+We had only pluck and luck, and a dogged spirit of fighting, to offset their weight in men and munitions of war. I 
+wish I could remember Teams's words ; this is only his idea. His language was quaint and striking no grammar, but 
+no end of sense and good feeling. Old Colonel Chesnut, catching a word, began his litany, saying, " Numbers will 
+tell," :&lt; Napoleon, you know," etc., etc. 
+</p><p>
+At Mulberry the war has been ever afar off, but threats to take the silver came very near indeed silver that we had 
+before the Kevolution, silver that Mrs. Chesnut brought from Philadelphia. Jack Cantey and Doctor Boykin came 
+back on the train with us. Wade Hampton is the hero. 
+</p><p>
+Sweet May Dacre. Lord Byron and Disraeli make their 
+rosebuds Catholic; May Dacre is another Aurora Kaby. I like Disraeli because I find so many clever things in him. 
+I like the sparkle and the glitter. Carlyle does not hold up his hands in holy horror of us because of African slavery. 
+Lord Lyons l has gone against us. Lord Derby and Louis Napoleon are silent in our hour of direst need. People call 
+me Cassandra, for I cry that outside hope is quenched. From the outside no help indeed cometh to this beleaguered land. 
+</p>
+</letter>

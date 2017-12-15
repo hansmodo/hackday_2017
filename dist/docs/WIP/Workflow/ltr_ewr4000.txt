@@ -1,0 +1,70 @@
+<letter id="ewr4000">
+<recipient first="John" last="Jay" type="individual"/>
+<p>
+<a href='/results.php?city=philadelphia' rel='city origin'>Philadelphia</a>, <a rel="month origin" value="11">Nov.</a> 	<a rel='day origin' value='24'>24th</a>, <a href='/results.php?year=1776' rel="origin">1776</a>. 
+</p><p>
+My dear Jay, 
+</p><p>
+I expected long ere this to have been seated quietly at 
+home ; but the progress which the enemy had made, and 
+seemed likely to make, into your country, induced me to 
+suspend my resolution which I came to several months ago, 
+and assist with the whole of my power (little enough, God 
+knows) a State which appeared to be marked for destruction. The storm, however, has passed away ; and though I 
+have reason to dread its bursting upon the heads of my 
+countrymen, I cannot but most sincerely congratulate you 
+upon the event. I wish you may improve the time ; and if 
+you can concur with me in sentiment, it will be improved 
+in the following manner. Let Schuyler, whose reputation 
+has been deeply wounded by the malevolence of party spirit, 
+immediately repair to Congress, and after establishing himself in the good opinion of his countrymen, by a fair and 
+open inquiry into his conduct, concert with the House such 
+a plan as he shall think will effectually secure all the upper 
+country against the attacks of the enemy ; which plan being 
+agreed to by the House, give him full power to effect it, 
+and send him off with all possible despatch to carry it into 
+execution. Let steps be taken to place real obstructions in 
+the North River, at least in that part of it which can be commanded by Fort Montgomery, and the other fort in the 
+highlands. If these things be done, and that soon, your 
+country, I think, will be safe ; provided you establish a 
+good government, with a strong executive. A pure democracy may possibly do, when patriotism is the ruling 
+passion; but when the State abounds with rascals, as is the 
+case with too many at this day, you must suppress a little 
+of that popular spirit. Vest the executive powers of government in an individual, that they may have vigour, and 
+let them be as ample as is consistent with the great outlines 
+of freedom. As several of the reasons which operated mst you or Livingston's leaving the State are now 
+removed, I think you would be of vast service in Congress. 
+You know that body possesses its share of human weakness ; and that it is not impossible for the members of that 
+House to have their attention engrossed by subjects which 
+might as well be postponed for the present, while such as 
+require despatch have been — I had almost said — neglected. 
+This may he the case with the measures which should be 
+taken. for the defence of your State. It is therefore your 
+interest and your duty, if you are not prevented by some 
+superior public concern, to attend the House, and that soon : 
+you have a right to demand their attention, and I trust they 
+will give you early assistance. 
+</p><p>
+Every intelligence from New- York for the last ten days 
+convincing me that the enemy are preparing to attack 
+the State with a large body of troops, I shall take the wings 
+of the morning and hasten to mv native home ; where I 
+shall endeavour to render my country more service in the 
+field, than I have been able to render her in the cabinet. I 
+have therefore little time to write, and none to lengthen this 
+letter. I could not, however, think of quitting this part of 
+the continent without writing you what appeared to me of 
+consequence ; especially when I consider that it is probable, 
+at least possible, that this may be the last time I may have 
+it in my power to give you any evidence of my affection. 
+I shall add no more than that you have my best wishes for 
+your happiness, and that if I fall in the defence of my 
+country, it will alleviate my misfortune to think that it is in 
+the support of the best of causes, and that I am esteemed by 
+one of the best of men. God bless you. Adieu, my friend. 
+</p><p>
+Yours, sincerely, 
+</p><p>
+<a href="/results.php?tla=ewr" rel="me">E. RUTLEDGE</a>. 
+</p>
+</letter>

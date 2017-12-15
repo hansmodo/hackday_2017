@@ -1,0 +1,40 @@
+<letter id="edr4300">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=richmond' rel='city origin'>Richmond</a>, <a rel='day origin' value='4'>4</a> <a rel="month origin" value="1">January</a>, <a href='/results.php?year=1786' rel="origin">1786</a>. 
+</p><p>
+Sir, 
+</p><p>
+Inclosed I return to you the papers which accompanied your favor of the 25th ultimo. It did not 
+reach me until yesterday morning, when I submitted 
+the whole to the Assembly. But the approach of 
+the session to an end, forbids them to take up new 
+business. The day after to-morrow is fixed for their 
+departure, and much of what is now before them 
+must be left incomplete. I am therefore desired, by 
+the Speaker of the Delegates, to send the papers to 
+you, and to assure you that the Assembly are fully 
+sensible of your readiness to embrace every opportunity to improve the manufactures of our country. 
+You know, Sir, that the Executive cannot give an 
+establishment, or even aid, to M. de la Yallee, without the approbation of the Legislature. 
+</p><p>
+Although I was compelled, by duty, to lay before 
+the Council your answer to my notification of your 
+appointment to <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>, I was happy to find 
+them concurring with me in the propriety of entreating you not to decide on a refusal immediately. 
+Perhaps the obstacles now in view may he removed 
+before Mayj and the nomination of a successor, if 
+necessary at all, will be as effectually made some 
+time hence as now. Perhaps, too (and indeed I fear 
+the event), every other consideration may seem of. 
+little weight, wheu compared with the crisis which 
+may then hang over the United States. I hope, 
+therefore, that you will excuse me for holding up 
+your letter for the present, and waiting until time 
+shall disclose the result of the commotions now prevailing. I have the honor to be, Sir, 
+</p><p>
+With the most perfect esteem and respect, &c., 
+</p><p>
+<a href="/results.php?tla=edr" rel="me">Edmund Randolph</a>. 
+</p>
+</letter>

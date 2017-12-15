@@ -1,0 +1,21 @@
+<letter id="mbc7686">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='1'>January</a> <a rel='day origin' value='5'>5th</a> [<a href='/results.php?city=richmond' rel='city origin'>RICHMOND</a>, Va., <a href='/results.php?year=1864' rel="origin">1864</a>]. At Mrs. Preston's, met the Light Brigade in battle array, ready to sally forth, conquering and to 
+conquer. They would stand no nonsense from, me about staying at home to translate a French play. Indeed, the 
+plays that have been sent us are so indecent I scarcely know 
+where a play is to be found that would do at all. 
+</p><p>
+While at dinner the President's carriage drove up with only <a href='/results.php?tla=jbh' rel='acquaintance met'>General Hood</a>. He sent up to ask in Maggie Howell's 
+name would I go with them I tied up two partridges between plates with a serviette, for Buck, who is ill, and then 
+went down. We picked up Mary Preston. It was Maggie's drive; as the soldiers say, I was only on " escort 
+duty." At the Prestons , Major Venable met us at the door and took in the partridges to Buck. As we drove off Maggie said: " Major Venable is a Carolinian, I see." " No; 
+Virginian to the core. "But, then, he was a professor in the South Carolina College before the war." Mary Preston 
+said  "She is taking a fling at your weakness for all South Carolina." 
+</p><p>
+Came home and found my husband in a bitter mood. It has all gone wrong with our world. The loss of our private 
+fortune the smallest part. He intimates, " with so much human misery filling the air, we might stay at home and 
+think." " And go mad? " said I. " Catch me at it! A yawning grave, with piles of red earth thrown on one side ; 
+that is the only future I ever see. You remember Emma Stockton? She and I were as blithe as birds that day at Mulberry. I came here the next day, and when I arrived a telegram said : Emma Stockton found dead in her bed. It is awfully near, that thought. No, no. I will not stop and think of death always." 
+</p>
+</letter>

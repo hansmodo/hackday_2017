@@ -1,0 +1,16 @@
+<letter id='bsl849'>
+<recipient first='' last='' type='individual'/>
+<p>
+<a href='/results.php?city=san francisco' rel='city origin'>San Francisco</a><br/>  
+Nov. <a rel='day origin' value='5'>5th</a>, <a href="/results.php?year=1855">1855</a>
+</p><p>
+Friend Houghton,
+</p><p>
+In relation to the matter of the young man we spoke of, Mr. Broderick has told me if you will forward to him or to Gov. Bigler the recommendation to mercy in his favor, it shall be promply attended to.
+</p><p>
+Do not fail to pay attention to this. Of course I feel much interest in it, but would not have Vermule know it. It is a sad thing and enough to break his poor mother's heart. Your early attention is respectfully requested--
+</p><p>
+Yr. Obt. Servt.<br/>  
+<a href="/results.php?tla=bsl" rel="me">Benj. S. Lippincott</a>
+</p>
+</letter>

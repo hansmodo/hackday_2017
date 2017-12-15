@@ -1,0 +1,29 @@
+<letter id="cde3201">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+In the Road without Sandy Hook, <a rel="day origin" value="13">13</a> <a rel="month origin" value="7">July</a>, <a href='/results.php?year=1778' rel="origin">1778</a>. 
+</p><p>
+SIR, 
+</p><p>
+The desire of communicating speedily with your Excellency determines me to make a debarkation on 
+the coast of Jersey, in a village which, according to 
+the map, is to the northward of the river Shrewsbury. 
+If our common enemy are in possession, and can be 
+driven from it, I shall fulfil the object of my descent. 
+An instant of liberty will suffice for a good patriot 
+to show himself. Every citizen will be eager to convey my homage to the Deliverer of his country. The 
+first moments are so precious, above all upon sea, 
+that it may be of the greatest importance for me 
+to be informed, four-and-twenty hours sooner or later, 
+of the projects of your Excellency. I have orders to 
+second them. I dare assure you that I will do it to 
+the utmost of my power. To act in concert with a 
+great man is the first of blessings; it is one of those 
+which flatter me the most in the commission with 
+which I am honored. An apprehension that the letter, of which I have now the honor to send a duplicate, may not come to hand till late, makes me ha 
+rd a step, the motive for which must be the excuse. 
+I have the honor to be, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=cde" rel="me">ESTAING</a>. 
+</p>
+</letter>

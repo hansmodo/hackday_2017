@@ -1,0 +1,72 @@
+<letter id="gom4670">
+<recipient first="Thomas" last="Jefferson" type="individual"/>
+<p>
+<a href='/results.php?city=sainport' rel='city origin'>Sainport</a>, <a rel="month origin" value="8">August</a> <a rel='day origin' value='13'>13th</a>, <a href='/results.php?year=1793' rel="origin">1793</a>. 
+</p><p>
+Dear Sir, 
+</p><p>
+Enclosed herein you will find copies of my letters of the 
+twenty-seventh and twenty-eighth of June, and sixth of August, 
+to the Minister of Foreign Affairs, with copies of his letters 
+to me of the third, nineteeth, twenty-ninth, and thirtieth of July. 
+From these you will perceive, that my application for an order to the Minister of France in America to pay, out of the 
+funds to be furnished by the United States, the drafts made on 
+his predecessor from St Domingo, produced the desired effect. 
+Some subsequent circumstances have induced me to believe, 
+that under that cover an attempt will be made to pay the bills 
+drawn on Europe in favor of French citizens. I have certified signatures which seemed to be calculated for that purpose ; but, as I presume that measures will be taken of a cautionary nature, I shall not pretend to suggest any. 
+</p><p>
+You will perceive, Sir, in this correspondence one of the 
+many violations of our flag in the case of the Little Cherub, which, being attended with circumstances of peculiar atrocity, 
+called for more pointed animadversion. The conduct of the 
+government on the occasion was perfectly proper. The per 
+son, who committed the murder has, however, been acquitted 
+on the testimony of his companions, in direct contradiction to 
+that of the American master and crew. The case of the ship 
+is still depending, and I know not what will be the event. It 
+now appears that a part of the cargo on board of her was for 
+account of Flemish merchants, and to be delivered at Ostend. 
+But more of this presently. 
+</p><p>
+I must, however, take the liberty of recommending to the 
+notice of government, Francis Coffyn, of Dunkirk, an old deputy of Mr Barclay, while he was Consul General. On many 
+occasions, especially in the affair of the Little Cherub, he has 
+behaved with much sense, spirit, and industry. The conduct 
+of such business is by no means pleasant, neither is it without 
+some personal danger, for, in the present situation of this country, the laws are but little respected, and it would seem as if 
+pompous declarations of the rights of man were reiterated, only to render the daily violation of them more shocking. 
+</p><p>
+You will see, Sir, in my letter of the fourth of July, a 
+clause asking the liberty of an American citizen. In my applications on that subject, I have been very cautious, fearing 
+that I might be deceived by British seamen, and, consequently, that our countrymen might afterwards be without redress ; 
+as, in such case, the government here would throw all the 
+complaints aside as being unfounded. Among others, who 
+have asked the protection of the United States, are some Nantucket whalemen. And, at first, their requests were so artfully made, that I was near being the dupe. I have, however, 
+declined all interference in their favor, telling them that when 
+they embarked under a foreign and rival flag, they forfeited 
+by their own act the protection afforded by that of the United 
+States, and must console themselves in their present situation 
+by the privileges, which they formerly enjoyed, and which 
+tempted them to engage in the British service. This is the 
+general idea I have held out, but differently modified according to the various circumstances, which individuals have 
+brought forward. These people are a sort of citizens of the 
+world, and, wherever they went, were the most pernicious enemies to their native country ; because everywhere they solicited, either exclusion of, or else heavy duties on, the produce of our fisheries. At present, those who were settled 
+at Dunkirk have, I am told, engaged in privateering. Probably, if the war lasts, the whole hive may settle again within 
+the territory of the United States, and the more they endure, 
+in the mean time, the sooner will they adopt that salutary de 
+termination. 
+</p><p>
+The decree respecting neutral bottoms, so far as it regards 
+the vessels of the United States, has, as you will see, been 
+bandied about in a shameful manner. I am told from Havre, 
+that it is by the force of money, that the determinations, which 
+violate our rights, have been obtained; and on comparing 
+dates, events, and circumstances, this idea seems to be but too 
+well supported. I will make no comments on the facts, 
+because my opinions are of no consequence. The true state 
+of them will result from the enclosed pieces, and the United 
+States will judge thereon. I have, &c. 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=gom" rel="me">Gouverneur Morris</a>. 
+</p>
+</letter>

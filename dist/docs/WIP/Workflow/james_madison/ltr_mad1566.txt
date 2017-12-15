@@ -1,0 +1,22 @@
+<letter id='mad1566'>
+<recipient first='James' last='Madison' type='individual'/>
+<p>
+TO COL. JAMES MADISON. [SR.]
+</p><p>
+<a href="http://www.familytales.org/results.php?city=new york" rel="city">New York</a>, April 1st, <a href="http://www.familytales.org/results.php?year=1787">1787</a>. 
+</p><p>
+HON'D SlR, The general attention is now directed towards 
+the approaching Convention. All the States have appointed 
+deputies to it except Connecticut, Maryland, and Rhode Island. 
+The first, it is not doubted, will appoint, and the second has 
+already resolved on the expediency of the measure. Rhode 
+Island alone has refused her concurrence. A majority of more 
+than twenty in the Legislature of that State has refused to follow the general example. Being conscious of the wickedness 
+of the measures they are pursuing, they are afraid of everything 
+that may become a controul on them. Notwithstanding this 
+prospect of a very full and respectable meeting, no very sanguine expectations can well be indulged. The probable diversity of opinions and prejudices, and of supposed or real interests among the States, renders the issue totally uncertain. The 
+existing embarrassments and mortal diseases of the Confederacy 
+form the only ground of hope that a spirit of concession on all 
+sides may be produced by the general chaos, or at least partitions of the Union, which offers itself as the alternative. 
+</p>
+</letter>

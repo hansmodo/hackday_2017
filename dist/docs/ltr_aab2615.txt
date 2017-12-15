@@ -1,0 +1,34 @@
+<letter id="aab2615">
+<recipient first="James" last="Wilkinson" type="individual"/>
+<p>
+[ON the <a rel="day origin" value="29">29th</a> of <a rel="month origin" value="7">July</a>, <a href="/results.php?year=1806" rel="origin">1806</a>, Burr had dispatched, from 
+<a href="/results.php?city=philadelphia" rel="city origin">Philadelphia</a>, by the hands of Swartwout, to General Wilkinson, the following communication in cypher:]
+</p><p>
+Your letter, postmarked 13th May, is received. At length I have obtained funds, and have actually commenced. The eastern detachments from different points, and under different pretenses, will rendezvous on the 
+Ohio, 1st of November. Every thing internal and external favors our views. Naval protection of England is secured. Truxton is going to Jamaica, to arrange 
+with the Admiral on that station. It will meet us at the Mississippi. England, a navy of the United States, are 
+ready to join, and final orders are given to my friends and followers. It will be a host of choice spirits. Wilkinson shall be second to Burr only, and Wilkinson shall dictate the rank and promotion of his officers. BURR 
+will proceed westward 1st of August, never to return. With him go his daughter and grandson. The husband 
+will follow in October, with a CORPS of worthies. Send, forthwith, an intelligent friend with whom Burr may 
+confer. He shall return immediately with further interesting details : this is essential to harmony and concert 
+of movement. Send a list of all persons known to Wilkinson west of the mountains, who could be useful, with 
+a note delineating their character. By your messenger, send me four or five of the commissions of your officers, 
+which you can borrow under any pretense you please. They shall be retained faithfully. Already are orders 
+given to the contractor to forward six months' provision to points Wilkinson may name ; this shall not be used 
+until the last moment, and then under proper injunctions. Our project, my dear friend, is brought to a point 
+so long desired. Burr guarantees the result with his life and honor, with the lives, and honor, and the fortunes 
+of hundreds, the best blood of our country. Burr's plan of operation is to move down rapidly, from the falls, on 
+the 15th of November, with the first five hundred or one thousand men, in light boats now constructing for that 
+purpose, to be at <a href="/results.php?city=natchez" rel="city">Natchez</a> between the 5th and 15th of 
+December, there to meet you, there to determine whether it will be expedient, in the first instance, to seize on, or 
+pass by, Baton Rouge. ... on receipt of this, send Burr an answer, .... draw on Burr for all expenses, etc. 
+The people of the country to which we are going are prepared to receive us ; their agents, now with Burr, say 
+that if we will protect their religion, and will not subject them to a foreign power, that, in three weeks, all will be 
+settled. The gods invite us to glory and fortune; it remains to be seen whether we deserve the boon. The 
+bearer of this goes express to you; he will hand a formal letter of introduction to you, from Burr ; he is 
+a man of inviolable honor and perfect discretion, formed to execute rather than project, capable of relating facts 
+with fidelity, and incapable of relating them otherwise. He is thoroughly informed of the plans and intentions 
+of , and will disclose to you, as far as you inquire, and no further ; he has imbibed a reverence for your 
+character, and may be embarrassed in your presence; put him at ease, and he will satisfy you.
+</p>
+</letter>

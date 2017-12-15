@@ -1,0 +1,54 @@
+<letter id='mad1512'>
+<recipient first='James' last='Monroe' type='individual'/>
+<p>
+<a href="/results.php?city=richmond" rel="city">RICHMOND</a>, 8th January. <a href="/results.php?year=1785">1785</a>. 
+</p><p>
+DEAR SIR, Yours of the 18th ultimo came to hand yesterday. The view which it gives of the operations of the Cabinet 
+portends, I fear, a revival of those intrigues and contests of 
+ambition which have more than once distracted and dishonoured 
+the National Councils. Foreign appointments have generally 
+been the parents of those mischiefs, and ought for that reason, 
+when no other reasons oppose, to be rendered as unfrequent as 
+may be. 
+</p><p>
+The union between <a href='/results.php?tla=rhl' rel='co-worker'>R. H. Lee</a> and <a href='/results.php?tla=rol' rel='colleague'>R. R. Livingston</a> would 
+have been among the last of my predictions, nor can I fathom 
+the principle on which it is founded. 
+</p><p>
+The policy of healing the variance between the United States 
+and Great Britain is no doubt obvious; but I cannot enter into 
+the suspicions entertained of hostile designs in the latter. Her 
+internal situation renders them extremely improbable, and the 
+affairs of Ireland, as I conceive, absolutely incredible. What 
+could she hope for or aim at ? If the late war was folly, a new 
+one for the same object would be downright phrensy. Her illhumour is the natural consequence of disappointed and disarmed 
+ambition, and her disregard of the Treaty may, if not be justified, at least be accounted for by what has passed in the United 
+States. Let both parties do what neither can deny its obligation to do, and the difficulty is at an end. 
+</p><p>
+The contest with Spain has a more dangerous root. Not 
+only the supposed interests, but the supposed rights of the parties are in direct opposition. I hope, however, that both parties will ponder the consequences before they suffer amicable 
+negociation to become abortive. The use of the Mississippi is 
+given by nature to our Western Country, and no power on 
+Earth can take it from them. Whilst we asserv.our title to it, 
+therefore, with a becoming firmness, let us not forget that we 
+cannot ultimately be deprived of it, and that, for the present, 
+war is more than all things to be deprecated. Let us weigh 
+well, also, the object and the price, not forgetting that the Atlantic States, <fec., <fec I join in your wish that we had a 
+better Cypher, but <a href="/results.php?city=richmond" rel="city">RICHMOND</a> yields as few resources for amending ours as Trenton. I have not leisure myself, and can command the assistance of no other person. 
+</p><p>
+[Here the writer gives the same detail of the circumstances which prevented 
+the passage of the Bill respecting British debts as is contained in his letter of the 
+following day to <a href='/results.php?tla=thj' rel='co-worker met friend'>Mr. Jefferson</a>.] 
+</p><p>
+It was unlucky that one of the two Bills thus lost should be 
+that which will be most likely to involve our public character. 
+Before this accident, we had passed the Bill for opening the 
+Potomac and a similar one for James River, together with a 
+third, presenting to <a href='/results.php?tla=gwa' rel='co-worker met'>Gen Washington</a> a handsome portion of 
+shares in each of the companies, and had taken some other 
+measures for opening the commercial channel to the Western 
+Waters. As I shall not be in <a href="/results.php?city=richmond" rel="city">RICHMOND</a> to receive any
+which may be written hereafter, you will be so good as to address your future favors to <a href="/results.php?city=orange" rel="city">Orange</a>. 
+I am, dear sir, with sincerity, your friend and serv.t. 
+</p>
+</letter>

@@ -1,0 +1,12 @@
+<letter id="mbc7571">
+<recipient first="" last="" type="individual"/>
+<p>
+<a href='/results.php?city=fauquier white sulphur springs' rel='city origin'>Fauquier White Sulphur Springs</a>, Va. <a rel='month origin' value='7'>July</a> <a rel='day origin' value='6'>6</a>, <a href='/results.php?year=1861' rel="origin">1861</a>. Mr. Brewster came here with us. The cars were jammed with soldiers to the muzzle. They 
+were very polite and considerate, and we had an agreeable journey, in spite of heat, dust, and crowd. Rev. Robert 
+Baruwell was with us. He means to organize a hospital forsick and wounded. There was not an inch of standing-room even; so dusty, so close, but everybody in tip-top spirits. 
+</p><p>
+Mr. Preston and Mr. Chesnut met us at Warrenton. Saw across the lawn, but did not speak to them, some of 
+Judge Campbell's family. There they wander disconsolate, just outside the gates of their Paradise: a resigned 
+Judge of the Supreme Court of the United States : resigned, and for a cause that he is hardly more than half in sympathy with, Judge Campbell ?'s is one of the hardest cases. 
+</p>
+</letter>

@@ -1,0 +1,39 @@
+<letter id="mbc7729">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='7'>July</a> <a rel='day origin' value='26'>26th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. Isabella went with me to the bulletin-board. Mrs. D. (with the white linen as usual pasted on her chin) 
+asked me to read aloud what was there written. As I slowly read on, I heard a suppressed giggle from Isabella. I know 
+her way of laughing at everything, and tried to enunciate more distinctly to read more slowly, and louder, with 
+more precision. As I finished and turned round, I found myself closely packed in by a crowd of Confederate soldiers 
+eager to hear the news. They took off their caps, thanked me for reading all that was on the boards, and made way 
+for me, cap in hand, as I hastily returned to the carriage, 
+which was waiting for us. Isabella proposed, Call out to them to give three cheers for Jeff Davis and his generals. 
+" You forget, my child, that we are on our way to a funeral." 
+</p><p>
+Found my new house already open hospitably to all comers. My husband had arrived. He was seated at a pine 
+table, on which someone had put a coarse, red table-cover, and by the light of one tallow candle was affably entertaining Edward Barnwell, Isaac Hayne, and Uncle Hamilton. He had given them no tea, however. After I had remedied 
+that oversight, we adjourned to the moonlighted piazza. By tallow-candle-light and the light of the moon, we made 
+out that wonderful smile of Teddy's, which identifies him as Gerald Grey. 
+</p><p>
+We have laughed so at broken hearts the broken hearts of the foolish love stories. But Buck, now, is breaking her 
+heart for her brother Willie. Hearts do break in silence, without a word or a sigh. Mrs. Means and Mary Barnwell 
+made no moan simply turned their faces to the wall and died. How many more that we know nothing of ! 
+</p><p>
+When I remember all the true-hearted, the light-hearted, the gay and gallant boys, who have come laughing, singing, 
+and dancing in my way in the three years now past ; how I have looked into their brave young eyes and helped them 
+as I could in every way and then saw them no more forever ; how they lie stark and cold, dead upon the battle-field, or 
+moldering away in hospitals or prisons, which is worse I think if I consider the long array of those bright youths 
+and loyal men who have gone to their death almost before my very eyes, my heart might break, too. Is anything 
+worth it this fearful sacrifice, this awful penalty we pay for war? 
+</p><p>
+Allen G. says <a href='/results.php?tla=jpj' rel=''>Johnston</a> was a failure. Now he will wait and see what <a href='/results.php?tla=jbh' rel='acquaintance met'>Hood</a> can do before he pronounces judgment 
+on him. He liked his address to his army. It was grand and inspiring, but every one knows a general has not time 
+to write these things himself. Mr. Kelly, from New Orleans, says Dick Taylor and Kirby Smith have quarreled. 
+One would think we had a big enough quarrel on hand for one while already. The Yankees are enough and to spare. 
+General Lovell says, Joe Brown, with his Georgians at his back, who importuned our government to remove <a href='/results.php?tla=jpj' rel=''>Joe Johnston</a>, they are scared now, and wish they had not. 
+</p><p>
+In our democratic Republic, if one rises to be its head, whomever he displeases takes a Turkish revenge and defiles 
+the tombs of his father and mother; hints that his father was a horse-thief and his mother no better than she should 
+be; his sisters barmaids and worse, his brothers Yankee turncoats and traitors. All this is hurled at <a href='/results.php?tla=abl' rel=''>Lincoln</a> or Jeff Davis indiscriminately. 
+</p>
+</letter>

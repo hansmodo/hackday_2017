@@ -1,0 +1,97 @@
+<letter id="tip4953">
+<recipient first="Paine" last="Wingate" type="individual"/>
+<p>
+<a href='/results.php?city=salem' rel='city origin'>SALEM</a>, <a rel="month origin" value="8">August</a> the <a rel='day origin' value='25'>25th</a>, <a href='/results.php?year=1774' rel="origin">1774</a>. 
+</p><p>
+DEAR SIR : 
+</p><p>
+It will he agreeable to you to have an authentic account 
+of the recent transactions in this town. 
+Last Saturday notifications were posted up in many 
+places of the town, by order of the Committee of Correspondence, desiring the inhabitants to assemble at the town- 
+house yesterday morning at nine o clock. . . . At eight 
+o clock, I received a letter from the Secretary, informing 
+me that it was his Excellency the Governor's f desire, that 
+I and the rest of the Committee of Correspondence would 
+meet him at Colonel Browne's, for he had something of 
+importance to communicate to us. We waited on him there 
+at nine o clock, as requested. He first asked us if we 
+avowed the printed notifications for the meeting of the 
+inhabitants at that time. Captain [Richard] Derby, Jr., 
+answered in the affirmative. Says the Governor, As you 
+assembled the people, tis your duty to disperse them ; you 
+are the source, and must abide the consequences. Captain 
+Derby replied, Now the people are assembled, they will 
+act as they think best. We cannot oblige them to disperse. 
+The Governor declared it was an unlawful meeting, for 
+the seditious purpose of opposing an act of Parliament. 
+Captain Derby answered, Neither we nor the people 
+thought we were opposing even an act of Parliament, much 
+less the laws of the Province. Says the Governor, I am 
+not going to enter into a conversation about the matter, or 
+to determine quirks of law; the Attorney-General and 
+Colonel Browne (they were present, as well as the Secretary) will inform (or answer) you there. I came here to 
+execute the laws, (or acts of Parliament, I forget which,) 
+and I am determined to do it. Some other things passed, 
+but not material, and the Governor concluded thus: I 
+desire you to disperse the meeting of the inhabitants ; if 
+they disregard you, the Sheriff will go first; and if they do 
+not then disperse, and he needs support, I will support him, 
+and the people must abide the consequences. The Governor 
+appeared almost the whole time in an indecent passion, and 
+uttered the closing sentence with much vehemence. I was 
+told by Dr. Holten, yesterday, that the Governor had 110 
+rest from the time our notification appeared, scarcely sitting 
+half an hour in a day. The Attorney-General and the 
+High Sheriff were specially summoned for the purpose, and 
+orders were given to the regiment to be in order, who, 
+accordingly, equipped themselves as if for battle, and 
+marched from their encampment near our fort to the Neck 
+gate, where the main body (there are but about three hundred men, and about as many women and children) halted 
+and loaded ; then about eighty marched up street, almost 
+to brother Williams's. But before this movement of the 
+soldiers was known, and whilst we were in at Colonel Browne's, the inhabitants, being assembled at the town- 
+house, transacted all the business of the meeting, which 
+was merely to choose delegates f for a county meeting to 
+be held at Ipswich, on the 6th of September next, and 
+were actually broke up before we got to the town-house. 
+To-day Colonel Frye, by express orders from the Governor, 
+issued a warrant for apprehending the members of the Committee of Correspondence, who ordered the notifications to 
+be posted. These were Captain Richard Manning, brother 
+Williams, Mr. Jonathan Ropes, Jonathan Gardner, Jr., Mr. Sprague, and myself. Mr. Warwick Palfray was also 
+included, though not then present. Captain Derby was 
+omitted, being absent through indisposition ; but he had 
+expressly desired his brother Gardner to inform the Committee that he was for having a town-meeting. The High 
+Sheriff first came and arrested me. I went with him to Frye's. Mr. Sprague came up, and the Sheriff arrested 
+him also. Frye told us all that was required was this, 
+that we should each recognize in 100, without sureties, 
+to appear at the next Superior Court, to be held at Salem 
+the first Tuesday in November, to answer to the charge 
+against us in the warrant ; which was, for unlawfully and 
+seditiously assembling the people without leave from the 
+Governor, contrary to the laws and the statute in that case 
+lately made and provided. Mr. Sprague asked me what 
+was best to be done. I told him I thought we had better 
+recognize, which we did. My motives were these : I could 
+conceive no prejudice would arise to the cause in complying 
+so far. The warrant was issued and executed by lawful 
+officers. We need be under no apprehensions of being convicted of any crime, because the juries will be appointed as 
+heretofore ; (for I think it clear that no jury can be appointed agreeably to the act, in this county, till next March 
+term, and perhaps not till next March twelve months;) or 
+if a jury should be packed, (which is scarce possible,) and 
+we convicted, we should then have ample reason for a refusal of submission. If we opposed now, and the Governor 
+should persist in his attempts to execute the laws, a tumult 
+and carnage must ensue ; for the people are exasperated to 
+a high degree. These were the reasons I gave the rest of 
+the Committee ; and, although they at first thought it would 
+have been best to have refused to enter into recognizance, 
+yet they appeared entirely to acquiesce, (for the reasons I 
+gave,) and I supposed that, when arrested, they would recognize without hesitation. But they have since refused 
+before the Justice, Frye, who immediately, I am told, 
+posted off to the Governor to inform him of it. They told Frye, however, that they should be ready again to appear 
+before him, if summoned. The Governor, I doubt not, 
+will pursue the matter ; but I am inclined to think they will 
+comply, for the reasons above mentioned, which I shall urge 
+this evening at our meeting." 
+</p>
+</letter>

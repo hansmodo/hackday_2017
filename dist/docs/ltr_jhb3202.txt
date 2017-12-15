@@ -1,0 +1,34 @@
+<letter id="jhb3202">
+<recipient first="Horatio" last="Gates" type="individual"/>
+<p>
+Head-Quarters of the King's Army, upon the <a href='/results.php?city=hudson river' rel='city origin'>Hudson River</a>, <a rel="day origin" value="30">30</a> <a rel="month origin" value="8">August</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+Major-General Riedesel has requested me to transmit the in 
+closed to Lieutenant-Colonel Baum, whom the fortune of war put 
+into the hands of your troops at <a href='/results.php?city=bennington' rel='city'>Bennington</a>. 
+</p><p>
+Having never failed in my attentions towards prisoners, I can 
+not entertain a doubt of your taking this opportunity to show mea return of civility ; and that you will permit the baggage and 
+servants of such officers, your prisoners, as desire it, to pass to 
+them unmolested. 
+</p><p>
+It is with great concern I find myself obliged to add to this 
+application, a complaint of the bad treatment the Provincial soldiers in the king's service received after the affair at <a href='/results.php?city=bennington' rel='city'>Bennington</a>. 
+I have reports, upon oath, that some were refused quarter, after 
+having asked it. I am willing to believe that this was against 
+the order and inclination of your officers ; but it is my part to 
+require an explanation, and to warn you of the horrors of a retaliation, if such a practice is not, in the strongest manner, discountenanced and reprehended. 
+</p><p>
+Duty and principle, Sir, make me a public enemy to the Americans who have taken arms ; but I seek to be a generous one ; 
+nor have I the shadow of resentment against any individual, who does not induce it by acts derogatory to those maxims upon 
+which all men of honor think alike. 
+</p><p>
+Persuaded that a gentleman of the station to whom this letter is addressed, will not be comprised in the exception I have made, 
+</p><p>
+I am, personally, Sir, &c., 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=jhb" rel="me">JOHN BURGOYNE</a>. 
+</p>
+</letter>

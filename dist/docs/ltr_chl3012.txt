@@ -1,0 +1,34 @@
+<letter id="chl3012">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+Camp, <a href='/results.php?city=philipsburg' rel='city origin'>Philipsburg</a>, <a rel="day origin" value="26">26</a> <a rel="month origin" value="11">November</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+DEAR GENERAL, 
+</p><p>
+It never was my idea to leave the Highlands unguarded, but only for expedition's sake that <a href="http://www.familytales.org/results.php?tla=wih" rel="colleague met">Heath</a> 
+should detach two thousand of his corps immediately 
+over the river, and to replace these two thousand by 
+the same number, the most lightly accoutred, from 
+this body here, till the main body, with their baggage, cannon, &c., could move. I conceived this movement could be attended with no risk, as he has now 
+nothing to guard but the western passages; for there 
+is no possibility of their approaching by the eastern, 
+having, as I can learn, no vessels on the eastern 
+river to transport their cannon, and the road from 
+King's Bridge by land is now almost impracticable.
+</p><p>
+Yesterday they drew themselves in, and we made a sweep of the country from Phillips's house. Part of 
+the army have moved on. I set out to-morrow. No militia are come in to cover the country. I have 
+wrote most pressing letters on this subject to Trumbull, and hope they will have effect. I have been 
+equally urgent with Mr. Bowdoin for blankets, shoes, 
+&c. Indeed, our soldiers are not in a moving condition, but seem well disposed, and engage themselves 
+beyond expectation. But we are in great want of 
+money for bounty. I have been under the necessity, 
+without authority, to draw for this purpose. Several 
+deserters, come out to-day, inform us that a considerable embarkation is made for Amboy. 
+</p><p>
+I shall take care to obey your Excellency's order, in regard to my march, as exactly as possible; and am, 
+Dear General, yours, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=daw" rel="me">CHARLES LEE</a>. 
+</p>
+</letter>

@@ -1,0 +1,15 @@
+<letter id="mbc7625">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='4'>April</a> <a rel='day origin' value='15'>15th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1862' rel="origin">1862</a>]. Trescott is too clever ever to be a bore; that was proved to-day, for he stayed two hours ; as usual, 
+Mr. Chesnut said " four." Trescott was very surly; calls himself ex-Secretary of State of the United States; now, 
+nothing in particular of South Carolina or the Confederate States. Then he yawned, " What a bore this war is. I 
+wish it was ended, one way or another." He speaks of going across the border and taking service in Mexico. 
+" Rubbish, not much Mexico for you," I answered. Another patriot came then and averred, " I will take my family back to town, that we may all surrender together. I gave it up early in the spring." Trescott made a face behind backs, and said: " Lache! f&gt; 
+</p><p>
+The enemy have flanked <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> at Nashville. There is grief enough for Albert Sidney Johnston now; we 
+begin to see what we have lost. We were pushing them into the river when <a href='/results.php?tla=jpj' rel=''>General Johnston</a> was wounded. <a href='/results.php?tla=pgb' rel='met'>Beauregard</a> was lying in his tent, at the rear, in a green sickness melancholy but no matter what the name of the malady. 
+He was too slow to move, and lost all the advantage gained by our dead hero. Without him there is no head to our 
+Western army. Pulaski has fallen. What more is there to fall? 
+</p>
+</letter>

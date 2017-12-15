@@ -1,0 +1,32 @@
+<letter id="joh3200">
+<recipient first="George" last="Washington" type="individual"/>
+<p>
+<a href='/results.php?city=yorktown' rel='city origin'>Yorktown</a>, <a rel="day origin" value="9">9</a> <a rel="month origin" value="10">October</a>, <a href='/results.php?year=1777' rel="origin">1777</a>. 
+</p><p>
+SIR, 
+</p><p>
+It is with the highest pleasure I comply with the 
+order of Congress, in conveying to you the inclosed 
+resolve, expressing the thanks of that body to you 
+for the wise and well-concerted attack upon the enemy, near Germantown, on the 4th instant, and also 
+to the officers and soldiers for their brave exertions 
+on that occasion; and I must request you will communicate to them the distinguished mark of the approbation of their country. 
+</p><p>
+It is indeed true, that the best designs and boldest efforts may sometimes fail of success, through 
+unforeseen incidents, yet is it a source of satisfaction 
+to reflect, in such instances, that every thing has 
+been done to insure success, that human wisdom 
+could devise. Something must still be left to fortune. 
+It is not in mortals to command success. But permit 
+me to say, Sir, you have done more on this occasion ; 
+you have deserved it. 
+</p><p>
+Wishing, with the utmost sincerity, that your great 
+and virtuous exertions in the cause of freedom and 
+your country may be crowned with victory, I have 
+the honor to be, with perfect esteem and respect. Sir, 
+Your most obedient, and very humble servant, 
+</p><p>
+<a href="http://www.familytales.org/results.php?tla=joh" rel="me">JOHN HANCOCK</a>, President. 
+</p>
+</letter>

@@ -1,0 +1,83 @@
+<letter id="aba3440">
+<recipient first="Elizabeth" last="Shaw" type="individual"/>
+<p>
+<a href='/results.php?city=bush hill' rel='city origin'>Bush Hill</a>, (near <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a>,) <a rel="day origin" value="20">20</a> <a rel="month origin" value="3">March</a>, <a href="/results.php?year=1791" rel="origin">1791</a>. 
+</p><p>
+MY DEAR SISTER, 
+</p><p>
+I received, by Dr. W , your kind letter of February 14th. He was very punctual to his commission. 
+He has been three times to visit us. He came out this 
+afternoon to let me know that he should leave <a href='/results.php?city=philadelphia' rel='city'>Philadelphia</a> on Tuesday. By him I have to thank my dear 
+sister for three letters, and to confess myself much 
+in arrears. 'T is in vain to say that I have had a 
+sick family ; that I have had a large family ; that I 
+have been engaged in company. These are poor 
+excuses for not writing ; nor will I exculpate myself 
+by alleging that I wanted a subject. My pride would 
+not suffer such a plea. What, then, has been the 
+cause ? " Confess freely, and say that it was mere 
+indolence, real laziness," as in truth I fear it has 
+been. Yet conscience, that faithful monitor, has 
+reprehended me very, very often. I was very sick ; 
+(so sick, that I have not yet recovered the shock I 
+received from it,) for near two months before I left 
+<a href='/results.php?city=new york' rel='city'>New York</a>. When I got to this place, I found this 
+house just calculated to make the whole family sick ; 
+cold, damp, and wet with new paint. A fine place 
+for an invalid ; but, through a kind <a href='/results.php?city=providence' rel='city'>Providence</a>, I 
+sustained it, though others suffered. Happily, after 
+a very tedious two months, Thomas recovered so as 
+to get abroad ; but his health is now very infirm, and 
+I fear an attendance upon two offices through the 
+day, and studying through the evening at home, is 
+not calculated to mend it. But it is a maxim here, 
+that he who dies with studying dies in a good cause, 
+and may go to another world much better calculated 
+to improve his talents, than if he had died a blockhead. Well, knowledge is a fine thing, and mother 
+Eve thought so ; but she smarted so severelv for 
+hers, that most of her daughters have been afraid of 
+it since. 
+</p><p>
+We have had a very severe winter in this State, 
+as you may judge when I tell you that we have 
+consumed forty cords of w r ood in four months. It 
+has been as cold as any winter we have at the northward. The 17th and 18th of this month I dined 
+with all my windows open, put out the fires, and ate 
+ice to cool me ; the glasses at 80. This is the 
+20th. Yesterday it snowed nearly the whole day, 
+and to-day it is a keen northwester ; and I presume it will freeze hard to-night. Yet the verdure is 
+beautiful ; full as much as I shall find by the middle 
+of May in Massachusetts, where I hope then to be. 
+Yet I shall have some regrets at leaving this place, 
+just as the season begins to open all its beauties 
+upon me. I am told that this spot is very delightful 
+as a summer residence. The house is spacious. 
+The views from it are rather beautiful than sublime ; 
+the country round has too much of the level to be 
+in my style. The appearance of uniformity wearies 
+the eye, and confines the imagination. We have a 
+fine view of the whole city from our windows ; a 
+beautiful grove behind the house, through which 
+there is a spacious gravel walk, guarded by a number of marble statues, whose genealogy I have not 
+yet studied, as the last week is the first time I have 
+visited them. A variety of fine fields of wheat and 
+grass are in front of the house, and, on the right 
+hand, a pretty view of the Schuylkill presents itself. 
+But now for the reverse of the picture. We are 
+only two miles from town, yet have I been more 
+of a prisoner this winter than I ever was in my 
+life. The road from hence to the pavement, is one 
+mile and a half, the soil a brick clay, so that, when 
+there has been heavy rain, or a thaw, you must 
+wallow to the city through a bed of mortar without 
+a bottom, the horses sinking to their knees. If it 
+becomes cold, then the holes and the roughness are 
+intolerable. From the inhabitants of this place I 
+have received every mark of politeness and civility. 
+The ladies here are well-educated, well-bred, and 
+well-dressed. There is much more society than in 
+<a href='/results.php?city=new york' rel='city'>New York</a>, and I am much better pleased and satisfied than I expected to be when I was destined to remove here. Adieu. Your sister, 
+</p><p>
+A. A. 
+</p>
+</letter>

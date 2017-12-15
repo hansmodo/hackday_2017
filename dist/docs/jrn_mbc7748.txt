@@ -1,0 +1,34 @@
+<letter id="mbc7748">
+<recipient first="" last="" type="individual"/>
+<p>
+<a rel='month origin' value='11'>November</a> <a rel='day origin' value='25'>25th</a> [<a href='/results.php?city=columbia' rel='city origin'>COLUMBIA</a>, S. C., <a href='/results.php?year=1864' rel="origin">1864</a>]. <a href='/results.php?tla=wts' rel=''>Sherman</a> is thundering at Augusta's very doors. My General was on the wing, somber, and full 
+of care. The girls are merry enough ; the staff, who fairly live here, no better. Cassandra, with a black shawl over her 
+head, is chased by the gay crew from sofa to sofa, for she avoids them, being full of miserable anxiety. There is 
+nothing but distraction and confusion. All things tend to the preparation for the departure of the troops. It rains all 
+the time, such rains as I never saw before; incessant torrents. These men come in and out in the red mud and 
+slush of Columbia streets. Things seem dismal and wretched to me to the last degree, but the staff, the girls, 
+and the youngsters do not see it. 
+</p><p>
+Mrs. S. (born in Connecticut) came, and she was radiant. She did not come to see me, but my nieces. She 
+says exultingly that " <a href='/results.php?tla=wts' rel=''>Sherman</a> will open a way out at last, and I will go at once to Europe or go North to my relatives 
+there/ How she derided our misery and " mocked when our fear cometh. I dare say she takes me for a fool. I sat 
+there dumb, although she was in my own house. I have heard of a woman so enraged that she struck some one over 
+the head with a shovel. To-day, for the first time in my life, I know how that mad woman felt. I could have given 
+Mrs. S. the benefit of shovel and tongs both. 
+</p><p>
+That splendid fellow, Preston Hampton; " home they brought their warrior, dead," and wrapped in that very 
+Legion flag he had borne so often in battle with his own hands. 
+</p><p>
+A letter from <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> to-day, under date of Richmond, Va., November 20, 1864. She says : "Affairs West 
+are looking so critical now that, before you receive this, you and I will be in the depths or else triumphant. I confess I 
+do not sniff success in every passing breeze, but I am so tired, hoping, fearing, and being disappointed, that I have 
+made up my mind not to be disconsolate, even though thieves break through and steal. Some people expect another attack upon Richmond shortly, but I think the avalanche will not slide until the spring breaks up its winter 
+quarters. I have a blind kind of prognostics of victory for us, but somehow I am not cheered. The temper of Congress 
+is less vicious, but more concerted in its hostile action." <a href='/results.php?tla=vad' rel='acquaintance met'>Mrs. Davis</a> is a woman that my heart aches for in the troubles ahead. 
+</p><p>
+My journal, a quire of Confederate paper, lies wide open on my desk in the corner of my drawing-room. Every 
+body reads it who chooses. Buck comes regularly to see what I have written last, and makes faces when it does not 
+suit her. Isabella still calls me Cassandra, and puts her hands to her ears when I begin to wail. Well, Cassandra 
+only records what she hears ; she does not vouch for it. For really, one nowadays never feels certain of anything. 
+</p>
+</letter>

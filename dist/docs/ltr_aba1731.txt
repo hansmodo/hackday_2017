@@ -1,0 +1,69 @@
+<letter id='aba1731'>
+<recipient first="John" last="Adams" type="individual"/>
+<p>
+<a href="/results.php?city=braintree" rel="city">Braintree</a>, <a rel="day origin" value="7">7</a> <a rel="month origin" value="5">May</a>, <a href="/results.php?year=1776" rel="origin">1776</a>. 
+</p><p>
+How many are the solitary hours I spend, ruminating upon the past, and anticipating the future, whilst 
+you, overwhelmed with the cares of state, have but a few moments you can devote to any individual. 
+</p><p>
+All domestic pleasures and enjoyments are absorbed in the great and important duty you owe your country, 
+
+<q>for our country is, as it were, a secondary 
+god, and the first and greatest parent. It is to be preferred to parents, wives, children, friends, and all 
+things, the gods only excepted ; for, if our country perishes, it is as impossible to save an individual, as 
+to preserve one of the fingers of a mortified hand.</q> 
+
+Thus do I suppress every wish, and silence every 
+murmur, acquiescing in a painful separation from the companion of my youth, and the friend of my heart. 
+</p><p>
+I believe t'is near ten days since I wrote you a line. I have not felt in a humor to entertain you if 
+I had taken up my pen. Perhaps some unbecoming invective might have fallen from it. The eyes of 
+our rulers have been closed, and a lethargy has seized almost every member. I fear a fatal security 
+has taken possession of them. Whilst the building is in flames, they tremble at the expense of water to 
+quench it. In short, two months have elapsed since the evacuation of <a href="/results.php?city=boston" rel="city">Boston</a>, and very little has been 
+done in that time to secure it, or the harbour, from future invasion. The people are all in a flame, and 
+no one among us, that I have heard of, even mentions expense. They think, universally, that there 
+has been an amazing neglect somewhere. Many have turned out as volunteers to work upon Noddle's 
+Island, and many more would go upon Nantasket, if the business was once set on foot. " T'is a maxim of state, that power and liberty are like heat and 
+moisture. Where they are well mixed, everything prospers ; where they are single, they are destructive." 
+</p><p>
+A government of more stability is much wanted in this colony, and they are ready to receive it from 
+the hands of the Congress. And since I have begun with maxims of state, I will add another, namely, 
+that a people may let a king fall, yet still remain a people ; but, if a king let his people slip from him, 
+he is no longer a king. And as this is most certainly our case, why not proclaim to the world, in decisive terms, your own importance? 
+</p><p>
+Shall we not be despised by foreign powers, for hesitating so long at a word? 
+</p><p>
+I cannot say, that think you are very generous to the ladies for, whilst you are proclaiming peace and 
+good-will to men, emancipating all nations, you insist upon retaining an absolute power over wives. 
+But you must remember, that arbitrary power is like most other things which are very hard, very liable 
+to be broken and, notwithstanding all your wise laws and maxims, we have it in our power, not only to 
+free ourselves, but to subdue our masters, and, with out violence, throw both your natural and legal authority at our feet. 
+</p>
+<q>Charm by accepting, by submitting sway, Yet have our humor most when we obey.</q>
+<p>
+I thank you for several letters which I have received since I wrote last ; they alleviate a tedious 
+absence, and I long earnestly for a Saturday evening, and experience a similar pleasure to that which 
+I used to find in the return of my friend upon that day after a week's absence. The idea of a year dissolves all my philosophy. 
+</p>
+
+<p>
+Our little ones, whom you so often recommend to my care and instruction, shall not be deficient in 
+virtue or probity, if the precepts of a mother have their desired effect ; but they would be doubly en 
+forced, could they be indulged with the example of a father alternately before them. I often point them to their sire, 
+<q>engaged in a corrupted state, Wrestling with vice and faction.</q>
+</p>
+
+<p>
+9 May. 
+</p><p>
+I designed to have finished the sheet, but, an opportunity offering, I close, only just informing you that, May the 7th, our privateers took two prizes in 
+the bay, in fair sight of the man-of-war ; one, a brig from Ireland ; the other from Fayal, loaded with 
+wine, brandy, &c. ; the other with beef, &c. The wind was east, and a flood tide, so that the tenders 
+could not get out, though t they tried several times ; the lighthouse fired signal guns, but all would not do. They took them in triumph, and carried them into Lynn. 
+</p><p>
+Pray be kind enough to remember me at all times, and write, as often as you possibly can, to your 
+</p><p>
+<a href="/results.php?tla=aba" rel="me">PORTIA</a>. 
+</p>
+</letter>
