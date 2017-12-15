@@ -87,7 +87,36 @@ function onResultsCntrClick(evt){
   console.log("handleResultsCntrClick:",evt);
   let target = evt.target;
   if(target.classList.contains(Conf.CSS.RESULT_MORE)){
-    console.log(Conf.CSS.RESULT_MORE,' click');
+    let parentNode = document.querySelector('.'+Conf.CSS.READ_DOC);
+    console.log("...parentNode:",parentNode)
+    let docId = target.getAttribute('href').split('/').pop();
+    //console.log("....docId:",docId);
+    let filePath = chrome.extension.getURL('/docs/'+docId+'.txt');
+    //console.log("....filePath:",filePath);
+
+    let reader = new FileReader();
+    reader.onload = function(evt){
+      console.log("File ready");
+      parentNode.innerHTML = reader.result;
+    }
+
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', filePath, true);
+    xhr.responseType = 'blob';
+    xhr.onload = function(e) {
+      if (this.status == 200) {
+        console.log("success")
+        var myBlob = this.response;
+        // myBlob is now the blob that the object URL pointed to.
+        reader.readAsText(myBlob);
+      }
+    };
+    xhr.send();
+
+
+
+
+
     transitionToConfirm(Conf.CSS.READ_DOC);
   }
 }

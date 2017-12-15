@@ -26,7 +26,8 @@
   "web_accessible_resources":[
     "js/*.js",
     "css/*.css",
-    "images/*.png"
+    "images/*.png",
+    "docs/*.txt"
   ],
   "content_security_policy": "script-src 'self' https://www.youtube.com/iframe_api https://s.ytimg.com/yts/jsbin/; object-src 'self'"
 }
