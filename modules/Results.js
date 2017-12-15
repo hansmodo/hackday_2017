@@ -130,7 +130,7 @@ function applyYearFilter(docs){
       }
     });
   }
-  console.log("...",docs.length);
+  //console.log("...",docs.length);
   return docs;
 };
 
@@ -138,7 +138,7 @@ function sortBy(store){
   console.log("Results.sortBy",store);
   let docs = [];//store.aba;
   for(var set in store.results){
-    console.log("...iterating over set:",set);
+    //console.log("...iterating over set:",set);
     docs = [...docs,...store.results[set]];
   }
 
@@ -198,12 +198,12 @@ function makeItemNode(item, options={}){
 */
 function makeYearNode(year, options={}){
   //console.log("Results.makeYearNode: ",year);
-  let markup = `<li class="${Conf.CSS.FACET}"><label for="${year}"><input type="checkbox" value="${year}" id="${year}" ${options.isSubject ? 'checked':''}>${year}</label></li>`;
+  let markup = `<li class="${Conf.CSS.FACET}"><label for="${year}"><input type="checkbox" value="${year}" id="${year}" ${options.selected ? 'checked':''}>${year}</label></li>`;
   return Util.vivify(markup);
 };
 
-function makeAllYearsNode(){
-  let markup = `<li class="${Conf.CSS.FACET} ${Conf.CSS.ALL_YR_CNTRL}"><label for="all_years"><input type="checkbox" value="all_years" id="all_years" checked >All Years</label></li>`;
+function makeAllYearsNode(options={}){
+  let markup = `<li class="${Conf.CSS.FACET} ${Conf.CSS.ALL_YR_CNTRL}"><label for="all_years"><input type="checkbox" value="all_years" id="all_years" ${options.selected ? 'checked':''}>All Years</label></li>`;
   return Util.vivify(markup);
 }
 
@@ -237,12 +237,16 @@ function renderYears(){
   console.log("renderYears");
   let facetsCntr = parentNode.querySelector('.'+Conf.CSS.FACET_GRP+'.'+Conf.CSS.YR_FACETS);
   let uniqueYrs = store.getUniqueYears();
-  //console.log("...uniqueYrs:",uniqueYrs);
+  let filterYrs = store.getFilterYears();
+  let allBoxSelected = filterYrs.length === 0;
   let fragment = document.createDocumentFragment();
+  
   facetsCntr.innerHTML = '';
-  fragment.appendChild( makeAllYearsNode() );
+  //if any filter yrs then 'all' checkbox is unselected
+  fragment.appendChild( makeAllYearsNode({selected:allBoxSelected}) );
   uniqueYrs.forEach((item) => {
-    fragment.appendChild( makeYearNode(item, {}) );
+    let selected = (filterYrs.indexOf(item) > -1);
+    fragment.appendChild( makeYearNode(item, {selected:selected}) );
   });
 
   facetsCntr.appendChild(fragment);
@@ -261,7 +265,6 @@ function renderDocsPipeline(docs){
 */
 function update(resp){
   console.log("Results.update:", resp);
-  //render people
   resp.then(putResultSet)
   .then(sortBy)
   .then(applyYearFilter)
