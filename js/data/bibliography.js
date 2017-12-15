@@ -106,7 +106,9 @@ const sources = [ {"locator":"http://www.litchfieldhistoricalsociety.org/index.p
   {"locator":"https://archive.org/details/memoiroflifeofri01leer","title":"Memoir of the life of Richard Henry Lee, and his correspondence with the most distinguished men in America and Europe, illustrative of their characters, and of the events of the American revolution"},
   {"locator":"https://archive.org/details/biographicalnote00huntiala","title":"Biographical Notes Concerning General Richard Montgomery Together With Hitherto Unpublished Letters. 1876."},
   {"locator":"https://archive.org/details/withinfortsumter00shee","title":"Within Fort Sumter; or, A View of Major Anderson's Garrison Family for One Hundred and Ten Days, 1861"},
-  {"locator":"http://scriptorium.lib.duke.edu/greenhow/","title":"Rose O'Neal Greenhow Papers, An On-line Archival Collection, Special Collections Library, Duke University"}
+  {"locator":"http://scriptorium.lib.duke.edu/greenhow/","title":"Rose O'Neal Greenhow Papers, An On-line Archival Collection, Special Collections Library, Duke University"},
+  {"locator":"http://www.militarymuseum.org/Sheman2.html","title":"The California Military Museum"},
+  {"locator":"https://archive.org/details/diplomaticcorres01sparuoft","title":"The Diplomatic Correspondence of the American Revolution. Vol. I., Jared Sparks, 1829"}
 ];
 
 export {
