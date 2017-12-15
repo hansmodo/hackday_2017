@@ -28,7 +28,7 @@ let store = {
       //console.log(".......setYrs:",setYrs);
       years = years.concat(setYrs);
     }
-    return [...new Set(years)];
+    return [...new Set(years)].sort();
   },
   getFilterYears:() => {
     return this.store.filters.years;
@@ -242,7 +242,7 @@ function renderYears(){
   let fragment = document.createDocumentFragment();
   
   facetsCntr.innerHTML = '';
-  //if any filter yrs then 'all' checkbox is unselected
+  //if no filter yrs then 'all' checkbox is selected
   fragment.appendChild( makeAllYearsNode({selected:allBoxSelected}) );
   uniqueYrs.forEach((item) => {
     let selected = (filterYrs.indexOf(item) > -1);
