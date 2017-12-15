@@ -62,16 +62,22 @@ chrome.windows.onFocusChanged.addListener(function(window) {
 function handleFacetChange(data){
   console.log("App.handleFacetChange:",data);
   if(data && data.checked){
-    //search for more people
-    if(data.group ==='people'){
-      getSubjectDocs(data);
-    }
-    //filter by year
-    if(data.group === 'year'){
-      Results.setYear(data.subject);//e.g. display results w/these yrs.
+    switch(data.group){
+      case 'people':
+        getSubjectDocs(data);//search for more people
+        break;
+      case 'year':
+        Results.setYear(data.subject);//trigger results w/this yr.
+        break;
+      case 'location':
+        Results.setLocation(data.subject);//trigger results w/this location.
+        break;
+      default:
+        console.warn("cannot handle unknown facet type:",data.group);
+        break;
     }
   }
-}
+};
 
 /* -- Search --*/
 //only app file imports db and runs searches.

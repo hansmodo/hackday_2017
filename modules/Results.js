@@ -6,6 +6,7 @@ import * as Util from './Util';
 let parentNode = document.querySelector('.'+Conf.CSS.FACETS);
 
 //'client' data store of what's currently displayed. (vs indexedDB)
+//todo: combine/abstract the year/location filter methods.
 let store = {
   results:{},
   filters:{years:[],locations:[]},
@@ -67,6 +68,25 @@ let store = {
       items = items.concat(setItems);
     }
     return [...new Set(items)].sort();
+  },
+  resetFilterLocations:() => {
+    console.log("Results.store.resetFilterLocations");
+    this.store.filters.locations = [];
+    PubSub.publish('store:filter:location:updated',{locations:this.store.filters.locations});
+  },
+  setFilterLocation:(item) => {
+    console.log("Results.store.setFilterLocation:",item);
+    if( this.store.filters.locations.indexOf(item) == -1 && item !== Conf.CSS.ALL_LC_CNTRL){
+      this.store.filters.locations.push(item);
+      PubSub.publish('store:filter:location:updated',{locations:this.store.filters.locations});
+    }
+  },
+  deleteFilterLocation:(item) => {
+    console.log("Results store.deleteFilterLocation:",item);
+    let filters = this.store.filters.locations;
+    let idx = filters.indexOf(item);
+    filters.splice(idx,1);
+    PubSub.publish('store:filter:location:updated',{locations:this.store.filters.locations});
   }
 };
 
@@ -120,7 +140,12 @@ function deselectCheckboxes(grpType){
   facetCheckboxNodes.forEach((box) => {
     box.checked = false;
   });
-  store.resetFilterYears();
+  //todo: abstract the resetFilter methods to handle any facet type.
+  if(grpType === 'year'){
+    store.resetFilterYears();
+  }else{
+    store.resetFilterLocations();
+  }
 }
 
 /*
@@ -140,7 +165,7 @@ function onFacetChange(prop){
         console.log("...",prop.data.subject," was unchecked");
         store.deleteFilterYear(prop.data.subject);
       }
-      //check if every years unselected - if so check the 'all' box
+      //check if every item unselected - if so check the 'all' box
       //todo:this belongs in the Facets module.
       if(prop.data.subject !== Conf.CSS.ALL_YR_CNTRL){
         toggleAllItemsCheckboxSelect('year');
@@ -149,7 +174,17 @@ function onFacetChange(prop){
       }
       break;
     case 'location':
-
+      if(!prop.data.checked){
+        console.log("...",prop.data.subject," was unchecked");
+        store.deleteFilterLocation(prop.data.subject);
+      }
+      //check if every item unselected - if so check the 'all' box
+      //todo:this belongs in the Facets module.
+      if(prop.data.subject !== Conf.CSS.ALL_LC_CNTRL){
+        toggleAllItemsCheckboxSelect('location');
+      }else{
+        deselectCheckboxes('location');
+      }
       break;
     default:
       console.warn("unknown event type "+prop.type+" on results local store change.");
@@ -162,7 +197,8 @@ function onFacetChange(prop){
 */
 function onStoreDelete(prop){
   console.log("Results.onStoreDelete:",prop);
-  renderDocCounter( renderDocs( applyYearFilter( sortBy(store) ) ) );//todo: centralize this call
+  //todo: centralize this call
+  renderDocCounter( renderDocs( applyLocationFilter( applyYearFilter( sortBy(store) ) ) ) );
 }
 
 /*
@@ -180,6 +216,7 @@ function onFilter(data){
   console.log("Results.onFilter:",data);
   let docs = store.getDocs();
   docs = applyYearFilter(docs);
+  docs = applyLocationFilter(docs);
   renderDocsPipeline(docs);
 };
 
@@ -197,6 +234,23 @@ function applyYearFilter(docs){
   //console.log("...",docs.length);
   return docs;
 };
+/*
+* todo: combine/abstrct with 'applyYearFilter' above.
+*/
+function applyLocationFilter(docs){
+  console.log("applyLocationFilter:",docs.length);
+  let filters = store.getFilterLocations();
+  if(filters.length){
+    docs = docs.filter((doc) => {
+      if(doc.media && doc.media.city){
+        let docFacet = doc.media.city;
+        return (filters.indexOf(docFacet) > -1);
+      }
+    });
+  }
+  console.log("...",docs.length);
+  return docs;
+}
 
 function sortBy(store){
   console.log("Results.sortBy",store);
@@ -232,7 +286,13 @@ function setFilterYear(year){
   //console.log("Results.setFilterYear:",year);
   store.setFilterYear(year);
 };
-
+/*
+* display docs with only this or other selected locations.
+*/
+function setFilterLocation(item){
+  //console.log("Results.setFilterYear:",year);
+  store.setFilterLocation(item);
+};
 /*----- UI render methods ----*/
 /*
 * markup for a single group item.
@@ -363,6 +423,7 @@ function update(resp){
   resp.then(putResultSet)
   .then(sortBy)
   .then(applyYearFilter)
+  .then(applyLocationFilter)
   .then(renderDocs)
   .then(renderDocCounter)
   .then(renderYears)
@@ -376,10 +437,12 @@ PubSub.subscribe('store:active_facet:change', onFacetChange);
 PubSub.subscribe('store:result_set:deleted', onStoreDelete);
 PubSub.subscribe('store:result_set:put', onStorePut);
 PubSub.subscribe('store:filter:year:updated', onFilter);
+PubSub.subscribe('store:filter:location:updated', onFilter);
 
 export {
   putResultSet as put,
   update,
   setFilterYear as setYear,
+  setFilterLocation as setLocation,
   store
 }
