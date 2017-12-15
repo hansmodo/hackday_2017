@@ -33,9 +33,14 @@ let store = {
   getFilterYears:() => {
     return this.store.filters.years;
   },
+  resetFilterYears:() => {
+    console.log("Results.store.resetFilterYear");
+    this.store.filters.years = [];
+    PubSub.publish('store:filter:year:updated',{years:this.store.filters.years});
+  },
   setFilterYear:(year) => {
     console.log("Results.store.setFilterYear:",year);
-    if( this.store.filters.years.indexOf(year) == -1 ){
+    if( this.store.filters.years.indexOf(year) == -1 && year !== Conf.CSS.ALL_YR_CNTRL){
       this.store.filters.years.push(year);
       PubSub.publish('store:filter:year:updated',{years:this.store.filters.years});
     }
@@ -50,6 +55,7 @@ let store = {
 };
 
 /* ----- data store methods ---------*/
+//todo: move some of these methods into the store.
 function deleteResultSet(id){
   console.log("Results.deleteResultSet");
   delete store.results[id];
@@ -67,8 +73,40 @@ function setActiveFacet(data){
   store.activeFacet = data;
   PubSub.publish('store:active_facet:change',{type:'activeFacet', data:store.activeFacet});
 }
-
 /*----------------------------------*/
+
+//todo:this belongs in the Facets module.
+function toggleAllItemsCheckboxSelect(grpType){
+  console.log("toggleAllItemsCheckboxSelect");
+  let facetCheckboxNodes = Array.from(document.querySelectorAll('.facet-group'+'.'+grpType+' input'));
+  let allItems = facetCheckboxNodes.splice(0,1);
+  let allItemsNode = allItems.pop();
+  let len = facetCheckboxNodes.length;
+  console.log("...allItemsNode:",allItemsNode);
+  for(var i=0;i<=len;i++){
+    if(facetCheckboxNodes[i].checked){
+      //console.log("...found one, uncheck the box")
+      allItemsNode.checked = false;
+      break;
+    };
+    if(i === len){
+      //console.log("...end of loop, check the box")
+      allItemsNode.checked = true;
+    }
+  }
+};
+
+//todo:this belongs in the Facets module.
+function deselectCheckboxes(grpType){
+  console.log("deselectCheckboxes: ",grpType);
+  let facetCheckboxNodes = Array.from(document.querySelectorAll('.facet-group'+'.'+grpType+' input'));
+  facetCheckboxNodes.splice(0,1);
+  facetCheckboxNodes.forEach((box) => {
+    box.checked = false;
+  });
+  store.resetFilterYears();
+}
+
 /*
 * do something in response to a facet changing.
 */
@@ -86,6 +124,14 @@ function onFacetChange(prop){
         console.log("...",prop.data.subject," was unchecked");
         store.deleteFilterYear(prop.data.subject);
       }
+      //check if every years unselected - if so check the 'all' box
+      //todo:this belongs in the Facets module.
+      if(prop.data.subject !== Conf.CSS.ALL_YR_CNTRL){
+        toggleAllItemsCheckboxSelect('year');
+      }else{
+        deselectCheckboxes('year');
+      }
+
       break;
     default:
       console.warn("unknown event type "+prop.type+" on results local store change.");
@@ -98,7 +144,7 @@ function onFacetChange(prop){
 */
 function onStoreDelete(prop){
   console.log("Results.onStoreDelete:",prop);
-  renderDocCounter( renderDocs( applyYearFilter( sortBy(store) ) ) );
+  renderDocCounter( renderDocs( applyYearFilter( sortBy(store) ) ) );//todo: centralize this call
 }
 
 /*
@@ -240,7 +286,7 @@ function renderYears(){
   let filterYrs = store.getFilterYears();
   let allBoxSelected = filterYrs.length === 0;
   let fragment = document.createDocumentFragment();
-  
+
   facetsCntr.innerHTML = '';
   //if no filter yrs then 'all' checkbox is selected
   fragment.appendChild( makeAllYearsNode({selected:allBoxSelected}) );
